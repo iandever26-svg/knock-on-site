@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>knock-on — public site</title>
+  <meta name="description" content="Public site for the knock-on rugby scores app (privacy policy for Google Play)." />
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f6f7f6;
+      --fg: #1a1f1c;
+      --muted: #5a6560;
+      --border: #d5ddd8;
+      --accent: #0B6E4F;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0f1412;
+        --fg: #e8eee9;
+        --muted: #9aa89f;
+        --border: #2a3330;
+        --accent: #3dba8a;
+      }
+    }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      line-height: 1.55;
+    }
+    .wrap { max-width: 36rem; margin: 0 auto; padding: 2rem 1.1rem 3rem; }
+    h1 { font-size: 1.75rem; margin: 0 0 0.4rem; }
+    .accent { color: var(--accent); }
+    p { color: var(--muted); }
+    a.card {
+      display: block;
+      margin-top: 1.5rem;
+      padding: 1rem 1.1rem;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      text-decoration: none;
+      color: inherit;
+    }
+    a.card strong { color: var(--accent); }
+    a.card:hover { border-color: var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1><span class="accent">knock-on</span> public site</h1>
+    <p>
+      Hosted pages for the knock-on Android app (<code>com.tadhg.knockon</code>),
+      including the privacy policy required by Google Play.
+    </p>
+    <a class="card" href="privacy/">
+      <strong>Privacy policy →</strong><br />
+      How knock-on handles on-device data, accounts, and future push notifications.
+    </a>
+  </div>
+</body>
+</html>

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy — knock-on</title>
+  <meta name="description" content="Privacy policy for knock-on (com.tadhg.knockon), a rugby scores companion app." />
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f6f7f6;
+      --fg: #1a1f1c;
+      --muted: #5a6560;
+      --card: #ffffff;
+      --border: #d5ddd8;
+      --accent: #0B6E4F;
+      --accent-soft: rgba(11, 110, 79, 0.12);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0f1412;
+        --fg: #e8eee9;
+        --muted: #9aa89f;
+        --card: #171d1a;
+        --border: #2a3330;
+        --accent: #3dba8a;
+        --accent-soft: rgba(61, 186, 138, 0.14);
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      line-height: 1.55;
+    }
+    .wrap {
+      max-width: 42rem;
+      margin: 0 auto;
+      padding: 1.5rem 1.1rem 3rem;
+    }
+    header {
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .brand {
+      display: inline-block;
+      font-weight: 800;
+      letter-spacing: 0.02em;
+      color: var(--accent);
+      text-decoration: none;
+      margin-bottom: 0.75rem;
+    }
+    h1 {
+      font-size: 1.65rem;
+      line-height: 1.25;
+      margin: 0 0 0.5rem;
+    }
+    .meta {
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+    .disclaimer {
+      margin: 1rem 0 0;
+      padding: 0.75rem 0.9rem;
+      background: var(--accent-soft);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 8px 8px 0;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+    h2 {
+      font-size: 1.15rem;
+      margin: 1.75rem 0 0.55rem;
+      color: var(--accent);
+    }
+    p, li { font-size: 0.98rem; }
+    ul { padding-left: 1.2rem; }
+    li { margin: 0.35rem 0; }
+    a { color: var(--accent); }
+    footer {
+      margin-top: 2.5rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <a class="brand" href="../">knock-on</a>
+      <h1>Privacy Policy</h1>
+      <p class="meta">
+        <strong>Last updated:</strong> 22 September 2026<br />
+        <strong>App:</strong> knock-on (<code>com.tadhg.knockon</code>)
+      </p>
+      <p class="disclaimer">
+        This page summarises how knock-on handles data. It is provided for transparency and Google Play requirements; it is <strong>not legal advice</strong>.
+      </p>
+    </header>
+
+    <h2>Summary</h2>
+    <p>
+      knock-on is a rugby scores / fixtures companion aimed at Irish provincial fans.
+      Today it works largely from <strong>on-device data</strong> and optional deep links to third-party score sites.
+      There is <strong>no user account</strong> yet.
+    </p>
+
+    <h2>Data we store on your device</h2>
+    <ul>
+      <li>
+        <strong>Followed / favourite teams:</strong> saved locally with AsyncStorage (or equivalent on-device storage).
+        This data stays on your device unless you clear app storage or uninstall.
+      </li>
+      <li>We do <strong>not</strong> currently sync favourites to a server.</li>
+    </ul>
+
+    <h2>Accounts</h2>
+    <ul>
+      <li>
+        <strong>No account / sign-in</strong> in the current MVP. We do not collect email, password, or profile data for login.
+      </li>
+    </ul>
+
+    <h2>Push notifications (future)</h2>
+    <ul>
+      <li>
+        The app may later use <strong>Expo push notifications</strong>. That would involve an Expo push token
+        (and related device identifiers needed for FCM/APNs) sent to a backend we control so we can deliver alerts you opt into.
+      </li>
+      <li>Until that feature ships, we do <strong>not</strong> register for push or upload push tokens.</li>
+      <li>When enabled, this policy will be updated.</li>
+    </ul>
+
+    <h2>Third-party score sources</h2>
+    <ul>
+      <li>
+        In-app live score buttons may <strong>deep-link</strong> to third-party sites (e.g. Flashscore, Sofascore).
+        Those services have their own privacy policies; we do not scrape their pages for production scores.
+      </li>
+      <li>
+        Optional offline score JSON may be generated with developer tools and third-party APIs using keys that are
+        <strong>never shipped inside the app binary</strong>. End users of the store build are not sending those API keys.
+      </li>
+    </ul>
+
+    <h2>Analytics, ads, and tracking</h2>
+    <ul>
+      <li>
+        No third-party ads and no analytics SDKs in the current MVP. If that changes, this section will list providers and purposes.
+      </li>
+    </ul>
+
+    <h2>Children</h2>
+    <ul>
+      <li>
+        The app is a general sports utility. We do not knowingly collect personal data from children.
+        Google Play IARC content rating is to be confirmed in Play Console.
+      </li>
+    </ul>
+
+    <h2>Your choices</h2>
+    <ul>
+      <li>Change followed teams in Settings; clear app data or uninstall to remove local favourites.</li>
+      <li>Once push notifications exist, you can revoke notification permission in system settings.</li>
+    </ul>
+
+    <h2>Changes</h2>
+    <ul>
+      <li>
+        We will update this page when behaviour changes (accounts, push, analytics, etc.).
+        The in-app Privacy link points at this hosted URL.
+      </li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>
+      For privacy questions, use the contact options on the
+      <strong>Google Play listing for knock-on</strong> (<code>com.tadhg.knockon</code>).
+      A dedicated privacy email may be added to this page later.
+    </p>
+
+    <footer>
+      <p>Published for Play Store and in-app Settings. Source markdown is maintained in the private knock-on app repository.</p>
+      <p><a href="../">← Back to site home</a></p>
+    </footer>
+  </div>
+</body>
+</html>
