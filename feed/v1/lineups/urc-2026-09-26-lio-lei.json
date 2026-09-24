@@ -44,7 +44,7 @@
         "slug": "leinster",
         "union": "IRFU"
       },
-      "announced_at": "2026-09-24T15:39:33+01:00",
+      "announced_at": "2026-09-24T16:25:46+01:00",
       "players": [
         {
           "jersey": 1,
@@ -241,7 +241,7 @@
     {
       "source_name": "leinster_official",
       "url": "https://www.leinsterrugby.ie/2026/09/24/leinster-v-lions-team-urc-news-september-2026/",
-      "fetched_at": "2026-09-24T15:39:33+01:00",
+      "fetched_at": "2026-09-24T16:25:46+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": true,
@@ -250,7 +250,7 @@
     {
       "source_name": "leinster_official",
       "url": "https://www.leinsterrugby.ie/latest",
-      "fetched_at": "2026-09-24T15:39:33+01:00",
+      "fetched_at": "2026-09-24T16:25:46+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -268,5 +268,5 @@
       "Away sheet complete_1_to_23"
     ]
   },
-  "notes": "Ingest poll 2026-09-24T15:39:33+01:00. Official sheets only."
+  "notes": "Ingest poll 2026-09-24T16:25:46+01:00. Official sheets only."
 }
