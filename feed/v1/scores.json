@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-09-24T12:10:40+01:00",
-  "updatedAt": "2026-09-24T12:10:40+01:00",
+  "generatedAt": "2026-09-24T12:12:02+01:00",
+  "updatedAt": "2026-09-24T12:12:02+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -11,7 +11,7 @@
       "away_score": 0,
       "clock": null,
       "period": null,
-      "updated_at": "2026-09-24T12:09:43+01:00",
+      "updated_at": "2026-09-24T12:15:00+01:00",
       "provenance": [
         {
           "source_name": "highlightly",
