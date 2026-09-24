@@ -1,0 +1,319 @@
+{
+  "matchId": "urc-2026-09-25-con-sto",
+  "home": {
+    "teamId": "connacht",
+    "teamName": "Connacht",
+    "shortName": "CON",
+    "primaryColor": "#00843D",
+    "secondaryColor": "#FFFFFF",
+    "players": [
+      {
+        "number": 1,
+        "name": "Francois van Wyk",
+        "position": "LH",
+        "positionLabel": "Loosehead Prop"
+      },
+      {
+        "number": 2,
+        "name": "Eoin de Buitléar",
+        "position": "HK",
+        "positionLabel": "Hooker",
+        "caps": 23
+      },
+      {
+        "number": 3,
+        "name": "Finlay Bealham",
+        "position": "TH",
+        "positionLabel": "Tighthead Prop",
+        "caps": 232
+      },
+      {
+        "number": 4,
+        "name": "Niall Murray",
+        "position": "L4",
+        "positionLabel": "Lock",
+        "caps": 94
+      },
+      {
+        "number": 5,
+        "name": "Josh Murphy",
+        "position": "L5",
+        "positionLabel": "Lock",
+        "caps": 62
+      },
+      {
+        "number": 6,
+        "name": "Sean O'Brien",
+        "position": "BS",
+        "positionLabel": "Blindside Flanker",
+        "caps": 30
+      },
+      {
+        "number": 7,
+        "name": "Shamus Hurley-Langton",
+        "position": "OS",
+        "positionLabel": "Openside Flanker",
+        "caps": 67
+      },
+      {
+        "number": 8,
+        "name": "Paul Boyle",
+        "position": "N8",
+        "positionLabel": "Number 8",
+        "caps": 138
+      },
+      {
+        "number": 9,
+        "name": "Ben Murphy",
+        "position": "SH",
+        "positionLabel": "Scrum-half",
+        "caps": 36
+      },
+      {
+        "number": 10,
+        "name": "Josh Ioane",
+        "position": "FH",
+        "positionLabel": "Fly-half",
+        "caps": 32
+      },
+      {
+        "number": 11,
+        "name": "Finn Treacy",
+        "position": "LW",
+        "positionLabel": "Left Wing",
+        "caps": 19
+      },
+      {
+        "number": 12,
+        "name": "Cathal Forde",
+        "position": "IC",
+        "positionLabel": "Inside Centre",
+        "caps": 71
+      },
+      {
+        "number": 13,
+        "name": "John Devine",
+        "position": "OC",
+        "positionLabel": "Outside Centre",
+        "caps": 8
+      },
+      {
+        "number": 14,
+        "name": "Mack Hansen",
+        "position": "RW",
+        "positionLabel": "Right Wing",
+        "caps": 42
+      },
+      {
+        "number": 15,
+        "name": "Sam Gilbert",
+        "position": "FB",
+        "positionLabel": "Fullback",
+        "caps": 19
+      },
+      {
+        "number": 16,
+        "name": "Matthew Victory",
+        "position": "R16",
+        "positionLabel": "Hooker (bench)",
+        "caps": 8
+      },
+      {
+        "number": 17,
+        "name": "Jordan Duggan",
+        "position": "R17",
+        "positionLabel": "Prop (bench)",
+        "caps": 73
+      },
+      {
+        "number": 18,
+        "name": "Fiachna Barrett",
+        "position": "R18",
+        "positionLabel": "Prop (bench)",
+        "caps": 10
+      },
+      {
+        "number": 19,
+        "name": "David O'Connor",
+        "position": "R19",
+        "positionLabel": "Lock (bench)",
+        "caps": 21
+      },
+      {
+        "number": 20,
+        "name": "Max Flynn",
+        "position": "R20",
+        "positionLabel": "Back row (bench)"
+      },
+      {
+        "number": 21,
+        "name": "Caolin Blade",
+        "position": "R21",
+        "positionLabel": "Scrum-half (bench)",
+        "caps": 221
+      },
+      {
+        "number": 22,
+        "name": "Sean Naughton",
+        "position": "R22",
+        "positionLabel": "Fly-half (bench)",
+        "caps": 19
+      },
+      {
+        "number": 23,
+        "name": "Shayne Bolton",
+        "position": "R23",
+        "positionLabel": "Back (bench)",
+        "caps": 39
+      }
+    ]
+  },
+  "away": {
+    "teamId": "stormers",
+    "teamName": "Stormers",
+    "shortName": "STO",
+    "primaryColor": "#001F4D",
+    "secondaryColor": "#FFFFFF",
+    "players": [
+      {
+        "number": 1,
+        "name": "TBC",
+        "position": "LH",
+        "positionLabel": "Loosehead Prop"
+      },
+      {
+        "number": 2,
+        "name": "TBC",
+        "position": "HK",
+        "positionLabel": "Hooker"
+      },
+      {
+        "number": 3,
+        "name": "TBC",
+        "position": "TH",
+        "positionLabel": "Tighthead Prop"
+      },
+      {
+        "number": 4,
+        "name": "TBC",
+        "position": "L4",
+        "positionLabel": "Lock"
+      },
+      {
+        "number": 5,
+        "name": "TBC",
+        "position": "L5",
+        "positionLabel": "Lock"
+      },
+      {
+        "number": 6,
+        "name": "TBC",
+        "position": "BS",
+        "positionLabel": "Blindside Flanker"
+      },
+      {
+        "number": 7,
+        "name": "TBC",
+        "position": "OS",
+        "positionLabel": "Openside Flanker"
+      },
+      {
+        "number": 8,
+        "name": "TBC",
+        "position": "N8",
+        "positionLabel": "Number 8"
+      },
+      {
+        "number": 9,
+        "name": "TBC",
+        "position": "SH",
+        "positionLabel": "Scrum-half"
+      },
+      {
+        "number": 10,
+        "name": "TBC",
+        "position": "FH",
+        "positionLabel": "Fly-half"
+      },
+      {
+        "number": 11,
+        "name": "TBC",
+        "position": "LW",
+        "positionLabel": "Left Wing"
+      },
+      {
+        "number": 12,
+        "name": "TBC",
+        "position": "IC",
+        "positionLabel": "Inside Centre"
+      },
+      {
+        "number": 13,
+        "name": "TBC",
+        "position": "OC",
+        "positionLabel": "Outside Centre"
+      },
+      {
+        "number": 14,
+        "name": "TBC",
+        "position": "RW",
+        "positionLabel": "Right Wing"
+      },
+      {
+        "number": 15,
+        "name": "TBC",
+        "position": "FB",
+        "positionLabel": "Fullback"
+      },
+      {
+        "number": 16,
+        "name": "TBC",
+        "position": "R16",
+        "positionLabel": "Hooker (bench)"
+      },
+      {
+        "number": 17,
+        "name": "TBC",
+        "position": "R17",
+        "positionLabel": "Prop (bench)"
+      },
+      {
+        "number": 18,
+        "name": "TBC",
+        "position": "R18",
+        "positionLabel": "Prop (bench)"
+      },
+      {
+        "number": 19,
+        "name": "TBC",
+        "position": "R19",
+        "positionLabel": "Lock (bench)"
+      },
+      {
+        "number": 20,
+        "name": "TBC",
+        "position": "R20",
+        "positionLabel": "Back row (bench)"
+      },
+      {
+        "number": 21,
+        "name": "TBC",
+        "position": "R21",
+        "positionLabel": "Scrum-half (bench)"
+      },
+      {
+        "number": 22,
+        "name": "TBC",
+        "position": "R22",
+        "positionLabel": "Fly-half (bench)"
+      },
+      {
+        "number": 23,
+        "name": "TBC",
+        "position": "R23",
+        "positionLabel": "Back (bench)"
+      }
+    ]
+  },
+  "venue": "Dexcom Stadium, Galway"
+}

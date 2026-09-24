@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "match": {
+    "match_id": "urc-2026-09-26-lio-lei",
+    "external_ids": {
+      "all_rugby_match_id": "26726"
+    },
+    "competition": {
+      "name": "BKT United Rugby Championship",
+      "code": "URC",
+      "season": "2026/27",
+      "round": "Round 1"
+    },
+    "kickoff": {
+      "datetime_ireland": "2026-09-26T12:30:00+01:00",
+      "timezone_label": "IST",
+      "datetime_utc": "2026-09-26T11:30:00Z"
+    },
+    "venue": {
+      "name": "Ellis Park",
+      "city": "Johannesburg",
+      "country": null
+    },
+    "home": {
+      "name": "Lions",
+      "short_name": "LIO",
+      "slug": "lions",
+      "union": "SARU"
+    },
+    "away": {
+      "name": "Leinster",
+      "short_name": "LEI",
+      "slug": "leinster",
+      "union": "IRFU"
+    },
+    "status": "team_news_partial",
+    "score": null
+  },
+  "lineups": {
+    "away": {
+      "club": {
+        "name": "Leinster",
+        "short_name": "LEI",
+        "slug": "leinster",
+        "union": "IRFU"
+      },
+      "announced_at": "2026-09-24T13:59:04+01:00",
+      "players": [
+        {
+          "jersey": 1,
+          "name": "has been named by Head Coach Leo Cullen.",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Gus McCarthy",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Andrew Porter",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Ryan Baird",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Conor O’Tighearnaigh",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Max Deegan ()",
+          "position_label": "Blindside",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Scott Penny",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Josh Ericson",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Fintan Gunne",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Caspar Gabriel",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Andrew Osborne",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Charlie Tector",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Hugh Cooney",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Tommy O’Brien",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Todd Lawlor",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Stephen Smyth",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Peter Dooley",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Niall Smyth",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Brian Deeney",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Dylan McNeice",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Oliver Coffey",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Harry Byrne",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Leinster Rugby (caps in brackets)",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 6,
+      "source_format_notes": "Parsed from Leinster/Sotic WP content.rendered"
+    }
+  },
+  "provenance": [
+    {
+      "source_name": "leinster_official",
+      "url": "https://www.leinsterrugby.ie/2026/09/24/leinster-v-lions-team-urc-news-september-2026/",
+      "fetched_at": "2026-09-24T13:59:04+01:00",
+      "content_type": "wp_rest",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet"
+    },
+    {
+      "source_name": "leinster_official",
+      "url": "https://www.leinsterrugby.ie/latest",
+      "fetched_at": "2026-09-24T13:59:04+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "discovery_feed"
+    }
+  ],
+  "confidence": {
+    "overall": 0.6649999999999999,
+    "match_identity": 0.9,
+    "home_lineup": 0,
+    "away_lineup": 0.95,
+    "score": 0,
+    "reasons": [
+      "Home sheet not published",
+      "Away sheet complete_1_to_23"
+    ]
+  },
+  "notes": "Ingest poll 2026-09-24T13:59:04+01:00. Official sheets only."
+}
