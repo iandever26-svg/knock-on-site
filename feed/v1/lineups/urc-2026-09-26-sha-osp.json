@@ -44,7 +44,7 @@
         "slug": "ospreys",
         "union": "WRU"
       },
-      "announced_at": "2026-09-24T16:48:15+01:00",
+      "announced_at": "2026-09-24T17:13:08+01:00",
       "players": [
         {
           "jersey": 1,
@@ -241,7 +241,7 @@
     {
       "source_name": "ospreys_official",
       "url": "https://www.ospreysrugby.com/news/ospreys-announce-team-face-sharks-bkt-urc-opener",
-      "fetched_at": "2026-09-24T16:48:15+01:00",
+      "fetched_at": "2026-09-24T17:13:08+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -250,7 +250,7 @@
     {
       "source_name": "ospreys_official",
       "url": "https://www.ospreysrugby.com/news",
-      "fetched_at": "2026-09-24T16:48:15+01:00",
+      "fetched_at": "2026-09-24T17:13:08+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -268,5 +268,5 @@
       "Away sheet complete_1_to_23"
     ]
   },
-  "notes": "Ingest poll 2026-09-24T16:48:15+01:00. Official sheets only."
+  "notes": "Ingest poll 2026-09-24T17:13:08+01:00. Official sheets only."
 }
