@@ -160,9 +160,9 @@
         },
         {
           "jersey": 15,
-          "name": "Michael Lowry (Capt)",
+          "name": "Michael Lowry",
           "position_label": "Fullback",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -233,7 +233,7 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
+      "captain_jersey": 15,
       "source_format_notes": "Parsed 23 numbered slots from official HTML"
     }
   },
