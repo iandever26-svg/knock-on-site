@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0.0",
   "match": {
-    "match_id": "urc-2026-09-25-con-sto",
+    "match_id": "urc-2026-09-25-uls-edi",
     "external_ids": {
-      "all_rugby_match_id": "26724"
+      "all_rugby_match_id": "26725"
     },
     "competition": {
       "name": "BKT United Rugby Championship",
@@ -17,21 +17,21 @@
       "datetime_utc": "2026-09-25T18:45:00Z"
     },
     "venue": {
-      "name": "Dexcom Stadium",
-      "city": "Galway",
+      "name": "Affidea Stadium",
+      "city": "Belfast",
       "country": null
     },
     "home": {
-      "name": "Connacht",
-      "short_name": "CON",
-      "slug": "connacht",
+      "name": "Ulster",
+      "short_name": "ULS",
+      "slug": "ulster",
       "union": "IRFU"
     },
     "away": {
-      "name": "Stormers",
-      "short_name": "STO",
-      "slug": "stormers",
-      "union": "SARU"
+      "name": "Edinburgh",
+      "short_name": "EDI",
+      "slug": "edinburgh",
+      "union": "SRU"
     },
     "status": "team_news_partial",
     "score": null
@@ -39,16 +39,16 @@
   "lineups": {
     "home": {
       "club": {
-        "name": "Connacht",
-        "short_name": "CON",
-        "slug": "connacht",
+        "name": "Ulster",
+        "short_name": "ULS",
+        "slug": "ulster",
         "union": "IRFU"
       },
-      "announced_at": "2026-09-24T14:37:41+01:00",
+      "announced_at": "2026-09-24T14:37:45+01:00",
       "players": [
         {
           "jersey": 1,
-          "name": "Francois van Wyk",
+          "name": "Eric O’Sullivan",
           "position_label": "LH Prop",
           "is_captain": false,
           "is_starter": true,
@@ -56,7 +56,7 @@
         },
         {
           "jersey": 2,
-          "name": "Eoin de Buitléar",
+          "name": "James McCormick",
           "position_label": "Hooker",
           "is_captain": false,
           "is_starter": true,
@@ -64,7 +64,7 @@
         },
         {
           "jersey": 3,
-          "name": "Finlay Bealham",
+          "name": "Eduardo Bello",
           "position_label": "TH Prop",
           "is_captain": false,
           "is_starter": true,
@@ -72,7 +72,7 @@
         },
         {
           "jersey": 4,
-          "name": "Niall Murray",
+          "name": "Eli Snyman",
           "position_label": "Lock",
           "is_captain": false,
           "is_starter": true,
@@ -80,7 +80,7 @@
         },
         {
           "jersey": 5,
-          "name": "Josh Murphy",
+          "name": "Ben Donnell",
           "position_label": "Lock",
           "is_captain": false,
           "is_starter": true,
@@ -88,7 +88,7 @@
         },
         {
           "jersey": 6,
-          "name": "Sean O'Brien",
+          "name": "David McCann",
           "position_label": "Blindside",
           "is_captain": false,
           "is_starter": true,
@@ -96,7 +96,7 @@
         },
         {
           "jersey": 7,
-          "name": "Shamus Hurley-Langton",
+          "name": "Martin Moloney",
           "position_label": "Openside",
           "is_captain": false,
           "is_starter": true,
@@ -104,7 +104,7 @@
         },
         {
           "jersey": 8,
-          "name": "Paul Boyle",
+          "name": "James McNabney",
           "position_label": "No. 8",
           "is_captain": false,
           "is_starter": true,
@@ -112,7 +112,7 @@
         },
         {
           "jersey": 9,
-          "name": "Ben Murphy",
+          "name": "Conor McKee",
           "position_label": "Scrum-half",
           "is_captain": false,
           "is_starter": true,
@@ -120,7 +120,7 @@
         },
         {
           "jersey": 10,
-          "name": "Josh Ioane",
+          "name": "Jack Murphy",
           "position_label": "Fly-half",
           "is_captain": false,
           "is_starter": true,
@@ -128,7 +128,7 @@
         },
         {
           "jersey": 11,
-          "name": "Finn Treacy",
+          "name": "Aitzol Arenzana-King",
           "position_label": "Wing",
           "is_captain": false,
           "is_starter": true,
@@ -136,7 +136,7 @@
         },
         {
           "jersey": 12,
-          "name": "Cathal Forde",
+          "name": "Jamie Benson",
           "position_label": "Inside Centre",
           "is_captain": false,
           "is_starter": true,
@@ -144,7 +144,7 @@
         },
         {
           "jersey": 13,
-          "name": "John Devine",
+          "name": "Ben Carson",
           "position_label": "Outside Centre",
           "is_captain": false,
           "is_starter": true,
@@ -152,7 +152,7 @@
         },
         {
           "jersey": 14,
-          "name": "Mack Hansen",
+          "name": "Robert Baloucoune",
           "position_label": "Wing",
           "is_captain": false,
           "is_starter": true,
@@ -160,7 +160,7 @@
         },
         {
           "jersey": 15,
-          "name": "Sam Gilbert",
+          "name": "Michael Lowry (Capt)",
           "position_label": "Fullback",
           "is_captain": false,
           "is_starter": true,
@@ -168,7 +168,7 @@
         },
         {
           "jersey": 16,
-          "name": "Matthew Victory",
+          "name": "Henry Walker",
           "position_label": "Hooker",
           "is_captain": false,
           "is_starter": false,
@@ -176,7 +176,7 @@
         },
         {
           "jersey": 17,
-          "name": "Jordan Duggan",
+          "name": "Tom McAllister",
           "position_label": "Prop",
           "is_captain": false,
           "is_starter": false,
@@ -184,7 +184,7 @@
         },
         {
           "jersey": 18,
-          "name": "Fiachna Barrett",
+          "name": "Keynan Knox",
           "position_label": "Prop",
           "is_captain": false,
           "is_starter": false,
@@ -192,7 +192,7 @@
         },
         {
           "jersey": 19,
-          "name": "David O'Connor",
+          "name": "Harry Sheridan",
           "position_label": "Lock",
           "is_captain": false,
           "is_starter": false,
@@ -200,7 +200,7 @@
         },
         {
           "jersey": 20,
-          "name": "Max Flynn",
+          "name": "James McKillop",
           "position_label": "Back row",
           "is_captain": false,
           "is_starter": false,
@@ -208,7 +208,7 @@
         },
         {
           "jersey": 21,
-          "name": "Caolin Blade",
+          "name": "Matthew Devine",
           "position_label": "Scrum-half",
           "is_captain": false,
           "is_starter": false,
@@ -216,7 +216,7 @@
         },
         {
           "jersey": 22,
-          "name": "Sean Naughton",
+          "name": "Jake Flannery",
           "position_label": "Fly-half",
           "is_captain": false,
           "is_starter": false,
@@ -224,7 +224,7 @@
         },
         {
           "jersey": 23,
-          "name": "Shayne Bolton",
+          "name": "Zac Ward",
           "position_label": "Utility",
           "is_captain": false,
           "is_starter": false,
@@ -239,18 +239,18 @@
   },
   "provenance": [
     {
-      "source_name": "connacht_official",
-      "url": "https://www.connachtrugby.ie/news/team-announcement-connacht-v-stormers/bp3807/",
-      "fetched_at": "2026-09-24T14:37:41+01:00",
+      "source_name": "ulster_official",
+      "url": "https://ulster.rugby/news/ulster-team-named-ahead-edinburgh-urc-opener",
+      "fetched_at": "2026-09-24T14:37:45+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
       "role": "primary_sheet"
     },
     {
-      "source_name": "connacht_official",
-      "url": "https://www.connachtrugby.ie/news/news/86/",
-      "fetched_at": "2026-09-24T14:37:41+01:00",
+      "source_name": "ulster_official",
+      "url": "https://ulster.rugby/news",
+      "fetched_at": "2026-09-24T14:37:45+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -268,5 +268,5 @@
       "Away sheet not published"
     ]
   },
-  "notes": "Ingest poll 2026-09-24T14:37:41+01:00. Official sheets only."
+  "notes": "Ingest poll 2026-09-24T14:37:45+01:00. Official sheets only."
 }
