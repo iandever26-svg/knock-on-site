@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-09-25T21:18:07+01:00",
-  "updatedAt": "2026-09-25T21:18:07+01:00",
+  "generatedAt": "2026-09-25T21:18:31+01:00",
+  "updatedAt": "2026-09-25T21:18:31+01:00",
   "matches": [
     {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-09-25T21:18:07+01:00",
+      "scoreUpdatedAt": "2026-09-25T21:18:31+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-09-25T19:45:00+01:00"
     },
@@ -15,7 +15,7 @@
       "match_id": "urc-2026-09-25-con-sto",
       "kickoff": "2026-09-25T19:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-09-25T21:18:07+01:00",
+      "scoreUpdatedAt": "2026-09-25T21:18:31+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-09-25T19:45:00+01:00"
     },
@@ -23,7 +23,7 @@
       "match_id": "urc-2026-09-25-uls-edi",
       "kickoff": "2026-09-25T19:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-09-25T21:18:07+01:00",
+      "scoreUpdatedAt": "2026-09-25T21:18:31+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-09-25T19:45:00+01:00"
     },
