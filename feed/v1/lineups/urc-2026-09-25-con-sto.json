@@ -44,7 +44,7 @@
         "slug": "connacht",
         "union": "IRFU"
       },
-      "announced_at": "2026-09-24T20:45:42+01:00",
+      "announced_at": "2026-09-25T15:11:09+01:00",
       "players": [
         {
           "jersey": 1,
@@ -235,13 +235,212 @@
       "missing_numbers": [],
       "captain_jersey": null,
       "source_format_notes": "Parsed 23 numbered slots from official HTML"
+    },
+    "away": {
+      "club": {
+        "name": "Stormers",
+        "short_name": "STO",
+        "slug": "stormers",
+        "union": "SARU"
+      },
+      "announced_at": "2026-09-24T12:00:00+02:00",
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Vernon Matongo",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "André-Hugo Venter",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Neethling Fouché",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Riley Norton",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "JD Schickerling",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Evan Roos",
+          "position_label": "Blindside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Louw Nel",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Hacjivah Dayimani",
+          "position_label": "Number 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Andre Warner",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Jurie Matthee",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Leolin Zas",
+          "position_label": "Left Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Jonathan Roche",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Ruhan Nel",
+          "position_label": "Outside Centre",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Seabelo Senatla",
+          "position_label": "Right Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Warrick Gelant",
+          "position_label": "Full-back",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Vernon Paulo",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Olly Reid",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Sazi Sandi",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Connor Evans",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Adré Smith",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Marcel Theunissen",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Ezekiel Ngobeni",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Yaqeen Ahmed",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 13,
+      "source_format_notes": "Manual knock-on override (per-side). Official Stormers release cross-checked vs SA Rugby Mag + TheSouthAfrican; all agree."
     }
   },
   "provenance": [
     {
       "source_name": "connacht_official",
       "url": "https://www.connachtrugby.ie/news/team-announcement-connacht-v-stormers/bp3807/",
-      "fetched_at": "2026-09-24T20:45:42+01:00",
+      "fetched_at": "2026-09-25T15:11:09+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -250,11 +449,38 @@
     {
       "source_name": "connacht_official",
       "url": "https://www.connachtrugby.ie/news/news/86/",
-      "fetched_at": "2026-09-24T20:45:42+01:00",
+      "fetched_at": "2026-09-25T15:11:09+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
       "role": "discovery_feed"
+    },
+    {
+      "source_name": "stormers_official",
+      "url": "https://stormers.co.za/zas-hits-100-in-dhl-stormers-vodacom-urc-opener/",
+      "fetched_at": "2026-09-25T15:30:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet"
+    },
+    {
+      "source_name": "sa_rugby_mag",
+      "url": "https://www.sarugbymag.co.za/roos-6-zas-hits-100-stormers/",
+      "fetched_at": "2026-09-25T15:30:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "thesouthafrican",
+      "url": "https://www.thesouthafrican.com/sport/rugby/united-rugby-championship/live-scoring-urc-stormers-connacht/",
+      "fetched_at": "2026-09-25T15:30:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
     }
   ],
   "confidence": {
@@ -268,5 +494,5 @@
       "Away sheet not published"
     ]
   },
-  "notes": "Ingest poll 2026-09-24T20:45:42+01:00. Official sheets only."
+  "notes": "Ingest poll 2026-09-25T15:11:09+01:00. Official sheets only."
 }
