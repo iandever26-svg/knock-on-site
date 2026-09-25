@@ -1,10 +1,7 @@
 {
   "schema_version": "1.0.0",
   "match": {
-    "match_id": "urc-2026-09-26-lio-lei",
-    "external_ids": {
-      "all_rugby_match_id": "26726"
-    },
+    "match_id": "urc-2026-09-26-zeb-bul",
     "competition": {
       "name": "BKT United Rugby Championship",
       "code": "URC",
@@ -12,246 +9,47 @@
       "round": "Round 1"
     },
     "kickoff": {
-      "datetime_ireland": "2026-09-26T12:30:00+01:00",
+      "datetime_ireland": "2026-09-26T17:30:00+01:00",
       "timezone_label": "IST",
-      "datetime_utc": "2026-09-26T11:30:00Z"
+      "datetime_utc": "2026-09-26T16:30:00Z"
     },
     "venue": {
-      "name": "Ellis Park",
-      "city": "Johannesburg",
+      "name": "Stadio Sergio Lanfranchi",
+      "city": "Parma",
       "country": null
     },
     "home": {
-      "name": "Lions",
-      "short_name": "LIO",
-      "slug": "lions",
-      "union": "SARU"
+      "name": "Zebre Parma",
+      "short_name": "ZEB",
+      "slug": "zebre",
+      "union": "FIR"
     },
     "away": {
-      "name": "Leinster",
-      "short_name": "LEI",
-      "slug": "leinster",
-      "union": "IRFU"
+      "name": "Bulls",
+      "short_name": "BUL",
+      "slug": "bulls",
+      "union": "SARU"
     },
-    "status": "team_news_partial",
+    "status": "team_news_complete",
     "score": null
   },
   "lineups": {
-    "away": {
-      "club": {
-        "name": "Leinster",
-        "short_name": "LEI",
-        "slug": "leinster",
-        "union": "IRFU"
-      },
-      "announced_at": "2026-09-25T15:11:14+01:00",
-      "players": [
-        {
-          "jersey": 1,
-          "name": "has been named by Head Coach Leo Cullen.",
-          "position_label": "LH Prop",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 2,
-          "name": "Gus McCarthy",
-          "position_label": "Hooker",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 3,
-          "name": "Andrew Porter",
-          "position_label": "TH Prop",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 4,
-          "name": "Ryan Baird",
-          "position_label": "Lock",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 5,
-          "name": "Conor O’Tighearnaigh",
-          "position_label": "Lock",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 6,
-          "name": "Max Deegan",
-          "position_label": "Blindside",
-          "is_captain": true,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 7,
-          "name": "Scott Penny",
-          "position_label": "Openside",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 8,
-          "name": "Josh Ericson",
-          "position_label": "No. 8",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 9,
-          "name": "Fintan Gunne",
-          "position_label": "Scrum-half",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 10,
-          "name": "Caspar Gabriel",
-          "position_label": "Fly-half",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 11,
-          "name": "Andrew Osborne",
-          "position_label": "Wing",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 12,
-          "name": "Charlie Tector",
-          "position_label": "Inside Centre",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 13,
-          "name": "Hugh Cooney",
-          "position_label": "Outside Centre",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 14,
-          "name": "Tommy O’Brien",
-          "position_label": "Wing",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 15,
-          "name": "Todd Lawlor",
-          "position_label": "Fullback",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 16,
-          "name": "Stephen Smyth",
-          "position_label": "Hooker",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 17,
-          "name": "Peter Dooley",
-          "position_label": "Prop",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 18,
-          "name": "Niall Smyth",
-          "position_label": "Prop",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 19,
-          "name": "Brian Deeney",
-          "position_label": "Lock",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 20,
-          "name": "Dylan McNeice",
-          "position_label": "Back row",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 21,
-          "name": "Oliver Coffey",
-          "position_label": "Scrum-half",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 22,
-          "name": "Harry Byrne",
-          "position_label": "Fly-half",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 23,
-          "name": "Leinster Rugby (caps in brackets)",
-          "position_label": "Utility",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        }
-      ],
-      "parse_status": "complete_1_to_23",
-      "missing_numbers": [],
-      "captain_jersey": 6,
-      "source_format_notes": "Parsed from Leinster/Sotic WP content.rendered"
-    },
     "home": {
       "club": {
-        "name": "Lions",
-        "short_name": "LIO",
-        "slug": "lions",
-        "union": "SARU"
+        "name": "Zebre Parma",
+        "short_name": "ZEB",
+        "slug": "zebre",
+        "union": "FIR"
       },
       "announced_at": "2026-09-24T12:00:00+01:00",
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": 8,
-      "source_format_notes": "Manual knock-on override. SA Rugby Mag cross-checked vs Business Report/IOL; agree (FloRugby wrongly lists #3 as Sebastian de Klerk and swaps 20/21). Captain Francke Horn (8).",
+      "captain_jersey": 9,
+      "source_format_notes": "Manual knock-on override. OnRugby numbered sheet cross-checked vs search-indexed IOL/SA coverage; agree. Captain Alessandro Fusco (9).",
       "players": [
         {
           "jersey": 1,
-          "name": "Boan Venter",
+          "name": "Federico Pisani",
           "position_label": "LH Prop",
           "is_captain": false,
           "is_starter": true,
@@ -259,7 +57,7 @@
         },
         {
           "jersey": 2,
-          "name": "PJ Botha",
+          "name": "Tommaso Di Bartolomeo",
           "position_label": "Hooker",
           "is_captain": false,
           "is_starter": true,
@@ -267,7 +65,7 @@
         },
         {
           "jersey": 3,
-          "name": "Sebastian Lombard",
+          "name": "Juan Ignacio Castellano",
           "position_label": "TH Prop",
           "is_captain": false,
           "is_starter": true,
@@ -275,7 +73,7 @@
         },
         {
           "jersey": 4,
-          "name": "Etienne Oosthuizen",
+          "name": "Matteo Canali",
           "position_label": "Lock",
           "is_captain": false,
           "is_starter": true,
@@ -283,7 +81,7 @@
         },
         {
           "jersey": 5,
-          "name": "Ruan Delport",
+          "name": "Leonard Krumov",
           "position_label": "Lock",
           "is_captain": false,
           "is_starter": true,
@@ -291,7 +89,7 @@
         },
         {
           "jersey": 6,
-          "name": "Siba Mahashe",
+          "name": "Giacomo Ferrari",
           "position_label": "Blindside Flanker",
           "is_captain": false,
           "is_starter": true,
@@ -299,7 +97,7 @@
         },
         {
           "jersey": 7,
-          "name": "Batho Hlekani",
+          "name": "Samuele Locatelli",
           "position_label": "Openside Flanker",
           "is_captain": false,
           "is_starter": true,
@@ -307,23 +105,23 @@
         },
         {
           "jersey": 8,
-          "name": "Francke Horn",
+          "name": "Giovanni Licata",
           "position_label": "Number 8",
-          "is_captain": true,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 9,
-          "name": "Nico Steyn",
-          "position_label": "Scrum-half",
           "is_captain": false,
           "is_starter": true,
           "replacement_notes": null
         },
         {
+          "jersey": 9,
+          "name": "Alessandro Fusco",
+          "position_label": "Scrum-half",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
           "jersey": 10,
-          "name": "Chris Smith",
+          "name": "Giacomo Da Re",
           "position_label": "Fly-half",
           "is_captain": false,
           "is_starter": true,
@@ -331,7 +129,7 @@
         },
         {
           "jersey": 11,
-          "name": "Erich Cronjé",
+          "name": "Simone Gesi",
           "position_label": "Left Wing",
           "is_captain": false,
           "is_starter": true,
@@ -339,7 +137,7 @@
         },
         {
           "jersey": 12,
-          "name": "Richard Kriel",
+          "name": "Damiano Mazza",
           "position_label": "Inside Centre",
           "is_captain": false,
           "is_starter": true,
@@ -347,7 +145,7 @@
         },
         {
           "jersey": 13,
-          "name": "Henco van Wyk",
+          "name": "Giulio Bertaccini",
           "position_label": "Outside Centre",
           "is_captain": false,
           "is_starter": true,
@@ -355,7 +153,7 @@
         },
         {
           "jersey": 14,
-          "name": "Kelly Mpeku",
+          "name": "Mirko Belloni",
           "position_label": "Right Wing",
           "is_captain": false,
           "is_starter": true,
@@ -363,7 +161,7 @@
         },
         {
           "jersey": 15,
-          "name": "Boeta Chamberlain",
+          "name": "Tommaso Allan",
           "position_label": "Full-back",
           "is_captain": false,
           "is_starter": true,
@@ -371,7 +169,7 @@
         },
         {
           "jersey": 16,
-          "name": "Morné Brandon",
+          "name": "Francisco Minervino",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -379,7 +177,7 @@
         },
         {
           "jersey": 17,
-          "name": "SJ Kotze",
+          "name": "Sergio Pelliccioli",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -387,7 +185,7 @@
         },
         {
           "jersey": 18,
-          "name": "RF Schoeman",
+          "name": "Filippo Alongi",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -395,7 +193,7 @@
         },
         {
           "jersey": 19,
-          "name": "Hyron Andrews",
+          "name": "Franco Carrera",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -403,7 +201,7 @@
         },
         {
           "jersey": 20,
-          "name": "JC Pretorius",
+          "name": "Davide Ruggeri",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -411,7 +209,7 @@
         },
         {
           "jersey": 21,
-          "name": "Siba Qoma",
+          "name": "Thomas Dominguez",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -419,7 +217,7 @@
         },
         {
           "jersey": 22,
-          "name": "Zian Cilliers",
+          "name": "Marco Zanon",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -427,7 +225,206 @@
         },
         {
           "jersey": 23,
-          "name": "Ethan Adams",
+          "name": "Giovanni Montemauri",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ]
+    },
+    "away": {
+      "club": {
+        "name": "Bulls",
+        "short_name": "BUL",
+        "slug": "bulls",
+        "union": "SARU"
+      },
+      "announced_at": "2026-09-24T12:00:00+01:00",
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 6,
+      "source_format_notes": "Manual knock-on override. Official Bulls release cross-checked vs SA Rugby Mag; agree. Captain Marcell Coetzee (6).",
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Alu Tshakweni",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Juann Else",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Francois Klopper",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Ruan Vermaak",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Reinhardt Ludwig",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Marcell Coetzee",
+          "position_label": "Blindside Flanker",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Hanro Liebenberg",
+          "position_label": "Openside Flanker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Jeandre Rudolph",
+          "position_label": "Number 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Paul de Wet",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Curwin Bosch",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Stravino Jacobs",
+          "position_label": "Left Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Harold Vorster",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Stedman Gans",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Sebastian de Klerk",
+          "position_label": "Right Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Willie le Roux",
+          "position_label": "Full-back",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Janco Uys",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Dylan Smith",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Mornay Smith",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "JF van Heerden",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Nizaam Carr",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Zak Burger",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Cheswill Jooste",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Hakeem Kunene",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -438,26 +435,8 @@
   },
   "provenance": [
     {
-      "source_name": "leinster_official",
-      "url": "https://www.leinsterrugby.ie/2026/09/24/leinster-v-lions-team-urc-news-september-2026/",
-      "fetched_at": "2026-09-25T15:11:14+01:00",
-      "content_type": "wp_rest",
-      "http_status": 200,
-      "is_primary": true,
-      "role": "primary_sheet"
-    },
-    {
-      "source_name": "leinster_official",
-      "url": "https://www.leinsterrugby.ie/latest",
-      "fetched_at": "2026-09-25T15:11:14+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "discovery_feed"
-    },
-    {
-      "source_name": "sa_rugby_mag",
-      "url": "https://www.sarugbymag.co.za/boan-boeta-start-lions-urc-opener/",
+      "source_name": "onrugby",
+      "url": "https://www.onrugby.it/2026/09/24/urc-la-formazione-delle-zebre-parma-per-il-debutto-contro-i-bulls/",
       "fetched_at": "2026-09-25T15:45:00+01:00",
       "content_type": "html_article",
       "http_status": 200,
@@ -465,8 +444,26 @@
       "role": "primary_sheet"
     },
     {
-      "source_name": "business_report_iol",
-      "url": "https://businessreport.co.za/sport/rugby/2026-09-24-springbok-venter-gets-immediate-lions-baptism-against-leinster-in-ellis-park-opener/",
+      "source_name": "iol",
+      "url": "https://iol.co.za/sport/rugby/2026-09-25-curwin-bosch-gets-chance-to-reignite-career-as-bulls-open-urc-campaign-in-italy/",
+      "fetched_at": "2026-09-25T15:45:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "bulls_official",
+      "url": "https://bullsrugby.co.za/vodacom-bulls-name-squad-for-season-opener-against-zebre/",
+      "fetched_at": "2026-09-25T15:45:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet"
+    },
+    {
+      "source_name": "sa_rugby_mag",
+      "url": "https://www.sarugbymag.co.za/bulls-back-new-halfback-combo/",
       "fetched_at": "2026-09-25T15:45:00+01:00",
       "content_type": "html_article",
       "http_status": 200,
@@ -475,15 +472,15 @@
     }
   ],
   "confidence": {
-    "overall": 0.6649999999999999,
-    "match_identity": 0.9,
-    "home_lineup": 0,
+    "overall": 0.95,
+    "match_identity": 0.95,
+    "home_lineup": 0.95,
     "away_lineup": 0.95,
     "score": 0,
     "reasons": [
-      "Home sheet not published",
-      "Away sheet complete_1_to_23"
+      "Home sheet: Manual knock-on override. OnRugby numbered sheet cross-checked vs search-indexed IOL/SA coverage; agree. Captain Alessandro Fusco (9).",
+      "Away sheet: Manual knock-on override. Official Bulls release cross-checked vs SA Rugby Mag; agree. Captain Marcell Coetzee (6)."
     ]
   },
-  "notes": "Ingest poll 2026-09-25T15:11:14+01:00. Official sheets only."
+  "notes": "knock-on per-side override; publisher merges non-empty sides over WRS ingest."
 }

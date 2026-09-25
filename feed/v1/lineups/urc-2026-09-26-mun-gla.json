@@ -1,10 +1,7 @@
 {
   "schema_version": "1.0.0",
   "match": {
-    "match_id": "urc-2026-09-26-lio-lei",
-    "external_ids": {
-      "all_rugby_match_id": "26726"
-    },
+    "match_id": "urc-2026-09-26-mun-gla",
     "competition": {
       "name": "BKT United Rugby Championship",
       "code": "URC",
@@ -12,43 +9,47 @@
       "round": "Round 1"
     },
     "kickoff": {
-      "datetime_ireland": "2026-09-26T12:30:00+01:00",
+      "datetime_ireland": "2026-09-26T17:30:00+01:00",
       "timezone_label": "IST",
-      "datetime_utc": "2026-09-26T11:30:00Z"
+      "datetime_utc": "2026-09-26T16:30:00Z"
     },
     "venue": {
-      "name": "Ellis Park",
-      "city": "Johannesburg",
+      "name": "Thomond Park",
+      "city": "Limerick",
       "country": null
     },
     "home": {
-      "name": "Lions",
-      "short_name": "LIO",
-      "slug": "lions",
-      "union": "SARU"
-    },
-    "away": {
-      "name": "Leinster",
-      "short_name": "LEI",
-      "slug": "leinster",
+      "name": "Munster",
+      "short_name": "MUN",
+      "slug": "munster",
       "union": "IRFU"
     },
-    "status": "team_news_partial",
+    "away": {
+      "name": "Glasgow Warriors",
+      "short_name": "GLA",
+      "slug": "glasgow",
+      "union": "SRU"
+    },
+    "status": "team_news_complete",
     "score": null
   },
   "lineups": {
-    "away": {
+    "home": {
       "club": {
-        "name": "Leinster",
-        "short_name": "LEI",
-        "slug": "leinster",
+        "name": "Munster",
+        "short_name": "MUN",
+        "slug": "munster",
         "union": "IRFU"
       },
-      "announced_at": "2026-09-25T15:11:14+01:00",
+      "announced_at": "2026-09-24T12:00:00+01:00",
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 2,
+      "source_format_notes": "Manual knock-on override. The42 numbered sheet cross-checked vs Live95/Irish Examiner; agree. Captain Diarmuid Barron (2).",
       "players": [
         {
           "jersey": 1,
-          "name": "has been named by Head Coach Leo Cullen.",
+          "name": "Michael Milne",
           "position_label": "LH Prop",
           "is_captain": false,
           "is_starter": true,
@@ -56,218 +57,15 @@
         },
         {
           "jersey": 2,
-          "name": "Gus McCarthy",
+          "name": "Diarmuid Barron",
           "position_label": "Hooker",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 3,
-          "name": "Andrew Porter",
-          "position_label": "TH Prop",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 4,
-          "name": "Ryan Baird",
-          "position_label": "Lock",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 5,
-          "name": "Conor O’Tighearnaigh",
-          "position_label": "Lock",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 6,
-          "name": "Max Deegan",
-          "position_label": "Blindside",
           "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
         {
-          "jersey": 7,
-          "name": "Scott Penny",
-          "position_label": "Openside",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 8,
-          "name": "Josh Ericson",
-          "position_label": "No. 8",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 9,
-          "name": "Fintan Gunne",
-          "position_label": "Scrum-half",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 10,
-          "name": "Caspar Gabriel",
-          "position_label": "Fly-half",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 11,
-          "name": "Andrew Osborne",
-          "position_label": "Wing",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 12,
-          "name": "Charlie Tector",
-          "position_label": "Inside Centre",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 13,
-          "name": "Hugh Cooney",
-          "position_label": "Outside Centre",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 14,
-          "name": "Tommy O’Brien",
-          "position_label": "Wing",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 15,
-          "name": "Todd Lawlor",
-          "position_label": "Fullback",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 16,
-          "name": "Stephen Smyth",
-          "position_label": "Hooker",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 17,
-          "name": "Peter Dooley",
-          "position_label": "Prop",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 18,
-          "name": "Niall Smyth",
-          "position_label": "Prop",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 19,
-          "name": "Brian Deeney",
-          "position_label": "Lock",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 20,
-          "name": "Dylan McNeice",
-          "position_label": "Back row",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 21,
-          "name": "Oliver Coffey",
-          "position_label": "Scrum-half",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 22,
-          "name": "Harry Byrne",
-          "position_label": "Fly-half",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 23,
-          "name": "Leinster Rugby (caps in brackets)",
-          "position_label": "Utility",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        }
-      ],
-      "parse_status": "complete_1_to_23",
-      "missing_numbers": [],
-      "captain_jersey": 6,
-      "source_format_notes": "Parsed from Leinster/Sotic WP content.rendered"
-    },
-    "home": {
-      "club": {
-        "name": "Lions",
-        "short_name": "LIO",
-        "slug": "lions",
-        "union": "SARU"
-      },
-      "announced_at": "2026-09-24T12:00:00+01:00",
-      "parse_status": "complete_1_to_23",
-      "missing_numbers": [],
-      "captain_jersey": 8,
-      "source_format_notes": "Manual knock-on override. SA Rugby Mag cross-checked vs Business Report/IOL; agree (FloRugby wrongly lists #3 as Sebastian de Klerk and swaps 20/21). Captain Francke Horn (8).",
-      "players": [
-        {
-          "jersey": 1,
-          "name": "Boan Venter",
-          "position_label": "LH Prop",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 2,
-          "name": "PJ Botha",
-          "position_label": "Hooker",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
           "jersey": 3,
-          "name": "Sebastian Lombard",
+          "name": "Kieran Brookes",
           "position_label": "TH Prop",
           "is_captain": false,
           "is_starter": true,
@@ -275,7 +73,7 @@
         },
         {
           "jersey": 4,
-          "name": "Etienne Oosthuizen",
+          "name": "Evan O'Connell",
           "position_label": "Lock",
           "is_captain": false,
           "is_starter": true,
@@ -283,7 +81,7 @@
         },
         {
           "jersey": 5,
-          "name": "Ruan Delport",
+          "name": "Fineen Wycherley",
           "position_label": "Lock",
           "is_captain": false,
           "is_starter": true,
@@ -291,7 +89,7 @@
         },
         {
           "jersey": 6,
-          "name": "Siba Mahashe",
+          "name": "Jack O'Donoghue",
           "position_label": "Blindside Flanker",
           "is_captain": false,
           "is_starter": true,
@@ -299,7 +97,7 @@
         },
         {
           "jersey": 7,
-          "name": "Batho Hlekani",
+          "name": "Alex Kendellen",
           "position_label": "Openside Flanker",
           "is_captain": false,
           "is_starter": true,
@@ -307,15 +105,15 @@
         },
         {
           "jersey": 8,
-          "name": "Francke Horn",
+          "name": "Gavin Coombes",
           "position_label": "Number 8",
-          "is_captain": true,
+          "is_captain": false,
           "is_starter": true,
           "replacement_notes": null
         },
         {
           "jersey": 9,
-          "name": "Nico Steyn",
+          "name": "Ben O'Donovan",
           "position_label": "Scrum-half",
           "is_captain": false,
           "is_starter": true,
@@ -323,7 +121,7 @@
         },
         {
           "jersey": 10,
-          "name": "Chris Smith",
+          "name": "JJ Hanrahan",
           "position_label": "Fly-half",
           "is_captain": false,
           "is_starter": true,
@@ -331,7 +129,7 @@
         },
         {
           "jersey": 11,
-          "name": "Erich Cronjé",
+          "name": "Ben O'Connor",
           "position_label": "Left Wing",
           "is_captain": false,
           "is_starter": true,
@@ -339,7 +137,7 @@
         },
         {
           "jersey": 12,
-          "name": "Richard Kriel",
+          "name": "Seán O'Brien",
           "position_label": "Inside Centre",
           "is_captain": false,
           "is_starter": true,
@@ -347,7 +145,7 @@
         },
         {
           "jersey": 13,
-          "name": "Henco van Wyk",
+          "name": "Alex Nankivell",
           "position_label": "Outside Centre",
           "is_captain": false,
           "is_starter": true,
@@ -355,7 +153,7 @@
         },
         {
           "jersey": 14,
-          "name": "Kelly Mpeku",
+          "name": "Diarmuid Kilgallen",
           "position_label": "Right Wing",
           "is_captain": false,
           "is_starter": true,
@@ -363,7 +161,7 @@
         },
         {
           "jersey": 15,
-          "name": "Boeta Chamberlain",
+          "name": "Mike Haley",
           "position_label": "Full-back",
           "is_captain": false,
           "is_starter": true,
@@ -371,7 +169,7 @@
         },
         {
           "jersey": 16,
-          "name": "Morné Brandon",
+          "name": "Marnus van der Merwe",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -379,7 +177,7 @@
         },
         {
           "jersey": 17,
-          "name": "SJ Kotze",
+          "name": "Josh Wycherley",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -387,7 +185,7 @@
         },
         {
           "jersey": 18,
-          "name": "RF Schoeman",
+          "name": "Michael Ala'alatoa",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -395,7 +193,7 @@
         },
         {
           "jersey": 19,
-          "name": "Hyron Andrews",
+          "name": "Brian Gleeson",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -403,7 +201,7 @@
         },
         {
           "jersey": 20,
-          "name": "JC Pretorius",
+          "name": "John Hodnett",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -411,7 +209,7 @@
         },
         {
           "jersey": 21,
-          "name": "Siba Qoma",
+          "name": "Jake O'Riordan",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -419,7 +217,7 @@
         },
         {
           "jersey": 22,
-          "name": "Zian Cilliers",
+          "name": "Charlie O'Shea",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -427,7 +225,206 @@
         },
         {
           "jersey": 23,
-          "name": "Ethan Adams",
+          "name": "Dan Kelly",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ]
+    },
+    "away": {
+      "club": {
+        "name": "Glasgow Warriors",
+        "short_name": "GLA",
+        "slug": "glasgow",
+        "union": "SRU"
+      },
+      "announced_at": "2026-09-24T12:00:00+01:00",
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 12,
+      "source_format_notes": "Manual knock-on override. The42 numbered sheet cross-checked vs BBC Sport; agree. Captain Stafford McDowall (12).",
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Patrick Schickerling",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Gregor Hiddleston",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Murphy Walker",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Gregor Brown",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Max Williamson",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Ally Miller",
+          "position_label": "Blindside Flanker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Rory Darge",
+          "position_label": "Openside Flanker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Matt Fagerson",
+          "position_label": "Number 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "George Horne",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Dan Lancaster",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Jamie Dobie",
+          "position_label": "Left Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Stafford McDowall",
+          "position_label": "Inside Centre",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Ollie Smith",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Kyle Rowe",
+          "position_label": "Right Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Josh McKay",
+          "position_label": "Full-back",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Seb Stephen",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Nathan McBeth",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Sam Talakai",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Scott Cummings",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Angus Fraser",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Macenzzie Duncan",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Callum Reidy",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Bayley Kuenzle",
           "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
@@ -438,26 +435,8 @@
   },
   "provenance": [
     {
-      "source_name": "leinster_official",
-      "url": "https://www.leinsterrugby.ie/2026/09/24/leinster-v-lions-team-urc-news-september-2026/",
-      "fetched_at": "2026-09-25T15:11:14+01:00",
-      "content_type": "wp_rest",
-      "http_status": 200,
-      "is_primary": true,
-      "role": "primary_sheet"
-    },
-    {
-      "source_name": "leinster_official",
-      "url": "https://www.leinsterrugby.ie/latest",
-      "fetched_at": "2026-09-25T15:11:14+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "discovery_feed"
-    },
-    {
-      "source_name": "sa_rugby_mag",
-      "url": "https://www.sarugbymag.co.za/boan-boeta-start-lions-urc-opener/",
+      "source_name": "the42",
+      "url": "https://www.the42.ie/munster-team-v-glasgow-7172376-Sep2026/",
       "fetched_at": "2026-09-25T15:45:00+01:00",
       "content_type": "html_article",
       "http_status": 200,
@@ -465,8 +444,26 @@
       "role": "primary_sheet"
     },
     {
-      "source_name": "business_report_iol",
-      "url": "https://businessreport.co.za/sport/rugby/2026-09-24-springbok-venter-gets-immediate-lions-baptism-against-leinster-in-ellis-park-opener/",
+      "source_name": "live95fm",
+      "url": "https://www.live95fm.ie/news/sport/munster-lineup-revealed-ahead-of-campaign-opener/",
+      "fetched_at": "2026-09-25T15:45:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "irish_examiner",
+      "url": "https://www.irishexaminer.com/sport/rugby/arid-41915305.html",
+      "fetched_at": "2026-09-25T15:45:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/articles/c6ew9ry08pz2o",
       "fetched_at": "2026-09-25T15:45:00+01:00",
       "content_type": "html_article",
       "http_status": 200,
@@ -475,15 +472,15 @@
     }
   ],
   "confidence": {
-    "overall": 0.6649999999999999,
-    "match_identity": 0.9,
-    "home_lineup": 0,
+    "overall": 0.95,
+    "match_identity": 0.95,
+    "home_lineup": 0.95,
     "away_lineup": 0.95,
     "score": 0,
     "reasons": [
-      "Home sheet not published",
-      "Away sheet complete_1_to_23"
+      "Home sheet: Manual knock-on override. The42 numbered sheet cross-checked vs Live95/Irish Examiner; agree. Captain Diarmuid Barron (2).",
+      "Away sheet: Manual knock-on override. The42 numbered sheet cross-checked vs BBC Sport; agree. Captain Stafford McDowall (12)."
     ]
   },
-  "notes": "Ingest poll 2026-09-25T15:11:14+01:00. Official sheets only."
+  "notes": "knock-on per-side override; publisher merges non-empty sides over WRS ingest."
 }

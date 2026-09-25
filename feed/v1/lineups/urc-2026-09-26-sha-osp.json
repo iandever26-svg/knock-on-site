@@ -235,6 +235,205 @@
       "missing_numbers": [],
       "captain_jersey": 2,
       "source_format_notes": "Parsed 23 numbered slots from official HTML"
+    },
+    "home": {
+      "club": {
+        "name": "Sharks",
+        "short_name": "SHA",
+        "slug": "sharks",
+        "union": "SARU"
+      },
+      "announced_at": "2026-09-24T12:00:00+01:00",
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 8,
+      "source_format_notes": "Manual knock-on override. IOL cross-checked vs RugbyPass team sheet; agree. Captain Nick Hatton (8).",
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Phatu Ganyane",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Eduan Swart",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Vincent Koch",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Corné Rahl",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Darrien Landsberg",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Phepsi Buthelezi",
+          "position_label": "Blindside Flanker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Manu Tshituka",
+          "position_label": "Openside Flanker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Nick Hatton",
+          "position_label": "Number 8",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Jaden Hendrikse",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Vusi Moyo",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Litelihle Bester",
+          "position_label": "Left Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Murray Koster",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Jurenzo Julius",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Suleiman Hartzenberg",
+          "position_label": "Right Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Luan Giliomee",
+          "position_label": "Full-back",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Esethu Mnebelele",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Nemo Roelofse",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Hanro Jacobs",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Jason Jenkins",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Matt Romao",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Ivan van Zyl",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Siya Masuku",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Zekhethelo Siyaya",
+          "position_label": "Replacement",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ]
     }
   },
   "provenance": [
@@ -255,6 +454,24 @@
       "http_status": 200,
       "is_primary": false,
       "role": "discovery_feed"
+    },
+    {
+      "source_name": "iol",
+      "url": "https://iol.co.za/sport/rugby/urc/2026-09-24-sharks-unleash-next-gen-backline-on-ospreys-for-home-urc-opener-in-attacking-statement/",
+      "fetched_at": "2026-09-25T15:45:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/ospreys-vs-sharks/teams/",
+      "fetched_at": "2026-09-25T15:45:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
     }
   ],
   "confidence": {
