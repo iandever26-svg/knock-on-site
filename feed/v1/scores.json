@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-09-25T20:12:56+01:00",
-  "updatedAt": "2026-09-25T20:12:56+01:00",
+  "generatedAt": "2026-09-25T20:31:15+01:00",
+  "updatedAt": "2026-09-25T20:31:15+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
       "match_id": "urc-2026-09-25-ben-dra",
       "status": "live",
-      "home_score": 7,
-      "away_score": 0,
+      "home_score": 14,
+      "away_score": 7,
       "clock": null,
       "period": "1H",
-      "updated_at": "2026-09-25T20:12:56+01:00",
+      "updated_at": "2026-09-25T20:31:15+01:00",
       "provenance": [
         {
           "source_name": "highlightly",
           "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-09-25&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-09-25T20:12:56+01:00",
+          "fetched_at": "2026-09-25T20:31:15+01:00",
           "highlightly_match_id": 45645871,
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
@@ -27,16 +27,16 @@
       "schema_version": "1.0.0",
       "match_id": "urc-2026-09-25-con-sto",
       "status": "live",
-      "home_score": 0,
+      "home_score": 7,
       "away_score": 10,
       "clock": null,
       "period": "1H",
-      "updated_at": "2026-09-25T20:12:56+01:00",
+      "updated_at": "2026-09-25T20:31:15+01:00",
       "provenance": [
         {
           "source_name": "highlightly",
           "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-09-25&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-09-25T20:12:56+01:00",
+          "fetched_at": "2026-09-25T20:31:15+01:00",
           "highlightly_match_id": 45646722,
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
@@ -47,16 +47,16 @@
       "schema_version": "1.0.0",
       "match_id": "urc-2026-09-25-uls-edi",
       "status": "live",
-      "home_score": 0,
-      "away_score": 7,
+      "home_score": 5,
+      "away_score": 20,
       "clock": null,
       "period": "1H",
-      "updated_at": "2026-09-25T20:12:56+01:00",
+      "updated_at": "2026-09-25T20:31:15+01:00",
       "provenance": [
         {
           "source_name": "highlightly",
           "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-09-25&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-09-25T20:12:56+01:00",
+          "fetched_at": "2026-09-25T20:31:15+01:00",
           "highlightly_match_id": 45647573,
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
