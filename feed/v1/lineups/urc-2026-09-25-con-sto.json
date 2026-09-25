@@ -33,7 +33,7 @@
       "slug": "stormers",
       "union": "SARU"
     },
-    "status": "team_news_partial",
+    "status": "team_news_complete",
     "score": null
   },
   "lineups": {
@@ -440,20 +440,66 @@
     {
       "source_name": "connacht_official",
       "url": "https://www.connachtrugby.ie/news/team-announcement-connacht-v-stormers/bp3807/",
-      "fetched_at": "2026-09-25T15:11:09+01:00",
+      "fetched_at": "2026-09-25T15:43:10+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
-      "role": "primary_sheet"
+      "role": "primary_sheet",
+      "side": "home",
+      "published_at": "2026-09-24T13:55:00+01:00",
+      "published_at_source": "jsonld_datePublished"
     },
     {
       "source_name": "connacht_official",
-      "url": "https://www.connachtrugby.ie/news/news/86/",
-      "fetched_at": "2026-09-25T15:11:09+01:00",
+      "url": "https://www.connachtrugby.ie/news/news/86/?rss=on",
+      "fetched_at": "2026-09-25T15:43:10+01:00",
+      "content_type": "rss_item",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "discovery_feed",
+      "side": "home"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/connacht-vs-stormers/teams/",
+      "fetched_at": "2026-09-25T15:43:10+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
-      "role": "discovery_feed"
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26724/urc-2026-2027/connacht-stormers",
+      "fetched_at": "2026-09-25T15:43:10+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/connacht-vs-stormers/teams/",
+      "fetched_at": "2026-09-25T15:43:10+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_jsonld_startDate 2026-09-25T18:45:00+00:00"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26724/urc-2026-2027/connacht-stormers",
+      "fetched_at": "2026-09-25T15:43:10+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
     },
     {
       "source_name": "stormers_official",
@@ -565,15 +611,15 @@
     }
   ],
   "confidence": {
-    "overall": 0.6649999999999999,
+    "overall": 0.92,
     "match_identity": 0.9,
-    "home_lineup": 0.95,
-    "away_lineup": 0,
+    "home_lineup": 0.98,
+    "away_lineup": 0.85,
     "score": 0,
     "reasons": [
-      "Home sheet complete_1_to_23",
-      "Away sheet not published"
+      "home: complete_1_to_23 from connacht_official; rugbypass 23/23 jerseys agree; all_rugby 19/23 jerseys agree (differs at #11,#12,#13,#14)",
+      "away: complete_1_to_23 from rugbypass; all_rugby 21/23 jerseys agree (differs at #6,#7)"
     ]
   },
-  "notes": "Ingest poll 2026-09-25T15:11:09+01:00. Official sheets only."
+  "notes": "Ingest poll 2026-09-25T15:43:10+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }

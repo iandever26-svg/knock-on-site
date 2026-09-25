@@ -33,209 +33,10 @@
       "slug": "ospreys",
       "union": "WRU"
     },
-    "status": "team_news_partial",
+    "status": "team_news_complete",
     "score": null
   },
   "lineups": {
-    "away": {
-      "club": {
-        "name": "Ospreys",
-        "short_name": "OSP",
-        "slug": "ospreys",
-        "union": "WRU"
-      },
-      "announced_at": "2026-09-25T15:11:17+01:00",
-      "players": [
-        {
-          "jersey": 1,
-          "name": "Steffan Thomas",
-          "position_label": "LH Prop",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 2,
-          "name": "Sam Parry",
-          "position_label": "Hooker",
-          "is_captain": true,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 3,
-          "name": "Tom Botha",
-          "position_label": "TH Prop",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 4,
-          "name": "James Ratti",
-          "position_label": "Lock",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 5,
-          "name": "Rhys Davies",
-          "position_label": "Lock",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 6,
-          "name": "Liam Wright",
-          "position_label": "Blindside",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 7,
-          "name": "Ross Moriarty",
-          "position_label": "Openside",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 8,
-          "name": "Morgan Morris",
-          "position_label": "No. 8",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 9,
-          "name": "Luke Davies",
-          "position_label": "Scrum-half",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 10,
-          "name": "Lalakai Foketi gets his first start and partners Owen Watkin in the centre.",
-          "position_label": "Fly-half",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 11,
-          "name": "Luke Morgan",
-          "position_label": "Wing",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 12,
-          "name": "Lalakai Foketi",
-          "position_label": "Inside Centre",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 13,
-          "name": "Owen Watkin",
-          "position_label": "Outside Centre",
-          "is_captain": true,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 14,
-          "name": "Tom Rogers",
-          "position_label": "Wing",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 15,
-          "name": "Iestyn Hopkins",
-          "position_label": "Fullback",
-          "is_captain": false,
-          "is_starter": true,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 16,
-          "name": "Efan Daniel",
-          "position_label": "Hooker",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 17,
-          "name": "Gareth Thomas",
-          "position_label": "Prop",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 18,
-          "name": "Rhys Henry",
-          "position_label": "Prop",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 19,
-          "name": "Ryan Smith",
-          "position_label": "Lock",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 20,
-          "name": "Harri Deaves",
-          "position_label": "Back row",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 21,
-          "name": "Kieran Hardy",
-          "position_label": "Scrum-half",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 22,
-          "name": "Harri Wilde",
-          "position_label": "Fly-half",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 23,
-          "name": "Evardi Boshoff",
-          "position_label": "Utility",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        }
-      ],
-      "parse_status": "complete_1_to_23",
-      "missing_numbers": [],
-      "captain_jersey": 2,
-      "source_format_notes": "Parsed 23 numbered slots from official HTML"
-    },
     "home": {
       "club": {
         "name": "Sharks",
@@ -434,26 +235,295 @@
           "replacement_notes": null
         }
       ]
+    },
+    "away": {
+      "club": {
+        "name": "Ospreys",
+        "short_name": "OSP",
+        "slug": "ospreys",
+        "union": "WRU"
+      },
+      "announced_at": "2026-09-24T01:00:00+01:00",
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Steffan Thomas",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Sam Parry",
+          "position_label": "Hooker",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Tom Botha",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "James Ratti",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Rhys Davies",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Liam Wright",
+          "position_label": "Blindside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Ross Moriarty",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Morgan Morris",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Luke Davies",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Lawson Creighton",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Luke Morgan",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Lalakai Foketi",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Owen Watkin",
+          "position_label": "Outside Centre",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Tom Rogers",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Iestyn Hopkins",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Efan Daniel",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Gareth Thomas",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Rhys Henry",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Ryan Smith",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Harri Deaves",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Kieran Hardy",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Harri Wilde",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Evardi Boshoff",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 2,
+      "co_captain_jerseys": [
+        2,
+        13
+      ],
+      "source_format_notes": "Parsed 23 numbered slots from official HTML"
     }
   },
   "provenance": [
     {
-      "source_name": "ospreys_official",
-      "url": "https://www.ospreysrugby.com/news/ospreys-announce-team-face-sharks-bkt-urc-opener",
-      "fetched_at": "2026-09-25T15:11:17+01:00",
+      "source_name": "sharks_official",
+      "url": "https://sharksrugby.co.za/blogs/news/team-release-hollywoodbets-sharks-vs-ospreys-season-opener",
+      "fetched_at": "2026-09-25T15:43:25+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
-      "role": "primary_sheet"
+      "role": "primary_sheet",
+      "side": "home",
+      "published_at": "2026-09-24T11:46:11+01:00",
+      "published_at_source": "jsonld_datePublished"
+    },
+    {
+      "source_name": "sharks_official",
+      "url": "https://www.sharksrugby.co.za/",
+      "fetched_at": "2026-09-25T15:43:25+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "discovery_feed",
+      "side": "home"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/ospreys-vs-sharks/teams/",
+      "fetched_at": "2026-09-25T15:43:25+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26727/urc-2026-2027/sharks-ospreys",
+      "fetched_at": "2026-09-25T15:43:25+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "ospreys_official",
+      "url": "https://www.ospreysrugby.com/news/ospreys-announce-team-face-sharks-bkt-urc-opener",
+      "fetched_at": "2026-09-25T15:43:25+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": "2026-09-24T01:00:00+01:00",
+      "published_at_source": "jsonld_datePublished(date_only)"
     },
     {
       "source_name": "ospreys_official",
       "url": "https://www.ospreysrugby.com/news",
-      "fetched_at": "2026-09-25T15:11:17+01:00",
+      "fetched_at": "2026-09-25T15:43:25+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
-      "role": "discovery_feed"
+      "role": "discovery_feed",
+      "side": "away"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/ospreys-vs-sharks/teams/",
+      "fetched_at": "2026-09-25T15:43:25+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26727/urc-2026-2027/sharks-ospreys",
+      "fetched_at": "2026-09-25T15:43:25+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
     },
     {
       "source_name": "iol",
@@ -475,15 +545,15 @@
     }
   ],
   "confidence": {
-    "overall": 0.6649999999999999,
+    "overall": 0.98,
     "match_identity": 0.9,
-    "home_lineup": 0,
-    "away_lineup": 0.95,
+    "home_lineup": 0.98,
+    "away_lineup": 0.98,
     "score": 0,
     "reasons": [
-      "Home sheet not published",
-      "Away sheet complete_1_to_23"
+      "home: complete_1_to_23 from sharks_official; rugbypass 23/23 jerseys agree; all_rugby 23/23 jerseys agree",
+      "away: complete_1_to_23 from ospreys_official; rugbypass 23/23 jerseys agree; all_rugby 20/23 jerseys agree (differs at #6,#7,#20)"
     ]
   },
-  "notes": "Ingest poll 2026-09-25T15:11:17+01:00. Official sheets only."
+  "notes": "Ingest poll 2026-09-25T15:43:25+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }

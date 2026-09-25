@@ -33,7 +33,7 @@
       "slug": "edinburgh",
       "union": "SRU"
     },
-    "status": "team_news_partial",
+    "status": "team_news_complete",
     "score": null
   },
   "lineups": {
@@ -44,7 +44,7 @@
         "slug": "ulster",
         "union": "IRFU"
       },
-      "announced_at": "2026-09-25T15:11:12+01:00",
+      "announced_at": null,
       "players": [
         {
           "jersey": 1,
@@ -234,7 +234,7 @@
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
       "captain_jersey": 15,
-      "source_format_notes": "Parsed 23 numbered slots from official HTML"
+      "source_format_notes": "Parsed 23 numbered slots from official HTML (article date unverified; title names opponent)"
     },
     "away": {
       "club": {
@@ -440,20 +440,66 @@
     {
       "source_name": "ulster_official",
       "url": "https://ulster.rugby/news/ulster-team-named-ahead-edinburgh-urc-opener",
-      "fetched_at": "2026-09-25T15:11:12+01:00",
+      "fetched_at": "2026-09-25T15:43:14+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
-      "role": "primary_sheet"
+      "role": "primary_sheet",
+      "side": "home",
+      "published_at": null,
+      "published_at_source": "unverified_title_names_opponent"
     },
     {
       "source_name": "ulster_official",
       "url": "https://ulster.rugby/news",
-      "fetched_at": "2026-09-25T15:11:12+01:00",
+      "fetched_at": "2026-09-25T15:43:14+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
-      "role": "discovery_feed"
+      "role": "discovery_feed",
+      "side": "home"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/edinburgh-vs-ulster/teams/",
+      "fetched_at": "2026-09-25T15:43:14+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26725/urc-2026-2027/ulster-edinburgh",
+      "fetched_at": "2026-09-25T15:43:14+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/edinburgh-vs-ulster/teams/",
+      "fetched_at": "2026-09-25T15:43:14+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_jsonld_startDate 2026-09-25T18:45:00+00:00"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26725/urc-2026-2027/ulster-edinburgh",
+      "fetched_at": "2026-09-25T15:43:14+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
     },
     {
       "source_name": "edinburgh_official",
@@ -484,15 +530,15 @@
     }
   ],
   "confidence": {
-    "overall": 0.6649999999999999,
+    "overall": 0.92,
     "match_identity": 0.9,
-    "home_lineup": 0.95,
-    "away_lineup": 0,
+    "home_lineup": 0.98,
+    "away_lineup": 0.85,
     "score": 0,
     "reasons": [
-      "Home sheet complete_1_to_23",
-      "Away sheet not published"
+      "home: complete_1_to_23 from ulster_official; rugbypass 23/23 jerseys agree; all_rugby 20/23 jerseys agree (differs at #4,#5,#11)",
+      "away: complete_1_to_23 from rugbypass; all_rugby 18/23 jerseys agree (differs at #12,#13,#14,#17,#18)"
     ]
   },
-  "notes": "Ingest poll 2026-09-25T15:11:12+01:00. Official sheets only."
+  "notes": "Ingest poll 2026-09-25T15:43:14+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }

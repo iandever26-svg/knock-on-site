@@ -2,6 +2,9 @@
   "schema_version": "1.0.0",
   "match": {
     "match_id": "urc-2026-09-25-ben-dra",
+    "external_ids": {
+      "all_rugby_match_id": "26723"
+    },
     "competition": {
       "name": "BKT United Rugby Championship",
       "code": "URC",
@@ -437,6 +440,68 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/benetton-vs-gwent-dragons/teams/",
+      "fetched_at": "2026-09-25T15:43:06+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_jsonld_startDate 2026-09-25T18:45:00+00:00"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26723/urc-2026-2027/benetton-dragons",
+      "fetched_at": "2026-09-25T15:43:06+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/benetton-vs-gwent-dragons/teams/",
+      "fetched_at": "2026-09-25T15:43:06+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_jsonld_startDate 2026-09-25T18:45:00+00:00"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26723/urc-2026-2027/benetton-dragons",
+      "fetched_at": "2026-09-25T15:43:06+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/benetton-vs-gwent-dragons/teams/",
+      "fetched_at": "2026-09-25T15:40:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5y7z4w2xw7o",
+      "fetched_at": "2026-09-25T15:40:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/benetton-vs-gwent-dragons/teams/",
       "fetched_at": "2026-09-25T15:40:00+01:00",
       "content_type": "html_article",
       "http_status": 200,
@@ -454,15 +519,15 @@
     }
   ],
   "confidence": {
-    "overall": 0.95,
-    "match_identity": 0.95,
-    "home_lineup": 0.95,
-    "away_lineup": 0.95,
+    "overall": 0.85,
+    "match_identity": 0.9,
+    "home_lineup": 0.85,
+    "away_lineup": 0.85,
     "score": 0,
     "reasons": [
-      "Home sheet: Manual knock-on override (per-side). RugbyPass team sheet cross-checked vs BBC Sport; all agree. Captain Sebastian Negri (8).",
-      "Away sheet: Manual knock-on override (per-side). RugbyPass team sheet cross-checked vs BBC Sport; all agree. Co-captains Aneurin Owen (12) and Thomas Young (7)."
+      "home: complete_1_to_23 from rugbypass; all_rugby 19/23 jerseys agree (differs at #11,#14,#17,#18)",
+      "away: complete_1_to_23 from rugbypass; all_rugby 21/23 jerseys agree (differs at #4,#5)"
     ]
   },
-  "notes": "knock-on per-side override; publisher merges non-empty sides over WRS ingest."
+  "notes": "Ingest poll 2026-09-25T15:43:06+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
