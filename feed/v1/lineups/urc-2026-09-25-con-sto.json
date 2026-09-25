@@ -44,7 +44,11 @@
         "slug": "connacht",
         "union": "IRFU"
       },
-      "announced_at": "2026-09-25T15:11:09+01:00",
+      "announced_at": "2026-09-24T12:00:00+01:00",
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 8,
+      "source_format_notes": "Manual knock-on override (per-side). Official Connacht release cross-checked vs Irish Times + FloRugby; all agree. Captain Paul Boyle (8) - WRS parse had no captain marker.",
       "players": [
         {
           "jersey": 1,
@@ -88,8 +92,8 @@
         },
         {
           "jersey": 6,
-          "name": "Sean O'Brien",
-          "position_label": "Blindside",
+          "name": "Seán O'Brien",
+          "position_label": "Blindside Flanker",
           "is_captain": false,
           "is_starter": true,
           "replacement_notes": null
@@ -97,7 +101,7 @@
         {
           "jersey": 7,
           "name": "Shamus Hurley-Langton",
-          "position_label": "Openside",
+          "position_label": "Openside Flanker",
           "is_captain": false,
           "is_starter": true,
           "replacement_notes": null
@@ -105,8 +109,8 @@
         {
           "jersey": 8,
           "name": "Paul Boyle",
-          "position_label": "No. 8",
-          "is_captain": false,
+          "position_label": "Number 8",
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -129,7 +133,7 @@
         {
           "jersey": 11,
           "name": "Finn Treacy",
-          "position_label": "Wing",
+          "position_label": "Left Wing",
           "is_captain": false,
           "is_starter": true,
           "replacement_notes": null
@@ -153,7 +157,7 @@
         {
           "jersey": 14,
           "name": "Mack Hansen",
-          "position_label": "Wing",
+          "position_label": "Right Wing",
           "is_captain": false,
           "is_starter": true,
           "replacement_notes": null
@@ -161,7 +165,7 @@
         {
           "jersey": 15,
           "name": "Sam Gilbert",
-          "position_label": "Fullback",
+          "position_label": "Full-back",
           "is_captain": false,
           "is_starter": true,
           "replacement_notes": null
@@ -169,7 +173,7 @@
         {
           "jersey": 16,
           "name": "Matthew Victory",
-          "position_label": "Hooker",
+          "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
           "replacement_notes": null
@@ -177,7 +181,7 @@
         {
           "jersey": 17,
           "name": "Jordan Duggan",
-          "position_label": "Prop",
+          "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
           "replacement_notes": null
@@ -185,7 +189,7 @@
         {
           "jersey": 18,
           "name": "Fiachna Barrett",
-          "position_label": "Prop",
+          "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
           "replacement_notes": null
@@ -193,7 +197,7 @@
         {
           "jersey": 19,
           "name": "David O'Connor",
-          "position_label": "Lock",
+          "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
           "replacement_notes": null
@@ -201,7 +205,7 @@
         {
           "jersey": 20,
           "name": "Max Flynn",
-          "position_label": "Back row",
+          "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
           "replacement_notes": null
@@ -209,7 +213,7 @@
         {
           "jersey": 21,
           "name": "Caolin Blade",
-          "position_label": "Scrum-half",
+          "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
           "replacement_notes": null
@@ -217,7 +221,7 @@
         {
           "jersey": 22,
           "name": "Sean Naughton",
-          "position_label": "Fly-half",
+          "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
           "replacement_notes": null
@@ -225,16 +229,12 @@
         {
           "jersey": 23,
           "name": "Shayne Bolton",
-          "position_label": "Utility",
+          "position_label": "Replacement",
           "is_captain": false,
           "is_starter": false,
           "replacement_notes": null
         }
-      ],
-      "parse_status": "complete_1_to_23",
-      "missing_numbers": [],
-      "captain_jersey": null,
-      "source_format_notes": "Parsed 23 numbered slots from official HTML"
+      ]
     },
     "away": {
       "club": {
@@ -477,6 +477,87 @@
       "source_name": "thesouthafrican",
       "url": "https://www.thesouthafrican.com/sport/rugby/united-rugby-championship/live-scoring-urc-stormers-connacht/",
       "fetched_at": "2026-09-25T15:30:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "connacht_official",
+      "url": "https://www.connachtrugby.ie/news/team-announcement-connacht-v-stormers/bp3807/",
+      "fetched_at": "2026-09-25T15:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet"
+    },
+    {
+      "source_name": "irish_times",
+      "url": "https://www.irishtimes.com/sport/rugby/2026/09/24/mack-hansen-returns-to-urc-action-for-connacht-after-11-months-out/",
+      "fetched_at": "2026-09-25T15:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "florugby",
+      "url": "https://www.florugby.com/articles/16201767-connacht-rugby-vs-dhl-stormers-kickoff-time-lineups",
+      "fetched_at": "2026-09-25T15:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "stormers_official",
+      "url": "https://stormers.co.za/zas-hits-100-in-dhl-stormers-vodacom-urc-opener/",
+      "fetched_at": "2026-09-25T15:30:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet"
+    },
+    {
+      "source_name": "sa_rugby_mag",
+      "url": "https://www.sarugbymag.co.za/roos-6-zas-hits-100-stormers/",
+      "fetched_at": "2026-09-25T15:30:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "thesouthafrican",
+      "url": "https://www.thesouthafrican.com/sport/rugby/united-rugby-championship/live-scoring-urc-stormers-connacht/",
+      "fetched_at": "2026-09-25T15:30:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "connacht_official",
+      "url": "https://www.connachtrugby.ie/news/team-announcement-connacht-v-stormers/bp3807/",
+      "fetched_at": "2026-09-25T15:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet"
+    },
+    {
+      "source_name": "irish_times",
+      "url": "https://www.irishtimes.com/sport/rugby/2026/09/24/mack-hansen-returns-to-urc-action-for-connacht-after-11-months-out/",
+      "fetched_at": "2026-09-25T15:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration"
+    },
+    {
+      "source_name": "florugby",
+      "url": "https://www.florugby.com/articles/16201767-connacht-rugby-vs-dhl-stormers-kickoff-time-lineups",
+      "fetched_at": "2026-09-25T15:35:00+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
