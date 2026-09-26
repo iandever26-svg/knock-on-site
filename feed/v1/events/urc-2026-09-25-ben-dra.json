@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-09-25-ben-dra",
+  "matchId": "urc-2026-09-25-ben-dra",
+  "updated_at": "2026-09-26T08:54:33+01:00",
+  "final": true,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604032/competitions/604032/plays",
+      "fetched_at": "2026-09-26T08:54:33+01:00",
+      "espn_event_id": "604032",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": [
+    {
+      "id": "espn-1888780",
+      "minute": 6,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Shane Lewis-Hughes",
+      "detail": "replaces Evan Minto",
+      "playerOn": "Shane Lewis-Hughes",
+      "playerOff": "Evan Minto",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888789",
+      "minute": 12,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Francois Carlo Mey",
+      "detail": "Try (5-0)",
+      "playerName": "Francois Carlo Mey",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1888791",
+      "minute": 13,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jacob Umaga",
+      "detail": "Conversion (7-0)",
+      "playerName": "Jacob Umaga",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1888818",
+      "minute": 24,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Bautista Bernasconi",
+      "detail": "Try (12-0)",
+      "playerName": "Bautista Bernasconi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1888819",
+      "minute": 25,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jacob Umaga",
+      "detail": "Conversion (14-0)",
+      "playerName": "Jacob Umaga",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1888820",
+      "minute": 27,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Tinus de Beer",
+      "detail": "Try (14-5)",
+      "playerName": "Tinus de Beer",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 14,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1889151",
+      "minute": 28,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (14-7)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1888841",
+      "minute": 40,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Ignacio Mendy",
+      "detail": "Try (19-7)",
+      "playerName": "Ignacio Mendy",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1889152",
+      "minute": 40,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Elliot Dee",
+      "detail": "replaces Oli Burrows",
+      "playerOn": "Elliot Dee",
+      "playerOff": "Oli Burrows",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888849",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Robert Hunt",
+      "detail": "replaces Chris Coleman",
+      "playerOn": "Robert Hunt",
+      "playerOff": "Chris Coleman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889154",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Marcos Gallorini",
+      "detail": "replaces Simone Ferrari",
+      "playerOn": "Marcos Gallorini",
+      "playerOff": "Simone Ferrari",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889156",
+      "minute": 44,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Fine Inisi",
+      "detail": "Try (19-12)",
+      "playerName": "Fine Inisi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1889157",
+      "minute": 45,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (19-14)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1889158",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Antony Italo Miranda",
+      "detail": "replaces Sebastian Negri",
+      "playerOn": "Antony Italo Miranda",
+      "playerOff": "Sebastian Negri",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889160",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Che Hope",
+      "detail": "replaces Rhodri Williams",
+      "playerOn": "Che Hope",
+      "playerOff": "Rhodri Williams",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889162",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Wyn Jones",
+      "detail": "replaces Rodrigo Martinez",
+      "playerOn": "Wyn Jones",
+      "playerOff": "Rodrigo Martinez",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889164",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ivan Nemer",
+      "detail": "replaces Matias Medrano",
+      "playerOn": "Ivan Nemer",
+      "playerOff": "Matias Medrano",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889166",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Nicholas Gasperini",
+      "detail": "replaces Bautista Bernasconi",
+      "playerOn": "Nicholas Gasperini",
+      "playerOff": "Bautista Bernasconi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889168",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Fetuli Paea",
+      "detail": "replaces Fine Inisi",
+      "playerOn": "Fetuli Paea",
+      "playerOff": "Fine Inisi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889170",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Siua Maile",
+      "detail": "replaces Manuel Zuliani",
+      "playerOn": "Siua Maile",
+      "playerOff": "Manuel Zuliani",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889172",
+      "minute": 61,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Louis Werchon",
+      "detail": "replaces Andy Uren",
+      "playerOn": "Louis Werchon",
+      "playerOff": "Andy Uren",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889174",
+      "minute": 61,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Harry Beddall",
+      "detail": "replaces Barny Langton-Cryer",
+      "playerOn": "Harry Beddall",
+      "playerOff": "Barny Langton-Cryer",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889176",
+      "minute": 78,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Piero Gritti",
+      "detail": "replaces Federico Ruzza",
+      "playerOn": "Piero Gritti",
+      "playerOff": "Federico Ruzza",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889178",
+      "minute": 78,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Elliot Dee",
+      "detail": "Try (19-19)",
+      "playerName": "Elliot Dee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 19
+      }
+    }
+  ]
+}

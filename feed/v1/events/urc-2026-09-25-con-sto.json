@@ -1,0 +1,405 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-09-25-con-sto",
+  "matchId": "urc-2026-09-25-con-sto",
+  "updated_at": "2026-09-26T08:54:33+01:00",
+  "final": true,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604033/competitions/604033/plays",
+      "fetched_at": "2026-09-26T08:54:33+01:00",
+      "espn_event_id": "604033",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": [
+    {
+      "id": "espn-1889179",
+      "minute": 9,
+      "period": "1H",
+      "type": "penalty_goal_made",
+      "team": "away",
+      "player": "Jurie Matthee",
+      "detail": "Penalty (0-3)",
+      "playerName": "Jurie Matthee",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-1889180",
+      "minute": 20,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Warrick Gelant",
+      "detail": "Try (0-8)",
+      "playerName": "Warrick Gelant",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1889181",
+      "minute": 21,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jurie Matthee",
+      "detail": "Conversion (0-10)",
+      "playerName": "Jurie Matthee",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 0,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1889182",
+      "minute": 38,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Mack Hansen",
+      "detail": "Try (5-10)",
+      "playerName": "Mack Hansen",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1889183",
+      "minute": 39,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sam Gilbert",
+      "detail": "Conversion (7-10)",
+      "playerName": "Sam Gilbert",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1889184",
+      "minute": 42,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Josh Ioane",
+      "detail": "Try (12-10)",
+      "playerName": "Josh Ioane",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1888863",
+      "minute": 47,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sazi Sandi",
+      "detail": "replaces Neethling Fouche",
+      "playerOn": "Sazi Sandi",
+      "playerOff": "Neethling Fouche",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888865",
+      "minute": 47,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Connor Evans",
+      "detail": "replaces JD Schickerling",
+      "playerOn": "Connor Evans",
+      "playerOff": "JD Schickerling",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888869",
+      "minute": 47,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Adre Smith",
+      "detail": "replaces Gary Porter",
+      "playerOn": "Adre Smith",
+      "playerOff": "Gary Porter",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888871",
+      "minute": 47,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Olly Reid",
+      "detail": "replaces Vernon Matongo",
+      "playerOn": "Olly Reid",
+      "playerOff": "Vernon Matongo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888882",
+      "minute": 48,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Caolin Blade",
+      "detail": "replaces Ben Murphy",
+      "playerOn": "Caolin Blade",
+      "playerOff": "Ben Murphy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888894",
+      "minute": 52,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Sam Gilbert",
+      "detail": "Penalty (15-10)",
+      "playerName": "Sam Gilbert",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 15,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1888912",
+      "minute": 54,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Paul Boyle",
+      "detail": "Yellow card (15-10)",
+      "playerName": "Paul Boyle",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 15,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1888963",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Matt Victory",
+      "detail": "replaces Eoin de Buitlear",
+      "playerOn": "Matt Victory",
+      "playerOff": "Eoin de Buitlear",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888965",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "David O'Connor",
+      "detail": "replaces Josh Murphy",
+      "playerOn": "David O'Connor",
+      "playerOff": "Josh Murphy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888967",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jordan Duggan",
+      "detail": "replaces Francois van Wyk",
+      "playerOn": "Jordan Duggan",
+      "playerOff": "Francois van Wyk",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888969",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Fiachna Barrett",
+      "detail": "replaces Finlay Bealham",
+      "playerOn": "Fiachna Barrett",
+      "playerOff": "Finlay Bealham",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1888940",
+      "minute": 57,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Sazi Sandi",
+      "detail": "Try (15-15)",
+      "playerName": "Sazi Sandi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 15,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1888943",
+      "minute": 58,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jurie Matthee",
+      "detail": "Conversion (15-17)",
+      "playerName": "Jurie Matthee",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 15,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1889033",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Yaqeen Ahmed",
+      "detail": "replaces Jurie Matthee",
+      "playerOn": "Yaqeen Ahmed",
+      "playerOff": "Jurie Matthee",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889029",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Shayne Bolton",
+      "detail": "replaces Finn Treacy",
+      "playerOn": "Shayne Bolton",
+      "playerOff": "Finn Treacy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889035",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Max Flynn",
+      "detail": "replaces Shamus Hurley-Langton",
+      "playerOn": "Max Flynn",
+      "playerOff": "Shamus Hurley-Langton",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889073",
+      "minute": 72,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sean Naughton",
+      "detail": "replaces John Devine",
+      "playerOn": "Sean Naughton",
+      "playerOff": "John Devine",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889089",
+      "minute": 72,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Wandisile Simelane",
+      "detail": "replaces Warrick Gelant",
+      "playerOn": "Wandisile Simelane",
+      "playerOff": "Warrick Gelant",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889113",
+      "minute": 74,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ezekiel Ngobeni",
+      "detail": "replaces Andre Warner",
+      "playerOn": "Ezekiel Ngobeni",
+      "playerOff": "Andre Warner",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889109",
+      "minute": 75,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Vernon Paulo",
+      "detail": "replaces Louw Nel",
+      "playerOn": "Vernon Paulo",
+      "playerOff": "Louw Nel",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889117",
+      "minute": 78,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Vernon Paulo",
+      "detail": "Try (15-22)",
+      "playerName": "Vernon Paulo",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 15,
+        "away": 22
+      }
+    },
+    {
+      "id": "espn-1889130",
+      "minute": 80,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Ezekiel Ngobeni",
+      "detail": "Try (15-27)",
+      "playerName": "Ezekiel Ngobeni",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 15,
+        "away": 27
+      }
+    },
+    {
+      "id": "espn-1889132",
+      "minute": 81,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Yaqeen Ahmed",
+      "detail": "Conversion (15-29)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 15,
+        "away": 29
+      }
+    }
+  ]
+}
