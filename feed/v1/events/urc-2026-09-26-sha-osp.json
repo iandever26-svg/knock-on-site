@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-sha-osp",
   "matchId": "urc-2026-09-26-sha-osp",
-  "updated_at": "2026-09-26T16:33:23+01:00",
+  "updated_at": "2026-09-26T16:38:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604036/competitions/604036/plays",
-      "fetched_at": "2026-09-26T16:33:23+01:00",
+      "fetched_at": "2026-09-26T16:38:23+01:00",
       "espn_event_id": "604036",
       "espn_league_id": 270557
     }
@@ -371,19 +371,52 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1889792",
+      "id": "espn-1889806",
       "minute": 63,
       "period": "2H",
-      "type": "try",
+      "type": "substitution",
+      "team": "away",
+      "player": "Evardi Boshoff",
+      "detail": "replaces Lalakai Foketi",
+      "playerOn": "Evardi Boshoff",
+      "playerOff": "Lalakai Foketi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889808",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Harri Deaves",
+      "detail": "replaces James Ratti",
+      "playerOn": "Harri Deaves",
+      "playerOff": "James Ratti",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889817",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
       "team": "home",
-      "player": "Suleiman Hartzenberg",
-      "detail": "Try (39-19)",
-      "playerName": "Suleiman Hartzenberg",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 39,
-        "away": 19
-      }
+      "player": "Ivan van Zyl",
+      "detail": "replaces Jaden Hendrikse",
+      "playerOn": "Ivan van Zyl",
+      "playerOff": "Jaden Hendrikse",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889820",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Siya Masuku",
+      "detail": "replaces Vusi Moyo",
+      "playerOn": "Siya Masuku",
+      "playerOff": "Vusi Moyo",
+      "label": "Substitution"
     }
   ]
 }
