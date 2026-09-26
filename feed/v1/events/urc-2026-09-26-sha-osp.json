@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-sha-osp",
   "matchId": "urc-2026-09-26-sha-osp",
-  "updated_at": "2026-09-26T16:38:23+01:00",
+  "updated_at": "2026-09-26T16:43:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604036/competitions/604036/plays",
-      "fetched_at": "2026-09-26T16:38:23+01:00",
+      "fetched_at": "2026-09-26T16:43:23+01:00",
       "espn_event_id": "604036",
       "espn_league_id": 270557
     }
@@ -416,6 +416,60 @@
       "detail": "replaces Vusi Moyo",
       "playerOn": "Siya Masuku",
       "playerOff": "Vusi Moyo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889834",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Zekhethelo Siyaya",
+      "detail": "replaces Jurenzo Julius",
+      "playerOn": "Zekhethelo Siyaya",
+      "playerOff": "Jurenzo Julius",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889822",
+      "minute": 67,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Luan Giliomee",
+      "detail": "Try (39-19)",
+      "playerName": "Luan Giliomee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 39,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1889831",
+      "minute": 68,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Siya Masuku",
+      "detail": "Conversion (41-19)",
+      "playerName": "Siya Masuku",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 41,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1889838",
+      "minute": 68,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Harri Wilde",
+      "detail": "replaces Lawson Creighton",
+      "playerOn": "Harri Wilde",
+      "playerOff": "Lawson Creighton",
       "label": "Substitution"
     }
   ]
