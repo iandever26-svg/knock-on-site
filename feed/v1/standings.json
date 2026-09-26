@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-09-26T10:05:05+01:00",
+  "updatedAt": "2026-09-26T14:38:23+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L.",
   "provenance": {
@@ -46,6 +46,22 @@
     },
     {
       "position": 3,
+      "teamId": "lions",
+      "team": "Lions",
+      "P": 1,
+      "W": 1,
+      "D": 0,
+      "L": 0,
+      "PF": 27,
+      "PA": 26,
+      "TF": 3,
+      "TA": 4,
+      "BP": 0,
+      "points": 4,
+      "form": "LLLWW"
+    },
+    {
+      "position": 4,
       "teamId": "benetton",
       "team": "Benetton Treviso",
       "P": 1,
@@ -61,7 +77,7 @@
       "form": "DLLWL"
     },
     {
-      "position": 4,
+      "position": 5,
       "teamId": "dragons",
       "team": "Dragons",
       "P": 1,
@@ -77,7 +93,23 @@
       "form": "DDLLW"
     },
     {
-      "position": 5,
+      "position": 6,
+      "teamId": "leinster",
+      "team": "Leinster",
+      "P": 1,
+      "W": 0,
+      "D": 0,
+      "L": 1,
+      "PF": 26,
+      "PA": 27,
+      "TF": 4,
+      "TA": 3,
+      "BP": 2,
+      "points": 2,
+      "form": "WWWLW"
+    },
+    {
+      "position": 7,
       "teamId": "ulster",
       "team": "Ulster",
       "P": 1,
@@ -93,7 +125,7 @@
       "form": "LLLDW"
     },
     {
-      "position": 6,
+      "position": 8,
       "teamId": "bulls",
       "team": "Bulls",
       "P": 0,
@@ -109,7 +141,7 @@
       "form": "LWWWW"
     },
     {
-      "position": 7,
+      "position": 9,
       "teamId": "cardiff",
       "team": "Cardiff Blues",
       "P": 0,
@@ -125,7 +157,7 @@
       "form": "LWLWW"
     },
     {
-      "position": 8,
+      "position": 10,
       "teamId": "glasgow",
       "team": "Glasgow Warriors",
       "P": 0,
@@ -139,38 +171,6 @@
       "BP": 0,
       "points": 0,
       "form": "LWWWL"
-    },
-    {
-      "position": 9,
-      "teamId": "leinster",
-      "team": "Leinster",
-      "P": 0,
-      "W": 0,
-      "D": 0,
-      "L": 0,
-      "PF": 0,
-      "PA": 0,
-      "TF": 0,
-      "TA": 0,
-      "BP": 0,
-      "points": 0,
-      "form": "WWWLW"
-    },
-    {
-      "position": 10,
-      "teamId": "lions",
-      "team": "Lions",
-      "P": 0,
-      "W": 0,
-      "D": 0,
-      "L": 0,
-      "PF": 0,
-      "PA": 0,
-      "TF": 0,
-      "TA": 0,
-      "BP": 0,
-      "points": 0,
-      "form": "LLLWW"
     },
     {
       "position": 11,
