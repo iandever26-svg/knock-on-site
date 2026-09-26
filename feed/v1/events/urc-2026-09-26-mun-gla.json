@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-mun-gla",
   "matchId": "urc-2026-09-26-mun-gla",
-  "updated_at": "2026-09-26T17:38:22+01:00",
+  "updated_at": "2026-09-26T17:43:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604037/competitions/604037/plays",
-      "fetched_at": "2026-09-26T17:38:22+01:00",
+      "fetched_at": "2026-09-26T17:43:23+01:00",
       "espn_event_id": "604037",
       "espn_league_id": 270557
     }
@@ -24,6 +24,21 @@
       "detail": "Penalty (3-0)",
       "playerName": "JJ Hanrahan",
       "label": "Penalty",
+      "scoreAfter": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1890119",
+      "minute": 9,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Ollie Smith",
+      "detail": "Yellow card (3-0)",
+      "playerName": "Ollie Smith",
+      "label": "Yellow card",
       "scoreAfter": {
         "home": 3,
         "away": 0
