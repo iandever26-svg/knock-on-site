@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-sha-osp",
   "matchId": "urc-2026-09-26-sha-osp",
-  "updated_at": "2026-09-26T16:23:22+01:00",
+  "updated_at": "2026-09-26T16:28:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604036/competitions/604036/plays",
-      "fetched_at": "2026-09-26T16:23:22+01:00",
+      "fetched_at": "2026-09-26T16:28:23+01:00",
       "espn_event_id": "604036",
       "espn_league_id": 270557
     }
@@ -293,6 +293,81 @@
       "player": null,
       "detail": "replaces Liam Wright",
       "playerOff": "Liam Wright",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889759",
+      "minute": 56,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Vusi Moyo",
+      "detail": "Penalty (34-19)",
+      "playerName": "Vusi Moyo",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 34,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1889760",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jason Jenkins",
+      "detail": "replaces Darrien Landsberg",
+      "playerOn": "Jason Jenkins",
+      "playerOff": "Darrien Landsberg",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889762",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Esethu Mnebelele",
+      "detail": "replaces Eduan Swart",
+      "playerOn": "Esethu Mnebelele",
+      "playerOff": "Eduan Swart",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889764",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Nemo Roelofse",
+      "detail": "replaces Phatu Ganyane",
+      "playerOn": "Nemo Roelofse",
+      "playerOff": "Phatu Ganyane",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889766",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Hanro Jacobs",
+      "detail": "replaces Vincent Koch",
+      "playerOn": "Hanro Jacobs",
+      "playerOff": "Vincent Koch",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889770",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Matt Romao",
+      "detail": "replaces Manu Tshituka",
+      "playerOn": "Matt Romao",
+      "playerOff": "Manu Tshituka",
       "label": "Substitution"
     }
   ]
