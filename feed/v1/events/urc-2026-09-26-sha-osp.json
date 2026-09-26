@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-sha-osp",
   "matchId": "urc-2026-09-26-sha-osp",
-  "updated_at": "2026-09-26T16:43:23+01:00",
+  "updated_at": "2026-09-26T16:48:22+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604036/competitions/604036/plays",
-      "fetched_at": "2026-09-26T16:43:23+01:00",
+      "fetched_at": "2026-09-26T16:48:22+01:00",
       "espn_event_id": "604036",
       "espn_league_id": 270557
     }
@@ -461,16 +461,42 @@
       }
     },
     {
-      "id": "espn-1889838",
+      "id": "espn-1889839",
       "minute": 68,
       "period": "2H",
       "type": "substitution",
       "team": "away",
       "player": "Harri Wilde",
-      "detail": "replaces Lawson Creighton",
+      "detail": "replaces Owen Watkin",
       "playerOn": "Harri Wilde",
-      "playerOff": "Lawson Creighton",
+      "playerOff": "Owen Watkin",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1889851",
+      "minute": 68,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": null,
+      "detail": "replaces Owen Watkin",
+      "playerOff": "Owen Watkin",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889848",
+      "minute": 71,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Iestyn Hopkins",
+      "detail": "Try (41-24)",
+      "playerName": "Iestyn Hopkins",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 41,
+        "away": 24
+      }
     }
   ]
 }
