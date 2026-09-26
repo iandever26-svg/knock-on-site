@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-mun-gla",
   "matchId": "urc-2026-09-26-mun-gla",
-  "updated_at": "2026-09-26T18:18:23+01:00",
+  "updated_at": "2026-09-26T18:38:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604037/competitions/604037/plays",
-      "fetched_at": "2026-09-26T18:18:23+01:00",
+      "fetched_at": "2026-09-26T18:38:23+01:00",
       "espn_event_id": "604037",
       "espn_league_id": 270557
     }
@@ -180,6 +180,42 @@
       "detail": "replaces Brian Gleeson",
       "playerOn": "Jack O'Donoghue",
       "playerOff": "Brian Gleeson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890170",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Nathan McBeth",
+      "detail": "replaces Patrick Schickerling",
+      "playerOn": "Nathan McBeth",
+      "playerOff": "Patrick Schickerling",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890174",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sam Talakai",
+      "detail": "replaces Murphy Walker",
+      "playerOn": "Sam Talakai",
+      "playerOff": "Murphy Walker",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890176",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Seb Stephen",
+      "detail": "replaces Gregor Hiddleston",
+      "playerOn": "Seb Stephen",
+      "playerOff": "Gregor Hiddleston",
       "label": "Substitution"
     }
   ]
