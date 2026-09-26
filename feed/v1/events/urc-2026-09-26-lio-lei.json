@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-lio-lei",
   "matchId": "urc-2026-09-26-lio-lei",
-  "updated_at": "2026-09-26T13:58:23+01:00",
+  "updated_at": "2026-09-26T14:03:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604035/competitions/604035/plays",
-      "fetched_at": "2026-09-26T13:58:23+01:00",
+      "fetched_at": "2026-09-26T14:03:23+01:00",
       "espn_event_id": "604035",
       "espn_league_id": 270557
     }
@@ -333,6 +333,30 @@
       "detail": "replaces Josh Ericson",
       "playerOn": "Dylan McNeice",
       "playerOff": "Josh Ericson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889509",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Niall Smyth",
+      "detail": "replaces Andrew Porter",
+      "playerOn": "Niall Smyth",
+      "playerOff": "Andrew Porter",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889511",
+      "minute": 68,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Hyron Andrews",
+      "detail": "replaces Ruan Delport",
+      "playerOn": "Hyron Andrews",
+      "playerOff": "Ruan Delport",
       "label": "Substitution"
     }
   ]
