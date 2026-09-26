@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-zeb-bul",
   "matchId": "urc-2026-09-26-zeb-bul",
-  "updated_at": "2026-09-26T18:48:23+01:00",
+  "updated_at": "2026-09-26T18:53:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604038/competitions/604038/plays",
-      "fetched_at": "2026-09-26T18:48:23+01:00",
+      "fetched_at": "2026-09-26T18:53:23+01:00",
       "espn_event_id": "604038",
       "espn_league_id": 270557
     }
@@ -264,38 +264,50 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1890200",
+      "id": "espn-1890201",
       "minute": 53,
       "period": "2H",
       "type": "substitution",
       "team": "away",
       "player": "Cheswill Jooste",
-      "detail": "replaces Harold Vorster",
+      "detail": "replaces Sebastian de Klerk",
       "playerOn": "Cheswill Jooste",
-      "playerOff": "Harold Vorster",
+      "playerOff": "Sebastian de Klerk",
       "label": "Substitution"
     },
     {
-      "id": "espn-1890205",
-      "minute": 53,
-      "period": "2H",
-      "type": "substitution",
-      "team": "away",
-      "player": "Hakeem Kunene",
-      "detail": "replaces Curwin Bosch",
-      "playerOn": "Hakeem Kunene",
-      "playerOff": "Curwin Bosch",
-      "label": "Substitution"
-    },
-    {
-      "id": "espn-1890213",
+      "id": "espn-1890203",
       "minute": 53,
       "period": "2H",
       "type": "substitution",
       "team": "away",
       "player": null,
-      "detail": "replaces Curwin Bosch",
-      "playerOff": "Curwin Bosch",
+      "detail": "replaces Sebastian de Klerk",
+      "playerOff": "Sebastian de Klerk",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890220",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Giovanni Montemauri",
+      "detail": "replaces Giacomo Da Re",
+      "playerOn": "Giovanni Montemauri",
+      "playerOff": "Giacomo Da Re",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890222",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Francisco Minervino",
+      "detail": "replaces Tommaso Di Bartolomeo",
+      "playerOn": "Francisco Minervino",
+      "playerOff": "Tommaso Di Bartolomeo",
       "label": "Substitution"
     },
     {
