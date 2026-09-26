@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-lio-lei",
   "matchId": "urc-2026-09-26-lio-lei",
-  "updated_at": "2026-09-26T12:38:23+01:00",
+  "updated_at": "2026-09-26T12:43:22+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604035/competitions/604035/plays",
-      "fetched_at": "2026-09-26T12:38:23+01:00",
+      "fetched_at": "2026-09-26T12:43:22+01:00",
       "espn_event_id": "604035",
       "espn_league_id": 270557
     }
@@ -25,6 +25,51 @@
       "playerOn": "Ethan Adams",
       "playerOff": "Henco van Wyk",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1889389",
+      "minute": 6,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Fintan Gunne",
+      "detail": "Try (0-5)",
+      "playerName": "Fintan Gunne",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1889390",
+      "minute": 9,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Erich Cronje",
+      "detail": "Try (5-5)",
+      "playerName": "Erich Cronje",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1889391",
+      "minute": 9,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Chris Smith",
+      "detail": "Conversion (7-5)",
+      "playerName": "Chris Smith",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 5
+      }
     }
   ]
 }
