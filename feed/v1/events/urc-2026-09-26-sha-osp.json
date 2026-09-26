@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-sha-osp",
   "matchId": "urc-2026-09-26-sha-osp",
-  "updated_at": "2026-09-26T15:28:22+01:00",
+  "updated_at": "2026-09-26T15:38:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604036/competitions/604036/plays",
-      "fetched_at": "2026-09-26T15:28:22+01:00",
+      "fetched_at": "2026-09-26T15:38:23+01:00",
       "espn_event_id": "604036",
       "espn_league_id": 270557
     }
@@ -72,6 +72,66 @@
       "scoreAfter": {
         "home": 14,
         "away": 0
+      }
+    },
+    {
+      "id": "espn-1889654",
+      "minute": 28,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Luan Giliomee",
+      "detail": "Try (19-0)",
+      "playerName": "Luan Giliomee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1889655",
+      "minute": 29,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Vusi Moyo",
+      "detail": "Conversion (21-0)",
+      "playerName": "Vusi Moyo",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1889656",
+      "minute": 32,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Luke Morgan",
+      "detail": "Try (21-5)",
+      "playerName": "Luke Morgan",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 21,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1889657",
+      "minute": 32,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Lawson Creighton",
+      "detail": "Conversion (21-7)",
+      "playerName": "Lawson Creighton",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 7
       }
     }
   ]
