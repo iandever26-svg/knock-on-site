@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-zeb-bul",
   "matchId": "urc-2026-09-26-zeb-bul",
-  "updated_at": "2026-09-26T18:43:23+01:00",
+  "updated_at": "2026-09-26T18:48:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604038/competitions/604038/plays",
-      "fetched_at": "2026-09-26T18:43:23+01:00",
+      "fetched_at": "2026-09-26T18:48:23+01:00",
       "espn_event_id": "604038",
       "espn_league_id": 270557
     }
@@ -226,6 +226,107 @@
       "playerOn": "Davide Ruggeri",
       "playerOff": "Giacomo Ferrari",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1890188",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Dylan Smith",
+      "detail": "replaces Alulutho Tshakweni",
+      "playerOn": "Dylan Smith",
+      "playerOff": "Alulutho Tshakweni",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890190",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Janco Uys",
+      "detail": "replaces Juann Else",
+      "playerOn": "Janco Uys",
+      "playerOff": "Juann Else",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890192",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Mornay Smith",
+      "detail": "replaces Francois Klopper",
+      "playerOn": "Mornay Smith",
+      "playerOff": "Francois Klopper",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890200",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Cheswill Jooste",
+      "detail": "replaces Harold Vorster",
+      "playerOn": "Cheswill Jooste",
+      "playerOff": "Harold Vorster",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890205",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Hakeem Kunene",
+      "detail": "replaces Curwin Bosch",
+      "playerOn": "Hakeem Kunene",
+      "playerOff": "Curwin Bosch",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890213",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": null,
+      "detail": "replaces Curwin Bosch",
+      "playerOff": "Curwin Bosch",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890211",
+      "minute": 58,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Alessandro Fusco",
+      "detail": "Try (11-28)",
+      "playerName": "Alessandro Fusco",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 11,
+        "away": 28
+      }
+    },
+    {
+      "id": "espn-1890212",
+      "minute": 59,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Tommaso Allan",
+      "detail": "Conversion (13-28)",
+      "playerName": "Tommaso Allan",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 13,
+        "away": 28
+      }
     }
   ]
 }
