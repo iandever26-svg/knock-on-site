@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-09-26-sha-osp",
+  "matchId": "urc-2026-09-26-sha-osp",
+  "updated_at": "2026-09-26T15:03:23+01:00",
+  "final": false,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604036/competitions/604036/plays",
+      "fetched_at": "2026-09-26T15:03:23+01:00",
+      "espn_event_id": "604036",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": []
+}
