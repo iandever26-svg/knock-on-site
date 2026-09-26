@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-lio-lei",
   "matchId": "urc-2026-09-26-lio-lei",
-  "updated_at": "2026-09-26T13:18:23+01:00",
+  "updated_at": "2026-09-26T13:23:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604035/competitions/604035/plays",
-      "fetched_at": "2026-09-26T13:18:23+01:00",
+      "fetched_at": "2026-09-26T13:23:23+01:00",
       "espn_event_id": "604035",
       "espn_league_id": 270557
     }
@@ -129,8 +129,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1889428",
-      "minute": 20,
+      "id": "espn-1889444",
+      "minute": 24,
       "period": "1H",
       "type": "try",
       "team": "home",
@@ -144,38 +144,38 @@
       }
     },
     {
-      "id": "espn-1889429",
-      "minute": 20,
-      "period": "1H",
-      "type": "try",
-      "team": "away",
-      "player": "Fintan Gunne",
-      "detail": "Try (15-17)",
-      "playerName": "Fintan Gunne",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 15,
-        "away": 17
-      }
-    },
-    {
-      "id": "espn-1889430",
-      "minute": 20,
+      "id": "espn-1889445",
+      "minute": 25,
       "period": "1H",
       "type": "conversion_made",
       "team": "home",
       "player": "Chris Smith",
-      "detail": "Conversion (17-17)",
+      "detail": "Conversion (17-12)",
       "playerName": "Chris Smith",
       "label": "Conversion",
+      "scoreAfter": {
+        "home": 17,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1889446",
+      "minute": 39,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Fintan Gunne",
+      "detail": "Try (17-17)",
+      "playerName": "Fintan Gunne",
+      "label": "Try",
       "scoreAfter": {
         "home": 17,
         "away": 17
       }
     },
     {
-      "id": "espn-1889431",
-      "minute": 20,
+      "id": "espn-1889447",
+      "minute": 40,
       "period": "1H",
       "type": "conversion_made",
       "team": "away",
