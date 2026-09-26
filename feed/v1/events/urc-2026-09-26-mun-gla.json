@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-mun-gla",
   "matchId": "urc-2026-09-26-mun-gla",
-  "updated_at": "2026-09-26T17:53:23+01:00",
+  "updated_at": "2026-09-26T18:08:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604037/competitions/604037/plays",
-      "fetched_at": "2026-09-26T17:53:23+01:00",
+      "fetched_at": "2026-09-26T18:08:23+01:00",
       "espn_event_id": "604037",
       "espn_league_id": 270557
     }
@@ -85,6 +85,48 @@
       "playerOn": "Dan Kelly",
       "playerOff": "Mike Haley",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1890141",
+      "minute": 29,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Brian Gleeson",
+      "detail": "replaces Jack O'Donoghue",
+      "playerOn": "Brian Gleeson",
+      "playerOff": "Jack O'Donoghue",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890153",
+      "minute": 31,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Jamie Dobie",
+      "detail": "Try (10-5)",
+      "playerName": "Jamie Dobie",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1890152",
+      "minute": 32,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "George Horne",
+      "detail": "Conversion (10-7)",
+      "playerName": "George Horne",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 10,
+        "away": 7
+      }
     }
   ]
 }
