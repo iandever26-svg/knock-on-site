@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-zeb-bul",
   "matchId": "urc-2026-09-26-zeb-bul",
-  "updated_at": "2026-09-26T18:08:23+01:00",
+  "updated_at": "2026-09-26T18:13:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604038/competitions/604038/plays",
-      "fetched_at": "2026-09-26T18:08:23+01:00",
+      "fetched_at": "2026-09-26T18:13:23+01:00",
       "espn_event_id": "604038",
       "espn_league_id": 270557
     }
@@ -112,6 +112,36 @@
       "playerOn": "Sergio Pelliccioli",
       "playerOff": "Federico Pisani",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1890157",
+      "minute": 38,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Paul de Wet",
+      "detail": "Try (6-12)",
+      "playerName": "Paul de Wet",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 6,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1890158",
+      "minute": 39,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Curwin Bosch",
+      "detail": "Conversion (6-14)",
+      "playerName": "Curwin Bosch",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 6,
+        "away": 14
+      }
     }
   ]
 }
