@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-lio-lei",
   "matchId": "urc-2026-09-26-lio-lei",
-  "updated_at": "2026-09-26T14:13:23+01:00",
+  "updated_at": "2026-09-26T14:18:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604035/competitions/604035/plays",
-      "fetched_at": "2026-09-26T14:13:23+01:00",
+      "fetched_at": "2026-09-26T14:18:23+01:00",
       "espn_event_id": "604035",
       "espn_league_id": 270557
     }
@@ -409,6 +409,36 @@
       "playerOn": "Oliver Coffey",
       "playerOff": "Hugh Cooney",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1889544",
+      "minute": 80,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Kelly Mpeku",
+      "detail": "Try (25-19)",
+      "playerName": "Kelly Mpeku",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 25,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1889545",
+      "minute": 81,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Chris Smith",
+      "detail": "Conversion (27-19)",
+      "playerName": "Chris Smith",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 27,
+        "away": 19
+      }
     }
   ]
 }
