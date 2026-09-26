@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-lio-lei",
   "matchId": "urc-2026-09-26-lio-lei",
-  "updated_at": "2026-09-26T13:28:23+01:00",
+  "updated_at": "2026-09-26T13:38:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604035/competitions/604035/plays",
-      "fetched_at": "2026-09-26T13:28:23+01:00",
+      "fetched_at": "2026-09-26T13:38:23+01:00",
       "espn_event_id": "604035",
       "espn_league_id": 270557
     }
@@ -187,6 +187,54 @@
         "home": 17,
         "away": 19
       }
+    },
+    {
+      "id": "espn-1889457",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "RF Schoeman",
+      "detail": "replaces Sebastian Lombard",
+      "playerOn": "RF Schoeman",
+      "playerOff": "Sebastian Lombard",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889459",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Morne Brandon",
+      "detail": "replaces PJ Botha",
+      "playerOn": "Morne Brandon",
+      "playerOff": "PJ Botha",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889461",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "SJ Kotze",
+      "detail": "replaces Boan Venter",
+      "playerOn": "SJ Kotze",
+      "playerOff": "Boan Venter",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889463",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "JC Pretorius",
+      "detail": "replaces Etienne Oosthuizen",
+      "playerOn": "JC Pretorius",
+      "playerOff": "Etienne Oosthuizen",
+      "label": "Substitution"
     }
   ]
 }
