@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-lio-lei",
   "matchId": "urc-2026-09-26-lio-lei",
-  "updated_at": "2026-09-26T14:08:22+01:00",
+  "updated_at": "2026-09-26T14:13:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604035/competitions/604035/plays",
-      "fetched_at": "2026-09-26T14:08:22+01:00",
+      "fetched_at": "2026-09-26T14:13:23+01:00",
       "espn_event_id": "604035",
       "espn_league_id": 270557
     }
@@ -360,7 +360,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1889517",
+      "id": "espn-1889534",
       "minute": 72,
       "period": "2H",
       "type": "substitution",
@@ -372,8 +372,20 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1889520",
-      "minute": 73,
+      "id": "espn-1889542",
+      "minute": 72,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ethan Adams",
+      "detail": "replaces Richard Kriel",
+      "playerOn": "Ethan Adams",
+      "playerOff": "Richard Kriel",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889541",
+      "minute": 72,
       "period": "2H",
       "type": "yellow_card",
       "team": "away",
@@ -385,6 +397,18 @@
         "home": 20,
         "away": 19
       }
+    },
+    {
+      "id": "espn-1889538",
+      "minute": 75,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Oliver Coffey",
+      "detail": "replaces Hugh Cooney",
+      "playerOn": "Oliver Coffey",
+      "playerOff": "Hugh Cooney",
+      "label": "Substitution"
     }
   ]
 }
