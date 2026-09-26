@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-lio-lei",
   "matchId": "urc-2026-09-26-lio-lei",
-  "updated_at": "2026-09-26T14:03:23+01:00",
+  "updated_at": "2026-09-26T14:08:22+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604035/competitions/604035/plays",
-      "fetched_at": "2026-09-26T14:03:23+01:00",
+      "fetched_at": "2026-09-26T14:08:22+01:00",
       "espn_event_id": "604035",
       "espn_league_id": 270557
     }
@@ -358,6 +358,33 @@
       "playerOn": "Hyron Andrews",
       "playerOff": "Ruan Delport",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1889517",
+      "minute": 72,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ciaran Mangan",
+      "detail": "replaces Todd Lawlor",
+      "playerOn": "Ciaran Mangan",
+      "playerOff": "Todd Lawlor",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889520",
+      "minute": 73,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Dylan McNeice",
+      "detail": "Yellow card (20-19)",
+      "playerName": "Dylan McNeice",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 20,
+        "away": 19
+      }
     }
   ]
 }
