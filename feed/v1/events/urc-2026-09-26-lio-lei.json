@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-lio-lei",
   "matchId": "urc-2026-09-26-lio-lei",
-  "updated_at": "2026-09-26T14:23:23+01:00",
-  "final": false,
+  "updated_at": "2026-09-26T14:28:23+01:00",
+  "final": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604035/competitions/604035/plays",
-      "fetched_at": "2026-09-26T14:23:23+01:00",
+      "fetched_at": "2026-09-26T14:28:23+01:00",
       "espn_event_id": "604035",
       "espn_league_id": 270557
     }
@@ -411,7 +411,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1889550",
+      "id": "espn-1889558",
       "minute": 79,
       "period": "2H",
       "type": "try",
@@ -441,6 +441,18 @@
       }
     },
     {
+      "id": "espn-1889559",
+      "minute": 81,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Zian Cilliers",
+      "detail": "replaces Nico Steyn",
+      "playerOn": "Zian Cilliers",
+      "playerOff": "Nico Steyn",
+      "label": "Substitution"
+    },
+    {
       "id": "espn-1889554",
       "minute": 85,
       "period": "2H",
@@ -453,6 +465,36 @@
       "scoreAfter": {
         "home": 27,
         "away": 19
+      }
+    },
+    {
+      "id": "espn-1889555",
+      "minute": 85,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Stephen Smyth",
+      "detail": "Try (27-24)",
+      "playerName": "Stephen Smyth",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 27,
+        "away": 24
+      }
+    },
+    {
+      "id": "espn-1889557",
+      "minute": 86,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Harry Byrne",
+      "detail": "Conversion (27-21)",
+      "playerName": "Harry Byrne",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 27,
+        "away": 21
       }
     }
   ]
