@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-zeb-bul",
   "matchId": "urc-2026-09-26-zeb-bul",
-  "updated_at": "2026-09-26T17:48:22+01:00",
+  "updated_at": "2026-09-26T18:03:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604038/competitions/604038/plays",
-      "fetched_at": "2026-09-26T17:48:22+01:00",
+      "fetched_at": "2026-09-26T18:03:23+01:00",
       "espn_event_id": "604038",
       "espn_league_id": 270557
     }
@@ -26,6 +26,36 @@
       "label": "Penalty",
       "scoreAfter": {
         "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1890135",
+      "minute": 26,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Matteo Canali",
+      "detail": "Yellow card (3-0)",
+      "playerName": "Matteo Canali",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1890136",
+      "minute": 30,
+      "period": "1H",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Tommaso Allan",
+      "detail": "Penalty (6-0)",
+      "playerName": "Tommaso Allan",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 6,
         "away": 0
       }
     }
