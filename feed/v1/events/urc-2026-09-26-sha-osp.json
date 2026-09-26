@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-sha-osp",
   "matchId": "urc-2026-09-26-sha-osp",
-  "updated_at": "2026-09-26T16:28:23+01:00",
+  "updated_at": "2026-09-26T16:33:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604036/competitions/604036/plays",
-      "fetched_at": "2026-09-26T16:28:23+01:00",
+      "fetched_at": "2026-09-26T16:33:23+01:00",
       "espn_event_id": "604036",
       "espn_league_id": 270557
     }
@@ -369,6 +369,21 @@
       "playerOn": "Matt Romao",
       "playerOff": "Manu Tshituka",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1889792",
+      "minute": 63,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Suleiman Hartzenberg",
+      "detail": "Try (39-19)",
+      "playerName": "Suleiman Hartzenberg",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 39,
+        "away": 19
+      }
     }
   ]
 }
