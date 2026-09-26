@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-lio-lei",
   "matchId": "urc-2026-09-26-lio-lei",
-  "updated_at": "2026-09-26T13:38:23+01:00",
+  "updated_at": "2026-09-26T13:43:22+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604035/competitions/604035/plays",
-      "fetched_at": "2026-09-26T13:38:23+01:00",
+      "fetched_at": "2026-09-26T13:43:22+01:00",
       "espn_event_id": "604035",
       "espn_league_id": 270557
     }
@@ -234,6 +234,42 @@
       "detail": "replaces Etienne Oosthuizen",
       "playerOn": "JC Pretorius",
       "playerOff": "Etienne Oosthuizen",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889467",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Brian Deeny",
+      "detail": "replaces Josh Ericson",
+      "playerOn": "Brian Deeny",
+      "playerOff": "Josh Ericson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889469",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Harry Byrne",
+      "detail": "replaces Caspar Gabriel",
+      "playerOn": "Harry Byrne",
+      "playerOff": "Caspar Gabriel",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889471",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Peter Dooley",
+      "detail": "replaces Alex Usanov",
+      "playerOn": "Peter Dooley",
+      "playerOff": "Alex Usanov",
       "label": "Substitution"
     }
   ]
