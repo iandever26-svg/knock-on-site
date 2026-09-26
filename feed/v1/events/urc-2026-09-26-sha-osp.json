@@ -2,16 +2,47 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-sha-osp",
   "matchId": "urc-2026-09-26-sha-osp",
-  "updated_at": "2026-09-26T15:03:23+01:00",
+  "updated_at": "2026-09-26T15:18:22+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604036/competitions/604036/plays",
-      "fetched_at": "2026-09-26T15:03:23+01:00",
+      "fetched_at": "2026-09-26T15:18:22+01:00",
       "espn_event_id": "604036",
       "espn_league_id": 270557
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "espn-1889634",
+      "minute": 12,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Nick Hatton",
+      "detail": "Try (5-0)",
+      "playerName": "Nick Hatton",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1889635",
+      "minute": 13,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Vusi Moyo",
+      "detail": "Conversion (7-0)",
+      "playerName": "Vusi Moyo",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 0
+      }
+    }
+  ]
 }
