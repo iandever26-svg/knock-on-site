@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-sha-osp",
   "matchId": "urc-2026-09-26-sha-osp",
-  "updated_at": "2026-09-26T16:13:23+01:00",
+  "updated_at": "2026-09-26T16:23:22+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604036/competitions/604036/plays",
-      "fetched_at": "2026-09-26T16:13:23+01:00",
+      "fetched_at": "2026-09-26T16:23:22+01:00",
       "espn_event_id": "604036",
       "espn_league_id": 270557
     }
@@ -231,6 +231,68 @@
       "detail": "replaces Steffan Thomas",
       "playerOn": "Gareth Thomas",
       "playerOff": "Steffan Thomas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889742",
+      "minute": 53,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Vusi Moyo",
+      "detail": "Penalty (31-19)",
+      "playerName": "Vusi Moyo",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 31,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1889746",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Kieran Hardy",
+      "detail": "replaces Luke Davies",
+      "playerOn": "Kieran Hardy",
+      "playerOff": "Luke Davies",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889748",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Efan Daniel",
+      "detail": "replaces Sam Parry",
+      "playerOn": "Efan Daniel",
+      "playerOff": "Sam Parry",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889751",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ryan Smith",
+      "detail": "replaces Liam Wright",
+      "playerOn": "Ryan Smith",
+      "playerOff": "Liam Wright",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1889752",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": null,
+      "detail": "replaces Liam Wright",
+      "playerOff": "Liam Wright",
       "label": "Substitution"
     }
   ]
