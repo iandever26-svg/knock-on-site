@@ -2,13 +2,15 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-zeb-bul",
   "matchId": "urc-2026-09-26-zeb-bul",
-  "updated_at": "2026-09-26T18:53:23+01:00",
-  "final": false,
+  "updated_at": "2026-09-28T13:23:08+01:00",
+  "final": true,
+  "scores_verified": false,
+  "note": "ESPN timeline incomplete: events sum to 13-40, final 13-47; running scores omitted.",
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604038/competitions/604038/plays",
-      "fetched_at": "2026-09-26T18:53:23+01:00",
+      "fetched_at": "2026-09-28T13:23:08+01:00",
       "espn_event_id": "604038",
       "espn_league_id": 270557
     }
@@ -21,13 +23,9 @@
       "type": "penalty_goal_made",
       "team": "home",
       "player": "Tommaso Allan",
-      "detail": "Penalty (3-0)",
+      "detail": "Penalty",
       "playerName": "Tommaso Allan",
-      "label": "Penalty",
-      "scoreAfter": {
-        "home": 3,
-        "away": 0
-      }
+      "label": "Penalty"
     },
     {
       "id": "espn-1890135",
@@ -36,28 +34,20 @@
       "type": "yellow_card",
       "team": "home",
       "player": "Matteo Canali",
-      "detail": "Yellow card (3-0)",
+      "detail": "Yellow card",
       "playerName": "Matteo Canali",
-      "label": "Yellow card",
-      "scoreAfter": {
-        "home": 3,
-        "away": 0
-      }
+      "label": "Yellow card"
     },
     {
-      "id": "espn-1890136",
+      "id": "espn-1890871",
       "minute": 30,
       "period": "1H",
       "type": "penalty_goal_made",
       "team": "home",
       "player": "Tommaso Allan",
-      "detail": "Penalty (6-0)",
+      "detail": "Penalty",
       "playerName": "Tommaso Allan",
-      "label": "Penalty",
-      "scoreAfter": {
-        "home": 6,
-        "away": 0
-      }
+      "label": "Penalty"
     },
     {
       "id": "espn-1890137",
@@ -66,31 +56,23 @@
       "type": "try",
       "team": "away",
       "player": "Reinhardt Ludwig",
-      "detail": "Try (6-5)",
+      "detail": "Try",
       "playerName": "Reinhardt Ludwig",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 6,
-        "away": 5
-      }
+      "label": "Try"
     },
     {
-      "id": "espn-1890140",
+      "id": "espn-1890872",
       "minute": 32,
       "period": "1H",
       "type": "conversion_made",
       "team": "away",
       "player": "Curwin Bosch",
-      "detail": "Conversion (6-7)",
+      "detail": "Conversion",
       "playerName": "Curwin Bosch",
-      "label": "Conversion",
-      "scoreAfter": {
-        "home": 6,
-        "away": 7
-      }
+      "label": "Conversion"
     },
     {
-      "id": "espn-1890143",
+      "id": "espn-1890873",
       "minute": 33,
       "period": "1H",
       "type": "substitution",
@@ -102,7 +84,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1890145",
+      "id": "espn-1890875",
       "minute": 33,
       "period": "1H",
       "type": "substitution",
@@ -114,34 +96,26 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1890157",
+      "id": "espn-1890877",
       "minute": 38,
       "period": "1H",
       "type": "try",
       "team": "away",
       "player": "Paul de Wet",
-      "detail": "Try (6-12)",
+      "detail": "Try",
       "playerName": "Paul de Wet",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 6,
-        "away": 12
-      }
+      "label": "Try"
     },
     {
-      "id": "espn-1890158",
+      "id": "espn-1890878",
       "minute": 39,
       "period": "1H",
       "type": "conversion_made",
       "team": "away",
       "player": "Curwin Bosch",
-      "detail": "Conversion (6-14)",
+      "detail": "Conversion",
       "playerName": "Curwin Bosch",
-      "label": "Conversion",
-      "scoreAfter": {
-        "home": 6,
-        "away": 14
-      }
+      "label": "Conversion"
     },
     {
       "id": "espn-1890166",
@@ -150,13 +124,9 @@
       "type": "try",
       "team": "away",
       "player": "Ruan Vermaak",
-      "detail": "Try (6-19)",
+      "detail": "Try",
       "playerName": "Ruan Vermaak",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 6,
-        "away": 19
-      }
+      "label": "Try"
     },
     {
       "id": "espn-1890167",
@@ -165,13 +135,9 @@
       "type": "conversion_made",
       "team": "away",
       "player": "Curwin Bosch",
-      "detail": "Conversion (6-21)",
+      "detail": "Conversion",
       "playerName": "Curwin Bosch",
-      "label": "Conversion",
-      "scoreAfter": {
-        "home": 6,
-        "away": 21
-      }
+      "label": "Conversion"
     },
     {
       "id": "espn-1890179",
@@ -192,13 +158,9 @@
       "type": "try",
       "team": "away",
       "player": "Harold Vorster",
-      "detail": "Try (6-26)",
+      "detail": "Try",
       "playerName": "Harold Vorster",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 6,
-        "away": 26
-      }
+      "label": "Try"
     },
     {
       "id": "espn-1890181",
@@ -207,13 +169,9 @@
       "type": "conversion_made",
       "team": "away",
       "player": "Curwin Bosch",
-      "detail": "Conversion (6-28)",
+      "detail": "Conversion",
       "playerName": "Curwin Bosch",
-      "label": "Conversion",
-      "scoreAfter": {
-        "home": 6,
-        "away": 28
-      }
+      "label": "Conversion"
     },
     {
       "id": "espn-1890186",
@@ -281,9 +239,33 @@
       "period": "2H",
       "type": "substitution",
       "team": "away",
-      "player": null,
+      "player": "Hakeem Kunene",
       "detail": "replaces Sebastian de Klerk",
+      "playerOn": "Hakeem Kunene",
       "playerOff": "Sebastian de Klerk",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890213",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": null,
+      "detail": "replaces Curwin Bosch",
+      "playerOff": "Curwin Bosch",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890251",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Curwin Bosch",
+      "detail": "replaces Hakeem Kunene",
+      "playerOn": "Curwin Bosch",
+      "playerOff": "Hakeem Kunene",
       "label": "Substitution"
     },
     {
@@ -317,13 +299,9 @@
       "type": "try",
       "team": "home",
       "player": "Alessandro Fusco",
-      "detail": "Try (11-28)",
+      "detail": "Try",
       "playerName": "Alessandro Fusco",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 11,
-        "away": 28
-      }
+      "label": "Try"
     },
     {
       "id": "espn-1890212",
@@ -332,13 +310,147 @@
       "type": "conversion_made",
       "team": "home",
       "player": "Tommaso Allan",
-      "detail": "Conversion (13-28)",
+      "detail": "Conversion",
       "playerName": "Tommaso Allan",
-      "label": "Conversion",
-      "scoreAfter": {
-        "home": 13,
-        "away": 28
-      }
+      "label": "Conversion"
+    },
+    {
+      "id": "espn-1890241",
+      "minute": 61,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Thomas Dominguez",
+      "detail": "replaces Alessandro Fusco",
+      "playerOn": "Thomas Dominguez",
+      "playerOff": "Alessandro Fusco",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890266",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Franco Carrera",
+      "detail": "replaces Leonard Krumov",
+      "playerOn": "Franco Carrera",
+      "playerOff": "Leonard Krumov",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890304",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": null,
+      "detail": "replaces Leonard Krumov",
+      "playerOff": "Leonard Krumov",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890267",
+      "minute": 67,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Hakeem Kunene",
+      "detail": "replaces Curwin Bosch",
+      "playerOn": "Hakeem Kunene",
+      "playerOff": "Curwin Bosch",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890292",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Nizaam Carr",
+      "detail": "replaces Marcell Coetzee",
+      "playerOn": "Nizaam Carr",
+      "playerOff": "Marcell Coetzee",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890294",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "JF van Heerden",
+      "detail": "replaces Ruan Vermaak",
+      "playerOn": "JF van Heerden",
+      "playerOff": "Ruan Vermaak",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890296",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Zak Burger",
+      "detail": "replaces Harold Vorster",
+      "playerOn": "Zak Burger",
+      "playerOff": "Harold Vorster",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890327",
+      "minute": 77,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Jeandre Rudolph",
+      "detail": "Yellow card",
+      "playerName": "Jeandre Rudolph",
+      "label": "Yellow card"
+    },
+    {
+      "id": "espn-1890879",
+      "minute": 78,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Reinhardt Ludwig",
+      "detail": "Try",
+      "playerName": "Reinhardt Ludwig",
+      "label": "Try"
+    },
+    {
+      "id": "espn-1890880",
+      "minute": 79,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Willie le Roux",
+      "detail": "Conversion",
+      "playerName": "Willie le Roux",
+      "label": "Conversion"
+    },
+    {
+      "id": "espn-1890881",
+      "minute": 81,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Sergio Pelliccioli",
+      "detail": "Yellow card",
+      "playerName": "Sergio Pelliccioli",
+      "label": "Yellow card"
+    },
+    {
+      "id": "espn-1890882",
+      "minute": 83,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Zak Burger",
+      "detail": "Try",
+      "playerName": "Zak Burger",
+      "label": "Try"
     }
   ]
 }

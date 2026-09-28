@@ -1,0 +1,348 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-09-26-sca-car",
+  "matchId": "urc-2026-09-26-sca-car",
+  "updated_at": "2026-09-28T13:21:08+01:00",
+  "final": true,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604039/competitions/604039/plays",
+      "fetched_at": "2026-09-28T13:21:08+01:00",
+      "espn_event_id": "604039",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": [
+    {
+      "id": "espn-1890818",
+      "minute": 6,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Joe Roberts",
+      "detail": "Try (5-0)",
+      "playerName": "Joe Roberts",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1890819",
+      "minute": 18,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Dan Thomas",
+      "detail": "Try (5-5)",
+      "playerName": "Dan Thomas",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1890820",
+      "minute": 19,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Callum Sheedy",
+      "detail": "Conversion (5-7)",
+      "playerName": "Callum Sheedy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 5,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1890403",
+      "minute": 23,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Blair Murray",
+      "detail": "Try (10-7)",
+      "playerName": "Blair Murray",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1890407",
+      "minute": 24,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Gareth Anscombe",
+      "detail": "Conversion (12-7)",
+      "playerName": "Gareth Anscombe",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1890821",
+      "minute": 38,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Taine Basham",
+      "detail": "Try (12-12)",
+      "playerName": "Taine Basham",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1890428",
+      "minute": 39,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Callum Sheedy",
+      "detail": "Conversion (12-14)",
+      "playerName": "Callum Sheedy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1890822",
+      "minute": 44,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Josh Morse",
+      "detail": "replaces Sam O'Connor",
+      "playerOn": "Josh Morse",
+      "playerOff": "Sam O'Connor",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890824",
+      "minute": 44,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Tristan Davies",
+      "detail": "replaces Harvey Cuckson",
+      "playerOn": "Tristan Davies",
+      "playerOff": "Harvey Cuckson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890826",
+      "minute": 44,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Gabe Hawley",
+      "detail": "replaces Henry Thomas",
+      "playerOn": "Gabe Hawley",
+      "playerOff": "Henry Thomas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890524",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Joe Hawkins",
+      "detail": "replaces Gareth Anscombe",
+      "playerOn": "Joe Hawkins",
+      "playerOff": "Gareth Anscombe",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890528",
+      "minute": 52,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Joe Hawkins",
+      "detail": "Penalty (15-14)",
+      "playerName": "Joe Hawkins",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 15,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1890538",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "James Botham",
+      "detail": "replaces Dan Thomas",
+      "playerOn": "James Botham",
+      "playerOff": "Dan Thomas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890542",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Evan Lloyd",
+      "detail": "replaces Liam Belcher",
+      "playerOn": "Evan Lloyd",
+      "playerOff": "Liam Belcher",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890545",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jarrod Evans",
+      "detail": "replaces Callum Sheedy",
+      "playerOn": "Jarrod Evans",
+      "playerOff": "Callum Sheedy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890547",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Harri Millard",
+      "detail": "replaces Cameron Winnett",
+      "playerOn": "Harri Millard",
+      "playerOff": "Cameron Winnett",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890601",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Rhys Barratt",
+      "detail": "replaces Scott Sio",
+      "playerOn": "Rhys Barratt",
+      "playerOff": "Scott Sio",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890828",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Alex Groves",
+      "detail": "replaces Will Evans",
+      "playerOn": "Alex Groves",
+      "playerOff": "Will Evans",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890830",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "John McKee",
+      "detail": "replaces Ryan Elias",
+      "playerOn": "John McKee",
+      "playerOff": "Ryan Elias",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890832",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ellis Bevan",
+      "detail": "replaces Mason Grady",
+      "playerOn": "Ellis Bevan",
+      "playerOff": "Mason Grady",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890648",
+      "minute": 65,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Evan Lloyd",
+      "detail": "Try (15-19)",
+      "playerName": "Evan Lloyd",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 15,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1890649",
+      "minute": 65,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jarrod Evans",
+      "detail": "Conversion (15-21)",
+      "playerName": "Jarrod Evans",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 15,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1890656",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sam Wainwright",
+      "detail": "replaces Javan Sebastian",
+      "playerOn": "Sam Wainwright",
+      "playerOff": "Javan Sebastian",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890834",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Archie Hughes",
+      "detail": "replaces Dane Blacker",
+      "playerOn": "Archie Hughes",
+      "playerOff": "Dane Blacker",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890836",
+      "minute": 72,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Rory Thornton",
+      "detail": "replaces Teddy Williams",
+      "playerOn": "Rory Thornton",
+      "playerOff": "Teddy Williams",
+      "label": "Substitution"
+    }
+  ]
+}

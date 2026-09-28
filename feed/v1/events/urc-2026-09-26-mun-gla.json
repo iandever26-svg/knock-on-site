@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-26-mun-gla",
   "matchId": "urc-2026-09-26-mun-gla",
-  "updated_at": "2026-09-26T18:53:23+01:00",
-  "final": false,
+  "updated_at": "2026-09-28T13:21:08+01:00",
+  "final": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604037/competitions/604037/plays",
-      "fetched_at": "2026-09-26T18:53:23+01:00",
+      "fetched_at": "2026-09-28T13:21:08+01:00",
       "espn_event_id": "604037",
       "espn_league_id": 270557
     }
@@ -30,7 +30,7 @@
       }
     },
     {
-      "id": "espn-1890119",
+      "id": "espn-1890813",
       "minute": 9,
       "period": "1H",
       "type": "yellow_card",
@@ -87,7 +87,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1890141",
+      "id": "espn-1890814",
       "minute": 29,
       "period": "1H",
       "type": "substitution",
@@ -114,7 +114,7 @@
       }
     },
     {
-      "id": "espn-1890152",
+      "id": "espn-1890816",
       "minute": 32,
       "period": "1H",
       "type": "conversion_made",
@@ -310,6 +310,111 @@
       "playerOn": "Macenzzie Duncan",
       "playerOff": "Ally Miller",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1890233",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Brian Gleeson",
+      "detail": "replaces Alex Kendellen",
+      "playerOn": "Brian Gleeson",
+      "playerOff": "Alex Kendellen",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890239",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jake O'Riordan",
+      "detail": "replaces Ben O'Donovan",
+      "playerOn": "Jake O'Riordan",
+      "playerOff": "Ben O'Donovan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890235",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "John Hodnett",
+      "detail": "replaces Gavin Coombes",
+      "playerOn": "John Hodnett",
+      "playerOff": "Gavin Coombes",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890269",
+      "minute": 62,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Bayley Kuenzle",
+      "detail": "replaces Kyle Rowe",
+      "playerOn": "Bayley Kuenzle",
+      "playerOff": "Kyle Rowe",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890273",
+      "minute": 67,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "George Horne",
+      "detail": "Try (20-19)",
+      "playerName": "George Horne",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 20,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1890276",
+      "minute": 68,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "George Horne",
+      "detail": "Conversion (20-21)",
+      "playerName": "George Horne",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 20,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1890279",
+      "minute": 70,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Charlie O'Shea",
+      "detail": "replaces JJ Hanrahan",
+      "playerOn": "Charlie O'Shea",
+      "playerOff": "JJ Hanrahan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1890329",
+      "minute": 76,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Jamie Dobie",
+      "detail": "Try (20-26)",
+      "playerName": "Jamie Dobie",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 20,
+        "away": 26
+      }
     }
   ]
 }
