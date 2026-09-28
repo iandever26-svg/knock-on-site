@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-09-28T13:23:33+01:00",
-  "updatedAt": "2026-09-28T13:23:33+01:00",
+  "generatedAt": "2026-09-28T13:27:52+01:00",
+  "updatedAt": "2026-09-28T13:27:52+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -91,22 +91,22 @@
       "away_score": 26,
       "clock": "FT",
       "period": "FT",
-      "updated_at": "2026-09-28T13:35:00+01:00",
+      "updated_at": "2026-09-28T13:21:00+01:00",
       "provenance": [
         {
           "source_name": "espn",
           "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20260926",
-          "fetched_at": "2026-09-28T13:35:00+01:00"
+          "fetched_at": "2026-09-28T13:21:00+01:00"
         },
         {
           "source_name": "rte",
           "url": "https://www.rte.ie/sport/rugby/2026/0926/1593053-munster-ground-down-by-glasgow-for-opening-day-defeat/",
-          "fetched_at": "2026-09-28T13:35:00+01:00"
+          "fetched_at": "2026-09-28T13:21:00+01:00"
         },
         {
           "source_name": "glasgow_warriors_official",
           "url": "https://www.glasgowwarriors.com/articles/match/013241.php",
-          "fetched_at": "2026-09-28T13:35:00+01:00"
+          "fetched_at": "2026-09-28T13:21:00+01:00"
         }
       ]
     },
@@ -118,22 +118,22 @@
       "away_score": 21,
       "clock": "FT",
       "period": "FT",
-      "updated_at": "2026-09-28T13:35:00+01:00",
+      "updated_at": "2026-09-28T13:21:00+01:00",
       "provenance": [
         {
           "source_name": "espn",
           "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20260926",
-          "fetched_at": "2026-09-28T13:35:00+01:00"
+          "fetched_at": "2026-09-28T13:21:00+01:00"
         },
         {
           "source_name": "bbc",
           "url": "https://www.bbc.com/sport/rugby-union/articles/c920vvpydlxko",
-          "fetched_at": "2026-09-28T13:35:00+01:00"
+          "fetched_at": "2026-09-28T13:21:00+01:00"
         },
         {
           "source_name": "cardiff_rugby_official",
           "url": "https://www.cardiffrugby.wales/news/match_report/scarlets-15-cardiff-rugby-21/",
-          "fetched_at": "2026-09-28T13:35:00+01:00"
+          "fetched_at": "2026-09-28T13:21:00+01:00"
         }
       ]
     },
@@ -165,22 +165,22 @@
       "away_score": 47,
       "clock": "FT",
       "period": "FT",
-      "updated_at": "2026-09-28T13:35:00+01:00",
+      "updated_at": "2026-09-28T13:21:00+01:00",
       "provenance": [
         {
           "source_name": "espn",
           "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20260926",
-          "fetched_at": "2026-09-28T13:35:00+01:00"
+          "fetched_at": "2026-09-28T13:21:00+01:00"
         },
         {
           "source_name": "rte",
           "url": "https://www.rte.ie/sport/results/rugby/united-rugby-championship/34235/report-5650655/",
-          "fetched_at": "2026-09-28T13:35:00+01:00"
+          "fetched_at": "2026-09-28T13:21:00+01:00"
         },
         {
           "source_name": "supersport",
           "url": "https://supersport.com/rugby/news/ade538db-2bba-442e-a13e-4a0e6f92702c/full-house-for-sa-teams-as-vodacom-urc-kicks-off-with-a-bang",
-          "fetched_at": "2026-09-28T13:35:00+01:00"
+          "fetched_at": "2026-09-28T13:21:00+01:00"
         }
       ]
     }
