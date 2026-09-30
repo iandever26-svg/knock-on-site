@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-09-30T19:48:41+01:00",
-  "updatedAt": "2026-09-30T19:48:41+01:00",
+  "generatedAt": "2026-09-30T21:33:46+01:00",
+  "updatedAt": "2026-09-30T21:33:46+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -21,7 +21,10 @@
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
         }
-      ]
+      ],
+      "home_tries": 3,
+      "away_tries": 3,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
@@ -41,7 +44,10 @@
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
         }
-      ]
+      ],
+      "home_tries": 2,
+      "away_tries": 4,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
@@ -61,7 +67,10 @@
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
         }
-      ]
+      ],
+      "home_tries": 4,
+      "away_tries": 4,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
@@ -81,7 +90,10 @@
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
         }
-      ]
+      ],
+      "home_tries": 3,
+      "away_tries": 4,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
@@ -108,7 +120,10 @@
           "url": "https://www.glasgowwarriors.com/articles/match/013241.php",
           "fetched_at": "2026-09-28T13:21:00+01:00"
         }
-      ]
+      ],
+      "home_tries": 2,
+      "away_tries": 4,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
@@ -135,7 +150,10 @@
           "url": "https://www.cardiffrugby.wales/news/match_report/scarlets-15-cardiff-rugby-21/",
           "fetched_at": "2026-09-28T13:21:00+01:00"
         }
-      ]
+      ],
+      "home_tries": 2,
+      "away_tries": 3,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
@@ -155,7 +173,10 @@
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
         }
-      ]
+      ],
+      "home_tries": 5,
+      "away_tries": 4,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
@@ -182,7 +203,10 @@
           "url": "https://supersport.com/rugby/news/ade538db-2bba-442e-a13e-4a0e6f92702c/full-house-for-sa-teams-as-vodacom-urc-kicks-off-with-a-bang",
           "fetched_at": "2026-09-28T13:21:00+01:00"
         }
-      ]
+      ],
+      "home_tries": 1,
+      "away_tries": 7,
+      "tries_source": "espn_events+score_gap"
     }
   ]
 }
