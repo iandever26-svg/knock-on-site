@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-09-25-con-sto",
   "matchId": "urc-2026-09-25-con-sto",
-  "updated_at": "2026-09-26T08:54:33+01:00",
+  "updated_at": "2026-09-30T19:03:03+01:00",
   "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604033/competitions/604033/plays",
-      "fetched_at": "2026-09-26T08:54:33+01:00",
+      "fetched_at": "2026-09-30T19:03:03+01:00",
       "espn_event_id": "604033",
       "espn_league_id": 270557
     }
@@ -111,9 +112,9 @@
       "type": "substitution",
       "team": "away",
       "player": "Sazi Sandi",
-      "detail": "replaces Neethling Fouche",
+      "detail": "replaces Neethling Fouché",
       "playerOn": "Sazi Sandi",
-      "playerOff": "Neethling Fouche",
+      "playerOff": "Neethling Fouché",
       "label": "Substitution"
     },
     {
@@ -134,9 +135,9 @@
       "period": "2H",
       "type": "substitution",
       "team": "away",
-      "player": "Adre Smith",
+      "player": "Adré Smith",
       "detail": "replaces Gary Porter",
-      "playerOn": "Adre Smith",
+      "playerOn": "Adré Smith",
       "playerOff": "Gary Porter",
       "label": "Substitution"
     },
@@ -201,9 +202,9 @@
       "type": "substitution",
       "team": "home",
       "player": "Matt Victory",
-      "detail": "replaces Eoin de Buitlear",
+      "detail": "replaces Eoin de Buitléar",
       "playerOn": "Matt Victory",
-      "playerOff": "Eoin de Buitlear",
+      "playerOff": "Eoin de Buitléar",
       "label": "Substitution"
     },
     {
