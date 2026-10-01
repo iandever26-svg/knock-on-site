@@ -385,7 +385,7 @@
     {
       "source_name": "sharks_official",
       "url": "https://sharksrugby.co.za/blogs/news/team-release-hollywoodbets-sharks-vs-leinster-round-2",
-      "fetched_at": "2026-10-01T14:10:00+01:00",
+      "fetched_at": "2026-10-01T14:17:11+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -397,7 +397,7 @@
     {
       "source_name": "sharks_official",
       "url": "https://www.sharksrugby.co.za/",
-      "fetched_at": "2026-10-01T14:10:00+01:00",
+      "fetched_at": "2026-10-01T14:17:11+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -405,9 +405,19 @@
       "side": "home"
     },
     {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/leinster-vs-sharks/teams/",
+      "fetched_at": "2026-10-01T14:17:11+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
       "source_name": "leinster_official",
       "url": "https://www.leinsterrugby.ie/2026/10/01/leinster-rugby-v-hollywoodbets-sharks-team-news-urc-september-2026/",
-      "fetched_at": "2026-10-01T14:10:00+01:00",
+      "fetched_at": "2026-10-01T14:17:11+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": true,
@@ -419,24 +429,34 @@
     {
       "source_name": "leinster_official",
       "url": "https://leinster2023-wpapi.leinster.soticclient.net/wp-json/wp/v2/posts?search=team%20named&per_page=8",
-      "fetched_at": "2026-10-01T14:10:00+01:00",
+      "fetched_at": "2026-10-01T14:17:11+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": false,
       "role": "discovery_feed",
       "side": "away"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/leinster-vs-sharks/teams/",
+      "fetched_at": "2026-10-01T14:17:11+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
     }
   ],
   "confidence": {
-    "overall": 0.85,
+    "overall": 0.87,
     "match_identity": 0.9,
-    "home_lineup": 0.95,
+    "home_lineup": 0.98,
     "away_lineup": 0.75,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from sharks_official",
-      "away: starting_xv_only from leinster_official"
+      "home: complete_1_to_23 from sharks_official; rugbypass 23/23 jerseys agree",
+      "away: starting_xv_only from leinster_official; rugbypass 13/15 jerseys agree (differs at #7,#8)"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T14:10:00+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-01T14:17:11+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }

@@ -88,7 +88,7 @@
         },
         {
           "jersey": 6,
-          "name": "Michele Lamaro",
+          "name": "Giulio Marini",
           "position_label": "Blindside",
           "is_captain": false,
           "is_starter": true,
@@ -96,7 +96,7 @@
         },
         {
           "jersey": 7,
-          "name": "Giulio Marini",
+          "name": "Michele Lamaro",
           "position_label": "Openside",
           "is_captain": false,
           "is_starter": true,
@@ -200,7 +200,7 @@
         },
         {
           "jersey": 20,
-          "name": "Antony Miranda",
+          "name": "Antony Italo Miranda",
           "position_label": "Back row",
           "is_captain": false,
           "is_starter": false,
@@ -234,7 +234,7 @@
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
       "captain_jersey": null,
-      "source_format_notes": "Parsed from All.Rugby match page game sheet (secondary; surnames re-cased from UPPERCASE)"
+      "source_format_notes": "Parsed from RugbyPass match-centre team sheet (secondary; club official preferred on conflict); diacritics restored on 2 name(s) from All.Rugby spelling of the same name"
     },
     "away": {
       "club": {
@@ -438,21 +438,31 @@
   },
   "provenance": [
     {
-      "source_name": "all_rugby",
-      "url": "https://all.rugby/match/26733/urc-2026-2027/benetton-connacht",
-      "fetched_at": "2026-10-01T14:09:45+01:00",
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/benetton-vs-connacht/teams/",
+      "fetched_at": "2026-10-01T14:16:50+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
       "role": "primary_sheet",
       "side": "home",
       "published_at": null,
-      "published_at_source": "fixture_verified_by_page_title_date"
+      "published_at_source": "fixture_verified_by_jsonld_startDate 2026-10-02T18:45:00+00:00"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26733/urc-2026-2027/benetton-connacht",
+      "fetched_at": "2026-10-01T14:16:50+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
     },
     {
       "source_name": "connacht_official",
       "url": "https://www.connachtrugby.ie/news/team-announcement-benetton-v-connacht/bp3814/",
-      "fetched_at": "2026-10-01T14:09:45+01:00",
+      "fetched_at": "2026-10-01T14:16:50+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -464,7 +474,7 @@
     {
       "source_name": "connacht_official",
       "url": "https://www.connachtrugby.ie/news/news/86/?rss=on",
-      "fetched_at": "2026-10-01T14:09:45+01:00",
+      "fetched_at": "2026-10-01T14:16:50+01:00",
       "content_type": "rss_item",
       "http_status": 200,
       "is_primary": false,
@@ -472,9 +482,19 @@
       "side": "away"
     },
     {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/benetton-vs-connacht/teams/",
+      "fetched_at": "2026-10-01T14:16:50+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
+    },
+    {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26733/urc-2026-2027/benetton-connacht",
-      "fetched_at": "2026-10-01T14:09:45+01:00",
+      "fetched_at": "2026-10-01T14:16:50+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -483,15 +503,15 @@
     }
   ],
   "confidence": {
-    "overall": 0.89,
+    "overall": 0.92,
     "match_identity": 0.9,
-    "home_lineup": 0.8,
+    "home_lineup": 0.85,
     "away_lineup": 0.98,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from all_rugby",
-      "away: complete_1_to_23 from connacht_official; all_rugby 23/23 jerseys agree"
+      "home: complete_1_to_23 from rugbypass; all_rugby 21/23 jerseys agree (differs at #6,#7)",
+      "away: complete_1_to_23 from connacht_official; rugbypass 23/23 jerseys agree; all_rugby 23/23 jerseys agree"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T14:09:45+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-01T14:16:50+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }

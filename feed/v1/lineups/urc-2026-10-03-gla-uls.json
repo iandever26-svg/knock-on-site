@@ -440,7 +440,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/glasgow-vs-ulster/teams/",
-      "fetched_at": "2026-10-01T14:10:10+01:00",
+      "fetched_at": "2026-10-01T14:17:22+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -452,7 +452,7 @@
     {
       "source_name": "ulster_official",
       "url": "https://ulster.rugby/news/ulster-team-named-glasgow-warriors-away-clash",
-      "fetched_at": "2026-10-01T14:10:10+01:00",
+      "fetched_at": "2026-10-01T14:17:22+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -464,7 +464,7 @@
     {
       "source_name": "ulster_official",
       "url": "https://ulster.rugby/news",
-      "fetched_at": "2026-10-01T14:10:10+01:00",
+      "fetched_at": "2026-10-01T14:17:22+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -474,7 +474,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/glasgow-vs-ulster/teams/",
-      "fetched_at": "2026-10-01T14:10:10+01:00",
+      "fetched_at": "2026-10-01T14:17:22+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -493,5 +493,5 @@
       "away: complete_1_to_23 from ulster_official; rugbypass 23/23 jerseys agree"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T14:10:10+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-01T14:17:22+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }

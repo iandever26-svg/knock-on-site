@@ -33,7 +33,7 @@
       "slug": "scarlets",
       "union": "WRU"
     },
-    "status": "team_news_pending",
+    "status": "team_news_complete",
     "score": null
   },
   "lineups": {
@@ -45,35 +45,196 @@
         "union": "WRU"
       },
       "announced_at": null,
-      "players": [],
-      "parse_status": "pending",
-      "missing_numbers": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Rodrigo Martinez",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Elliot Dee",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Robert Hunt",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Seb Davies",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Ben Carter",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Shane Lewis-Hughes",
+          "position_label": "Blindside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Thomas Young",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Harri Keddie",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Rhodri Williams",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Tinus de Beer",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Anzelo Tuitavuki",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Aneurin Owen",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Fine Inisi",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Rio Dyer",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Huw Anderson",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Brodie Coghlan",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Rhodri Jones",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Dillon Lewis",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Ryan Woodman",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Harry Beddall",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Che Hope",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Jac Lloyd",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Fetuli Paea",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
       ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
       "captain_jersey": null,
-      "source_format_notes": "No officially announced 1–23 found this poll (2026-10-01T14:09:57+01:00); fallbacks: rugbypass=team sheets are coming soon, all_rugby=no game sheet table (not announced)"
+      "source_format_notes": "Parsed from RugbyPass match-centre team sheet (secondary; club official preferred on conflict)"
     },
     "away": {
       "club": {
@@ -83,59 +244,254 @@
         "union": "WRU"
       },
       "announced_at": null,
-      "players": [],
-      "parse_status": "pending",
-      "missing_numbers": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Kemsley Mathias",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Ryan Elias",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Harri O'Connor",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Alex Groves",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Sam Lousi",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Josh MacLeod",
+          "position_label": "Blindside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Dan Davis",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Osian Williams",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Dane Blacker",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Sam Costelow",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Macs Page",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Eddie James",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Joe Roberts",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Ellis Mee",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Blair Murray",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "John McKee",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Sam O'Connor",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Gabe Hawley",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Will Evans",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Tristan Davies",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Gareth Davies",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Joe Hawkins",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Johnny Williams",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
       ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
       "captain_jersey": null,
-      "source_format_notes": "No officially announced 1–23 found this poll (2026-10-01T14:09:57+01:00); fallbacks: rugbypass=team sheets are coming soon, all_rugby=no game sheet table (not announced)"
+      "source_format_notes": "Parsed from RugbyPass match-centre team sheet (secondary; club official preferred on conflict)"
     }
   },
   "provenance": [
     {
-      "source_name": "wrs_poll",
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/gwent-dragons-vs-scarlets/teams/",
+      "fetched_at": "2026-10-01T14:17:05+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_jsonld_startDate 2026-10-03T14:00:00+00:00"
+    },
+    {
+      "source_name": "all_rugby",
       "url": "https://all.rugby/match/26735/urc-2026-2027/dragons-scarlets",
-      "fetched_at": "2026-10-01T14:09:57+01:00",
-      "content_type": "other",
-      "http_status": null,
+      "fetched_at": "2026-10-01T14:17:05+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
       "is_primary": false,
-      "role": "other",
-      "side": "match"
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/gwent-dragons-vs-scarlets/teams/",
+      "fetched_at": "2026-10-01T14:17:05+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_jsonld_startDate 2026-10-03T14:00:00+00:00"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26735/urc-2026-2027/dragons-scarlets",
+      "fetched_at": "2026-10-01T14:17:05+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
     }
   ],
   "confidence": {
-    "overall": 0,
+    "overall": 0.85,
     "match_identity": 0.9,
-    "home_lineup": 0,
-    "away_lineup": 0,
+    "home_lineup": 0.85,
+    "away_lineup": 0.85,
     "score": 0,
     "reasons": [
-      "home: not announced / not found",
-      "away: not announced / not found"
+      "home: complete_1_to_23 from rugbypass; all_rugby 19/23 jerseys agree (differs at #11,#12,#13,#14)",
+      "away: complete_1_to_23 from rugbypass; all_rugby 19/23 jerseys agree (differs at #12,#13,#17,#18)"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T14:09:57+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-01T14:17:05+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
