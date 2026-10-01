@@ -440,7 +440,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/glasgow-vs-ulster/teams/",
-      "fetched_at": "2026-10-01T17:15:46+01:00",
+      "fetched_at": "2026-10-01T17:48:47+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -452,7 +452,7 @@
     {
       "source_name": "glasgow_official",
       "url": "https://glasgowwarriors.org/news-and-features/three-changes-ahead-of-ulster-clash/",
-      "fetched_at": "2026-10-01T17:15:46+01:00",
+      "fetched_at": "2026-10-01T17:48:47+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -464,7 +464,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26738/urc-2026-2027/glasgow-ulster",
-      "fetched_at": "2026-10-01T17:15:46+01:00",
+      "fetched_at": "2026-10-01T17:48:47+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -474,7 +474,7 @@
     {
       "source_name": "ulster_official",
       "url": "https://ulster.rugby/news/ulster-team-named-glasgow-warriors-away-clash",
-      "fetched_at": "2026-10-01T17:15:46+01:00",
+      "fetched_at": "2026-10-01T17:48:47+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -486,7 +486,7 @@
     {
       "source_name": "ulster_official",
       "url": "https://ulster.rugby/news",
-      "fetched_at": "2026-10-01T17:15:46+01:00",
+      "fetched_at": "2026-10-01T17:48:47+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -496,7 +496,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/glasgow-vs-ulster/teams/",
-      "fetched_at": "2026-10-01T17:15:46+01:00",
+      "fetched_at": "2026-10-01T17:48:47+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -506,7 +506,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26738/urc-2026-2027/glasgow-ulster",
-      "fetched_at": "2026-10-01T17:15:46+01:00",
+      "fetched_at": "2026-10-01T17:48:47+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -525,5 +525,5 @@
       "away: complete_1_to_23 from ulster_official; rugbypass 23/23 jerseys agree; all_rugby 21/23 jerseys agree (differs at #17,#18)"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T17:15:46+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-01T17:48:47+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
