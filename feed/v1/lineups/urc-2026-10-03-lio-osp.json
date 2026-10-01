@@ -444,7 +444,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/lions-vs-ospreys/teams/",
-      "fetched_at": "2026-10-01T18:16:56+01:00",
+      "fetched_at": "2026-10-01T18:22:52+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26734/urc-2026-2027/lions-ospreys",
-      "fetched_at": "2026-10-01T18:16:56+01:00",
+      "fetched_at": "2026-10-01T18:22:52+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -466,7 +466,7 @@
     {
       "source_name": "ospreys_official",
       "url": "https://www.ospreysrugby.com/news/ospreys-announce-team-face-10bet-lions",
-      "fetched_at": "2026-10-01T18:16:56+01:00",
+      "fetched_at": "2026-10-01T18:22:52+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -478,7 +478,7 @@
     {
       "source_name": "ospreys_official",
       "url": "https://www.ospreysrugby.com/news",
-      "fetched_at": "2026-10-01T18:16:56+01:00",
+      "fetched_at": "2026-10-01T18:22:52+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -488,7 +488,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/lions-vs-ospreys/teams/",
-      "fetched_at": "2026-10-01T18:16:56+01:00",
+      "fetched_at": "2026-10-01T18:22:52+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -498,7 +498,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26734/urc-2026-2027/lions-ospreys",
-      "fetched_at": "2026-10-01T18:16:56+01:00",
+      "fetched_at": "2026-10-01T18:22:52+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -537,5 +537,5 @@
       "away: complete_1_to_23 from ospreys_official; rugbypass 23/23 jerseys agree; all_rugby 15/23 jerseys agree (differs at #4,#5,#6,#7,#11,#14,#17,#18)"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T18:16:56+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-01T18:22:52+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
