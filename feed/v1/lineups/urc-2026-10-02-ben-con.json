@@ -1,0 +1,320 @@
+{
+  "matchId": "urc-2026-10-02-ben-con",
+  "home": {
+    "teamId": "benetton",
+    "teamName": "Benetton",
+    "shortName": "BEN",
+    "primaryColor": "#009639",
+    "secondaryColor": "#FFFFFF",
+    "players": [
+      {
+        "number": 1,
+        "name": "TBC",
+        "position": "LH",
+        "positionLabel": "Loosehead Prop"
+      },
+      {
+        "number": 2,
+        "name": "TBC",
+        "position": "HK",
+        "positionLabel": "Hooker"
+      },
+      {
+        "number": 3,
+        "name": "TBC",
+        "position": "TH",
+        "positionLabel": "Tighthead Prop"
+      },
+      {
+        "number": 4,
+        "name": "TBC",
+        "position": "L4",
+        "positionLabel": "Lock"
+      },
+      {
+        "number": 5,
+        "name": "TBC",
+        "position": "L5",
+        "positionLabel": "Lock"
+      },
+      {
+        "number": 6,
+        "name": "TBC",
+        "position": "BS",
+        "positionLabel": "Blindside Flanker"
+      },
+      {
+        "number": 7,
+        "name": "TBC",
+        "position": "OS",
+        "positionLabel": "Openside Flanker"
+      },
+      {
+        "number": 8,
+        "name": "TBC",
+        "position": "N8",
+        "positionLabel": "Number 8"
+      },
+      {
+        "number": 9,
+        "name": "TBC",
+        "position": "SH",
+        "positionLabel": "Scrum-half"
+      },
+      {
+        "number": 10,
+        "name": "TBC",
+        "position": "FH",
+        "positionLabel": "Fly-half"
+      },
+      {
+        "number": 11,
+        "name": "TBC",
+        "position": "LW",
+        "positionLabel": "Left Wing"
+      },
+      {
+        "number": 12,
+        "name": "TBC",
+        "position": "IC",
+        "positionLabel": "Inside Centre"
+      },
+      {
+        "number": 13,
+        "name": "TBC",
+        "position": "OC",
+        "positionLabel": "Outside Centre"
+      },
+      {
+        "number": 14,
+        "name": "TBC",
+        "position": "RW",
+        "positionLabel": "Right Wing"
+      },
+      {
+        "number": 15,
+        "name": "TBC",
+        "position": "FB",
+        "positionLabel": "Fullback"
+      },
+      {
+        "number": 16,
+        "name": "TBC",
+        "position": "R16",
+        "positionLabel": "Hooker (bench)"
+      },
+      {
+        "number": 17,
+        "name": "TBC",
+        "position": "R17",
+        "positionLabel": "Prop (bench)"
+      },
+      {
+        "number": 18,
+        "name": "TBC",
+        "position": "R18",
+        "positionLabel": "Prop (bench)"
+      },
+      {
+        "number": 19,
+        "name": "TBC",
+        "position": "R19",
+        "positionLabel": "Lock (bench)"
+      },
+      {
+        "number": 20,
+        "name": "TBC",
+        "position": "R20",
+        "positionLabel": "Back row (bench)"
+      },
+      {
+        "number": 21,
+        "name": "TBC",
+        "position": "R21",
+        "positionLabel": "Scrum-half (bench)"
+      },
+      {
+        "number": 22,
+        "name": "TBC",
+        "position": "R22",
+        "positionLabel": "Fly-half (bench)"
+      },
+      {
+        "number": 23,
+        "name": "TBC",
+        "position": "R23",
+        "positionLabel": "Back (bench)"
+      }
+    ]
+  },
+  "away": {
+    "teamId": "connacht",
+    "teamName": "Connacht",
+    "shortName": "CON",
+    "primaryColor": "#00843D",
+    "secondaryColor": "#FFFFFF",
+    "players": [
+      {
+        "number": 1,
+        "name": "Francois van Wyk",
+        "position": "LH",
+        "positionLabel": "Loosehead Prop",
+        "caps": 1
+      },
+      {
+        "number": 2,
+        "name": "Matthew Victory",
+        "position": "HK",
+        "positionLabel": "Hooker",
+        "caps": 9
+      },
+      {
+        "number": 3,
+        "name": "Finlay Bealham",
+        "position": "TH",
+        "positionLabel": "Tighthead Prop",
+        "caps": 233
+      },
+      {
+        "number": 4,
+        "name": "Darragh Murray",
+        "position": "L4",
+        "positionLabel": "Lock",
+        "caps": 59
+      },
+      {
+        "number": 5,
+        "name": "Josh Murphy",
+        "position": "L5",
+        "positionLabel": "Lock",
+        "caps": 63
+      },
+      {
+        "number": 6,
+        "name": "Cian Prendergast",
+        "position": "BS",
+        "positionLabel": "Blindside Flanker",
+        "isCaptain": true
+      },
+      {
+        "number": 7,
+        "name": "Seán O'Brien",
+        "position": "OS",
+        "positionLabel": "Openside Flanker",
+        "caps": 31
+      },
+      {
+        "number": 8,
+        "name": "Sean Jansen",
+        "position": "N8",
+        "positionLabel": "Number 8",
+        "caps": 46
+      },
+      {
+        "number": 9,
+        "name": "Caolin Blade",
+        "position": "SH",
+        "positionLabel": "Scrum-half",
+        "caps": 222
+      },
+      {
+        "number": 10,
+        "name": "Ciarán Frawley",
+        "position": "FH",
+        "positionLabel": "Fly-half"
+      },
+      {
+        "number": 11,
+        "name": "Mack Hansen",
+        "position": "LW",
+        "positionLabel": "Left Wing",
+        "caps": 43
+      },
+      {
+        "number": 12,
+        "name": "Cathal Forde",
+        "position": "IC",
+        "positionLabel": "Inside Centre",
+        "caps": 72
+      },
+      {
+        "number": 13,
+        "name": "John Devine",
+        "position": "OC",
+        "positionLabel": "Outside Centre",
+        "caps": 9
+      },
+      {
+        "number": 14,
+        "name": "Finn Treacy",
+        "position": "RW",
+        "positionLabel": "Right Wing",
+        "caps": 20
+      },
+      {
+        "number": 15,
+        "name": "Sam Gilbert",
+        "position": "FB",
+        "positionLabel": "Fullback",
+        "caps": 20
+      },
+      {
+        "number": 16,
+        "name": "Eoin de Buitléar",
+        "position": "R16",
+        "positionLabel": "Hooker (bench)",
+        "caps": 24
+      },
+      {
+        "number": 17,
+        "name": "Billy Bohan",
+        "position": "R17",
+        "positionLabel": "Prop (bench)",
+        "caps": 15
+      },
+      {
+        "number": 18,
+        "name": "Sam Illo",
+        "position": "R18",
+        "positionLabel": "Prop (bench)",
+        "caps": 49
+      },
+      {
+        "number": 19,
+        "name": "Niall Murray",
+        "position": "R19",
+        "positionLabel": "Lock (bench)",
+        "caps": 96
+      },
+      {
+        "number": 20,
+        "name": "Paul Boyle",
+        "position": "R20",
+        "positionLabel": "Back row (bench)",
+        "caps": 139
+      },
+      {
+        "number": 21,
+        "name": "Colm Reilly",
+        "position": "R21",
+        "positionLabel": "Scrum-half (bench)",
+        "caps": 35
+      },
+      {
+        "number": 22,
+        "name": "Josh Ioane",
+        "position": "R22",
+        "positionLabel": "Fly-half (bench)",
+        "caps": 33
+      },
+      {
+        "number": 23,
+        "name": "Shane Jennings",
+        "position": "R23",
+        "positionLabel": "Back (bench)",
+        "caps": 37
+      }
+    ],
+    "captainJersey": 6
+  }
+}
