@@ -385,7 +385,7 @@
     {
       "source_name": "sharks_official",
       "url": "https://sharksrugby.co.za/blogs/news/team-release-hollywoodbets-sharks-vs-leinster-round-2",
-      "fetched_at": "2026-10-01T14:17:11+01:00",
+      "fetched_at": "2026-10-01T14:45:54+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -397,7 +397,7 @@
     {
       "source_name": "sharks_official",
       "url": "https://www.sharksrugby.co.za/",
-      "fetched_at": "2026-10-01T14:17:11+01:00",
+      "fetched_at": "2026-10-01T14:45:54+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -407,7 +407,17 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/leinster-vs-sharks/teams/",
-      "fetched_at": "2026-10-01T14:17:11+01:00",
+      "fetched_at": "2026-10-01T14:45:54+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26736/urc-2026-2027/sharks-leinster",
+      "fetched_at": "2026-10-01T14:45:54+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -417,7 +427,7 @@
     {
       "source_name": "leinster_official",
       "url": "https://www.leinsterrugby.ie/2026/10/01/leinster-rugby-v-hollywoodbets-sharks-team-news-urc-september-2026/",
-      "fetched_at": "2026-10-01T14:17:11+01:00",
+      "fetched_at": "2026-10-01T14:45:54+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": true,
@@ -429,7 +439,7 @@
     {
       "source_name": "leinster_official",
       "url": "https://leinster2023-wpapi.leinster.soticclient.net/wp-json/wp/v2/posts?search=team%20named&per_page=8",
-      "fetched_at": "2026-10-01T14:17:11+01:00",
+      "fetched_at": "2026-10-01T14:45:54+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": false,
@@ -439,7 +449,17 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/leinster-vs-sharks/teams/",
-      "fetched_at": "2026-10-01T14:17:11+01:00",
+      "fetched_at": "2026-10-01T14:45:54+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26736/urc-2026-2027/sharks-leinster",
+      "fetched_at": "2026-10-01T14:45:54+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -454,9 +474,9 @@
     "away_lineup": 0.75,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from sharks_official; rugbypass 23/23 jerseys agree",
-      "away: starting_xv_only from leinster_official; rugbypass 13/15 jerseys agree (differs at #7,#8)"
+      "home: complete_1_to_23 from sharks_official; rugbypass 23/23 jerseys agree; all_rugby 19/23 jerseys agree (differs at #12,#13,#17,#18)",
+      "away: starting_xv_only from leinster_official; rugbypass 13/15 jerseys agree (differs at #7,#8); all_rugby 7/15 jerseys agree (differs at #4,#5,#6,#7,#11,#12,#13,#14)"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T14:17:11+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-01T14:45:54+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }

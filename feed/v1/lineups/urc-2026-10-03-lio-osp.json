@@ -442,21 +442,31 @@
   },
   "provenance": [
     {
-      "source_name": "all_rugby",
-      "url": "https://all.rugby/match/26734/urc-2026-2027/lions-ospreys",
-      "fetched_at": "2026-10-01T14:16:56+01:00",
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/lions-vs-ospreys/teams/",
+      "fetched_at": "2026-10-01T14:45:38+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
       "role": "primary_sheet",
       "side": "home",
       "published_at": null,
-      "published_at_source": "fixture_verified_by_page_title_date"
+      "published_at_source": "fixture_verified_by_jsonld_startDate 2026-10-03T11:45:00+00:00"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26734/urc-2026-2027/lions-ospreys",
+      "fetched_at": "2026-10-01T14:45:38+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
     },
     {
       "source_name": "ospreys_official",
       "url": "https://www.ospreysrugby.com/news/ospreys-announce-team-face-10bet-lions",
-      "fetched_at": "2026-10-01T14:16:56+01:00",
+      "fetched_at": "2026-10-01T14:45:38+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -468,7 +478,7 @@
     {
       "source_name": "ospreys_official",
       "url": "https://www.ospreysrugby.com/news",
-      "fetched_at": "2026-10-01T14:16:56+01:00",
+      "fetched_at": "2026-10-01T14:45:38+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -476,9 +486,19 @@
       "side": "away"
     },
     {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/lions-vs-ospreys/teams/",
+      "fetched_at": "2026-10-01T14:45:38+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
+    },
+    {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26734/urc-2026-2027/lions-ospreys",
-      "fetched_at": "2026-10-01T14:16:56+01:00",
+      "fetched_at": "2026-10-01T14:45:38+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -507,15 +527,15 @@
     }
   ],
   "confidence": {
-    "overall": 0.88,
+    "overall": 0.92,
     "match_identity": 0.9,
-    "home_lineup": 0.8,
-    "away_lineup": 0.95,
+    "home_lineup": 0.85,
+    "away_lineup": 0.98,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from all_rugby",
-      "away: complete_1_to_23 from ospreys_official; all_rugby 15/23 jerseys agree (differs at #4,#5,#6,#7,#11,#14,#17,#18)"
+      "home: complete_1_to_23 from rugbypass; all_rugby 21/23 jerseys agree (differs at #6,#7)",
+      "away: complete_1_to_23 from ospreys_official; rugbypass 23/23 jerseys agree; all_rugby 15/23 jerseys agree (differs at #4,#5,#6,#7,#11,#14,#17,#18)"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T14:16:56+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-01T14:45:38+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }

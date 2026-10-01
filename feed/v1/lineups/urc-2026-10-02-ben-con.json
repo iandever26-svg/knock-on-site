@@ -440,7 +440,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/benetton-vs-connacht/teams/",
-      "fetched_at": "2026-10-01T14:16:50+01:00",
+      "fetched_at": "2026-10-01T14:45:32+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -452,7 +452,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26733/urc-2026-2027/benetton-connacht",
-      "fetched_at": "2026-10-01T14:16:50+01:00",
+      "fetched_at": "2026-10-01T14:45:32+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -462,7 +462,7 @@
     {
       "source_name": "connacht_official",
       "url": "https://www.connachtrugby.ie/news/team-announcement-benetton-v-connacht/bp3814/",
-      "fetched_at": "2026-10-01T14:16:50+01:00",
+      "fetched_at": "2026-10-01T14:45:32+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -474,7 +474,7 @@
     {
       "source_name": "connacht_official",
       "url": "https://www.connachtrugby.ie/news/news/86/?rss=on",
-      "fetched_at": "2026-10-01T14:16:50+01:00",
+      "fetched_at": "2026-10-01T14:45:32+01:00",
       "content_type": "rss_item",
       "http_status": 200,
       "is_primary": false,
@@ -484,7 +484,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/benetton-vs-connacht/teams/",
-      "fetched_at": "2026-10-01T14:16:50+01:00",
+      "fetched_at": "2026-10-01T14:45:32+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -494,7 +494,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26733/urc-2026-2027/benetton-connacht",
-      "fetched_at": "2026-10-01T14:16:50+01:00",
+      "fetched_at": "2026-10-01T14:45:32+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -513,5 +513,5 @@
       "away: complete_1_to_23 from connacht_official; rugbypass 23/23 jerseys agree; all_rugby 23/23 jerseys agree"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T14:16:50+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-01T14:45:32+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
