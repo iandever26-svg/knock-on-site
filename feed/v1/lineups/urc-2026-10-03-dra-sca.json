@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0.0",
+  "match": {
+    "match_id": "urc-2026-10-03-dra-sca",
+    "external_ids": {
+      "all_rugby_match_id": "26735"
+    },
+    "competition": {
+      "name": "BKT United Rugby Championship",
+      "code": "URC",
+      "season": "2026/27",
+      "round": "Round 2"
+    },
+    "kickoff": {
+      "datetime_ireland": "2026-10-03T15:00:00+01:00",
+      "timezone_label": "IST",
+      "datetime_utc": "2026-10-03T14:00:00Z"
+    },
+    "venue": {
+      "name": "Rodney Parade",
+      "city": null,
+      "country": null
+    },
+    "home": {
+      "name": "Dragons",
+      "short_name": "DRA",
+      "slug": "dragons",
+      "union": "WRU"
+    },
+    "away": {
+      "name": "Scarlets",
+      "short_name": "SCA",
+      "slug": "scarlets",
+      "union": "WRU"
+    },
+    "status": "team_news_pending",
+    "score": null
+  },
+  "lineups": {
+    "home": {
+      "club": {
+        "name": "Dragons",
+        "short_name": "DRA",
+        "slug": "dragons",
+        "union": "WRU"
+      },
+      "announced_at": null,
+      "players": [],
+      "parse_status": "pending",
+      "missing_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "captain_jersey": null,
+      "source_format_notes": "No officially announced 1–23 found this poll (2026-10-01T14:09:57+01:00); fallbacks: rugbypass=team sheets are coming soon, all_rugby=no game sheet table (not announced)"
+    },
+    "away": {
+      "club": {
+        "name": "Scarlets",
+        "short_name": "SCA",
+        "slug": "scarlets",
+        "union": "WRU"
+      },
+      "announced_at": null,
+      "players": [],
+      "parse_status": "pending",
+      "missing_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "captain_jersey": null,
+      "source_format_notes": "No officially announced 1–23 found this poll (2026-10-01T14:09:57+01:00); fallbacks: rugbypass=team sheets are coming soon, all_rugby=no game sheet table (not announced)"
+    }
+  },
+  "provenance": [
+    {
+      "source_name": "wrs_poll",
+      "url": "https://all.rugby/match/26735/urc-2026-2027/dragons-scarlets",
+      "fetched_at": "2026-10-01T14:09:57+01:00",
+      "content_type": "other",
+      "http_status": null,
+      "is_primary": false,
+      "role": "other",
+      "side": "match"
+    }
+  ],
+  "confidence": {
+    "overall": 0,
+    "match_identity": 0.9,
+    "home_lineup": 0,
+    "away_lineup": 0,
+    "score": 0,
+    "reasons": [
+      "home: not announced / not found",
+      "away: not announced / not found"
+    ]
+  },
+  "notes": "Ingest poll 2026-10-01T14:09:57+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+}
