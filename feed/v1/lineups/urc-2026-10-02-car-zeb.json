@@ -440,7 +440,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26731/urc-2026-2027/cardiff-zebre",
-      "fetched_at": "2026-10-01T14:45:23+01:00",
+      "fetched_at": "2026-10-01T15:14:53+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -450,9 +450,21 @@
       "published_at_source": "fixture_verified_by_page_title_date"
     },
     {
+      "source_name": "cardiff_official",
+      "url": "https://www.cardiffrugby.wales/news/cardiff-make-four-changes-for-zebre-with-mcnally-captain/",
+      "fetched_at": "2026-10-01T15:14:53+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home",
+      "published_at": "2026-10-01T13:59:00+01:00",
+      "published_at_source": "meta_published_time"
+    },
+    {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26731/urc-2026-2027/cardiff-zebre",
-      "fetched_at": "2026-10-01T14:45:23+01:00",
+      "fetched_at": "2026-10-01T15:14:53+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -493,5 +505,5 @@
       "away: complete_1_to_23 from all_rugby"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T14:45:23+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-01T15:14:53+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
