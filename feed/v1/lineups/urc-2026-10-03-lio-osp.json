@@ -106,7 +106,7 @@
           "jersey": 8,
           "name": "Francke Horn",
           "position_label": "No. 8",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -233,8 +233,8 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
-      "source_format_notes": "Parsed from All.Rugby match page game sheet (secondary; surnames re-cased from UPPERCASE)"
+      "captain_jersey": 8,
+      "source_format_notes": "knock-on override: WRS/All.Rugby order verified vs BBC Sport team list (15 Chamberlain; 14 Mpeke, 13 Adams, 12 Kriel, 11 Cronje) and Ultimate Rugby (Kriel inside centre, Adams outside centre); agree. Only change: captain Francke Horn (8) added."
     },
     "away": {
       "club": {
@@ -484,6 +484,26 @@
       "is_primary": false,
       "role": "corroboration",
       "side": "away"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmlyr77y45lno",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home"
+    },
+    {
+      "source_name": "ultimate_rugby",
+      "url": "https://admin.ultimaterugby.com/match/lions-vs-ospreys-at-ellis-park-3rd-oct-2026/99991/lineup",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
     }
   ],
   "confidence": {

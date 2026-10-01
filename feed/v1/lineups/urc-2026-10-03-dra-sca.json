@@ -82,7 +82,7 @@
           "jersey": 5,
           "name": "Ben Carter",
           "position_label": "Lock",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -233,8 +233,8 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
-      "source_format_notes": "Parsed from RugbyPass match-centre team sheet (secondary; club official preferred on conflict)"
+      "captain_jersey": 5,
+      "source_format_notes": "knock-on override: RugbyPass sheet verified vs BBC Sport (all 23 agree). Captain Ben Carter (5)."
     },
     "away": {
       "club": {
@@ -289,7 +289,7 @@
           "jersey": 6,
           "name": "Josh MacLeod",
           "position_label": "Blindside",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -432,8 +432,8 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
-      "source_format_notes": "Parsed from RugbyPass match-centre team sheet (secondary; club official preferred on conflict)"
+      "captain_jersey": 6,
+      "source_format_notes": "knock-on override: RugbyPass sheet verified vs BBC Sport (all 23 agree). Captain Josh Macleod (6)."
     }
   },
   "provenance": [
@@ -475,6 +475,86 @@
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26735/urc-2026-2027/dragons-scarlets",
       "fetched_at": "2026-10-01T14:17:05+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/dragons-vs-scarlets/teams/",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm1j4662gkrjo",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/dragons-vs-scarlets/teams/",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm1j4662gkrjo",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/dragons-vs-scarlets/teams/",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm1j4662gkrjo",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/dragons-vs-scarlets/teams/",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm1j4662gkrjo",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,

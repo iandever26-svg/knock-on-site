@@ -74,7 +74,7 @@
           "jersey": 4,
           "name": "Josh McNally",
           "position_label": "Lock",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -128,7 +128,7 @@
         },
         {
           "jersey": 11,
-          "name": "Harri Millard",
+          "name": "Tom Bowen",
           "position_label": "Wing",
           "is_captain": false,
           "is_starter": true,
@@ -152,7 +152,7 @@
         },
         {
           "jersey": 14,
-          "name": "Tom Bowen",
+          "name": "Harri Millard",
           "position_label": "Wing",
           "is_captain": false,
           "is_starter": true,
@@ -233,8 +233,8 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
-      "source_format_notes": "Parsed from All.Rugby match page game sheet (secondary; surnames re-cased from UPPERCASE)"
+      "captain_jersey": 4,
+      "source_format_notes": "knock-on override: Cardiff official team release + BBC Sport (order 15; 14,13,12,11 = Beetham; Millard, Malan, B Thomas, Bowen). Captain Josh McNally (4)."
     },
     "away": {
       "club": {
@@ -460,6 +460,26 @@
       "side": "away",
       "published_at": null,
       "published_at_source": "fixture_verified_by_page_title_date"
+    },
+    {
+      "source_name": "cardiff_official",
+      "url": "https://www.cardiffrugby.wales/news/cardiff-make-four-changes-for-zebre-with-mcnally-captain/",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqn7405pk4vpo",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
     }
   ],
   "confidence": {
