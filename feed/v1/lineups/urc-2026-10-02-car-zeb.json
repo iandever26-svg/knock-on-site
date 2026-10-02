@@ -247,7 +247,7 @@
       "players": [
         {
           "jersey": 1,
-          "name": "Juan-Ignacio Castellano",
+          "name": "Federico Pisani",
           "position_label": "LH Prop",
           "is_captain": false,
           "is_starter": true,
@@ -263,7 +263,7 @@
         },
         {
           "jersey": 3,
-          "name": "Federico Pisani",
+          "name": "Juan Ignacio Castellano",
           "position_label": "TH Prop",
           "is_captain": false,
           "is_starter": true,
@@ -327,7 +327,7 @@
         },
         {
           "jersey": 11,
-          "name": "Mirko Belloni",
+          "name": "Simone Gesi",
           "position_label": "Wing",
           "is_captain": false,
           "is_starter": true,
@@ -351,7 +351,7 @@
         },
         {
           "jersey": 14,
-          "name": "Simone Gesi",
+          "name": "Mirko Belloni",
           "position_label": "Wing",
           "is_captain": false,
           "is_starter": true,
@@ -375,7 +375,7 @@
         },
         {
           "jersey": 17,
-          "name": "Octavio Barbatti",
+          "name": "Sergio Pelliccioli",
           "position_label": "Prop",
           "is_captain": false,
           "is_starter": false,
@@ -383,7 +383,7 @@
         },
         {
           "jersey": 18,
-          "name": "Sergio Pelliccioli",
+          "name": "Juan Barbotti",
           "position_label": "Prop",
           "is_captain": false,
           "is_starter": false,
@@ -423,7 +423,7 @@
         },
         {
           "jersey": 23,
-          "name": "Giacomo da Re",
+          "name": "Giacomo Da Re",
           "position_label": "Utility",
           "is_captain": false,
           "is_starter": false,
@@ -433,26 +433,26 @@
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
       "captain_jersey": null,
-      "source_format_notes": "Parsed from All.Rugby match page game sheet (secondary; surnames re-cased from UPPERCASE)"
+      "source_format_notes": "Parsed from RugbyPass match-centre team sheet (secondary; club official preferred on conflict)"
     }
   },
   "provenance": [
     {
-      "source_name": "all_rugby",
-      "url": "https://all.rugby/match/26731/urc-2026-2027/cardiff-zebre",
-      "fetched_at": "2026-10-01T20:43:00+01:00",
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/cardiff-blues-vs-zebre/teams/",
+      "fetched_at": "2026-10-02T09:20:11+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
       "role": "primary_sheet",
       "side": "home",
       "published_at": null,
-      "published_at_source": "fixture_verified_by_page_title_date"
+      "published_at_source": "fixture_verified_by_jsonld_startDate 2026-10-02T18:45:00+00:00"
     },
     {
       "source_name": "cardiff_official",
       "url": "https://www.cardiffrugby.wales/news/cardiff-make-four-changes-for-zebre-with-mcnally-captain/",
-      "fetched_at": "2026-10-01T20:43:00+01:00",
+      "fetched_at": "2026-10-02T09:20:11+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -464,14 +464,34 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26731/urc-2026-2027/cardiff-zebre",
-      "fetched_at": "2026-10-01T20:43:00+01:00",
+      "fetched_at": "2026-10-02T09:20:11+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/cardiff-blues-vs-zebre/teams/",
+      "fetched_at": "2026-10-02T09:20:11+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
       "role": "primary_sheet",
       "side": "away",
       "published_at": null,
-      "published_at_source": "fixture_verified_by_page_title_date"
+      "published_at_source": "fixture_verified_by_jsonld_startDate 2026-10-02T18:45:00+00:00"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26731/urc-2026-2027/cardiff-zebre",
+      "fetched_at": "2026-10-02T09:20:11+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
     },
     {
       "source_name": "cardiff_official",
@@ -495,15 +515,15 @@
     }
   ],
   "confidence": {
-    "overall": 0.8,
+    "overall": 0.85,
     "match_identity": 0.9,
-    "home_lineup": 0.8,
-    "away_lineup": 0.8,
+    "home_lineup": 0.85,
+    "away_lineup": 0.85,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from all_rugby",
-      "away: complete_1_to_23 from all_rugby"
+      "home: complete_1_to_23 from rugbypass; all_rugby 21/23 jerseys agree (differs at #11,#14)",
+      "away: complete_1_to_23 from rugbypass; all_rugby 17/23 jerseys agree (differs at #1,#3,#11,#14,#17,#18)"
     ]
   },
-  "notes": "Ingest poll 2026-10-01T20:43:00+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-02T09:20:11+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
