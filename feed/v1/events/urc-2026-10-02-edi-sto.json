@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-edi-sto",
   "matchId": "urc-2026-10-02-edi-sto",
-  "updated_at": "2026-10-02T20:58:47+01:00",
+  "updated_at": "2026-10-02T21:02:41+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604041/competitions/604041/plays",
-      "fetched_at": "2026-10-02T20:58:47+01:00",
+      "fetched_at": "2026-10-02T21:02:41+01:00",
       "espn_event_id": "604041",
       "espn_league_id": 270557
     }
@@ -69,8 +69,44 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1891781",
-      "minute": 52,
+      "id": "espn-1891835",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jerry Blyth-Lafferty",
+      "detail": "replaces Harri Morris",
+      "playerOn": "Jerry Blyth-Lafferty",
+      "playerOff": "Harri Morris",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891837",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Paul Hill",
+      "detail": "replaces Ollie Blyth-Lafferty",
+      "playerOn": "Paul Hill",
+      "playerOff": "Ollie Blyth-Lafferty",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891839",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Alec Hepburn",
+      "detail": "replaces Pierre Schoeman",
+      "playerOn": "Alec Hepburn",
+      "playerOff": "Pierre Schoeman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891849",
+      "minute": 51,
       "period": "2H",
       "type": "penalty_goal_made",
       "team": "away",
@@ -84,39 +120,63 @@
       }
     },
     {
-      "id": "espn-1891783",
+      "id": "espn-1891876",
       "minute": 52,
       "period": "2H",
       "type": "substitution",
-      "team": "home",
-      "player": "Jerry Blyth-Lafferty",
-      "detail": "replaces Harri Morris",
-      "playerOn": "Jerry Blyth-Lafferty",
-      "playerOff": "Harri Morris",
+      "team": "away",
+      "player": "Wandile Mlaba",
+      "detail": "replaces Siya Kolisi",
+      "playerOn": "Wandile Mlaba",
+      "playerOff": "Siya Kolisi",
       "label": "Substitution"
     },
     {
-      "id": "espn-1891785",
-      "minute": 52,
-      "period": "2H",
-      "type": "substitution",
-      "team": "home",
-      "player": "Paul Hill",
-      "detail": "replaces Ollie Blyth-Lafferty",
-      "playerOn": "Paul Hill",
-      "playerOff": "Ollie Blyth-Lafferty",
-      "label": "Substitution"
-    },
-    {
-      "id": "espn-1891787",
+      "id": "espn-1891866",
       "minute": 53,
       "period": "2H",
       "type": "substitution",
-      "team": "home",
-      "player": "Alec Hepburn",
-      "detail": "replaces Pierre Schoeman",
-      "playerOn": "Alec Hepburn",
-      "playerOff": "Pierre Schoeman",
+      "team": "away",
+      "player": "Sazi Sandi",
+      "detail": "replaces Neethling Fouché",
+      "playerOn": "Sazi Sandi",
+      "playerOff": "Neethling Fouché",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891868",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Vernon Matongo",
+      "detail": "replaces Ntuthuko Mchunu",
+      "playerOn": "Vernon Matongo",
+      "playerOff": "Ntuthuko Mchunu",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891870",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Adré Smith",
+      "detail": "replaces JD Schickerling",
+      "playerOn": "Adré Smith",
+      "playerOff": "JD Schickerling",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891872",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Connor Evans",
+      "detail": "replaces Riley Norton",
+      "playerOn": "Connor Evans",
+      "playerOff": "Riley Norton",
       "label": "Substitution"
     }
   ]

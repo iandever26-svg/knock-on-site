@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-ben-con",
   "matchId": "urc-2026-10-02-ben-con",
-  "updated_at": "2026-10-02T20:58:47+01:00",
+  "updated_at": "2026-10-02T21:02:41+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604042/competitions/604042/plays",
-      "fetched_at": "2026-10-02T20:58:47+01:00",
+      "fetched_at": "2026-10-02T21:02:41+01:00",
       "espn_event_id": "604042",
       "espn_league_id": 270557
     }
@@ -219,8 +219,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1891794",
-      "minute": 50,
+      "id": "espn-1891804",
+      "minute": 51,
       "period": "2H",
       "type": "try",
       "team": "home",
@@ -247,6 +247,30 @@
         "home": 19,
         "away": 17
       }
+    },
+    {
+      "id": "espn-1891818",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Tiziano Pasquali",
+      "detail": "replaces Simone Ferrari",
+      "playerOn": "Tiziano Pasquali",
+      "playerOff": "Simone Ferrari",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891824",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Mirco Spagnolo",
+      "detail": "replaces Matías Medrano",
+      "playerOn": "Mirco Spagnolo",
+      "playerOff": "Matías Medrano",
+      "label": "Substitution"
     }
   ]
 }

@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-car-zeb",
   "matchId": "urc-2026-10-02-car-zeb",
-  "updated_at": "2026-10-02T20:58:47+01:00",
+  "updated_at": "2026-10-02T21:02:41+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604040/competitions/604040/plays",
-      "fetched_at": "2026-10-02T20:58:47+01:00",
+      "fetched_at": "2026-10-02T21:02:41+01:00",
       "espn_event_id": "604040",
       "espn_league_id": 270557
     }
@@ -216,7 +216,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1891777",
+      "id": "espn-1891809",
       "minute": 52,
       "period": "2H",
       "type": "substitution",
@@ -228,7 +228,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1891779",
+      "id": "espn-1891811",
       "minute": 52,
       "period": "2H",
       "type": "substitution",
@@ -240,8 +240,44 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1891789",
-      "minute": 55,
+      "id": "espn-1891820",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sam Wainwright",
+      "detail": "replaces Javan Sebastian",
+      "playerOn": "Sam Wainwright",
+      "playerOff": "Javan Sebastian",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891826",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Evan Lloyd",
+      "detail": "replaces Taine Basham",
+      "playerOn": "Evan Lloyd",
+      "playerOff": "Taine Basham",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891828",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jarrod Evans",
+      "detail": "replaces Callum Sheedy",
+      "playerOn": "Jarrod Evans",
+      "playerOff": "Callum Sheedy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891830",
+      "minute": 54,
       "period": "2H",
       "type": "try",
       "team": "home",
@@ -253,6 +289,45 @@
         "home": 38,
         "away": 8
       }
+    },
+    {
+      "id": "espn-1891831",
+      "minute": 54,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jarrod Evans",
+      "detail": "Conversion (40-8)",
+      "playerName": "Jarrod Evans",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 40,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1891832",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Patricio Baronio",
+      "detail": "replaces Thomas Dominguez",
+      "playerOn": "Patricio Baronio",
+      "playerOff": "Thomas Dominguez",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891878",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Giulio Bertaccini",
+      "detail": "replaces Mirko Belloni",
+      "playerOn": "Giulio Bertaccini",
+      "playerOff": "Mirko Belloni",
+      "label": "Substitution"
     }
   ]
 }
