@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-ben-con",
   "matchId": "urc-2026-10-02-ben-con",
-  "updated_at": "2026-10-02T20:32:59+01:00",
+  "updated_at": "2026-10-02T20:48:36+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604042/competitions/604042/plays",
-      "fetched_at": "2026-10-02T20:32:59+01:00",
+      "fetched_at": "2026-10-02T20:48:36+01:00",
       "espn_event_id": "604042",
       "espn_league_id": 270557
     }
@@ -156,6 +156,18 @@
       "detail": "replaces Finn Treacy",
       "playerOn": "Sam Illo",
       "playerOff": "Finn Treacy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891749",
+      "minute": 40,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Paolo Odogwu",
+      "detail": "replaces Jean Smith",
+      "playerOn": "Paolo Odogwu",
+      "playerOff": "Jean Smith",
       "label": "Substitution"
     }
   ]

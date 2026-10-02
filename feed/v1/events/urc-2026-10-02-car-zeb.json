@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-car-zeb",
   "matchId": "urc-2026-10-02-car-zeb",
-  "updated_at": "2026-10-02T20:32:59+01:00",
+  "updated_at": "2026-10-02T20:48:35+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604040/competitions/604040/plays",
-      "fetched_at": "2026-10-02T20:32:59+01:00",
+      "fetched_at": "2026-10-02T20:48:35+01:00",
       "espn_event_id": "604040",
       "espn_league_id": 270557
     }
@@ -172,6 +172,48 @@
         "home": 26,
         "away": 8
       }
+    },
+    {
+      "id": "espn-1891747",
+      "minute": 43,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Tom Bowen",
+      "detail": "Try (31-8)",
+      "playerName": "Tom Bowen",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 31,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1891748",
+      "minute": 44,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Callum Sheedy",
+      "detail": "Conversion (33-8)",
+      "playerName": "Callum Sheedy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 33,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1891751",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Marco Zanon",
+      "detail": "replaces Giulio Bertaccini",
+      "playerOn": "Marco Zanon",
+      "playerOff": "Giulio Bertaccini",
+      "label": "Substitution"
     }
   ]
 }
