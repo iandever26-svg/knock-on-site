@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-ben-con",
   "matchId": "urc-2026-10-02-ben-con",
-  "updated_at": "2026-10-02T21:24:26+01:00",
+  "updated_at": "2026-10-02T21:29:38+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604042/competitions/604042/plays",
-      "fetched_at": "2026-10-02T21:24:26+01:00",
+      "fetched_at": "2026-10-02T21:29:38+01:00",
       "espn_event_id": "604042",
       "espn_league_id": 270557
     }
@@ -345,18 +345,6 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1891971",
-      "minute": 71,
-      "period": "2H",
-      "type": "substitution",
-      "team": "home",
-      "player": "So'otala Fa'aso'o",
-      "detail": "replaces Giulio Marini",
-      "playerOn": "So'otala Fa'aso'o",
-      "playerOff": "Giulio Marini",
-      "label": "Substitution"
-    },
-    {
       "id": "espn-1891973",
       "minute": 71,
       "period": "2H",
@@ -366,6 +354,18 @@
       "detail": "replaces Caolin Blade",
       "playerOn": "Colm Reilly",
       "playerOff": "Caolin Blade",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891983",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "So'otala Fa'aso'o",
+      "detail": "replaces Giulio Marini",
+      "playerOn": "So'otala Fa'aso'o",
+      "playerOff": "Giulio Marini",
       "label": "Substitution"
     },
     {
@@ -379,6 +379,33 @@
       "playerOn": "Jean Smith",
       "playerOff": "Ignacio Mendy",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1891987",
+      "minute": 75,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Shane Jennings",
+      "detail": "replaces Finn Treacy",
+      "playerOn": "Shane Jennings",
+      "playerOff": "Finn Treacy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892027",
+      "minute": 77,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Ciarán Frawley",
+      "detail": "Try (19-22)",
+      "playerName": "Ciarán Frawley",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 22
+      }
     }
   ]
 }

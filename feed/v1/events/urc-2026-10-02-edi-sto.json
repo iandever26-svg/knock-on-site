@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-edi-sto",
   "matchId": "urc-2026-10-02-edi-sto",
-  "updated_at": "2026-10-02T21:24:26+01:00",
+  "updated_at": "2026-10-02T21:29:38+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604041/competitions/604041/plays",
-      "fetched_at": "2026-10-02T21:24:26+01:00",
+      "fetched_at": "2026-10-02T21:29:38+01:00",
       "espn_event_id": "604041",
       "espn_league_id": 270557
     }
@@ -237,7 +237,19 @@
       }
     },
     {
-      "id": "espn-1891933",
+      "id": "espn-1892001",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Euan McVie",
+      "detail": "replaces Callum Hunter-Hill",
+      "playerOn": "Euan McVie",
+      "playerOff": "Callum Hunter-Hill",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892026",
       "minute": 63,
       "period": "2H",
       "type": "yellow_card",
@@ -252,20 +264,8 @@
       }
     },
     {
-      "id": "espn-1891962",
-      "minute": 64,
-      "period": "2H",
-      "type": "substitution",
-      "team": "home",
-      "player": "Euan McVie",
-      "detail": "replaces Callum Hunter-Hill",
-      "playerOn": "Euan McVie",
-      "playerOff": "Callum Hunter-Hill",
-      "label": "Substitution"
-    },
-    {
-      "id": "espn-1891940",
-      "minute": 64,
+      "id": "espn-1892003",
+      "minute": 63,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -276,8 +276,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1891953",
-      "minute": 69,
+      "id": "espn-1892053",
+      "minute": 66,
       "period": "2H",
       "type": "try",
       "team": "away",
@@ -291,8 +291,8 @@
       }
     },
     {
-      "id": "espn-1891960",
-      "minute": 70,
+      "id": "espn-1892054",
+      "minute": 67,
       "period": "2H",
       "type": "conversion_made",
       "team": "away",
@@ -306,8 +306,8 @@
       }
     },
     {
-      "id": "espn-1891975",
-      "minute": 74,
+      "id": "espn-1892055",
+      "minute": 72,
       "period": "2H",
       "type": "try",
       "team": "home",
@@ -321,8 +321,8 @@
       }
     },
     {
-      "id": "espn-1891977",
-      "minute": 75,
+      "id": "espn-1892056",
+      "minute": 73,
       "period": "2H",
       "type": "conversion_made",
       "team": "home",
@@ -336,8 +336,8 @@
       }
     },
     {
-      "id": "espn-1891979",
-      "minute": 76,
+      "id": "espn-1892057",
+      "minute": 73,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -345,6 +345,54 @@
       "detail": "replaces Andre Warner",
       "playerOn": "Stefan Ungerer",
       "playerOff": "Andre Warner",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892059",
+      "minute": 74,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Tom Currie",
+      "detail": "replaces Glen Young",
+      "playerOn": "Tom Currie",
+      "playerOff": "Glen Young",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892061",
+      "minute": 75,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Stefan Ungerer",
+      "detail": "replaces Andre Warner",
+      "playerOn": "Stefan Ungerer",
+      "playerOff": "Andre Warner",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892063",
+      "minute": 77,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cammy Scott",
+      "detail": "replaces Hector Patterson",
+      "playerOn": "Cammy Scott",
+      "playerOff": "Hector Patterson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892065",
+      "minute": 77,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Conor McAlpine",
+      "detail": "replaces Hector Patterson",
+      "playerOn": "Conor McAlpine",
+      "playerOff": "Hector Patterson",
       "label": "Substitution"
     }
   ]
