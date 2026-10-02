@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-ben-con",
   "matchId": "urc-2026-10-02-ben-con",
-  "updated_at": "2026-10-02T20:07:00+01:00",
+  "updated_at": "2026-10-02T20:22:36+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604042/competitions/604042/plays",
-      "fetched_at": "2026-10-02T20:07:00+01:00",
+      "fetched_at": "2026-10-02T20:22:36+01:00",
       "espn_event_id": "604042",
       "espn_league_id": 270557
     }
@@ -58,6 +58,18 @@
         "home": 5,
         "away": 10
       }
+    },
+    {
+      "id": "espn-1891720",
+      "minute": 30,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jean Smith",
+      "detail": "replaces Paolo Odogwu",
+      "playerOn": "Jean Smith",
+      "playerOff": "Paolo Odogwu",
+      "label": "Substitution"
     }
   ]
 }
