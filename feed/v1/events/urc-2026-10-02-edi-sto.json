@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-edi-sto",
   "matchId": "urc-2026-10-02-edi-sto",
-  "updated_at": "2026-10-02T21:29:38+01:00",
-  "final": false,
+  "updated_at": "2026-10-02T21:33:49+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604041/competitions/604041/plays",
-      "fetched_at": "2026-10-02T21:29:38+01:00",
+      "fetched_at": "2026-10-02T21:33:49+01:00",
       "espn_event_id": "604041",
       "espn_league_id": 270557
     }
@@ -306,8 +307,8 @@
       }
     },
     {
-      "id": "espn-1892055",
-      "minute": 72,
+      "id": "espn-1892085",
+      "minute": 71,
       "period": "2H",
       "type": "try",
       "team": "home",
@@ -321,8 +322,8 @@
       }
     },
     {
-      "id": "espn-1892056",
-      "minute": 73,
+      "id": "espn-1892086",
+      "minute": 72,
       "period": "2H",
       "type": "conversion_made",
       "team": "home",
@@ -336,7 +337,7 @@
       }
     },
     {
-      "id": "espn-1892057",
+      "id": "espn-1892087",
       "minute": 73,
       "period": "2H",
       "type": "substitution",
@@ -348,19 +349,19 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892059",
+      "id": "espn-1892089",
       "minute": 74,
       "period": "2H",
       "type": "substitution",
       "team": "home",
       "player": "Tom Currie",
-      "detail": "replaces Glen Young",
+      "detail": "replaces Freddy Douglas",
       "playerOn": "Tom Currie",
-      "playerOff": "Glen Young",
+      "playerOff": "Freddy Douglas",
       "label": "Substitution"
     },
     {
-      "id": "espn-1892061",
+      "id": "espn-1892091",
       "minute": 75,
       "period": "2H",
       "type": "substitution",
@@ -372,7 +373,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892063",
+      "id": "espn-1892093",
       "minute": 77,
       "period": "2H",
       "type": "substitution",
@@ -384,15 +385,15 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892065",
+      "id": "espn-1892095",
       "minute": 77,
       "period": "2H",
       "type": "substitution",
       "team": "home",
       "player": "Conor McAlpine",
-      "detail": "replaces Hector Patterson",
+      "detail": "replaces Kienan Higgins",
       "playerOn": "Conor McAlpine",
-      "playerOff": "Hector Patterson",
+      "playerOff": "Kienan Higgins",
       "label": "Substitution"
     }
   ]
