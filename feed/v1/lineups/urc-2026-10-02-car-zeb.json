@@ -440,7 +440,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/cardiff-blues-vs-zebre/teams/",
-      "fetched_at": "2026-10-02T12:12:40+01:00",
+      "fetched_at": "2026-10-02T12:41:41+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -452,7 +452,7 @@
     {
       "source_name": "cardiff_official",
       "url": "https://www.cardiffrugby.wales/news/cardiff-make-four-changes-for-zebre-with-mcnally-captain/",
-      "fetched_at": "2026-10-02T12:12:40+01:00",
+      "fetched_at": "2026-10-02T12:41:41+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -464,7 +464,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26731/urc-2026-2027/cardiff-zebre",
-      "fetched_at": "2026-10-02T12:12:40+01:00",
+      "fetched_at": "2026-10-02T12:41:41+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -474,7 +474,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/cardiff-blues-vs-zebre/teams/",
-      "fetched_at": "2026-10-02T12:12:40+01:00",
+      "fetched_at": "2026-10-02T12:41:41+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -486,7 +486,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26731/urc-2026-2027/cardiff-zebre",
-      "fetched_at": "2026-10-02T12:12:40+01:00",
+      "fetched_at": "2026-10-02T12:41:41+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -525,5 +525,5 @@
       "away: complete_1_to_23 from rugbypass; all_rugby 17/23 jerseys agree (differs at #1,#3,#11,#14,#17,#18)"
     ]
   },
-  "notes": "Ingest poll 2026-10-02T12:12:40+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-02T12:41:41+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
