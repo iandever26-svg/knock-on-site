@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-edi-sto",
   "matchId": "urc-2026-10-02-edi-sto",
-  "updated_at": "2026-10-02T21:19:13+01:00",
+  "updated_at": "2026-10-02T21:24:26+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604041/competitions/604041/plays",
-      "fetched_at": "2026-10-02T21:19:13+01:00",
+      "fetched_at": "2026-10-02T21:24:26+01:00",
       "espn_event_id": "604041",
       "espn_league_id": 270557
     }
@@ -304,6 +304,48 @@
         "home": 10,
         "away": 13
       }
+    },
+    {
+      "id": "espn-1891975",
+      "minute": 74,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Rory McHaffie",
+      "detail": "Try (15-13)",
+      "playerName": "Rory McHaffie",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 15,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1891977",
+      "minute": 75,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "James Grayson",
+      "detail": "Conversion (17-13)",
+      "playerName": "James Grayson",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 17,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1891979",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Stefan Ungerer",
+      "detail": "replaces Andre Warner",
+      "playerOn": "Stefan Ungerer",
+      "playerOff": "Andre Warner",
+      "label": "Substitution"
     }
   ]
 }
