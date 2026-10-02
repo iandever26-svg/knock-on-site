@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-edi-sto",
   "matchId": "urc-2026-10-02-edi-sto",
-  "updated_at": "2026-10-02T21:09:01+01:00",
+  "updated_at": "2026-10-02T21:12:04+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604041/competitions/604041/plays",
-      "fetched_at": "2026-10-02T21:09:01+01:00",
+      "fetched_at": "2026-10-02T21:12:04+01:00",
       "espn_event_id": "604041",
       "espn_league_id": 270557
     }
@@ -235,6 +235,33 @@
         "home": 10,
         "away": 6
       }
+    },
+    {
+      "id": "espn-1891933",
+      "minute": 63,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Freddy Douglas",
+      "detail": "Yellow card (10-6)",
+      "playerName": "Freddy Douglas",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 10,
+        "away": 6
+      }
+    },
+    {
+      "id": "espn-1891940",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Wandisile Simelane",
+      "detail": "replaces Jonathan Roche",
+      "playerOn": "Wandisile Simelane",
+      "playerOff": "Jonathan Roche",
+      "label": "Substitution"
     }
   ]
 }

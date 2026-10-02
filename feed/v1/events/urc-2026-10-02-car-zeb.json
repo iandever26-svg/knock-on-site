@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-car-zeb",
   "matchId": "urc-2026-10-02-car-zeb",
-  "updated_at": "2026-10-02T21:09:01+01:00",
+  "updated_at": "2026-10-02T21:12:04+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604040/competitions/604040/plays",
-      "fetched_at": "2026-10-02T21:09:01+01:00",
+      "fetched_at": "2026-10-02T21:12:04+01:00",
       "espn_event_id": "604040",
       "espn_league_id": 270557
     }
@@ -354,6 +354,18 @@
       "label": "Substitution"
     },
     {
+      "id": "espn-1891927",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Alessandro Ortombina",
+      "detail": "replaces Leonard Krumov",
+      "playerOn": "Alessandro Ortombina",
+      "playerOff": "Leonard Krumov",
+      "label": "Substitution"
+    },
+    {
       "id": "espn-1891902",
       "minute": 58,
       "period": "2H",
@@ -363,18 +375,6 @@
       "detail": "replaces Tommaso Allan",
       "playerOn": "Giacomo Da Re",
       "playerOff": "Tommaso Allan",
-      "label": "Substitution"
-    },
-    {
-      "id": "espn-1891888",
-      "minute": 58,
-      "period": "2H",
-      "type": "substitution",
-      "team": "away",
-      "player": "Alessandro Ortombina",
-      "detail": "replaces Leonard Krumov",
-      "playerOn": "Alessandro Ortombina",
-      "playerOff": "Leonard Krumov",
       "label": "Substitution"
     },
     {
@@ -406,6 +406,33 @@
         "home": 40,
         "away": 15
       }
+    },
+    {
+      "id": "espn-1891942",
+      "minute": 64,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Giulio Bertaccini",
+      "detail": "Try (40-20)",
+      "playerName": "Giulio Bertaccini",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 40,
+        "away": 20
+      }
+    },
+    {
+      "id": "espn-1891943",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Rory Thornton",
+      "detail": "replaces Josh McNally",
+      "playerOn": "Rory Thornton",
+      "playerOff": "Josh McNally",
+      "label": "Substitution"
     }
   ]
 }
