@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-edi-sto",
   "matchId": "urc-2026-10-02-edi-sto",
-  "updated_at": "2026-10-02T21:02:41+01:00",
+  "updated_at": "2026-10-02T21:09:01+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604041/competitions/604041/plays",
-      "fetched_at": "2026-10-02T21:02:41+01:00",
+      "fetched_at": "2026-10-02T21:09:01+01:00",
       "espn_event_id": "604041",
       "espn_league_id": 270557
     }
@@ -120,6 +120,18 @@
       }
     },
     {
+      "id": "espn-1891880",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Andre Warner",
+      "detail": "replaces Stefan Ungerer",
+      "playerOn": "Andre Warner",
+      "playerOff": "Stefan Ungerer",
+      "label": "Substitution"
+    },
+    {
       "id": "espn-1891876",
       "minute": 52,
       "period": "2H",
@@ -178,6 +190,51 @@
       "playerOn": "Connor Evans",
       "playerOff": "Riley Norton",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1891914",
+      "minute": 58,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Seabelo Senatla",
+      "detail": "Yellow card (3-6)",
+      "playerName": "Seabelo Senatla",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 3,
+        "away": 6
+      }
+    },
+    {
+      "id": "espn-1891897",
+      "minute": 58,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Paul Hill",
+      "detail": "Try (8-6)",
+      "playerName": "Paul Hill",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 8,
+        "away": 6
+      }
+    },
+    {
+      "id": "espn-1891899",
+      "minute": 59,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "James Grayson",
+      "detail": "Conversion (10-6)",
+      "playerName": "James Grayson",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 10,
+        "away": 6
+      }
     }
   ]
 }

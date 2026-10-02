@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-car-zeb",
   "matchId": "urc-2026-10-02-car-zeb",
-  "updated_at": "2026-10-02T21:02:41+01:00",
+  "updated_at": "2026-10-02T21:09:01+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604040/competitions/604040/plays",
-      "fetched_at": "2026-10-02T21:02:41+01:00",
+      "fetched_at": "2026-10-02T21:09:01+01:00",
       "espn_event_id": "604040",
       "espn_league_id": 270557
     }
@@ -318,8 +318,32 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1891878",
-      "minute": 56,
+      "id": "espn-1891882",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Tom Howe",
+      "detail": "replaces Dafydd Hughes",
+      "playerOn": "Tom Howe",
+      "playerOff": "Dafydd Hughes",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891886",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ellis Bevan",
+      "detail": "replaces Johan Mulder",
+      "playerOn": "Ellis Bevan",
+      "playerOff": "Johan Mulder",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891894",
+      "minute": 55,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -328,6 +352,60 @@
       "playerOn": "Giulio Bertaccini",
       "playerOff": "Mirko Belloni",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1891902",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Giacomo Da Re",
+      "detail": "replaces Tommaso Allan",
+      "playerOn": "Giacomo Da Re",
+      "playerOff": "Tommaso Allan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891888",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Alessandro Ortombina",
+      "detail": "replaces Leonard Krumov",
+      "playerOn": "Alessandro Ortombina",
+      "playerOff": "Leonard Krumov",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891906",
+      "minute": 59,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Giacomo Ferrari",
+      "detail": "Try (40-13)",
+      "playerName": "Giacomo Ferrari",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 40,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1891907",
+      "minute": 59,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Giacomo Da Re",
+      "detail": "Conversion (40-15)",
+      "playerName": "Giacomo Da Re",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 40,
+        "away": 15
+      }
     }
   ]
 }

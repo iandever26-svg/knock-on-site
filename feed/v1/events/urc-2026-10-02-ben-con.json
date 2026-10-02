@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-ben-con",
   "matchId": "urc-2026-10-02-ben-con",
-  "updated_at": "2026-10-02T21:02:41+01:00",
+  "updated_at": "2026-10-02T21:09:02+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604042/competitions/604042/plays",
-      "fetched_at": "2026-10-02T21:02:41+01:00",
+      "fetched_at": "2026-10-02T21:09:02+01:00",
       "espn_event_id": "604042",
       "espn_league_id": 270557
     }
@@ -270,6 +270,42 @@
       "detail": "replaces Matías Medrano",
       "playerOn": "Mirco Spagnolo",
       "playerOff": "Matías Medrano",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891890",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Paul Boyle",
+      "detail": "replaces Sean O'Brien",
+      "playerOn": "Paul Boyle",
+      "playerOff": "Sean O'Brien",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891912",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Siua Maile",
+      "detail": "replaces Bautista Bernasconi",
+      "playerOn": "Siua Maile",
+      "playerOff": "Bautista Bernasconi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891915",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Niall Murray",
+      "detail": "replaces Josh Murphy",
+      "playerOn": "Niall Murray",
+      "playerOff": "Josh Murphy",
       "label": "Substitution"
     }
   ]
