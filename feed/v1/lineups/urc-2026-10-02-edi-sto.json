@@ -444,7 +444,7 @@
     {
       "source_name": "edinburgh_official",
       "url": "https://edinburghrugby.org/news-and-features/schoeman-returns-for-home-opener/",
-      "fetched_at": "2026-10-02T10:51:54+01:00",
+      "fetched_at": "2026-10-02T11:21:20+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "edinburgh_official",
       "url": "https://edinburghrugby.org/news-and-features/",
-      "fetched_at": "2026-10-02T10:51:54+01:00",
+      "fetched_at": "2026-10-02T11:21:20+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -466,7 +466,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/edinburgh-vs-stormers/teams/",
-      "fetched_at": "2026-10-02T10:51:54+01:00",
+      "fetched_at": "2026-10-02T11:21:20+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -476,7 +476,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26732/urc-2026-2027/edinburgh-stormers",
-      "fetched_at": "2026-10-02T10:51:54+01:00",
+      "fetched_at": "2026-10-02T11:21:20+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -486,7 +486,7 @@
     {
       "source_name": "stormers_official",
       "url": "https://stormers.co.za/kolisi-makes-his-dhl-stormers-comeback-in-edinburgh/",
-      "fetched_at": "2026-10-02T10:51:54+01:00",
+      "fetched_at": "2026-10-02T11:21:20+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -498,7 +498,7 @@
     {
       "source_name": "stormers_official",
       "url": "https://stormers.co.za/news/",
-      "fetched_at": "2026-10-02T10:51:54+01:00",
+      "fetched_at": "2026-10-02T11:21:20+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -508,7 +508,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/edinburgh-vs-stormers/teams/",
-      "fetched_at": "2026-10-02T10:51:54+01:00",
+      "fetched_at": "2026-10-02T11:21:20+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -518,7 +518,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26732/urc-2026-2027/edinburgh-stormers",
-      "fetched_at": "2026-10-02T10:51:54+01:00",
+      "fetched_at": "2026-10-02T11:21:20+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -537,5 +537,5 @@
       "away: complete_1_to_23 from stormers_official; rugbypass 23/23 jerseys agree; all_rugby 21/23 jerseys agree (differs at #12,#13)"
     ]
   },
-  "notes": "Ingest poll 2026-10-02T10:51:54+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-02T11:21:20+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }

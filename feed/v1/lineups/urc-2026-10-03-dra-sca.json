@@ -440,7 +440,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/gwent-dragons-vs-scarlets/teams/",
-      "fetched_at": "2026-10-02T10:52:16+01:00",
+      "fetched_at": "2026-10-02T11:21:39+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -452,7 +452,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26735/urc-2026-2027/dragons-scarlets",
-      "fetched_at": "2026-10-02T10:52:16+01:00",
+      "fetched_at": "2026-10-02T11:21:39+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -462,7 +462,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/gwent-dragons-vs-scarlets/teams/",
-      "fetched_at": "2026-10-02T10:52:16+01:00",
+      "fetched_at": "2026-10-02T11:21:39+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -474,7 +474,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26735/urc-2026-2027/dragons-scarlets",
-      "fetched_at": "2026-10-02T10:52:16+01:00",
+      "fetched_at": "2026-10-02T11:21:39+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -573,5 +573,5 @@
       "away: complete_1_to_23 from rugbypass; all_rugby 19/23 jerseys agree (differs at #12,#13,#17,#18)"
     ]
   },
-  "notes": "Ingest poll 2026-10-02T10:52:16+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-02T11:21:39+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
