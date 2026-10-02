@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-ben-con",
   "matchId": "urc-2026-10-02-ben-con",
-  "updated_at": "2026-10-02T20:22:36+01:00",
+  "updated_at": "2026-10-02T20:27:48+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604042/competitions/604042/plays",
-      "fetched_at": "2026-10-02T20:22:36+01:00",
+      "fetched_at": "2026-10-02T20:27:48+01:00",
       "espn_event_id": "604042",
       "espn_league_id": 270557
     }
@@ -70,6 +70,51 @@
       "playerOn": "Jean Smith",
       "playerOff": "Paolo Odogwu",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1891723",
+      "minute": 34,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Leonardo Marin",
+      "detail": "Try (10-10)",
+      "playerName": "Leonardo Marin",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1891724",
+      "minute": 35,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jacob Umaga",
+      "detail": "Conversion (12-10)",
+      "playerName": "Jacob Umaga",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1891731",
+      "minute": 37,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Ciarán Frawley",
+      "detail": "Try (12-15)",
+      "playerName": "Ciarán Frawley",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 15
+      }
     }
   ]
 }

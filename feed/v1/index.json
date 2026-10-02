@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-02T20:22:36+01:00",
-  "updatedAt": "2026-10-02T20:22:36+01:00",
+  "generatedAt": "2026-10-02T20:27:48+01:00",
+  "updatedAt": "2026-10-02T20:27:48+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-09-28T13:21:09+01:00",
   "matches": [
@@ -89,27 +89,27 @@
       "match_id": "urc-2026-10-02-ben-con",
       "kickoff": "2026-10-02T19:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-02T20:22:35+01:00",
+      "scoreUpdatedAt": "2026-10-02T20:27:46+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-02T19:45:00+01:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-02T20:22:36+01:00"
+      "eventsUpdatedAt": "2026-10-02T20:27:48+01:00"
     },
     {
       "match_id": "urc-2026-10-02-car-zeb",
       "kickoff": "2026-10-02T19:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-02T20:22:35+01:00",
+      "scoreUpdatedAt": "2026-10-02T20:27:46+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-02T19:45:00+01:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-02T20:22:36+01:00"
+      "eventsUpdatedAt": "2026-10-02T20:27:48+01:00"
     },
     {
       "match_id": "urc-2026-10-02-edi-sto",
       "kickoff": "2026-10-02T19:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-02T20:22:35+01:00",
+      "scoreUpdatedAt": "2026-10-02T20:27:46+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-02T19:45:00+01:00",
       "events": true,
