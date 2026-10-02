@@ -3,9 +3,9 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-02T21:41:18+01:00",
+  "updatedAt": "2026-10-02T23:35:42+01:00",
   "playoffCutoff": 8,
-  "formNote": "Most recent first; may include last season. W/D/L.",
+  "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
     "source": "espn",
     "url": "https://site.api.espn.com/apis/v2/sports/rugby/270557/standings",
@@ -26,7 +26,7 @@
       "TA": 6,
       "BP": 1,
       "points": 9,
-      "form": "WLWLW"
+      "form": "WWLWL"
     },
     {
       "position": 2,
@@ -42,7 +42,7 @@
       "TA": 5,
       "BP": 1,
       "points": 9,
-      "form": "WLWWW"
+      "form": "WWLWW"
     },
     {
       "position": 3,
@@ -58,7 +58,7 @@
       "TA": 4,
       "BP": 2,
       "points": 6,
-      "form": "WLWLD"
+      "form": "LWLWL"
     },
     {
       "position": 4,
@@ -122,7 +122,7 @@
       "TA": 7,
       "BP": 1,
       "points": 5,
-      "form": "LLWWL"
+      "form": "WLLWW"
     },
     {
       "position": 8,
@@ -154,7 +154,7 @@
       "TA": 7,
       "BP": 1,
       "points": 3,
-      "form": "DLLWL"
+      "form": "LDLLW"
     },
     {
       "position": 10,
