@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-car-zeb",
   "matchId": "urc-2026-10-02-car-zeb",
-  "updated_at": "2026-10-02T20:07:00+01:00",
+  "updated_at": "2026-10-02T20:12:12+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604040/competitions/604040/plays",
-      "fetched_at": "2026-10-02T20:07:00+01:00",
+      "fetched_at": "2026-10-02T20:12:12+01:00",
       "espn_event_id": "604040",
       "espn_league_id": 270557
     }
@@ -84,6 +84,21 @@
       "scoreAfter": {
         "home": 12,
         "away": 3
+      }
+    },
+    {
+      "id": "espn-1891709",
+      "minute": 21,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Francisco Minervino",
+      "detail": "Try (12-8)",
+      "playerName": "Francisco Minervino",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 8
       }
     }
   ]
