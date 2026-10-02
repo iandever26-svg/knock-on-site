@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-10-02-ben-con",
+  "matchId": "urc-2026-10-02-ben-con",
+  "updated_at": "2026-10-02T19:51:36+01:00",
+  "final": false,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604042/competitions/604042/plays",
+      "fetched_at": "2026-10-02T19:51:36+01:00",
+      "espn_event_id": "604042",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": [
+    {
+      "id": "espn-1891694",
+      "minute": 5,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Cian Prendergast",
+      "detail": "Try (0-5)",
+      "playerName": "Cian Prendergast",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    }
+  ]
+}
