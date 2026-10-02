@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-edi-sto",
   "matchId": "urc-2026-10-02-edi-sto",
-  "updated_at": "2026-10-02T19:56:48+01:00",
+  "updated_at": "2026-10-02T20:17:24+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604041/competitions/604041/plays",
-      "fetched_at": "2026-10-02T19:56:48+01:00",
+      "fetched_at": "2026-10-02T20:17:24+01:00",
       "espn_event_id": "604041",
       "espn_league_id": 270557
     }
@@ -28,6 +28,18 @@
         "home": 3,
         "away": 0
       }
+    },
+    {
+      "id": "espn-1891711",
+      "minute": 23,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Vernon Paulo",
+      "detail": "replaces André-Hugo Venter",
+      "playerOn": "Vernon Paulo",
+      "playerOff": "André-Hugo Venter",
+      "label": "Substitution"
     }
   ]
 }

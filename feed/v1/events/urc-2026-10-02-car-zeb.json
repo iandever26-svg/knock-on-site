@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-car-zeb",
   "matchId": "urc-2026-10-02-car-zeb",
-  "updated_at": "2026-10-02T20:12:12+01:00",
+  "updated_at": "2026-10-02T20:17:24+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604040/competitions/604040/plays",
-      "fetched_at": "2026-10-02T20:12:12+01:00",
+      "fetched_at": "2026-10-02T20:17:24+01:00",
       "espn_event_id": "604040",
       "espn_league_id": 270557
     }
@@ -98,6 +98,36 @@
       "label": "Try",
       "scoreAfter": {
         "home": 12,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1891713",
+      "minute": 27,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Taine Basham",
+      "detail": "Try (17-8)",
+      "playerName": "Taine Basham",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1891714",
+      "minute": 28,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Callum Sheedy",
+      "detail": "Conversion (19-8)",
+      "playerName": "Callum Sheedy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
         "away": 8
       }
     }
