@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-car-zeb",
   "matchId": "urc-2026-10-02-car-zeb",
-  "updated_at": "2026-10-02T21:12:04+01:00",
+  "updated_at": "2026-10-02T21:19:13+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604040/competitions/604040/plays",
-      "fetched_at": "2026-10-02T21:12:04+01:00",
+      "fetched_at": "2026-10-02T21:19:13+01:00",
       "espn_event_id": "604040",
       "espn_league_id": 270557
     }
@@ -433,6 +433,60 @@
       "playerOn": "Rory Thornton",
       "playerOff": "Josh McNally",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1891951",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Steffan Emanuel",
+      "detail": "replaces Ben Thomas",
+      "playerOn": "Steffan Emanuel",
+      "playerOff": "Ben Thomas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891954",
+      "minute": 67,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Giovanni Quattrini",
+      "detail": "replaces Francisco Minervino",
+      "playerOn": "Giovanni Quattrini",
+      "playerOff": "Francisco Minervino",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891961",
+      "minute": 69,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Giacomo Da Re",
+      "detail": "Try (40-25)",
+      "playerName": "Giacomo Da Re",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 40,
+        "away": 25
+      }
+    },
+    {
+      "id": "espn-1891966",
+      "minute": 70,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Giacomo Da Re",
+      "detail": "Conversion (40-27)",
+      "playerName": "Giacomo Da Re",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 40,
+        "away": 27
+      }
     }
   ]
 }

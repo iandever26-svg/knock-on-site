@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-edi-sto",
   "matchId": "urc-2026-10-02-edi-sto",
-  "updated_at": "2026-10-02T21:12:04+01:00",
+  "updated_at": "2026-10-02T21:19:13+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604041/competitions/604041/plays",
-      "fetched_at": "2026-10-02T21:12:04+01:00",
+      "fetched_at": "2026-10-02T21:19:13+01:00",
       "espn_event_id": "604041",
       "espn_league_id": 270557
     }
@@ -252,6 +252,18 @@
       }
     },
     {
+      "id": "espn-1891962",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Euan McVie",
+      "detail": "replaces Callum Hunter-Hill",
+      "playerOn": "Euan McVie",
+      "playerOff": "Callum Hunter-Hill",
+      "label": "Substitution"
+    },
+    {
       "id": "espn-1891940",
       "minute": 64,
       "period": "2H",
@@ -262,6 +274,36 @@
       "playerOn": "Wandisile Simelane",
       "playerOff": "Jonathan Roche",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1891953",
+      "minute": 69,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Hacjivah Dayimani",
+      "detail": "Try (10-11)",
+      "playerName": "Hacjivah Dayimani",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 11
+      }
+    },
+    {
+      "id": "espn-1891960",
+      "minute": 70,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Yaqeen Ahmed",
+      "detail": "Conversion (10-13)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 10,
+        "away": 13
+      }
     }
   ]
 }
