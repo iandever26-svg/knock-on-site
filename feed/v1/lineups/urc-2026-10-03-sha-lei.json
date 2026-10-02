@@ -364,83 +364,28 @@
           "is_captain": false,
           "is_starter": true,
           "replacement_notes": null
-        },
-        {
-          "jersey": 16,
-          "name": "Gus McCarthy",
-          "position_label": "Hooker",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 17,
-          "name": "Alex Usanov",
-          "position_label": "Prop",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 18,
-          "name": "Niall Smyth",
-          "position_label": "Prop",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 19,
-          "name": "Brian Deeny",
-          "position_label": "Lock",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 20,
-          "name": "Ciarán Mangan",
-          "position_label": "Back row",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 21,
-          "name": "Oliver Coffey",
-          "position_label": "Scrum-half",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 22,
-          "name": "Sam Prendergast",
-          "position_label": "Fly-half",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
-        },
-        {
-          "jersey": 23,
-          "name": "Hugo McLaughlin",
-          "position_label": "Utility",
-          "is_captain": false,
-          "is_starter": false,
-          "replacement_notes": null
         }
       ],
-      "parse_status": "complete_1_to_23",
-      "missing_numbers": [],
+      "parse_status": "starting_xv_only",
+      "missing_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
       "captain_jersey": 2,
-      "source_format_notes": "knock-on override: Leinster official 1–15 kept (7 VDF / 8 Ericson — do not apply ESPN 7/8 swap) + benches 16–23 from ESPN/official agreement. Captain Rónan Kelleher (2)."
+      "source_format_notes": "Parsed from official WP JSON content.rendered"
     }
   },
   "provenance": [
     {
       "source_name": "sharks_official",
       "url": "https://sharksrugby.co.za/blogs/news/team-release-hollywoodbets-sharks-vs-leinster-round-2",
-      "fetched_at": "2026-10-02T18:51:18+01:00",
+      "fetched_at": "2026-10-02T19:18:24+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -452,7 +397,7 @@
     {
       "source_name": "sharks_official",
       "url": "https://www.sharksrugby.co.za/",
-      "fetched_at": "2026-10-02T18:51:18+01:00",
+      "fetched_at": "2026-10-02T19:18:24+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -462,7 +407,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/leinster-vs-sharks/teams/",
-      "fetched_at": "2026-10-02T18:51:18+01:00",
+      "fetched_at": "2026-10-02T19:18:24+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -472,7 +417,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26736/urc-2026-2027/sharks-leinster",
-      "fetched_at": "2026-10-02T18:51:18+01:00",
+      "fetched_at": "2026-10-02T19:18:24+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -482,7 +427,7 @@
     {
       "source_name": "leinster_official",
       "url": "https://www.leinsterrugby.ie/2026/10/01/leinster-rugby-v-hollywoodbets-sharks-team-news-urc-september-2026/",
-      "fetched_at": "2026-10-02T18:51:18+01:00",
+      "fetched_at": "2026-10-02T19:18:24+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": true,
@@ -494,7 +439,7 @@
     {
       "source_name": "leinster_official",
       "url": "https://leinster2023-wpapi.leinster.soticclient.net/wp-json/wp/v2/posts?search=team%20named&per_page=8",
-      "fetched_at": "2026-10-02T18:51:18+01:00",
+      "fetched_at": "2026-10-02T19:18:24+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": false,
@@ -504,7 +449,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/leinster-vs-sharks/teams/",
-      "fetched_at": "2026-10-02T18:51:18+01:00",
+      "fetched_at": "2026-10-02T19:18:24+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -514,27 +459,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26736/urc-2026-2027/sharks-leinster",
-      "fetched_at": "2026-10-02T18:51:18+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away"
-    },
-    {
-      "source_name": "leinster_official",
-      "url": "https://www.leinsterrugby.ie/2026/10/01/leinster-rugby-v-hollywoodbets-sharks-team-news-urc-september-2026/",
-      "fetched_at": "2026-10-02T18:11:52+01:00",
-      "content_type": "wp_rest",
-      "http_status": 200,
-      "is_primary": true,
-      "role": "primary_sheet",
-      "side": "away"
-    },
-    {
-      "source_name": "espn",
-      "url": "https://www.espn.com/rugby/match/_/gameId/604045",
-      "fetched_at": "2026-10-02T18:11:52+01:00",
+      "fetched_at": "2026-10-02T19:18:24+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -553,5 +478,5 @@
       "away: starting_xv_only from leinster_official; rugbypass 13/15 jerseys agree (differs at #7,#8); all_rugby 7/15 jerseys agree (differs at #4,#5,#6,#7,#11,#12,#13,#14)"
     ]
   },
-  "notes": "Ingest poll 2026-10-02T18:51:18+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-02T19:18:24+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
