@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-edi-sto",
   "matchId": "urc-2026-10-02-edi-sto",
-  "updated_at": "2026-10-02T20:17:24+01:00",
+  "updated_at": "2026-10-02T20:58:47+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604041/competitions/604041/plays",
-      "fetched_at": "2026-10-02T20:17:24+01:00",
+      "fetched_at": "2026-10-02T20:58:47+01:00",
       "espn_event_id": "604041",
       "espn_league_id": 270557
     }
@@ -39,6 +39,84 @@
       "detail": "replaces André-Hugo Venter",
       "playerOn": "Vernon Paulo",
       "playerOff": "André-Hugo Venter",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891755",
+      "minute": 48,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "away",
+      "player": "Yaqeen Ahmed",
+      "detail": "Penalty (3-3)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-1891757",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Rory McHaffie",
+      "detail": "replaces Matt Currie",
+      "playerOn": "Rory McHaffie",
+      "playerOff": "Matt Currie",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891781",
+      "minute": 52,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "away",
+      "player": "Yaqeen Ahmed",
+      "detail": "Penalty (3-6)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 3,
+        "away": 6
+      }
+    },
+    {
+      "id": "espn-1891783",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jerry Blyth-Lafferty",
+      "detail": "replaces Harri Morris",
+      "playerOn": "Jerry Blyth-Lafferty",
+      "playerOff": "Harri Morris",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891785",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Paul Hill",
+      "detail": "replaces Ollie Blyth-Lafferty",
+      "playerOn": "Paul Hill",
+      "playerOff": "Ollie Blyth-Lafferty",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891787",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Alec Hepburn",
+      "detail": "replaces Pierre Schoeman",
+      "playerOn": "Alec Hepburn",
+      "playerOff": "Pierre Schoeman",
       "label": "Substitution"
     }
   ]

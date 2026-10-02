@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-car-zeb",
   "matchId": "urc-2026-10-02-car-zeb",
-  "updated_at": "2026-10-02T20:48:35+01:00",
+  "updated_at": "2026-10-02T20:58:47+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604040/competitions/604040/plays",
-      "fetched_at": "2026-10-02T20:48:35+01:00",
+      "fetched_at": "2026-10-02T20:58:47+01:00",
       "espn_event_id": "604040",
       "espn_league_id": 270557
     }
@@ -214,6 +214,45 @@
       "playerOn": "Marco Zanon",
       "playerOff": "Giulio Bertaccini",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1891777",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Giacomo Ferrari",
+      "detail": "replaces Francesco Ruffolo",
+      "playerOn": "Giacomo Ferrari",
+      "playerOff": "Francesco Ruffolo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891779",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sergio Pelliccioli",
+      "detail": "replaces Federico Pisani",
+      "playerOn": "Sergio Pelliccioli",
+      "playerOff": "Federico Pisani",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891789",
+      "minute": 55,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Tom Bowen",
+      "detail": "Try (38-8)",
+      "playerName": "Tom Bowen",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 38,
+        "away": 8
+      }
     }
   ]
 }

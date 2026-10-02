@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-02-ben-con",
   "matchId": "urc-2026-10-02-ben-con",
-  "updated_at": "2026-10-02T20:48:36+01:00",
+  "updated_at": "2026-10-02T20:58:47+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604042/competitions/604042/plays",
-      "fetched_at": "2026-10-02T20:48:36+01:00",
+      "fetched_at": "2026-10-02T20:58:47+01:00",
       "espn_event_id": "604042",
       "espn_league_id": 270557
     }
@@ -169,6 +169,84 @@
       "playerOn": "Paolo Odogwu",
       "playerOff": "Jean Smith",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1891759",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Billy Bohan",
+      "detail": "replaces Francois van Wyk",
+      "playerOn": "Billy Bohan",
+      "playerOff": "Francois van Wyk",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891766",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Eoin de Buitléar",
+      "detail": "replaces Matt Victory",
+      "playerOn": "Eoin de Buitléar",
+      "playerOff": "Matt Victory",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891768",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Finn Treacy",
+      "detail": "replaces Sam Illo",
+      "playerOn": "Finn Treacy",
+      "playerOff": "Sam Illo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891774",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sam Illo",
+      "detail": "replaces Finlay Bealham",
+      "playerOn": "Sam Illo",
+      "playerOff": "Finlay Bealham",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891794",
+      "minute": 50,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Bautista Bernasconi",
+      "detail": "Try (17-17)",
+      "playerName": "Bautista Bernasconi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1891795",
+      "minute": 52,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jacob Umaga",
+      "detail": "Conversion (19-17)",
+      "playerName": "Jacob Umaga",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 17
+      }
     }
   ]
 }
