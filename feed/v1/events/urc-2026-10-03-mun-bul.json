@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-mun-bul",
   "matchId": "urc-2026-10-03-mun-bul",
-  "updated_at": "2026-10-03T21:15:23+01:00",
+  "updated_at": "2026-10-03T21:17:12+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604046/competitions/604046/plays",
-      "fetched_at": "2026-10-03T21:15:23+01:00",
+      "fetched_at": "2026-10-03T21:17:12+01:00",
       "espn_event_id": "604046",
       "espn_league_id": 270557
     }
@@ -331,6 +331,36 @@
       "playerOn": "Paul de Wet",
       "playerOff": "Zak Burger",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1893884",
+      "minute": 69,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Alex Kendellen",
+      "detail": "Try (24-17)",
+      "playerName": "Alex Kendellen",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1893887",
+      "minute": 70,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Charlie O’Shea",
+      "detail": "Conversion (26-17)",
+      "playerName": "Charlie O’Shea",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 26,
+        "away": 17
+      }
     }
   ]
 }
