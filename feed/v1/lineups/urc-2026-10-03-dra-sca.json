@@ -423,17 +423,17 @@
         },
         {
           "jersey": 23,
-          "name": "Johnny Williams",
+          "name": "Ioan Jones",
           "position_label": "Utility",
           "is_captain": false,
           "is_starter": false,
-          "replacement_notes": null
+          "replacement_notes": "late replacement for Johnny Williams withdrawal"
         }
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
       "captain_jersey": 6,
-      "source_format_notes": "knock-on override: RugbyPass sheet verified vs BBC Sport (all 23 agree). Captain Josh Macleod (6)."
+      "source_format_notes": "knock-on override: RugbyPass/BBC pre-match sheet, then late change — Johnny Williams withdrawn, Ioan Jones at 23. Agreed by ESPN roster (event 604044) + BBC Sport live blog / match report. Captain Josh Macleod (6)."
     }
   },
   "provenance": [
@@ -522,6 +522,26 @@
       "side": "away"
     },
     {
+      "source_name": "espn",
+      "url": "https://www.espn.com/rugby/match/_/gameId/604044",
+      "fetched_at": "2026-10-03T17:48:30+01:00",
+      "content_type": "api_roster",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "late_change",
+      "side": "away"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/live/c6158ev2qz85t",
+      "fetched_at": "2026-10-03T17:48:30+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
+    },
+    {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/dragons-vs-scarlets/teams/",
       "fetched_at": "2026-10-01T14:35:00+01:00",
@@ -555,6 +575,26 @@
       "source_name": "bbc_sport",
       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm1j4662gkrjo",
       "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
+    },
+    {
+      "source_name": "espn",
+      "url": "https://www.espn.com/rugby/match/_/gameId/604044",
+      "fetched_at": "2026-10-03T17:48:30+01:00",
+      "content_type": "api_roster",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "late_change",
+      "side": "away"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/live/c6158ev2qz85t",
+      "fetched_at": "2026-10-03T17:48:30+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
