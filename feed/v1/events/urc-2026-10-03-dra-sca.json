@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-dra-sca",
   "matchId": "urc-2026-10-03-dra-sca",
-  "updated_at": "2026-10-03T16:04:18+01:00",
+  "updated_at": "2026-10-03T16:05:01+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604044/competitions/604044/plays",
-      "fetched_at": "2026-10-03T16:04:18+01:00",
+      "fetched_at": "2026-10-03T16:05:01+01:00",
       "espn_event_id": "604044",
       "espn_league_id": 270557
     }
@@ -84,21 +84,6 @@
       "detail": "Try (12-7)",
       "playerName": "Elliot Dee",
       "label": "Try",
-      "scoreAfter": {
-        "home": 12,
-        "away": 7
-      }
-    },
-    {
-      "id": "espn-1892596-cm",
-      "minute": 22,
-      "period": "1H",
-      "type": "conversion_missed",
-      "team": "home",
-      "player": null,
-      "detail": "Conversion missed (inferred) (12-7)",
-      "label": "Conversion missed",
-      "inferred": true,
       "scoreAfter": {
         "home": 12,
         "away": 7
