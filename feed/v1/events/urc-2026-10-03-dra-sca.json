@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-dra-sca",
   "matchId": "urc-2026-10-03-dra-sca",
-  "updated_at": "2026-10-03T16:45:38+01:00",
+  "updated_at": "2026-10-03T16:46:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604044/competitions/604044/plays",
-      "fetched_at": "2026-10-03T16:45:38+01:00",
+      "fetched_at": "2026-10-03T16:46:23+01:00",
       "espn_event_id": "604044",
       "espn_league_id": 270557
     }
@@ -372,7 +372,7 @@
       }
     },
     {
-      "id": "espn-1892888",
+      "id": "espn-1892937",
       "minute": 71,
       "period": "2H",
       "type": "substitution",
@@ -384,7 +384,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892890",
+      "id": "espn-1892939",
       "minute": 71,
       "period": "2H",
       "type": "substitution",
@@ -396,7 +396,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892892",
+      "id": "espn-1892941",
       "minute": 71,
       "period": "2H",
       "type": "substitution",
@@ -408,7 +408,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892894",
+      "id": "espn-1892943",
       "minute": 72,
       "period": "2H",
       "type": "try",
@@ -423,7 +423,7 @@
       }
     },
     {
-      "id": "espn-1892895",
+      "id": "espn-1892944",
       "minute": 72,
       "period": "2H",
       "type": "substitution",
@@ -435,7 +435,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892897",
+      "id": "espn-1892946",
       "minute": 73,
       "period": "2H",
       "type": "conversion_made",
@@ -450,7 +450,7 @@
       }
     },
     {
-      "id": "espn-1892898",
+      "id": "espn-1892947",
       "minute": 73,
       "period": "2H",
       "type": "substitution",
@@ -462,7 +462,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892900",
+      "id": "espn-1892949",
       "minute": 74,
       "period": "2H",
       "type": "try",
@@ -477,7 +477,7 @@
       }
     },
     {
-      "id": "espn-1892900-cm",
+      "id": "espn-1892949-cm",
       "minute": 74,
       "period": "2H",
       "type": "conversion_missed",
@@ -492,7 +492,7 @@
       }
     },
     {
-      "id": "espn-1892914",
+      "id": "espn-1892950",
       "minute": 76,
       "period": "2H",
       "type": "substitution",
@@ -504,7 +504,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892901",
+      "id": "espn-1892952",
       "minute": 79,
       "period": "2H",
       "type": "substitution",
