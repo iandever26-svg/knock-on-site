@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-03T15:31:11+01:00",
-  "updatedAt": "2026-10-03T15:31:11+01:00",
+  "generatedAt": "2026-10-03T15:32:59+01:00",
+  "updatedAt": "2026-10-03T15:32:59+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-03T15:26:45+01:00",
   "matches": [
@@ -119,11 +119,11 @@
       "match_id": "urc-2026-10-03-dra-sca",
       "kickoff": "2026-10-03T15:00:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-03T15:26:41+01:00",
+      "scoreUpdatedAt": "2026-10-03T15:32:59+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-03T15:00:00+01:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-03T15:31:11+01:00"
+      "eventsUpdatedAt": "2026-10-03T15:32:59+01:00"
     },
     {
       "match_id": "urc-2026-10-03-gla-uls",
