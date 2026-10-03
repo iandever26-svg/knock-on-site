@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-03T16:37:01+01:00",
-  "updatedAt": "2026-10-03T16:37:01+01:00",
+  "generatedAt": "2026-10-03T16:37:48+01:00",
+  "updatedAt": "2026-10-03T16:37:48+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -295,7 +295,7 @@
         }
       ],
       "home_tries": 5,
-      "away_tries": 3,
+      "away_tries": 4,
       "tries_source": "espn_events"
     },
     {
