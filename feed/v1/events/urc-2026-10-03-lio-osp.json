@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-lio-osp",
   "matchId": "urc-2026-10-03-lio-osp",
-  "updated_at": "2026-10-03T13:00:27+01:00",
+  "updated_at": "2026-10-03T13:16:13+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604043/competitions/604043/plays",
-      "fetched_at": "2026-10-03T13:00:27+01:00",
+      "fetched_at": "2026-10-03T13:16:13+01:00",
       "espn_event_id": "604043",
       "espn_league_id": 270557
     }
@@ -26,6 +26,21 @@
       "label": "Penalty",
       "scoreAfter": {
         "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1892416",
+      "minute": 28,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Erich Cronjé",
+      "detail": "Try (8-0)",
+      "playerName": "Erich Cronjé",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 8,
         "away": 0
       }
     }
