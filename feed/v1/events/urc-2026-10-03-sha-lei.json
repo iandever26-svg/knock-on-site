@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-sha-lei",
   "matchId": "urc-2026-10-03-sha-lei",
-  "updated_at": "2026-10-03T18:41:55+01:00",
+  "updated_at": "2026-10-03T18:47:19+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604045/competitions/604045/plays",
-      "fetched_at": "2026-10-03T18:41:55+01:00",
+      "fetched_at": "2026-10-03T18:47:19+01:00",
       "espn_event_id": "604045",
       "espn_league_id": 270557
     }
@@ -180,6 +180,54 @@
       "detail": "replaces Caspar Gabriel",
       "playerOn": "Sam Prendergast",
       "playerOff": "Caspar Gabriel",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893445",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Hanro Jacobs",
+      "detail": "replaces Vincent Koch",
+      "playerOn": "Hanro Jacobs",
+      "playerOff": "Vincent Koch",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893449",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Eben Etzebeth",
+      "detail": "replaces Jason Jenkins",
+      "playerOn": "Eben Etzebeth",
+      "playerOff": "Jason Jenkins",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893451",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ox Nche",
+      "detail": "replaces Thomas du Toit",
+      "playerOn": "Ox Nche",
+      "playerOff": "Thomas du Toit",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893453",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ethan Bester",
+      "detail": "replaces Esethu Mnebelele",
+      "playerOn": "Ethan Bester",
+      "playerOff": "Esethu Mnebelele",
       "label": "Substitution"
     }
   ]
