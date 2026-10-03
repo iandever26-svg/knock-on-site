@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-lio-osp",
   "matchId": "urc-2026-10-03-lio-osp",
-  "updated_at": "2026-10-03T13:51:40+01:00",
+  "updated_at": "2026-10-03T13:52:24+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604043/competitions/604043/plays",
-      "fetched_at": "2026-10-03T13:51:40+01:00",
+      "fetched_at": "2026-10-03T13:52:24+01:00",
       "espn_event_id": "604043",
       "espn_league_id": 270557
     }
@@ -111,6 +111,21 @@
       "detail": "Try (10-12)",
       "playerName": "Efan Daniel",
       "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892422-cm",
+      "minute": 42,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (10-12)",
+      "label": "Conversion missed",
+      "inferred": true,
       "scoreAfter": {
         "home": 10,
         "away": 12
