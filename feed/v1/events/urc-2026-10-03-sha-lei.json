@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-sha-lei",
   "matchId": "urc-2026-10-03-sha-lei",
-  "updated_at": "2026-10-03T19:09:12+01:00",
+  "updated_at": "2026-10-03T19:10:08+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604045/competitions/604045/plays",
-      "fetched_at": "2026-10-03T19:09:12+01:00",
+      "fetched_at": "2026-10-03T19:10:08+01:00",
       "espn_event_id": "604045",
       "espn_league_id": 270557
     }
@@ -357,6 +357,18 @@
       "detail": "replaces Rónan Kelleher",
       "playerOn": "Gus McCarthy",
       "playerOff": "Rónan Kelleher",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893568",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Oliver Coffey",
+      "detail": "replaces Fintan Gunne",
+      "playerOn": "Oliver Coffey",
+      "playerOff": "Fintan Gunne",
       "label": "Substitution"
     }
   ]
