@@ -1,0 +1,568 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-10-03-gla-uls",
+  "matchId": "urc-2026-10-03-gla-uls",
+  "updated_at": "2026-10-03T19:40:30+01:00",
+  "final": true,
+  "scores_verified": true,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604047/competitions/604047/plays",
+      "fetched_at": "2026-10-03T19:40:30+01:00",
+      "espn_event_id": "604047",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": [
+    {
+      "id": "espn-1893260",
+      "minute": 4,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Bryn Ward",
+      "detail": "Try (0-5)",
+      "playerName": "Bryn Ward",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1893268",
+      "minute": 5,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jack Murphy",
+      "detail": "Conversion (0-7)",
+      "playerName": "Jack Murphy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 0,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1893269",
+      "minute": 10,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Josh McKay",
+      "detail": "Try (5-7)",
+      "playerName": "Josh McKay",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1893270",
+      "minute": 11,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "George Horne",
+      "detail": "Conversion (7-7)",
+      "playerName": "George Horne",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1893273",
+      "minute": 14,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ben Donnell",
+      "detail": "replaces Cormac Izuchukwu",
+      "playerOn": "Ben Donnell",
+      "playerOff": "Cormac Izuchukwu",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893364",
+      "minute": 19,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Dan Lancaster",
+      "detail": "Yellow card (7-7)",
+      "playerName": "Dan Lancaster",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 7,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1893289",
+      "minute": 21,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Ethan McIlroy",
+      "detail": "Try (7-12)",
+      "playerName": "Ethan McIlroy",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 7,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1893294",
+      "minute": 23,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Cormac Izuchukwu",
+      "detail": "replaces Ben Donnell",
+      "playerOn": "Cormac Izuchukwu",
+      "playerOff": "Ben Donnell",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893297",
+      "minute": 26,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Kyle Rowe",
+      "detail": "Try (12-12)",
+      "playerName": "Kyle Rowe",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1893299",
+      "minute": 27,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "George Horne",
+      "detail": "Conversion (14-12)",
+      "playerName": "George Horne",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1893306",
+      "minute": 32,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "James McNabney",
+      "detail": "replaces Bryn Ward",
+      "playerOn": "James McNabney",
+      "playerOff": "Bryn Ward",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893360",
+      "minute": 43,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Jack Murphy",
+      "detail": "Try (14-17)",
+      "playerName": "Jack Murphy",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 14,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1893361",
+      "minute": 44,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jack Murphy",
+      "detail": "Conversion (14-19)",
+      "playerName": "Jack Murphy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1893378",
+      "minute": 44,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Nathan McBeth",
+      "detail": "replaces Patrick Schickerling",
+      "playerOn": "Nathan McBeth",
+      "playerOff": "Patrick Schickerling",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893380",
+      "minute": 44,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sam Talakai",
+      "detail": "replaces Finlay Richardson",
+      "playerOn": "Sam Talakai",
+      "playerOff": "Finlay Richardson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893384",
+      "minute": 44,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Rory Darge",
+      "detail": "replaces Angus Fraser",
+      "playerOn": "Rory Darge",
+      "playerOff": "Angus Fraser",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893581",
+      "minute": 44,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Seb Stephen",
+      "detail": "replaces Gregor Hiddleston",
+      "playerOn": "Seb Stephen",
+      "playerOff": "Gregor Hiddleston",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893388",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Scott Cummings",
+      "detail": "replaces Max Williamson",
+      "playerOn": "Scott Cummings",
+      "playerOff": "Max Williamson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893390",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Nathan Doak",
+      "detail": "replaces Matthew Devine",
+      "playerOn": "Nathan Doak",
+      "playerOff": "Matthew Devine",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893397",
+      "minute": 47,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Chay Mullins",
+      "detail": "Try (14-24)",
+      "playerName": "Chay Mullins",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 14,
+        "away": 24
+      }
+    },
+    {
+      "id": "espn-1893429",
+      "minute": 48,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jack Murphy",
+      "detail": "Conversion (14-26)",
+      "playerName": "Jack Murphy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893609",
+      "minute": 50,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Ben Carson",
+      "detail": "Yellow card (14-26)",
+      "playerName": "Ben Carson",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 14,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893436",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Eduardo Bello",
+      "detail": "replaces Keynan Knox",
+      "playerOn": "Eduardo Bello",
+      "playerOff": "Keynan Knox",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893438",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ben Donnell",
+      "detail": "replaces Cormac Izuchukwu",
+      "playerOn": "Ben Donnell",
+      "playerOff": "Cormac Izuchukwu",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893455",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Bayley Kuenzle",
+      "detail": "replaces Stafford McDowall",
+      "playerOn": "Bayley Kuenzle",
+      "playerOff": "Stafford McDowall",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893472",
+      "minute": 51,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Ethan McIlroy",
+      "detail": "Yellow card (14-26)",
+      "playerName": "Ethan McIlroy",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 14,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893476",
+      "minute": 53,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Jamie Dobie",
+      "detail": "Try (19-26)",
+      "playerName": "Jamie Dobie",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893477",
+      "minute": 54,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "George Horne",
+      "detail": "Conversion (21-26)",
+      "playerName": "George Horne",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893492",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jake Flannery",
+      "detail": "replaces Jack Murphy",
+      "playerOn": "Jake Flannery",
+      "playerOff": "Jack Murphy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893511",
+      "minute": 60,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Sam Talakai",
+      "detail": "Try (26-26)",
+      "playerName": "Sam Talakai",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893513",
+      "minute": 60,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "George Horne",
+      "detail": "Conversion (28-26)",
+      "playerName": "George Horne",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 28,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893536",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Tom McAllister",
+      "detail": "replaces Eric O’Sullivan",
+      "playerOn": "Tom McAllister",
+      "playerOff": "Eric O’Sullivan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893543",
+      "minute": 64,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Kyle Rowe",
+      "detail": "Try (33-26)",
+      "playerName": "Kyle Rowe",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 33,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893550",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Juarno Augustus",
+      "detail": "replaces James McKillop",
+      "playerOn": "Juarno Augustus",
+      "playerOff": "James McKillop",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893552",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Henry Walker",
+      "detail": "replaces Tom Stewart",
+      "playerOn": "Henry Walker",
+      "playerOff": "Tom Stewart",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893592",
+      "minute": 71,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Rory Darge",
+      "detail": "Yellow card (33-26)",
+      "playerName": "Rory Darge",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 33,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893599",
+      "minute": 72,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Sam Talakai",
+      "detail": "Yellow card (33-26)",
+      "playerName": "Sam Talakai",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 33,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893600",
+      "minute": 73,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Juarno Augustus",
+      "detail": "Try (33-31)",
+      "playerName": "Juarno Augustus",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 33,
+        "away": 31
+      }
+    },
+    {
+      "id": "espn-1893601",
+      "minute": 74,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Nathan Doak",
+      "detail": "Conversion (33-33)",
+      "playerName": "Nathan Doak",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 33,
+        "away": 33
+      }
+    },
+    {
+      "id": "espn-1893607",
+      "minute": 80,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Macenzzie Duncan",
+      "detail": "replaces Josh McKay",
+      "playerOn": "Macenzzie Duncan",
+      "playerOff": "Josh McKay",
+      "label": "Substitution"
+    }
+  ]
+}
