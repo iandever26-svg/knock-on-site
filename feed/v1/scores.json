@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-03T13:23:19+01:00",
-  "updatedAt": "2026-10-03T13:23:19+01:00",
+  "generatedAt": "2026-10-03T13:24:08+01:00",
+  "updatedAt": "2026-10-03T13:24:08+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -322,15 +322,15 @@
       "match_id": "urc-2026-10-03-lio-osp",
       "status": "live",
       "home_score": 10,
-      "away_score": 5,
+      "away_score": 7,
       "clock": null,
       "period": "1H",
-      "updated_at": "2026-10-03T13:23:18+01:00",
+      "updated_at": "2026-10-03T13:24:08+01:00",
       "provenance": [
         {
           "source_name": "espn",
           "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20261003",
-          "fetched_at": "2026-10-03T13:23:18+01:00",
+          "fetched_at": "2026-10-03T13:24:08+01:00",
           "espn_event_id": "604043"
         }
       ],
