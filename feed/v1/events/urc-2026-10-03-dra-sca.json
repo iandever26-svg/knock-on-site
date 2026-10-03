@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-dra-sca",
   "matchId": "urc-2026-10-03-dra-sca",
-  "updated_at": "2026-10-03T15:38:01+01:00",
+  "updated_at": "2026-10-03T15:38:30+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604044/competitions/604044/plays",
-      "fetched_at": "2026-10-03T15:38:01+01:00",
+      "fetched_at": "2026-10-03T15:38:30+01:00",
       "espn_event_id": "604044",
       "espn_league_id": 270557
     }
@@ -105,8 +105,8 @@
       }
     },
     {
-      "id": "espn-1892604",
-      "minute": 29,
+      "id": "espn-1892610",
+      "minute": 28,
       "period": "1H",
       "type": "try",
       "team": "away",
@@ -120,8 +120,8 @@
       }
     },
     {
-      "id": "espn-1892605",
-      "minute": 30,
+      "id": "espn-1892611",
+      "minute": 29,
       "period": "1H",
       "type": "conversion_made",
       "team": "away",
