@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-10-03-sha-lei",
+  "matchId": "urc-2026-10-03-sha-lei",
+  "updated_at": "2026-10-03T17:49:29+01:00",
+  "final": false,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604045/competitions/604045/plays",
+      "fetched_at": "2026-10-03T17:49:29+01:00",
+      "espn_event_id": "604045",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": [
+    {
+      "id": "espn-1893272",
+      "minute": 17,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Robbie Henshaw",
+      "detail": "Try (0-5)",
+      "playerName": "Robbie Henshaw",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1893275",
+      "minute": 18,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Caspar Gabriel",
+      "detail": "Conversion (0-7)",
+      "playerName": "Caspar Gabriel",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 0,
+        "away": 7
+      }
+    }
+  ]
+}

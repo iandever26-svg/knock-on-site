@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-10-02-ben-con",
+  "matchId": "urc-2026-10-02-ben-con",
+  "updated_at": "2026-10-02T21:33:50+01:00",
+  "final": true,
+  "scores_verified": true,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604042/competitions/604042/plays",
+      "fetched_at": "2026-10-02T21:33:50+01:00",
+      "espn_event_id": "604042",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": [
+    {
+      "id": "espn-1891694",
+      "minute": 5,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Cian Prendergast",
+      "detail": "Try (0-5)",
+      "playerName": "Cian Prendergast",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1891697",
+      "minute": 11,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Bautista Bernasconi",
+      "detail": "Try (5-5)",
+      "playerName": "Bautista Bernasconi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1891704",
+      "minute": 16,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Sean O'Brien",
+      "detail": "Try (5-10)",
+      "playerName": "Sean O'Brien",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1891720",
+      "minute": 30,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jean Smith",
+      "detail": "replaces Paolo Odogwu",
+      "playerOn": "Jean Smith",
+      "playerOff": "Paolo Odogwu",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891723",
+      "minute": 34,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Leonardo Marin",
+      "detail": "Try (10-10)",
+      "playerName": "Leonardo Marin",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1891724",
+      "minute": 35,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jacob Umaga",
+      "detail": "Conversion (12-10)",
+      "playerName": "Jacob Umaga",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1891738",
+      "minute": 37,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Ciarán Frawley",
+      "detail": "Try (12-15)",
+      "playerName": "Ciarán Frawley",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1891734",
+      "minute": 38,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Sam Gilbert",
+      "detail": "Conversion (12-17)",
+      "playerName": "Sam Gilbert",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1891740",
+      "minute": 39,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Finlay Bealham",
+      "detail": "Yellow card (12-17)",
+      "playerName": "Finlay Bealham",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 12,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1891743",
+      "minute": 40,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sam Illo",
+      "detail": "replaces Finn Treacy",
+      "playerOn": "Sam Illo",
+      "playerOff": "Finn Treacy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891749",
+      "minute": 40,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Paolo Odogwu",
+      "detail": "replaces Jean Smith",
+      "playerOn": "Paolo Odogwu",
+      "playerOff": "Jean Smith",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891759",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Billy Bohan",
+      "detail": "replaces Francois van Wyk",
+      "playerOn": "Billy Bohan",
+      "playerOff": "Francois van Wyk",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891766",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Eoin de Buitléar",
+      "detail": "replaces Matt Victory",
+      "playerOn": "Eoin de Buitléar",
+      "playerOff": "Matt Victory",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891768",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Finn Treacy",
+      "detail": "replaces Sam Illo",
+      "playerOn": "Finn Treacy",
+      "playerOff": "Sam Illo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891774",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sam Illo",
+      "detail": "replaces Finlay Bealham",
+      "playerOn": "Sam Illo",
+      "playerOff": "Finlay Bealham",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891804",
+      "minute": 51,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Bautista Bernasconi",
+      "detail": "Try (17-17)",
+      "playerName": "Bautista Bernasconi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1891795",
+      "minute": 52,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jacob Umaga",
+      "detail": "Conversion (19-17)",
+      "playerName": "Jacob Umaga",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1891818",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Tiziano Pasquali",
+      "detail": "replaces Simone Ferrari",
+      "playerOn": "Tiziano Pasquali",
+      "playerOff": "Simone Ferrari",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891824",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Mirco Spagnolo",
+      "detail": "replaces Matías Medrano",
+      "playerOn": "Mirco Spagnolo",
+      "playerOff": "Matías Medrano",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891890",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Paul Boyle",
+      "detail": "replaces Sean O'Brien",
+      "playerOn": "Paul Boyle",
+      "playerOff": "Sean O'Brien",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891912",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Siua Maile",
+      "detail": "replaces Bautista Bernasconi",
+      "playerOn": "Siua Maile",
+      "playerOff": "Bautista Bernasconi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891915",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Niall Murray",
+      "detail": "replaces Josh Murphy",
+      "playerOn": "Niall Murray",
+      "playerOff": "Josh Murphy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891956",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ignacio Mendy",
+      "detail": "replaces Onisi Ratave",
+      "playerOn": "Ignacio Mendy",
+      "playerOff": "Onisi Ratave",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891964",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Josh Ioane",
+      "detail": "replaces John Devine",
+      "playerOn": "Josh Ioane",
+      "playerOff": "John Devine",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891967",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Andy Uren",
+      "detail": "replaces Alessandro Garbisi",
+      "playerOn": "Andy Uren",
+      "playerOff": "Alessandro Garbisi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891973",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Colm Reilly",
+      "detail": "replaces Caolin Blade",
+      "playerOn": "Colm Reilly",
+      "playerOff": "Caolin Blade",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891983",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "So'otala Fa'aso'o",
+      "detail": "replaces Giulio Marini",
+      "playerOn": "So'otala Fa'aso'o",
+      "playerOff": "Giulio Marini",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891981",
+      "minute": 74,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jean Smith",
+      "detail": "replaces Ignacio Mendy",
+      "playerOn": "Jean Smith",
+      "playerOff": "Ignacio Mendy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1891987",
+      "minute": 75,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Shane Jennings",
+      "detail": "replaces Finn Treacy",
+      "playerOn": "Shane Jennings",
+      "playerOff": "Finn Treacy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892027",
+      "minute": 77,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Ciarán Frawley",
+      "detail": "Try (19-22)",
+      "playerName": "Ciarán Frawley",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 22
+      }
+    }
+  ]
+}

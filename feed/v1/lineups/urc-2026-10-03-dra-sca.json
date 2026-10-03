@@ -423,24 +423,24 @@
         },
         {
           "jersey": 23,
-          "name": "Ioan Jones",
+          "name": "Johnny Williams",
           "position_label": "Utility",
           "is_captain": false,
           "is_starter": false,
-          "replacement_notes": "late replacement for Johnny Williams withdrawal"
+          "replacement_notes": null
         }
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
       "captain_jersey": 6,
-      "source_format_notes": "knock-on override: RugbyPass/BBC pre-match sheet, then late change — Johnny Williams withdrawn, Ioan Jones at 23. Agreed by ESPN roster (event 604044) + BBC Sport live blog / match report. Captain Josh Macleod (6)."
+      "source_format_notes": "knock-on override: RugbyPass sheet verified vs BBC Sport (all 23 agree). Captain Josh Macleod (6)."
     }
   },
   "provenance": [
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/gwent-dragons-vs-scarlets/teams/",
-      "fetched_at": "2026-10-03T12:13:17+01:00",
+      "fetched_at": "2026-10-02T15:22:21+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -452,7 +452,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26735/urc-2026-2027/dragons-scarlets",
-      "fetched_at": "2026-10-03T12:13:17+01:00",
+      "fetched_at": "2026-10-02T15:22:21+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -462,7 +462,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/gwent-dragons-vs-scarlets/teams/",
-      "fetched_at": "2026-10-03T12:13:17+01:00",
+      "fetched_at": "2026-10-02T15:22:21+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -474,7 +474,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26735/urc-2026-2027/dragons-scarlets",
-      "fetched_at": "2026-10-03T12:13:17+01:00",
+      "fetched_at": "2026-10-02T15:22:21+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -522,26 +522,6 @@
       "side": "away"
     },
     {
-      "source_name": "espn",
-      "url": "https://www.espn.com/rugby/match/_/gameId/604044",
-      "fetched_at": "2026-10-03T17:48:30+01:00",
-      "content_type": "api_roster",
-      "http_status": 200,
-      "is_primary": true,
-      "role": "late_change",
-      "side": "away"
-    },
-    {
-      "source_name": "bbc_sport",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/live/c6158ev2qz85t",
-      "fetched_at": "2026-10-03T17:48:30+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away"
-    },
-    {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/dragons-vs-scarlets/teams/",
       "fetched_at": "2026-10-01T14:35:00+01:00",
@@ -575,26 +555,6 @@
       "source_name": "bbc_sport",
       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm1j4662gkrjo",
       "fetched_at": "2026-10-01T14:35:00+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away"
-    },
-    {
-      "source_name": "espn",
-      "url": "https://www.espn.com/rugby/match/_/gameId/604044",
-      "fetched_at": "2026-10-03T17:48:30+01:00",
-      "content_type": "api_roster",
-      "http_status": 200,
-      "is_primary": true,
-      "role": "late_change",
-      "side": "away"
-    },
-    {
-      "source_name": "bbc_sport",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/live/c6158ev2qz85t",
-      "fetched_at": "2026-10-03T17:48:30+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -610,8 +570,8 @@
     "score": 0,
     "reasons": [
       "home: complete_1_to_23 from rugbypass; all_rugby 19/23 jerseys agree (differs at #11,#12,#13,#14)",
-      "away: complete_1_to_23 from rugbypass; all_rugby 18/23 jerseys agree (differs at #12,#13,#17,#18,#23)"
+      "away: complete_1_to_23 from rugbypass; all_rugby 19/23 jerseys agree (differs at #12,#13,#17,#18)"
     ]
   },
-  "notes": "Ingest poll 2026-10-03T12:13:17+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-02T15:22:21+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
