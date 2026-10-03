@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-sha-lei",
   "matchId": "urc-2026-10-03-sha-lei",
-  "updated_at": "2026-10-03T18:57:19+01:00",
+  "updated_at": "2026-10-03T18:59:09+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604045/competitions/604045/plays",
-      "fetched_at": "2026-10-03T18:57:19+01:00",
+      "fetched_at": "2026-10-03T18:59:09+01:00",
       "espn_event_id": "604045",
       "espn_league_id": 270557
     }
@@ -265,6 +265,21 @@
       "playerOn": "Hugo McLaughlin",
       "playerOff": "Todd Lawlor",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1893501",
+      "minute": 66,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "away",
+      "player": "Sam Prendergast",
+      "detail": "Penalty (14-15)",
+      "playerName": "Sam Prendergast",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 14,
+        "away": 15
+      }
     }
   ]
 }
