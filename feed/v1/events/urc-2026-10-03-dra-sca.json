@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-dra-sca",
   "matchId": "urc-2026-10-03-dra-sca",
-  "updated_at": "2026-10-03T16:21:09+01:00",
+  "updated_at": "2026-10-03T16:21:55+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604044/competitions/604044/plays",
-      "fetched_at": "2026-10-03T16:21:09+01:00",
+      "fetched_at": "2026-10-03T16:21:55+01:00",
       "espn_event_id": "604044",
       "espn_league_id": 270557
     }
@@ -225,8 +225,32 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892729",
+      "id": "espn-1892720",
       "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Fetuli Paea",
+      "detail": "replaces Fine Inisi",
+      "playerOn": "Fetuli Paea",
+      "playerOff": "Fine Inisi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892735",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ryan Woodman",
+      "detail": "replaces Seb Davies",
+      "playerOn": "Ryan Woodman",
+      "playerOff": "Seb Davies",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892737",
+      "minute": 59,
       "period": "2H",
       "type": "try",
       "team": "away",
@@ -240,8 +264,8 @@
       }
     },
     {
-      "id": "espn-1892730",
-      "minute": 56,
+      "id": "espn-1892738",
+      "minute": 60,
       "period": "2H",
       "type": "conversion_made",
       "team": "away",
@@ -255,27 +279,15 @@
       }
     },
     {
-      "id": "espn-1892731",
-      "minute": 56,
+      "id": "espn-1892739",
+      "minute": 62,
       "period": "2H",
       "type": "substitution",
-      "team": "home",
-      "player": "Ryan Woodman",
-      "detail": "replaces Seb Davies",
-      "playerOn": "Ryan Woodman",
-      "playerOff": "Seb Davies",
-      "label": "Substitution"
-    },
-    {
-      "id": "espn-1892720",
-      "minute": 56,
-      "period": "2H",
-      "type": "substitution",
-      "team": "home",
-      "player": "Fetuli Paea",
-      "detail": "replaces Fine Inisi",
-      "playerOn": "Fetuli Paea",
-      "playerOff": "Fine Inisi",
+      "team": "away",
+      "player": "Tristan Davies",
+      "detail": "replaces Osian Williams",
+      "playerOn": "Tristan Davies",
+      "playerOff": "Osian Williams",
       "label": "Substitution"
     }
   ]
