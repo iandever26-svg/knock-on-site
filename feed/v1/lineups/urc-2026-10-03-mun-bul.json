@@ -385,7 +385,7 @@
     {
       "source_name": "munster_official",
       "url": "https://www.munsterrugby.ie/news/team-news-munster-side-face-bulls-thomond",
-      "fetched_at": "2026-10-03T09:15:07+01:00",
+      "fetched_at": "2026-10-03T09:41:44+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -397,7 +397,7 @@
     {
       "source_name": "munster_official",
       "url": "https://www.munsterrugby.ie/news/",
-      "fetched_at": "2026-10-03T09:15:07+01:00",
+      "fetched_at": "2026-10-03T09:41:44+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -407,7 +407,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/bulls-vs-munster/teams/",
-      "fetched_at": "2026-10-03T09:15:07+01:00",
+      "fetched_at": "2026-10-03T09:41:44+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -417,7 +417,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26737/urc-2026-2027/munster-bulls",
-      "fetched_at": "2026-10-03T09:15:07+01:00",
+      "fetched_at": "2026-10-03T09:41:44+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -478,5 +478,5 @@
       "away: complete_1_to_23 preserved from previous poll (bulls_official)"
     ]
   },
-  "notes": "Ingest poll 2026-10-03T09:15:07+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-03T09:41:44+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
