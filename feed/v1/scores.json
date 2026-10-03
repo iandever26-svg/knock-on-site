@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-03T19:14:42+01:00",
-  "updatedAt": "2026-10-03T19:14:42+01:00",
+  "generatedAt": "2026-10-03T19:15:37+01:00",
+  "updatedAt": "2026-10-03T19:15:37+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -368,20 +368,20 @@
       "match_id": "urc-2026-10-03-sha-lei",
       "status": "live",
       "home_score": 26,
-      "away_score": 15,
+      "away_score": 20,
       "clock": null,
       "period": "2H",
-      "updated_at": "2026-10-03T19:11:58+01:00",
+      "updated_at": "2026-10-03T19:15:37+01:00",
       "provenance": [
         {
           "source_name": "espn",
           "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20261003",
-          "fetched_at": "2026-10-03T19:11:58+01:00",
+          "fetched_at": "2026-10-03T19:15:37+01:00",
           "espn_event_id": "604045"
         }
       ],
       "home_tries": 4,
-      "away_tries": 2,
+      "away_tries": 3,
       "tries_source": "espn_events"
     }
   ]
