@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-mun-bul",
   "matchId": "urc-2026-10-03-mun-bul",
-  "updated_at": "2026-10-03T21:11:37+01:00",
+  "updated_at": "2026-10-03T21:13:30+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604046/competitions/604046/plays",
-      "fetched_at": "2026-10-03T21:11:37+01:00",
+      "fetched_at": "2026-10-03T21:13:30+01:00",
       "espn_event_id": "604046",
       "espn_league_id": 270557
     }
@@ -258,6 +258,30 @@
       "detail": "replaces Thaakir Abrahams",
       "playerOn": "Willie le Roux",
       "playerOff": "Thaakir Abrahams",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893854",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sti Sithole",
+      "detail": "replaces Alulutho Tshakweni",
+      "playerOn": "Sti Sithole",
+      "playerOff": "Alulutho Tshakweni",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893856",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Janco Uys",
+      "detail": "replaces Juann Else",
+      "playerOn": "Janco Uys",
+      "playerOff": "Juann Else",
       "label": "Substitution"
     }
   ]
