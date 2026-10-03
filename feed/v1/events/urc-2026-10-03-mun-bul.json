@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-mun-bul",
   "matchId": "urc-2026-10-03-mun-bul",
-  "updated_at": "2026-10-03T21:03:17+01:00",
+  "updated_at": "2026-10-03T21:04:14+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604046/competitions/604046/plays",
-      "fetched_at": "2026-10-03T21:03:17+01:00",
+      "fetched_at": "2026-10-03T21:04:14+01:00",
       "espn_event_id": "604046",
       "espn_league_id": 270557
     }
@@ -211,6 +211,18 @@
         "home": 19,
         "away": 17
       }
+    },
+    {
+      "id": "espn-1893809",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Alex Kendellen",
+      "detail": "replaces John Hodnett",
+      "playerOn": "Alex Kendellen",
+      "playerOff": "John Hodnett",
+      "label": "Substitution"
     }
   ]
 }
