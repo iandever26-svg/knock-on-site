@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-sha-lei",
   "matchId": "urc-2026-10-03-sha-lei",
-  "updated_at": "2026-10-03T18:17:41+01:00",
+  "updated_at": "2026-10-03T18:17:57+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604045/competitions/604045/plays",
-      "fetched_at": "2026-10-03T18:17:41+01:00",
+      "fetched_at": "2026-10-03T18:17:57+01:00",
       "espn_event_id": "604045",
       "espn_league_id": 270557
     }
@@ -113,6 +113,21 @@
       "label": "Try",
       "scoreAfter": {
         "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1893359",
+      "minute": 42,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Vusi Moyo",
+      "detail": "Conversion (14-7)",
+      "playerName": "Vusi Moyo",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
         "away": 7
       }
     }
