@@ -3,9 +3,9 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-03T13:26:01+01:00",
+  "updatedAt": "2026-10-03T13:46:07+01:00",
   "playoffCutoff": 8,
-  "formNote": "Most recent first; may include last season. W/D/L.",
+  "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
     "source": "espn",
     "url": "https://site.api.espn.com/apis/v2/sports/rugby/270557/standings",
