@@ -337,7 +337,7 @@
           "jersey": 12,
           "name": "Damiano Mazza",
           "position_label": "Inside Centre",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -383,7 +383,7 @@
         },
         {
           "jersey": 18,
-          "name": "Octavio Barbatti",
+          "name": "Juan Barbotti",
           "position_label": "Prop",
           "is_captain": false,
           "is_starter": false,
@@ -432,8 +432,8 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
-      "source_format_notes": "Parsed from RugbyPass match-centre team sheet (secondary; club official preferred on conflict)"
+      "captain_jersey": 12,
+      "source_format_notes": "knock-on override: WRS/published Zebre 1–23 + captain Damiano Mazza (12) per ESPN + Rugby365/SportParma."
     }
   },
   "provenance": [
@@ -512,6 +512,66 @@
       "is_primary": false,
       "role": "corroboration",
       "side": "home"
+    },
+    {
+      "source_name": "espn",
+      "url": "https://www.espn.com/rugby/match/_/gameId/604040",
+      "fetched_at": "2026-10-02T18:11:52+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away"
+    },
+    {
+      "source_name": "rugby365",
+      "url": "https://rugby365.com/",
+      "fetched_at": "2026-10-02T18:11:52+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
+    },
+    {
+      "source_name": "cardiff_official",
+      "url": "https://www.cardiffrugby.wales/news/cardiff-make-four-changes-for-zebre-with-mcnally-captain/",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home"
+    },
+    {
+      "source_name": "bbc_sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqn7405pk4vpo",
+      "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "espn",
+      "url": "https://www.espn.com/rugby/match/_/gameId/604040",
+      "fetched_at": "2026-10-02T18:11:52+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away"
+    },
+    {
+      "source_name": "rugby365",
+      "url": "https://rugby365.com/",
+      "fetched_at": "2026-10-02T18:11:52+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away"
     }
   ],
   "confidence": {
