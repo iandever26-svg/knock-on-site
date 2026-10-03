@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-03T18:29:17+01:00",
+  "updatedAt": "2026-10-03T19:30:46+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L.",
   "provenance": {
@@ -14,6 +14,22 @@
   "rows": [
     {
       "position": 1,
+      "teamId": "sharks",
+      "team": "Sharks",
+      "P": 2,
+      "W": 2,
+      "D": 0,
+      "L": 0,
+      "PF": 67,
+      "PA": 44,
+      "TF": 9,
+      "TA": 7,
+      "BP": 2,
+      "points": 10,
+      "form": "WWWLL"
+    },
+    {
+      "position": 2,
       "teamId": "cardiff",
       "team": "Cardiff Blues",
       "P": 2,
@@ -29,7 +45,7 @@
       "form": "WWLWL"
     },
     {
-      "position": 2,
+      "position": 3,
       "teamId": "lions",
       "team": "Lions",
       "P": 2,
@@ -45,7 +61,7 @@
       "form": "WLLLW"
     },
     {
-      "position": 3,
+      "position": 4,
       "teamId": "edinburgh",
       "team": "Edinburgh",
       "P": 2,
@@ -61,7 +77,23 @@
       "form": "WWLWW"
     },
     {
-      "position": 4,
+      "position": 5,
+      "teamId": "glasgow",
+      "team": "Glasgow Warriors",
+      "P": 2,
+      "W": 1,
+      "D": 1,
+      "L": 0,
+      "PF": 59,
+      "PA": 53,
+      "TF": 9,
+      "TA": 7,
+      "BP": 2,
+      "points": 8,
+      "form": "WLWWW"
+    },
+    {
+      "position": 6,
       "teamId": "dragons",
       "team": "Dragons",
       "P": 2,
@@ -77,7 +109,7 @@
       "form": "DDLLW"
     },
     {
-      "position": 5,
+      "position": 7,
       "teamId": "stormers",
       "team": "Stormers",
       "P": 2,
@@ -93,7 +125,7 @@
       "form": "LWLWL"
     },
     {
-      "position": 6,
+      "position": 8,
       "teamId": "bulls",
       "team": "Bulls",
       "P": 1,
@@ -104,38 +136,6 @@
       "PA": 13,
       "TF": 7,
       "TA": 1,
-      "BP": 1,
-      "points": 5,
-      "form": "WLWWW"
-    },
-    {
-      "position": 7,
-      "teamId": "sharks",
-      "team": "Sharks",
-      "P": 1,
-      "W": 1,
-      "D": 0,
-      "L": 0,
-      "PF": 41,
-      "PA": 24,
-      "TF": 5,
-      "TA": 4,
-      "BP": 1,
-      "points": 5,
-      "form": "WWWLL"
-    },
-    {
-      "position": 8,
-      "teamId": "glasgow",
-      "team": "Glasgow Warriors",
-      "P": 1,
-      "W": 1,
-      "D": 0,
-      "L": 0,
-      "PF": 26,
-      "PA": 20,
-      "TF": 4,
-      "TA": 2,
       "BP": 1,
       "points": 5,
       "form": "WLWWW"
@@ -158,6 +158,22 @@
     },
     {
       "position": 10,
+      "teamId": "ulster",
+      "team": "Ulster",
+      "P": 2,
+      "W": 0,
+      "D": 1,
+      "L": 1,
+      "PF": 62,
+      "PA": 67,
+      "TF": 9,
+      "TA": 9,
+      "BP": 3,
+      "points": 5,
+      "form": "LLLDW"
+    },
+    {
+      "position": 11,
       "teamId": "benetton",
       "team": "Benetton Treviso",
       "P": 2,
@@ -173,36 +189,20 @@
       "form": "LDLLW"
     },
     {
-      "position": 11,
+      "position": 12,
       "teamId": "leinster",
       "team": "Leinster",
-      "P": 1,
+      "P": 2,
       "W": 0,
       "D": 0,
-      "L": 1,
-      "PF": 26,
-      "PA": 27,
-      "TF": 4,
-      "TA": 3,
-      "BP": 2,
-      "points": 2,
+      "L": 2,
+      "PF": 46,
+      "PA": 53,
+      "TF": 7,
+      "TA": 7,
+      "BP": 3,
+      "points": 3,
       "form": "LWWWL"
-    },
-    {
-      "position": 12,
-      "teamId": "ulster",
-      "team": "Ulster",
-      "P": 1,
-      "W": 0,
-      "D": 0,
-      "L": 1,
-      "PF": 29,
-      "PA": 34,
-      "TF": 4,
-      "TA": 4,
-      "BP": 2,
-      "points": 2,
-      "form": "LLLDW"
     },
     {
       "position": 13,
