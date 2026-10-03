@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-03T19:46:54+01:00",
-  "updatedAt": "2026-10-03T19:46:54+01:00",
+  "generatedAt": "2026-10-03T19:55:55+01:00",
+  "updatedAt": "2026-10-03T19:55:55+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-03T19:30:46+01:00",
   "matches": [
@@ -119,7 +119,7 @@
       "match_id": "urc-2026-10-03-dra-sca",
       "kickoff": "2026-10-03T15:00:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-03T19:43:16+01:00",
+      "scoreUpdatedAt": "2026-10-03T19:50:30+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-03T15:00:00+01:00",
       "events": true,
@@ -139,7 +139,7 @@
       "match_id": "urc-2026-10-03-lio-osp",
       "kickoff": "2026-10-03T12:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-03T19:43:16+01:00",
+      "scoreUpdatedAt": "2026-10-03T19:50:30+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-03T12:45:00+01:00",
       "events": true,
@@ -153,13 +153,13 @@
       "lineup": true,
       "lineupUpdatedAt": "2026-10-03T19:45:00+01:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-03T19:46:53+01:00"
+      "eventsUpdatedAt": "2026-10-03T19:55:55+01:00"
     },
     {
       "match_id": "urc-2026-10-03-sha-lei",
       "kickoff": "2026-10-03T17:30:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-03T19:43:16+01:00",
+      "scoreUpdatedAt": "2026-10-03T19:50:30+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-03T17:30:00+01:00",
       "events": true,
