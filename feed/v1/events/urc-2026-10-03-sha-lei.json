@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-sha-lei",
   "matchId": "urc-2026-10-03-sha-lei",
-  "updated_at": "2026-10-03T19:10:08+01:00",
+  "updated_at": "2026-10-03T19:11:58+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604045/competitions/604045/plays",
-      "fetched_at": "2026-10-03T19:10:08+01:00",
+      "fetched_at": "2026-10-03T19:11:58+01:00",
       "espn_event_id": "604045",
       "espn_league_id": 270557
     }
@@ -370,6 +370,21 @@
       "playerOn": "Oliver Coffey",
       "playerOff": "Fintan Gunne",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1893576",
+      "minute": 78,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Edwill van der Merwe",
+      "detail": "Try (26-15)",
+      "playerName": "Edwill van der Merwe",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 15
+      }
     }
   ]
 }
