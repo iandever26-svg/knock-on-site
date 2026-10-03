@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-mun-bul",
   "matchId": "urc-2026-10-03-mun-bul",
-  "updated_at": "2026-10-03T20:09:36+01:00",
+  "updated_at": "2026-10-03T20:10:31+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604046/competitions/604046/plays",
-      "fetched_at": "2026-10-03T20:09:36+01:00",
+      "fetched_at": "2026-10-03T20:10:31+01:00",
       "espn_event_id": "604046",
       "espn_league_id": 270557
     }
@@ -68,6 +68,21 @@
       "label": "Try",
       "scoreAfter": {
         "home": 5,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1893676",
+      "minute": 21,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Charlie O’Shea",
+      "detail": "Conversion (7-7)",
+      "playerName": "Charlie O’Shea",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
         "away": 7
       }
     }
