@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-sha-lei",
   "matchId": "urc-2026-10-03-sha-lei",
-  "updated_at": "2026-10-03T18:17:11+01:00",
+  "updated_at": "2026-10-03T18:17:41+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604045/competitions/604045/plays",
-      "fetched_at": "2026-10-03T18:17:11+01:00",
+      "fetched_at": "2026-10-03T18:17:41+01:00",
       "espn_event_id": "604045",
       "espn_league_id": 270557
     }
@@ -90,7 +90,7 @@
       }
     },
     {
-      "id": "espn-1893354",
+      "id": "espn-1893357",
       "minute": 40,
       "period": "1H",
       "type": "substitution",
