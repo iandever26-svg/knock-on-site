@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-dra-sca",
   "matchId": "urc-2026-10-03-dra-sca",
-  "updated_at": "2026-10-03T16:49:12+01:00",
+  "updated_at": "2026-10-03T16:49:58+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604044/competitions/604044/plays",
-      "fetched_at": "2026-10-03T16:49:12+01:00",
+      "fetched_at": "2026-10-03T16:49:58+01:00",
       "espn_event_id": "604044",
       "espn_league_id": 270557
     }
@@ -84,6 +84,21 @@
       "detail": "Try (12-7)",
       "playerName": "Elliot Dee",
       "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1892596-cm",
+      "minute": 22,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (12-7)",
+      "label": "Conversion missed",
+      "inferred": true,
       "scoreAfter": {
         "home": 12,
         "away": 7
@@ -291,6 +306,21 @@
       }
     },
     {
+      "id": "espn-1892826-cm",
+      "minute": 66,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (24-21)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 24,
+        "away": 21
+      }
+    },
+    {
       "id": "espn-1892873",
       "minute": 67,
       "period": "2H",
@@ -342,8 +372,8 @@
       }
     },
     {
-      "id": "espn-1892937",
-      "minute": 71,
+      "id": "espn-1893001",
+      "minute": 70,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -354,8 +384,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892939",
-      "minute": 71,
+      "id": "espn-1893003",
+      "minute": 70,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -366,8 +396,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892941",
-      "minute": 71,
+      "id": "espn-1893005",
+      "minute": 70,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -378,8 +408,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892943",
-      "minute": 72,
+      "id": "espn-1893015",
+      "minute": 71,
       "period": "2H",
       "type": "try",
       "team": "home",
@@ -393,7 +423,7 @@
       }
     },
     {
-      "id": "espn-1892944",
+      "id": "espn-1893016",
       "minute": 72,
       "period": "2H",
       "type": "substitution",
@@ -405,8 +435,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892946",
-      "minute": 73,
+      "id": "espn-1893018",
+      "minute": 72,
       "period": "2H",
       "type": "conversion_made",
       "team": "home",
@@ -420,8 +450,8 @@
       }
     },
     {
-      "id": "espn-1892947",
-      "minute": 73,
+      "id": "espn-1893019",
+      "minute": 72,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -432,8 +462,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892949",
-      "minute": 74,
+      "id": "espn-1893021",
+      "minute": 73,
       "period": "2H",
       "type": "try",
       "team": "away",
@@ -447,8 +477,23 @@
       }
     },
     {
-      "id": "espn-1892950",
-      "minute": 76,
+      "id": "espn-1893021-cm",
+      "minute": 73,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (31-26)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 31,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893022",
+      "minute": 75,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -459,8 +504,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892952",
-      "minute": 79,
+      "id": "espn-1893024",
+      "minute": 78,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -471,8 +516,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892960",
-      "minute": 83,
+      "id": "espn-1893026",
+      "minute": 82,
       "period": "2H",
       "type": "try",
       "team": "home",
@@ -486,7 +531,7 @@
       }
     },
     {
-      "id": "espn-1892970",
+      "id": "espn-1893027",
       "minute": 84,
       "period": "2H",
       "type": "conversion_made",
