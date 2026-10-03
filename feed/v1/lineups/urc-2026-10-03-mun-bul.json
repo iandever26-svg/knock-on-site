@@ -165,21 +165,76 @@
           "is_captain": false,
           "is_starter": true,
           "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Kieran Brookes",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Jeremy Loughman",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Ronan Foxe",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Evan O’Connell",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Gavin Coombes",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Ben O’Donovan",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "JJ Hanrahan",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Alex Kendellen",
+          "position_label": "Forward",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
         }
       ],
-      "parse_status": "starting_xv_only",
-      "missing_numbers": [
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23
-      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
       "captain_jersey": 9,
-      "source_format_notes": "Starting XV parsed from club one-line 15→1 list (semicolon groups); replacements not in jersey order — bench not numbered/invented (article date unverified; title names opponent)"
+      "source_format_notes": "knock-on override: Munster official starting XV + benches 16–23 agreed by munster_official + ESPN + Rugby365 (Brookes, Loughman, Foxe, O’Connell, Coombes, O’Donovan, Hanrahan, Kendellen). Captain Craig Casey (9)."
     },
     "away": {
       "club": {
@@ -465,6 +520,56 @@
       "is_primary": false,
       "role": "corroboration",
       "side": "away"
+    },
+    {
+      "source_name": "munster_official",
+      "url": "https://www.munsterrugby.ie/news/team-news-munster-side-face-bulls-thomond",
+      "fetched_at": "2026-10-02T18:11:52+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home"
+    },
+    {
+      "source_name": "espn",
+      "url": "https://www.espn.com/rugby/match/_/gameId/604046",
+      "fetched_at": "2026-10-02T18:11:52+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "rugby365",
+      "url": "https://rugby365.com/",
+      "fetched_at": "2026-10-02T18:11:52+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26737/urc-2026-2027/munster-bulls",
+      "fetched_at": "2026-10-03T12:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "florugby",
+      "url": "https://www.florugby.com/articles/16219023-munster-rugby-vs-vodacom-bulls-lineups-kickoff-time-and-more",
+      "fetched_at": "2026-10-03T12:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
     }
   ],
   "confidence": {

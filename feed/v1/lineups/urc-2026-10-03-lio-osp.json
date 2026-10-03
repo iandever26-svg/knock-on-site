@@ -88,7 +88,7 @@
         },
         {
           "jersey": 6,
-          "name": "Siba Qoma",
+          "name": "JC Pretorius",
           "position_label": "Blindside",
           "is_captain": false,
           "is_starter": true,
@@ -96,7 +96,7 @@
         },
         {
           "jersey": 7,
-          "name": "JC Pretorius",
+          "name": "Siba Qoma",
           "position_label": "Openside",
           "is_captain": false,
           "is_starter": true,
@@ -234,7 +234,7 @@
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
       "captain_jersey": 8,
-      "source_format_notes": "knock-on override: WRS/All.Rugby order verified vs BBC Sport team list (15 Chamberlain; 14 Mpeke, 13 Adams, 12 Kriel, 11 Cronje) and Ultimate Rugby (Kriel inside centre, Adams outside centre); agree. Only change: captain Francke Horn (8) added."
+      "source_format_notes": "knock-on override: #6 JC Pretorius / #7 Siba Qoma (ESPN + All.Rugby + Rugby365); captain Francke Horn (8)."
     },
     "away": {
       "club": {
@@ -519,6 +519,16 @@
       "source_name": "ultimate_rugby",
       "url": "https://admin.ultimaterugby.com/match/lions-vs-ospreys-at-ellis-park-3rd-oct-2026/99991/lineup",
       "fetched_at": "2026-10-01T14:35:00+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home"
+    },
+    {
+      "source_name": "espn",
+      "url": "https://www.espn.com/rugby/match/_/gameId/604043",
+      "fetched_at": "2026-10-02T18:11:52+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
