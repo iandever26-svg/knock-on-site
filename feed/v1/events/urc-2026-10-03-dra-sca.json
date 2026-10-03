@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-dra-sca",
   "matchId": "urc-2026-10-03-dra-sca",
-  "updated_at": "2026-10-03T16:37:57+01:00",
+  "updated_at": "2026-10-03T16:38:32+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604044/competitions/604044/plays",
-      "fetched_at": "2026-10-03T16:37:57+01:00",
+      "fetched_at": "2026-10-03T16:38:32+01:00",
       "espn_event_id": "604044",
       "espn_league_id": 270557
     }
@@ -84,6 +84,21 @@
       "detail": "Try (12-7)",
       "playerName": "Elliot Dee",
       "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1892596-cm",
+      "minute": 22,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (12-7)",
+      "label": "Conversion missed",
+      "inferred": true,
       "scoreAfter": {
         "home": 12,
         "away": 7
@@ -276,29 +291,14 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892802",
-      "minute": 64,
-      "period": "2H",
-      "type": "yellow_card",
-      "team": "away",
-      "player": "Josh MacLeod",
-      "detail": "Yellow card (19-21)",
-      "playerName": "Josh MacLeod",
-      "label": "Yellow card",
-      "scoreAfter": {
-        "home": 19,
-        "away": 21
-      }
-    },
-    {
-      "id": "espn-1892803",
-      "minute": 64,
+      "id": "espn-1892826",
+      "minute": 66,
       "period": "2H",
       "type": "try",
       "team": "home",
-      "player": "Elliot Dee",
+      "player": "Huw Anderson",
       "detail": "Try (24-21)",
-      "playerName": "Elliot Dee",
+      "playerName": "Huw Anderson",
       "label": "Try",
       "scoreAfter": {
         "home": 24,
@@ -306,53 +306,23 @@
       }
     },
     {
-      "id": "espn-1892804",
-      "minute": 64,
+      "id": "espn-1892826-cm",
+      "minute": 66,
       "period": "2H",
-      "type": "try",
+      "type": "conversion_missed",
       "team": "home",
-      "player": "Huw Anderson",
-      "detail": "Try (29-21)",
-      "playerName": "Huw Anderson",
-      "label": "Try",
+      "player": null,
+      "detail": "Conversion missed (inferred) (24-21)",
+      "label": "Conversion missed",
+      "inferred": true,
       "scoreAfter": {
-        "home": 29,
+        "home": 24,
         "away": 21
       }
     },
     {
-      "id": "espn-1892805",
-      "minute": 64,
-      "period": "2H",
-      "type": "try",
-      "team": "away",
-      "player": "Ioan Jones",
-      "detail": "Try (29-26)",
-      "playerName": "Ioan Jones",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 29,
-        "away": 26
-      }
-    },
-    {
-      "id": "espn-1892806",
-      "minute": 64,
-      "period": "2H",
-      "type": "conversion_made",
-      "team": "home",
-      "player": "Tinus de Beer",
-      "detail": "Conversion (31-26)",
-      "playerName": "Tinus de Beer",
-      "label": "Conversion",
-      "scoreAfter": {
-        "home": 31,
-        "away": 26
-      }
-    },
-    {
-      "id": "espn-1892807",
-      "minute": 64,
+      "id": "espn-1892827",
+      "minute": 67,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -363,8 +333,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892809",
-      "minute": 64,
+      "id": "espn-1892829",
+      "minute": 67,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -375,8 +345,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892811",
-      "minute": 64,
+      "id": "espn-1892831",
+      "minute": 68,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -387,8 +357,23 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892813",
-      "minute": 64,
+      "id": "espn-1892833",
+      "minute": 69,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Josh MacLeod",
+      "detail": "Yellow card (24-21)",
+      "playerName": "Josh MacLeod",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 24,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1892834",
+      "minute": 72,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -399,8 +384,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892815",
-      "minute": 64,
+      "id": "espn-1892836",
+      "minute": 72,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -411,8 +396,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892817",
-      "minute": 64,
+      "id": "espn-1892838",
+      "minute": 72,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -423,8 +408,23 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892819",
-      "minute": 64,
+      "id": "espn-1892840",
+      "minute": 73,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Elliot Dee",
+      "detail": "Try (29-21)",
+      "playerName": "Elliot Dee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 29,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1892841",
+      "minute": 74,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -435,8 +435,23 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1892821",
-      "minute": 64,
+      "id": "espn-1892843",
+      "minute": 74,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (31-21)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 31,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1892844",
+      "minute": 74,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -445,6 +460,21 @@
       "playerOn": "Will Evans",
       "playerOff": "Tristan Davies",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1892846",
+      "minute": 75,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Ioan Jones",
+      "detail": "Try (31-26)",
+      "playerName": "Ioan Jones",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 31,
+        "away": 26
+      }
     }
   ]
 }
