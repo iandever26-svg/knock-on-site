@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-mun-bul",
   "matchId": "urc-2026-10-03-mun-bul",
-  "updated_at": "2026-10-03T21:13:30+01:00",
+  "updated_at": "2026-10-03T21:14:26+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604046/competitions/604046/plays",
-      "fetched_at": "2026-10-03T21:13:30+01:00",
+      "fetched_at": "2026-10-03T21:14:26+01:00",
       "espn_event_id": "604046",
       "espn_league_id": 270557
     }
@@ -261,8 +261,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1893854",
-      "minute": 65,
+      "id": "espn-1893862",
+      "minute": 66,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -273,8 +273,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1893856",
-      "minute": 65,
+      "id": "espn-1893864",
+      "minute": 66,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -282,6 +282,30 @@
       "detail": "replaces Juann Else",
       "playerOn": "Janco Uys",
       "playerOff": "Juann Else",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893866",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Khutha Mchunu",
+      "detail": "replaces Francois Klopper",
+      "playerOn": "Khutha Mchunu",
+      "playerOff": "Francois Klopper",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893868",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "JF van Heerden",
+      "detail": "replaces Reinhardt Ludwig",
+      "playerOn": "JF van Heerden",
+      "playerOff": "Reinhardt Ludwig",
       "label": "Substitution"
     }
   ]
