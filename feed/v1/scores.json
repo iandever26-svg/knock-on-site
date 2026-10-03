@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-03T15:33:31+01:00",
-  "updatedAt": "2026-10-03T15:33:31+01:00",
+  "generatedAt": "2026-10-03T15:33:57+01:00",
+  "updatedAt": "2026-10-03T15:33:57+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -282,15 +282,15 @@
       "match_id": "urc-2026-10-03-dra-sca",
       "status": "live",
       "home_score": 12,
-      "away_score": 12,
+      "away_score": 14,
       "clock": null,
       "period": "1H",
-      "updated_at": "2026-10-03T15:32:59+01:00",
+      "updated_at": "2026-10-03T15:33:55+01:00",
       "provenance": [
         {
           "source_name": "espn",
           "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20261003",
-          "fetched_at": "2026-10-03T15:32:59+01:00",
+          "fetched_at": "2026-10-03T15:33:55+01:00",
           "espn_event_id": "604044"
         }
       ],
