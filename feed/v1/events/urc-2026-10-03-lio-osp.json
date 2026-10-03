@@ -1,0 +1,511 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-10-03-lio-osp",
+  "matchId": "urc-2026-10-03-lio-osp",
+  "updated_at": "2026-10-03T14:43:00+01:00",
+  "final": true,
+  "scores_verified": true,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604043/competitions/604043/plays",
+      "fetched_at": "2026-10-03T14:43:00+01:00",
+      "espn_event_id": "604043",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": [
+    {
+      "id": "espn-1892415",
+      "minute": 11,
+      "period": "1H",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Chris Smith",
+      "detail": "Penalty (3-0)",
+      "playerName": "Chris Smith",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1892416",
+      "minute": 28,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Erich Cronjé",
+      "detail": "Try (8-0)",
+      "playerName": "Erich Cronjé",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 8,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1892417",
+      "minute": 28,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Chris Smith",
+      "detail": "Conversion (10-0)",
+      "playerName": "Chris Smith",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 10,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1892418",
+      "minute": 34,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Keiran Williams",
+      "detail": "Try (10-5)",
+      "playerName": "Keiran Williams",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1892419",
+      "minute": 35,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Dan Edwards",
+      "detail": "Conversion (10-7)",
+      "playerName": "Dan Edwards",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 10,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1892425",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Cameron Jones",
+      "detail": "replaces Gareth Thomas",
+      "playerOn": "Cameron Jones",
+      "playerOff": "Gareth Thomas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892422",
+      "minute": 42,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Efan Daniel",
+      "detail": "Try (10-12)",
+      "playerName": "Efan Daniel",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892422-cm",
+      "minute": 42,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (10-12)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 10,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892428",
+      "minute": 43,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "PJ Botha",
+      "detail": "Try (15-12)",
+      "playerName": "PJ Botha",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 15,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892428-cm",
+      "minute": 43,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (15-12)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 15,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892430",
+      "minute": 48,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "SJ Kotze",
+      "detail": "replaces Boan Venter",
+      "playerOn": "SJ Kotze",
+      "playerOff": "Boan Venter",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892432",
+      "minute": 48,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Morné Brandon",
+      "detail": "replaces PJ Botha",
+      "playerOn": "Morné Brandon",
+      "playerOff": "PJ Botha",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892434",
+      "minute": 48,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "RF Schoeman",
+      "detail": "replaces Sebastian Lombard",
+      "playerOn": "RF Schoeman",
+      "playerOff": "Sebastian Lombard",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892442",
+      "minute": 49,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Morné Brandon",
+      "detail": "Try (20-12)",
+      "playerName": "Morné Brandon",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 20,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892442-cm",
+      "minute": 49,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (20-12)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 20,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892440",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Lewis Lloyd",
+      "detail": "replaces Efan Daniel",
+      "playerOn": "Lewis Lloyd",
+      "playerOff": "Efan Daniel",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892443",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ben Warren",
+      "detail": "replaces Rhys Henry",
+      "playerOn": "Ben Warren",
+      "playerOff": "Rhys Henry",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892445",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Rhys Davies",
+      "detail": "replaces Huw Sutton",
+      "playerOn": "Rhys Davies",
+      "playerOff": "Huw Sutton",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892450",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sibabalwe Mahashe",
+      "detail": "replaces Sibabalo Qoma",
+      "playerOn": "Sibabalwe Mahashe",
+      "playerOff": "Sibabalo Qoma",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892449",
+      "minute": 57,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Boeta Chamberlain",
+      "detail": "Try (25-12)",
+      "playerName": "Boeta Chamberlain",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 25,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892449-cm",
+      "minute": 57,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (25-12)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 25,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892457",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Morné van den Berg",
+      "detail": "replaces Nico Steyn",
+      "playerOn": "Morné van den Berg",
+      "playerOff": "Nico Steyn",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892453",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Reuben Morgan-Williams",
+      "detail": "replaces Kieran Hardy",
+      "playerOn": "Reuben Morgan-Williams",
+      "playerOff": "Kieran Hardy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892468",
+      "minute": 61,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Dan Edwards",
+      "detail": "Yellow card (25-12)",
+      "playerName": "Dan Edwards",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 25,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892472",
+      "minute": 62,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Hyron Andrews",
+      "detail": "replaces Ruan Delport",
+      "playerOn": "Hyron Andrews",
+      "playerOff": "Ruan Delport",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892474",
+      "minute": 63,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Kelly Mpeku",
+      "detail": "Try (30-12)",
+      "playerName": "Kelly Mpeku",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 30,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892474-cm",
+      "minute": 63,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (30-12)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 30,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892488",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Luke Morgan",
+      "detail": "replaces Iestyn Hopkins",
+      "playerOn": "Luke Morgan",
+      "playerOff": "Iestyn Hopkins",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892490",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ross Moriarty",
+      "detail": "replaces Ryan Smith",
+      "playerOn": "Ross Moriarty",
+      "playerOff": "Ryan Smith",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892480",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Quan Horn",
+      "detail": "replaces Erich Cronjé",
+      "playerOn": "Quan Horn",
+      "playerOff": "Erich Cronjé",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892475",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Lawson Creighton",
+      "detail": "replaces Tom Rogers",
+      "playerOn": "Lawson Creighton",
+      "playerOff": "Tom Rogers",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892479",
+      "minute": 66,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Kelly Mpeku",
+      "detail": "Try (35-12)",
+      "playerName": "Kelly Mpeku",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 35,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892479-cm",
+      "minute": 66,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (35-12)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 35,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892492",
+      "minute": 68,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Dylan Sjoblom",
+      "detail": "replaces Etienne Oosthuizen",
+      "playerOn": "Dylan Sjoblom",
+      "playerOff": "Etienne Oosthuizen",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892508",
+      "minute": 83,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Ross Moriarty",
+      "detail": "Try (35-17)",
+      "playerName": "Ross Moriarty",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 35,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1892509",
+      "minute": 84,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Dan Edwards",
+      "detail": "Conversion (35-19)",
+      "playerName": "Dan Edwards",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 35,
+        "away": 19
+      }
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-03T17:49:16+01:00",
-  "updatedAt": "2026-10-03T17:49:16+01:00",
+  "generatedAt": "2026-10-03T17:49:26+01:00",
+  "updatedAt": "2026-10-03T17:49:26+01:00",
   "standings": true,
-  "standingsUpdatedAt": "2026-09-28T13:21:09+01:00",
+  "standingsUpdatedAt": "2026-10-03T17:28:19+01:00",
   "matches": [
     {
       "match_id": "urc-2026-09-25-ben-dra",
@@ -21,7 +21,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-09-25T21:39:32+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-09-25T19:45:00+01:00",
+      "lineupUpdatedAt": "2026-09-29T19:34:02.882Z",
       "events": true,
       "eventsUpdatedAt": "2026-09-30T19:03:03+01:00"
     },
@@ -88,48 +88,48 @@
     {
       "match_id": "urc-2026-10-02-ben-con",
       "kickoff": "2026-10-02T19:45:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
+      "score": true,
+      "scoreUpdatedAt": "2026-10-02T21:37:28+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-02T19:45:00+01:00",
-      "events": false,
-      "eventsUpdatedAt": null
+      "events": true,
+      "eventsUpdatedAt": "2026-10-02T21:33:50+01:00"
     },
     {
       "match_id": "urc-2026-10-02-car-zeb",
       "kickoff": "2026-10-02T19:45:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
+      "score": true,
+      "scoreUpdatedAt": "2026-10-02T21:37:28+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-02T19:45:00+01:00",
-      "events": false,
-      "eventsUpdatedAt": null
+      "events": true,
+      "eventsUpdatedAt": "2026-10-02T21:33:49+01:00"
     },
     {
       "match_id": "urc-2026-10-02-edi-sto",
       "kickoff": "2026-10-02T19:45:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
+      "score": true,
+      "scoreUpdatedAt": "2026-10-02T21:37:28+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-02T19:45:00+01:00",
-      "events": false,
-      "eventsUpdatedAt": null
+      "events": true,
+      "eventsUpdatedAt": "2026-10-02T21:33:49+01:00"
     },
     {
       "match_id": "urc-2026-10-03-dra-sca",
       "kickoff": "2026-10-03T15:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
+      "score": true,
+      "scoreUpdatedAt": "2026-10-03T17:48:41+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-03T15:00:00+01:00",
-      "events": false,
-      "eventsUpdatedAt": null
+      "events": true,
+      "eventsUpdatedAt": "2026-10-03T17:06:22+01:00"
     },
     {
       "match_id": "urc-2026-10-03-gla-uls",
       "kickoff": "2026-10-03T19:45:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
+      "score": true,
+      "scoreUpdatedAt": "2026-10-03T17:48:41+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-03T19:45:00+01:00",
       "events": false,
@@ -138,18 +138,18 @@
     {
       "match_id": "urc-2026-10-03-lio-osp",
       "kickoff": "2026-10-03T12:45:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
+      "score": true,
+      "scoreUpdatedAt": "2026-10-03T17:48:41+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-03T12:45:00+01:00",
-      "events": false,
-      "eventsUpdatedAt": null
+      "events": true,
+      "eventsUpdatedAt": "2026-10-03T14:43:00+01:00"
     },
     {
       "match_id": "urc-2026-10-03-mun-bul",
       "kickoff": "2026-10-03T19:45:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
+      "score": true,
+      "scoreUpdatedAt": "2026-10-03T17:48:41+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-03T19:45:00+01:00",
       "events": false,
@@ -158,12 +158,12 @@
     {
       "match_id": "urc-2026-10-03-sha-lei",
       "kickoff": "2026-10-03T17:30:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
+      "score": true,
+      "scoreUpdatedAt": "2026-10-03T17:49:26+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-03T17:30:00+01:00",
-      "events": false,
-      "eventsUpdatedAt": null
+      "events": true,
+      "eventsUpdatedAt": "2026-10-03T17:49:26+01:00"
     }
   ]
 }

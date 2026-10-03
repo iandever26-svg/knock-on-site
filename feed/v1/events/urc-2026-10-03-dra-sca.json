@@ -1,0 +1,550 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-10-03-dra-sca",
+  "matchId": "urc-2026-10-03-dra-sca",
+  "updated_at": "2026-10-03T17:06:22+01:00",
+  "final": true,
+  "scores_verified": true,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604044/competitions/604044/plays",
+      "fetched_at": "2026-10-03T17:06:22+01:00",
+      "espn_event_id": "604044",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": [
+    {
+      "id": "espn-1892565",
+      "minute": 2,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Macs Page",
+      "detail": "Try (0-5)",
+      "playerName": "Macs Page",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1892566",
+      "minute": 3,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Sam Costelow",
+      "detail": "Conversion (0-7)",
+      "playerName": "Sam Costelow",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 0,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1892587",
+      "minute": 13,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Anzelo Tuitavuki",
+      "detail": "Try (5-7)",
+      "playerName": "Anzelo Tuitavuki",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1892588",
+      "minute": 14,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (7-7)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1892596",
+      "minute": 22,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Elliot Dee",
+      "detail": "Try (12-7)",
+      "playerName": "Elliot Dee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1892596-cm",
+      "minute": 22,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (12-7)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1892610",
+      "minute": 28,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Macs Page",
+      "detail": "Try (12-12)",
+      "playerName": "Macs Page",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1892611",
+      "minute": 29,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Sam Costelow",
+      "detail": "Conversion (12-14)",
+      "playerName": "Sam Costelow",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1892653",
+      "minute": 41,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Rodrigo Martinez",
+      "detail": "Try (17-14)",
+      "playerName": "Rodrigo Martinez",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1892657",
+      "minute": 43,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (19-14)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1892681",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Che Hope",
+      "detail": "replaces Rhodri Williams",
+      "playerOn": "Che Hope",
+      "playerOff": "Rhodri Williams",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892683",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Dillon Lewis",
+      "detail": "replaces Robert Hunt",
+      "playerOn": "Dillon Lewis",
+      "playerOff": "Robert Hunt",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892685",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Rhodri Jones",
+      "detail": "replaces Rodrigo Martinez",
+      "playerOn": "Rhodri Jones",
+      "playerOff": "Rodrigo Martinez",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892710",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sam O'Connor",
+      "detail": "replaces Kemsley Mathias",
+      "playerOn": "Sam O'Connor",
+      "playerOff": "Kemsley Mathias",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892702",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "John McKee",
+      "detail": "replaces Ryan Elias",
+      "playerOn": "John McKee",
+      "playerOff": "Ryan Elias",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892742",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Fetuli Paea",
+      "detail": "replaces Fine Inisi",
+      "playerOn": "Fetuli Paea",
+      "playerOff": "Fine Inisi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892747",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ryan Woodman",
+      "detail": "replaces Seb Davies",
+      "playerOn": "Ryan Woodman",
+      "playerOff": "Seb Davies",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892753",
+      "minute": 58,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Sam O'Connor",
+      "detail": "Try (19-19)",
+      "playerName": "Sam O'Connor",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1892754",
+      "minute": 59,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Sam Costelow",
+      "detail": "Conversion (19-21)",
+      "playerName": "Sam Costelow",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1892755",
+      "minute": 61,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Tristan Davies",
+      "detail": "replaces Osian Williams",
+      "playerOn": "Tristan Davies",
+      "playerOff": "Osian Williams",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892826",
+      "minute": 66,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Huw Anderson",
+      "detail": "Try (24-21)",
+      "playerName": "Huw Anderson",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1892826-cm",
+      "minute": 66,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (24-21)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 24,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1892873",
+      "minute": 67,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Robert Hunt",
+      "detail": "replaces Dillon Lewis",
+      "playerOn": "Robert Hunt",
+      "playerOff": "Dillon Lewis",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892827",
+      "minute": 67,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Gabe Hawley",
+      "detail": "replaces Harri O'Connor",
+      "playerOn": "Gabe Hawley",
+      "playerOff": "Harri O'Connor",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892829",
+      "minute": 67,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Joe Hawkins",
+      "detail": "replaces Joe Roberts",
+      "playerOn": "Joe Hawkins",
+      "playerOff": "Joe Roberts",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1892887",
+      "minute": 68,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Josh MacLeod",
+      "detail": "Yellow card (24-21)",
+      "playerName": "Josh MacLeod",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 24,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1893001",
+      "minute": 70,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Gareth Davies",
+      "detail": "replaces Dane Blacker",
+      "playerOn": "Gareth Davies",
+      "playerOff": "Dane Blacker",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893003",
+      "minute": 70,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ioan Jones",
+      "detail": "replaces Ellis Mee",
+      "playerOn": "Ioan Jones",
+      "playerOff": "Ellis Mee",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893005",
+      "minute": 70,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Harry Beddall",
+      "detail": "replaces Harri Keddie",
+      "playerOn": "Harry Beddall",
+      "playerOff": "Harri Keddie",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893015",
+      "minute": 71,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Elliot Dee",
+      "detail": "Try (29-21)",
+      "playerName": "Elliot Dee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 29,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1893016",
+      "minute": 72,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Brodie Coghlan",
+      "detail": "replaces Elliot Dee",
+      "playerOn": "Brodie Coghlan",
+      "playerOff": "Elliot Dee",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893018",
+      "minute": 72,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (31-21)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 31,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1893019",
+      "minute": 72,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Will Evans",
+      "detail": "replaces Tristan Davies",
+      "playerOn": "Will Evans",
+      "playerOff": "Tristan Davies",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893021",
+      "minute": 73,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Ioan Jones",
+      "detail": "Try (31-26)",
+      "playerName": "Ioan Jones",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 31,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893021-cm",
+      "minute": 73,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (31-26)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 31,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893042",
+      "minute": 74,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jac Lloyd",
+      "detail": "replaces Tinus de Beer",
+      "playerOn": "Jac Lloyd",
+      "playerOff": "Tinus de Beer",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893164",
+      "minute": 77,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ryan Elias",
+      "detail": "replaces Dan Davis",
+      "playerOn": "Ryan Elias",
+      "playerOff": "Dan Davis",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893072",
+      "minute": 81,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Robert Hunt",
+      "detail": "Try (36-26)",
+      "playerName": "Robert Hunt",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 36,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1893073",
+      "minute": 82,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jac Lloyd",
+      "detail": "Conversion (38-26)",
+      "playerName": "Jac Lloyd",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 38,
+        "away": 26
+      }
+    }
+  ]
+}

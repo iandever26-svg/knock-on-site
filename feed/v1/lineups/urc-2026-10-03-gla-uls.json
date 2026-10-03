@@ -243,7 +243,7 @@
         "slug": "ulster",
         "union": "IRFU"
       },
-      "announced_at": "2026-10-03T17:48:30+01:00",
+      "announced_at": null,
       "players": [
         {
           "jersey": 1,
@@ -343,11 +343,11 @@
         },
         {
           "jersey": 13,
-          "name": "Ben Carson",
+          "name": "Ethan McIlroy",
           "position_label": "Outside Centre",
           "is_captain": false,
           "is_starter": true,
-          "replacement_notes": "late replacement for Jacob Stockdale withdrawal (McIlroy shifted to 15)"
+          "replacement_notes": null
         },
         {
           "jersey": 14,
@@ -359,11 +359,11 @@
         },
         {
           "jersey": 15,
-          "name": "Ethan McIlroy",
+          "name": "Jacob Stockdale",
           "position_label": "Fullback",
           "is_captain": false,
           "is_starter": true,
-          "replacement_notes": "moved from 13 after Stockdale late withdrawal"
+          "replacement_notes": null
         },
         {
           "jersey": 16,
@@ -433,7 +433,7 @@
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
       "captain_jersey": 2,
-      "source_format_notes": "knock-on override: Ulster official/WRS 1–23 kept except late change — Jacob Stockdale withdrawn; Ethan McIlroy to full-back (15); Ben Carson at outside centre (13). Agreed by ESPN roster (event 604047) + Belfast Telegraph live blog. Captain Tom Stewart (2)."
+      "source_format_notes": "Parsed 23 numbered slots from official HTML (article date unverified; title names opponent)"
     }
   },
   "provenance": [
@@ -511,36 +511,6 @@
       "http_status": 200,
       "is_primary": false,
       "role": "corroboration",
-      "side": "away"
-    },
-    {
-      "source_name": "espn",
-      "url": "https://www.espn.com/rugby/match/_/gameId/604047",
-      "fetched_at": "2026-10-03T17:48:30+01:00",
-      "content_type": "api_roster",
-      "http_status": 200,
-      "is_primary": true,
-      "role": "primary_sheet",
-      "side": "away"
-    },
-    {
-      "source_name": "belfast_telegraph",
-      "url": "https://www.belfasttelegraph.co.uk/sport/rugby/ulster-rugby/updates-from-scotstoun-stadium-as-richie-murphys-ulster-face-glasgow-warriors/a/162543302.html",
-      "fetched_at": "2026-10-03T17:48:30+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away"
-    },
-    {
-      "source_name": "ulster_official",
-      "url": "https://ulster.rugby/news/ulster-team-named-glasgow-warriors-away-clash",
-      "fetched_at": "2026-10-03T12:13:29+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "pre_match_sheet",
       "side": "away"
     }
   ],
