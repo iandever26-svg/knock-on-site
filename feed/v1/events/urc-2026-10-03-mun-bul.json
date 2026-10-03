@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-mun-bul",
   "matchId": "urc-2026-10-03-mun-bul",
-  "updated_at": "2026-10-03T21:19:56+01:00",
+  "updated_at": "2026-10-03T21:22:39+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604046/competitions/604046/plays",
-      "fetched_at": "2026-10-03T21:19:56+01:00",
+      "fetched_at": "2026-10-03T21:22:39+01:00",
       "espn_event_id": "604046",
       "espn_league_id": 270557
     }
@@ -363,6 +363,18 @@
       }
     },
     {
+      "id": "espn-1893939",
+      "minute": 72,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "JJ Hanrahan",
+      "detail": "replaces Charlie O’Shea",
+      "playerOn": "JJ Hanrahan",
+      "playerOff": "Charlie O’Shea",
+      "label": "Substitution"
+    },
+    {
       "id": "espn-1893917",
       "minute": 72,
       "period": "2H",
@@ -373,6 +385,21 @@
       "playerOn": "Nizaam Carr",
       "playerOff": "Marcell Coetzee",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1893938",
+      "minute": 73,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Jeandre Rudolph",
+      "detail": "Try (26-22)",
+      "playerName": "Jeandre Rudolph",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 22
+      }
     }
   ]
 }
