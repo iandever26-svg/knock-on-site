@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-lio-osp",
   "matchId": "urc-2026-10-03-lio-osp",
-  "updated_at": "2026-10-03T13:44:29+01:00",
+  "updated_at": "2026-10-03T13:45:21+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604043/competitions/604043/plays",
-      "fetched_at": "2026-10-03T13:44:29+01:00",
+      "fetched_at": "2026-10-03T13:45:21+01:00",
       "espn_event_id": "604043",
       "espn_league_id": 270557
     }
@@ -88,6 +88,18 @@
         "home": 10,
         "away": 7
       }
+    },
+    {
+      "id": "espn-1892425",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Cameron Jones",
+      "detail": "replaces Gareth Thomas",
+      "playerOn": "Cameron Jones",
+      "playerOff": "Gareth Thomas",
+      "label": "Substitution"
     },
     {
       "id": "espn-1892422",
