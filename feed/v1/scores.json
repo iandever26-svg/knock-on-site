@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-03T15:46:24+01:00",
-  "updatedAt": "2026-10-03T15:46:24+01:00",
+  "generatedAt": "2026-10-03T15:47:09+01:00",
+  "updatedAt": "2026-10-03T15:47:09+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -280,20 +280,18 @@
     {
       "schema_version": "1.0.0",
       "match_id": "urc-2026-10-03-dra-sca",
-      "status": "live",
+      "status": "ht",
       "home_score": 12,
       "away_score": 14,
-      "clock": null,
-      "period": "1H",
-      "updated_at": "2026-10-03T15:42:59+01:00",
+      "clock": "HT",
+      "period": "HT",
+      "updated_at": "2026-10-03T15:47:09+01:00",
       "provenance": [
         {
-          "source_name": "highlightly",
-          "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-03&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-03T15:42:59+01:00",
-          "highlightly_match_id": 45656083,
-          "highlightly_league_id": 65460,
-          "highlightly_league_name": "United Rugby Championship"
+          "source_name": "espn",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20261003",
+          "fetched_at": "2026-10-03T15:47:09+01:00",
+          "espn_event_id": "604044"
         }
       ],
       "home_tries": 2,
