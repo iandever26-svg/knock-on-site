@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-03T19:45:58+01:00",
-  "updatedAt": "2026-10-03T19:45:58+01:00",
+  "generatedAt": "2026-10-03T19:46:54+01:00",
+  "updatedAt": "2026-10-03T19:46:54+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -362,7 +362,10 @@
           "fetched_at": "2026-10-03T19:45:58+01:00",
           "espn_event_id": "604046"
         }
-      ]
+      ],
+      "home_tries": 0,
+      "away_tries": 0,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
