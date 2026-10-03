@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-03-sha-lei",
   "matchId": "urc-2026-10-03-sha-lei",
-  "updated_at": "2026-10-03T18:38:13+01:00",
+  "updated_at": "2026-10-03T18:40:03+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604045/competitions/604045/plays",
-      "fetched_at": "2026-10-03T18:38:13+01:00",
+      "fetched_at": "2026-10-03T18:40:03+01:00",
       "espn_event_id": "604045",
       "espn_league_id": 270557
     }
@@ -141,6 +141,18 @@
       "detail": "replaces Niall Smyth",
       "playerOn": "Andrew Osborne",
       "playerOff": "Niall Smyth",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1893386",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Brian Deeny",
+      "detail": "replaces Alan Spicer",
+      "playerOn": "Brian Deeny",
+      "playerOff": "Alan Spicer",
       "label": "Substitution"
     }
   ]
