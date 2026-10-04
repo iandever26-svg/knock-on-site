@@ -9,3 +9,5 @@ and commits **only that one file**, and only when the content changed.
 * `tools/news/scripts/*` is a verbatim copy of `scripts/news-feed.mjs` + `scripts/lib/news-feed.mjs` from the knock-on repo (docs/NEWS_FEED.md there).
 * Check sources: `node tools/news/scripts/news-feed.mjs --verify`.
 * Remove a publisher / take something down: delete its entry (or add a `blockWords` entry) and push.
+
+Live file: https://iandever26-svg.github.io/knock-on-site/feed/v1/news.json (first built 4 Oct 2026 21:01 IST: 60 items, 19/19 sources ok).
