@@ -1,0 +1,41 @@
+# Hourly News feed (YouTube RSS + curated Bluesky) -> feed/v1/news.json. Public repo = free Actions minutes.
+# Touches ONLY feed/v1/news.json (the matchday publisher never writes it), commits only when content changed,
+# rebases + retries on a push race, never force-pushes. Source list: tools/news/data/news-sources.json (see tools/news/README.md).
+name: news-feed
+on:
+  schedule:
+    - cron: '7 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: news-feed
+  cancel-in-progress: false
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GIT_AUTHOR_NAME: iandever26-svg
+      GIT_AUTHOR_EMAIL: iandever26-svg@users.noreply.github.com
+      GIT_COMMITTER_NAME: iandever26-svg
+      GIT_COMMITTER_EMAIL: iandever26-svg@users.noreply.github.com
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Build feed/v1/news.json
+        run: node tools/news/scripts/news-feed.mjs --out feed/v1/news.json
+      - name: Commit and push (only news.json, only if changed)
+        run: |
+          set -u
+          if [ -z "$(git status --porcelain -- feed/v1/news.json)" ]; then echo "news.json unchanged - nothing to commit"; exit 0; fi
+          git add feed/v1/news.json
+          git commit -q -m "news: update feed/v1/news.json"
+          for i in 1 2 3 4; do
+            git pull --rebase -q origin main || { git rebase --abort 2>/dev/null; echo "::warning::rebase failed (attempt $i)"; sleep 5; continue; }
+            if git push -q origin HEAD:main; then echo "pushed (attempt $i)"; exit 0; fi
+            sleep $((i * 5))
+          done
+          echo "::warning::could not push after 4 attempts (publisher busy?) - the next hourly run retries"
+          exit 0

@@ -1,0 +1,96 @@
+{
+  "_readme": "Edit this file to change what the News page shows. youtube[].channelId must be the UC… id; bluesky[].handle must exist (run: node scripts/news-feed.mjs --verify). Replies and reposts are never shown. Keep it small: ~10-15 Bluesky accounts.",
+  "limits": {
+    "maxItems": 60,
+    "perYoutubeChannel": 6,
+    "perBlueskyAccount": 5,
+    "maxAgeDays": 21,
+    "maxTextChars": 400
+  },
+  "blockWords": [],
+  "youtube": [
+    {
+      "name": "United Rugby Championship",
+      "channelId": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "name": "Munster Rugby",
+      "channelId": "UC7991AZNku42o3Y36kUZOJA",
+      "max": 3
+    },
+    {
+      "name": "Edinburgh Rugby",
+      "channelId": "UC5QfHoca5UPU3IU8XRw6FWg",
+      "max": 3
+    },
+    {
+      "name": "Cardiff Rugby",
+      "channelId": "UCrVT1pOPraNiimvksjsOgVw",
+      "max": 3
+    },
+    {
+      "name": "Benetton Rugby",
+      "channelId": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
+      "max": 3
+    }
+  ],
+  "bluesky": [
+    {
+      "handle": "leinsterrugby.bsky.social",
+      "label": "Leinster Rugby (official)"
+    },
+    {
+      "handle": "connachtrugbai.bsky.social",
+      "label": "Connacht Rugby (official mirror of the X account)"
+    },
+    {
+      "handle": "ospreysofficial.bsky.social",
+      "label": "Ospreys Rugby (official)"
+    },
+    {
+      "handle": "dragonsrfc.bsky.social",
+      "label": "Dragons RFC (official)"
+    },
+    {
+      "handle": "bencoles.bsky.social",
+      "label": "Ben Coles (Observer)"
+    },
+    {
+      "handle": "murraykinsella.bsky.social",
+      "label": "Murray Kinsella (The42)"
+    },
+    {
+      "handle": "rugbynewsplus.bsky.social",
+      "label": "Rugby News + (Irish rugby news links)"
+    },
+    {
+      "handle": "scotlandrugbynews.bsky.social",
+      "label": "Scotland Rugby News"
+    },
+    {
+      "handle": "lplaybook.bsky.social",
+      "label": "The Leinster Playbook"
+    },
+    {
+      "handle": "the2ndrow.bsky.social",
+      "label": "The 2nd Row (Connacht blog/podcast)"
+    },
+    {
+      "handle": "harpinonrugby.bsky.social",
+      "label": "Harpin' On Rugby (Leinster/Ireland)"
+    },
+    {
+      "handle": "scotrugbypod.bsky.social",
+      "label": "Scottish Rugby Podcast"
+    },
+    {
+      "handle": "cardiffrugbylife.bsky.social",
+      "label": "Cardiff Rugby Life"
+    },
+    {
+      "handle": "joncardinelli.bsky.social",
+      "label": "Jon Cardinelli (rugby writer)"
+    }
+  ],
+  "_notDormantNote": "Checked 4 Oct 2026. Irish/UK national-paper rugby journalists exist on Bluesky but have not posted for months (Rúaidhrí O'Connor last Jan 2026, Cian Tracey Feb 2025, Alex Lowe Feb 2025, Chris Foy Jan 2025, Charles Richardson Dec 2024, Paul Williams Feb 2025, Ed Sarraf Apr 2026) so they are left out; add them back here if they return. Munster/Ulster/Edinburgh/Cardiff club handles are registered but have 0 posts. YouTube: the IrishRugby (UCzhk7J37JT-hdNfCOSbxUqA) and ConnachtRugby (UCP8HdGzFyJx3t_RS9UWoVIQ) channels exist but their newest uploads are from 2009/2010, so they are left out. The Premiership Rugby and Leinster channel ids could not be verified (handle pages 404), so they are not included."
+}
