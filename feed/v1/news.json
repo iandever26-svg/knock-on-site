@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-04T22:28:13+01:00",
+  "generatedAt": "2026-10-05T00:18:51+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx3hl5zsfi2r",
+      "text": "A Connacht smash and grab, a new messiah in Munster, Ulsters Regrets, and Leinster scrum_mixdown (🎙️@the2ndRow) #Connacht #Munster #Ulster",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx3hl5zsfi2r",
+      "publishedAt": "2026-10-04T22:35:34.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib4f4gtdbchoatsb2twrz4y3dirrea5b5o6vd4ge3hgvrl46gh5fi",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mx3c75l6w22h",
@@ -212,18 +224,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mwyu5zs3sj2z",
       "publishedAt": "2026-10-03T21:42:53.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihafow65lop6spzibvfw2xihdpjgfnagteic6cxed3aqgnxuofeh4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mwytvfyb2i22",
-      "text": "Munster boss Clayton McMillan praises 'phenomenal' Charlie O'Shea (✍️@rugby_ie) #Munster #Rugby #ClaytonMcMillan",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mwytvfyb2i22",
-      "publishedAt": "2026-10-03T21:38:04.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifk5wmyswwrp5a5mqnrntbtecdenutuuibkeqtzfvmpndujw23ys4",
       "source": "rugbynewsplus.bsky.social"
     },
     {
