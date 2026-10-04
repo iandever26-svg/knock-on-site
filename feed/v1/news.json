@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-04T21:01:16+01:00",
+  "generatedAt": "2026-10-04T22:28:13+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mx3c75l6w22h",
+      "text": "JP Pietersen reflects on Leinster win",
+      "author": "The Leinster Playbook",
+      "handle": "lplaybook.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
+      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mx3c75l6w22h",
+      "publishedAt": "2026-10-04T20:59:22.792Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreiem7azpkbbdjkzzhonbujqvd277o3c6dmrm7bno7f6ktcmuujy2sq",
+      "source": "lplaybook.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx3333xvmp2z",
@@ -693,18 +705,6 @@
       "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
       "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mwqtqx7hnc2j",
       "publishedAt": "2026-09-30T17:14:16.586Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreieairnkr45lnhcvekrgadwkk3ditikiyrpkmfdculla4252kieovu",
-      "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mwqrwbz7ls2i",
-      "text": "Caelan Doris ruled out until 2027 in blow to Leinster and Ireland\n share.google/26e0VWtTvksJ...",
-      "author": "The Leinster Playbook",
-      "handle": "lplaybook.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
-      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mwqrwbz7ls2i",
-      "publishedAt": "2026-09-30T16:41:28.205Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreieairnkr45lnhcvekrgadwkk3ditikiyrpkmfdculla4252kieovu",
       "source": "lplaybook.bsky.social"
     }
