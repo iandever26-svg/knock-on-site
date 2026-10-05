@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T17:24:18+01:00",
+  "generatedAt": "2026-10-05T18:21:16+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx5gakh4372l",
+      "text": "Irish 10s on fire as the provinces strike back (✍️@rugby_ie) #URC #IrishRugby #Provinces",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx5gakh4372l",
+      "publishedAt": "2026-10-05T17:17:04.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihonf6h3cobag6bisuuodgx2xm5m3nfwutl7ncfrud3hqoh24mn7y",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx5cq6cjtu2l",
@@ -143,18 +155,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx4ynh5j4v2s",
       "publishedAt": "2026-10-05T13:13:44.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreia5ilv7t7tjruohewii4mc543l3p6uslbw5dvga6ohmxcvhvsstai",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx4xyedfvi2g",
-      "text": "Macs Page is a serious talent 😍 (📹@URCOfficial) #MacsPage #Talent #SeriousTalent",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx4xyedfvi2g",
-      "publishedAt": "2026-10-05T13:01:56.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihmaubjff6k5uqnhrmksk2c44pbxn4ni4yqob2kc7hitfni6vbisa",
       "source": "rugbynewsplus.bsky.social"
     },
     {
