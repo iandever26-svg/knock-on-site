@@ -1,10 +1,12 @@
-# Hourly News feed (YouTube RSS + curated Bluesky) -> feed/v1/news.json. Public repo = free Actions minutes.
-# Touches ONLY feed/v1/news.json (the matchday publisher never writes it), commits only when content changed,
-# rebases + retries on a push race, never force-pushes. Source list: tools/news/data/news-sources.json (see tools/news/README.md).
+# News feed (YouTube RSS + curated Bluesky) -> feed/v1/news.json.
+# Hourly refresh runs on the BOX (tools/news/news-feed-hourly.sh), not on Actions schedule —
+# GitHub hosted-runner capacity sometimes cancels scheduled jobs (~15m "not acquired") and those
+# cancelled/failed runs email the repo owner (seen 5 Oct 2026). Keep workflow_dispatch for a
+# manual one-shot from the Actions UI. Touches ONLY feed/v1/news.json; commits only when content
+# changed; rebases + retries on a push race; never force-pushes. Source list:
+# tools/news/data/news-sources.json (see tools/news/README.md).
 name: news-feed
 on:
-  schedule:
-    - cron: '7 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -37,5 +39,5 @@ jobs:
             if git push -q origin HEAD:main; then echo "pushed (attempt $i)"; exit 0; fi
             sleep $((i * 5))
           done
-          echo "::warning::could not push after 4 attempts (publisher busy?) - the next hourly run retries"
+          echo "::warning::could not push after 4 attempts (publisher busy?) - retry manually or wait for the box timer"
           exit 0
