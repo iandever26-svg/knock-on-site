@@ -1,8 +1,66 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T09:25:23+01:00",
+  "generatedAt": "2026-10-05T10:25:54+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3mx4ki7j3js2u",
+      "text": "What a weekend of results in the urc!!!\nWe break it all down on this week's podcast!!\n#BKTURC #IrishRugby\nyoutu.be/WXyx-Sf2JNE",
+      "author": "The 2nd Row",
+      "handle": "the2ndrow.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiazut3bcdskefwftkflzwbla4h6q56u7xutxhdmmhk4unffwpjl4e",
+      "url": "https://bsky.app/profile/the2ndrow.bsky.social/post/3mx4ki7j3js2u",
+      "publishedAt": "2026-10-05T09:00:16.484Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiaxazkjmls4w6ri4qodokhcrot7nlrhgoa3sbg5rniram2h6vxvlm",
+      "source": "the2ndrow.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mx4khzplnc2i",
+      "text": "We're raring to go for our first home fixture of the season 🔥\n🎟️ Tickets are still available for our clash against Cardiff at Laya Arena at https://bit.ly/3UsT8jJ",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mx4khzplnc2i",
+      "publishedAt": "2026-10-05T09:00:10.300Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiazxb4yeartcyijmdh7mbuo4rgzb26qghkswvzeip5e7k73okfnii",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx4jcm6ah22l",
+      "text": "When Springboks combine for the Sharks 🇿🇦🦈 (📹@URCOfficial) #Springboks #Sharks #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx4jcm6ah22l",
+      "publishedAt": "2026-10-05T08:39:14.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreico4c5ua5hriz6u23kvxmsrrgiw2hxsm35wkhbogyqultzt3uka44",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:gc80M3fnKQU",
+      "title": "Joue Blyth Lafferty. That's the caption  #rugby #edinburghrugby #sport #highlights #urc #try #score",
+      "author": "Edinburgh Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=gc80M3fnKQU",
+      "publishedAt": "2026-10-05T08:31:51.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/gc80M3fnKQU/hqdefault.jpg",
+      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:KbXpW0WsKMU",
+      "title": "When Springboks combine for the Sharks 🇿🇦🦈",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=KbXpW0WsKMU",
+      "publishedAt": "2026-10-05T08:29:03.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/KbXpW0WsKMU/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx4hlwobf52h",
@@ -192,18 +250,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx23w5guxd2z",
-      "text": "Murphy hails Ulster's 'bravery' after taking three points from Glasgow draw (✍️@rugby_ie) #UlsterRugby #RichieMurphy #ScottishRugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx23w5guxd2z",
-      "publishedAt": "2026-10-04T09:34:18.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiebgw3hfrmd3gjqh6o5rn3ta4gpcxztoeitdzni4vqbvauqhz5m3y",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mwzygnmjbc2b",
       "text": "On Sunday mornings we share our notes from our feature match on Substack, including real-time screengrabs from our WhatsApp group throughout > jeffpagano.substack.com/p/sharks-v-l...",
       "author": "Harpin' On Rugby",
@@ -356,18 +402,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mwyippedbr2q",
-      "text": "Leaving South Africa with another bonus point\n#SHAvLEI",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mwyippedbr2q",
-      "publishedAt": "2026-10-03T18:18:01.433Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreigrheqpzvfbibn5tuxuhpzrpgylnkwi3arvzjtwhkzpqc6fl6r2bq",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3mwyilu3av2un",
       "text": "Good BP win for the Sharks against Leinster. Champs came back in the third quarter, but the returning Boks made a big impact at the death.\nLeinster head back to Ireland with 3 log points from 2 matches.",
       "author": "Jon Cardinelli",
@@ -472,17 +506,6 @@
       "publishedAt": "2026-10-03T15:01:44.855Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3uumgdx7sndyn7pvv5q3cdmwsumatsxmimmi3hhncitmfjzbhq4/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:bsxYCwiM9G4",
-      "title": "Macs Page is at it again! 🔥✌️",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=bsxYCwiM9G4",
-      "publishedAt": "2026-10-03T14:51:45.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/bsxYCwiM9G4/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "bluesky",
@@ -616,17 +639,6 @@
       "source": "dragonsrfc.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:NdLk1DbRuUU",
-      "title": "Get to know Rory and Alec in this weeks BTS  #rugby #edinburghrugby #bts #sports #reels",
-      "author": "Edinburgh Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=NdLk1DbRuUU",
-      "publishedAt": "2026-10-02T15:01:30.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/NdLk1DbRuUU/hqdefault.jpg",
-      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:mqdmx5o74xrnl4jwd7eroh35/app.bsky.feed.post/3mwvkyhupns2v",
       "text": "\"commencing phase one in early 2029, Balfour Norquoy is pleased to announce a development of luxury 2- and 3-bedroom townhouses\"",
@@ -695,18 +707,6 @@
       "publishedAt": "2026-09-30T19:08:32.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/T6MlQkgYQ0g/hqdefault.jpg",
       "source": "UC7991AZNku42o3Y36kUZOJA"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mwqtqx7hnc2j",
-      "text": "Amongst the games Doris will miss for Leinster are Munster home and away, Cardiff in first competitive game at the Laya Arena (all URC) & 2 Champions Cup games in Clermont & Sale Sharks in Dublin\ntheleinsterplaybook.counterpress.media/news/caelan-...",
-      "author": "The Leinster Playbook",
-      "handle": "lplaybook.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
-      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mwqtqx7hnc2j",
-      "publishedAt": "2026-09-30T17:14:16.586Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreieairnkr45lnhcvekrgadwkk3ditikiyrpkmfdculla4252kieovu",
-      "source": "lplaybook.bsky.social"
     }
   ],
   "sources": [
