@@ -1,8 +1,43 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T08:24:53+01:00",
+  "generatedAt": "2026-10-05T09:25:23+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx4hlwobf52h",
+      "text": "A star in the making?\nHe was a stand-out performer for Scotland U20, aged just 17, and signed academy terms with Newcastle this summer\nJake Dalziel is on our Scottish rugby young players to watch\n🔗 shorturl.at/JoGmu",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx4hlwobf52h",
+      "publishedAt": "2026-10-05T08:08:40.065Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifqtptidc2wv5vmrqn7jckqp4xkwv3mxe2a5bkgxqhkd3mvctgeyi",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx4hkkf2vc2w",
+      "text": "Back to Cymru for derby day👊\n🐉 @dragonsrfc.bsky.social\n🏆 BKT URC\n🏟️ Rodney Parade\n📅 Friday 9th October\n⌚7:45pm KO\nThe game will be live on Premier Sports and S4C 📺\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx4hkkf2vc2w",
+      "publishedAt": "2026-10-05T08:07:53.774Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidc43jq5ymmpjwponaxdgwkj75j2lahcb4uyvksq4ft3ev7dkpvnq",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:3_BN191t0sA",
+      "title": "Rolling maul on fire 🚜​",
+      "author": "BenettonRugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=3_BN191t0sA",
+      "publishedAt": "2026-10-05T08:00:09.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/3_BN191t0sA/hqdefault.jpg",
+      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx4arpvw2j2c",
@@ -296,17 +331,6 @@
       "source": "leinsterrugby.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:aTdjXpKGaFM",
-      "title": "HIGHLIGHTS Round 2 URC BENETTON vs CONNACHT 19-22",
-      "author": "BenettonRugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=aTdjXpKGaFM",
-      "publishedAt": "2026-10-03T18:30:15.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/aTdjXpKGaFM/hqdefault.jpg",
-      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mwyjazthqc2h",
       "text": "FULL-TIME | Honours even at Scotstoun\nAnalysis & reaction from the Warriors to follow...",
@@ -377,18 +401,6 @@
       "publishedAt": "2026-10-03T18:05:35.874Z",
       "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mwyfngpldn2g",
-      "text": "HALF-TIME | The visitors have the advantage at the interval\nWork to do for the Warriors...",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mwyfngpldn2g",
-      "publishedAt": "2026-10-03T17:23:03.985Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreicpvgpcfrehsj4dfsmt3djszovmciivaa2zc3w3wfcn7p5n2min54",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -531,18 +543,6 @@
       "publishedAt": "2026-10-03T12:25:25.888Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreigvxxrpwmflbqbfrz7xnfsifgxqkbf5bollsil4jy3b3myqypwh5i",
       "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mwxswcxe2c2i",
-      "text": "Kick off in Johannesburg.\nLet's go, Ospreys!\n🦁 LIO 0 - 0 OSP 🤍\n#BKTURC | #LIOvOSP | #OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mwxswcxe2c2i",
-      "publishedAt": "2026-10-03T11:48:01.106Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifgpo5iadybecqx5mttfcsrov2icouz6iplrsirzg6xa4nloroh74",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
