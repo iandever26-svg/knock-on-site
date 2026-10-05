@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T12:22:59+01:00",
+  "generatedAt": "2026-10-05T13:29:02+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx4syuz5ls2w",
+      "text": "Super Rygbi Cymru Wrap Up 🏉\nCheck out last weekend's results and the next fixtures for Aberavon, Bridgend Ravens and Swansea RFC  👇\nGet your tickets for Swansea's homecoming 👉 ospreys.info/SRFCvEbbw\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx4syuz5ls2w",
+      "publishedAt": "2026-10-05T11:32:45.832Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif6vngh3hxyge35z5uxffebyy3p6aj444e7zzdwugjy2xe4x5rz2e",
+      "source": "ospreysofficial.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx4rymoik32c",
@@ -541,18 +553,6 @@
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mwxzwse2us2o",
       "publishedAt": "2026-10-03T13:53:33.445Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifrdcnuwk6ftymdgqhbis6hh2xqz26faaanwlacnleg5ybygwvbte",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mwxw2vmztc2i",
-      "text": "A breathless final ten and we're out in front.\nHuge second half coming up 💪\n🦁 LIO 10 - 12 OSP 🤍\n#BKTURC | #LIOvOSP | #OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mwxw2vmztc2i",
-      "publishedAt": "2026-10-03T12:44:16.132Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreihfg63uaqpfe33m36wfjloubkiyq5mu23e7h6ohlbfddy6dtzn7om",
       "source": "ospreysofficial.bsky.social"
     },
     {
