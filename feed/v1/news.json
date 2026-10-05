@@ -1,8 +1,43 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T14:28:06+01:00",
+  "generatedAt": "2026-10-05T15:27:18+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:5M93tATFFLM",
+      "title": "Huge from Rory  #rugby #edinburghrugby #higlights #sports #urc #score #try #clutch",
+      "author": "Edinburgh Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=5M93tATFFLM",
+      "publishedAt": "2026-10-05T14:00:29.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/5M93tATFFLM/hqdefault.jpg",
+      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx536flvac2w",
+      "text": "The JCP Solicitors Stand structure is complete and the posts are up | Mae Eisteddle Cyfreithwyr JCP yn barod ac mae’r pyst yn eu lle 🏉\nJoin us for Swansea's homecoming this weekend | Ymunwch â ni i i groesawu tîm Abertawe yn ôl i San Helen y penwythnos yma 👉 ospreys.info/SRFCvEbbw",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx536flvac2w",
+      "publishedAt": "2026-10-05T13:59:00.937Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreiekrt5fii2gjpohdfzli3q77pabnherolrx3xkyt6fffsbwdt67aa/thumbnail.jpg",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx52rqxlg323",
+      "text": "If Rob Robertson could have taken one Irish player from the past 14 years and put him in a Scotland shirt, it would have been Peter O’Mahony.\nOur columnist says the Munster man embodied everything Scotland needed and didn’t have\n🔗 shorturl.at/Dwlfl",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx52rqxlg323",
+      "publishedAt": "2026-10-05T13:51:56.498Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiehuc6efcqhy7mnhnscatb4j5codu3efv52iitwyhvvudf4soepie",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx4yyhgyh22v",
@@ -366,18 +401,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mwzq3zoza42a",
-      "text": "Jerry Blyth-Lafferty had a big part to play in getting Edinburgh Rugby over the line against the Stormers on Friday\nAnd the hooker is relishing the chance to play a more expansive style this season\n🔗 shorturl.at/SLqfu",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mwzq3zoza42a",
-      "publishedAt": "2026-10-04T06:02:50.096Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreicvnhmaiy7obioxyqen5c7xeg4mw6lktyhrmw7e34yy5gjny2c2fy",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:O4nTnSGdrvs",
       "title": "Munster v Vodacom Bulls | Highlights | Round 2 | URC 2026/27",
@@ -545,18 +568,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mwxzwse2us2o",
-      "text": "A tough afternoon in Johannesburg.\nWe'll regroup ready for a big Welsh derby at Dragons next week.\n🦁 LIO 35 - 19 OSP 🤍\n#BKTURC | #LIOvOSP | #OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mwxzwse2us2o",
-      "publishedAt": "2026-10-03T13:53:33.445Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifrdcnuwk6ftymdgqhbis6hh2xqz26faaanwlacnleg5ybygwvbte",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mwxuz7zyon22",
       "text": "Back with the big dogs 🔜\nMatch tickets and Hospitality tickets on sale 🎟️ https://connachtrugby.ie/tickets/hospitality/399/\n#OneConnacht",
       "author": "Connacht Rugby",
@@ -578,17 +589,6 @@
       "publishedAt": "2026-10-03T08:20:51.741Z",
       "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:nhFgPNmy-08",
-      "title": "Back yourself  #rugby #edinburghrugby #sport #win #dhl #stormers #urc",
-      "author": "Edinburgh Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=nhFgPNmy-08",
-      "publishedAt": "2026-10-02T22:44:34.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/nhFgPNmy-08/hqdefault.jpg",
-      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
       "type": "bluesky",
