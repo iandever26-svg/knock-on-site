@@ -1,8 +1,43 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T11:24:34+01:00",
+  "generatedAt": "2026-10-05T12:22:59+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx4rymoik32c",
+      "text": "Remember The Name | Charlie O'Shea Stars In First Start (📹@URCOfficial) #URC #Rugby #RugbyUnion",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx4rymoik32c",
+      "publishedAt": "2026-10-05T11:14:43.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicvj6yre2as6heydv6fcdklxxa7lkerdpxyuibqrmugdsucwm3jxy",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:c_IGrsU9PK4",
+      "title": "Remember The Name | Charlie O'Shea Stars In First Start",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=c_IGrsU9PK4",
+      "publishedAt": "2026-10-05T11:00:12.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/c_IGrsU9PK4/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx4pmqiltc2z",
+      "text": "Peter O'Mahony made no secret of his dislike for Scotland & has reiterated that stance in his new book\nDespite that, Rob Robertson says he couldn't help but admire the ex-Ireland captain & feels Scotland need to find a player with similar qualities\n🔗 shorturl.at/Dwlfl",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx4pmqiltc2z",
+      "publishedAt": "2026-10-05T10:32:16.981Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihahyuzd7y3oxldcoabaabf4s3wki4nrf5uw3l4a7zuckcrweesny",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx4n4gwohf2z",
@@ -155,18 +190,6 @@
       "publishedAt": "2026-10-04T20:59:22.792Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreiem7azpkbbdjkzzhonbujqvd277o3c6dmrm7bno7f6ktcmuujy2sq",
       "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx3333xvmp2z",
-      "text": "Ciarán Frawley Shines On Connacht Debut | Match Winning Try (📹@URCOfficial) #Rugby #RugbyUnion #Connacht",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx3333xvmp2z",
-      "publishedAt": "2026-10-04T18:51:50.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib7vypk3kcxe2nu7kdwxs45idsfidzrbvad23pndk3q62f2yg4g2e",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -331,18 +354,6 @@
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mwyoefoein2v",
-      "text": "A disappointed Franco Smith admitted the draw with Ulster felt like a defeat\nBut the Warriors boss insists there are lessons learned will stand his side in good stead for the rest of the season\n🔗 shorturl.at/3jbf8",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mwyoefoein2v",
-      "publishedAt": "2026-10-03T19:59:04.585Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibhyxlgeiwjgekqepcmqcvg53t35d4oghvtlmcx22ti3lrhhawnue",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:3k-gB3Ch7To",
       "title": "Glasgow Warriors v Ulster | Highlights | Round 2 | 2026/27",
@@ -459,17 +470,6 @@
       "publishedAt": "2026-10-03T16:52:47.101Z",
       "thumbnail": null,
       "source": "scotrugbypod.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:4cagm_V_9Zc",
-      "title": "Dragons RFC v Scarlets | Highlights | Round 2 | URC 2026/27",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=4cagm_V_9Zc",
-      "publishedAt": "2026-10-03T16:33:35.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/4cagm_V_9Zc/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "bluesky",
