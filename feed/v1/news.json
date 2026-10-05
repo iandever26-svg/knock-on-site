@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T18:21:16+01:00",
+  "generatedAt": "2026-10-05T19:27:38+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx5hmdnmae2v",
+      "text": "Nigel Carolan says George Horne was devastated after his ill-discipline cost Glasgow Warriors against Ulster\nBut the assistant coach doesn’t want the influential scrum-half to change his combative approach\n🔗 shorturl.at/8CT4f",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx5hmdnmae2v",
+      "publishedAt": "2026-10-05T17:41:33.405Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreielhokj6m3fnfsci6y2lwuuiiz2f6tpgcc7x3eajqx2m5kvnhsnw4",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx5gakh4372l",
@@ -272,18 +284,6 @@
       "publishedAt": "2026-10-05T08:29:03.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/KbXpW0WsKMU/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx4hlwobf52h",
-      "text": "A star in the making?\nHe was a stand-out performer for Scotland U20, aged just 17, and signed academy terms with Newcastle this summer\nJake Dalziel is on our Scottish rugby young players to watch\n🔗 shorturl.at/JoGmu",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx4hlwobf52h",
-      "publishedAt": "2026-10-05T08:08:40.065Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifqtptidc2wv5vmrqn7jckqp4xkwv3mxe2a5bkgxqhkd3mvctgeyi",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
