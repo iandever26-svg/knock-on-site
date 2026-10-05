@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T15:27:18+01:00",
+  "generatedAt": "2026-10-05T16:25:04+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx57tkxlyk2w",
+      "text": "LAST CALL FOR FOUNDERS WALL SUBMISSIONS🧱\nWe're finalising the names for the Founder's Wall. If you've submitted your name via our online form or email, then you're good to go!\nWe've emailed all members who have not made a submission, and you have until Thursday to submit your name. (1/2) 🧵",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx57tkxlyk2w",
+      "publishedAt": "2026-10-05T15:22:26.176Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidwfz77yfncpixn7y6s3f3sj3ff737znpok6qrakpbsi6h2gv323i",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx57fszdxs2l",
+      "text": "Ep 3675: Eamonn Fitzmaurice Heads To Galway, Dara Ó Cinnéide On His Opposition To Outside Managers, Mark Zuckhurlberg - 05/10/26 (🎙️@SecondCaptains) #Galway #EamonnFitzmaurice #AllIreland",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx57fszdxs2l",
+      "publishedAt": "2026-10-05T15:14:44.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib4kzx6rx7zcgqbldtd6b2swqsac6wdtpqt5gqq52x7kbgd66dvye",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "youtube",
       "id": "yt:5M93tATFFLM",
@@ -120,18 +144,6 @@
       "publishedAt": "2026-10-05T11:32:45.832Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif6vngh3hxyge35z5uxffebyy3p6aj444e7zzdwugjy2xe4x5rz2e",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx4rymoik32c",
-      "text": "Remember The Name | Charlie O'Shea Stars In First Start (📹@URCOfficial) #URC #Rugby #RugbyUnion",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx4rymoik32c",
-      "publishedAt": "2026-10-05T11:14:43.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicvj6yre2as6heydv6fcdklxxa7lkerdpxyuibqrmugdsucwm3jxy",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -540,18 +552,6 @@
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mwy5qq7wis2o",
       "publishedAt": "2026-10-03T15:01:44.855Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3uumgdx7sndyn7pvv5q3cdmwsumatsxmimmi3hhncitmfjzbhq4/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mwy52xvjfc2o",
-      "text": "📰 MATCH REPORT\nThe first half in Joahnnesburg was a tight encounter that saw the Ospreys wrestle control after two late tries, but the Lions dominated in the second despite a final Ospreys score.\nRead more 🔗 ospreys.info/46YZuKI\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mwy52xvjfc2o",
-      "publishedAt": "2026-10-03T14:49:34.700Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreib62lp7akxecxb7uhazvh2dsikigrwqybzhxgatd5x37uu3oypw5q",
       "source": "ospreysofficial.bsky.social"
     },
     {
