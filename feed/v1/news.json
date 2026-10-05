@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T10:25:54+01:00",
+  "generatedAt": "2026-10-05T11:24:34+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx4n4gwohf2z",
+      "text": "Sione Tuipulotu has admitted he wasn’t satisfied with his performance levels last season in an honest appraisal\nRead more from the Scotland captain 👇\n🔗 shorturl.at/ndE1k",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx4n4gwohf2z",
+      "publishedAt": "2026-10-05T09:47:20.497Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreicylu62itur3ig46av35yrw6xjkmhiwnforvo3em64wxqcplniblm",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3mx4ki7j3js2u",
@@ -375,18 +387,6 @@
       "publishedAt": "2026-10-03T18:33:35.680Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreihudpcklily6w5cqxrbz2a6nfpbyiplsylsvgjbwhv5hhhrbsospa",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mwyjazthqc2h",
-      "text": "FULL-TIME | Honours even at Scotstoun\nAnalysis & reaction from the Warriors to follow...",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mwyjazthqc2h",
-      "publishedAt": "2026-10-03T18:27:42.802Z",
-      "thumbnail": null,
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
