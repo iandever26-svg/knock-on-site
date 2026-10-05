@@ -1,8 +1,67 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T16:25:04+01:00",
+  "generatedAt": "2026-10-05T17:24:18+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx5cq6cjtu2l",
+      "text": "Charlie O’Shea, take a bow 👏 (📹@URCOfficial) #CharlieOShea #TakeABow #Applause",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx5cq6cjtu2l",
+      "publishedAt": "2026-10-05T16:14:13.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie7zqmgyotmukfu2yy54wdxi3f7mvkssswue6hvj524isbz2g46h4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:qg8hlxqJxNw",
+      "title": "Charlie O’Shea, take a bow 👏",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=qg8hlxqJxNw",
+      "publishedAt": "2026-10-05T16:00:20.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/qg8hlxqJxNw/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mx5bax3pic2a",
+      "text": "Great to see Teddy Williams deservedly on the scoresheet and a good finish too, but particularly want to highlight that Alex Mann assist.\nSo late and so well disguised, his link play is consistently top class.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mx5bax3pic2a",
+      "publishedAt": "2026-10-05T15:47:48.843Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreibgwwccl56fc4gwwne6tprfsuseuleojw7wtojtoahrctf532hgju/thumbnail.jpg",
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mx5agusgmx2v",
+      "text": "As we get ready to take on Cardiff at Laya Arena this Saturday, let's look back on our first game at the RDS 21 years ago 🏉\nHow many players can you name from the Leinster team who beat Cardiff that fateful October day in 2005? 🤔\nTry the quiz here 👉 https://bit.ly/4y4B8KB",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mx5agusgmx2v",
+      "publishedAt": "2026-10-05T15:33:13.909Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreifs2fkazuaxyxcjilpkg7ly36erpx3ys32j2rfchk6fvf2kgxhxmq",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx5aeiechy2a",
+      "text": "🚨 PODCAST 🚨\nJoin Bruce Aitchison and Gavin Harper on Thursday as we look back on a mixed weekend for the Scottish sides in the URC & preview this weekend's games\nSubscribe to our YouTube now to make sure you don't miss it\n👉 www.youtube.com/@ScotRugbyNews",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx5aeiechy2a",
+      "publishedAt": "2026-10-05T15:31:53.719Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifpwrhfbnge2twu3nu3txxls2mvk2bjo7ecovexmakyxkcnmunwza",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx57tkxlyk2w",
@@ -108,18 +167,6 @@
       "publishedAt": "2026-10-05T13:00:12.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/4n5wCxxAoP0/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx4x5y5jqy22",
-      "text": "Boost for Leinster as Gibson-Park returns to training (✍️@RTErugby) #LeinsterRugby #RugbyChampionship #JamisonGibsonPark",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx4x5y5jqy22",
-      "publishedAt": "2026-10-05T12:47:11.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiahybow6qwy3pd7hxsinmebos7myvi6tnigykexbv567zwllg3a6y",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -401,18 +448,6 @@
       "source": "cardiffrugbylife.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mwzthtc6uy2a",
-      "text": "Kyle Rowe produced another outstanding Glasgow performance in Glasgow's draw with Ulster, furthering his claim for a Scotland place in the autumn\n🔗 shorturl.at/8qgZW",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mwzthtc6uy2a",
-      "publishedAt": "2026-10-04T07:03:06.962Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibyubv3j7p475e74csfc6k26wl77bcdbbgevi452pfguziopaixda",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:O4nTnSGdrvs",
       "title": "Munster v Vodacom Bulls | Highlights | Round 2 | URC 2026/27",
@@ -422,29 +457,6 @@
       "publishedAt": "2026-10-03T21:01:05.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/O4nTnSGdrvs/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:3k-gB3Ch7To",
-      "title": "Glasgow Warriors v Ulster | Highlights | Round 2 | 2026/27",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=3k-gB3Ch7To",
-      "publishedAt": "2026-10-03T19:45:37.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/3k-gB3Ch7To/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mwykud6bzk2q",
-      "text": "⚡ Robbie Henshaw, Thomas Clarkson and Andrew Osborne all crossed for tries as we fell to a 26-20 bonus-point defeat in Durban\n📰 Read the match report: https://bit.ly/3U1wDCx\n#SHAvLEI",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mwykud6bzk2q",
-      "publishedAt": "2026-10-03T18:56:23.913Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreibwzogmvzf4tuufuauxjvcnz3jljkdb5654dg72punf4a757nudpm",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "bluesky",
@@ -553,18 +565,6 @@
       "publishedAt": "2026-10-03T15:01:44.855Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3uumgdx7sndyn7pvv5q3cdmwsumatsxmimmi3hhncitmfjzbhq4/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mwy3gow2ms2c",
-      "text": "Ebbw Vale 7-12 Cardiff HT\nThe Rags good value for the lead but some poor game management, a try conceded and a yellow card with clock red at the end of the half changes momentum going in at the break.\n#BlueAndBlacks",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mwy3gow2ms2c",
-      "publishedAt": "2026-10-03T14:20:20.455Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
