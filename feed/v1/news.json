@@ -1,8 +1,79 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T12:07:23+01:00",
+  "generatedAt": "2026-10-06T13:07:11+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7enn2fta22",
+      "text": "Ikahihifo at peace with retirement after cancer treatment (✍️@RTErugby) #Rugby #CancerSurvivor #Retirement",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7enn2fta22",
+      "publishedAt": "2026-10-06T11:53:55.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiadigxypy35ua2r2nhzplymep4vfbgptu6t356vabtxlivfpgsy2a",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7dwfpdbs2c",
+      "text": "Ciarán Frawley seals the victory on debut 🦅 (📹@URCOfficial) #CiaranFrawley #Victory #Debut",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7dwfpdbs2c",
+      "publishedAt": "2026-10-06T11:40:55.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifk3a56quej772447mfjfgq3rzddukwaesrnvvm6tk7ake25y7kv4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7djvv2fb2g",
+      "text": "Two more SA defeats, yet Leinster's glass still half full? (📹@HarpinOnRugby) #Leinster #URC #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7djvv2fb2g",
+      "publishedAt": "2026-10-06T11:33:56.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreida52gjwljxej4e63bthlrxph2xpuylqprejialk5e3re3mnql7yy",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:okAIUiTNQvQ",
+      "title": "Ciarán Frawley seals the victory on debut 🦅",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=okAIUiTNQvQ",
+      "publishedAt": "2026-10-06T11:30:16.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/okAIUiTNQvQ/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx7cn2ycgb23",
+      "text": "Pierre Mignoni has left his role as director of rugby at Toulon just ten days out from the EPCR Challenge Cup clash against Edinburgh Rugby.",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx7cn2ycgb23",
+      "publishedAt": "2026-10-06T11:17:48.647Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidw63v32bwvj5n7qc2id6g2cuccox6s53ifibirkmybxji2tebwym",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7clt2moo2c",
+      "text": "Mignoni quits struggling Toulon months after 'breakdown' (✍️@rugby_ie) #Rugby #Toulon #SportsNews",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7clt2moo2c",
+      "publishedAt": "2026-10-06T11:17:06.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiccyqifqj34cidhacdpijugf5ddvst5pyiwhuxgcgt57tng53xxuq",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7bobsaiu2r",
@@ -64,18 +135,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx76zowfhf2p",
-      "text": "543 : Sharks, Starlets & Succession (✍️ @HarpinOnRugby) #Rugby #Sharks #Leinster",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx76zowfhf2p",
-      "publishedAt": "2026-10-06T10:13:17.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib52vhjb3l46u6u33hw3juxnjy2h6pv3bwrhkkz3d2rfcqsbw4w4y",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mx75nhouwc2g",
       "text": "This week's Substack: Kane James was mentioned as a breakout player for Exeter during pre-season. Has started hot, and here's why.\ntheofffieldreview.substack.com/p/kane-james...\nPlus notes on Gloucester, Sale, a missed chance for Newcastle, and Rees-Zammit being very much a wing.",
       "author": "Ben Coles",
@@ -123,18 +182,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx72m5yho72l",
-      "text": "Argentina included in South America bid for 2035 Rugby World Cup (✍️@rugby_ie) #RugbyWorldCup #ArgentinaRugby #SouthAmericaRugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx72m5yho72l",
-      "publishedAt": "2026-10-06T08:54:08.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreieequvugq7n7py3htyuejhi27ce5ssui5q5bx7fbvkd72e3d5cuge",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx727hgjrs2z",
       "text": "It's 16 years since Thom Evans was forced to call time on his rugby career.\nHe's discussed the lasting impact, the current Scotland team & Gregor Townsend 👇\n🔗 shorturl.at/dGgrP",
       "author": "Scotland Rugby News",
@@ -170,30 +217,6 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx6v6qojby2v",
-      "text": "“The bounce is wicked” 👀 (📹@URCOfficial) #bounce #wicked #dance",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx6v6qojby2v",
-      "publishedAt": "2026-10-06T07:17:09.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiagno4trxqsjx7sapfiya7lathdeyccwd5hfmifnd3d67wfh5tzce",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx6uxn4qld2t",
-      "text": "Argentina, Uruguay, Chile and Brazil submit joint RWC bid (✍️@RTErugby) #RugbyWorldCup #Rugby #SouthAmerica",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx6uxn4qld2t",
-      "publishedAt": "2026-10-06T07:13:10.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreic6qwhnljtz3zlfgalr24fe7eyowtjipzojcepy4645xywn624w2e",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:frA5SUIGd-I",
       "title": "“The bounce is wicked” 👀",
@@ -227,18 +250,6 @@
       "publishedAt": "2026-10-05T19:49:25.492Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreiexndp7zlih54wliexoqnfjg5tv2zhfbwoislhuocpnbpqqvunmim/thumbnail.jpg",
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx5hmdnmae2v",
-      "text": "Nigel Carolan says George Horne was devastated after his ill-discipline cost Glasgow Warriors against Ulster\nBut the assistant coach doesn’t want the influential scrum-half to change his combative approach\n🔗 shorturl.at/8CT4f",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx5hmdnmae2v",
-      "publishedAt": "2026-10-05T17:41:33.405Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreielhokj6m3fnfsci6y2lwuuiiz2f6tpgcc7x3eajqx2m5kvnhsnw4",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "youtube",
@@ -378,17 +389,6 @@
       "publishedAt": "2026-10-05T08:31:51.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/gc80M3fnKQU/hqdefault.jpg",
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:KbXpW0WsKMU",
-      "title": "When Springboks combine for the Sharks 🇿🇦🦈",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=KbXpW0WsKMU",
-      "publishedAt": "2026-10-05T08:29:03.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/KbXpW0WsKMU/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "youtube",
