@@ -1,8 +1,79 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T11:07:14+01:00",
+  "generatedAt": "2026-10-06T12:07:23+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7bobsaiu2r",
+      "text": "Springboks Return With A Bang | Best Highlights From Round 2 (📹@URCOfficial) #Springboks #URC #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7bobsaiu2r",
+      "publishedAt": "2026-10-06T11:00:35.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihpbsumr4x3fm4wpxkekhkiuli3x562vwki5w5q6t4tvkqxeddkpu",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:736xoybspEk",
+      "title": "Springboks Return With A Bang | Best Highlights From Round 2",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=736xoybspEk",
+      "publishedAt": "2026-10-06T10:56:50.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/736xoybspEk/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx77cneqec2x",
+      "text": "🚨 SQUAD ANNOUNCEMENT 🚨\nHere's the Scotland squad that will travel to Australia for their two-match series with the Wallaroos",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx77cneqec2x",
+      "publishedAt": "2026-10-06T10:18:17.755Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreid6fz35rsjmopchoynxdwugk7dqmm4peg7ukxdlijoiupxq7xkhya",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx774gg7ts23",
+      "text": "We've got a new phone number 📞\nOspreys' new Ticket Office number is live. You can contact the ticket office on: 01792 424242 ☎️\nOpening Hours: 10 - 4pm Monday to Friday 🕑\nThe old phone line is being disconnected and is now unavailable.\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx774gg7ts23",
+      "publishedAt": "2026-10-06T10:14:49.135Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreig3ah6nafngfg3pizsozo7xkmj4ezuqpo2h4gfomsuanvgiihsbjq",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mx772idrgs2m",
+      "text": "For our latest pod I was joined by Rich Mifsud & Hugo Gordon and we harped on…\n🏉 Sharks v Leinster wrap\n🏉 Academy & the future\n🏉 Weekend roundup\n🏉 Munster’s challenges\n🏉 Naming rights…and wrongs\nCheck it out here > harpinonrugby.blog/2026/10/06/5...",
+      "author": "Harpin' On Rugby",
+      "handle": "harpinonrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
+      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mx772idrgs2m",
+      "publishedAt": "2026-10-06T10:13:44.045Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiftwz4rpy3wqybohfw4czmegthshxhbky62dh6z5ruegvefegi36a",
+      "source": "harpinonrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx76zowfhf2p",
+      "text": "543 : Sharks, Starlets & Succession (✍️ @HarpinOnRugby) #Rugby #Sharks #Leinster",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx76zowfhf2p",
+      "publishedAt": "2026-10-06T10:13:17.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib52vhjb3l46u6u33hw3juxnjy2h6pv3bwrhkkz3d2rfcqsbw4w4y",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mx75nhouwc2g",
@@ -147,30 +218,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx6pz77hxj2g",
-      "text": "Frawley and O'Shea adding greater lust to out-half debate (✍️@RTErugby) #Rugby #UnitedRugbyChampionship #Connacht",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx6pz77hxj2g",
-      "publishedAt": "2026-10-06T05:44:34.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidfxdr3rbtrqlxlxolkwn2jrafdfcmhg24g5y7tqhmjlienrqsefy",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx6on4ls4e2z",
-      "text": "'His attitude to the game hasn't changed. He hasn't tried to become more compliant' (✍️@rugby_ie) #Rugby #SamPrendergast #CasparGabriel",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx6on4ls4e2z",
-      "publishedAt": "2026-10-06T05:19:55.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidsv4yuat27pka7hdnb6mcimcffmnet27t65jvzzt6owjxyoez5pm",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mx5oqy6dbk2c",
       "text": "That's our flanker/scrum-half hybrid!\nBeen a sharp start to the season from Johan Mulder.",
       "author": "Cardiff Rugby Life",
@@ -230,18 +277,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx5aeiechy2a",
-      "text": "🚨 PODCAST 🚨\nJoin Bruce Aitchison and Gavin Harper on Thursday as we look back on a mixed weekend for the Scottish sides in the URC & preview this weekend's games\nSubscribe to our YouTube now to make sure you don't miss it\n👉 www.youtube.com/@ScotRugbyNews",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx5aeiechy2a",
-      "publishedAt": "2026-10-05T15:31:53.719Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifpwrhfbnge2twu3nu3txxls2mvk2bjo7ecovexmakyxkcnmunwza",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx57tkxlyk2w",
       "text": "LAST CALL FOR FOUNDERS WALL SUBMISSIONS🧱\nWe're finalising the names for the Founder's Wall. If you've submitted your name via our online form or email, then you're good to go!\nWe've emailed all members who have not made a submission, and you have until Thursday to submit your name. (1/2) 🧵",
       "author": "Ospreys Rugby",
@@ -297,18 +332,6 @@
       "publishedAt": "2026-10-05T12:30:08.718Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiecgq4beez2zdybuold4elfizbmrawvls3ggdz62lpdzhfcgz55k4",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx4syuz5ls2w",
-      "text": "Super Rygbi Cymru Wrap Up 🏉\nCheck out last weekend's results and the next fixtures for Aberavon, Bridgend Ravens and Swansea RFC  👇\nGet your tickets for Swansea's homecoming 👉 ospreys.info/SRFCvEbbw\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx4syuz5ls2w",
-      "publishedAt": "2026-10-05T11:32:45.832Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif6vngh3hxyge35z5uxffebyy3p6aj444e7zzdwugjy2xe4x5rz2e",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "youtube",
@@ -389,17 +412,6 @@
       "publishedAt": "2026-10-04T20:59:22.792Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreiem7azpkbbdjkzzhonbujqvd277o3c6dmrm7bno7f6ktcmuujy2sq",
       "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:1XhsJ8lhkXc",
-      "title": "Ciarán Frawley Shines On Connacht Debut | Match Winning Try",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=1XhsJ8lhkXc",
-      "publishedAt": "2026-10-04T18:45:33.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/1XhsJ8lhkXc/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "youtube",
@@ -589,18 +601,6 @@
       "publishedAt": "2026-10-03T12:25:25.888Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreigvxxrpwmflbqbfrz7xnfsifgxqkbf5bollsil4jy3b3myqypwh5i",
       "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mwxhdvf6dk2h",
-      "text": "ICYMI here's our #SHAvLEI preview vid...\nFor the full preview including prediction check out our free Substack > jeffpagano.substack.com/p/80-column-...\n#BKTURC",
-      "author": "Harpin' On Rugby",
-      "handle": "harpinonrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
-      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mwxhdvf6dk2h",
-      "publishedAt": "2026-10-03T08:20:51.741Z",
-      "thumbnail": null,
-      "source": "harpinonrugby.bsky.social"
     },
     {
       "type": "bluesky",
