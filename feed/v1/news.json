@@ -1,8 +1,55 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T13:07:11+01:00",
+  "generatedAt": "2026-10-06T15:07:07+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:YSKXXV_ae8g",
+      "title": "How well do you know 1996?  #rugby  #edinburghrugby #quiz #1996 #90s #funny",
+      "author": "Edinburgh Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=YSKXXV_ae8g",
+      "publishedAt": "2026-10-06T14:05:42.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/YSKXXV_ae8g/hqdefault.jpg",
+      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7klfvy6s26",
+      "text": "Milne, Kilgallen and Wycherley to miss Munster's trip to Ulster (✍️@rugby_ie) #Munster #Ulster #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7klfvy6s26",
+      "publishedAt": "2026-10-06T13:40:02.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigv37qsz24t6musiwdrc36ooa54zosxuqax3zdtufzedqsfanvjk4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx7jn54rxf2g",
+      "text": "Interim Scotland coach Dave Butcher is remaining focused on the bigger picture despite his team’s seven-match losing streak\nAnd he's confirmed he's held talks over taking the job on a permanent basis\n🔗 shorturl.at/VQoP6",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx7jn54rxf2g",
+      "publishedAt": "2026-10-06T13:23:07.064Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiazeapuzcisywfkvi4ovkcwggxj3fozhf5lhlsdw2au6e34hwyvbu",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mx7iss6gyc25",
+      "text": "Great to see Tom Howe being given his debut on Friday night.\nA lot of focus on his size considering he's still only 18, but the big man can shift too!\nGreat effort to get back on this break and make the tackle.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mx7iss6gyc25",
+      "publishedAt": "2026-10-06T13:08:23.342Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreicnnl4w2jvgag4hvm45cn7lqsdrtagql5fvi7cdale5ao2ugudeti/thumbnail.jpg",
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7enn2fta22",
@@ -72,18 +119,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7clt2moo2c",
       "publishedAt": "2026-10-06T11:17:06.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiccyqifqj34cidhacdpijugf5ddvst5pyiwhuxgcgt57tng53xxuq",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7bobsaiu2r",
-      "text": "Springboks Return With A Bang | Best Highlights From Round 2 (📹@URCOfficial) #Springboks #URC #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7bobsaiu2r",
-      "publishedAt": "2026-10-06T11:00:35.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihpbsumr4x3fm4wpxkekhkiuli3x562vwki5w5q6t4tvkqxeddkpu",
       "source": "rugbynewsplus.bsky.social"
     },
     {
@@ -226,18 +261,6 @@
       "publishedAt": "2026-10-06T06:15:15.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/frA5SUIGd-I/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx6qyhs6lq2v",
-      "text": "Thom Evans has revealed the lasting impact of the injury that ended his rugby career, saying he lost his identity after hanging up his boots\n🔗 shorturl.at/dGgrP",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx6qyhs6lq2v",
-      "publishedAt": "2026-10-06T06:02:02.004Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibbc4wopncachqtlrhvb4p6oerlfemzajagzpst45rsw22qbajwu4",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -472,17 +495,6 @@
       "source": "cardiffrugbylife.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:UZE1Ayns-3s",
-      "title": "Inside Matchday | URC Round Two | Stormers",
-      "author": "Edinburgh Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=UZE1Ayns-3s",
-      "publishedAt": "2026-10-04T10:00:25.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/UZE1Ayns-3s/hqdefault.jpg",
-      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mx25edoz732a",
       "text": "Just 6️⃣ days until we're finally back at Laya Arena! 🙌\n🎟️ Only a few tickets left for the homecoming game against Cardiff this Saturday: https://bit.ly/3UsT8jJ",
@@ -505,18 +517,6 @@
       "publishedAt": "2026-10-04T08:31:57.342Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreifzpg4mayqknnuoplfgt64wqthe3thrwcd4htear6yep3sotqudhm",
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mwzv7cqvq22s",
-      "text": "Cardiff have found a balance for the six fly-halves across the first team and Academy squad this season, but there are big decisions on the horizon that impact the future of the position and the reputation of the club.\ncardiffrugbylife.wales/2026/10/04/d...",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mwzv7cqvq22s",
-      "publishedAt": "2026-10-04T07:34:09.846Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreiei2o7ulsd5ju4kks2ugoezbxuug5ovqcaemuws27mm6wuhwj3qse",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
