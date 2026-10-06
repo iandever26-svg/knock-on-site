@@ -1,8 +1,55 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T10:07:25+01:00",
+  "generatedAt": "2026-10-06T11:07:14+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mx75nhouwc2g",
+      "text": "This week's Substack: Kane James was mentioned as a breakout player for Exeter during pre-season. Has started hot, and here's why.\ntheofffieldreview.substack.com/p/kane-james...\nPlus notes on Gloucester, Sale, a missed chance for Newcastle, and Rees-Zammit being very much a wing.",
+      "author": "Ben Coles",
+      "handle": "bencoles.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihnbnflj5pmzn2vw5tula7bf7hay7nsutvg5e7suz6y2bnoob5p2a",
+      "url": "https://bsky.app/profile/bencoles.bsky.social/post/3mx75nhouwc2g",
+      "publishedAt": "2026-10-06T09:48:33.413Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Akbwtbs2mqfxm4om4l7h7b2r6/bafkreif233f4dbiflmiulndyvoca6rylnwfgcakgqddxpvvmom24y42gwi/thumbnail.jpg",
+      "source": "bencoles.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mx75cmh2sc2v",
+      "text": "Another big performance from Taine Basham with ball-in-hand.\n15 carries, 46 metres, 1 try.\nAdding in 10 tackles in 52 minutes as well, definitely making a case to Steve Tandy for a test return.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mx75cmh2sc2v",
+      "publishedAt": "2026-10-06T09:42:29.301Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreiex44ibb566unkpxqgbs5wagwvnh5zoq7rmqsjmd6yy2qn6gftugm/thumbnail.jpg",
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx747qxair2d",
+      "text": "Scotland Sevens will return to competition for the first time in four years when they run out at the Safari Sevens in Kenya this weekend\nFor the full squad details 👉 shorturl.at/AaPDN",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx747qxair2d",
+      "publishedAt": "2026-10-06T09:22:59.447Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiaph7llgx5d5bv5dwbxbymj5epsr7gudsabh3tmrgigupszjewcfe",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:iSdaazlamf0",
+      "title": "Una passione biancoverde senza confini 🤍💚",
+      "author": "BenettonRugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=iSdaazlamf0",
+      "publishedAt": "2026-10-06T09:19:46.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/iSdaazlamf0/hqdefault.jpg",
+      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx72m5yho72l",
@@ -229,18 +276,6 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx52rqxlg323",
-      "text": "If Rob Robertson could have taken one Irish player from the past 14 years and put him in a Scotland shirt, it would have been Peter O’Mahony.\nOur columnist says the Munster man embodied everything Scotland needed and didn’t have\n🔗 shorturl.at/Dwlfl",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx52rqxlg323",
-      "publishedAt": "2026-10-05T13:51:56.498Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiehuc6efcqhy7mnhnscatb4j5codu3efv52iitwyhvvudf4soepie",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:4n5wCxxAoP0",
       "title": "Macs Page is a serious talent 😍",
@@ -460,17 +495,6 @@
       "source": "harpinonrugby.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:VjZxhsJ4eL4",
-      "title": "A powerful run, a spectacular try⚡",
-      "author": "BenettonRugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=VjZxhsJ4eL4",
-      "publishedAt": "2026-10-04T08:00:29.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/VjZxhsJ4eL4/hqdefault.jpg",
-      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mwzv7cqvq22s",
       "text": "Cardiff have found a balance for the six fly-halves across the first team and Academy squad this season, but there are big decisions on the horizon that impact the future of the position and the reputation of the club.\ncardiffrugbylife.wales/2026/10/04/d...",
@@ -553,18 +577,6 @@
       "publishedAt": "2026-10-03T16:52:47.101Z",
       "thumbnail": null,
       "source": "scotrugbypod.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mwybsjuvbk2c",
-      "text": "By my reckoning that’s Cardiff’s biggest ever winning margin at Eugene Cross Park.\nOnly scored more points there on one occasion, an 18-61 win in March 1984, which technically would take the margin record in new money but we’ll gloss over that…",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mwybsjuvbk2c",
-      "publishedAt": "2026-10-03T16:14:20.278Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
@@ -696,17 +708,6 @@
       "publishedAt": "2026-10-01T13:04:22.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/lQecffVe83M/hqdefault.jpg",
       "source": "UCrVT1pOPraNiimvksjsOgVw"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:T6MlQkgYQ0g",
-      "title": "French Lesson 2 | Player Pronunciation With Simon Zebo 👨‍🏫🏉",
-      "author": "Munster Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=T6MlQkgYQ0g",
-      "publishedAt": "2026-09-30T19:08:32.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/T6MlQkgYQ0g/hqdefault.jpg",
-      "source": "UC7991AZNku42o3Y36kUZOJA"
     }
   ],
   "sources": [
