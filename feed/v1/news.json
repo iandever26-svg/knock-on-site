@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T09:07:15+01:00",
+  "generatedAt": "2026-10-06T10:07:25+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx72m5yho72l",
+      "text": "Argentina included in South America bid for 2035 Rugby World Cup (✍️@rugby_ie) #RugbyWorldCup #ArgentinaRugby #SouthAmericaRugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx72m5yho72l",
+      "publishedAt": "2026-10-06T08:54:08.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreieequvugq7n7py3htyuejhi27ce5ssui5q5bx7fbvkd72e3d5cuge",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx727hgjrs2z",
+      "text": "It's 16 years since Thom Evans was forced to call time on his rugby career.\nHe's discussed the lasting impact, the current Scotland team & Gregor Townsend 👇\n🔗 shorturl.at/dGgrP",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx727hgjrs2z",
+      "publishedAt": "2026-10-06T08:47:02.002Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifukp3xwqwljhguaso63p75y53xalnwx2od5ujovaf6ttewi4zlzy",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx6zgcj5jk23",
+      "text": "Penblwydd hapus i Evardi Bosdhoff 🥳\nMwynhewch eich diwrnod arbennig // Enjoy your day 🎂\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx6zgcj5jk23",
+      "publishedAt": "2026-10-06T08:32:58.117Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreieww7k3ruv5x56y3icc5vomloqdgzorxqzczisupuzuaplcrno65e",
+      "source": "ospreysofficial.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx6xm76x5c23",
@@ -109,18 +145,6 @@
       "publishedAt": "2026-10-05T17:41:33.405Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreielhokj6m3fnfsci6y2lwuuiiz2f6tpgcc7x3eajqx2m5kvnhsnw4",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx5gakh4372l",
-      "text": "Irish 10s on fire as the provinces strike back (✍️@rugby_ie) #URC #IrishRugby #Provinces",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx5gakh4372l",
-      "publishedAt": "2026-10-05T17:17:04.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihonf6h3cobag6bisuuodgx2xm5m3nfwutl7ncfrud3hqoh24mn7y",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -264,18 +288,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx4pmqiltc2z",
-      "text": "Peter O'Mahony made no secret of his dislike for Scotland & has reiterated that stance in his new book\nDespite that, Rob Robertson says he couldn't help but admire the ex-Ireland captain & feels Scotland need to find a player with similar qualities\n🔗 shorturl.at/Dwlfl",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx4pmqiltc2z",
-      "publishedAt": "2026-10-05T10:32:16.981Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihahyuzd7y3oxldcoabaabf4s3wki4nrf5uw3l4a7zuckcrweesny",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3mx4ki7j3js2u",
       "text": "What a weekend of results in the urc!!!\nWe break it all down on this week's podcast!!\n#BKTURC #IrishRugby\nyoutu.be/WXyx-Sf2JNE",
       "author": "The 2nd Row",
@@ -319,18 +331,6 @@
       "publishedAt": "2026-10-05T08:29:03.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/KbXpW0WsKMU/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx4hkkf2vc2w",
-      "text": "Back to Cymru for derby day👊\n🐉 @dragonsrfc.bsky.social\n🏆 BKT URC\n🏟️ Rodney Parade\n📅 Friday 9th October\n⌚7:45pm KO\nThe game will be live on Premier Sports and S4C 📺\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx4hkkf2vc2w",
-      "publishedAt": "2026-10-05T08:07:53.774Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidc43jq5ymmpjwponaxdgwkj75j2lahcb4uyvksq4ft3ev7dkpvnq",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "youtube",
