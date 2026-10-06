@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T18:07:15+01:00",
+  "generatedAt": "2026-10-06T19:07:24+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx7wwzlzib2l",
+      "text": "The Scotland squad are ‘really excited’ about their reunion with New Zealand next month after their thrilling encounter last Autumn, according to Glasgow Warriors lock Max Williamson\n🔗 shorturl.at/iEAhq",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx7wwzlzib2l",
+      "publishedAt": "2026-10-06T17:21:17.546Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihttuo4yareehihw7ob62ebtzyg4u2awzpyfxvgjpld2nfelnqrum",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mx7vrpbpty2i",
@@ -321,18 +333,6 @@
       "publishedAt": "2026-10-06T09:42:29.301Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreiex44ibb566unkpxqgbs5wagwvnh5zoq7rmqsjmd6yy2qn6gftugm/thumbnail.jpg",
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx747qxair2d",
-      "text": "Scotland Sevens will return to competition for the first time in four years when they run out at the Safari Sevens in Kenya this weekend\nFor the full squad details 👉 shorturl.at/AaPDN",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx747qxair2d",
-      "publishedAt": "2026-10-06T09:22:59.447Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiaph7llgx5d5bv5dwbxbymj5epsr7gudsabh3tmrgigupszjewcfe",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "youtube",
