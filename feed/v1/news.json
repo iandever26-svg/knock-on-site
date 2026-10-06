@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T03:07:12+01:00",
+  "generatedAt": "2026-10-06T07:07:18+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx6qyhs6lq2v",
+      "text": "Thom Evans has revealed the lasting impact of the injury that ended his rugby career, saying he lost his identity after hanging up his boots\n🔗 shorturl.at/dGgrP",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx6qyhs6lq2v",
+      "publishedAt": "2026-10-06T06:02:02.004Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibbc4wopncachqtlrhvb4p6oerlfemzajagzpst45rsw22qbajwu4",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx6pz77hxj2g",
+      "text": "Frawley and O'Shea adding greater lust to out-half debate (✍️@RTErugby) #Rugby #UnitedRugbyChampionship #Connacht",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx6pz77hxj2g",
+      "publishedAt": "2026-10-06T05:44:34.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidfxdr3rbtrqlxlxolkwn2jrafdfcmhg24g5y7tqhmjlienrqsefy",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx6on4ls4e2z",
+      "text": "'His attitude to the game hasn't changed. He hasn't tried to become more compliant' (✍️@rugby_ie) #Rugby #SamPrendergast #CasparGabriel",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx6on4ls4e2z",
+      "publishedAt": "2026-10-06T05:19:55.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidsv4yuat27pka7hdnb6mcimcffmnet27t65jvzzt6owjxyoez5pm",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mx5oqy6dbk2c",
@@ -158,30 +194,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx4yyhgyh22v",
-      "text": "Boost for Leinster as Jamison Gibson-Park returns to training (✍️@rugby_ie) #Leinster #JamisonGibsonPark #URC",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx4yyhgyh22v",
-      "publishedAt": "2026-10-05T13:19:53.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidqtvf5ouma4zappuke5v7kmwryhcnwfr37kh2pxrajxlzadugkra",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx4ynh5j4v2s",
-      "text": "Episode 3674: Nations League Window Finally Closes, A Plea For Divorce, Early 4 Taoiseach - 05/10/26 (🎙️@SecondCaptains) #NationsLeague #FootballPodcast #IrelandFootball",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx4ynh5j4v2s",
-      "publishedAt": "2026-10-05T13:13:44.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreia5ilv7t7tjruohewii4mc543l3p6uslbw5dvga6ohmxcvhvsstai",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:4n5wCxxAoP0",
       "title": "Macs Page is a serious talent 😍",
@@ -237,18 +249,6 @@
       "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx4pmqiltc2z",
       "publishedAt": "2026-10-05T10:32:16.981Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihahyuzd7y3oxldcoabaabf4s3wki4nrf5uw3l4a7zuckcrweesny",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx4n4gwohf2z",
-      "text": "Sione Tuipulotu has admitted he wasn’t satisfied with his performance levels last season in an honest appraisal\nRead more from the Scotland captain 👇\n🔗 shorturl.at/ndE1k",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx4n4gwohf2z",
-      "publishedAt": "2026-10-05T09:47:20.497Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreicylu62itur3ig46av35yrw6xjkmhiwnforvo3em64wxqcplniblm",
       "source": "scotlandrugbynews.bsky.social"
     },
     {
@@ -735,14 +735,14 @@
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
       "ok": false,
-      "error": "HTTP 404",
+      "error": "HTTP 500",
       "kept": 1
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
       "ok": false,
-      "error": "HTTP 404",
+      "error": "HTTP 500",
       "kept": 3
     },
     {
