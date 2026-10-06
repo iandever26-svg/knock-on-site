@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T19:07:24+01:00",
+  "generatedAt": "2026-10-06T20:07:14+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxa45ctqgs2x",
+      "text": "Training back at home for Swansea RFC 🤍\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxa45ctqgs2x",
+      "publishedAt": "2026-10-06T18:54:17.445Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreicwxcmfb5hf5erbxw63v2mt2qq6u6dm7iz3rhyn3lar2ue37t2g3m",
+      "source": "ospreysofficial.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx7wwzlzib2l",
@@ -426,18 +438,6 @@
       "publishedAt": "2026-10-05T15:33:13.909Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreifs2fkazuaxyxcjilpkg7ly36erpx3ys32j2rfchk6fvf2kgxhxmq",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx57tkxlyk2w",
-      "text": "LAST CALL FOR FOUNDERS WALL SUBMISSIONS🧱\nWe're finalising the names for the Founder's Wall. If you've submitted your name via our online form or email, then you're good to go!\nWe've emailed all members who have not made a submission, and you have until Thursday to submit your name. (1/2) 🧵",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx57tkxlyk2w",
-      "publishedAt": "2026-10-05T15:22:26.176Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidwfz77yfncpixn7y6s3f3sj3ff737znpok6qrakpbsi6h2gv323i",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "youtube",
