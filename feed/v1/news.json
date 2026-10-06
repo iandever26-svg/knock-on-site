@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T16:07:16+01:00",
+  "generatedAt": "2026-10-06T17:07:26+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7rbkklrn22",
+      "text": "'We're a long way short of where we need to be' - McMillan wants more from Munster (✍️@rugby_ie) #MunsterRugby #UlsterRugby #RugbyUnion",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7rbkklrn22",
+      "publishedAt": "2026-10-06T15:39:48.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigxk65k4g74jiht3lfa3dr6f5x2bpitjbx4i2sqhspfso6wfesrli",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7p45hkgj2r",
@@ -191,18 +203,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7dwfpdbs2c",
       "publishedAt": "2026-10-06T11:40:55.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifk3a56quej772447mfjfgq3rzddukwaesrnvvm6tk7ake25y7kv4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7djvv2fb2g",
-      "text": "Two more SA defeats, yet Leinster's glass still half full? (📹@HarpinOnRugby) #Leinster #URC #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7djvv2fb2g",
-      "publishedAt": "2026-10-06T11:33:56.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreida52gjwljxej4e63bthlrxph2xpuylqprejialk5e3re3mnql7yy",
       "source": "rugbynewsplus.bsky.social"
     },
     {
