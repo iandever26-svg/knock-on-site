@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T08:07:06+01:00",
+  "generatedAt": "2026-10-06T09:07:15+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx6xm76x5c23",
+      "text": "Toyota Cheetahs to make St Helen’s their European home 🐆\nThe South African side will make St Helen’s their European home for the 2026/27 EPCR Challenge Cup pool stage, facing Welsh side Dragons and French Top 14 outfit USAP.\n(1/2) 🧵",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx6xm76x5c23",
+      "publishedAt": "2026-10-06T08:00:28.485Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreicr4y5f5ffiddys532zkg3dgk5w7p36fzrcpfvtpdngb3qbe5vxq4",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx6v6qojby2v",
+      "text": "“The bounce is wicked” 👀 (📹@URCOfficial) #bounce #wicked #dance",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx6v6qojby2v",
+      "publishedAt": "2026-10-06T07:17:09.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiagno4trxqsjx7sapfiya7lathdeyccwd5hfmifnd3d67wfh5tzce",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx6uxn4qld2t",
+      "text": "Argentina, Uruguay, Chile and Brazil submit joint RWC bid (✍️@RTErugby) #RugbyWorldCup #Rugby #SouthAmerica",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx6uxn4qld2t",
+      "publishedAt": "2026-10-06T07:13:10.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreic6qwhnljtz3zlfgalr24fe7eyowtjipzojcepy4645xywn624w2e",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "youtube",
       "id": "yt:frA5SUIGd-I",
@@ -87,18 +123,6 @@
       "source": "rugbynewsplus.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx5cq6cjtu2l",
-      "text": "Charlie O’Shea, take a bow 👏 (📹@URCOfficial) #CharlieOShea #TakeABow #Applause",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx5cq6cjtu2l",
-      "publishedAt": "2026-10-05T16:14:13.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie7zqmgyotmukfu2yy54wdxi3f7mvkssswue6hvj524isbz2g46h4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:qg8hlxqJxNw",
       "title": "Charlie O’Shea, take a bow 👏",
@@ -156,18 +180,6 @@
       "publishedAt": "2026-10-05T15:22:26.176Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidwfz77yfncpixn7y6s3f3sj3ff737znpok6qrakpbsi6h2gv323i",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx57fszdxs2l",
-      "text": "Ep 3675: Eamonn Fitzmaurice Heads To Galway, Dara Ó Cinnéide On His Opposition To Outside Managers, Mark Zuckhurlberg - 05/10/26 (🎙️@SecondCaptains) #Galway #EamonnFitzmaurice #AllIreland",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx57fszdxs2l",
-      "publishedAt": "2026-10-05T15:14:44.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib4kzx6rx7zcgqbldtd6b2swqsac6wdtpqt5gqq52x7kbgd66dvye",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -553,18 +565,6 @@
       "publishedAt": "2026-10-03T16:14:20.278Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mwy5qq7wis2o",
-      "text": "🎥POST-MATCH PRESS CONFERENCE\n\"I was happy to be going in at half time on the scoreboard.\nWe just couldn't get a foothold in the second half: it was hard to get over the gainline and get any speed of ball.\nWe've got to show more than fight when we get back home.\" - Mark Jones\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mwy5qq7wis2o",
-      "publishedAt": "2026-10-03T15:01:44.855Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3uumgdx7sndyn7pvv5q3cdmwsumatsxmimmi3hhncitmfjzbhq4/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
