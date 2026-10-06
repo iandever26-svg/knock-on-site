@@ -1,8 +1,19 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T07:07:18+01:00",
+  "generatedAt": "2026-10-06T08:07:06+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:frA5SUIGd-I",
+      "title": "“The bounce is wicked” 👀",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=frA5SUIGd-I",
+      "publishedAt": "2026-10-06T06:15:15.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/frA5SUIGd-I/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx6qyhs6lq2v",
@@ -460,17 +471,6 @@
       "source": "cardiffrugbylife.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:O4nTnSGdrvs",
-      "title": "Munster v Vodacom Bulls | Highlights | Round 2 | URC 2026/27",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=O4nTnSGdrvs",
-      "publishedAt": "2026-10-03T21:01:05.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/O4nTnSGdrvs/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mwyiydwoyc2w",
       "text": "Second week in a row we pulled a late try out of the bag.  In the end it wasn't the scrums that did for us, could have won that with more accuracy in 22 but again plenty to be happy with, esp Sam's shift.  Thought Sharks might have gotten 2nd half card but still deserved win.  #SHAvLEI",
@@ -713,37 +713,32 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 2
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": false,
-      "error": "HTTP 500",
-      "kept": 1
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": false,
-      "error": "HTTP 500",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "bluesky",
