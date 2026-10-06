@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-06T20:07:14+01:00",
+  "generatedAt": "2026-10-06T22:07:09+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxabgzejuo24",
+      "text": "'Just 12 months ago, playing against anyone for Ireland was still almost like a dream' (✍️@rugby_ie) #Ireland #Rugby #NickTimoney",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxabgzejuo24",
+      "publishedAt": "2026-10-06T20:29:11.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifd7ohb5g3n4ez7hp2erosjunq4xzzohibyvky45iu7zs7vdu3u7y",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxa45ctqgs2x",
@@ -239,18 +251,6 @@
       "publishedAt": "2026-10-06T13:08:23.342Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreicnnl4w2jvgag4hvm45cn7lqsdrtagql5fvi7cdale5ao2ugudeti/thumbnail.jpg",
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7enn2fta22",
-      "text": "Ikahihifo at peace with retirement after cancer treatment (✍️@RTErugby) #Rugby #CancerSurvivor #Retirement",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7enn2fta22",
-      "publishedAt": "2026-10-06T11:53:55.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiadigxypy35ua2r2nhzplymep4vfbgptu6t356vabtxlivfpgsy2a",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
