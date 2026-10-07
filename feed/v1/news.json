@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T07:07:07+01:00",
+  "generatedAt": "2026-10-07T08:07:16+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxbebogvp22d",
+      "text": "What’s going on at Munster Rugby?\nRich Mifsud, Hugo Gordon & I look at the continuing off-field turmoil — and why, Leinster rivalry aside, Irish rugby needs a strong Munster.\nIs this finally a turning point?\n🎥 youtu.be/pLlfU8Chxzg\n#MunsterRugby #IrishRugby #URC",
+      "author": "Harpin' On Rugby",
+      "handle": "harpinonrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
+      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxbebogvp22d",
+      "publishedAt": "2026-10-07T06:52:33.506Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiaa26t5x2nckfvrgbdtv2clmkp26sh5rva2jh5erwwm7ymapbgmee",
+      "source": "harpinonrugby.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxbbirgdbf2g",
@@ -627,18 +639,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mwyfico5j22w",
-      "text": "3 areas proving the difference here, the scrum, the scrum and oh yeah, the scrum.   Not sure du Toit is 100% legal but it's always about what you get away with and we need a solution quick.  We do look good with the ball but badly needed a lead at the break.  Very much uphill from here. #SHAvLEI",
-      "author": "Harpin' On Rugby",
-      "handle": "harpinonrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
-      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mwyfico5j22w",
-      "publishedAt": "2026-10-03T17:20:12.139Z",
-      "thumbnail": null,
-      "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:mqdmx5o74xrnl4jwd7eroh35/app.bsky.feed.post/3mwydxbtl3k2t",
       "text": "Big Staff deciding to back the fact that he was twice the size of the defender instead of giving it to one of the TWO faster guys either side of him butchered a stuck on try there.\nYou never go Full Duhan",
       "author": "Scottish Rugby Podcast",
@@ -714,37 +714,32 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 2
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 0
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "bluesky",
