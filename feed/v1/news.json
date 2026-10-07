@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T05:07:13+01:00",
+  "generatedAt": "2026-10-07T07:07:07+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxbbirgdbf2g",
+      "text": "Edinburgh Rugby assistant coach Michael Hodge has likened Freddy Douglas to an Australian rugby legend for his breakdown work.\n🔗 shorturl.at/sF77Q",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxbbirgdbf2g",
+      "publishedAt": "2026-10-07T06:02:49.585Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidcuvelhkgxoozbpo4j34s2swjnsezelx53aapvfp7lythpo6bvhq",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxb6j4tyqw24",
+      "text": "'We had to analyse the Lions and the Sharks, do a presentation back to the players and coaches' (✍️@rugby_ie) #Rugby #WorldCup #JoeMcCarthy",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxb6j4tyqw24",
+      "publishedAt": "2026-10-07T05:09:20.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreif2nzu66ztksfpwr5p2fpiy45ib5roapiczhokpusoaoziqg77ihm",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxabgzejuo24",
@@ -218,18 +242,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7klfvy6s26",
-      "text": "Milne, Kilgallen and Wycherley to miss Munster's trip to Ulster (✍️@rugby_ie) #Munster #Ulster #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7klfvy6s26",
-      "publishedAt": "2026-10-06T13:40:02.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigv37qsz24t6musiwdrc36ooa54zosxuqax3zdtufzedqsfanvjk4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx7jn54rxf2g",
       "text": "Interim Scotland coach Dave Butcher is remaining focused on the bigger picture despite his team’s seven-match losing streak\nAnd he's confirmed he's held talks over taking the job on a permanent basis\n🔗 shorturl.at/VQoP6",
       "author": "Scotland Rugby News",
@@ -285,18 +297,6 @@
       "publishedAt": "2026-10-06T10:56:50.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/736xoybspEk/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx77cneqec2x",
-      "text": "🚨 SQUAD ANNOUNCEMENT 🚨\nHere's the Scotland squad that will travel to Australia for their two-match series with the Wallaroos",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx77cneqec2x",
-      "publishedAt": "2026-10-06T10:18:17.755Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreid6fz35rsjmopchoynxdwugk7dqmm4peg7ukxdlijoiupxq7xkhya",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
