@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T14:07:05+01:00",
+  "generatedAt": "2026-10-07T15:07:11+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxc2mtoq5j26",
+      "text": "Abhaile arís 🏡 Home again for @URCOfficial action in two weeks.\nTicéidí ar díol 🎟️ https://connachtrugby.ie/tickets/buy-tickets/200/\n#OneConnacht",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxc2mtoq5j26",
+      "publishedAt": "2026-10-07T13:32:30.118Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreia5ao3jyrfei5geyttlq5qdnyl3kre7uxwlded76anrvzcorvjfji",
+      "source": "connachtrugbai.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxc2bldvrb2z",
+      "text": "All you need to know about Munster's new CEO, and an interview with Dan Sheehan (✍️@rugby_ie) #MunsterRugby #CEONews #IrishSports",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxc2bldvrb2z",
+      "publishedAt": "2026-10-07T13:26:12.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidyh7lnsdmyo3x44vt57wt4gxtcqburbm7ouvsoyrnjaqwmyuayqi",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxby6rf3dj2s",
@@ -84,18 +108,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbsb2ai7c2a",
       "publishedAt": "2026-10-07T11:02:44.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibnpub4iab5aqty55hhnfcuddubwabv3yecon4pytbpuiys4f5twq",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbs7b2njc2a",
-      "text": "Munster appoint New Zealander Lee as interim CEO (✍️@RTErugby) #MunsterRugby #RugbyNews #InterimCEO",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbs7b2njc2a",
-      "publishedAt": "2026-10-07T11:01:44.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibnw65qolqefzmw3sxalacpdcp3nvyngb7lwrs64ib2r6woltftn4",
       "source": "rugbynewsplus.bsky.social"
     },
     {
@@ -272,18 +284,6 @@
       "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mx7ozw5amq2s",
       "publishedAt": "2026-10-06T14:59:44.519Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreieqsd2rqpgqnksbxd5lhomnb5oakwoveb2mopghfdehmktfufxrlu",
-      "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mx7oztxjve26",
-      "text": "Heading across to Glasgow this Friday for R3⃣ of the @URCOfficial 🏴󠁧󠁢󠁳󠁣󠁴󠁿\n#OneConnacht",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mx7oztxjve26",
-      "publishedAt": "2026-10-06T14:59:42.238Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreihrqixqnrkvgyg4742wzrh7qbjkrh5s3q7kmgtuelclo3qlksgkq4",
       "source": "connachtrugbai.bsky.social"
     },
     {
