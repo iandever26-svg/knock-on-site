@@ -1,8 +1,43 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T12:07:14+01:00",
+  "generatedAt": "2026-10-07T13:07:19+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxbvmkspbn27",
+      "text": "🏉 We're delighted to confirm an extension to our partnership with Rhino as our Official Ball & Equipment Supplier!\n💙 Rhino will continue to support our players and rugby programmes while also giving supporters the chance to bring a piece of Leinster Rugby into their own game: https://bit.ly/4hz26Fe",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxbvmkspbn27",
+      "publishedAt": "2026-10-07T12:02:52.292Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreig6jw4x62fkiznjhf5zascjojfpi23kiysi4o6exx2fepqqkmhibu",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:lMVwFeOgOf8",
+      "title": "Kyle Rowe has JET SHOES 💨",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=lMVwFeOgOf8",
+      "publishedAt": "2026-10-07T11:53:21.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/lMVwFeOgOf8/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbt4lqcdj2r",
+      "text": "A Hectic Finish To This Irish Derby | Ulster v Munster | Round 8 2024 Full Match (📹@URCOfficial) #IrishRugby #URC #RugbyUnion",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbt4lqcdj2r",
+      "publishedAt": "2026-10-07T11:18:08.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihs73rifz5wjn7g6lwyjcaixwnn5jzxtbt7bz7nqwximtbinesftq",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbsb2ai7c2a",
@@ -26,6 +61,17 @@
       "publishedAt": "2026-10-07T11:01:44.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibnw65qolqefzmw3sxalacpdcp3nvyngb7lwrs64ib2r6woltftn4",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:BYmNDVyBgaM",
+      "title": "A Hectic Finish To This Irish Derby | Ulster v Munster | Round 8 2024 Full Match",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=BYmNDVyBgaM",
+      "publishedAt": "2026-10-07T11:00:17.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/BYmNDVyBgaM/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "bluesky",
@@ -107,18 +153,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbgfm6oq42z",
       "publishedAt": "2026-10-07T07:30:32.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicpfd7fmj7k5lcaw27bkmd7mqbz7kgtclewwjcnahvo3fzfsj6jmi",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbg6f3hke2r",
-      "text": "Munster in Crisis? Why Irish Rugby Needs Them to Get This Right (📹@HarpinOnRugby) #MunsterRugby #IrishRugby #RugbyCrisis",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbg6f3hke2r",
-      "publishedAt": "2026-10-07T07:26:30.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibige6wnyyetb2kp7at2en2flk3fufs5ktv62kicegupw3pkvgu74",
       "source": "rugbynewsplus.bsky.social"
     },
     {
@@ -463,17 +497,6 @@
       "source": "cardiffrugbylife.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:qg8hlxqJxNw",
-      "title": "Charlie O’Shea, take a bow 👏",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=qg8hlxqJxNw",
-      "publishedAt": "2026-10-05T16:00:20.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/qg8hlxqJxNw/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mx5agusgmx2v",
       "text": "As we get ready to take on Cardiff at Laya Arena this Saturday, let's look back on our first game at the RDS 21 years ago 🏉\nHow many players can you name from the Leinster team who beat Cardiff that fateful October day in 2005? 🤔\nTry the quiz here 👉 https://bit.ly/4y4B8KB",
@@ -495,17 +518,6 @@
       "publishedAt": "2026-10-05T14:00:29.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/5M93tATFFLM/hqdefault.jpg",
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:4n5wCxxAoP0",
-      "title": "Macs Page is a serious talent 😍",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=4n5wCxxAoP0",
-      "publishedAt": "2026-10-05T13:00:12.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/4n5wCxxAoP0/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "bluesky",
@@ -530,18 +542,6 @@
       "publishedAt": "2026-10-05T09:00:16.484Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiaxazkjmls4w6ri4qodokhcrot7nlrhgoa3sbg5rniram2h6vxvlm",
       "source": "the2ndrow.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mx4khzplnc2i",
-      "text": "We're raring to go for our first home fixture of the season 🔥\n🎟️ Tickets are still available for our clash against Cardiff at Laya Arena at https://bit.ly/3UsT8jJ",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mx4khzplnc2i",
-      "publishedAt": "2026-10-05T09:00:10.300Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiazxb4yeartcyijmdh7mbuo4rgzb26qghkswvzeip5e7k73okfnii",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "youtube",
