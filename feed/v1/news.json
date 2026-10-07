@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T03:07:16+01:00",
+  "generatedAt": "2026-10-07T04:07:04+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
     {
@@ -714,8 +714,9 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": true,
-      "items": 6
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 6
     },
     {
       "kind": "youtube",
@@ -735,14 +736,15 @@
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
       "ok": false,
-      "error": "HTTP 404",
+      "error": "HTTP 500",
       "kept": 0
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 3
     },
     {
       "kind": "bluesky",
