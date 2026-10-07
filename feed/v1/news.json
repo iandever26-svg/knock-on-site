@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T11:07:08+01:00",
+  "generatedAt": "2026-10-07T12:07:14+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbsb2ai7c2a",
+      "text": "Avan Lee announced as Munster interim CEO (✍️@rugby_ie) #AvanLee #MunsterRugby #CEOAnnouncement",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbsb2ai7c2a",
+      "publishedAt": "2026-10-07T11:02:44.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibnpub4iab5aqty55hhnfcuddubwabv3yecon4pytbpuiys4f5twq",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbs7b2njc2a",
+      "text": "Munster appoint New Zealander Lee as interim CEO (✍️@RTErugby) #MunsterRugby #RugbyNews #InterimCEO",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbs7b2njc2a",
+      "publishedAt": "2026-10-07T11:01:44.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibnw65qolqefzmw3sxalacpdcp3nvyngb7lwrs64ib2r6woltftn4",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbp4szb7s2z",
@@ -132,30 +156,6 @@
       "publishedAt": "2026-10-07T06:02:49.585Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidcuvelhkgxoozbpo4j34s2swjnsezelx53aapvfp7lythpo6bvhq",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxb6j4tyqw24",
-      "text": "'We had to analyse the Lions and the Sharks, do a presentation back to the players and coaches' (✍️@rugby_ie) #Rugby #WorldCup #JoeMcCarthy",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxb6j4tyqw24",
-      "publishedAt": "2026-10-07T05:09:20.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreif2nzu66ztksfpwr5p2fpiy45ib5roapiczhokpusoaoziqg77ihm",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxabgzejuo24",
-      "text": "'Just 12 months ago, playing against anyone for Ireland was still almost like a dream' (✍️@rugby_ie) #Ireland #Rugby #NickTimoney",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxabgzejuo24",
-      "publishedAt": "2026-10-06T20:29:11.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifd7ohb5g3n4ez7hp2erosjunq4xzzohibyvky45iu7zs7vdu3u7y",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -360,7 +360,7 @@
     {
       "type": "youtube",
       "id": "yt:736xoybspEk",
-      "title": "Springboks Return With A Bang | Best Highlights From Round 2",
+      "title": "Best Springboks Moments From Round 2 | URC Highlights",
       "author": "United Rugby Championship",
       "avatar": null,
       "url": "https://www.youtube.com/watch?v=736xoybspEk",
