@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T20:07:16+01:00",
+  "generatedAt": "2026-10-07T21:07:03+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxcqdjyzk22j",
+      "text": "Two starts, two SyGs for Alfie Prygodzicz. Not a bad start to life in the SRC for the academy flanker!\nShould be playing BUCS Super Rugby but called up due to injury and looking very comfortable as a physical defensive presence and dynamic attacker.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxcqdjyzk22j",
+      "publishedAt": "2026-10-07T20:01:00.604Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreiatx6qoxn6qecdjvxr3e75lo5mjcotvauaashxji4bcp67bhvkp3a/thumbnail.jpg",
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxcnl7ioiq2n",
+      "text": "Callum Hunter-Hill remains desperate to one day fulfil his international ambitions\nBut he's keeping his feet firmly on the ground and says Edinburgh must do the same when they visit Parma this weekend\n🔗 shorturl.at/wCEDI",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxcnl7ioiq2n",
+      "publishedAt": "2026-10-07T19:11:36.646Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidgz6sknjxeyney4cgkbrdl7gztwsr6pbmrqymszckmt5a5ioospi",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxcn4lbjmf2p",
@@ -447,30 +471,6 @@
       "publishedAt": "2026-10-06T14:05:42.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/YSKXXV_ae8g/hqdefault.jpg",
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx7jn54rxf2g",
-      "text": "Interim Scotland coach Dave Butcher is remaining focused on the bigger picture despite his team’s seven-match losing streak\nAnd he's confirmed he's held talks over taking the job on a permanent basis\n🔗 shorturl.at/VQoP6",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx7jn54rxf2g",
-      "publishedAt": "2026-10-06T13:23:07.064Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiazeapuzcisywfkvi4ovkcwggxj3fozhf5lhlsdw2au6e34hwyvbu",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mx7iss6gyc25",
-      "text": "Great to see Tom Howe being given his debut on Friday night.\nA lot of focus on his size considering he's still only 18, but the big man can shift too!\nGreat effort to get back on this break and make the tackle.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mx7iss6gyc25",
-      "publishedAt": "2026-10-06T13:08:23.342Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreicnnl4w2jvgag4hvm45cn7lqsdrtagql5fvi7cdale5ao2ugudeti/thumbnail.jpg",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "youtube",
