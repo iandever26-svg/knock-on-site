@@ -1,8 +1,56 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T15:07:11+01:00",
+  "generatedAt": "2026-10-07T16:07:20+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxc7t62csk2z",
+      "text": "From pinpoint 50:22s to outrageous try assists 🤩 (📹@URCOfficial) #Rugby #URC #GilbertKOTM",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxc7t62csk2z",
+      "publishedAt": "2026-10-07T15:05:31.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreid4zetz2gow2e2ahafzncc3m2v344t2x32jpfet74ferrmz2ocvvq",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxc5y4u64j2a",
+      "text": "Molecast #209 (🎙️@dementedmole) #Molecast #Podcast #SupportCreators",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxc5y4u64j2a",
+      "publishedAt": "2026-10-07T14:32:30.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreid4cyxlsyhzfr637qoqgneliwgl4pxu7zww56obsqwoq2n6umziii",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxc5xl32wp2l",
+      "text": "🗣️ \"We are at a much stronger place with the quality of our squad and with the academy system that we have.\"\nEXCLUSIVE: Managing director Kenny Brown on Glasgow Warriors' summer strategy, as well as the future of Franco Smith.\n🔗 shorturl.at/5G4qB",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxc5xl32wp2l",
+      "publishedAt": "2026-10-07T14:32:11.565Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibigb2przugcyef425jxt66tjyxfrtmpj32mgpvoanohzqkzs7vom",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxc57whvlk26",
+      "text": "Ebbw score and Cardiff go down to 14 right before half-time with the score 7-12, the hosts looking ride that momentum early in the second half and Tom Cottle produces this charge down and try.\nHuge moment in the game.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxc57whvlk26",
+      "publishedAt": "2026-10-07T14:18:58.367Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreicrdjbextzbxtjwxt625bah2lyo4ezumj7crduaa4tl4b5vuznsau/thumbnail.jpg",
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxc2mtoq5j26",
@@ -85,30 +133,6 @@
       "publishedAt": "2026-10-07T11:53:21.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/lMVwFeOgOf8/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbt4lqcdj2r",
-      "text": "A Hectic Finish To This Irish Derby | Ulster v Munster | Round 8 2024 Full Match (📹@URCOfficial) #IrishRugby #URC #RugbyUnion",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbt4lqcdj2r",
-      "publishedAt": "2026-10-07T11:18:08.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihs73rifz5wjn7g6lwyjcaixwnn5jzxtbt7bz7nqwximtbinesftq",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbsb2ai7c2a",
-      "text": "Avan Lee announced as Munster interim CEO (✍️@rugby_ie) #AvanLee #MunsterRugby #CEOAnnouncement",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbsb2ai7c2a",
-      "publishedAt": "2026-10-07T11:02:44.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibnpub4iab5aqty55hhnfcuddubwabv3yecon4pytbpuiys4f5twq",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -380,18 +404,6 @@
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx7cn2ycgb23",
-      "text": "Pierre Mignoni has left his role as director of rugby at Toulon just ten days out from the EPCR Challenge Cup clash against Edinburgh Rugby.",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx7cn2ycgb23",
-      "publishedAt": "2026-10-06T11:17:48.647Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidw63v32bwvj5n7qc2id6g2cuccox6s53ifibirkmybxji2tebwym",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:736xoybspEk",
       "title": "Best Springboks Moments From Round 2 | URC Highlights",
@@ -483,18 +495,6 @@
       "publishedAt": "2026-10-06T06:15:15.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/frA5SUIGd-I/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mx5oqy6dbk2c",
-      "text": "That's our flanker/scrum-half hybrid!\nBeen a sharp start to the season from Johan Mulder.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mx5oqy6dbk2c",
-      "publishedAt": "2026-10-05T19:49:25.492Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreiexndp7zlih54wliexoqnfjg5tv2zhfbwoislhuocpnbpqqvunmim/thumbnail.jpg",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
