@@ -1,8 +1,42 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T16:07:20+01:00",
+  "generatedAt": "2026-10-07T17:07:23+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:HHLA4TkjWF8",
+      "title": "French Lesson 2 | True or Faux With Simon Zebo 👨‍🏫🏉",
+      "author": "Munster Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=HHLA4TkjWF8",
+      "publishedAt": "2026-10-07T16:00:28.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/HHLA4TkjWF8/hqdefault.jpg",
+      "source": "UC7991AZNku42o3Y36kUZOJA"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxccddr2562r",
+      "text": "Zebre Parma set off on the counter 🦓 (📹@URCOfficial) #ZebreParma #CounterAttack #RugbyHighlights",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxccddr2562r",
+      "publishedAt": "2026-10-07T15:50:21.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicsvyxxtt2vigivsysdvc4zcb4sayi54c4vmatqiky7xmv2kflkai",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:pgjuw3Hm0qY",
+      "title": "Zebre Parma set off on the counter 🦓",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=pgjuw3Hm0qY",
+      "publishedAt": "2026-10-07T15:35:04.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/pgjuw3Hm0qY/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxc7t62csk2z",
@@ -14,6 +48,28 @@
       "publishedAt": "2026-10-07T15:05:31.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreid4zetz2gow2e2ahafzncc3m2v344t2x32jpfet74ferrmz2ocvvq",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:eIumgopvHX8",
+      "title": "Press Pass | Munster Rugby v Ulster Rugby",
+      "author": "Munster Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=eIumgopvHX8",
+      "publishedAt": "2026-10-07T15:02:17.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/eIumgopvHX8/hqdefault.jpg",
+      "source": "UC7991AZNku42o3Y36kUZOJA"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:27r3nwnEvUk",
+      "title": "From pinpoint 50:22s to outrageous try assists 🤩",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=27r3nwnEvUk",
+      "publishedAt": "2026-10-07T15:00:08.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/27r3nwnEvUk/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "bluesky",
@@ -101,18 +157,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbx6gz7yv26",
-      "text": "Kyle Rowe has JET SHOES 💨 (📹@URCOfficial) #KyleRowe #JetShoes #Fashion",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbx6gz7yv26",
-      "publishedAt": "2026-10-07T12:30:46.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihy7a7zyc6pqohwikfhflwqlia2smqmgjqfnol7ebthbcug5use5u",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxbvmkspbn27",
       "text": "🏉 We're delighted to confirm an extension to our partnership with Rhino as our Official Ball & Equipment Supplier!\n💙 Rhino will continue to support our players and rugby programmes while also giving supporters the chance to bring a piece of Leinster Rugby into their own game: https://bit.ly/4hz26Fe",
       "author": "Leinster Rugby",
@@ -151,7 +195,7 @@
       "text": "Every day's a school day with Ryan Smith 🎓\nGet your Macron away kit now 👉 ospreys.info/shoponline\nEuro kit dropping next week👀\n#OurBloodIsBlack",
       "author": "Ospreys Rugby",
       "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxbnm53yp22k",
       "publishedAt": "2026-10-07T09:39:28.088Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreigbvzxd6lwzsu4mpe22bujjm564zfycrvyt7wbzlucnapjt6h6xt4/thumbnail.jpg",
@@ -245,7 +289,7 @@
       "text": "Training back at home for Swansea RFC 🤍\n#OurBloodIsBlack",
       "author": "Ospreys Rugby",
       "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxa45ctqgs2x",
       "publishedAt": "2026-10-06T18:54:17.445Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreicwxcmfb5hf5erbxw63v2mt2qq6u6dm7iz3rhyn3lar2ue37t2g3m",
@@ -339,7 +383,7 @@
       "text": "Rugby Returns to St Helen’s This Saturday as Opening Schedule Is Updated 🏉\nGower College and Swansea University games scheduled for Wednesday 7 October, along with the Dewar Shield fixture scheduled for Friday 9 October, will now be played at alternative venues. (1/3) 🧵",
       "author": "Ospreys Rugby",
       "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx7nk3mgt22k",
       "publishedAt": "2026-10-06T14:32:59.940Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreiesnf466ywm3eezrgvekuhocbaluz6ujvr222fphlukdxbqqtyxym",
@@ -404,23 +448,12 @@
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
-      "type": "youtube",
-      "id": "yt:736xoybspEk",
-      "title": "Best Springboks Moments From Round 2 | URC Highlights",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=736xoybspEk",
-      "publishedAt": "2026-10-06T10:56:50.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/736xoybspEk/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx774gg7ts23",
       "text": "We've got a new phone number 📞\nOspreys' new Ticket Office number is live. You can contact the ticket office on: 01792 424242 ☎️\nOpening Hours: 10 - 4pm Monday to Friday 🕑\nThe old phone line is being disconnected and is now unavailable.\n#OurBloodIsBlack",
       "author": "Ospreys Rugby",
       "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx774gg7ts23",
       "publishedAt": "2026-10-06T10:14:49.135Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreig3ah6nafngfg3pizsozo7xkmj4ezuqpo2h4gfomsuanvgiihsbjq",
@@ -479,22 +512,11 @@
       "text": "Penblwydd hapus i Evardi Bosdhoff 🥳\nMwynhewch eich diwrnod arbennig // Enjoy your day 🎂\n#OurBloodIsBlack",
       "author": "Ospreys Rugby",
       "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx6zgcj5jk23",
       "publishedAt": "2026-10-06T08:32:58.117Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreieww7k3ruv5x56y3icc5vomloqdgzorxqzczisupuzuaplcrno65e",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:frA5SUIGd-I",
-      "title": "“The bounce is wicked” 👀",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=frA5SUIGd-I",
-      "publishedAt": "2026-10-06T06:15:15.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/frA5SUIGd-I/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "bluesky",
@@ -565,17 +587,6 @@
       "publishedAt": "2026-10-04T20:59:22.792Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreiem7azpkbbdjkzzhonbujqvd277o3c6dmrm7bno7f6ktcmuujy2sq",
       "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:ZfZNsixX2kc",
-      "title": "Charlie O’Shea Post-Match Bulls 🎙️",
-      "author": "Munster Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=ZfZNsixX2kc",
-      "publishedAt": "2026-10-04T11:45:12.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/ZfZNsixX2kc/hqdefault.jpg",
-      "source": "UC7991AZNku42o3Y36kUZOJA"
     },
     {
       "type": "bluesky",
@@ -696,18 +707,6 @@
       "publishedAt": "2026-10-01T18:22:11.253Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreiaamk7svwe6e6do5ybnqxdwcwmuldncyr45s5zisi73crecxebt3q",
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mwswdhc57k2o",
-      "text": "Leinster team for Saturday announced:\n15. T. Lawlor\n14. T. O'Brien\n13. H. Cooney\n12. R. Henshaw\n11. A. Osborne\n10. C. Gabriel\n9. F. Gunne\n8. J. Ericson\n7. J. van der Flier\n6. R. Baird\n5. A. Spicer\n4. C. O'Tighearnaigh\n3. T. Clarkson\n2. R. Kelleher {C}\n1. A. Porter",
-      "author": "The Leinster Playbook",
-      "handle": "lplaybook.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
-      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mwswdhc57k2o",
-      "publishedAt": "2026-10-01T13:05:44.376Z",
-      "thumbnail": null,
-      "source": "lplaybook.bsky.social"
     }
   ],
   "sources": [
