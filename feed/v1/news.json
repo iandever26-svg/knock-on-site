@@ -1,8 +1,55 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T10:07:22+01:00",
+  "generatedAt": "2026-10-07T11:07:08+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbp4szb7s2z",
+      "text": "John Andress on Ulster's draw with Glasgow (🎙️@dplockhart) #UlsterRugby #RugbyPodcast #JohnAndress",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbp4szb7s2z",
+      "publishedAt": "2026-10-07T10:06:41.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicly6oed7ch3emaio2na3kn7ceoq3bd2f75akyqh2fzar7xi3k56y",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxbnm53yp22k",
+      "text": "Every day's a school day with Ryan Smith 🎓\nGet your Macron away kit now 👉 ospreys.info/shoponline\nEuro kit dropping next week👀\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxbnm53yp22k",
+      "publishedAt": "2026-10-07T09:39:28.088Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreigbvzxd6lwzsu4mpe22bujjm564zfycrvyt7wbzlucnapjt6h6xt4/thumbnail.jpg",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxbnb7i6wk26",
+      "text": "Evan Lloyd in 28 minutes off the bench on Friday night with 8 carries, 1 line break, 70 metres plus a late turnover.\nPlenty of debate over where and when he should be playing, but wherever it is he's started the season in strong form.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxbnb7i6wk26",
+      "publishedAt": "2026-10-07T09:33:21.498Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreigqt26yhd4us6feuniho6fbmhggqnasoew6cylqbvyq6qfpuwtqge/thumbnail.jpg",
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:wnwPJUeNF0w",
+      "title": "#SCAvBEN | Cannone N.: \"Contro gli Scarlets per proporre la migliore versione di noi stessi\"",
+      "author": "BenettonRugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=wnwPJUeNF0w",
+      "publishedAt": "2026-10-07T09:15:17.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/wnwPJUeNF0w/hqdefault.jpg",
+      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
+    },
     {
       "type": "youtube",
       "id": "yt:T8Hc9cpZijg",
@@ -157,18 +204,6 @@
       "publishedAt": "2026-10-06T16:29:19.964Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreiglnrpfgjlfb5mh6cmqu75szeadaqeehxqpjg3layidp5ukeox4mq/thumbnail.jpg",
       "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7tkix2va2r",
-      "text": "Cardiff bringing the entertainment 🕺 (📹@URCOfficial) #Cardiff #Entertainment #LiveMusic",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7tkix2va2r",
-      "publishedAt": "2026-10-06T16:20:36.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifqzs3kk7xw7o6pkbmwegufx2icqlix6526mgtgdu7bt6hw2istde",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -405,18 +440,6 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx6xm76x5c23",
-      "text": "Toyota Cheetahs to make St Helen’s their European home 🐆\nThe South African side will make St Helen’s their European home for the 2026/27 EPCR Challenge Cup pool stage, facing Welsh side Dragons and French Top 14 outfit USAP.\n(1/2) 🧵",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreigpjt7htxjessl67aklbduktjfrq7tdqzxatmqdozcvpp2nnjhdda",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx6xm76x5c23",
-      "publishedAt": "2026-10-06T08:00:28.485Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreicr4y5f5ffiddys532zkg3dgk5w7p36fzrcpfvtpdngb3qbe5vxq4",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:frA5SUIGd-I",
       "title": "“The bounce is wicked” 👀",
@@ -449,18 +472,6 @@
       "publishedAt": "2026-10-05T16:00:20.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qg8hlxqJxNw/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mx5bax3pic2a",
-      "text": "Great to see Teddy Williams deservedly on the scoresheet and a good finish too, but particularly want to highlight that Alex Mann assist.\nSo late and so well disguised, his link play is consistently top class.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mx5bax3pic2a",
-      "publishedAt": "2026-10-05T15:47:48.843Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreibgwwccl56fc4gwwne6tprfsuseuleojw7wtojtoahrctf532hgju/thumbnail.jpg",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
@@ -554,17 +565,6 @@
       "publishedAt": "2026-10-04T20:59:22.792Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreiem7azpkbbdjkzzhonbujqvd277o3c6dmrm7bno7f6ktcmuujy2sq",
       "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:OLhEEbwp6XU",
-      "title": "Un altro spettacolare terzo tempo andato in scena a Monigo 🔥",
-      "author": "BenettonRugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=OLhEEbwp6XU",
-      "publishedAt": "2026-10-04T16:00:12.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/OLhEEbwp6XU/hqdefault.jpg",
-      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
     },
     {
       "type": "youtube",
