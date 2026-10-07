@@ -1,8 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T09:07:25+01:00",
+  "generatedAt": "2026-10-07T10:07:22+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:T8Hc9cpZijg",
+      "title": "Just the 70kgs then Wes?  #rugby #edinburghrugby #gym #sport #workout #weights",
+      "author": "Edinburgh Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=T8Hc9cpZijg",
+      "publishedAt": "2026-10-07T09:00:10.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/T8Hc9cpZijg/hqdefault.jpg",
+      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxbitwlosy2k",
+      "text": "Champions Cup action back at Dexcom Stadium 🌟\nLimited tickets available 🎟️ https://connachtrugby.ie/tickets/buy-tickets/200/\n#OneConnacht",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxbitwlosy2k",
+      "publishedAt": "2026-10-07T08:14:20.693Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreigotse7hdhpdopuo3p35ef5fbr3pyhvocjcci34lh3lhxxcel2l2m",
+      "source": "connachtrugbai.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbgfm6oq42z",
@@ -192,18 +215,6 @@
       "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mx7ozrqcls2n",
       "publishedAt": "2026-10-06T14:59:39.901Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreigwizfkzozr3bhw3xsr4m4ww7uniljzr5uawwcfrsrzfoosit2hxe",
-      "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mx7ozoq4xd2k",
-      "text": "\"We've got plenty of belief in our game\" 🟢🦅\nScrum Coach Trevor Woodman looking ahead to Friday's game against Glasgow in Scotstoun.\nWatch more 📺 https://youtube.com/watch?v=6e_3c65mrFQ\n#OneConnacht",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mx7ozoq4xd2k",
-      "publishedAt": "2026-10-06T14:59:36.750Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreifmz3pe45sluzqnxu6wsi23vtqod3qx33jpmmydoals23clcolzgi/thumbnail.jpg",
       "source": "connachtrugbai.bsky.social"
     },
     {
@@ -520,17 +531,6 @@
       "publishedAt": "2026-10-05T09:00:10.300Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiazxb4yeartcyijmdh7mbuo4rgzb26qghkswvzeip5e7k73okfnii",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:gc80M3fnKQU",
-      "title": "Joue Blyth Lafferty. That's the caption  #rugby #edinburghrugby #sport #highlights #urc #try #score",
-      "author": "Edinburgh Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=gc80M3fnKQU",
-      "publishedAt": "2026-10-05T08:31:51.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/gc80M3fnKQU/hqdefault.jpg",
-      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
       "type": "youtube",
