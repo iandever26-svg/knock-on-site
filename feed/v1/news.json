@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T17:07:23+01:00",
+  "generatedAt": "2026-10-07T18:07:19+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxcfhyomac2k",
+      "text": "Pre-Match Press Conference 🎥\nHear from Mark Jones ahead of this weekend's BKT URC Round Three fixture vs Dragons RFC.\n\"It's a great place to go and play. I think I read that it's a sell out and our guys love going up there.\"\n🎞️ youtu.be/578MS0i1EBg\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxcfhyomac2k",
+      "publishedAt": "2026-10-07T16:46:39.045Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreig7jtwhvtanuc6czxejap7z4qsqg7yafeptnt3tnfru6wbcv25klu",
+      "source": "ospreysofficial.bsky.social"
+    },
     {
       "type": "youtube",
       "id": "yt:HHLA4TkjWF8",
@@ -505,18 +517,6 @@
       "publishedAt": "2026-10-06T09:19:46.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/iSdaazlamf0/hqdefault.jpg",
       "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx6zgcj5jk23",
-      "text": "Penblwydd hapus i Evardi Bosdhoff 🥳\nMwynhewch eich diwrnod arbennig // Enjoy your day 🎂\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx6zgcj5jk23",
-      "publishedAt": "2026-10-06T08:32:58.117Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreieww7k3ruv5x56y3icc5vomloqdgzorxqzczisupuzuaplcrno65e",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
