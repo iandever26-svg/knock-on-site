@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T13:07:19+01:00",
+  "generatedAt": "2026-10-07T14:07:05+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxby6rf3dj2s",
+      "text": "A good week to be an Irish out-half, scrum issues aplenty (✍️@RTErugby) #IrishRugby #RugbyUnion #UnitedRugbyChampionship",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxby6rf3dj2s",
+      "publishedAt": "2026-10-07T12:48:50.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigm77ua4c2t4stzzloub5tmwfleinnje4zf6t2tf3is6jsd7rrci4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxby322zym2k",
+      "text": "\"The rivalry probably goes back to around the time of the PRO12\"\nCaolin Blade looking ahead to Friday's game in Glasgow ⚔️\nWatch more 📺 https://youtube.com/watch?v=2D600-C9rkY\n#OneConnacht",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxby322zym2k",
+      "publishedAt": "2026-10-07T12:46:45.346Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreigfnsavnmfap7fzqmss2wmofbnfqmmlsc444hh562h6knhlnhgd6m/thumbnail.jpg",
+      "source": "connachtrugbai.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbx6gz7yv26",
+      "text": "Kyle Rowe has JET SHOES 💨 (📹@URCOfficial) #KyleRowe #JetShoes #Fashion",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbx6gz7yv26",
+      "publishedAt": "2026-10-07T12:30:46.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihy7a7zyc6pqohwikfhflwqlia2smqmgjqfnol7ebthbcug5use5u",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxbvmkspbn27",
@@ -75,18 +111,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbp4szb7s2z",
-      "text": "John Andress on Ulster's draw with Glasgow (🎙️@dplockhart) #UlsterRugby #RugbyPodcast #JohnAndress",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbp4szb7s2z",
-      "publishedAt": "2026-10-07T10:06:41.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicly6oed7ch3emaio2na3kn7ceoq3bd2f75akyqh2fzar7xi3k56y",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxbnm53yp22k",
       "text": "Every day's a school day with Ryan Smith 🎓\nGet your Macron away kit now 👉 ospreys.info/shoponline\nEuro kit dropping next week👀\n#OurBloodIsBlack",
       "author": "Ospreys Rugby",
@@ -142,18 +166,6 @@
       "publishedAt": "2026-10-07T08:14:20.693Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreigotse7hdhpdopuo3p35ef5fbr3pyhvocjcci34lh3lhxxcel2l2m",
       "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbgfm6oq42z",
-      "text": "Equal parts Bledisloe nerves and opportunity | 8/9 Rugby with Justin Harrison (📹 @89combo) #BledisloeCup #Wallabies #AllBlacks",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbgfm6oq42z",
-      "publishedAt": "2026-10-07T07:30:32.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicpfd7fmj7k5lcaw27bkmd7mqbz7kgtclewwjcnahvo3fzfsj6jmi",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -272,18 +284,6 @@
       "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mx7oztxjve26",
       "publishedAt": "2026-10-06T14:59:42.238Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreihrqixqnrkvgyg4742wzrh7qbjkrh5s3q7kmgtuelclo3qlksgkq4",
-      "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mx7ozrqcls2n",
-      "text": "The latest squad update has landed ahead of Friday's trip to Glasgow Warriors 🏴󠁧󠁢󠁳󠁣󠁴󠁿\nhttps://www.connachtrugby.ie/news/squad-update/bp3815/",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mx7ozrqcls2n",
-      "publishedAt": "2026-10-06T14:59:39.901Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreigwizfkzozr3bhw3xsr4m4ww7uniljzr5uawwcfrsrzfoosit2hxe",
       "source": "connachtrugbai.bsky.social"
     },
     {
