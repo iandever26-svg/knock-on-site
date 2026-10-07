@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T08:07:16+01:00",
+  "generatedAt": "2026-10-07T09:07:25+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbgfm6oq42z",
+      "text": "Equal parts Bledisloe nerves and opportunity | 8/9 Rugby with Justin Harrison (📹 @89combo) #BledisloeCup #Wallabies #AllBlacks",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbgfm6oq42z",
+      "publishedAt": "2026-10-07T07:30:32.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicpfd7fmj7k5lcaw27bkmd7mqbz7kgtclewwjcnahvo3fzfsj6jmi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxbg6f3hke2r",
+      "text": "Munster in Crisis? Why Irish Rugby Needs Them to Get This Right (📹@HarpinOnRugby) #MunsterRugby #IrishRugby #RugbyCrisis",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxbg6f3hke2r",
+      "publishedAt": "2026-10-07T07:26:30.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibige6wnyyetb2kp7at2en2flk3fufs5ktv62kicegupw3pkvgu74",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxbfup6w7s2n",
+      "text": "Callum Sheedy’s football challenge, Tom Howe’s birth certificate, hookers throwing the ball back and forth down the field, anyone but a winger out wide and Alex Mann hunting Jamison Gibson-Park on this week’s pod ⬇️",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxbfup6w7s2n",
+      "publishedAt": "2026-10-07T07:21:05.571Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxbebogvp22d",
@@ -121,30 +157,6 @@
       "publishedAt": "2026-10-06T16:15:10.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/f4cRnNQ6Bag/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7rbkklrn22",
-      "text": "'We're a long way short of where we need to be' - McMillan wants more from Munster (✍️@rugby_ie) #MunsterRugby #UlsterRugby #RugbyUnion",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7rbkklrn22",
-      "publishedAt": "2026-10-06T15:39:48.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigxk65k4g74jiht3lfa3dr6f5x2bpitjbx4i2sqhspfso6wfesrli",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mx7p45hkgj2r",
-      "text": "Belfast defeat 'etched in the memory' of McMillan (✍️@RTErugby) #Rugby #URC #ChampionsCup",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mx7p45hkgj2r",
-      "publishedAt": "2026-10-06T15:00:59.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifksb733iuw22quxro3bwagpwneeadv3hptofmizbaa3hrmlt7vim",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -564,18 +576,6 @@
       "publishedAt": "2026-10-04T11:45:12.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/ZfZNsixX2kc/hqdefault.jpg",
       "source": "UC7991AZNku42o3Y36kUZOJA"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mx2aui5f4s2b",
-      "text": "Just to counter some bizarre comments.\nThe 7,231 at CAP on Friday was Cardiff’s 3rd best home crowd for a Zebre game.\nThe top two came in Zebre’s first seasons of 12/13 and 13/14 before it was obvious they are not competitive.\nCrowds at CAP are on the up and up.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mx2aui5f4s2b",
-      "publishedAt": "2026-10-04T11:02:51.303Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
