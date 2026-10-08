@@ -1,8 +1,103 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-08T14:07:29+01:00",
+  "generatedAt": "2026-10-08T15:07:15+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:GXZhuXeVo2U",
+      "title": "🦁​​Lo schieramento biancoverde per la prima trasferta stagionale contro gli Scarlets",
+      "author": "BenettonRugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=GXZhuXeVo2U",
+      "publishedAt": "2026-10-08T14:00:16.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/GXZhuXeVo2U/hqdefault.jpg",
+      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxelohsr332s",
+      "text": "Ulster and Munster welcome back internationals for Belfast interpro (✍️@rugby_ie) #Ulster #Munster #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxelohsr332s",
+      "publishedAt": "2026-10-08T13:42:58.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidrclwpgh5toocvzt3jore4qmcujqsvo2gwdp5i2f36xzgf6gdjgm",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxelofaxe62v",
+      "text": "Leinster change entire starting side for Cardiff clash (✍️@rugby_ie) #Leinster #CardiffClash #RugbyUnion",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxelofaxe62v",
+      "publishedAt": "2026-10-08T13:42:55.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiebx4qa5bvgerm4y356skwzx7sz6avhod5x53hmawebxvfsn2dj74",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:76m24vhrsckzqfi33uyt6snv/app.bsky.feed.post/3mxelbflu7c2z",
+      "text": "🐉 𝙏𝙀𝘼𝙈 𝙉𝙀𝙒𝙎 | Friday night under the lights as we face @ospreys at 🏠 in the @URCOfficial!💥\n😮‍💨 Paea and Hope start in the backline\n👊 Beddall in at 7️⃣\n👨‍✈️ Angus set for return from bench\n🎟️ eticketing.co.uk/dragons/\n📞 01633 670690\n#WeAreGwentRugby",
+      "author": "Dragons RFC",
+      "handle": "dragonsrfc.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:76m24vhrsckzqfi33uyt6snv/bafkreihzvwyirklqwchsdtgblhclnw6rfqviodnvjitltqmj6wyvtix6oi",
+      "url": "https://bsky.app/profile/dragonsrfc.bsky.social/post/3mxelbflu7c2z",
+      "publishedAt": "2026-10-08T13:35:39.639Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:76m24vhrsckzqfi33uyt6snv/bafkreibw7s27g34psvr2cwo5pqk5esd2w4xqc3cxljffx6mrjozkfq6gmu",
+      "source": "dragonsrfc.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxelb75lqy26",
+      "text": "URC teams: Provinces welcome back internationals for R3 (✍️@RTErugby) #URC #UnitedRugbyChampionship #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxelb75lqy26",
+      "publishedAt": "2026-10-08T13:35:32.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreih5pdxf3zweogor7k2zw33lmtjacac3w4llqtx5qp7uhnbhjlhrji",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxeknweluj2c",
+      "text": "Bundee Aki set to make first Connacht start of the season in trip to Glasgow (✍️@rugby_ie) #BundeeAki #Connacht #GlasgowWarriors",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxeknweluj2c",
+      "publishedAt": "2026-10-08T13:24:46.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib7gzbpcwzmokbiq5c26alnr5je2y2v6xnd542p4wnjnhxf4lgcou",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxek7m6p2d2w",
+      "text": "Edinburgh Rugby head coach Sean Everitt is hopeful of keeping two of the club’s brightest young talents despite reported interest from south of the border\nThe Edinburgh coach also discussed their recent Zebre record as Ewan Ashman returns for their trip to Parma\n🔗 shorturl.at/FcY0g",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxek7m6p2d2w",
+      "publishedAt": "2026-10-08T13:16:45.544Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihiaqb4btxvq2lmkgl3iwjaj3jumarbaos2huiaj2dfvesnrhnxya",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxek4cj3zs2w",
+      "text": "Here's the Cardiff side to travel to Leinster this Saturday;\n- Southworth & Belcher in up front\n- Thomas returns at flanker\n- Faletau & Davies fit again\n- Grady back on the wing\n- URC debut for Young\n- Possible debut for Paea\n- Nott on to the bench\nFew changes but still strong!",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxek4cj3zs2w",
+      "publishedAt": "2026-10-08T13:14:54.890Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreiczaq5kjubv3o7vdudqcv2hrjxuufq4de2334c2frrpit5ycei72m",
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxejgd7wyk2v",
@@ -87,18 +182,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxe7t2y5dk2p",
-      "text": "4 Tries In 10 Minutes | A Wild Finish To Vodacom Bulls v 10Bet Lions | 2025 (📹@URCOfficial) #VodacomBulls #10BetLions #RugbyHighlights",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxe7t2y5dk2p",
-      "publishedAt": "2026-10-08T10:10:47.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiaqus7fwlhdsfqn6erzibl222eo5ydzfixxjjiwcv2ln7qnvim2l4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:TSLFJXP2C_c",
       "title": "4 Tries In 10 Minutes | A Wild Finish To Vodacom Bulls v 10Bet Lions | 2025",
@@ -146,18 +229,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxdx5lvpfd22",
-      "text": "CEO appointment looks like a step in the right direction for Munster (✍️@rugby_ie) #Rugby #MunsterRugby #CEOAppointment",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxdx5lvpfd22",
-      "publishedAt": "2026-10-08T07:35:37.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidi22jpqv45qlvkuflkmg2ijlpwcpoeh3kiur26djg2jtvmwkw23u",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxdx3i2wkc2i",
       "text": "@irishwomens.bsky.social speaks to Irish international Robyn O'Connor on her meteoric rise",
       "author": "The Leinster Playbook",
@@ -167,30 +238,6 @@
       "publishedAt": "2026-10-08T07:34:26.054Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreidqehm6xgflbx4bjm7a7hev6fywkxcmcbgywaw7n4r543n2zpwmhm",
       "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxdwr27tci2g",
-      "text": "Leinster’s Next Generation & the Changing of the Guard (📹@HarpinOnRugby) #LeinsterRugby #NextGeneration #RugbyAcademy",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxdwr27tci2g",
-      "publishedAt": "2026-10-08T07:28:35.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicuxjive4er6zw27atydodfm7tqwbdp4xcpw5oc2w5jz7zzwmzolm",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxdwnmgejs2r",
-      "text": "All Blacks coach Rennie says Wallabies exit 'part of the game' ahead of Bledisloe Cup (✍️@rugby_ie) #AllBlacks #BledisloeCup #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxdwnmgejs2r",
-      "publishedAt": "2026-10-08T07:26:40.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib3scjgcixhtt66tjnk7gvhazhtjq7i3fy77i7kaxw65kaeyzfc7m",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -322,18 +369,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxc5xl32wp2l",
-      "text": "🗣️ \"We are at a much stronger place with the quality of our squad and with the academy system that we have.\"\nEXCLUSIVE: Managing director Kenny Brown on Glasgow Warriors' summer strategy, as well as the future of Franco Smith.\n🔗 shorturl.at/5G4qB",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxc5xl32wp2l",
-      "publishedAt": "2026-10-07T14:32:11.565Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibigb2przugcyef425jxt66tjyxfrtmpj32mgpvoanohzqkzs7vom",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxc57whvlk26",
       "text": "Ebbw score and Cardiff go down to 14 right before half-time with the score 7-12, the hosts looking ride that momentum early in the second half and Tom Cottle produces this charge down and try.\nHuge moment in the game.",
       "author": "Cardiff Rugby Life",
@@ -413,18 +448,6 @@
       "publishedAt": "2026-10-07T09:39:28.088Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreigbvzxd6lwzsu4mpe22bujjm564zfycrvyt7wbzlucnapjt6h6xt4/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxbnb7i6wk26",
-      "text": "Evan Lloyd in 28 minutes off the bench on Friday night with 8 carries, 1 line break, 70 metres plus a late turnover.\nPlenty of debate over where and when he should be playing, but wherever it is he's started the season in strong form.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxbnb7i6wk26",
-      "publishedAt": "2026-10-07T09:33:21.498Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreigqt26yhd4us6feuniho6fbmhggqnasoew6cylqbvyq6qfpuwtqge/thumbnail.jpg",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "youtube",
@@ -602,17 +625,6 @@
       "source": "the2ndrow.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:3_BN191t0sA",
-      "title": "Rolling maul on fire 🚜​",
-      "author": "BenettonRugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=3_BN191t0sA",
-      "publishedAt": "2026-10-05T08:00:09.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/3_BN191t0sA/hqdefault.jpg",
-      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mx3c75l6w22h",
       "text": "JP Pietersen reflects on Leinster win",
@@ -695,18 +707,6 @@
       "publishedAt": "2026-10-03T16:52:47.101Z",
       "thumbnail": null,
       "source": "scotrugbypod.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:76m24vhrsckzqfi33uyt6snv/app.bsky.feed.post/3mww4h3dff22f",
-      "text": "It's almost time... thank you for your unwavering support! Let's do this together!",
-      "author": "Dragons RFC",
-      "handle": "dragonsrfc.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:76m24vhrsckzqfi33uyt6snv/bafkreihzvwyirklqwchsdtgblhclnw6rfqviodnvjitltqmj6wyvtix6oi",
-      "url": "https://bsky.app/profile/dragonsrfc.bsky.social/post/3mww4h3dff22f",
-      "publishedAt": "2026-10-02T19:33:07.734Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:76m24vhrsckzqfi33uyt6snv/bafkreia3exvuvzdlyfa4hdvekhr5rlget3o2j4p3ghdcelnvc5i7zyvbky",
-      "source": "dragonsrfc.bsky.social"
     }
   ],
   "sources": [
