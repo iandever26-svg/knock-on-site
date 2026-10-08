@@ -534,6 +534,32 @@
       "role": "corroboration",
       "side": "away",
       "source_tier": "secondary"
+    },
+    {
+      "source_name": "stormers_x_official",
+      "url": "https://x.com/THESTORMERS/status/2107778419853509063",
+      "fetched_at": "2026-10-08T15:40:31+01:00",
+      "content_type": "other",
+      "http_status": null,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home",
+      "published_at": "2026-10-07T11:21:50+01:00",
+      "published_at_source": "x_api_created_at",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "sharks_x_official",
+      "url": "https://x.com/SharksRugby/status/2108180894200594577",
+      "fetched_at": "2026-10-08T15:40:31+01:00",
+      "content_type": "other",
+      "http_status": null,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "published_at": "2026-10-08T14:01:07+01:00",
+      "published_at_source": "x_api_created_at",
+      "source_tier": "official"
     }
   ],
   "confidence": {
@@ -544,7 +570,9 @@
     "score": 0,
     "reasons": [
       "home: complete_1_to_23 from stormers_official (official); urc_official 23/23 jerseys agree; all_rugby 17/23 jerseys agree (differs at #11,#12,#13,#14,#17,#18)",
-      "away: complete_1_to_23 from sharks_official (official); urc_official 23/23 jerseys agree; all_rugby 19/23 jerseys agree (differs at #4,#5,#11,#14)"
+      "away: complete_1_to_23 from sharks_official (official); urc_official 23/23 jerseys agree; all_rugby 19/23 jerseys agree (differs at #4,#5,#11,#14)",
+      "home: X cross-check https://x.com/THESTORMERS/status/2107778419853509063 (posted 2026-10-07T11:21:50+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #13 (agree); graphic viewed with Read 2026-10-08T15:20:56+01:00: yes — Stormers graphic (header SAT 10 OCT 16H00 SAST vs Sharks), numbered 01–23; all 23 match by eye; 13 Ruhan Nel (C)",
+      "away: X cross-check https://x.com/SharksRugby/status/2108180894200594577 (posted 2026-10-08T14:01:07+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #12 (agree); graphic viewed with Read 2026-10-08T15:20:57+01:00: yes — Sharks graphic (surname-first), XV numbered 01–15 and reserves numbered 16–23; all 23 match by eye; 12 Esterhuizen (C)"
     ]
   },
   "notes": "Ingest poll 2026-10-08T15:06:39+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."

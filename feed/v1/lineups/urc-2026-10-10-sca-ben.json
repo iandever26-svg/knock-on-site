@@ -98,7 +98,7 @@
           "jersey": 7,
           "name": "Josh Macleod",
           "position_label": "Openside",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -233,9 +233,9 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
+      "captain_jersey": 7,
       "source_tier": "official",
-      "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292605; league shirt numbers 1–23; no captain marker in feed)"
+      "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292605; league shirt numbers 1–23; no captain marker in feed); captain flag from official X team post https://x.com/scarlets_rugby/status/2108180751019643164 (graphic (viewed with Read): \"graphic #7 Josh Macleod (C) — viewed 2026-10-08T15:20:59+01:00\")"
     },
     "away": {
       "club": {
@@ -306,7 +306,7 @@
           "jersey": 8,
           "name": "Michele Lamaro",
           "position_label": "No. 8",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -433,9 +433,9 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
+      "captain_jersey": 8,
       "source_tier": "official",
-      "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292605; league shirt numbers 1–23; no captain marker in feed); diacritics restored on 4 name(s) from another source's spelling of the same name"
+      "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292605; league shirt numbers 1–23; no captain marker in feed); diacritics restored on 4 name(s) from another source's spelling of the same name; captain flag from official X team post https://x.com/BenettonRugby/status/2108180862521270364 (graphic (viewed with Read): \"graphic #8 Lamaro (C) — viewed 2026-10-08T15:21:02+01:00\")"
     }
   },
   "provenance": [
@@ -486,6 +486,32 @@
       "role": "corroboration",
       "side": "away",
       "source_tier": "secondary"
+    },
+    {
+      "source_name": "scarlets_x_official",
+      "url": "https://x.com/scarlets_rugby/status/2108180751019643164",
+      "fetched_at": "2026-10-08T15:40:50+01:00",
+      "content_type": "other",
+      "http_status": null,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home",
+      "published_at": "2026-10-08T14:00:33+01:00",
+      "published_at_source": "x_api_created_at",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "benetton_x_official",
+      "url": "https://x.com/BenettonRugby/status/2108180862521270364",
+      "fetched_at": "2026-10-08T15:40:50+01:00",
+      "content_type": "other",
+      "http_status": null,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "published_at": "2026-10-08T14:01:00+01:00",
+      "published_at_source": "x_api_created_at",
+      "source_tier": "official"
     }
   ],
   "confidence": {
@@ -496,7 +522,9 @@
     "score": 0,
     "reasons": [
       "home: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 21/23 jerseys agree (differs at #11,#14)",
-      "away: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 19/23 jerseys agree (differs at #1,#3,#4,#5)"
+      "away: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 19/23 jerseys agree (differs at #1,#3,#4,#5)",
+      "home: X cross-check https://x.com/scarlets_rugby/status/2108180751019643164 (posted 2026-10-08T14:00:33+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #7 (fill); graphic viewed with Read 2026-10-08T15:20:59+01:00: yes — Scarlets 'Y Tîm' graphic, numbered 1–23; all 23 match by eye; 7 Josh Macleod (C)",
+      "away: X cross-check https://x.com/BenettonRugby/status/2108180862521270364 (posted 2026-10-08T14:01:00+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #8 (fill); graphic viewed with Read 2026-10-08T15:21:02+01:00: yes — Benetton video post: preview frame (connector preview_image_url) is the lineup graphic, surnames numbered 1–23; all 23 match the file by eye; 8 Lamaro marked c"
     ]
   },
   "notes": "Ingest poll 2026-10-08T15:07:50+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
