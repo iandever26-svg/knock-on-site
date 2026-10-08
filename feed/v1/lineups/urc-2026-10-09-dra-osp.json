@@ -1,0 +1,527 @@
+{
+  "schema_version": "1.0.0",
+  "match": {
+    "match_id": "urc-2026-10-09-dra-osp",
+    "external_ids": {
+      "all_rugby_match_id": "26740"
+    },
+    "competition": {
+      "name": "BKT United Rugby Championship",
+      "code": "URC",
+      "season": "2026/27",
+      "round": "Round 3"
+    },
+    "kickoff": {
+      "datetime_ireland": "2026-10-09T19:45:00+01:00",
+      "timezone_label": "IST",
+      "datetime_utc": "2026-10-09T18:45:00Z"
+    },
+    "venue": {
+      "name": "Rodney Parade",
+      "city": null,
+      "country": null
+    },
+    "home": {
+      "name": "Dragons",
+      "short_name": "DRA",
+      "slug": "dragons",
+      "union": "WRU"
+    },
+    "away": {
+      "name": "Ospreys",
+      "short_name": "OSP",
+      "slug": "ospreys",
+      "union": "WRU"
+    },
+    "status": "team_news_complete",
+    "score": null
+  },
+  "lineups": {
+    "home": {
+      "club": {
+        "name": "Dragons",
+        "short_name": "DRA",
+        "slug": "dragons",
+        "union": "WRU"
+      },
+      "announced_at": null,
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Rodrigo Martinez Manzano",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Elliot Dee",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Rob Hunt",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Seb Davies",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Ben Carter",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Shane Lewis-Hughes",
+          "position_label": "Blindside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Harry Beddall",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Harrison Keddie",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Che Hope",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Tinus de Beer",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Anzelo Tuitavuki",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Aneurin Owen",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Fetuli Paea",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Rio Dyer",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Huw Anderson",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Brodie Coghlan",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Rhodri Jones",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Chris Coleman",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Barny Langton-Cryer",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Thomas Young",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Rhodri Williams",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Angus O'Brien",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Fine Inisi",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": null,
+      "source_tier": "official",
+      "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292601; league shirt numbers 1–23; no captain marker in feed)"
+    },
+    "away": {
+      "club": {
+        "name": "Ospreys",
+        "short_name": "OSP",
+        "slug": "ospreys",
+        "union": "WRU"
+      },
+      "announced_at": "2026-10-08T01:00:00+01:00",
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Gareth Thomas",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Sam Parry",
+          "position_label": "Hooker",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Tom Botha",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Rhys Davies",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Ryan Smith",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Liam Wright",
+          "position_label": "Blindside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Ross Moriarty",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Morgan Morris",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Kieran Hardy",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Dan Edwards",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Keelan Giles",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Keiran Williams",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Evardi Boshoff",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Marika Koroibete",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Tom Rogers",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Efan Daniel",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Steffan Thomas",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Rhys Henry",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Lewis Jones",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Morgan Morse",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Reuben Morgan Williams",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Lawson Creighton",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Lalakai Foketi",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 2,
+      "source_tier": "official",
+      "source_format_notes": "Parsed 23 numbered slots from official HTML"
+    }
+  },
+  "provenance": [
+    {
+      "source_name": "urc_official",
+      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292601%5D%7D",
+      "fetched_at": "2026-10-08T15:06:10+01:00",
+      "content_type": "other",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-09T18:45:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26740/urc-2026-2027/dragons-ospreys",
+      "fetched_at": "2026-10-08T15:06:10+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home",
+      "source_tier": "secondary"
+    },
+    {
+      "source_name": "ospreys_official",
+      "url": "https://www.ospreysrugby.com/news/ospreys-announce-team-face-dragons-wallaby-superstar-set-make-debut",
+      "fetched_at": "2026-10-08T15:06:10+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": "2026-10-08T01:00:00+01:00",
+      "published_at_source": "jsonld_datePublished(date_only)",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "ospreys_official",
+      "url": "https://www.ospreysrugby.com/news",
+      "fetched_at": "2026-10-08T15:06:10+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "discovery_feed",
+      "side": "away",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "urc_official",
+      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292601%5D%7D",
+      "fetched_at": "2026-10-08T15:06:10+01:00",
+      "content_type": "other",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-09T18:45:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26740/urc-2026-2027/dragons-ospreys",
+      "fetched_at": "2026-10-08T15:06:10+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "source_tier": "secondary"
+    }
+  ],
+  "confidence": {
+    "overall": 0.95,
+    "match_identity": 0.9,
+    "home_lineup": 0.95,
+    "away_lineup": 0.95,
+    "score": 0,
+    "reasons": [
+      "home: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 17/23 jerseys agree (differs at #1,#4,#5,#12,#13,#19)",
+      "away: complete_1_to_23 from ospreys_official (official); urc_official 22/23 jerseys agree (differs at #21); all_rugby 22/23 jerseys agree (differs at #21)"
+    ]
+  },
+  "notes": "Ingest poll 2026-10-08T15:06:10+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+}

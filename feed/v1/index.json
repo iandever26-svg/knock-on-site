@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-05T11:18:33+01:00",
-  "updatedAt": "2026-10-05T11:18:33+01:00",
+  "generatedAt": "2026-10-08T15:17:48+01:00",
+  "updatedAt": "2026-10-08T15:17:48+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-05T11:18:33+01:00",
   "matches": [
@@ -21,7 +21,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-09-25T21:39:32+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-09-29T19:34:02.883Z",
+      "lineupUpdatedAt": "2026-09-25T19:45:00+01:00",
       "events": true,
       "eventsUpdatedAt": "2026-09-30T19:03:03+01:00"
     },
@@ -164,6 +164,86 @@
       "lineupUpdatedAt": "2026-10-03T17:30:00+01:00",
       "events": true,
       "eventsUpdatedAt": "2026-10-03T19:16:33+01:00"
+    },
+    {
+      "match_id": "urc-2026-10-09-dra-osp",
+      "kickoff": "2026-10-09T19:45:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-08T14:02:22+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-09T19:45:00+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-09-gla-con",
+      "kickoff": "2026-10-09T19:45:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-08T14:02:22+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-09T19:45:00+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-10-bul-lio",
+      "kickoff": "2026-10-10T12:30:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-10T12:30:00+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-10-lei-car",
+      "kickoff": "2026-10-10T19:45:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-10T19:45:00+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-10-sca-ben",
+      "kickoff": "2026-10-10T17:30:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-10T17:30:00+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-10-sto-sha",
+      "kickoff": "2026-10-10T15:00:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-10T15:00:00+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-10-uls-mun",
+      "kickoff": "2026-10-10T17:30:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-10T17:30:00+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-10-zeb-edi",
+      "kickoff": "2026-10-10T15:00:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-10T15:00:00+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
     }
   ]
 }

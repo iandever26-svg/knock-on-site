@@ -1,0 +1,540 @@
+{
+  "schema_version": "1.0.0",
+  "match": {
+    "match_id": "urc-2026-10-10-lei-car",
+    "external_ids": {
+      "all_rugby_match_id": "26746"
+    },
+    "competition": {
+      "name": "BKT United Rugby Championship",
+      "code": "URC",
+      "season": "2026/27",
+      "round": "Round 3"
+    },
+    "kickoff": {
+      "datetime_ireland": "2026-10-10T19:45:00+01:00",
+      "timezone_label": "IST",
+      "datetime_utc": "2026-10-10T18:45:00Z"
+    },
+    "venue": {
+      "name": "Laya Arena",
+      "city": null,
+      "country": null
+    },
+    "home": {
+      "name": "Leinster",
+      "short_name": "LEI",
+      "slug": "leinster",
+      "union": "IRFU"
+    },
+    "away": {
+      "name": "Cardiff",
+      "short_name": "CAR",
+      "slug": "cardiff",
+      "union": "WRU"
+    },
+    "status": "team_news_complete",
+    "score": null
+  },
+  "lineups": {
+    "home": {
+      "club": {
+        "name": "Leinster",
+        "short_name": "LEI",
+        "slug": "leinster",
+        "union": "IRFU"
+      },
+      "announced_at": "2026-10-08T13:58:55+01:00",
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Alex Usanov",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Dan Sheehan",
+          "position_label": "Hooker",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Tadgh Furlong",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Joe McCarthy",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "James Ryan",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Max Deegan",
+          "position_label": "Blindside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Scott Penny",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Jack Conan",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Oliver Coffey",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Sam Prendergast",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Jimmy O’Brien",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Jamie Osborne",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Garry Ringrose",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Joshua Kenny",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Hugo Keenan",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Rónan Kelleher",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Peter Dooley",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Thomas Clarkson",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Alan Spicer",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Josh Ericson",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Fintan Gunne",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Caspar Gabriel",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Robbie Henshaw",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 2,
+      "source_tier": "official",
+      "source_format_notes": "Parsed from official WP JSON content.rendered"
+    },
+    "away": {
+      "club": {
+        "name": "Cardiff",
+        "short_name": "CAR",
+        "slug": "cardiff",
+        "union": "WRU"
+      },
+      "announced_at": null,
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Danny Southworth",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Liam Belcher",
+          "position_label": "Hooker",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Javan Sebastian",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Josh McNally",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Teddy Williams",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Alex Mann",
+          "position_label": "Blindside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Dan Thomas",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Taulupe Faletau",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Aled Davies",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Callum Sheedy",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Mason Grady",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Le Roux Malan",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Harri Millard",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Jacob Beetham",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Matty Young",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Evan Lloyd",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Rhys Barratt",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Sam Wainwright",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "George Nott",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Semisi Paea",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Johan Mulder",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Jarrod Evans",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Steff Emanuel",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 2,
+      "source_tier": "official",
+      "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292607; league shirt numbers 1–23; no captain marker in feed); captain flag from official club article tag (Liam Belcher)"
+    }
+  },
+  "provenance": [
+    {
+      "source_name": "leinster_official",
+      "url": "https://www.leinsterrugby.ie/2026/10/08/cullen-rings-in-the-changes-for-laya-arena-homecoming-clash-with-cardiff/",
+      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "content_type": "wp_rest",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home",
+      "published_at": "2026-10-08T13:58:55+01:00",
+      "published_at_source": "wp_json_date_gmt",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "leinster_official",
+      "url": "https://leinster2023-wpapi.leinster.soticclient.net/wp-json/wp/v2/posts?search=team%20named&per_page=8",
+      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "content_type": "wp_rest",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "discovery_feed",
+      "side": "home",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "urc_official",
+      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292607%5D%7D",
+      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "content_type": "other",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-10T18:45:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26746/urc-2026-2027/leinster-cardiff",
+      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home",
+      "source_tier": "secondary"
+    },
+    {
+      "source_name": "urc_official",
+      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292607%5D%7D",
+      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "content_type": "other",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-10T18:45:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "cardiff_official",
+      "url": "https://www.cardiffrugby.wales/news/cardiff-change-seven-for-leinster-showdown/",
+      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "published_at": "2026-10-08T13:58:00+01:00",
+      "published_at_source": "meta_published_time",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26746/urc-2026-2027/leinster-cardiff",
+      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "source_tier": "secondary"
+    }
+  ],
+  "confidence": {
+    "overall": 0.97,
+    "match_identity": 0.9,
+    "home_lineup": 0.98,
+    "away_lineup": 0.95,
+    "score": 0,
+    "reasons": [
+      "home: complete_1_to_23 from leinster_official (official); urc_official 23/23 jerseys agree; all_rugby 23/23 jerseys agree",
+      "away: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 17/23 jerseys agree (differs at #1,#3,#6,#7,#17,#18)"
+    ]
+  },
+  "notes": "Ingest poll 2026-10-08T15:05:58+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+}
