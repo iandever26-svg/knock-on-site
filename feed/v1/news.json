@@ -1,8 +1,19 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-08T09:07:08+01:00",
+  "generatedAt": "2026-10-08T10:07:14+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:FvRzm2lm2Wc",
+      "title": "We've all scrolled too far before  #rugby #edinburghrugby #funny #joke #reel #shorts #sports #fun",
+      "author": "Edinburgh Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=FvRzm2lm2Wc",
+      "publishedAt": "2026-10-08T09:06:09.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/FvRzm2lm2Wc/hqdefault.jpg",
+      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxdxbrm2mk2g",
@@ -565,17 +576,6 @@
       "publishedAt": "2026-10-05T15:33:13.909Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreifs2fkazuaxyxcjilpkg7ly36erpx3ys32j2rfchk6fvf2kgxhxmq",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:5M93tATFFLM",
-      "title": "Huge from Rory  #rugby #edinburghrugby #higlights #sports #urc #score #try #clutch",
-      "author": "Edinburgh Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=5M93tATFFLM",
-      "publishedAt": "2026-10-05T14:00:29.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/5M93tATFFLM/hqdefault.jpg",
-      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
       "type": "bluesky",
