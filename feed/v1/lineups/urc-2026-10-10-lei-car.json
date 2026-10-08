@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-10-08T15:06:09+01:00",
+  "updated_at": "2026-10-08T16:47:50+01:00",
   "match": {
     "match_id": "urc-2026-10-10-lei-car",
     "external_ids": {
@@ -65,7 +65,7 @@
         },
         {
           "jersey": 3,
-          "name": "Tadgh Furlong",
+          "name": "Tadhg Furlong",
           "position_label": "TH Prop",
           "is_captain": false,
           "is_starter": true,
@@ -443,7 +443,7 @@
     {
       "source_name": "leinster_official",
       "url": "https://www.leinsterrugby.ie/2026/10/08/cullen-rings-in-the-changes-for-laya-arena-homecoming-clash-with-cardiff/",
-      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "fetched_at": "2026-10-08T16:47:50+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "leinster_official",
       "url": "https://leinster2023-wpapi.leinster.soticclient.net/wp-json/wp/v2/posts?search=team%20named&per_page=8",
-      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "fetched_at": "2026-10-08T16:47:50+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": false,
@@ -467,7 +467,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292607%5D%7D",
-      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "fetched_at": "2026-10-08T16:47:50+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": false,
@@ -480,49 +480,12 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26746/urc-2026-2027/leinster-cardiff",
-      "fetched_at": "2026-10-08T15:05:58+01:00",
+      "fetched_at": "2026-10-08T16:47:50+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
       "role": "corroboration",
       "side": "home",
-      "source_tier": "secondary"
-    },
-    {
-      "source_name": "urc_official",
-      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292607%5D%7D",
-      "fetched_at": "2026-10-08T15:05:58+01:00",
-      "content_type": "other",
-      "http_status": 200,
-      "is_primary": true,
-      "role": "primary_sheet",
-      "side": "away",
-      "published_at": null,
-      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-10T18:45:00.000Z",
-      "source_tier": "official"
-    },
-    {
-      "source_name": "cardiff_official",
-      "url": "https://www.cardiffrugby.wales/news/cardiff-change-seven-for-leinster-showdown/",
-      "fetched_at": "2026-10-08T15:05:58+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away",
-      "published_at": "2026-10-08T13:58:00+01:00",
-      "published_at_source": "meta_published_time",
-      "source_tier": "official"
-    },
-    {
-      "source_name": "all_rugby",
-      "url": "https://all.rugby/match/26746/urc-2026-2027/leinster-cardiff",
-      "fetched_at": "2026-10-08T15:05:58+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away",
       "source_tier": "secondary"
     },
     {
@@ -537,6 +500,43 @@
       "published_at": "2026-10-08T14:00:33+01:00",
       "published_at_source": "x_api_created_at",
       "source_tier": "official"
+    },
+    {
+      "source_name": "urc_official",
+      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292607%5D%7D",
+      "fetched_at": "2026-10-08T16:47:50+01:00",
+      "content_type": "other",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-10T18:45:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "cardiff_official",
+      "url": "https://www.cardiffrugby.wales/news/cardiff-change-seven-for-leinster-showdown/",
+      "fetched_at": "2026-10-08T16:47:50+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "published_at": "2026-10-08T13:58:00+01:00",
+      "published_at_source": "meta_published_time",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26746/urc-2026-2027/leinster-cardiff",
+      "fetched_at": "2026-10-08T16:47:50+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "source_tier": "secondary"
     },
     {
       "source_name": "cardiff_x_official",
@@ -560,10 +560,10 @@
     "score": 0,
     "reasons": [
       "home: complete_1_to_23 from leinster_official (official); urc_official 23/23 jerseys agree; all_rugby 23/23 jerseys agree",
-      "away: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 17/23 jerseys agree (differs at #1,#3,#6,#7,#17,#18)",
+      "away: complete_1_to_23 from urc_official (official); all_rugby 17/23 jerseys agree (differs at #1,#3,#6,#7,#17,#18)",
       "home: X cross-check https://x.com/leinsterrugby/status/2108180751158046782 (posted 2026-10-08T14:00:33+01:00) — graphic viewed with Read 2026-10-08T15:21:01+01:00 (yes): Leinster graphic, numbered 1–23 by surname/initial (e.g. 4 J. McCarthy, 11 J. O'Brien); all 23 consistent with the file by eye; 2 Sheehan (C); machine-certain: 0/23 agree, 0 disagree, 23 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 0); captain on X #2 (agree)",
       "away: X cross-check https://x.com/Cardiff_Rugby/status/2108181028418339146 (posted 2026-10-08T14:01:39+01:00) — graphic viewed with Read 2026-10-08T15:21:02+01:00 (yes): Cardiff: image 1 is a portrait with no names; image 2 XV numbered 01–15, all match; replacements surnames only, UNNUMBERED, same order as file 16–23 (graphic Wainright = file Wainwright); 2 Liam Belcher (C); machine-certain: 0/23 agree, 0 disagree, 23 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 0); captain on X #2 (agree)"
     ]
   },
-  "notes": "Ingest poll 2026-10-08T15:05:58+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-08T16:47:50+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
