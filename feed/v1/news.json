@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-08T13:07:25+01:00",
+  "generatedAt": "2026-10-08T14:07:29+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxejgd7wyk2v",
+      "text": "🚨 TEAM ANNOUNCEMENTS 🚨\nHere are the Glasgow and Edinburgh sides for round three of the URC this weekend!",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxejgd7wyk2v",
+      "publishedAt": "2026-10-08T13:02:37.437Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifpuxjfk7nayklaexta6mccgeng2haytvc35wmg6tzofcg6bstwbq",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxejdbpiis2k",
+      "text": "Cyhoeddiad Tîm | Team Announcement 📢\nWe're back in Wales and ready for our first Welsh derby of the season vs Dragons 🐉\n👊 Debut for Marika Koroibete\n©️ Sam Parry leads the side\n🏉 Tom Rogers starts at fullback\n📰 ospreys.info/4rVsP2i",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxejdbpiis2k",
+      "publishedAt": "2026-10-08T13:00:54.898Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifvxaizqytdigtcqw56rmmczila75lpmszzxcvc4fvvqcybzzbmda",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxejcnne2r23",
+      "text": "Here is the team to face Cardiff for our first fixture of the 26/27 season at Laya Arena!\n🎟️ limited tickets still available at https://bit.ly/3UsT8jJ",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxejcnne2r23",
+      "publishedAt": "2026-10-08T13:00:34.030Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidz4tccijpwfkza4bh4w4fy3m2wyozmvbjnlzjo55sez55oij5n6m",
+      "source": "leinsterrugby.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxefzx5w7n26",
@@ -438,18 +474,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxbbirgdbf2g",
-      "text": "Edinburgh Rugby assistant coach Michael Hodge has likened Freddy Douglas to an Australian rugby legend for his breakdown work.\n🔗 shorturl.at/sF77Q",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxbbirgdbf2g",
-      "publishedAt": "2026-10-07T06:02:49.585Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidcuvelhkgxoozbpo4j34s2swjnsezelx53aapvfp7lythpo6bvhq",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxa45ctqgs2x",
       "text": "Training back at home for Swansea RFC 🤍\n#OurBloodIsBlack",
       "author": "Ospreys Rugby",
@@ -494,18 +518,6 @@
       "publishedAt": "2026-10-06T14:49:28.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/MTKRan8tT6g/hqdefault.jpg",
       "source": "UC7991AZNku42o3Y36kUZOJA"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mx7nk3mgt22k",
-      "text": "Rugby Returns to St Helen’s This Saturday as Opening Schedule Is Updated 🏉\nGower College and Swansea University games scheduled for Wednesday 7 October, along with the Dewar Shield fixture scheduled for Friday 9 October, will now be played at alternative venues. (1/3) 🧵",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mx7nk3mgt22k",
-      "publishedAt": "2026-10-06T14:32:59.940Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreiesnf466ywm3eezrgvekuhocbaluz6ujvr222fphlukdxbqqtyxym",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
@@ -575,18 +587,6 @@
       "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mx5agusgmx2v",
       "publishedAt": "2026-10-05T15:33:13.909Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreifs2fkazuaxyxcjilpkg7ly36erpx3ys32j2rfchk6fvf2kgxhxmq",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mx4w7iixdu2q",
-      "text": "🆕 Jamison Gibson-Park has returned to training while Max Deegan and Harry Byrne will be further assessed this week ahead of Saturday's clash with Cardiff at Laya Arena\n📰 Read the full injury report: https://bit.ly/4j4jL8X\n#LEIvCAR",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mx4w7iixdu2q",
-      "publishedAt": "2026-10-05T12:30:08.718Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiecgq4beez2zdybuold4elfizbmrawvls3ggdz62lpdzhfcgz55k4",
       "source": "leinsterrugby.bsky.social"
     },
     {
