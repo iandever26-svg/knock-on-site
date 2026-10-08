@@ -1,8 +1,68 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-08T08:07:08+01:00",
+  "generatedAt": "2026-10-08T09:07:08+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxdxbrm2mk2g",
+      "text": "@justindeegan.bsky.social on South America's 2035 World Cup bid",
+      "author": "The Leinster Playbook",
+      "handle": "lplaybook.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
+      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mxdxbrm2mk2g",
+      "publishedAt": "2026-10-08T07:37:57.390Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreibccjh4tgxsy4n4r3iv4rgo4sgnu23m2nkbbcjtnlrlauqyvqv2km",
+      "source": "lplaybook.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxdx5lvpfd22",
+      "text": "CEO appointment looks like a step in the right direction for Munster (✍️@rugby_ie) #Rugby #MunsterRugby #CEOAppointment",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxdx5lvpfd22",
+      "publishedAt": "2026-10-08T07:35:37.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidi22jpqv45qlvkuflkmg2ijlpwcpoeh3kiur26djg2jtvmwkw23u",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxdx3i2wkc2i",
+      "text": "@irishwomens.bsky.social speaks to Irish international Robyn O'Connor on her meteoric rise",
+      "author": "The Leinster Playbook",
+      "handle": "lplaybook.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
+      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mxdx3i2wkc2i",
+      "publishedAt": "2026-10-08T07:34:26.054Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreidqehm6xgflbx4bjm7a7hev6fywkxcmcbgywaw7n4r543n2zpwmhm",
+      "source": "lplaybook.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxdwr27tci2g",
+      "text": "Leinster’s Next Generation & the Changing of the Guard (📹@HarpinOnRugby) #LeinsterRugby #NextGeneration #RugbyAcademy",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxdwr27tci2g",
+      "publishedAt": "2026-10-08T07:28:35.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicuxjive4er6zw27atydodfm7tqwbdp4xcpw5oc2w5jz7zzwmzolm",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxdwnmgejs2r",
+      "text": "All Blacks coach Rennie says Wallabies exit 'part of the game' ahead of Bledisloe Cup (✍️@rugby_ie) #AllBlacks #BledisloeCup #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxdwnmgejs2r",
+      "publishedAt": "2026-10-08T07:26:40.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib3scjgcixhtt66tjnk7gvhazhtjq7i3fy77i7kaxw65kaeyzfc7m",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxdv4zklsa2t",
@@ -37,18 +97,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxdrkz4xze24",
       "publishedAt": "2026-10-08T05:55:44.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihw6bqmmq7fbpicex3me5fsdjkdxgo5x4bl5ichdoywvvct32euwm",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxd5y2gchz26",
-      "text": "'I've connected with Peter O'Mahony... I've spoken to Tadhg Beirne' (✍️@rugby_ie) #MunsterRugby #RugbyNews #AvanLee",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxd5y2gchz26",
-      "publishedAt": "2026-10-08T00:05:07.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreif2snafxmpnn7xqpfiaeeo22v3l6z2dykf4hyl3gkx7ci3tcomtbu",
       "source": "rugbynewsplus.bsky.social"
     },
     {
@@ -89,18 +137,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxcn4lbjmf2p",
-      "text": "Lenihan hopeful Lee can turn Munster's fortunes around (✍️@RTErugby) #MunsterRugby #RugbyUnion #Sport",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxcn4lbjmf2p",
-      "publishedAt": "2026-10-07T19:03:25.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreier37t2lj6hla3p33pcm5wnwyucpa5wkqz4aefn6ky2j6c4qeijlm",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxckc3qijs2k",
       "text": "It’s another academy head-to-head tonight as Sonny McCabe and Gabe Williams face off for Uni and Met, respectively.\n#CardiffClash #BUCSSuperRugby",
       "author": "Cardiff Rugby Life",
@@ -110,18 +146,6 @@
       "publishedAt": "2026-10-07T18:12:49.638Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreiegubdw4tdr6aai2pauqan4h7mnzoex32t2ovni6uuqzrydz4xyxm",
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxck2azq5c2z",
-      "text": "543 : Sharks, Starlets & Succession [full podcast audio only] (📹@HarpinOnRugby) #RugbyPodcast #SharksVsLeinster #WeekendRoundup",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxck2azq5c2z",
-      "publishedAt": "2026-10-07T18:08:26.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreic5eo72qklib3qb43tsxrtyqm7dojhhcjf3npo6rxasanvkyenq4a",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -150,7 +174,7 @@
     {
       "type": "youtube",
       "id": "yt:HHLA4TkjWF8",
-      "title": "French Lesson 2 | True or Faux With Simon Zebo 👨‍🏫🏉",
+      "title": "French Lesson 3 | True or Faux With Simon Zebo 👨‍🏫🏉",
       "author": "Munster Rugby",
       "avatar": null,
       "url": "https://www.youtube.com/watch?v=HHLA4TkjWF8",
@@ -683,30 +707,6 @@
       "publishedAt": "2026-10-02T19:33:07.734Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:76m24vhrsckzqfi33uyt6snv/bafkreia3exvuvzdlyfa4hdvekhr5rlget3o2j4p3ghdcelnvc5i7zyvbky",
       "source": "dragonsrfc.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:mqdmx5o74xrnl4jwd7eroh35/app.bsky.feed.post/3mwvkyhupns2v",
-      "text": "\"commencing phase one in early 2029, Balfour Norquoy is pleased to announce a development of luxury 2- and 3-bedroom townhouses\"",
-      "author": "Scottish Rugby Podcast",
-      "handle": "scotrugbypod.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mqdmx5o74xrnl4jwd7eroh35/bafkreifbllydjgwnuwniseg4xdzqgul2n6mvpnva2ybemkowieg7tp4h7u",
-      "url": "https://bsky.app/profile/scotrugbypod.bsky.social/post/3mwvkyhupns2v",
-      "publishedAt": "2026-10-02T14:20:43.961Z",
-      "thumbnail": null,
-      "source": "scotrugbypod.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3mwv775qsc2xl",
-      "text": "Have wanted to write this piece for awhile about the Boks' record and how some critics and fans have started to lose perspective.\nDespite all they've achieved, Boks always seems to be 1 loss away from being denounced as a boring, old or overrated team.\nwww.dailymaverick.co.za/article/2026...",
-      "author": "Jon Cardinelli",
-      "handle": "joncardinelli.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wizadpqsar4meknsnx7s3rms/bafkreicmmiirqk2ft7xymnjwhs66pxlm4ttg4u2v7vqg26qpvuchxm5nri",
-      "url": "https://bsky.app/profile/joncardinelli.bsky.social/post/3mwv775qsc2xl",
-      "publishedAt": "2026-10-02T10:49:43.328Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wizadpqsar4meknsnx7s3rms/bafkreidddzqwjibgmsttihrjpiv6rujdpkflcfpubfokheoc7bpza4qwkm",
-      "source": "joncardinelli.bsky.social"
     }
   ],
   "sources": [
