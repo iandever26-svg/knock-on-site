@@ -1,8 +1,68 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-08T15:07:15+01:00",
+  "generatedAt": "2026-10-08T16:09:51+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxepxiekc22k",
+      "text": "Offloading brilliance and 2️⃣set-piece beauties in SA🤝\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxepxiekc22k",
+      "publishedAt": "2026-10-08T14:59:35.709Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreiavrju3bepedayblpifbn5w6ezh7g5nfdzngejxwcuabaufdxpj7e/thumbnail.jpg",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxept6iijj2w",
+      "text": "Edinburgh Rugby head coach Sean Everitt is hopeful of keeping two of the club’s brightest young talents despite reported interest from south of the border\n🔗 shorturl.at/FcY0g",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxept6iijj2w",
+      "publishedAt": "2026-10-08T14:57:10.974Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreichhavdrxvtbq62ueofqwqbu7jmpjahlhr5cjibdfmfpxkoj6tmre",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxeocusk2w2b",
+      "text": "Are you joining us for our homecoming this Saturday at Laya Arena?\n🎟️ Limited tickets are still available at https://bit.ly/3UsT8jJ",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxeocusk2w2b",
+      "publishedAt": "2026-10-08T14:30:10.255Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreib56l6tm36eq3rlvush2t3suqnc76ottdprsvlw5l3rkroooe2ki4",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxenkvmohj2x",
+      "text": "Our matchday squad to face @GlasgowWarriors tomorrow at Scotstoun:\n✅ Bundee's back\n✅ All 7️⃣ players on Ireland's summer tour in starting XV\n✅ That back three 🤤\n🔗 https://www.connachtrugby.ie/news/team-announcement-glasgow-warriors-v-connacht/bp3816/",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxenkvmohj2x",
+      "publishedAt": "2026-10-08T14:16:45.610Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreihdyn2e2pdgk77gjawtm2ghnvklhlwvwo6sytrpfzwe4cqn4pstg4",
+      "source": "connachtrugbai.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxen47kgzw2g",
+      "text": "Charlie Shiel has secured a move to France following his exit from Edinburgh Rugby in the summer\n🔗 shorturl.at/T7M08",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxen47kgzw2g",
+      "publishedAt": "2026-10-08T14:08:32.867Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihn7cegogzcfuzco2nk34xo5fmv4rnses5qxjb2onzlvs2xc5fmtu",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "youtube",
       "id": "yt:GXZhuXeVo2U",
@@ -241,18 +301,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxds266kka2y",
-      "text": "The ‘time flies’ idiom is certainly applicable to Scotland’s hookers, with the emergence of a hugely talented crop of Test options\nWe look at the contenders to make Gregor Townsend's squad for the Nations Championship next month\n🔗  shorturl.at/zD27p",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxds266kka2y",
-      "publishedAt": "2026-10-08T06:04:12.575Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigikhihvbtxb6bimjzf4eiqom3mb3mwuekgvxoe6ykxf2bux7nhru",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxczy3vit22p",
       "text": "Two new pieces coming tomorrow morning on The Leinster Playbook from @irishwomens.bsky.social and @justindeegan.bsky.social\nshare.google/fL7AQ2U6W6fr...",
       "author": "The Leinster Playbook",
@@ -274,18 +322,6 @@
       "publishedAt": "2026-10-07T20:01:00.604Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreiatx6qoxn6qecdjvxr3e75lo5mjcotvauaashxji4bcp67bhvkp3a/thumbnail.jpg",
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxcnl7ioiq2n",
-      "text": "Callum Hunter-Hill remains desperate to one day fulfil his international ambitions\nBut he's keeping his feet firmly on the ground and says Edinburgh must do the same when they visit Parma this weekend\n🔗 shorturl.at/wCEDI",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxcnl7ioiq2n",
-      "publishedAt": "2026-10-07T19:11:36.646Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidgz6sknjxeyney4cgkbrdl7gztwsr6pbmrqymszckmt5a5ioospi",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -497,18 +533,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxa45ctqgs2x",
-      "text": "Training back at home for Swansea RFC 🤍\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxa45ctqgs2x",
-      "publishedAt": "2026-10-06T18:54:17.445Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreicwxcmfb5hf5erbxw63v2mt2qq6u6dm7iz3rhyn3lar2ue37t2g3m",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mx7vrpbpty2i",
       "text": "We're finally back home this Saturday and there's loads to look forward to before the game even kicks off! 🙌\nEnjoy a pint at the new Fanzone or welcome the team as they make their way in. Just make sure you're in your seat for the Homecoming  Ceremony! ✨\nSee what's on 👉 https://bit.ly/4yAEplK",
       "author": "Leinster Rugby",
@@ -518,18 +542,6 @@
       "publishedAt": "2026-10-06T17:00:25.272Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiep3lhallnpk4lbb3rujuj77ruve7xcalwuoyel5dnva3xzdlikiy",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mx7u24ktyj2j",
-      "text": "Shane Jennings making sure he doesn't go hungry 📹\nWatch more from what went on at Connacht Rugby today 📺 https://youtube.com/watch?v=wv2D72fQtB0\n#OneConnacht",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mx7u24ktyj2j",
-      "publishedAt": "2026-10-06T16:29:19.964Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreiglnrpfgjlfb5mh6cmqu75szeadaqeehxqpjg3layidp5ukeox4mq/thumbnail.jpg",
-      "source": "connachtrugbai.bsky.social"
     },
     {
       "type": "youtube",
@@ -599,18 +611,6 @@
       "publishedAt": "2026-10-06T09:19:46.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/iSdaazlamf0/hqdefault.jpg",
       "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mx5agusgmx2v",
-      "text": "As we get ready to take on Cardiff at Laya Arena this Saturday, let's look back on our first game at the RDS 21 years ago 🏉\nHow many players can you name from the Leinster team who beat Cardiff that fateful October day in 2005? 🤔\nTry the quiz here 👉 https://bit.ly/4y4B8KB",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mx5agusgmx2v",
-      "publishedAt": "2026-10-05T15:33:13.909Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreifs2fkazuaxyxcjilpkg7ly36erpx3ys32j2rfchk6fvf2kgxhxmq",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "bluesky",
@@ -713,26 +713,30 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": true,
-      "items": 6
+      "ok": false,
+      "error": "fetch failed",
+      "kept": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "fetch failed",
+      "kept": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "fetch failed",
+      "kept": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "fetch failed",
+      "kept": 0
     },
     {
       "kind": "youtube",
