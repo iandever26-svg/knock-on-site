@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-08T17:07:04+01:00",
+  "generatedAt": "2026-10-08T19:07:17+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxf2dufde22k",
+      "text": "Swansea RFC need YOU for the first games back at St Helen's 🫵\nThese games are crucial as we get St Helen's up and running and build towards Ospreys  vs Dragons on October 24th 🖤🤍\nThis weekend is your first chance to see a revamped St Helen's in a big Super Rygbi Cymru clash vs Ebbw Vale (1/2)🧵",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxf2dufde22k",
+      "publishedAt": "2026-10-08T18:05:28.152Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidy6ggmfncpsrjrp3gvlqezvbyzf5l2nnk3dxnjxgdo3cjhhatway",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxf25qokmq2z",
+      "text": "Franco Smith dismissed any suggestion that George Horne been punished for his ill-discipline against Ulster\nHe's on the bench for the visit of Connacht to Scotstoun\n🔗 shorturl.at/elM9Z",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxf25qokmq2z",
+      "publishedAt": "2026-10-08T18:02:02.580Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreib2mwhsps2x7yaoaubpb2xypbym5wquvan5m5txgsngntht347bb4",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxeyaqgzck2g",
+      "text": "Pat McCarry and some nuggets of nostalgia from the old RDS",
+      "author": "The Leinster Playbook",
+      "handle": "lplaybook.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
+      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mxeyaqgzck2g",
+      "publishedAt": "2026-10-08T17:27:56.071Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreid2bx4asfbngpcjmzggclumpmerqywd3xv7arowmavpaluib7fw4q",
+      "source": "lplaybook.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxetocsuqo2c",
@@ -227,18 +263,6 @@
       "publishedAt": "2026-10-08T13:14:54.890Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreiczaq5kjubv3o7vdudqcv2hrjxuufq4de2334c2frrpit5ycei72m",
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxejgd7wyk2v",
-      "text": "🚨 TEAM ANNOUNCEMENTS 🚨\nHere are the Glasgow and Edinburgh sides for round three of the URC this weekend!",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxejgd7wyk2v",
-      "publishedAt": "2026-10-08T13:02:37.437Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifpuxjfk7nayklaexta6mccgeng2haytvc35wmg6tzofcg6bstwbq",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -486,18 +510,6 @@
       "source": "leinsterrugby.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxbnm53yp22k",
-      "text": "Every day's a school day with Ryan Smith 🎓\nGet your Macron away kit now 👉 ospreys.info/shoponline\nEuro kit dropping next week👀\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxbnm53yp22k",
-      "publishedAt": "2026-10-07T09:39:28.088Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreigbvzxd6lwzsu4mpe22bujjm564zfycrvyt7wbzlucnapjt6h6xt4/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:wnwPJUeNF0w",
       "title": "#SCAvBEN | Cannone N.: \"Contro gli Scarlets per proporre la migliore versione di noi stessi\"",
@@ -695,18 +707,6 @@
       "publishedAt": "2026-10-03T18:05:35.874Z",
       "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:mqdmx5o74xrnl4jwd7eroh35/app.bsky.feed.post/3mwydxbtl3k2t",
-      "text": "Big Staff deciding to back the fact that he was twice the size of the defender instead of giving it to one of the TWO faster guys either side of him butchered a stuck on try there.\nYou never go Full Duhan",
-      "author": "Scottish Rugby Podcast",
-      "handle": "scotrugbypod.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mqdmx5o74xrnl4jwd7eroh35/bafkreifbllydjgwnuwniseg4xdzqgul2n6mvpnva2ybemkowieg7tp4h7u",
-      "url": "https://bsky.app/profile/scotrugbypod.bsky.social/post/3mwydxbtl3k2t",
-      "publishedAt": "2026-10-03T16:52:47.101Z",
-      "thumbnail": null,
-      "source": "scotrugbypod.bsky.social"
     }
   ],
   "sources": [
