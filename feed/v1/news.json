@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-08T10:07:14+01:00",
+  "generatedAt": "2026-10-08T11:07:21+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxe6jbsqgw2a",
+      "text": "On our way to Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿\nWith thanks to our partners @citylinkireland 🚌\n#OneConnacht",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxe6jbsqgw2a",
+      "publishedAt": "2026-10-08T09:47:25.159Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreifvdm5btvucgmfooqn5g5mptk7mhn6rxg57wpbn4xbxvmagmyefmq/thumbnail.jpg",
+      "source": "connachtrugbai.bsky.social"
+    },
     {
       "type": "youtube",
       "id": "yt:FvRzm2lm2Wc",
@@ -460,18 +472,6 @@
       "publishedAt": "2026-10-06T16:15:10.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/f4cRnNQ6Bag/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mx7ozw5amq2s",
-      "text": "The debut match winner from Friday 🟢🦅\n#OneConnacht | @KiaRenmore | #MovementThatInspires",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mx7ozw5amq2s",
-      "publishedAt": "2026-10-06T14:59:44.519Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreieqsd2rqpgqnksbxd5lhomnb5oakwoveb2mopghfdehmktfufxrlu",
-      "source": "connachtrugbai.bsky.social"
     },
     {
       "type": "youtube",
