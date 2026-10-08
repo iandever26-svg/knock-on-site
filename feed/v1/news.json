@@ -1,8 +1,56 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-07T21:07:03+01:00",
+  "generatedAt": "2026-10-08T07:54:03+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxds266kka2y",
+      "text": "The ‘time flies’ idiom is certainly applicable to Scotland’s hookers, with the emergence of a hugely talented crop of Test options\nWe look at the contenders to make Gregor Townsend's squad for the Nations Championship next month\n🔗  shorturl.at/zD27p",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxds266kka2y",
+      "publishedAt": "2026-10-08T06:04:12.575Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigikhihvbtxb6bimjzf4eiqom3mb3mwuekgvxoe6ykxf2bux7nhru",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxdrkz4xze24",
+      "text": "New Munster CEO keen for O'Mahony input (✍️@RTErugby) #MunsterRugby #Rugby #PeterOMahony",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxdrkz4xze24",
+      "publishedAt": "2026-10-08T05:55:44.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihw6bqmmq7fbpicex3me5fsdjkdxgo5x4bl5ichdoywvvct32euwm",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxd5y2gchz26",
+      "text": "'I've connected with Peter O'Mahony... I've spoken to Tadhg Beirne' (✍️@rugby_ie) #MunsterRugby #RugbyNews #AvanLee",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxd5y2gchz26",
+      "publishedAt": "2026-10-08T00:05:07.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreif2snafxmpnn7xqpfiaeeo22v3l6z2dykf4hyl3gkx7ci3tcomtbu",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxczy3vit22p",
+      "text": "Two new pieces coming tomorrow morning on The Leinster Playbook from @irishwomens.bsky.social and @justindeegan.bsky.social\nshare.google/fL7AQ2U6W6fr...",
+      "author": "The Leinster Playbook",
+      "handle": "lplaybook.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
+      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mxczy3vit22p",
+      "publishedAt": "2026-10-07T22:53:34.095Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreifmeh3qbohiotidqt2q2wx2tjkhrggqwpcjosikf3nnsrsrpsfeka",
+      "source": "lplaybook.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxcqdjyzk22j",
@@ -111,18 +159,6 @@
       "source": "UC7991AZNku42o3Y36kUZOJA"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxccddr2562r",
-      "text": "Zebre Parma set off on the counter 🦓 (📹@URCOfficial) #ZebreParma #CounterAttack #RugbyHighlights",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxccddr2562r",
-      "publishedAt": "2026-10-07T15:50:21.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicsvyxxtt2vigivsysdvc4zcb4sayi54c4vmatqiky7xmv2kflkai",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:pgjuw3Hm0qY",
       "title": "Zebre Parma set off on the counter 🦓",
@@ -132,18 +168,6 @@
       "publishedAt": "2026-10-07T15:35:04.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/pgjuw3Hm0qY/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxc7t62csk2z",
-      "text": "From pinpoint 50:22s to outrageous try assists 🤩 (📹@URCOfficial) #Rugby #URC #GilbertKOTM",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxc7t62csk2z",
-      "publishedAt": "2026-10-07T15:05:31.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreid4zetz2gow2e2ahafzncc3m2v344t2x32jpfet74ferrmz2ocvvq",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -415,18 +439,6 @@
       "source": "connachtrugbai.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mx7oini5tt2y",
-      "text": "Ten young Scottish rugby players have received bursaries to support their development during the 2026/27 season.\n🔗 shorturl.at/P9C6c",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mx7oini5tt2y",
-      "publishedAt": "2026-10-06T14:50:05.168Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidcy4bgtmc5jliylewxpfmjcc3mstvwsdnih4dl7qpfs5ez6nyosi",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:MTKRan8tT6g",
       "title": "Highlights | Munster Rugby v Vodacom Bulls",
@@ -695,50 +707,43 @@
       "publishedAt": "2026-10-02T10:49:43.328Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wizadpqsar4meknsnx7s3rms/bafkreidddzqwjibgmsttihrjpiv6rujdpkflcfpubfokheoc7bpza4qwkm",
       "source": "joncardinelli.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mwthzcl5ns2n",
-      "text": "New titles this week, obviously.\nSaracens discussion here: youtube.com/watch?v=ZB7G...\nPodcast: pod.link/1837150363/e...",
-      "author": "Ben Coles",
-      "handle": "bencoles.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihnbnflj5pmzn2vw5tula7bf7hay7nsutvg5e7suz6y2bnoob5p2a",
-      "url": "https://bsky.app/profile/bencoles.bsky.social/post/3mwthzcl5ns2n",
-      "publishedAt": "2026-10-01T18:22:11.253Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreiaamk7svwe6e6do5ybnqxdwcwmuldncyr45s5zisi73crecxebt3q",
-      "source": "bencoles.bsky.social"
     }
   ],
   "sources": [
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": true,
-      "items": 6
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 0
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 3
     },
     {
       "kind": "bluesky",
