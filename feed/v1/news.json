@@ -1,8 +1,90 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-08T16:09:51+01:00",
+  "generatedAt": "2026-10-08T17:07:04+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxetocsuqo2c",
+      "text": "Willemse back gliding on Saturday 👊⚡️ (📹@URCOfficial) #Willemse #Gliding #Adventure",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxetocsuqo2c",
+      "publishedAt": "2026-10-08T16:06:02.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihor7emnb6oi75gx2rh324vv72qjgc3gs5pzb3eka5nk7czrenzfe",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxetiiidks2l",
+      "text": "🚨 GOING LIVE 🚨\nHead to our YouTube for the latest Scotland Rugby News podcast, live at 5.15pm\n👉  www.youtube.com/@ScotRugbyNews",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxetiiidks2l",
+      "publishedAt": "2026-10-08T16:02:47.487Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibzffux4gniflwvqor7hqmh6jp4mzmiblmogjzgheo3xmjpqzspde",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:LjatnW2bBi0",
+      "title": "Willemse back gliding on Saturday 👊⚡️",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=LjatnW2bBi0",
+      "publishedAt": "2026-10-08T16:00:12.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/LjatnW2bBi0/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxeskudk3w2x",
+      "text": "Arrived in Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿\n#OneConnacht",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxeskudk3w2x",
+      "publishedAt": "2026-10-08T15:46:12.964Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreifk27dwbz7knfyxodmpxbnlumlcx6ozjtbxwx74qjb37prgtesyzq/thumbnail.jpg",
+      "source": "connachtrugbai.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxequvqmyk2w",
+      "text": "Some unfortunate injury news for Cardiff this week with Scott Sio (facial fracture), James Botham (hand) and Ben Thomas (calf) all being ruled out.\nThomas in particular set for a few weeks on the sidelines, Sio has had successful surgery and CVZ is confident he'll be back soon.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxequvqmyk2w",
+      "publishedAt": "2026-10-08T15:16:02.819Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxeqq2mrpm2v",
+      "text": "A Heated Rivalry | Sharks v Stormers | Round 11 2026 (📹@URCOfficial) #Rugby #URC #SharksVsStormers",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxeqq2mrpm2v",
+      "publishedAt": "2026-10-08T15:13:20.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifxpeqa6ftcihjeh6hosuzmyknwgd6xk25dkxxdkwlzso4iz372ni",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:CIvZNJG6EPs",
+      "title": "A Heated Rivalry | Sharks v Stormers | Round 11 2026",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=CIvZNJG6EPs",
+      "publishedAt": "2026-10-08T15:00:32.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/CIvZNJG6EPs/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxepxiekc22k",
@@ -124,18 +206,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxeknweluj2c",
-      "text": "Bundee Aki set to make first Connacht start of the season in trip to Glasgow (✍️@rugby_ie) #BundeeAki #Connacht #GlasgowWarriors",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxeknweluj2c",
-      "publishedAt": "2026-10-08T13:24:46.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib7gzbpcwzmokbiq5c26alnr5je2y2v6xnd542p4wnjnhxf4lgcou",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxek7m6p2d2w",
       "text": "Edinburgh Rugby head coach Sean Everitt is hopeful of keeping two of the club’s brightest young talents despite reported interest from south of the border\nThe Edinburgh coach also discussed their recent Zebre record as Ewan Ashman returns for their trip to Parma\n🔗 shorturl.at/FcY0g",
       "author": "Scotland Rugby News",
@@ -195,18 +265,6 @@
       "source": "leinsterrugby.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxefzx5w7n26",
-      "text": "Sam Prendergast to Andrew Osborne 🤝 (📹@URCOfficial) #SamPrendergast #AndrewOsborne #Networking",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxefzx5w7n26",
-      "publishedAt": "2026-10-08T12:02:00.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihnvwj6nvomqn5l52yegte5v55i26ace23gapjxho3qd4wlyzuryu",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:sBZPnP20osA",
       "title": "Sam Prendergast to Andrew Osborne 🤝",
@@ -228,18 +286,6 @@
       "publishedAt": "2026-10-08T11:05:23.701Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreihwqlnmmfuxoqef3kz2ban5x2vl74jkxi3gib4mnc37ckw5qjwh6q",
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxeaetp2df2h",
-      "text": "Glasgow Warriors and Edinburgh Rugby have learned their fixture schedules for the 2026/27 Celtic Challenge season, with two Scottish derbies set to headline the campaign\nFull details 👉 shorturl.at/TrCwZ",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxeaetp2df2h",
-      "publishedAt": "2026-10-08T10:20:43.759Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihklaehx6hmrxjhewrw56ajdugt4dlcvosj5zteah2tq7paneyqw4",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "youtube",
@@ -405,18 +451,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxc57whvlk26",
-      "text": "Ebbw score and Cardiff go down to 14 right before half-time with the score 7-12, the hosts looking ride that momentum early in the second half and Tom Cottle produces this charge down and try.\nHuge moment in the game.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxc57whvlk26",
-      "publishedAt": "2026-10-07T14:18:58.367Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreicrdjbextzbxtjwxt625bah2lyo4ezumj7crduaa4tl4b5vuznsau/thumbnail.jpg",
-      "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxc2mtoq5j26",
       "text": "Abhaile arís 🏡 Home again for @URCOfficial action in two weeks.\nTicéidí ar díol 🎟️ https://connachtrugby.ie/tickets/buy-tickets/200/\n#OneConnacht",
       "author": "Connacht Rugby",
@@ -452,28 +486,6 @@
       "source": "leinsterrugby.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:lMVwFeOgOf8",
-      "title": "Kyle Rowe has JET SHOES 💨",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=lMVwFeOgOf8",
-      "publishedAt": "2026-10-07T11:53:21.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/lMVwFeOgOf8/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:BYmNDVyBgaM",
-      "title": "A Hectic Finish To This Irish Derby | Ulster v Munster | Round 8 2024 Full Match",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=BYmNDVyBgaM",
-      "publishedAt": "2026-10-07T11:00:17.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/BYmNDVyBgaM/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxbnm53yp22k",
       "text": "Every day's a school day with Ryan Smith 🎓\nGet your Macron away kit now 👉 ospreys.info/shoponline\nEuro kit dropping next week👀\n#OurBloodIsBlack",
@@ -506,18 +518,6 @@
       "publishedAt": "2026-10-07T09:00:10.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/T8Hc9cpZijg/hqdefault.jpg",
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxbitwlosy2k",
-      "text": "Champions Cup action back at Dexcom Stadium 🌟\nLimited tickets available 🎟️ https://connachtrugby.ie/tickets/buy-tickets/200/\n#OneConnacht",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxbitwlosy2k",
-      "publishedAt": "2026-10-07T08:14:20.693Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreigotse7hdhpdopuo3p35ef5fbr3pyhvocjcci34lh3lhxxcel2l2m",
-      "source": "connachtrugbai.bsky.social"
     },
     {
       "type": "bluesky",
@@ -713,30 +713,26 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "fetch failed",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": false,
-      "error": "fetch failed",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": false,
-      "error": "fetch failed",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": false,
-      "error": "fetch failed",
-      "kept": 0
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
