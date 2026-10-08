@@ -1,5 +1,6 @@
 {
   "schema_version": "1.0.0",
+  "updated_at": "2026-10-08T15:38:22+01:00",
   "match": {
     "match_id": "urc-2026-10-10-bul-lio",
     "external_ids": {
@@ -336,7 +337,7 @@
         },
         {
           "jersey": 12,
-          "name": "Henco van Wyk",
+          "name": "Ethan Adams",
           "position_label": "Inside Centre",
           "is_captain": false,
           "is_starter": true,
@@ -344,7 +345,7 @@
         },
         {
           "jersey": 13,
-          "name": "Ethan Adams",
+          "name": "Henco van Wyk",
           "position_label": "Outside Centre",
           "is_captain": false,
           "is_starter": true,
@@ -400,16 +401,16 @@
         },
         {
           "jersey": 20,
-          "name": "Batho Hlekani",
-          "position_label": "Back row",
+          "name": "Siba Mahashe",
+          "position_label": "Scrum-half",
           "is_captain": false,
           "is_starter": false,
           "replacement_notes": null
         },
         {
           "jersey": 21,
-          "name": "Siba Mahashe",
-          "position_label": "Scrum-half",
+          "name": "Batho Hlekani",
+          "position_label": "Back row",
           "is_captain": false,
           "is_starter": false,
           "replacement_notes": null
@@ -435,7 +436,7 @@
       "missing_numbers": [],
       "captain_jersey": 8,
       "source_tier": "official",
-      "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292602; league shirt numbers 1–23; no captain marker in feed); diacritics restored on 2 name(s) from another source's spelling of the same name; captain flag from official X team post https://x.com/LionsRugbyCo/status/2108181040502333809 (graphic (viewed with Read): \"graphic #8 Francke Horn (C) — viewed 2026-10-08T15:20:56+01:00\")"
+      "source_format_notes": "knock-on override (Lions side only): official Lions team sheet on X https://x.com/LionsRugbyCo/status/2108181040502333809 — 12 Ethan Adams, 13 Henco van Wyk, 20 Siba Mahashe, 21 Batho Hlekani (unitedrugby.com feed had 12<->13 and 20<->21 swapped); other 19 players as WRS ingest (unitedrugby.com match 292602); captain #8 Francke Horn per WRS Data / club graphic. Club graphic also marks #10 Chris Smith as vice-captain; not recorded (schema has no vice-captain field)."
     }
   },
   "provenance": [
@@ -490,7 +491,7 @@
     {
       "source_name": "bulls_x_official",
       "url": "https://x.com/BlueBullsRugby/status/2108182410856731020",
-      "fetched_at": "2026-10-08T15:38:22+01:00",
+      "fetched_at": "2026-10-08T16:31:34+01:00",
       "content_type": "other",
       "http_status": null,
       "is_primary": false,
@@ -503,7 +504,7 @@
     {
       "source_name": "lions_x_official",
       "url": "https://x.com/LionsRugbyCo/status/2108181040502333809",
-      "fetched_at": "2026-10-08T15:38:22+01:00",
+      "fetched_at": "2026-10-08T16:31:34+01:00",
       "content_type": "other",
       "http_status": null,
       "is_primary": false,
@@ -511,6 +512,17 @@
       "side": "away",
       "published_at": "2026-10-08T14:01:42+01:00",
       "published_at_source": "x_api_created_at",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "lions_x_official",
+      "url": "https://x.com/LionsRugbyCo/status/2108181040502333809",
+      "fetched_at": "2026-10-08T16:34:29+01:00",
+      "content_type": "other",
+      "http_status": null,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
       "source_tier": "official"
     }
   ],
@@ -523,8 +535,8 @@
     "reasons": [
       "home: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 19/23 jerseys agree (differs at #1,#3,#4,#5)",
       "away: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 19/23 jerseys agree (differs at #1,#3,#12,#13)",
-      "home: X cross-check https://x.com/BlueBullsRugby/status/2108182410856731020 (posted 2026-10-08T14:07:09+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #7 (fill); graphic viewed with Read 2026-10-08T15:20:55+01:00: yes — Bulls matchday squad graphic, numbered 1–23; all 23 match by eye; 7 Hanro Liebenberg (C)",
-      "away: X cross-check https://x.com/LionsRugbyCo/status/2108181040502333809 (posted 2026-10-08T14:01:42+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #8 (fill); graphic viewed with Read 2026-10-08T15:20:56+01:00: yes — Lions team graphic, numbered 1–23; 19/23 match by eye. DIFFERS: graphic 12 Ethan Adams / 13 Henco van Wyk (file 12 Henco van Wyk / 13 Ethan Adams); graphic 20 Siba Mahashe / 21 Batho Hlekani (file 20 Batho Hlekani / 21 Siba Mahashe). 8 Francke Horn marked C (10 Chris Smith VC)"
+      "home: X cross-check https://x.com/BlueBullsRugby/status/2108182410856731020 (posted 2026-10-08T14:07:09+01:00) — graphic viewed with Read 2026-10-08T15:20:55+01:00 (yes): Bulls matchday squad graphic, numbered 1–23; all 23 match by eye; 7 Hanro Liebenberg (C); machine-certain: 9/23 agree, 0 disagree, 14 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 9); captain on X #7 (agree)",
+      "away: X cross-check https://x.com/LionsRugbyCo/status/2108181040502333809 (posted 2026-10-08T14:01:42+01:00) — graphic viewed with Read 2026-10-08T15:20:56+01:00 (yes): Lions team graphic, numbered 1–23; 19/23 match by eye. DIFFERS: graphic 12 Ethan Adams / 13 Henco van Wyk (file 12 Henco van Wyk / 13 Ethan Adams); graphic 20 Siba Mahashe / 21 Batho Hlekani (file 20 Batho Hlekani / 21 Siba Mahashe). 8 Francke Horn marked C (10 Chris Smith VC); machine-certain: 8/23 agree, 1 disagree, 14 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 9); DISAGREES #20 X Siba Mahashe ≠ file Batho Hlekani; captain on X #8 (agree)"
     ]
   },
   "notes": "Ingest poll 2026-10-08T15:06:24+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."

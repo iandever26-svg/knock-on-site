@@ -1,5 +1,6 @@
 {
   "schema_version": "1.0.0",
+  "updated_at": "2026-10-08T15:05:56+01:00",
   "match": {
     "match_id": "urc-2026-10-10-uls-mun",
     "external_ids": {
@@ -527,7 +528,7 @@
     {
       "source_name": "ulster_x_official",
       "url": "https://x.com/UlsterRugby/status/2108181118902038675",
-      "fetched_at": "2026-10-08T15:40:54+01:00",
+      "fetched_at": "2026-10-08T16:31:21+01:00",
       "content_type": "other",
       "http_status": null,
       "is_primary": false,
@@ -540,7 +541,7 @@
     {
       "source_name": "munster_x_official",
       "url": "https://x.com/Munsterrugby/status/2108184389981003838",
-      "fetched_at": "2026-10-08T15:40:54+01:00",
+      "fetched_at": "2026-10-08T16:31:21+01:00",
       "content_type": "other",
       "http_status": null,
       "is_primary": false,
@@ -560,8 +561,8 @@
     "reasons": [
       "home: complete_1_to_23 from ulster_official (official); urc_official 23/23 jerseys agree; all_rugby 19/23 jerseys agree (differs at #1,#3,#17,#18)",
       "away: complete_1_to_23 from urc_official (official); munster_official 15/15 jerseys agree; all_rugby 17/23 jerseys agree (differs at #1,#3,#4,#5,#11,#14)",
-      "home: X cross-check https://x.com/UlsterRugby/status/2108181118902038675 (posted 2026-10-08T14:02:01+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #2 (agree); graphic viewed with Read 2026-10-08T15:21:00+01:00: yes — Ulster graphic, numbered 1–23; all 23 match by eye (graphic Rob Baloucoune = file Robert Baloucoune); 2 Tom Stewart C",
-      "away: X cross-check https://x.com/Munsterrugby/status/2108184389981003838 (posted 2026-10-08T14:15:01+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #5 (agree); graphic viewed with Read 2026-10-08T15:21:00+01:00: yes — Munster graphic (corrected repost), numbered 1–23; all 23 match — verified 23/23 by Tadhg (relayed by WRS Builder) and viewed with Read by Grok Bot; 5 Tadhg Beirne (C)"
+      "home: X cross-check https://x.com/UlsterRugby/status/2108181118902038675 (posted 2026-10-08T14:02:01+01:00) — graphic viewed with Read 2026-10-08T15:21:00+01:00 (yes): Ulster graphic, numbered 1–23; all 23 match by eye (graphic Rob Baloucoune = file Robert Baloucoune); 2 Tom Stewart C; machine-certain: 0/23 agree, 0 disagree, 23 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 0); captain on X #2 (agree)",
+      "away: X cross-check https://x.com/Munsterrugby/status/2108184389981003838 (posted 2026-10-08T14:15:01+01:00) — graphic viewed with Read 2026-10-08T15:21:00+01:00 (yes): Munster graphic (corrected repost), numbered 1–23; all 23 match — verified 23/23 by Tadhg (relayed by WRS Builder) and viewed with Read by Grok Bot; 5 Tadhg Beirne (C); machine-certain: 2/23 agree, 0 disagree, 21 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 2); captain on X #5 (agree)"
     ]
   },
   "notes": "Ingest poll 2026-10-08T15:05:43+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."

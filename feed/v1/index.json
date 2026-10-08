@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-08T15:48:10+01:00",
-  "updatedAt": "2026-10-08T15:48:10+01:00",
+  "generatedAt": "2026-10-08T16:37:14+01:00",
+  "updatedAt": "2026-10-08T16:37:14+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-05T11:18:33+01:00",
   "matches": [
@@ -171,7 +171,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-10-08T14:02:22+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-10-09T19:45:00+01:00",
+      "lineupUpdatedAt": "2026-10-08T15:37:27+01:00",
       "events": false,
       "eventsUpdatedAt": null
     },
@@ -181,7 +181,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-10-08T14:02:22+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-10-09T19:45:00+01:00",
+      "lineupUpdatedAt": "2026-10-08T15:05:41+01:00",
       "events": false,
       "eventsUpdatedAt": null
     },
@@ -191,7 +191,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-10-10T12:30:00+01:00",
+      "lineupUpdatedAt": "2026-10-08T15:38:22+01:00",
       "events": false,
       "eventsUpdatedAt": null
     },
@@ -201,7 +201,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-10-10T19:45:00+01:00",
+      "lineupUpdatedAt": "2026-10-08T15:06:09+01:00",
       "events": false,
       "eventsUpdatedAt": null
     },
@@ -211,7 +211,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-10-10T17:30:00+01:00",
+      "lineupUpdatedAt": "2026-10-08T15:40:50+01:00",
       "events": false,
       "eventsUpdatedAt": null
     },
@@ -221,7 +221,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-10-10T15:00:00+01:00",
+      "lineupUpdatedAt": "2026-10-08T15:07:08+01:00",
       "events": false,
       "eventsUpdatedAt": null
     },
@@ -231,7 +231,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-10-10T17:30:00+01:00",
+      "lineupUpdatedAt": "2026-10-08T15:05:56+01:00",
       "events": false,
       "eventsUpdatedAt": null
     },
@@ -241,7 +241,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-10-08T14:02:15+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-10-10T15:00:00+01:00",
+      "lineupUpdatedAt": "2026-10-08T15:07:49+01:00",
       "events": false,
       "eventsUpdatedAt": null
     }

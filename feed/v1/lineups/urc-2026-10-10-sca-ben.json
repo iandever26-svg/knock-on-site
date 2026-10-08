@@ -1,5 +1,6 @@
 {
   "schema_version": "1.0.0",
+  "updated_at": "2026-10-08T15:40:50+01:00",
   "match": {
     "match_id": "urc-2026-10-10-sca-ben",
     "external_ids": {
@@ -490,7 +491,7 @@
     {
       "source_name": "scarlets_x_official",
       "url": "https://x.com/scarlets_rugby/status/2108180751019643164",
-      "fetched_at": "2026-10-08T15:40:50+01:00",
+      "fetched_at": "2026-10-08T16:31:35+01:00",
       "content_type": "other",
       "http_status": null,
       "is_primary": false,
@@ -503,7 +504,7 @@
     {
       "source_name": "benetton_x_official",
       "url": "https://x.com/BenettonRugby/status/2108180862521270364",
-      "fetched_at": "2026-10-08T15:40:50+01:00",
+      "fetched_at": "2026-10-08T16:31:35+01:00",
       "content_type": "other",
       "http_status": null,
       "is_primary": false,
@@ -523,8 +524,8 @@
     "reasons": [
       "home: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 21/23 jerseys agree (differs at #11,#14)",
       "away: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 19/23 jerseys agree (differs at #1,#3,#4,#5)",
-      "home: X cross-check https://x.com/scarlets_rugby/status/2108180751019643164 (posted 2026-10-08T14:00:33+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #7 (fill); graphic viewed with Read 2026-10-08T15:20:59+01:00: yes — Scarlets 'Y Tîm' graphic, numbered 1–23; all 23 match by eye; 7 Josh Macleod (C)",
-      "away: X cross-check https://x.com/BenettonRugby/status/2108180862521270364 (posted 2026-10-08T14:01:00+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #8 (fill); graphic viewed with Read 2026-10-08T15:21:02+01:00: yes — Benetton video post: preview frame (connector preview_image_url) is the lineup graphic, surnames numbered 1–23; all 23 match the file by eye; 8 Lamaro marked c"
+      "home: X cross-check https://x.com/scarlets_rugby/status/2108180751019643164 (posted 2026-10-08T14:00:33+01:00) — graphic viewed with Read 2026-10-08T15:20:59+01:00 (yes): Scarlets 'Y Tîm' graphic, numbered 1–23; all 23 match by eye; 7 Josh Macleod (C); machine-certain: 0/23 agree, 0 disagree, 23 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 0); captain on X #7 (agree)",
+      "away: X cross-check https://x.com/BenettonRugby/status/2108180862521270364 (posted 2026-10-08T14:01:00+01:00) — graphic viewed with Read 2026-10-08T15:21:02+01:00 (yes): Benetton video post: preview frame (connector preview_image_url) is the lineup graphic, surnames numbered 1–23; all 23 match the file by eye; 8 Lamaro marked c; machine-certain: 1/23 agree, 0 disagree, 22 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 1); captain on X #8 (agree)"
     ]
   },
   "notes": "Ingest poll 2026-10-08T15:07:50+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."

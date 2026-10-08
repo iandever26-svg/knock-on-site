@@ -1,5 +1,6 @@
 {
   "schema_version": "1.0.0",
+  "updated_at": "2026-10-08T15:37:27+01:00",
   "match": {
     "match_id": "urc-2026-10-09-dra-osp",
     "external_ids": {
@@ -514,7 +515,7 @@
     {
       "source_name": "dragons_x_official",
       "url": "https://x.com/dragonsrfc/status/2108180624486064286",
-      "fetched_at": "2026-10-08T15:37:27+01:00",
+      "fetched_at": "2026-10-08T16:31:15+01:00",
       "content_type": "other",
       "http_status": null,
       "is_primary": false,
@@ -527,7 +528,7 @@
     {
       "source_name": "ospreys_x_official",
       "url": "https://x.com/ospreys/status/2108180906569547876",
-      "fetched_at": "2026-10-08T15:37:27+01:00",
+      "fetched_at": "2026-10-08T16:31:15+01:00",
       "content_type": "other",
       "http_status": null,
       "is_primary": false,
@@ -547,8 +548,8 @@
     "reasons": [
       "home: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 17/23 jerseys agree (differs at #1,#4,#5,#12,#13,#19)",
       "away: complete_1_to_23 from ospreys_official (official); urc_official 22/23 jerseys agree (differs at #21); all_rugby 22/23 jerseys agree (differs at #21)",
-      "home: X cross-check https://x.com/dragonsrfc/status/2108180624486064286 (posted 2026-10-08T14:00:03+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #5 (fill); graphic viewed with Read 2026-10-08T15:20:51+01:00: yes — Dragons graphic, numbered 1–23; all 23 match by eye (graphic Rodrigo Martinez = file Rodrigo Martinez Manzano; Robert Hunt = Rob Hunt); 5 Ben Carter (C)",
-      "away: X cross-check https://x.com/ospreys/status/2108180906569547876 (posted 2026-10-08T14:01:10+01:00) — 0/23 certain jerseys agree, 0 disagree, 23 not machine-certain (text 0, OCR-certain viewed graphic 0); captain on X #2 (agree); graphic viewed with Read 2026-10-08T15:20:51+01:00: yes — Ospreys graphic: XV numbered 1–15, all match; replacements UNNUMBERED dash list in the same order as file 16–23; 2 Sam Parry (C)"
+      "home: X cross-check https://x.com/dragonsrfc/status/2108180624486064286 (posted 2026-10-08T14:00:03+01:00) — graphic viewed with Read 2026-10-08T15:20:51+01:00 (yes): Dragons graphic, numbered 1–23; all 23 match by eye (graphic Rodrigo Martinez = file Rodrigo Martinez Manzano; Robert Hunt = Rob Hunt); 5 Ben Carter (C); machine-certain: 0/23 agree, 0 disagree, 23 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 0); captain on X #5 (agree)",
+      "away: X cross-check https://x.com/ospreys/status/2108180906569547876 (posted 2026-10-08T14:01:10+01:00) — graphic viewed with Read 2026-10-08T15:20:51+01:00 (yes): Ospreys graphic: XV numbered 1–15, all match; replacements UNNUMBERED dash list in the same order as file 16–23; 2 Sam Parry (C); machine-certain: 0/23 agree, 0 disagree, 23 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 0); captain on X #2 (agree)"
     ]
   },
   "notes": "Ingest poll 2026-10-08T15:06:10+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
