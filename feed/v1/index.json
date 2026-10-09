@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T20:28:40+01:00",
-  "updatedAt": "2026-10-09T20:28:40+01:00",
+  "generatedAt": "2026-10-09T20:33:53+01:00",
+  "updatedAt": "2026-10-09T20:33:53+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-05T11:18:33+01:00",
   "matches": [
@@ -169,17 +169,17 @@
       "match_id": "urc-2026-10-09-dra-osp",
       "kickoff": "2026-10-09T19:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-09T20:28:36+01:00",
+      "scoreUpdatedAt": "2026-10-09T20:33:49+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-09T18:54:42+01:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-09T20:28:40+01:00"
+      "eventsUpdatedAt": "2026-10-09T20:33:53+01:00"
     },
     {
       "match_id": "urc-2026-10-09-gla-con",
       "kickoff": "2026-10-09T19:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-09T20:28:36+01:00",
+      "scoreUpdatedAt": "2026-10-09T20:33:49+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-09T18:54:13+01:00",
       "events": true,
