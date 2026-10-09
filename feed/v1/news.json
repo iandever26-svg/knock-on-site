@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T23:07:16+01:00",
+  "generatedAt": "2026-10-10T00:07:06+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxi2ycezrk2h",
+      "text": "Post-match press conference 🎥\n\"We didn't go fishing with dynamite, we were strategic and patient. I was pleased with the maturity to action what we needed to under pressure. We feel like we did a bit of everything today and we took our chances.\" - Mark Jones\n🎞️ youtu.be/VC5QXNx1JjM",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxi2ycezrk2h",
+      "publishedAt": "2026-10-09T22:54:53.366Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreiam4rrcnp2n2tysx33lbdc73axjozxfansxnrkbogc2qk7pjunxwy",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxi2slabtc2l",
+      "text": "Concussions are nobody's friend.\nKevin McLaughlin was only 31 when the curtains came down on his rugby career. He had a lot yet to give.\ntheleinsterplaybook.counterpress.media/features/on-...",
+      "author": "The Leinster Playbook",
+      "handle": "lplaybook.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
+      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mxi2slabtc2l",
+      "publishedAt": "2026-10-09T22:51:41.302Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreibsvj77bpwlroqtnectparfrldtpdp3jkgyb75oa3budkpfqophhy",
+      "source": "lplaybook.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxhxdeqyxs2h",
@@ -239,18 +263,6 @@
       "publishedAt": "2026-10-09T18:53:09.293Z",
       "thumbnail": null,
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxhn4vmku22l",
-      "text": "Our first Welsh derby of the season is underway at Rodney Parade 👊\nCome on boys 💪\nGame live on S4C  and Premier Sports 📺\n🐉 DRA 0 - 0 OSP 🖤\n#DRAvOSP | #BKTURC | #OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxhn4vmku22l",
-      "publishedAt": "2026-10-09T18:46:55.358Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreid62w3rcwl4xdpktytbad7slkxxexzfneeqdljmz6ehesji62vpni",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "youtube",
@@ -556,18 +568,6 @@
       "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mxdx3i2wkc2i",
       "publishedAt": "2026-10-08T07:34:26.054Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreidqehm6xgflbx4bjm7a7hev6fywkxcmcbgywaw7n4r543n2zpwmhm",
-      "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxczy3vit22p",
-      "text": "Two new pieces coming tomorrow morning on The Leinster Playbook from @irishwomens.bsky.social and @justindeegan.bsky.social\nshare.google/fL7AQ2U6W6fr...",
-      "author": "The Leinster Playbook",
-      "handle": "lplaybook.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
-      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mxczy3vit22p",
-      "publishedAt": "2026-10-07T22:53:34.095Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreifmeh3qbohiotidqt2q2wx2tjkhrggqwpcjosikf3nnsrsrpsfeka",
       "source": "lplaybook.bsky.social"
     },
     {
