@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T20:39:06+01:00",
+  "updated_at": "2026-10-09T20:49:36+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T20:39:06+01:00",
+      "fetched_at": "2026-10-09T20:49:36+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
@@ -88,6 +88,29 @@
         "home": 12,
         "away": 7
       }
+    },
+    {
+      "id": "espn-1894860",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Gregor Brown",
+      "detail": "replaces Matt Fagerson",
+      "playerOn": "Gregor Brown",
+      "playerOff": "Matt Fagerson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894861",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": null,
+      "detail": "replaces Matt Fagerson",
+      "playerOff": "Matt Fagerson",
+      "label": "Substitution"
     },
     {
       "id": "espn-1894853",
