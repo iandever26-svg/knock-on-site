@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-dra-osp",
   "matchId": "urc-2026-10-09-dra-osp",
-  "updated_at": "2026-10-09T21:21:08+01:00",
+  "updated_at": "2026-10-09T21:26:24+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604049/competitions/604049/plays",
-      "fetched_at": "2026-10-09T21:21:08+01:00",
+      "fetched_at": "2026-10-09T21:26:24+01:00",
       "espn_event_id": "604049",
       "espn_league_id": 270557
     }
@@ -402,6 +402,33 @@
       "playerOn": "Barny Langton-Cryer",
       "playerOff": "Seb Davies",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1894997",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Lawson Creighton",
+      "detail": "replaces Keelan Giles",
+      "playerOn": "Lawson Creighton",
+      "playerOff": "Keelan Giles",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895007",
+      "minute": 72,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Morgan Morris",
+      "detail": "Try (21-31)",
+      "playerName": "Morgan Morris",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 21,
+        "away": 31
+      }
     }
   ]
 }
