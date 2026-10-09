@@ -2,16 +2,47 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-dra-osp",
   "matchId": "urc-2026-10-09-dra-osp",
-  "updated_at": "2026-10-09T19:46:45+01:00",
+  "updated_at": "2026-10-09T19:57:09+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604049/competitions/604049/plays",
-      "fetched_at": "2026-10-09T19:46:45+01:00",
+      "fetched_at": "2026-10-09T19:57:09+01:00",
       "espn_event_id": "604049",
       "espn_league_id": 270557
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "espn-1894806",
+      "minute": 5,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Elliot Dee",
+      "detail": "Try (5-0)",
+      "playerName": "Elliot Dee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1894807",
+      "minute": 6,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (7-0)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 0
+      }
+    }
+  ]
 }

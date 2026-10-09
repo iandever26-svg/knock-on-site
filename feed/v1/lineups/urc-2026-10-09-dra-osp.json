@@ -443,7 +443,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292601%5D%7D",
-      "fetched_at": "2026-10-09T18:54:42+01:00",
+      "fetched_at": "2026-10-09T19:51:10+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/gwent-dragons-vs-ospreys/teams/",
-      "fetched_at": "2026-10-09T18:54:42+01:00",
+      "fetched_at": "2026-10-09T19:51:10+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -467,7 +467,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26740/urc-2026-2027/dragons-ospreys",
-      "fetched_at": "2026-10-09T18:54:42+01:00",
+      "fetched_at": "2026-10-09T19:51:10+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -478,7 +478,7 @@
     {
       "source_name": "ospreys_official",
       "url": "https://www.ospreysrugby.com/news/ospreys-announce-team-face-dragons-wallaby-superstar-set-make-debut",
-      "fetched_at": "2026-10-09T18:54:42+01:00",
+      "fetched_at": "2026-10-09T19:51:10+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -491,7 +491,7 @@
     {
       "source_name": "ospreys_official",
       "url": "https://www.ospreysrugby.com/news",
-      "fetched_at": "2026-10-09T18:54:42+01:00",
+      "fetched_at": "2026-10-09T19:51:10+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -502,7 +502,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292601%5D%7D",
-      "fetched_at": "2026-10-09T18:54:42+01:00",
+      "fetched_at": "2026-10-09T19:51:10+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": false,
@@ -515,7 +515,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/gwent-dragons-vs-ospreys/teams/",
-      "fetched_at": "2026-10-09T18:54:42+01:00",
+      "fetched_at": "2026-10-09T19:51:10+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -526,7 +526,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26740/urc-2026-2027/dragons-ospreys",
-      "fetched_at": "2026-10-09T18:54:42+01:00",
+      "fetched_at": "2026-10-09T19:51:10+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -555,10 +555,10 @@
     "away_lineup": 0.95,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from urc_official (official); rugbypass 21/23 jerseys agree (differs at #1,#20); all_rugby 16/23 jerseys agree (differs at #1,#4,#5,#12,#13,#19,#20)",
+      "home: complete_1_to_23 from urc_official (official); rugbypass 22/23 jerseys agree (differs at #1); all_rugby 16/23 jerseys agree (differs at #1,#4,#5,#12,#13,#19,#20)",
       "away: complete_1_to_23 from ospreys_official (official); urc_official 22/23 jerseys agree (differs at #21); rugbypass 22/23 jerseys agree (differs at #21); all_rugby 22/23 jerseys agree (differs at #21)",
       "away: X cross-check https://x.com/ospreys/status/2108180906569547876 (posted 2026-10-08T14:01:10+01:00) — graphic viewed with Read 2026-10-08T15:20:51+01:00 (yes): Ospreys graphic: XV numbered 1–15, all match; replacements UNNUMBERED dash list in the same order as file 16–23; 2 Sam Parry (C); machine-certain: 0/23 agree, 0 disagree, 23 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 0); captain on X #2 (agree)"
     ]
   },
-  "notes": "Ingest poll 2026-10-09T18:54:42+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-09T19:51:10+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
