@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T21:31:37+01:00",
+  "updated_at": "2026-10-09T21:36:51+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T21:31:37+01:00",
+      "fetched_at": "2026-10-09T21:36:51+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
@@ -472,7 +472,19 @@
       }
     },
     {
-      "id": "espn-1895014",
+      "id": "espn-1895018",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ally Miller",
+      "detail": "replaces Macenzzie Duncan",
+      "playerOn": "Ally Miller",
+      "playerOff": "Macenzzie Duncan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895020",
       "minute": 76,
       "period": "2H",
       "type": "substitution",
@@ -481,6 +493,18 @@
       "detail": "replaces Josh Ioane",
       "playerOn": "Sean Naughton",
       "playerOff": "Josh Ioane",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895026",
+      "minute": 79,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Nathan McBeth",
+      "detail": "replaces Patrick Schickerling",
+      "playerOn": "Nathan McBeth",
+      "playerOff": "Patrick Schickerling",
       "label": "Substitution"
     }
   ]
