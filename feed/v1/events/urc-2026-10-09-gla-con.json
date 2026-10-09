@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T20:54:52+01:00",
+  "updated_at": "2026-10-09T21:00:09+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T20:54:52+01:00",
+      "fetched_at": "2026-10-09T21:00:09+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
@@ -208,6 +208,84 @@
       "player": null,
       "detail": "replaces Shayne Bolton",
       "playerOff": "Shayne Bolton",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894868",
+      "minute": 47,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Josh Ioane",
+      "detail": "Try (26-12)",
+      "playerName": "Josh Ioane",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1894870",
+      "minute": 48,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Ciarán Frawley",
+      "detail": "Conversion (26-14)",
+      "playerName": "Ciarán Frawley",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 26,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1894872",
+      "minute": 48,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Francois van Wyk",
+      "detail": "replaces Billy Bohan",
+      "playerOn": "Francois van Wyk",
+      "playerOff": "Billy Bohan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894874",
+      "minute": 48,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Matt Victory",
+      "detail": "replaces Eoin de Buitléar",
+      "playerOn": "Matt Victory",
+      "playerOff": "Eoin de Buitléar",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894879",
+      "minute": 48,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Shamus Hurley-Langton",
+      "detail": "replaces Paul Boyle",
+      "playerOn": "Shamus Hurley-Langton",
+      "playerOff": "Paul Boyle",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894882",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Shayne Bolton",
+      "detail": "replaces Sam Illo",
+      "playerOn": "Shayne Bolton",
+      "playerOff": "Sam Illo",
       "label": "Substitution"
     }
   ]

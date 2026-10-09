@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-dra-osp",
   "matchId": "urc-2026-10-09-dra-osp",
-  "updated_at": "2026-10-09T20:44:23+01:00",
+  "updated_at": "2026-10-09T21:00:10+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604049/competitions/604049/plays",
-      "fetched_at": "2026-10-09T20:44:23+01:00",
+      "fetched_at": "2026-10-09T21:00:10+01:00",
       "espn_event_id": "604049",
       "espn_league_id": 270557
     }
@@ -150,6 +150,51 @@
       "scoreAfter": {
         "home": 7,
         "away": 12
+      }
+    },
+    {
+      "id": "espn-1894869",
+      "minute": 46,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Sam Parry",
+      "detail": "Try (7-17)",
+      "playerName": "Sam Parry",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 7,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1894871",
+      "minute": 47,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Dan Edwards",
+      "detail": "Conversion (7-19)",
+      "playerName": "Dan Edwards",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1894885",
+      "minute": 50,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Elliot Dee",
+      "detail": "Try (12-19)",
+      "playerName": "Elliot Dee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 19
       }
     }
   ]
