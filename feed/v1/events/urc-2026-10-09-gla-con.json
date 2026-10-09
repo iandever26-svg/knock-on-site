@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T21:26:23+01:00",
+  "updated_at": "2026-10-09T21:31:37+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T21:26:23+01:00",
+      "fetched_at": "2026-10-09T21:31:37+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
@@ -454,6 +454,33 @@
       "detail": "replaces George Horne",
       "playerOn": "Callum Reidy",
       "playerOff": "George Horne",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895013",
+      "minute": 74,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Scott Cummings",
+      "detail": "Yellow card (33-19)",
+      "playerName": "Scott Cummings",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 33,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1895014",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sean Naughton",
+      "detail": "replaces Josh Ioane",
+      "playerOn": "Sean Naughton",
+      "playerOff": "Josh Ioane",
       "label": "Substitution"
     }
   ]
