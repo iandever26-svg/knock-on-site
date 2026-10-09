@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-dra-osp",
   "matchId": "urc-2026-10-09-dra-osp",
-  "updated_at": "2026-10-09T21:15:54+01:00",
+  "updated_at": "2026-10-09T21:21:08+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604049/competitions/604049/plays",
-      "fetched_at": "2026-10-09T21:15:54+01:00",
+      "fetched_at": "2026-10-09T21:21:08+01:00",
       "espn_event_id": "604049",
       "espn_league_id": 270557
     }
@@ -377,6 +377,30 @@
       "detail": "replaces Che Hope",
       "playerOn": "Rhodri Williams",
       "playerOff": "Che Hope",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894983",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Elliot Dee",
+      "detail": "replaces Chris Coleman",
+      "playerOn": "Elliot Dee",
+      "playerOff": "Chris Coleman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894991",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Barny Langton-Cryer",
+      "detail": "replaces Seb Davies",
+      "playerOn": "Barny Langton-Cryer",
+      "playerOff": "Seb Davies",
       "label": "Substitution"
     }
   ]
