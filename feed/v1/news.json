@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T10:07:08+01:00",
+  "generatedAt": "2026-10-09T12:07:24+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgs3okhov24",
+      "text": "A sexy backline, a spicy inter-pro, and big guns back (🎙️@rugby_ie) #Rugby #URC #RugbyWeekly",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgs3okhov24",
+      "publishedAt": "2026-10-09T10:43:03.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicim7pwgdydm3ixazt52lugjuo53jphc6xu2wtw3owks3e5tjswce",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxgqpqyzts27",
+      "text": "Our latest “80+ column” newsletter\ncovering topics like…\n🏉 Leinster v Cardiff preview\n🏉 Let’s be Avan you\n🏉 Tackling tackles\n🏉 How Bledisloe can they go?\n🏉 “...and much, much more”\nCheck it out here > jeffpagano.substack.com/p/80-column-...",
+      "author": "Harpin' On Rugby",
+      "handle": "harpinonrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
+      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxgqpqyzts27",
+      "publishedAt": "2026-10-09T10:18:29.552Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreihlmf25sfgn44wrvg2sfqi645xxvmpl4pds2di4ofwmrocb52eu6i",
+      "source": "harpinonrugby.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxgmnpwcoc22",
@@ -121,18 +145,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgbbr5ftq2z",
       "publishedAt": "2026-10-09T05:42:13.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifeudleoip7nwd776nno4pevn5uf63oyc5jgnf7tv5s6nwgoj3sy4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgashoiyt2s",
-      "text": "It's a thrilling Connacht backline, but they must improve up front in Glasgow (✍️@rugby_ie) #Connacht #URC #Glasgow",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgashoiyt2s",
-      "publishedAt": "2026-10-09T05:33:40.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibqzwiqa6toob23zoyzzle2hy2h5qlmtaxpt7auw6ulhybozkbxia",
       "source": "rugbynewsplus.bsky.social"
     },
     {
@@ -695,18 +707,6 @@
       "publishedAt": "2026-10-03T18:09:25.966Z",
       "thumbnail": null,
       "source": "scotrugbypod.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mwyhzi7xx22w",
-      "text": "How many Sharks penalties since the warning? #SHAvLEI",
-      "author": "Harpin' On Rugby",
-      "handle": "harpinonrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
-      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mwyhzi7xx22w",
-      "publishedAt": "2026-10-03T18:05:35.874Z",
-      "thumbnail": null,
-      "source": "harpinonrugby.bsky.social"
     }
   ],
   "sources": [
