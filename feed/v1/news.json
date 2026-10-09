@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T15:07:21+01:00",
+  "generatedAt": "2026-10-09T16:07:48+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhahhi3sj2v",
+      "text": "Liverpool V Man City, Maresca Won't Meddle, Ronaldo's Rant, A Long Time Ago (🎙️@SecondCaptains) #Liverpool #ManCity #Ronaldo",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxhahhi3sj2v",
+      "publishedAt": "2026-10-09T15:00:10.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicasfg4xc64hxgebm5r72rhmxkmqavtk4qbatdlz6f7b6vt6c4dge",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxh7ysswsn27",
+      "text": "One last walkthrough before the day 👌\n🎟️ Limited tickets available at https://bit.ly/3UsT8jJ",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxh7ysswsn27",
+      "publishedAt": "2026-10-09T14:51:59.456Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiale5chga5pf3qib6nhp262o22ymsxncobiwbbjiowksayuisigoa",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxh5yvvoid2r",
+      "text": "Fancy joining the crew?\nWe're on the lookout for a Lead Academy Physiotherapist 🏃‍♂️\n🔗 https://www.connachtrugby.ie/about/careers/387/",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxh5yvvoid2r",
+      "publishedAt": "2026-10-09T14:16:15.010Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreihn3llueot274kelne52gkfyr5c7ukktlsrx6ez2wtusbbpprcqle",
+      "source": "connachtrugbai.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxh2scie6k23",
@@ -185,18 +221,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgfyezzeo2v",
-      "text": "Leinster v Cardiff: Big Names Return for RDS Homecoming | URC Preview (📹@HarpinOnRugby) #Leinster #Cardiff #URC",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgfyezzeo2v",
-      "publishedAt": "2026-10-09T07:06:27.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie37yzvlykdymw6f4jplxyjf5erqxp32gk4i3txo6s7e3z4frppqi",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxgcj6y5oo2z",
       "text": "As Ewan Ashman prepares to return from injury, we look at the state of play for Scotland's number 2 jersey this autumn\n🔗  shorturl.at/zD27p",
       "author": "Scotland Rugby News",
@@ -277,18 +301,6 @@
       "publishedAt": "2026-10-08T16:00:12.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/LjatnW2bBi0/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxeskudk3w2x",
-      "text": "Arrived in Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿\n#OneConnacht",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxeskudk3w2x",
-      "publishedAt": "2026-10-08T15:46:12.964Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreifk27dwbz7knfyxodmpxbnlumlcx6ozjtbxwx74qjb37prgtesyzq/thumbnail.jpg",
-      "source": "connachtrugbai.bsky.social"
     },
     {
       "type": "bluesky",
@@ -383,18 +395,6 @@
       "publishedAt": "2026-10-08T13:00:54.898Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifvxaizqytdigtcqw56rmmczila75lpmszzxcvc4fvvqcybzzbmda",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxejcnne2r23",
-      "text": "Here is the team to face Cardiff for our first fixture of the 26/27 season at Laya Arena!\n🎟️ limited tickets still available at https://bit.ly/3UsT8jJ",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxejcnne2r23",
-      "publishedAt": "2026-10-08T13:00:34.030Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidz4tccijpwfkza4bh4w4fy3m2wyozmvbjnlzjo55sez55oij5n6m",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "youtube",
