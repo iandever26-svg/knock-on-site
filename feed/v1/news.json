@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T13:07:15+01:00",
+  "generatedAt": "2026-10-09T14:07:07+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxgzuyej2b23",
+      "text": "See 🫵 tomorrow!\n🎟️ Tickets available at https://bit.ly/3UsT8jJ",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxgzuyej2b23",
+      "publishedAt": "2026-10-09T13:02:28.605Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Abgeqymeltxrtny34aikxe4vy/bafkreidsc3lzllih4bjejptr54n57glnpywzhmxziei3fs4hhknaapypny/thumbnail.jpg",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxgz3tvuke2d",
+      "text": "⚔️ Here's a reminder of the Glasgow Warriors team for tonight's game!\nAnd the Warriors boss addresses his decision to put George Horne on the bench 👉 shorturl.at/elM9Z",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxgz3tvuke2d",
+      "publishedAt": "2026-10-09T12:48:24.531Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibhi5fitctwuprzfcc7ymk5ozy3l2vehi4a6qikfzqlb3wukex7je",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgvlcxcug2i",
@@ -230,18 +254,6 @@
       "publishedAt": "2026-10-08T18:05:28.152Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidy6ggmfncpsrjrp3gvlqezvbyzf5l2nnk3dxnjxgdo3cjhhatway",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxf25qokmq2z",
-      "text": "Franco Smith dismissed any suggestion that George Horne been punished for his ill-discipline against Ulster\nHe's on the bench for the visit of Connacht to Scotstoun\n🔗 shorturl.at/elM9Z",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxf25qokmq2z",
-      "publishedAt": "2026-10-08T18:02:02.580Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreib2mwhsps2x7yaoaubpb2xypbym5wquvan5m5txgsngntht347bb4",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -532,18 +544,6 @@
       "publishedAt": "2026-10-07T15:00:08.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/27r3nwnEvUk/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxbvmkspbn27",
-      "text": "🏉 We're delighted to confirm an extension to our partnership with Rhino as our Official Ball & Equipment Supplier!\n💙 Rhino will continue to support our players and rugby programmes while also giving supporters the chance to bring a piece of Leinster Rugby into their own game: https://bit.ly/4hz26Fe",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxbvmkspbn27",
-      "publishedAt": "2026-10-07T12:02:52.292Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreig6jw4x62fkiznjhf5zascjojfpi23kiysi4o6exx2fepqqkmhibu",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "youtube",
