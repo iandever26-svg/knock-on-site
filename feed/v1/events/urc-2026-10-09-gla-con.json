@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T21:10:40+01:00",
+  "updated_at": "2026-10-09T21:15:53+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T21:10:40+01:00",
+      "fetched_at": "2026-10-09T21:15:53+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
@@ -382,6 +382,21 @@
       "detail": "Try (26-19)",
       "playerName": "Josh Ioane",
       "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1894982",
+      "minute": 62,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Josh Murphy",
+      "detail": "Yellow card (26-19)",
+      "playerName": "Josh Murphy",
+      "label": "Yellow card",
       "scoreAfter": {
         "home": 26,
         "away": 19
