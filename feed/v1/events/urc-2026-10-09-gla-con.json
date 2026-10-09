@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T20:49:36+01:00",
+  "updated_at": "2026-10-09T20:54:52+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T20:49:36+01:00",
+      "fetched_at": "2026-10-09T20:54:52+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
@@ -143,19 +143,72 @@
       }
     },
     {
+      "id": "espn-1894862",
+      "minute": 43,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Josh McKay",
+      "detail": "Try (22-7)",
+      "playerName": "Josh McKay",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 22,
+        "away": 7
+      }
+    },
+    {
       "id": "espn-1894855",
       "minute": 44,
       "period": "1H",
       "type": "conversion_made",
       "team": "home",
       "player": "George Horne",
-      "detail": "Conversion (19-7)",
+      "detail": "Conversion (24-7)",
       "playerName": "George Horne",
       "label": "Conversion",
       "scoreAfter": {
-        "home": 19,
+        "home": 24,
         "away": 7
       }
+    },
+    {
+      "id": "espn-1894863",
+      "minute": 44,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "George Horne",
+      "detail": "Conversion (26-7)",
+      "playerName": "George Horne",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 26,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1894865",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Finlay Bealham",
+      "detail": "replaces Shayne Bolton",
+      "playerOn": "Finlay Bealham",
+      "playerOff": "Shayne Bolton",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894866",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": null,
+      "detail": "replaces Shayne Bolton",
+      "playerOff": "Shayne Bolton",
+      "label": "Substitution"
     }
   ]
 }
