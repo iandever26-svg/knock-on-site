@@ -1,8 +1,114 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T22:07:25+01:00",
+  "generatedAt": "2026-10-09T23:07:16+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxhxdeqyxs2h",
+      "text": "Match Report: Ospreys score six tries in derby day win vs Dragons 🖤\nIt was a strong Ospreys performance as the squad scored six tries and secured an important bonus point away from home at Rodney Parade.\n📰 ospreys.info/4ifQN3Z",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxhxdeqyxs2h",
+      "publishedAt": "2026-10-09T21:49:29.986Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifersb35ywv3bnhy7xnrgfqyqizlpaes6weqfktikcmyhmibeq7dq",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxhx4i6se726",
+      "text": "Full-time at Scotstoun.\n@KiaRenmore | #MovementThatInspires",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxhx4i6se726",
+      "publishedAt": "2026-10-09T21:45:38.238Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreif6wa7n25b5itppt7brbpn4cxahkmpg36itgw2fp7hx4q2647kmja",
+      "source": "connachtrugbai.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhwkcocut2g",
+      "text": "Dragons RFC v Ospreys | Highlights | Round 3 | URC 2026/27 (📹@URCOfficial) #DragonsRFC #Ospreys #URC",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxhwkcocut2g",
+      "publishedAt": "2026-10-09T21:35:28.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicn2boqxexgzca76t5infohyelht563rn5q7qqu2dv25h4ttly6cu",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxhvvbd3ds2v",
+      "text": "Four maul tries helped Glasgow Warriors fight off a spirited challenge from Connacht to secure a bonus-point 36-19 win at Scotstoun\nFive talking points 👉 shorturl.at/PT0xm",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxhvvbd3ds2v",
+      "publishedAt": "2026-10-09T21:23:42.731Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreig5dnglpf6kz5g4kztykcpysn4ne5wgtjddluiefmbtxl24zchdx4",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhvrezkhh2i",
+      "text": "Glasgow Warriors v Connacht | Highlights | Round 3 | 2026/27 (📹@URCOfficial) #GlasgowWarriors #Connacht #URCHighlights",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxhvrezkhh2i",
+      "publishedAt": "2026-10-09T21:21:32.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigpvqbjf3buomusryrolaod5n7sjvq3uzkn6vxj667koipywugf7a",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxhvo4fuzc2h",
+      "text": "Llongyfarchiadau i Tom Rogers, your BKT URC Player of the Match! 🎖️🖤\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxhvo4fuzc2h",
+      "publishedAt": "2026-10-09T21:19:42.848Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreic3xzjj6pm7fddbclg5rqzh4ywkwj5ecs5shk34djttxyzl2jihke",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:8ZV6oVW3quo",
+      "title": "Dragons RFC v Ospreys | Highlights | Round 3 | URC 2026/27",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=8ZV6oVW3quo",
+      "publishedAt": "2026-10-09T21:15:56.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/8ZV6oVW3quo/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhv5uztqh2z",
+      "text": "Connacht mauled by ruthless Glasgow set-piece (✍️@RTErugby) #UnitedRugbyChampionship #GlasgowWarriors #Connacht",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxhv5uztqh2z",
+      "publishedAt": "2026-10-09T21:10:38.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreia5jjnjdm4qgc6ceuyvvbvmcb6kfpnhgjkn4zxyyw42kcc7rdlkpe",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:dx_W3KmFSYM",
+      "title": "Glasgow Warriors v Connacht | Highlights | Round 3 | 2026/27",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=dx_W3KmFSYM",
+      "publishedAt": "2026-10-09T21:07:51.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/dx_W3KmFSYM/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhusikb372s",
@@ -124,18 +230,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxho2voaav2v",
-      "text": "'I'm looking forward to playing against Craig, but it's not about me or Craig' (✍️@rugby_ie) #UlsterRugby #URC #NathanDoak",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxho2voaav2v",
-      "publishedAt": "2026-10-09T19:03:41.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiej7szcnz7xkjkalffjxmyi6ttsthxytrjpnyj6ph35rioqpi6kca",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mxhni27tyc24",
       "text": "This Gloucester pack: enjoyable. George Skivington getting the dominant maul and physicality he wanted back on day one.",
       "author": "Ben Coles",
@@ -148,18 +242,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhn7ur25n2z",
-      "text": "URC: Glasgow v Connacht latest score (✍️@RTErugby) #URC #GlasgowWarriors #Connacht",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxhn7ur25n2z",
-      "publishedAt": "2026-10-09T18:48:35.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreic4fceiy6zfeeml22yrlx2civjoncaay2w6eqm3ndqtfokuyfgg2a",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxhn4vmku22l",
       "text": "Our first Welsh derby of the season is underway at Rodney Parade 👊\nCome on boys 💪\nGame live on S4C  and Premier Sports 📺\n🐉 DRA 0 - 0 OSP 🖤\n#DRAvOSP | #BKTURC | #OurBloodIsBlack",
       "author": "Ospreys Rugby",
@@ -168,18 +250,6 @@
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxhn4vmku22l",
       "publishedAt": "2026-10-09T18:46:55.358Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreid62w3rcwl4xdpktytbad7slkxxexzfneeqdljmz6ehesji62vpni",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxhkz4xkqs2l",
-      "text": "Marika Koroibete makes his debut as an Osprey today 😤\nLlongyfarchiadau a chroeso, Marika 🖤\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxhkz4xkqs2l",
-      "publishedAt": "2026-10-09T18:09:01.366Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidygqj7wwb3ifpfoljovoizwgtile66zty6gwqurvhh53z2h5fgba",
       "source": "ospreysofficial.bsky.social"
     },
     {
@@ -231,18 +301,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhb3qtmum2p",
-      "text": "Argentina snap up defence guru Edwards ahead of World Cup (✍️@rugby_ie) #Argentina #WorldCup #Football",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxhb3qtmum2p",
-      "publishedAt": "2026-10-09T15:11:31.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidx6lapkfmdqyup2m4bpszbr2er5cjiw46gziji3c4tvvesjp7j7y",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxh7ysswsn27",
       "text": "One last walkthrough before the day 👌\n🎟️ Limited tickets available at https://bit.ly/3UsT8jJ",
       "author": "Leinster Rugby",
@@ -252,18 +310,6 @@
       "publishedAt": "2026-10-09T14:51:59.456Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiale5chga5pf3qib6nhp262o22ymsxncobiwbbjiowksayuisigoa",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxh5yvvoid2r",
-      "text": "Fancy joining the crew?\nWe're on the lookout for a Lead Academy Physiotherapist 🏃‍♂️\n🔗 https://www.connachtrugby.ie/about/careers/387/",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxh5yvvoid2r",
-      "publishedAt": "2026-10-09T14:16:15.010Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreihn3llueot274kelne52gkfyr5c7ukktlsrx6ez2wtusbbpprcqle",
-      "source": "connachtrugbai.bsky.social"
     },
     {
       "type": "bluesky",
@@ -327,18 +373,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxgmnpwcoc22",
-      "text": "Welsh derby ready 👊\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxgmnpwcoc22",
-      "publishedAt": "2026-10-09T09:05:46.340Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreigivt4l2x2miwp2rldjxiplbwmtqi75jw3i7wrfxd7mbhecuj3a4u/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxgmds4wbt2z",
       "text": "🔵 We're seeking applications for the position of Women’s Development Officer (Fingal)\n🏉 The successful candidate will be responsible for promoting the women's game to support increased player participation in the area\nGet more info and apply here 👉 https://bit.ly/4dtfQyK",
       "author": "Leinster Rugby",
@@ -359,18 +393,6 @@
       "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxglpsttkq2d",
       "publishedAt": "2026-10-09T08:49:02.601Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreic56nshdh5kuppjgz6eevfyf4u6gnjfr56b6bktr5a7khhlqc2wcm",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxgcj6y5oo2z",
-      "text": "As Ewan Ashman prepares to return from injury, we look at the state of play for Scotland's number 2 jersey this autumn\n🔗  shorturl.at/zD27p",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxgcj6y5oo2z",
-      "publishedAt": "2026-10-09T06:04:16.291Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigs2ymdl73fgnmpt2w34vjnak6fovk2whr5gvldnp5srduaaqib4a",
       "source": "scotlandrugbynews.bsky.social"
     },
     {
@@ -503,17 +525,6 @@
     },
     {
       "type": "youtube",
-      "id": "yt:TSLFJXP2C_c",
-      "title": "4 Tries In 10 Minutes | A Wild Finish To Vodacom Bulls v 10Bet Lions | 2025",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=TSLFJXP2C_c",
-      "publishedAt": "2026-10-08T10:00:19.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/TSLFJXP2C_c/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "youtube",
       "id": "yt:FvRzm2lm2Wc",
       "title": "We've all scrolled too far before  #rugby #edinburghrugby #funny #joke #reel #shorts #sports #fun",
       "author": "Edinburgh Rugby",
@@ -569,17 +580,6 @@
       "publishedAt": "2026-10-07T16:00:28.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/HHLA4TkjWF8/hqdefault.jpg",
       "source": "UC7991AZNku42o3Y36kUZOJA"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:pgjuw3Hm0qY",
-      "title": "Zebre Parma set off on the counter 🦓",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=pgjuw3Hm0qY",
-      "publishedAt": "2026-10-07T15:35:04.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/pgjuw3Hm0qY/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "youtube",
