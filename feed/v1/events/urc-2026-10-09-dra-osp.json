@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-dra-osp",
   "matchId": "urc-2026-10-09-dra-osp",
-  "updated_at": "2026-10-09T21:00:10+01:00",
+  "updated_at": "2026-10-09T21:05:26+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604049/competitions/604049/plays",
-      "fetched_at": "2026-10-09T21:00:10+01:00",
+      "fetched_at": "2026-10-09T21:05:26+01:00",
       "espn_event_id": "604049",
       "espn_league_id": 270557
     }
@@ -195,6 +195,98 @@
       "scoreAfter": {
         "home": 12,
         "away": 19
+      }
+    },
+    {
+      "id": "espn-1894896",
+      "minute": 51,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (14-19)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1894900",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Rhys Henry",
+      "detail": "replaces Tom Botha",
+      "playerOn": "Rhys Henry",
+      "playerOff": "Tom Botha",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894904",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Steffan Thomas",
+      "detail": "replaces Gareth Thomas",
+      "playerOn": "Steffan Thomas",
+      "playerOff": "Gareth Thomas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894898",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Angus O'Brien",
+      "detail": "replaces Huw Anderson",
+      "playerOn": "Angus O'Brien",
+      "playerOff": "Huw Anderson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894899",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": null,
+      "detail": "replaces Huw Anderson",
+      "playerOff": "Huw Anderson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894911",
+      "minute": 54,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Sam Parry",
+      "detail": "Try (14-24)",
+      "playerName": "Sam Parry",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 14,
+        "away": 24
+      }
+    },
+    {
+      "id": "espn-1894912",
+      "minute": 55,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Dan Edwards",
+      "detail": "Conversion (14-26)",
+      "playerName": "Dan Edwards",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
+        "away": 26
       }
     }
   ]

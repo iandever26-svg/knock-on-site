@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T21:00:09+01:00",
+  "updated_at": "2026-10-09T21:05:25+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T21:00:09+01:00",
+      "fetched_at": "2026-10-09T21:05:25+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
@@ -286,6 +286,30 @@
       "detail": "replaces Sam Illo",
       "playerOn": "Shayne Bolton",
       "playerOff": "Sam Illo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894902",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Josh Murphy",
+      "detail": "replaces Niall Murray",
+      "playerOn": "Josh Murphy",
+      "playerOff": "Niall Murray",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894909",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sam Gilbert",
+      "detail": "replaces Shayne Bolton",
+      "playerOn": "Sam Gilbert",
+      "playerOff": "Shayne Bolton",
       "label": "Substitution"
     }
   ]
