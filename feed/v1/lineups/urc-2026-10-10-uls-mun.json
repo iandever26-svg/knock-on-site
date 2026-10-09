@@ -443,7 +443,7 @@
     {
       "source_name": "ulster_official",
       "url": "https://ulster.rugby/news/ireland-internationals-return-munster-interpro",
-      "fetched_at": "2026-10-08T15:05:43+01:00",
+      "fetched_at": "2026-10-09T09:19:01+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "ulster_official",
       "url": "https://ulster.rugby/news",
-      "fetched_at": "2026-10-08T15:05:43+01:00",
+      "fetched_at": "2026-10-09T09:19:01+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -467,7 +467,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292606%5D%7D",
-      "fetched_at": "2026-10-08T15:05:43+01:00",
+      "fetched_at": "2026-10-09T09:19:01+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": false,
@@ -478,9 +478,9 @@
       "source_tier": "official"
     },
     {
-      "source_name": "all_rugby",
-      "url": "https://all.rugby/match/26745/urc-2026-2027/ulster-munster",
-      "fetched_at": "2026-10-08T15:05:43+01:00",
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/munster-vs-ulster/teams/",
+      "fetched_at": "2026-10-09T09:19:01+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -489,40 +489,14 @@
       "source_tier": "secondary"
     },
     {
-      "source_name": "urc_official",
-      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292606%5D%7D",
-      "fetched_at": "2026-10-08T15:05:43+01:00",
-      "content_type": "other",
-      "http_status": 200,
-      "is_primary": true,
-      "role": "primary_sheet",
-      "side": "away",
-      "published_at": null,
-      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-10T16:30:00.000Z",
-      "source_tier": "official"
-    },
-    {
-      "source_name": "munster_official",
-      "url": "https://www.munsterrugby.ie/news/team-news-munster-side-face-ulster-belfast",
-      "fetched_at": "2026-10-08T15:05:43+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away",
-      "published_at": null,
-      "published_at_source": "unverified_title_names_opponent",
-      "source_tier": "official"
-    },
-    {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26745/urc-2026-2027/ulster-munster",
-      "fetched_at": "2026-10-08T15:05:43+01:00",
+      "fetched_at": "2026-10-09T09:19:01+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
       "role": "corroboration",
-      "side": "away",
+      "side": "home",
       "source_tier": "secondary"
     },
     {
@@ -537,6 +511,54 @@
       "published_at": "2026-10-08T14:02:01+01:00",
       "published_at_source": "x_api_created_at",
       "source_tier": "official"
+    },
+    {
+      "source_name": "urc_official",
+      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292606%5D%7D",
+      "fetched_at": "2026-10-09T09:19:01+01:00",
+      "content_type": "other",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-10T16:30:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "munster_official",
+      "url": "https://www.munsterrugby.ie/news/team-news-munster-side-face-ulster-belfast",
+      "fetched_at": "2026-10-09T09:19:01+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "unverified_title_names_opponent",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/munster-vs-ulster/teams/",
+      "fetched_at": "2026-10-09T09:19:01+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "source_tier": "secondary"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26745/urc-2026-2027/ulster-munster",
+      "fetched_at": "2026-10-09T09:19:01+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "source_tier": "secondary"
     },
     {
       "source_name": "munster_x_official",
@@ -559,11 +581,11 @@
     "away_lineup": 0.98,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from ulster_official (official); urc_official 23/23 jerseys agree; all_rugby 19/23 jerseys agree (differs at #1,#3,#17,#18)",
-      "away: complete_1_to_23 from urc_official (official); munster_official 15/15 jerseys agree; all_rugby 17/23 jerseys agree (differs at #1,#3,#4,#5,#11,#14)",
+      "home: complete_1_to_23 from ulster_official (official); urc_official 23/23 jerseys agree; rugbypass 23/23 jerseys agree; all_rugby 19/23 jerseys agree (differs at #1,#3,#17,#18)",
+      "away: complete_1_to_23 from urc_official (official); munster_official 15/15 jerseys agree; rugbypass 23/23 jerseys agree; all_rugby 17/23 jerseys agree (differs at #1,#3,#4,#5,#11,#14)",
       "home: X cross-check https://x.com/UlsterRugby/status/2108181118902038675 (posted 2026-10-08T14:02:01+01:00) — graphic viewed with Read 2026-10-08T15:21:00+01:00 (yes): Ulster graphic, numbered 1–23; all 23 match by eye (graphic Rob Baloucoune = file Robert Baloucoune); 2 Tom Stewart C; machine-certain: 0/23 agree, 0 disagree, 23 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 0); captain on X #2 (agree)",
       "away: X cross-check https://x.com/Munsterrugby/status/2108184389981003838 (posted 2026-10-08T14:15:01+01:00) — graphic viewed with Read 2026-10-08T15:21:00+01:00 (yes): Munster graphic (corrected repost), numbered 1–23; all 23 match — verified 23/23 by Tadhg (relayed by WRS Builder) and viewed with Read by Grok Bot; 5 Tadhg Beirne (C); machine-certain: 2/23 agree, 0 disagree, 21 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 2); captain on X #5 (agree)"
     ]
   },
-  "notes": "Ingest poll 2026-10-08T15:05:43+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-09T09:19:01+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-10-08T15:05:41+01:00",
+  "updated_at": "2026-10-09T18:54:13+01:00",
   "match": {
     "match_id": "urc-2026-10-09-gla-con",
     "external_ids": {
@@ -113,7 +113,7 @@
         },
         {
           "jersey": 9,
-          "name": "Jamie Dobie",
+          "name": "George Horne",
           "position_label": "Scrum-half",
           "is_captain": false,
           "is_starter": true,
@@ -153,7 +153,7 @@
         },
         {
           "jersey": 14,
-          "name": "Kyle Rowe",
+          "name": "Jamie Dobie",
           "position_label": "Wing",
           "is_captain": false,
           "is_starter": true,
@@ -217,7 +217,7 @@
         },
         {
           "jersey": 22,
-          "name": "George Horne",
+          "name": "Callum Reidy",
           "position_label": "Fly-half",
           "is_captain": false,
           "is_starter": false,
@@ -443,7 +443,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292600%5D%7D",
-      "fetched_at": "2026-10-08T15:05:27+01:00",
+      "fetched_at": "2026-10-09T18:54:13+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "glasgow_official",
       "url": "https://glasgowwarriors.org/news-and-features/watson-to-make-first-appearance-of-season/",
-      "fetched_at": "2026-10-08T15:05:27+01:00",
+      "fetched_at": "2026-10-09T18:54:13+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -467,9 +467,20 @@
       "source_tier": "official"
     },
     {
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/connacht-vs-glasgow/teams/",
+      "fetched_at": "2026-10-09T18:54:13+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home",
+      "source_tier": "secondary"
+    },
+    {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26739/urc-2026-2027/glasgow-connacht",
-      "fetched_at": "2026-10-08T15:05:27+01:00",
+      "fetched_at": "2026-10-09T18:54:13+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -480,7 +491,7 @@
     {
       "source_name": "connacht_official",
       "url": "https://www.connachtrugby.ie/news/team-announcement-glasgow-warriors-v-connacht/bp3816/",
-      "fetched_at": "2026-10-08T15:05:27+01:00",
+      "fetched_at": "2026-10-09T18:54:13+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -493,7 +504,7 @@
     {
       "source_name": "connacht_official",
       "url": "https://www.connachtrugby.ie/news/news/86/?rss=on",
-      "fetched_at": "2026-10-08T15:05:27+01:00",
+      "fetched_at": "2026-10-09T18:54:13+01:00",
       "content_type": "rss_item",
       "http_status": 200,
       "is_primary": false,
@@ -504,7 +515,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292600%5D%7D",
-      "fetched_at": "2026-10-08T15:05:27+01:00",
+      "fetched_at": "2026-10-09T18:54:13+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": false,
@@ -515,9 +526,9 @@
       "source_tier": "official"
     },
     {
-      "source_name": "all_rugby",
-      "url": "https://all.rugby/match/26739/urc-2026-2027/glasgow-connacht",
-      "fetched_at": "2026-10-08T15:05:27+01:00",
+      "source_name": "rugbypass",
+      "url": "https://www.rugbypass.com/live/connacht-vs-glasgow/teams/",
+      "fetched_at": "2026-10-09T18:54:13+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -526,17 +537,15 @@
       "source_tier": "secondary"
     },
     {
-      "source_name": "glasgow_x_official",
-      "url": "https://x.com/GlasgowWarriors/status/2108182481031827831",
-      "fetched_at": "2026-10-08T16:31:13+01:00",
-      "content_type": "other",
-      "http_status": null,
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26739/urc-2026-2027/glasgow-connacht",
+      "fetched_at": "2026-10-09T18:54:13+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
       "is_primary": false,
       "role": "corroboration",
-      "side": "home",
-      "published_at": "2026-10-08T14:07:26+01:00",
-      "published_at_source": "x_api_created_at",
-      "source_tier": "official"
+      "side": "away",
+      "source_tier": "secondary"
     },
     {
       "source_name": "connacht_x_official",
@@ -559,11 +568,10 @@
     "away_lineup": 0.98,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from urc_official (official) — upgraded from secondary all_rugby; all_rugby 19/23 jerseys agree (differs at #12,#13,#17,#18)",
-      "away: complete_1_to_23 from connacht_official (official); urc_official 23/23 jerseys agree; all_rugby 17/23 jerseys agree (differs at #1,#3,#11,#14,#17,#18)",
-      "home: X cross-check https://x.com/GlasgowWarriors/status/2108182481031827831 (posted 2026-10-08T14:07:26+01:00) — graphic viewed with Read 2026-10-08T15:20:52+01:00 (yes): Glasgow graphic: XV numbered 1–15, all match; replacements UNNUMBERED comma list in the same order as file 16–23; no captain marker on graphic; machine-certain: 5/23 agree, 0 disagree, 18 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 5); no captain named on X",
+      "home: complete_1_to_23 from urc_official (official); rugbypass 20/23 jerseys agree (differs at #9,#14,#22); all_rugby 16/23 jerseys agree (differs at #9,#12,#13,#14,#17,#18,#22)",
+      "away: complete_1_to_23 from connacht_official (official); urc_official 23/23 jerseys agree; rugbypass 23/23 jerseys agree; all_rugby 17/23 jerseys agree (differs at #1,#3,#11,#14,#17,#18)",
       "away: X cross-check https://x.com/connachtrugby/status/2108180402644906159 (posted 2026-10-08T13:59:10+01:00) — graphic viewed with Read 2026-10-08T15:20:50+01:00 (yes): Connacht squad graphic, numbered 1–23; all 23 match the file by eye; 6 Cian Prendergast (C); machine-certain: 21/23 agree, 0 disagree, 2 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 21); captain on X #6 (agree)"
     ]
   },
-  "notes": "Ingest poll 2026-10-08T15:05:27+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-09T18:54:13+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
