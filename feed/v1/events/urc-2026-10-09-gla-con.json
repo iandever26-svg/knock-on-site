@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T21:05:25+01:00",
+  "updated_at": "2026-10-09T21:10:40+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T21:05:25+01:00",
+      "fetched_at": "2026-10-09T21:10:40+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
@@ -311,6 +311,81 @@
       "playerOn": "Sam Gilbert",
       "playerOff": "Shayne Bolton",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1894942",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Colm Reilly",
+      "detail": "replaces Caolin Blade",
+      "playerOn": "Colm Reilly",
+      "playerOff": "Caolin Blade",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894934",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sam Talakai",
+      "detail": "replaces Finlay Richardson",
+      "playerOn": "Sam Talakai",
+      "playerOff": "Finlay Richardson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894936",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Seb Stephen",
+      "detail": "replaces Gregor Hiddleston",
+      "playerOn": "Seb Stephen",
+      "playerOff": "Gregor Hiddleston",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894930",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Olujare Oguntibeju",
+      "detail": "replaces Max Williamson",
+      "playerOn": "Olujare Oguntibeju",
+      "playerOff": "Max Williamson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894927",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Patrick Schickerling",
+      "detail": "replaces Nathan McBeth",
+      "playerOn": "Patrick Schickerling",
+      "playerOff": "Nathan McBeth",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894950",
+      "minute": 59,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Josh Ioane",
+      "detail": "Try (26-19)",
+      "playerName": "Josh Ioane",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 19
+      }
     }
   ]
 }

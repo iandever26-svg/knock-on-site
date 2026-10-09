@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-dra-osp",
   "matchId": "urc-2026-10-09-dra-osp",
-  "updated_at": "2026-10-09T21:05:26+01:00",
+  "updated_at": "2026-10-09T21:10:41+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604049/competitions/604049/plays",
-      "fetched_at": "2026-10-09T21:05:26+01:00",
+      "fetched_at": "2026-10-09T21:10:41+01:00",
       "espn_event_id": "604049",
       "espn_league_id": 270557
     }
@@ -288,6 +288,60 @@
         "home": 14,
         "away": 26
       }
+    },
+    {
+      "id": "espn-1894929",
+      "minute": 56,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Anzelo Tuitavuki",
+      "detail": "Try (19-26)",
+      "playerName": "Anzelo Tuitavuki",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1894941",
+      "minute": 57,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (21-26)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1894938",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Efan Daniel",
+      "detail": "replaces Sam Parry",
+      "playerOn": "Efan Daniel",
+      "playerOff": "Sam Parry",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1894953",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Morgan Morse",
+      "detail": "replaces Ross Moriarty",
+      "playerOn": "Morgan Morse",
+      "playerOff": "Ross Moriarty",
+      "label": "Substitution"
     }
   ]
 }
