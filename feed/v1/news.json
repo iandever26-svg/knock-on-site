@@ -1,8 +1,80 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-08T20:07:05+01:00",
+  "generatedAt": "2026-10-09T08:32:31+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxggjb33i626",
+      "text": "\"Be loud, but don't be a pork chop\" #89rugby #rugby #BledisloeCup (📹 @89combo) #Rugby #BledisloeCup #AllBlacks",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxggjb33i626",
+      "publishedAt": "2026-10-09T07:15:53.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie6pxrcobebidd36ui6xjguyeav4cojiijliymrjl3vtng4q57tpa",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgfyezzeo2v",
+      "text": "Leinster v Cardiff: Big Names Return for RDS Homecoming | URC Preview (📹@HarpinOnRugby) #Leinster #Cardiff #URC",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgfyezzeo2v",
+      "publishedAt": "2026-10-09T07:06:27.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie37yzvlykdymw6f4jplxyjf5erqxp32gk4i3txo6s7e3z4frppqi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgcjdufzi2s",
+      "text": "United Rugby Championship Round 3: All You Need to Know (✍️@RTErugby) #UnitedRugbyChampionship #RugbyUnion #SportsNews",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgcjdufzi2s",
+      "publishedAt": "2026-10-09T06:04:21.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidkfm5fxcdmql2yzlthwo7lzba7tpjq4twacwa6e3ulkmvv6v666y",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxgcj6y5oo2z",
+      "text": "As Ewan Ashman prepares to return from injury, we look at the state of play for Scotland's number 2 jersey this autumn\n🔗  shorturl.at/zD27p",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxgcj6y5oo2z",
+      "publishedAt": "2026-10-09T06:04:16.291Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigs2ymdl73fgnmpt2w34vjnak6fovk2whr5gvldnp5srduaaqib4a",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgbbr5ftq2z",
+      "text": "Cullen excited by return to Leinster's 'quirky' home (✍️@RTErugby) #Leinster #Rugby #LayaArena",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgbbr5ftq2z",
+      "publishedAt": "2026-10-09T05:42:13.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifeudleoip7nwd776nno4pevn5uf63oyc5jgnf7tv5s6nwgoj3sy4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgashoiyt2s",
+      "text": "It's a thrilling Connacht backline, but they must improve up front in Glasgow (✍️@rugby_ie) #Connacht #URC #Glasgow",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgashoiyt2s",
+      "publishedAt": "2026-10-09T05:33:40.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibqzwiqa6toob23zoyzzle2hy2h5qlmtaxpt7auw6ulhybozkbxia",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxf5id3e3c2g",
@@ -14,18 +86,6 @@
       "publishedAt": "2026-10-08T19:01:38.967Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreic4dv33d3jlalinenehwcm4e7imggnwpqustyzkap4qjz46pk2kba",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxf4tzxu3l2s",
-      "text": "The Big Bledisloe Cup 2026 Preview (📹@SquidgeRugby) #BledisloeCup #Wallabies #AllBlacks",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxf4tzxu3l2s",
-      "publishedAt": "2026-10-08T18:50:18.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibq3beuvxld2jgv2sn577fhhlefvjdbavkv6fgcwllhsjqgvmuaea",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -101,18 +161,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxetocsuqo2c",
-      "text": "Willemse back gliding on Saturday 👊⚡️ (📹@URCOfficial) #Willemse #Gliding #Adventure",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxetocsuqo2c",
-      "publishedAt": "2026-10-08T16:06:02.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihor7emnb6oi75gx2rh324vv72qjgc3gs5pzb3eka5nk7czrenzfe",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxetiiidks2l",
       "text": "🚨 GOING LIVE 🚨\nHead to our YouTube for the latest Scotland Rugby News podcast, live at 5.15pm\n👉  www.youtube.com/@ScotRugbyNews",
       "author": "Scotland Rugby News",
@@ -157,18 +205,6 @@
       "publishedAt": "2026-10-08T15:16:02.819Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxeqq2mrpm2v",
-      "text": "A Heated Rivalry | Sharks v Stormers | Round 11 2026 (📹@URCOfficial) #Rugby #URC #SharksVsStormers",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxeqq2mrpm2v",
-      "publishedAt": "2026-10-08T15:13:20.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifxpeqa6ftcihjeh6hosuzmyknwgd6xk25dkxxdkwlzso4iz372ni",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -230,18 +266,6 @@
       "source": "connachtrugbai.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxen47kgzw2g",
-      "text": "Charlie Shiel has secured a move to France following his exit from Edinburgh Rugby in the summer\n🔗 shorturl.at/T7M08",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxen47kgzw2g",
-      "publishedAt": "2026-10-08T14:08:32.867Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihn7cegogzcfuzco2nk34xo5fmv4rnses5qxjb2onzlvs2xc5fmtu",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:GXZhuXeVo2U",
       "title": "🦁​​Lo schieramento biancoverde per la prima trasferta stagionale contro gli Scarlets",
@@ -251,30 +275,6 @@
       "publishedAt": "2026-10-08T14:00:16.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/GXZhuXeVo2U/hqdefault.jpg",
       "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxelohsr332s",
-      "text": "Ulster and Munster welcome back internationals for Belfast interpro (✍️@rugby_ie) #Ulster #Munster #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxelohsr332s",
-      "publishedAt": "2026-10-08T13:42:58.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidrclwpgh5toocvzt3jore4qmcujqsvo2gwdp5i2f36xzgf6gdjgm",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxelofaxe62v",
-      "text": "Leinster change entire starting side for Cardiff clash (✍️@rugby_ie) #Leinster #CardiffClash #RugbyUnion",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxelofaxe62v",
-      "publishedAt": "2026-10-08T13:42:55.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiebx4qa5bvgerm4y356skwzx7sz6avhod5x53hmawebxvfsn2dj74",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
