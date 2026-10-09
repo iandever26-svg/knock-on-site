@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T17:07:16+01:00",
+  "generatedAt": "2026-10-09T18:07:16+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxhfkbp7b72u",
+      "text": "We're at Scotstoun as two of the 🐐 get everything set 🟢🦅\n#GLAvCON | #BKTURC",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxhfkbp7b72u",
+      "publishedAt": "2026-10-09T16:31:13.996Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreicy5bwuag7bpye27pfkbbj6lwi3xbauftzisq72my5czb3s4xavpu/thumbnail.jpg",
+      "source": "connachtrugbai.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxhdtgbhwy2p",
@@ -205,18 +217,6 @@
       "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxgml5d77k2x",
       "publishedAt": "2026-10-09T09:04:19.282Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreicbud7bmqxbfpsrlga63gev5e7fahy3eue2xgiv6uyagd7mhyohyq",
-      "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxgml2yvbs2x",
-      "text": "HB to FB! 🎈\nLá breithe sona duit! 🎂🥳\n#OneConnacht",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxgml2yvbs2x",
-      "publishedAt": "2026-10-09T09:04:16.848Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreicnx4dkywqp3kdscrtcifxg7ahim2ntb3flljuu26v6fly6ci5aem",
       "source": "connachtrugbai.bsky.social"
     },
     {
