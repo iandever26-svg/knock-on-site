@@ -1,8 +1,56 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T12:07:24+01:00",
+  "generatedAt": "2026-10-09T13:07:15+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgvlcxcug2i",
+      "text": "Key figures absent as Ireland name 30-player squad to travel to South Africa (✍️@rugby_ie) #Ireland #SpringbokWomen #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgvlcxcug2i",
+      "publishedAt": "2026-10-09T11:45:29.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreig2xviazigwyvcevxsyl4mlmdyfyhcozhgo7y7aypcglx6pvkbose",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxguti5lbz2d",
+      "text": "Glasgow Warriors are aiming to avoid three consecutive home games without a win for the first time since December 2020 as Connacht visit Scotstoun\nFor everything you need to know 👉 shorturl.at/CzSgy",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxguti5lbz2d",
+      "publishedAt": "2026-10-09T11:32:09.290Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiczftrylupicxtvi6ojrnaw3r3bcyd4j2dioc7jinh7xtgtli3khm",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgtyug3le2s",
+      "text": "Wafer misses out as Bemand names squad for South Africa (✍️@RTErugby) #Rugby #WXV #SouthAfrica",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgtyug3le2s",
+      "publishedAt": "2026-10-09T11:17:16.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreia4wehoxyeuuy6ryxytsjc4qjhf5ykowstngqhpghmjvj2ig7nvse",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxgtxkykey2x",
+      "text": "Our 2️⃣3️⃣ for Scotstoun 🟢🦅\n#GLAvCON | #BKTURC",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxgtxkykey2x",
+      "publishedAt": "2026-10-09T11:16:32.595Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreid7o7ozjmicqh7s72lq5bysa3wionq66aaqhmi355fadyu3r43gnm",
+      "source": "connachtrugbai.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgs3okhov24",
@@ -113,18 +161,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgcjdufzi2s",
-      "text": "United Rugby Championship Round 3: All You Need to Know (✍️@RTErugby) #UnitedRugbyChampionship #RugbyUnion #SportsNews",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgcjdufzi2s",
-      "publishedAt": "2026-10-09T06:04:21.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidkfm5fxcdmql2yzlthwo7lzba7tpjq4twacwa6e3ulkmvv6v666y",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxgcj6y5oo2z",
       "text": "As Ewan Ashman prepares to return from injury, we look at the state of play for Scotland's number 2 jersey this autumn\n🔗  shorturl.at/zD27p",
       "author": "Scotland Rugby News",
@@ -134,18 +170,6 @@
       "publishedAt": "2026-10-09T06:04:16.291Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigs2ymdl73fgnmpt2w34vjnak6fovk2whr5gvldnp5srduaaqib4a",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgbbr5ftq2z",
-      "text": "Cullen excited by return to Leinster's 'quirky' home (✍️@RTErugby) #Leinster #Rugby #LayaArena",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgbbr5ftq2z",
-      "publishedAt": "2026-10-09T05:42:13.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifeudleoip7nwd776nno4pevn5uf63oyc5jgnf7tv5s6nwgoj3sy4",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -232,18 +256,6 @@
       "source": "lplaybook.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxetiiidks2l",
-      "text": "🚨 GOING LIVE 🚨\nHead to our YouTube for the latest Scotland Rugby News podcast, live at 5.15pm\n👉  www.youtube.com/@ScotRugbyNews",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxetiiidks2l",
-      "publishedAt": "2026-10-08T16:02:47.487Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibzffux4gniflwvqor7hqmh6jp4mzmiblmogjzgheo3xmjpqzspde",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:LjatnW2bBi0",
       "title": "Willemse back gliding on Saturday 👊⚡️",
@@ -312,18 +324,6 @@
       "publishedAt": "2026-10-08T14:30:10.255Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreib56l6tm36eq3rlvush2t3suqnc76ottdprsvlw5l3rkroooe2ki4",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxenkvmohj2x",
-      "text": "Our matchday squad to face @GlasgowWarriors tomorrow at Scotstoun:\n✅ Bundee's back\n✅ All 7️⃣ players on Ireland's summer tour in starting XV\n✅ That back three 🤤\n🔗 https://www.connachtrugby.ie/news/team-announcement-glasgow-warriors-v-connacht/bp3816/",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxenkvmohj2x",
-      "publishedAt": "2026-10-08T14:16:45.610Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreihdyn2e2pdgk77gjawtm2ghnvklhlwvwo6sytrpfzwe4cqn4pstg4",
-      "source": "connachtrugbai.bsky.social"
     },
     {
       "type": "youtube",
