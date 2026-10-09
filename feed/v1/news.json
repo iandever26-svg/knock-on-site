@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T16:07:48+01:00",
+  "generatedAt": "2026-10-09T17:07:16+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxhdtgbhwy2p",
+      "text": "Autograph Alley is back and has a new home at Laya Arena under the arch at Gate J 🏟️\nJamison Gibson-Park, Joey Carbery and Charlie Tector will be scribbling signatures and snapping selfies from  6.35pm tomorrow ✍️\nGet your tickets for Leinster v Cardiff here: https://bit.ly/3UsT8jJ",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxhdtgbhwy2p",
+      "publishedAt": "2026-10-09T16:00:33.490Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreigo7avlsdzjaoirpiasyvoypuqyroqwkxut42w5oa3n3vmqeoeenq",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxhczevwe326",
+      "text": "Haven’t downloaded the app yet? Get it here: http://connachtrugby.ie/app\nOur Round 3 Live Match Centre will keep you up to date with all the important moments from Treviso, including live text commentary, real-time stats and the latest score throughout the game 📱\n#GLAvCON | #BKTURC",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxhczevwe326",
+      "publishedAt": "2026-10-09T15:45:59.455Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidosihuor7s6zvu7nxiyb22kwvsnsicnbg4h2bosowtndshjmeney",
+      "source": "connachtrugbai.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhb3qtmum2p",
+      "text": "Argentina snap up defence guru Edwards ahead of World Cup (✍️@rugby_ie) #Argentina #WorldCup #Football",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxhb3qtmum2p",
+      "publishedAt": "2026-10-09T15:11:31.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidx6lapkfmdqyup2m4bpszbr2er5cjiw46gziji3c4tvvesjp7j7y",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhahhi3sj2v",
@@ -209,18 +245,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxggjb33i626",
-      "text": "\"Be loud, but don't be a pork chop\" #89rugby #rugby #BledisloeCup (📹 @89combo) #Rugby #BledisloeCup #AllBlacks",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxggjb33i626",
-      "publishedAt": "2026-10-09T07:15:53.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie6pxrcobebidd36ui6xjguyeav4cojiijliymrjl3vtng4q57tpa",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxgcj6y5oo2z",
       "text": "As Ewan Ashman prepares to return from injury, we look at the state of play for Scotland's number 2 jersey this autumn\n🔗  shorturl.at/zD27p",
       "author": "Scotland Rugby News",
@@ -230,18 +254,6 @@
       "publishedAt": "2026-10-09T06:04:16.291Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigs2ymdl73fgnmpt2w34vjnak6fovk2whr5gvldnp5srduaaqib4a",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxf4lsziwm2k",
-      "text": "📍 Scotstoun Stadium\n#OneConnacht",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxf4lsziwm2k",
-      "publishedAt": "2026-10-08T18:45:42.550Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreidrsyqfy2joelwbsoogd6oy2twyuzp4gqij4d7bsl2bfn6kxtgroy/thumbnail.jpg",
-      "source": "connachtrugbai.bsky.social"
     },
     {
       "type": "bluesky",
@@ -336,18 +348,6 @@
       "publishedAt": "2026-10-08T14:59:35.709Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreiavrju3bepedayblpifbn5w6ezh7g5nfdzngejxwcuabaufdxpj7e/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxeocusk2w2b",
-      "text": "Are you joining us for our homecoming this Saturday at Laya Arena?\n🎟️ Limited tickets are still available at https://bit.ly/3UsT8jJ",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxeocusk2w2b",
-      "publishedAt": "2026-10-08T14:30:10.255Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreib56l6tm36eq3rlvush2t3suqnc76ottdprsvlw5l3rkroooe2ki4",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "youtube",
