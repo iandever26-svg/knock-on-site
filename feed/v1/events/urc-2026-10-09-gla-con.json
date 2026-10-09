@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T20:07:42+01:00",
+  "updated_at": "2026-10-09T20:12:55+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T20:07:42+01:00",
+      "fetched_at": "2026-10-09T20:12:55+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
@@ -41,6 +41,21 @@
       "label": "Conversion",
       "scoreAfter": {
         "home": 0,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1894833",
+      "minute": 20,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Gregor Hiddleston",
+      "detail": "Try (5-7)",
+      "playerName": "Gregor Hiddleston",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
         "away": 7
       }
     }
