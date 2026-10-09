@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-dra-osp",
   "matchId": "urc-2026-10-09-dra-osp",
-  "updated_at": "2026-10-09T19:57:09+01:00",
+  "updated_at": "2026-10-09T20:02:27+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604049/competitions/604049/plays",
-      "fetched_at": "2026-10-09T19:57:09+01:00",
+      "fetched_at": "2026-10-09T20:02:27+01:00",
       "espn_event_id": "604049",
       "espn_league_id": 270557
     }
@@ -43,6 +43,18 @@
         "home": 7,
         "away": 0
       }
+    },
+    {
+      "id": "espn-1894813",
+      "minute": 10,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Rhodri Jones",
+      "detail": "replaces Rodrigo Martinez",
+      "playerOn": "Rhodri Jones",
+      "playerOff": "Rodrigo Martinez",
+      "label": "Substitution"
     }
   ]
 }
