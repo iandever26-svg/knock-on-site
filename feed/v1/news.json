@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T14:07:07+01:00",
+  "generatedAt": "2026-10-09T15:07:21+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxh2scie6k23",
+      "text": "🗣️ \"We recognise that they will throw everything at us.\"\nEdinburgh prop Paul Hill is refusing to look past Zebre, ahead of their URC meeting on Saturday.\n🔗 shorturl.at/Ie2JA",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxh2scie6k23",
+      "publishedAt": "2026-10-09T13:18:52.255Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidbhf6bbttbpkwc3fdhbdikevvfpj2r6dvtonghz6733he3lzk4h4",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxgzuyej2b23",
@@ -193,18 +205,6 @@
       "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxgcj6y5oo2z",
       "publishedAt": "2026-10-09T06:04:16.291Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigs2ymdl73fgnmpt2w34vjnak6fovk2whr5gvldnp5srduaaqib4a",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxf5id3e3c2g",
-      "text": "WATCH | On this week's podcast, we preview big games for a resurgent Edinburgh in Italy, and a Glasgow side looking to bounce back after the Ulster draw\nFull episode 👉 www.youtube.com/watch?v=wnr...",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxf5id3e3c2g",
-      "publishedAt": "2026-10-08T19:01:38.967Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreic4dv33d3jlalinenehwcm4e7imggnwpqustyzkap4qjz46pk2kba",
       "source": "scotlandrugbynews.bsky.social"
     },
     {
