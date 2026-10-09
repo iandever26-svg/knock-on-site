@@ -1,8 +1,67 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T20:07:22+01:00",
+  "generatedAt": "2026-10-09T21:07:13+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxhqpt2fbs25",
+      "text": "That was a super sweet try right there.\n#GLAvCON #BKTURC",
+      "author": "Harpin' On Rugby",
+      "handle": "harpinonrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
+      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxhqpt2fbs25",
+      "publishedAt": "2026-10-09T19:51:11.425Z",
+      "thumbnail": null,
+      "source": "harpinonrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxhqgbe52k2h",
+      "text": "40'  Dragons are awarded the penalty try. We trail by 2 at the break.\n🐉 DRA 14 - 12 OSP 🖤\n#DRAvOSP | #BKTURC | #OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxhqgbe52k2h",
+      "publishedAt": "2026-10-09T19:45:50.881Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreic4veynluysfxannwaqamddlevveiwk5e5whulmezpgytlcc7nse4",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhps4mj5k2z",
+      "text": "Bundee and Hansen = 💪🔥 (📹@URCOfficial) #rugby #sports #athletes",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxhps4mj5k2z",
+      "publishedAt": "2026-10-09T19:34:34.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigklzdr6dzgqmk74vwsliup5l6n4d43uegkvcv3aynpiy4mmf43uy",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxhplg6fpr2j",
+      "text": "The physicality in this is off the charts 😤\nReminder you can get regular updates on the official Connacht Rugby app 📱\n#GLAvCON | #BKTURC",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxhplg6fpr2j",
+      "publishedAt": "2026-10-09T19:30:49.662Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreiecajewziyxne24eo2n2g77fuyo6nkgl4gndaqw3pmhyidjepjwae",
+      "source": "connachtrugbai.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:x5bg_80KZqY",
+      "title": "Bundee and Hansen = 💪🔥",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=x5bg_80KZqY",
+      "publishedAt": "2026-10-09T19:18:19.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/x5bg_80KZqY/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxho2voaav2v",
@@ -196,18 +255,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxgvlcxcug2i",
-      "text": "Key figures absent as Ireland name 30-player squad to travel to South Africa (✍️@rugby_ie) #Ireland #SpringbokWomen #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxgvlcxcug2i",
-      "publishedAt": "2026-10-09T11:45:29.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreig2xviazigwyvcevxsyl4mlmdyfyhcozhgo7y7aypcglx6pvkbose",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxguti5lbz2d",
       "text": "Glasgow Warriors are aiming to avoid three consecutive home games without a win for the first time since December 2020 as Connacht visit Scotstoun\nFor everything you need to know 👉 shorturl.at/CzSgy",
       "author": "Scotland Rugby News",
@@ -253,18 +300,6 @@
       "publishedAt": "2026-10-09T09:05:46.340Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreigivt4l2x2miwp2rldjxiplbwmtqi75jw3i7wrfxd7mbhecuj3a4u/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxgml5d77k2x",
-      "text": "Ready for Scotstoun tonight! 👊\nLive on @SportTG4 and @PremSportsIRL 📺\n#GLAvCON | #BKTURC",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxgml5d77k2x",
-      "publishedAt": "2026-10-09T09:04:19.282Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreicbud7bmqxbfpsrlga63gev5e7fahy3eue2xgiv6uyagd7mhyohyq",
-      "source": "connachtrugbai.bsky.social"
     },
     {
       "type": "bluesky",
@@ -383,18 +418,6 @@
       "publishedAt": "2026-10-08T15:00:32.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/CIvZNJG6EPs/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxepxiekc22k",
-      "text": "Offloading brilliance and 2️⃣set-piece beauties in SA🤝\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxepxiekc22k",
-      "publishedAt": "2026-10-08T14:59:35.709Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreiavrju3bepedayblpifbn5w6ezh7g5nfdzngejxwcuabaufdxpj7e/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "youtube",
@@ -559,17 +582,6 @@
     },
     {
       "type": "youtube",
-      "id": "yt:27r3nwnEvUk",
-      "title": "From pinpoint 50:22s to outrageous try assists 🤩",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=27r3nwnEvUk",
-      "publishedAt": "2026-10-07T15:00:08.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/27r3nwnEvUk/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "youtube",
       "id": "yt:wnwPJUeNF0w",
       "title": "#SCAvBEN | Cannone N.: \"Contro gli Scarlets per proporre la migliore versione di noi stessi\"",
       "author": "BenettonRugby",
@@ -682,18 +694,6 @@
       "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mwzygnmjbc2b",
       "publishedAt": "2026-10-04T08:31:57.342Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreifzpg4mayqknnuoplfgt64wqthe3thrwcd4htear6yep3sotqudhm",
-      "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mwyiydwoyc2w",
-      "text": "Second week in a row we pulled a late try out of the bag.  In the end it wasn't the scrums that did for us, could have won that with more accuracy in 22 but again plenty to be happy with, esp Sam's shift.  Thought Sharks might have gotten 2nd half card but still deserved win.  #SHAvLEI",
-      "author": "Harpin' On Rugby",
-      "handle": "harpinonrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
-      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mwyiydwoyc2w",
-      "publishedAt": "2026-10-03T18:22:51.564Z",
-      "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
     },
     {
