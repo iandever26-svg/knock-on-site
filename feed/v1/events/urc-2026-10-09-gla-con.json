@@ -2,16 +2,47 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T19:46:44+01:00",
+  "updated_at": "2026-10-09T20:07:42+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T19:46:44+01:00",
+      "fetched_at": "2026-10-09T20:07:42+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "espn-1894822",
+      "minute": 15,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Sean Jansen",
+      "detail": "Try (0-5)",
+      "playerName": "Sean Jansen",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1894823",
+      "minute": 16,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Ciarán Frawley",
+      "detail": "Conversion (0-7)",
+      "playerName": "Ciarán Frawley",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 0,
+        "away": 7
+      }
+    }
+  ]
 }
