@@ -1,8 +1,19 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T18:07:16+01:00",
+  "generatedAt": "2026-10-09T19:07:22+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:iiwYREOouG0",
+      "title": "Behind-The-Scenes | URC Round Three | Zebra Away",
+      "author": "Edinburgh Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=iiwYREOouG0",
+      "publishedAt": "2026-10-09T17:07:26.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/iiwYREOouG0/hqdefault.jpg",
+      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxhfkbp7b72u",
@@ -589,17 +600,6 @@
       "publishedAt": "2026-10-06T14:49:28.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/MTKRan8tT6g/hqdefault.jpg",
       "source": "UC7991AZNku42o3Y36kUZOJA"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:YSKXXV_ae8g",
-      "title": "How well do you know 1996?  #rugby  #edinburghrugby #quiz #1996 #90s #funny",
-      "author": "Edinburgh Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=YSKXXV_ae8g",
-      "publishedAt": "2026-10-06T14:05:42.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/YSKXXV_ae8g/hqdefault.jpg",
-      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
       "type": "bluesky",
