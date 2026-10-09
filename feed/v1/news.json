@@ -1,8 +1,68 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-09T08:32:31+01:00",
+  "generatedAt": "2026-10-09T10:07:08+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxgmnpwcoc22",
+      "text": "Welsh derby ready 👊\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxgmnpwcoc22",
+      "publishedAt": "2026-10-09T09:05:46.340Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreigivt4l2x2miwp2rldjxiplbwmtqi75jw3i7wrfxd7mbhecuj3a4u/thumbnail.jpg",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxgml5d77k2x",
+      "text": "Ready for Scotstoun tonight! 👊\nLive on @SportTG4 and @PremSportsIRL 📺\n#GLAvCON | #BKTURC",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxgml5d77k2x",
+      "publishedAt": "2026-10-09T09:04:19.282Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreicbud7bmqxbfpsrlga63gev5e7fahy3eue2xgiv6uyagd7mhyohyq",
+      "source": "connachtrugbai.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxgml2yvbs2x",
+      "text": "HB to FB! 🎈\nLá breithe sona duit! 🎂🥳\n#OneConnacht",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxgml2yvbs2x",
+      "publishedAt": "2026-10-09T09:04:16.848Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreicnx4dkywqp3kdscrtcifxg7ahim2ntb3flljuu26v6fly6ci5aem",
+      "source": "connachtrugbai.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxgmds4wbt2z",
+      "text": "🔵 We're seeking applications for the position of Women’s Development Officer (Fingal)\n🏉 The successful candidate will be responsible for promoting the women's game to support increased player participation in the area\nGet more info and apply here 👉 https://bit.ly/4dtfQyK",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxgmds4wbt2z",
+      "publishedAt": "2026-10-09T09:00:12.991Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidlxsf7js6fvlprmn62ydc3cpfngewxxlopdphnnb6edxltdoo6we",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxglpsttkq2d",
+      "text": "Glasgow Warriors are aiming to avoid three consecutive home games without a win for the first time since December 2020 as Connacht visit Scotstoun.\nThe Warriors boast a formidable home record under Franco Smith, but Connacht have a good recent record on the road\n🔗 shorturl.at/CzSgy",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxglpsttkq2d",
+      "publishedAt": "2026-10-09T08:49:02.601Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreic56nshdh5kuppjgz6eevfyf4u6gnjfr56b6bktr5a7khhlqc2wcm",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxggjb33i626",
@@ -231,18 +291,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxept6iijj2w",
-      "text": "Edinburgh Rugby head coach Sean Everitt is hopeful of keeping two of the club’s brightest young talents despite reported interest from south of the border\n🔗 shorturl.at/FcY0g",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxept6iijj2w",
-      "publishedAt": "2026-10-08T14:57:10.974Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreichhavdrxvtbq62ueofqwqbu7jmpjahlhr5cjibdfmfpxkoj6tmre",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxeocusk2w2b",
       "text": "Are you joining us for our homecoming this Saturday at Laya Arena?\n🎟️ Limited tickets are still available at https://bit.ly/3UsT8jJ",
       "author": "Leinster Rugby",
@@ -359,18 +407,6 @@
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxe6jbsqgw2a",
-      "text": "On our way to Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿\nWith thanks to our partners @citylinkireland 🚌\n#OneConnacht",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxe6jbsqgw2a",
-      "publishedAt": "2026-10-08T09:47:25.159Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreifvdm5btvucgmfooqn5g5mptk7mhn6rxg57wpbn4xbxvmagmyefmq/thumbnail.jpg",
-      "source": "connachtrugbai.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:FvRzm2lm2Wc",
       "title": "We've all scrolled too far before  #rugby #edinburghrugby #funny #joke #reel #shorts #sports #fun",
@@ -442,18 +478,6 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxcfhyomac2k",
-      "text": "Pre-Match Press Conference 🎥\nHear from Mark Jones ahead of this weekend's BKT URC Round Three fixture vs Dragons RFC.\n\"It's a great place to go and play. I think I read that it's a sell out and our guys love going up there.\"\n🎞️ youtu.be/578MS0i1EBg\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxcfhyomac2k",
-      "publishedAt": "2026-10-07T16:46:39.045Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreig7jtwhvtanuc6czxejap7z4qsqg7yafeptnt3tnfru6wbcv25klu",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:HHLA4TkjWF8",
       "title": "French Lesson 3 | True or Faux With Simon Zebo 👨‍🏫🏉",
@@ -496,18 +520,6 @@
       "publishedAt": "2026-10-07T15:00:08.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/27r3nwnEvUk/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxc2mtoq5j26",
-      "text": "Abhaile arís 🏡 Home again for @URCOfficial action in two weeks.\nTicéidí ar díol 🎟️ https://connachtrugby.ie/tickets/buy-tickets/200/\n#OneConnacht",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxc2mtoq5j26",
-      "publishedAt": "2026-10-07T13:32:30.118Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreia5ao3jyrfei5geyttlq5qdnyl3kre7uxwlded76anrvzcorvjfji",
-      "source": "connachtrugbai.bsky.social"
     },
     {
       "type": "bluesky",
@@ -554,18 +566,6 @@
       "publishedAt": "2026-10-07T06:52:33.506Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiaa26t5x2nckfvrgbdtv2clmkp26sh5rva2jh5erwwm7ymapbgmee",
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mx7vrpbpty2i",
-      "text": "We're finally back home this Saturday and there's loads to look forward to before the game even kicks off! 🙌\nEnjoy a pint at the new Fanzone or welcome the team as they make their way in. Just make sure you're in your seat for the Homecoming  Ceremony! ✨\nSee what's on 👉 https://bit.ly/4yAEplK",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mx7vrpbpty2i",
-      "publishedAt": "2026-10-06T17:00:25.272Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiep3lhallnpk4lbb3rujuj77ruve7xcalwuoyel5dnva3xzdlikiy",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "youtube",
