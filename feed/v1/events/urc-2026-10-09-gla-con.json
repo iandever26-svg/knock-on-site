@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-09-gla-con",
   "matchId": "urc-2026-10-09-gla-con",
-  "updated_at": "2026-10-09T20:28:39+01:00",
+  "updated_at": "2026-10-09T20:39:06+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604048/competitions/604048/plays",
-      "fetched_at": "2026-10-09T20:28:39+01:00",
+      "fetched_at": "2026-10-09T20:39:06+01:00",
       "espn_event_id": "604048",
       "espn_league_id": 270557
     }
@@ -86,6 +86,51 @@
       "label": "Conversion",
       "scoreAfter": {
         "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1894853",
+      "minute": 42,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Sam Illo",
+      "detail": "Yellow card (12-7)",
+      "playerName": "Sam Illo",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1894854",
+      "minute": 43,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Gregor Hiddleston",
+      "detail": "Try (17-7)",
+      "playerName": "Gregor Hiddleston",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1894855",
+      "minute": 44,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "George Horne",
+      "detail": "Conversion (19-7)",
+      "playerName": "George Horne",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
         "away": 7
       }
     }
