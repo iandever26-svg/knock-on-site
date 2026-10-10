@@ -1,8 +1,91 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T17:07:22+01:00",
+  "generatedAt": "2026-10-10T18:07:05+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjxxwvhbp2h",
+      "text": "“A bonus point win in Parma has been scarce for Edinburgh.”\nEdinburgh boss Sean Everitt praised the character his side showed in their win over Zebre\n🔗  shorturl.at/o31IU",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjxxwvhbp2h",
+      "publishedAt": "2026-10-10T17:06:19.396Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreievuuxrblnfzaxc4v4kszc47jvyglop7az3lfmltjpfzvg73oy2lu",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxjxqcibav2o",
+      "text": "📘 Don't forget to pick up a copy of today's programme — €1 from every sale goes towards the IRFU Charitable Trust\nIn this issue:\n💬 Jimmy O'Brien and Andrew Sparrow interviews\n💙 Catching up with former Leinster winger Adam Byrne\n🏉 PhilFest returns to Tallaght\n#LEIvCAR",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxjxqcibav2o",
+      "publishedAt": "2026-10-10T17:02:03.162Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiah222ygbvrc75dtgtiyktgckyapyhvshrxdgqftvlc3kwpogabb4",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxjwtoyyds26",
+      "text": "Zebre Parma v Edinburgh | Highlights | Round 3 | URC 2026/27 (📹@URCOfficial) #UnitedRugbyChampionship #URC #ZebreParma",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxjwtoyyds26",
+      "publishedAt": "2026-10-10T16:46:03.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiakevgprbjiwizzaqe57idylnguiaa4b3fahmskouihqwhopldraa",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxjwrx3jen2a",
+      "text": "After two years away, it's good to home 😍\nJust two hours to go until kick off 🔥\n#LEIvCAR",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxjwrx3jen2a",
+      "publishedAt": "2026-10-10T16:45:04.581Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidkkhdeioimnibccuf2hurevtzelk2mdj7tvc63y2gyrtwlmx5h7q",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:7srfWK83OB8",
+      "title": "Zebre Parma v Edinburgh | Highlights | Round 3 | URC 2026/27",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=7srfWK83OB8",
+      "publishedAt": "2026-10-10T16:30:35.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/7srfWK83OB8/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjvgy2qlz2d",
+      "text": "Edinburgh sealed their best league start for 11 years with a bonus point win over Zebre in Parma\nFive talking points 👉 shorturl.at/P6R2l",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjvgy2qlz2d",
+      "publishedAt": "2026-10-10T16:21:02.731Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigqvj4jgifrvg7ez2vhg46rq6k72w5byp7rfthijwzx2exdmol6oq",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxjv7qa3vv22",
+      "text": "United Rugby Championship: Ulster v Munster updates (✍️@RTErugby) #UnitedRugbyChampionship #Ulster #Munster",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxjv7qa3vv22",
+      "publishedAt": "2026-10-10T16:16:59.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreialnfev7hf4jk5aqv3g6ctgbgfuws2dqtfnhdqjusjc3vv7nvx5mi",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjttrp6ls2w",
@@ -147,18 +230,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjkcd7s3w2y",
-      "text": "🏰 Here's a reminder of the Edinburgh team to face Zebre in Parma",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjkcd7s3w2y",
-      "publishedAt": "2026-10-10T13:01:35.104Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreig2dgqwy6u46gywulxsmixzvsdmkhkqujlok264wcqess5sk2r2ki",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mxjjkbsuzs2w",
       "text": "Can I tempt you with another Harlequins long-read?\nSpent the week talking to sources inside and outside the club about the obvious problems, the solutions, and just how deep this rebuild is. observer.co.uk/news/sport/a...",
       "author": "Ben Coles",
@@ -168,18 +239,6 @@
       "publishedAt": "2026-10-10T12:48:08.875Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreieurutlrj7gy3r3swzfhchqebylu3do7tmsqeqgvkdkpb23wz7pfa",
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjjjywdqf2v",
-      "text": "WATCH | Our team react to a big win for Glasgow last night\n⭐ Rory Darge outstanding\n💪 Glasgow's pack power\n🧢 Cap calling for Josh McKay?\n👉 www.youtube.com/watch?v=L-j...",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjjjywdqf2v",
-      "publishedAt": "2026-10-10T12:47:58.306Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiej3p3z75acrwnhpr2cnuaqiuivsnbin7rivi2ctef3xmikda6tze",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -243,18 +302,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxj6frlq5k2s",
-      "text": "All Blacks extend Eden Park streak with big win over Wallabies (✍️@rugby_ie) #AllBlacks #BledisloeCup #EdenPark",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxj6frlq5k2s",
-      "publishedAt": "2026-10-10T09:28:46.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiede4xhk42ytykxf2yrxvggmktvam3abet7f3tmepk7mc6ngrotx4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxj5bbaiwc27",
       "text": "Welsh derby winning faces 🖤\n#OurBloodIsBlack",
       "author": "Ospreys Rugby",
@@ -264,30 +311,6 @@
       "publishedAt": "2026-10-10T09:08:21.353Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreihizmy7py633lp67rhexqb62rrcekx7atvlwfhf4i2ze2zcbs6mwu",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxj45j7csk22",
-      "text": "New Zealand make light work of Aussies in Auckland (✍️@RTErugby) #BledisloeCup #AllBlacks #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxj45j7csk22",
-      "publishedAt": "2026-10-10T08:48:21.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiempwplyjloavpgpdg32n6tf7psea74hvqeccli72csuzh53mkvmy",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxizhgjcpd2z",
-      "text": "It's finally time to get back home! 💙\nSee you tonight for our first home game of the season 🙌\n🎟️ Last chance for tickets: https://bit.ly/3UsT8jJ\n#LEIvCAR",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxizhgjcpd2z",
-      "publishedAt": "2026-10-10T08:00:13.153Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreicgi5ige6xupalq5qfc46c4n34bqkguenvqknxatpa7tavmfhmdye",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "bluesky",
@@ -491,18 +514,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxhdtgbhwy2p",
-      "text": "Autograph Alley is back and has a new home at Laya Arena under the arch at Gate J 🏟️\nJamison Gibson-Park, Joey Carbery and Charlie Tector will be scribbling signatures and snapping selfies from  6.35pm tomorrow ✍️\nGet your tickets for Leinster v Cardiff here: https://bit.ly/3UsT8jJ",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxhdtgbhwy2p",
-      "publishedAt": "2026-10-09T16:00:33.490Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreigo7avlsdzjaoirpiasyvoypuqyroqwkxut42w5oa3n3vmqeoeenq",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxgqpqyzts27",
       "text": "Our latest “80+ column” newsletter\ncovering topics like…\n🏉 Leinster v Cardiff preview\n🏉 Let’s be Avan you\n🏉 Tackling tackles\n🏉 How Bledisloe can they go?\n🏉 “...and much, much more”\nCheck it out here > jeffpagano.substack.com/p/80-column-...",
       "author": "Harpin' On Rugby",
@@ -524,17 +535,6 @@
       "publishedAt": "2026-10-08T17:27:56.071Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreid2bx4asfbngpcjmzggclumpmerqywd3xv7arowmavpaluib7fw4q",
       "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:LjatnW2bBi0",
-      "title": "Willemse back gliding on Saturday 👊⚡️",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=LjatnW2bBi0",
-      "publishedAt": "2026-10-08T16:00:12.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/LjatnW2bBi0/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "youtube",
