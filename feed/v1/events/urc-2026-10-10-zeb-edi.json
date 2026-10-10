@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-zeb-edi",
   "matchId": "urc-2026-10-10-zeb-edi",
-  "updated_at": "2026-10-10T16:17:51+01:00",
+  "updated_at": "2026-10-10T16:23:05+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604052/competitions/604052/plays",
-      "fetched_at": "2026-10-10T16:17:51+01:00",
+      "fetched_at": "2026-10-10T16:23:05+01:00",
       "espn_event_id": "604052",
       "espn_league_id": 270557
     }
@@ -156,7 +156,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895780",
+      "id": "espn-1895801",
       "minute": 54,
       "period": "2H",
       "type": "substitution",
@@ -165,6 +165,84 @@
       "detail": "replaces Tommaso di Bartolomeo",
       "playerOn": "Francisco Minervino",
       "playerOff": "Tommaso di Bartolomeo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895803",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Federico Pisani",
+      "detail": "replaces Sergio Pelliccioli",
+      "playerOn": "Federico Pisani",
+      "playerOff": "Sergio Pelliccioli",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895785",
+      "minute": 56,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Magnus Bradbury",
+      "detail": "Try (5-20)",
+      "playerName": "Magnus Bradbury",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 20
+      }
+    },
+    {
+      "id": "espn-1895794",
+      "minute": 56,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "James Grayson",
+      "detail": "Conversion (5-22)",
+      "playerName": "James Grayson",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 5,
+        "away": 22
+      }
+    },
+    {
+      "id": "espn-1895827",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Tommaso Allan",
+      "detail": "replaces Giacomo da Re",
+      "playerOn": "Tommaso Allan",
+      "playerOff": "Giacomo da Re",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895830",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Marco Zanon",
+      "detail": "replaces Damiano Mazza",
+      "playerOn": "Marco Zanon",
+      "playerOff": "Damiano Mazza",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895819",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Bautista Stavile",
+      "detail": "replaces Davide Ruggeri",
+      "playerOn": "Bautista Stavile",
+      "playerOff": "Davide Ruggeri",
       "label": "Substitution"
     }
   ]
