@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-bul-lio",
   "matchId": "urc-2026-10-10-bul-lio",
-  "updated_at": "2026-10-10T12:47:43+01:00",
+  "updated_at": "2026-10-10T12:52:57+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604050/competitions/604050/plays",
-      "fetched_at": "2026-10-10T12:47:43+01:00",
+      "fetched_at": "2026-10-10T12:52:57+01:00",
       "espn_event_id": "604050",
       "espn_league_id": 270557
     }
@@ -40,6 +40,36 @@
       "playerOn": "RF Schoeman",
       "playerOff": "Sebastian Lombard",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1895437",
+      "minute": 18,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Sibabalo Qoma",
+      "detail": "Try (5-5)",
+      "playerName": "Sibabalo Qoma",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1895438",
+      "minute": 19,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Chris Smith",
+      "detail": "Conversion (5-7)",
+      "playerName": "Chris Smith",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 5,
+        "away": 7
+      }
     }
   ]
 }
