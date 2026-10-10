@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-uls-mun",
   "matchId": "urc-2026-10-10-uls-mun",
-  "updated_at": "2026-10-10T18:16:08+01:00",
+  "updated_at": "2026-10-10T18:21:21+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604054/competitions/604054/plays",
-      "fetched_at": "2026-10-10T18:16:08+01:00",
+      "fetched_at": "2026-10-10T18:21:21+01:00",
       "espn_event_id": "604054",
       "espn_league_id": 270557
     }
@@ -129,6 +129,36 @@
       "scoreAfter": {
         "home": 5,
         "away": 19
+      }
+    },
+    {
+      "id": "espn-1896296",
+      "minute": 40,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Alex Kendellen",
+      "detail": "Try (5-24)",
+      "playerName": "Alex Kendellen",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 24
+      }
+    },
+    {
+      "id": "espn-1896295",
+      "minute": 40,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "JJ Hanrahan",
+      "detail": "Conversion (5-26)",
+      "playerName": "JJ Hanrahan",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 5,
+        "away": 26
       }
     }
   ]
