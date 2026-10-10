@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-lei-car",
   "matchId": "urc-2026-10-10-lei-car",
-  "updated_at": "2026-10-10T20:03:13+01:00",
+  "updated_at": "2026-10-10T20:08:26+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604055/competitions/604055/plays",
-      "fetched_at": "2026-10-10T20:03:13+01:00",
+      "fetched_at": "2026-10-10T20:08:26+01:00",
       "espn_event_id": "604055",
       "espn_league_id": 270557
     }
@@ -30,8 +30,8 @@
       }
     },
     {
-      "id": "espn-1896501",
-      "minute": 16,
+      "id": "espn-1896517",
+      "minute": 15,
       "period": "1H",
       "type": "yellow_card",
       "team": "away",
@@ -56,6 +56,21 @@
       "label": "Try",
       "scoreAfter": {
         "home": 10,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1896518",
+      "minute": 19,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Jack Conan",
+      "detail": "Try (15-0)",
+      "playerName": "Jack Conan",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 15,
         "away": 0
       }
     }
