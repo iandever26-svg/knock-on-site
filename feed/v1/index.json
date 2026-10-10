@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T14:42:22+01:00",
-  "updatedAt": "2026-10-10T14:42:22+01:00",
+  "generatedAt": "2026-10-10T14:45:28+01:00",
+  "updatedAt": "2026-10-10T14:45:28+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-10T14:42:22+01:00",
   "matches": [
@@ -241,7 +241,7 @@
       "score": true,
       "scoreUpdatedAt": "2026-10-10T14:42:17+01:00",
       "lineup": true,
-      "lineupUpdatedAt": "2026-10-08T15:07:49+01:00",
+      "lineupUpdatedAt": "2026-10-10T14:43:05+01:00",
       "events": false,
       "eventsUpdatedAt": null
     }
