@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T19:10:00+01:00",
-  "final": false,
+  "updated_at": "2026-10-10T19:15:13+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T19:10:00+01:00",
+      "fetched_at": "2026-10-10T19:15:13+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -132,7 +133,7 @@
       }
     },
     {
-      "id": "espn-1896293",
+      "id": "espn-1896426",
       "minute": 39,
       "period": "1H",
       "type": "conversion_made",
