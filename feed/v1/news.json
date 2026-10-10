@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T11:07:17+01:00",
+  "generatedAt": "2026-10-10T12:07:15+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxjckgiczs2g",
+      "text": "ICYMI our #LEIvCAR preview is part of our latest 80+ column > jeffpagano.substack.com/p/80-column-...  #BKTURC",
+      "author": "Harpin' On Rugby",
+      "handle": "harpinonrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
+      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxjckgiczs2g",
+      "publishedAt": "2026-10-10T10:42:57.572Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiegx7ysm4pzmm5ymwetwlmuhlupjlfgfiobxxg47oo7hedwrxzfbm",
+      "source": "harpinonrugby.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxja5v7e6g2w",
@@ -683,18 +695,6 @@
       "publishedAt": "2026-10-05T09:00:16.484Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiaxazkjmls4w6ri4qodokhcrot7nlrhgoa3sbg5rniram2h6vxvlm",
       "source": "the2ndrow.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mwzygnmjbc2b",
-      "text": "On Sunday mornings we share our notes from our feature match on Substack, including real-time screengrabs from our WhatsApp group throughout > jeffpagano.substack.com/p/sharks-v-l...",
-      "author": "Harpin' On Rugby",
-      "handle": "harpinonrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
-      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mwzygnmjbc2b",
-      "publishedAt": "2026-10-04T08:31:57.342Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreifzpg4mayqknnuoplfgt64wqthe3thrwcd4htear6yep3sotqudhm",
-      "source": "harpinonrugby.bsky.social"
     },
     {
       "type": "bluesky",
