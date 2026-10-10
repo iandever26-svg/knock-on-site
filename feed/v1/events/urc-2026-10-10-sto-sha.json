@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sto-sha",
   "matchId": "urc-2026-10-10-sto-sha",
-  "updated_at": "2026-10-10T15:46:24+01:00",
+  "updated_at": "2026-10-10T15:51:39+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604051/competitions/604051/plays",
-      "fetched_at": "2026-10-10T15:46:24+01:00",
+      "fetched_at": "2026-10-10T15:51:39+01:00",
       "espn_event_id": "604051",
       "espn_league_id": 270557
     }
@@ -130,6 +130,18 @@
         "home": 15,
         "away": 8
       }
+    },
+    {
+      "id": "espn-1895708",
+      "minute": 37,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jason Jenkins",
+      "detail": "replaces Eben Etzebeth",
+      "playerOn": "Jason Jenkins",
+      "playerOff": "Eben Etzebeth",
+      "label": "Substitution"
     }
   ]
 }

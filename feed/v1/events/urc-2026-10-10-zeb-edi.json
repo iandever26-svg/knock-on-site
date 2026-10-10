@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-zeb-edi",
   "matchId": "urc-2026-10-10-zeb-edi",
-  "updated_at": "2026-10-10T15:46:24+01:00",
+  "updated_at": "2026-10-10T15:51:40+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604052/competitions/604052/plays",
-      "fetched_at": "2026-10-10T15:46:24+01:00",
+      "fetched_at": "2026-10-10T15:51:40+01:00",
       "espn_event_id": "604052",
       "espn_league_id": 270557
     }
@@ -90,7 +90,7 @@
       }
     },
     {
-      "id": "espn-1895699",
+      "id": "espn-1895711",
       "minute": 37,
       "period": "1H",
       "type": "yellow_card",
@@ -105,7 +105,7 @@
       }
     },
     {
-      "id": "espn-1895700",
+      "id": "espn-1895714",
       "minute": 37,
       "period": "1H",
       "type": "try",
