@@ -443,7 +443,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292602%5D%7D",
-      "fetched_at": "2026-10-10T12:47:54+01:00",
+      "fetched_at": "2026-10-10T15:14:35+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": true,
@@ -454,20 +454,9 @@
       "source_tier": "official"
     },
     {
-      "source_name": "rugbypass",
-      "url": "https://www.rugbypass.com/live/bulls-vs-lions/teams/",
-      "fetched_at": "2026-10-10T12:47:54+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "home",
-      "source_tier": "secondary"
-    },
-    {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26741/urc-2026-2027/bulls-lions",
-      "fetched_at": "2026-10-10T12:47:54+01:00",
+      "fetched_at": "2026-10-10T15:14:35+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -491,7 +480,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292602%5D%7D",
-      "fetched_at": "2026-10-10T12:47:54+01:00",
+      "fetched_at": "2026-10-10T15:14:35+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": true,
@@ -502,20 +491,9 @@
       "source_tier": "official"
     },
     {
-      "source_name": "rugbypass",
-      "url": "https://www.rugbypass.com/live/bulls-vs-lions/teams/",
-      "fetched_at": "2026-10-10T12:47:54+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away",
-      "source_tier": "secondary"
-    },
-    {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26741/urc-2026-2027/bulls-lions",
-      "fetched_at": "2026-10-10T12:47:54+01:00",
+      "fetched_at": "2026-10-10T15:14:35+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -536,16 +514,16 @@
     }
   ],
   "confidence": {
-    "overall": 0.98,
+    "overall": 0.95,
     "match_identity": 0.9,
-    "home_lineup": 0.98,
-    "away_lineup": 0.98,
+    "home_lineup": 0.95,
+    "away_lineup": 0.95,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from urc_official (official); rugbypass 23/23 jerseys agree; all_rugby 19/23 jerseys agree (differs at #1,#3,#4,#5)",
-      "away: complete_1_to_23 from urc_official (official); rugbypass 23/23 jerseys agree; all_rugby 21/23 jerseys agree (differs at #1,#3)",
+      "home: complete_1_to_23 from urc_official (official); all_rugby 19/23 jerseys agree (differs at #1,#3,#4,#5)",
+      "away: complete_1_to_23 from urc_official (official); all_rugby 19/23 jerseys agree (differs at #1,#3,#12,#13)",
       "home: X cross-check https://x.com/BlueBullsRugby/status/2108182410856731020 (posted 2026-10-08T14:07:09+01:00) — graphic viewed with Read 2026-10-08T15:20:55+01:00 (yes): Bulls matchday squad graphic, numbered 1–23; all 23 match by eye; 7 Hanro Liebenberg (C); machine-certain: 9/23 agree, 0 disagree, 14 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 9); captain on X #7 (agree)"
     ]
   },
-  "notes": "Ingest poll 2026-10-10T12:47:54+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-10T15:14:35+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
