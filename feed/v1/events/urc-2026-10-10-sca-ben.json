@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T17:59:22+01:00",
+  "updated_at": "2026-10-10T18:16:08+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T17:59:22+01:00",
+      "fetched_at": "2026-10-10T18:16:08+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -114,6 +114,36 @@
       "scoreAfter": {
         "home": 7,
         "away": 14
+      }
+    },
+    {
+      "id": "espn-1896292",
+      "minute": 38,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Michele Lamaro",
+      "detail": "Try (7-19)",
+      "playerName": "Michele Lamaro",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 7,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1896293",
+      "minute": 39,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jacob Umaga",
+      "detail": "Conversion (7-21)",
+      "playerName": "Jacob Umaga",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 21
       }
     }
   ]
