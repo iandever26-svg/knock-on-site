@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T14:11:46+01:00",
+  "generatedAt": "2026-10-10T15:07:20+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxjnuqdgkp2i",
+      "text": "Vorster does it ALL himself 😍🐃 #URC (📹@URCOfficial) #Vorster #Sport #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxjnuqdgkp2i",
+      "publishedAt": "2026-10-10T14:05:34.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreih4ngbv33eqebjxyrvi6txkm3lctvzjhjw5622fdpxeuwktawl2g4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjnm5ofmk2o",
+      "text": "Edinburgh all set to take on Zebre in Parma\nCan they make it three from three this afternoon?",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjnm5ofmk2o",
+      "publishedAt": "2026-10-10T14:00:46.608Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreie6jgmqvjr3y7jkvl5wzd77pgev4tvpxtnowwpmak3chtpvnemdga",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxjkeqa3r22l",
@@ -206,30 +230,6 @@
       "publishedAt": "2026-10-10T06:41:53.999Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreiftp4gylgr2ry5gnazsnkfqbc65zqr3gyslwj6kmcmkkuvq6ofgaq",
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxisxgyhxw2s",
-      "text": "Munster's last visit to Belfast was miserable, but Ulster must improve home record (✍️@rugby_ie) #Munster #Ulster #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxisxgyhxw2s",
-      "publishedAt": "2026-10-10T06:03:54.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihwclroiid7cywzyxwtlrn7uggnwxvj4rk753dabuweoidesqqxdu",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxiswuqshe2z",
-      "text": "Glasgow returned to winning ways as four maul tries helped the Warriors fight off Connacht at Scotstoun\nFive talking points 👉 shorturl.at/PT0xm",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxiswuqshe2z",
-      "publishedAt": "2026-10-10T06:03:31.409Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifyxws6dcqk2z65u26ppcrcxb6oxsn2pundeghybdvaz6g24zkmbq",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
