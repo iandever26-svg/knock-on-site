@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T12:07:15+01:00",
+  "generatedAt": "2026-10-10T13:11:25+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxjgunucbd2b",
+      "text": "Don't miss all the great events at our Laya Arena Homecoming tonight starting with the new Fanzone from 5pm! 🏟️\n🎤 Player Q&A\n🤳 Autograph Alley\n🎆 Pre-match ceremony\n🎉 Fanzone afterparty\nSee the full info for what's on here: https://bit.ly/4yAEplK\n#LEIvCAR",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxjgunucbd2b",
+      "publishedAt": "2026-10-10T12:00:15.699Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreihjkzp763shegoxbstc5ggcbof5klv7pbf3t3js3lc26ozzyy4tcq",
+      "source": "leinsterrugby.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxjckgiczs2g",
@@ -406,18 +418,6 @@
       "publishedAt": "2026-10-09T13:18:52.255Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidbhf6bbttbpkwc3fdhbdikevvfpj2r6dvtonghz6733he3lzk4h4",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxgzuyej2b23",
-      "text": "See 🫵 tomorrow!\n🎟️ Tickets available at https://bit.ly/3UsT8jJ",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxgzuyej2b23",
-      "publishedAt": "2026-10-09T13:02:28.605Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Abgeqymeltxrtny34aikxe4vy/bafkreidsc3lzllih4bjejptr54n57glnpywzhmxziei3fs4hhknaapypny/thumbnail.jpg",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "bluesky",
