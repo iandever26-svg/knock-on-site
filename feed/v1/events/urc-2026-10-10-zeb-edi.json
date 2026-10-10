@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-zeb-edi",
   "matchId": "urc-2026-10-10-zeb-edi",
-  "updated_at": "2026-10-10T15:20:16+01:00",
+  "updated_at": "2026-10-10T15:36:52+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604052/competitions/604052/plays",
-      "fetched_at": "2026-10-10T15:20:16+01:00",
+      "fetched_at": "2026-10-10T15:36:52+01:00",
       "espn_event_id": "604052",
       "espn_league_id": 270557
     }
@@ -57,6 +57,36 @@
       "scoreAfter": {
         "home": 5,
         "away": 3
+      }
+    },
+    {
+      "id": "espn-1895671",
+      "minute": 30,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Matt Currie",
+      "detail": "Try (5-8)",
+      "playerName": "Matt Currie",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1895672",
+      "minute": 30,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "James Grayson",
+      "detail": "Conversion (5-10)",
+      "playerName": "James Grayson",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 5,
+        "away": 10
       }
     }
   ]
