@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-uls-mun",
   "matchId": "urc-2026-10-10-uls-mun",
-  "updated_at": "2026-10-10T19:04:48+01:00",
+  "updated_at": "2026-10-10T19:10:00+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604054/competitions/604054/plays",
-      "fetched_at": "2026-10-10T19:04:48+01:00",
+      "fetched_at": "2026-10-10T19:10:00+01:00",
       "espn_event_id": "604054",
       "espn_league_id": 270557
     }
@@ -286,6 +286,60 @@
       "playerOn": "Michael Foy",
       "playerOff": "Evan O'Connell",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1896415",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Josh Wycherley",
+      "detail": "replaces Jeremy Loughman",
+      "playerOn": "Josh Wycherley",
+      "playerOff": "Jeremy Loughman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896417",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Max Clein",
+      "detail": "replaces Marnus van der Merwe",
+      "playerOn": "Max Clein",
+      "playerOff": "Marnus van der Merwe",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896419",
+      "minute": 68,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "David McCann",
+      "detail": "Try (17-26)",
+      "playerName": "David McCann",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1896420",
+      "minute": 69,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jack Murphy",
+      "detail": "Conversion (19-26)",
+      "playerName": "Jack Murphy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 26
+      }
     }
   ]
 }

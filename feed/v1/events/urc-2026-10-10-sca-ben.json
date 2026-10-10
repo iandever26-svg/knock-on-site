@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T19:04:47+01:00",
+  "updated_at": "2026-10-10T19:10:00+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T19:04:47+01:00",
+      "fetched_at": "2026-10-10T19:10:00+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -401,18 +401,18 @@
       }
     },
     {
-      "id": "espn-1896414",
-      "minute": 74,
+      "id": "espn-1896425",
+      "minute": 78,
       "period": "2H",
-      "type": "conversion_made",
-      "team": "away",
-      "player": "Jacob Umaga",
-      "detail": "Conversion (24-28)",
-      "playerName": "Jacob Umaga",
-      "label": "Conversion",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Sam Costelow",
+      "detail": "Penalty (27-26)",
+      "playerName": "Sam Costelow",
+      "label": "Penalty",
       "scoreAfter": {
-        "home": 24,
-        "away": 28
+        "home": 27,
+        "away": 26
       }
     }
   ]
