@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-lei-car",
   "matchId": "urc-2026-10-10-lei-car",
-  "updated_at": "2026-10-10T21:15:31+01:00",
+  "updated_at": "2026-10-10T21:20:47+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604055/competitions/604055/plays",
-      "fetched_at": "2026-10-10T21:15:31+01:00",
+      "fetched_at": "2026-10-10T21:20:47+01:00",
       "espn_event_id": "604055",
       "espn_league_id": 270557
     }
@@ -252,8 +252,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1896713",
-      "minute": 67,
+      "id": "espn-1896725",
+      "minute": 66,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -264,8 +264,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1896715",
-      "minute": 67,
+      "id": "espn-1896727",
+      "minute": 66,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -276,8 +276,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1896717",
-      "minute": 69,
+      "id": "espn-1896758",
+      "minute": 67,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -285,6 +285,18 @@
       "detail": "replaces Liam Belcher",
       "playerOn": "Semisi Paea",
       "playerOff": "Liam Belcher",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896755",
+      "minute": 73,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Rónan Kelleher",
+      "detail": "replaces Dan Sheehan",
+      "playerOn": "Rónan Kelleher",
+      "playerOff": "Dan Sheehan",
       "label": "Substitution"
     }
   ]
