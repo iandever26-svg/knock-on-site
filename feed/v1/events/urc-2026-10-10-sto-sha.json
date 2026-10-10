@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sto-sha",
   "matchId": "urc-2026-10-10-sto-sha",
-  "updated_at": "2026-10-10T16:33:34+01:00",
+  "updated_at": "2026-10-10T16:38:47+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604051/competitions/604051/plays",
-      "fetched_at": "2026-10-10T16:33:34+01:00",
+      "fetched_at": "2026-10-10T16:38:47+01:00",
       "espn_event_id": "604051",
       "espn_league_id": 270557
     }
@@ -451,6 +451,30 @@
         "home": 39,
         "away": 22
       }
+    },
+    {
+      "id": "espn-1895931",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Riley Norton",
+      "detail": "replaces Adré Smith",
+      "playerOn": "Riley Norton",
+      "playerOff": "Adré Smith",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895933",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Connor Evans",
+      "detail": "replaces JD Schickerling",
+      "playerOn": "Connor Evans",
+      "playerOff": "JD Schickerling",
+      "label": "Substitution"
     }
   ]
 }
