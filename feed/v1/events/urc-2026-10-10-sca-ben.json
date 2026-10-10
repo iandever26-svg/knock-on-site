@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T18:59:34+01:00",
+  "updated_at": "2026-10-10T19:04:47+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T18:59:34+01:00",
+      "fetched_at": "2026-10-10T19:04:47+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -384,6 +384,36 @@
       "playerOn": "Isaia Walker-Leawere",
       "playerOff": "Mattia Midena",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1896411",
+      "minute": 72,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Louis Lynagh",
+      "detail": "Try (24-26)",
+      "playerName": "Louis Lynagh",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1896414",
+      "minute": 74,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jacob Umaga",
+      "detail": "Conversion (24-28)",
+      "playerName": "Jacob Umaga",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 24,
+        "away": 28
+      }
     }
   ]
 }

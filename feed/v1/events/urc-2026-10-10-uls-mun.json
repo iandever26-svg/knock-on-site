@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-uls-mun",
   "matchId": "urc-2026-10-10-uls-mun",
-  "updated_at": "2026-10-10T18:59:34+01:00",
+  "updated_at": "2026-10-10T19:04:48+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604054/competitions/604054/plays",
-      "fetched_at": "2026-10-10T18:59:34+01:00",
+      "fetched_at": "2026-10-10T19:04:48+01:00",
       "espn_event_id": "604054",
       "espn_league_id": 270557
     }
@@ -276,8 +276,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1896402",
-      "minute": 62,
+      "id": "espn-1896404",
+      "minute": 61,
       "period": "2H",
       "type": "substitution",
       "team": "away",
