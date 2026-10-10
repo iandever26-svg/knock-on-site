@@ -1,8 +1,67 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T22:07:07+01:00",
+  "generatedAt": "2026-10-10T23:14:59+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkj3shoej22",
+      "text": "Cullen wants to more from Leinster after 'disjointed' win (✍️@RTErugby) #Leinster #Rugby #LeoCullen",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkj3shoej22",
+      "publishedAt": "2026-10-10T22:12:42.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreickjzjnnhiztm44s747hw56hjd2lgbbg4kiiuhr6b3qdz6mify7h4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkibvxooq2v",
+      "text": "'It's amazing we've sold out today, we'd love that to be the norm now' (✍️@rugby_ie) #Leinster #LeoCullen #SoldOut",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkibvxooq2v",
+      "publishedAt": "2026-10-10T21:58:13.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidw3qn7rk2h27u5unzppeimm3djm5hl2bvg3gfwseolgsqtdsonsa",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxkgc2pexl2v",
+      "text": "⚡ Jimmy O'Brien crossed twice to go along with tries from Hugo Keenan, Jack Conan and Jamie Osborne as we marked our return to Laya Arena with a bonus-point win under the lights!\n📰 Read the match report: https://bit.ly/4dyOVSl\n#LEIvCAR",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxkgc2pexl2v",
+      "publishedAt": "2026-10-10T21:22:31.382Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreigr6t3d3l77pxoudwnxyss3aejk3qbrsrrt6l6wgjsxnzocz4a5oq",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkfqvpfud2a",
+      "text": "Leinster v Cardiff Rugby | Highlights | Round 3 | URC 2026/27 (📹@URCOfficial) #Leinster #CardiffRugby #URCHighlights",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkfqvpfud2a",
+      "publishedAt": "2026-10-10T21:12:55.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibqule2mbvozi7blajweycxtopsjusouf5mgmr3irj5fvjf5fpioi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:lxBC71GLiYs",
+      "title": "Leinster v Cardiff Rugby | Highlights | Round 3 | URC 2026/27",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=lxBC71GLiYs",
+      "publishedAt": "2026-10-10T21:01:18.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/lxBC71GLiYs/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxkf2f47xs24",
@@ -53,18 +112,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkdl5lvxl2p",
-      "text": "'We don't have any excuses' - Frustration for McMillan's Munster (✍️@rugby_ie) #MunsterRugby #ClaytonMcMillan #RugbyReaction",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkdl5lvxl2p",
-      "publishedAt": "2026-10-10T20:33:55.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreieawbtbfaahcgridye5kfpx5srapr72onkz72h4nzcalr4zc6j42q",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxkdf5np2k24",
       "text": "Leinster 29-5 Cardiff FT\nKept much tighter in the second half but to be brutally honest we could stay out there for a week and wouldn’t have scored.\nDistinct lack of accuracy, skill execution and pace to the attack.\nTough night.\n#LEIvCAR",
       "author": "Cardiff Rugby Life",
@@ -98,18 +145,6 @@
       "publishedAt": "2026-10-10T20:28:56.737Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreie3ejexabtm2lugiysltsnbw34bmny3atoj45k7jvbjrexgvf4eju",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkdbgzrqx2v",
-      "text": "THAT BOUNCE?! 🤯🏉 (📹@URCOfficial) #Rugby #HugoKeenan #URC",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkdbgzrqx2v",
-      "publishedAt": "2026-10-10T20:28:29.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicekeizktezqroi5m3nk2ktehvk722mzmatqbcnuwqemcztz3evw4",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -148,18 +183,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxkcnfyw722j",
-      "text": "Into the last 10 minutes here 🏉\n#LEIvCAR",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxkcnfyw722j",
-      "publishedAt": "2026-10-10T20:17:17.469Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiemenqnhfplt46rrqp5g5oh5wj4zucgtgswbht3bgu4pi2tp6jexe",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxkbpjj4y22o",
       "text": "Decent showing from Coffey #LEIvCAR",
       "author": "Harpin' On Rugby",
@@ -169,18 +192,6 @@
       "publishedAt": "2026-10-10T20:00:34.517Z",
       "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkak3rcto2p",
-      "text": "Ulster v Munster | Highlights | Round 3 | URC 2026/27 (📹@URCOfficial) #URC #Rugby #Ulster",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkak3rcto2p",
-      "publishedAt": "2026-10-10T19:39:38.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiervoxeixfvhxsrb3vsioawwk6osfbz7qasbj5n7c2o63wswsulaq",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -296,17 +307,6 @@
       "url": "https://www.youtube.com/watch?v=S2W1xH3bojI",
       "publishedAt": "2026-10-10T17:16:45.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/S2W1xH3bojI/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:7jGSpuP_1OY",
-      "title": "DHL Stormers v Hollywoodbets Sharks | Highlights | Round 3 | URC 2026/27",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=7jGSpuP_1OY",
-      "publishedAt": "2026-10-10T17:09:17.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/7jGSpuP_1OY/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
