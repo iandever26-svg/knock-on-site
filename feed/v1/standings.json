@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-09T21:42:09+01:00",
+  "updatedAt": "2026-10-10T12:07:39+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L.",
   "provenance": {
@@ -26,7 +26,7 @@
       "TA": 10,
       "BP": 3,
       "points": 13,
-      "form": "DWLWW"
+      "form": "WDWLW"
     },
     {
       "position": 2,
@@ -106,7 +106,7 @@
       "TA": 13,
       "BP": 3,
       "points": 9,
-      "form": "WDDLL"
+      "form": "LWDDL"
     },
     {
       "position": 7,
@@ -170,7 +170,7 @@
       "TA": 15,
       "BP": 2,
       "points": 6,
-      "form": "LLLWL"
+      "form": "WLLLW"
     },
     {
       "position": 11,
@@ -186,7 +186,7 @@
       "TA": 12,
       "BP": 1,
       "points": 5,
-      "form": "WLLWW"
+      "form": "LWLLW"
     },
     {
       "position": 12,
