@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T18:31:46+01:00",
+  "updated_at": "2026-10-10T18:36:59+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T18:31:46+01:00",
+      "fetched_at": "2026-10-10T18:36:59+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -168,6 +168,66 @@
       "detail": "replaces Dane Blacker",
       "playerOn": "Gareth Davies",
       "playerOff": "Dane Blacker",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896308",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Harri O'Connor",
+      "detail": "replaces Henry Thomas",
+      "playerOn": "Harri O'Connor",
+      "playerOff": "Henry Thomas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896310",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Harvey Cuckson",
+      "detail": "replaces Will Evans",
+      "playerOn": "Harvey Cuckson",
+      "playerOff": "Will Evans",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896316",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Simone Ferrari",
+      "detail": "replaces Giosué Zilocchi",
+      "playerOn": "Simone Ferrari",
+      "playerOff": "Giosué Zilocchi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896318",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Bautista Bernasconi",
+      "detail": "replaces Siua Maile",
+      "playerOn": "Bautista Bernasconi",
+      "playerOff": "Siua Maile",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896320",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Johnny Williams",
+      "detail": "replaces Joe Hawkins",
+      "playerOn": "Johnny Williams",
+      "playerOff": "Joe Hawkins",
       "label": "Substitution"
     }
   ]

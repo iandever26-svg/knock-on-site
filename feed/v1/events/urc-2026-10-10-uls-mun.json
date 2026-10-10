@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-uls-mun",
   "matchId": "urc-2026-10-10-uls-mun",
-  "updated_at": "2026-10-10T18:21:21+01:00",
+  "updated_at": "2026-10-10T18:37:00+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604054/competitions/604054/plays",
-      "fetched_at": "2026-10-10T18:21:21+01:00",
+      "fetched_at": "2026-10-10T18:37:00+01:00",
       "espn_event_id": "604054",
       "espn_league_id": 270557
     }
@@ -160,6 +160,42 @@
         "home": 5,
         "away": 26
       }
+    },
+    {
+      "id": "espn-1896304",
+      "minute": 40,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Tom O’Toole",
+      "detail": "replaces Eric O’Sullivan",
+      "playerOn": "Tom O’Toole",
+      "playerOff": "Eric O’Sullivan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896306",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Tom McAllister",
+      "detail": "replaces Keynan Knox",
+      "playerOn": "Tom McAllister",
+      "playerOff": "Keynan Knox",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896312",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "James McNabney",
+      "detail": "replaces Juarno Augustus",
+      "playerOn": "James McNabney",
+      "playerOff": "Juarno Augustus",
+      "label": "Substitution"
     }
   ]
 }
