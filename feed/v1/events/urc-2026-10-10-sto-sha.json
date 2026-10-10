@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sto-sha",
   "matchId": "urc-2026-10-10-sto-sha",
-  "updated_at": "2026-10-10T16:23:05+01:00",
+  "updated_at": "2026-10-10T16:28:18+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604051/competitions/604051/plays",
-      "fetched_at": "2026-10-10T16:23:05+01:00",
+      "fetched_at": "2026-10-10T16:28:18+01:00",
       "espn_event_id": "604051",
       "espn_league_id": 270557
     }
@@ -298,6 +298,120 @@
         "home": 34,
         "away": 15
       }
+    },
+    {
+      "id": "espn-1895848",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Vincent Koch",
+      "detail": "replaces Thomas du Toit",
+      "playerOn": "Vincent Koch",
+      "playerOff": "Thomas du Toit",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895850",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Esethu Mnebelele",
+      "detail": "replaces Eduan Swart",
+      "playerOn": "Esethu Mnebelele",
+      "playerOff": "Eduan Swart",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895852",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Cameron Dawson",
+      "detail": "replaces Ox Nche",
+      "playerOn": "Cameron Dawson",
+      "playerOff": "Ox Nche",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895861",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ivan van Zyl",
+      "detail": "replaces Jaden Hendrikse",
+      "playerOn": "Ivan van Zyl",
+      "playerOff": "Jaden Hendrikse",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895886",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Stephan Lewies",
+      "detail": "replaces Matt Romao",
+      "playerOn": "Stephan Lewies",
+      "playerOff": "Matt Romao",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895858",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Deon Fourie",
+      "detail": "replaces Siya Kolisi",
+      "playerOn": "Deon Fourie",
+      "playerOff": "Siya Kolisi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895888",
+      "minute": 57,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Phepsi Buthelezi",
+      "detail": "Try (34-20)",
+      "playerName": "Phepsi Buthelezi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 34,
+        "away": 20
+      }
+    },
+    {
+      "id": "espn-1895891",
+      "minute": 58,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Gianni Lombard",
+      "detail": "Conversion (34-22)",
+      "playerName": "Gianni Lombard",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 34,
+        "away": 22
+      }
+    },
+    {
+      "id": "espn-1895904",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "JJ Kotze",
+      "detail": "replaces André-Hugo Venter",
+      "playerOn": "JJ Kotze",
+      "playerOff": "André-Hugo Venter",
+      "label": "Substitution"
     }
   ]
 }
