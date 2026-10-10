@@ -1,8 +1,80 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T13:11:25+01:00",
+  "generatedAt": "2026-10-10T14:11:46+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxjkeqa3r22l",
+      "text": "Lancaster says Connacht must address high penalty count after Glasgow mauling (✍️@rugby_ie) #ConnachtRugby #StuartLancaster #GlasgowWarriors",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxjkeqa3r22l",
+      "publishedAt": "2026-10-10T13:02:56.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreia5gyztzjpaevdl2hiydglp7vxrd3hv67vfm32dxke6iugwzmkjh4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjkcd7s3w2y",
+      "text": "🏰 Here's a reminder of the Edinburgh team to face Zebre in Parma",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjkcd7s3w2y",
+      "publishedAt": "2026-10-10T13:01:35.104Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreig2dgqwy6u46gywulxsmixzvsdmkhkqujlok264wcqess5sk2r2ki",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mxjjkbsuzs2w",
+      "text": "Can I tempt you with another Harlequins long-read?\nSpent the week talking to sources inside and outside the club about the obvious problems, the solutions, and just how deep this rebuild is. observer.co.uk/news/sport/a...",
+      "author": "Ben Coles",
+      "handle": "bencoles.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihnbnflj5pmzn2vw5tula7bf7hay7nsutvg5e7suz6y2bnoob5p2a",
+      "url": "https://bsky.app/profile/bencoles.bsky.social/post/3mxjjkbsuzs2w",
+      "publishedAt": "2026-10-10T12:48:08.875Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreieurutlrj7gy3r3swzfhchqebylu3do7tmsqeqgvkdkpb23wz7pfa",
+      "source": "bencoles.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjjjywdqf2v",
+      "text": "WATCH | Our team react to a big win for Glasgow last night\n⭐ Rory Darge outstanding\n💪 Glasgow's pack power\n🧢 Cap calling for Josh McKay?\n👉 www.youtube.com/watch?v=L-j...",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjjjywdqf2v",
+      "publishedAt": "2026-10-10T12:47:58.306Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiej3p3z75acrwnhpr2cnuaqiuivsnbin7rivi2ctef3xmikda6tze",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxjj3wnenk2z",
+      "text": "Academy lads out and about again today;\n- Calen Edwards starts for Ystrad\n- Ioan Leyshon starts for Beddau\n- and on the other side in that fixture Harry Turner is on the bench for Merthyr",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxjj3wnenk2z",
+      "publishedAt": "2026-10-10T12:40:07.393Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreiejtufxv6kh6neztornfuskaaagipa3jznmk3sra55v7a4v6j3opy",
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjhxv7gen2z",
+      "text": "Edinburgh travel to Parma to take on Zebre having won their two most recent away fixtures in the URC and with a chance for three in a row on the road for the first time in eight years\n🔗 shorturl.at/Emnfj",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjhxv7gen2z",
+      "publishedAt": "2026-10-10T12:19:57.766Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreicykrnrmcfwva5j7lsxq2icwel2esgykzkccqg2ekb3yuzlmc3m5i",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxjgunucbd2b",
@@ -161,18 +233,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxiqi5tpbu2g",
-      "text": "'When you’re not selected, I go and ask the coaches what more can I do' (✍️@rugby_ie) #CiaranFrawley #ConnachtRugby #RugbyUnion",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxiqi5tpbu2g",
-      "publishedAt": "2026-10-10T05:19:33.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidiifbuyubcpydnvmvhxbdwuoinea7twhjynfkq5lgxrq66do2qaq",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxi45iekjz2j",
       "text": "Post match chat with Stuart Lancaster 🟢🦅\n#OneConnacht",
       "author": "Connacht Rugby",
@@ -230,18 +290,6 @@
       "publishedAt": "2026-10-09T21:45:38.238Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreif6wa7n25b5itppt7brbpn4cxahkmpg36itgw2fp7hx4q2647kmja",
       "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxhvvbd3ds2v",
-      "text": "Four maul tries helped Glasgow Warriors fight off a spirited challenge from Connacht to secure a bonus-point 36-19 win at Scotstoun\nFive talking points 👉 shorturl.at/PT0xm",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxhvvbd3ds2v",
-      "publishedAt": "2026-10-09T21:23:42.731Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreig5dnglpf6kz5g4kztykcpysn4ne5wgtjddluiefmbtxl24zchdx4",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -409,30 +457,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxh2scie6k23",
-      "text": "🗣️ \"We recognise that they will throw everything at us.\"\nEdinburgh prop Paul Hill is refusing to look past Zebre, ahead of their URC meeting on Saturday.\n🔗 shorturl.at/Ie2JA",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxh2scie6k23",
-      "publishedAt": "2026-10-09T13:18:52.255Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidbhf6bbttbpkwc3fdhbdikevvfpj2r6dvtonghz6733he3lzk4h4",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxgz3tvuke2d",
-      "text": "⚔️ Here's a reminder of the Glasgow Warriors team for tonight's game!\nAnd the Warriors boss addresses his decision to put George Horne on the bench 👉 shorturl.at/elM9Z",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxgz3tvuke2d",
-      "publishedAt": "2026-10-09T12:48:24.531Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibhi5fitctwuprzfcc7ymk5ozy3l2vehi4a6qikfzqlb3wukex7je",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxgqpqyzts27",
       "text": "Our latest “80+ column” newsletter\ncovering topics like…\n🏉 Leinster v Cardiff preview\n🏉 Let’s be Avan you\n🏉 Tackling tackles\n🏉 How Bledisloe can they go?\n🏉 “...and much, much more”\nCheck it out here > jeffpagano.substack.com/p/80-column-...",
       "author": "Harpin' On Rugby",
@@ -523,18 +547,6 @@
       "publishedAt": "2026-10-08T13:35:39.639Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:76m24vhrsckzqfi33uyt6snv/bafkreibw7s27g34psvr2cwo5pqk5esd2w4xqc3cxljffx6mrjozkfq6gmu",
       "source": "dragonsrfc.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxek4cj3zs2w",
-      "text": "Here's the Cardiff side to travel to Leinster this Saturday;\n- Southworth & Belcher in up front\n- Thomas returns at flanker\n- Faletau & Davies fit again\n- Grady back on the wing\n- URC debut for Young\n- Possible debut for Paea\n- Nott on to the bench\nFew changes but still strong!",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxek4cj3zs2w",
-      "publishedAt": "2026-10-08T13:14:54.890Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreiczaq5kjubv3o7vdudqcv2hrjxuufq4de2334c2frrpit5ycei72m",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "youtube",
@@ -695,18 +707,6 @@
       "publishedAt": "2026-10-05T09:00:16.484Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiaxazkjmls4w6ri4qodokhcrot7nlrhgoa3sbg5rniram2h6vxvlm",
       "source": "the2ndrow.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3mwyilu3av2un",
-      "text": "Good BP win for the Sharks against Leinster. Champs came back in the third quarter, but the returning Boks made a big impact at the death.\nLeinster head back to Ireland with 3 log points from 2 matches.",
-      "author": "Jon Cardinelli",
-      "handle": "joncardinelli.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wizadpqsar4meknsnx7s3rms/bafkreicmmiirqk2ft7xymnjwhs66pxlm4ttg4u2v7vqg26qpvuchxm5nri",
-      "url": "https://bsky.app/profile/joncardinelli.bsky.social/post/3mwyilu3av2un",
-      "publishedAt": "2026-10-03T18:15:52.284Z",
-      "thumbnail": null,
-      "source": "joncardinelli.bsky.social"
     }
   ],
   "sources": [
