@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T01:07:18+01:00",
+  "generatedAt": "2026-10-10T02:07:08+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxiam3uhlc2s",
+      "text": "Bledisloe Cup 1st Test - New Zealand v Australia in Auckland | 8/9 Rugby Post-Mortem (📹 @89combo) #BledisloeCup #Rugby #AllBlacks",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxiam3uhlc2s",
+      "publishedAt": "2026-10-10T00:35:26.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifx3k4k6tq5sovy6v6sazefq4m4lat52fhe6hrkgb2huhbuff4vre",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxi45iekjz2j",
@@ -228,18 +240,6 @@
       "publishedAt": "2026-10-09T19:45:50.881Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreic4veynluysfxannwaqamddlevveiwk5e5whulmezpgytlcc7nse4",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhps4mj5k2z",
-      "text": "Bundee and Hansen = 💪🔥 (📹@URCOfficial) #rugby #sports #athletes",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxhps4mj5k2z",
-      "publishedAt": "2026-10-09T19:34:34.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigklzdr6dzgqmk74vwsliup5l6n4d43uegkvcv3aynpiy4mmf43uy",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
