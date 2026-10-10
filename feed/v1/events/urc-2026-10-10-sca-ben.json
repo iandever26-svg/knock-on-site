@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T18:26:38+01:00",
+  "updated_at": "2026-10-10T18:31:46+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T18:26:38+01:00",
+      "fetched_at": "2026-10-10T18:31:46+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -145,6 +145,30 @@
         "home": 7,
         "away": 21
       }
+    },
+    {
+      "id": "espn-1896298",
+      "minute": 40,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Fletcher Anderson",
+      "detail": "replaces Osian Williams",
+      "playerOn": "Fletcher Anderson",
+      "playerOff": "Osian Williams",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896300",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Gareth Davies",
+      "detail": "replaces Dane Blacker",
+      "playerOn": "Gareth Davies",
+      "playerOff": "Dane Blacker",
+      "label": "Substitution"
     }
   ]
 }
