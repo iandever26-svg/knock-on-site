@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-lei-car",
   "matchId": "urc-2026-10-10-lei-car",
-  "updated_at": "2026-10-10T20:13:39+01:00",
+  "updated_at": "2026-10-10T20:30:14+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604055/competitions/604055/plays",
-      "fetched_at": "2026-10-10T20:13:39+01:00",
+      "fetched_at": "2026-10-10T20:30:14+01:00",
       "espn_event_id": "604055",
       "espn_league_id": 270557
     }
@@ -100,6 +100,48 @@
       "playerOn": "Sam Wainwright",
       "playerOff": "Javan Sebastian",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1896565",
+      "minute": 37,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Jimmy O’Brien",
+      "detail": "Try (20-5)",
+      "playerName": "Jimmy O’Brien",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 20,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1896569",
+      "minute": 37,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Javan Sebastian",
+      "detail": "replaces Sam Wainwright",
+      "playerOn": "Javan Sebastian",
+      "playerOff": "Sam Wainwright",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896571",
+      "minute": 39,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sam Prendergast",
+      "detail": "Conversion (22-5)",
+      "playerName": "Sam Prendergast",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 22,
+        "away": 5
+      }
     }
   ]
 }
