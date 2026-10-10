@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-uls-mun",
   "matchId": "urc-2026-10-10-uls-mun",
-  "updated_at": "2026-10-10T18:37:00+01:00",
+  "updated_at": "2026-10-10T18:47:50+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604054/competitions/604054/plays",
-      "fetched_at": "2026-10-10T18:37:00+01:00",
+      "fetched_at": "2026-10-10T18:47:50+01:00",
       "espn_event_id": "604054",
       "espn_league_id": 270557
     }
@@ -196,6 +196,57 @@
       "playerOn": "James McNabney",
       "playerOff": "Juarno Augustus",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1896355",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Matthew Devine",
+      "detail": "replaces Nathan Doak",
+      "playerOn": "Matthew Devine",
+      "playerOff": "Nathan Doak",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896357",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jack Aungier",
+      "detail": "replaces Kieran Brookes",
+      "playerOn": "Jack Aungier",
+      "playerOff": "Kieran Brookes",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896359",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Brian Gleeson",
+      "detail": "replaces Gavin Coombes",
+      "playerOn": "Brian Gleeson",
+      "playerOff": "Gavin Coombes",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896372",
+      "minute": 53,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Jacob Stockdale",
+      "detail": "Try (10-26)",
+      "playerName": "Jacob Stockdale",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 26
+      }
     }
   ]
 }

@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T18:42:39+01:00",
+  "updated_at": "2026-10-10T18:47:50+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T18:42:39+01:00",
+      "fetched_at": "2026-10-10T18:47:50+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -102,7 +102,7 @@
       }
     },
     {
-      "id": "espn-1896284",
+      "id": "espn-1896350",
       "minute": 24,
       "period": "1H",
       "type": "conversion_made",
@@ -259,6 +259,68 @@
         "home": 14,
         "away": 21
       }
+    },
+    {
+      "id": "espn-1896365",
+      "minute": 56,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Ellis Mee",
+      "detail": "Try (19-21)",
+      "playerName": "Ellis Mee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1896371",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jadin Kingi",
+      "detail": "replaces So'otala Fa'aso'o",
+      "playerOn": "Jadin Kingi",
+      "playerOff": "So'otala Fa'aso'o",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896373",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": null,
+      "detail": "replaces So'otala Fa'aso'o",
+      "playerOff": "So'otala Fa'aso'o",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896366",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sam O'Connor",
+      "detail": "replaces Kemsley Mathias",
+      "playerOn": "Sam O'Connor",
+      "playerOff": "Kemsley Mathias",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896368",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "John McKee",
+      "detail": "replaces Ryan Elias",
+      "playerOn": "John McKee",
+      "playerOff": "Ryan Elias",
+      "label": "Substitution"
     }
   ]
 }
