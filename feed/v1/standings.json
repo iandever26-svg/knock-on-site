@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-10T20:45:47+01:00",
+  "updatedAt": "2026-10-10T21:36:44+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L.",
   "provenance": {
@@ -96,14 +96,14 @@
       "position": 6,
       "teamId": "cardiff",
       "team": "Cardiff Blues",
-      "P": 2,
+      "P": 3,
       "W": 2,
       "D": 0,
-      "L": 0,
-      "PF": 61,
-      "PA": 42,
-      "TF": 9,
-      "TA": 6,
+      "L": 1,
+      "PF": 66,
+      "PA": 71,
+      "TF": 10,
+      "TA": 11,
       "BP": 1,
       "points": 9,
       "form": "WWLWL"
@@ -158,6 +158,22 @@
     },
     {
       "position": 10,
+      "teamId": "leinster",
+      "team": "Leinster",
+      "P": 3,
+      "W": 1,
+      "D": 0,
+      "L": 2,
+      "PF": 75,
+      "PA": 58,
+      "TF": 12,
+      "TA": 8,
+      "BP": 4,
+      "points": 8,
+      "form": "LLWWW"
+    },
+    {
+      "position": 11,
       "teamId": "ulster",
       "team": "Ulster",
       "P": 3,
@@ -173,7 +189,7 @@
       "form": "DLLLD"
     },
     {
-      "position": 11,
+      "position": 12,
       "teamId": "scarlets",
       "team": "Scarlets",
       "P": 3,
@@ -189,7 +205,7 @@
       "form": "LLDLL"
     },
     {
-      "position": 12,
+      "position": 13,
       "teamId": "ospreys",
       "team": "Ospreys",
       "P": 3,
@@ -205,7 +221,7 @@
       "form": "WLLLW"
     },
     {
-      "position": 13,
+      "position": 14,
       "teamId": "connacht",
       "team": "Connacht",
       "P": 3,
@@ -221,7 +237,7 @@
       "form": "LWLLW"
     },
     {
-      "position": 14,
+      "position": 15,
       "teamId": "benetton",
       "team": "Benetton Treviso",
       "P": 3,
@@ -235,22 +251,6 @@
       "BP": 3,
       "points": 5,
       "form": "LDLLW"
-    },
-    {
-      "position": 15,
-      "teamId": "leinster",
-      "team": "Leinster",
-      "P": 2,
-      "W": 0,
-      "D": 0,
-      "L": 2,
-      "PF": 46,
-      "PA": 53,
-      "TF": 7,
-      "TA": 7,
-      "BP": 3,
-      "points": 3,
-      "form": "LLWWW"
     },
     {
       "position": 16,
