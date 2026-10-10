@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-zeb-edi",
   "matchId": "urc-2026-10-10-zeb-edi",
-  "updated_at": "2026-10-10T15:41:10+01:00",
+  "updated_at": "2026-10-10T15:46:24+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604052/competitions/604052/plays",
-      "fetched_at": "2026-10-10T15:41:10+01:00",
+      "fetched_at": "2026-10-10T15:46:24+01:00",
       "espn_event_id": "604052",
       "espn_league_id": 270557
     }
@@ -87,6 +87,36 @@
       "scoreAfter": {
         "home": 5,
         "away": 10
+      }
+    },
+    {
+      "id": "espn-1895699",
+      "minute": 37,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Alessandro Fusco",
+      "detail": "Yellow card (5-10)",
+      "playerName": "Alessandro Fusco",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 5,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1895700",
+      "minute": 37,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Freddy Douglas",
+      "detail": "Try (5-15)",
+      "playerName": "Freddy Douglas",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 15
       }
     }
   ]

@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sto-sha",
   "matchId": "urc-2026-10-10-sto-sha",
-  "updated_at": "2026-10-10T15:35:56+01:00",
+  "updated_at": "2026-10-10T15:46:24+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604051/competitions/604051/plays",
-      "fetched_at": "2026-10-10T15:35:56+01:00",
+      "fetched_at": "2026-10-10T15:46:24+01:00",
       "espn_event_id": "604051",
       "espn_league_id": 270557
     }
@@ -83,6 +83,51 @@
       "label": "Penalty",
       "scoreAfter": {
         "home": 8,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1895683",
+      "minute": 35,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Matt Romao",
+      "detail": "Yellow card (8-8)",
+      "playerName": "Matt Romao",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 8,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1895697",
+      "minute": 36,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Hacjivah Dayimani",
+      "detail": "Try (13-8)",
+      "playerName": "Hacjivah Dayimani",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 13,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1895703",
+      "minute": 37,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sacha Feinberg-Mngomezulu",
+      "detail": "Conversion (15-8)",
+      "playerName": "Sacha Feinberg-Mngomezulu",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 15,
         "away": 8
       }
     }
