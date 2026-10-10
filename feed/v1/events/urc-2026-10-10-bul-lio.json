@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-bul-lio",
   "matchId": "urc-2026-10-10-bul-lio",
-  "updated_at": "2026-10-10T13:51:33+01:00",
-  "final": false,
+  "updated_at": "2026-10-10T14:42:20+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604050/competitions/604050/plays",
-      "fetched_at": "2026-10-10T13:51:33+01:00",
+      "fetched_at": "2026-10-10T14:42:20+01:00",
       "espn_event_id": "604050",
       "espn_league_id": 270557
     }
@@ -256,6 +257,266 @@
       "playerOn": "SJ Kotze",
       "playerOff": "Boan Venter",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1895468",
+      "minute": 50,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Morné Brandon",
+      "detail": "Try (36-15)",
+      "playerName": "Morné Brandon",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 36,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1895469",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cheswill Jooste",
+      "detail": "replaces Canan Moodie",
+      "playerOn": "Cheswill Jooste",
+      "playerOff": "Canan Moodie",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895472",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Nico Steyn",
+      "detail": "replaces Morné van den Berg",
+      "playerOn": "Nico Steyn",
+      "playerOff": "Morné van den Berg",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895479",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Khutha Mchunu",
+      "detail": "replaces François Klopper",
+      "playerOn": "Khutha Mchunu",
+      "playerOff": "François Klopper",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895482",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Alulutho Tshakweni",
+      "detail": "replaces Gerhard Steenekamp",
+      "playerOn": "Alulutho Tshakweni",
+      "playerOff": "Gerhard Steenekamp",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895485",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cobus Wiese",
+      "detail": "replaces Ruan Vermaak",
+      "playerOn": "Cobus Wiese",
+      "playerOff": "Ruan Vermaak",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895487",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Elrigh Louw",
+      "detail": "replaces Hanro Liebenberg",
+      "playerOn": "Elrigh Louw",
+      "playerOff": "Hanro Liebenberg",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895489",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Handré Pollard",
+      "detail": "replaces Curwin Bosch",
+      "playerOn": "Handré Pollard",
+      "playerOff": "Curwin Bosch",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895491",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Boeta Chamberlain",
+      "detail": "replaces Richard Kriel",
+      "playerOn": "Boeta Chamberlain",
+      "playerOff": "Richard Kriel",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895502",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Bathobele Hlekani",
+      "detail": "replaces Sibabalo Qoma",
+      "playerOn": "Bathobele Hlekani",
+      "playerOff": "Sibabalo Qoma",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895511",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Marco van Staden",
+      "detail": "replaces Jeandré Rudolph",
+      "playerOn": "Marco van Staden",
+      "playerOff": "Jeandré Rudolph",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895518",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Keagan Johannes",
+      "detail": "replaces Jeandré Rudolph",
+      "playerOn": "Keagan Johannes",
+      "playerOff": "Jeandré Rudolph",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895512",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": null,
+      "detail": "replaces Paul de Wet",
+      "playerOff": "Paul de Wet",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895514",
+      "minute": 68,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "JF van Heerden",
+      "detail": "Try (41-15)",
+      "playerName": "JF van Heerden",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 41,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1895515",
+      "minute": 69,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Handré Pollard",
+      "detail": "Conversion (43-15)",
+      "playerName": "Handré Pollard",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 43,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1895516",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "JP du Preez",
+      "detail": "replaces Hyron Andrews",
+      "playerOn": "JP du Preez",
+      "playerOff": "Hyron Andrews",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895519",
+      "minute": 74,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Cheswill Jooste",
+      "detail": "Try (48-15)",
+      "playerName": "Cheswill Jooste",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 48,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1895521",
+      "minute": 75,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Handré Pollard",
+      "detail": "Conversion (50-15)",
+      "playerName": "Handré Pollard",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 50,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1895522",
+      "minute": 80,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Sebastian de Klerk",
+      "detail": "Try (55-15)",
+      "playerName": "Sebastian de Klerk",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 55,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1895523",
+      "minute": 81,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Handré Pollard",
+      "detail": "Conversion (57-15)",
+      "playerName": "Handré Pollard",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 57,
+        "away": 15
+      }
     }
   ]
 }

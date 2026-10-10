@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-10T12:07:39+01:00",
+  "updatedAt": "2026-10-10T14:42:22+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L.",
   "provenance": {
@@ -30,6 +30,22 @@
     },
     {
       "position": 2,
+      "teamId": "bulls",
+      "team": "Bulls",
+      "P": 3,
+      "W": 2,
+      "D": 0,
+      "L": 1,
+      "PF": 126,
+      "PA": 54,
+      "TF": 19,
+      "TA": 7,
+      "BP": 3,
+      "points": 11,
+      "form": "LWLWW"
+    },
+    {
+      "position": 3,
       "teamId": "sharks",
       "team": "Sharks",
       "P": 2,
@@ -45,7 +61,7 @@
       "form": "WWWWL"
     },
     {
-      "position": 3,
+      "position": 4,
       "teamId": "cardiff",
       "team": "Cardiff Blues",
       "P": 2,
@@ -59,22 +75,6 @@
       "BP": 1,
       "points": 9,
       "form": "WWLWL"
-    },
-    {
-      "position": 4,
-      "teamId": "lions",
-      "team": "Lions",
-      "P": 2,
-      "W": 2,
-      "D": 0,
-      "L": 0,
-      "PF": 62,
-      "PA": 45,
-      "TF": 9,
-      "TA": 7,
-      "BP": 1,
-      "points": 9,
-      "form": "WWLLL"
     },
     {
       "position": 5,
@@ -94,6 +94,22 @@
     },
     {
       "position": 6,
+      "teamId": "lions",
+      "team": "Lions",
+      "P": 3,
+      "W": 2,
+      "D": 0,
+      "L": 1,
+      "PF": 77,
+      "PA": 102,
+      "TF": 11,
+      "TA": 16,
+      "BP": 1,
+      "points": 9,
+      "form": "WWLLL"
+    },
+    {
+      "position": 7,
       "teamId": "dragons",
       "team": "Dragons",
       "P": 3,
@@ -107,22 +123,6 @@
       "BP": 3,
       "points": 9,
       "form": "LWDDL"
-    },
-    {
-      "position": 7,
-      "teamId": "bulls",
-      "team": "Bulls",
-      "P": 2,
-      "W": 1,
-      "D": 0,
-      "L": 1,
-      "PF": 69,
-      "PA": 39,
-      "TF": 10,
-      "TA": 5,
-      "BP": 2,
-      "points": 6,
-      "form": "LWLWW"
     },
     {
       "position": 8,
