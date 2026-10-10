@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sto-sha",
   "matchId": "urc-2026-10-10-sto-sha",
-  "updated_at": "2026-10-10T16:28:18+01:00",
+  "updated_at": "2026-10-10T16:33:34+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604051/competitions/604051/plays",
-      "fetched_at": "2026-10-10T16:28:18+01:00",
+      "fetched_at": "2026-10-10T16:33:34+01:00",
       "espn_event_id": "604051",
       "espn_league_id": 270557
     }
@@ -360,6 +360,18 @@
       "label": "Substitution"
     },
     {
+      "id": "espn-1895925",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Nick Hatton",
+      "detail": "replaces Darrien Landsberg",
+      "playerOn": "Nick Hatton",
+      "playerOff": "Darrien Landsberg",
+      "label": "Substitution"
+    },
+    {
       "id": "espn-1895858",
       "minute": 56,
       "period": "2H",
@@ -412,6 +424,33 @@
       "playerOn": "JJ Kotze",
       "playerOff": "André-Hugo Venter",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1895914",
+      "minute": 61,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Haashim Pead",
+      "detail": "replaces Cobus Reinach",
+      "playerOn": "Haashim Pead",
+      "playerOff": "Cobus Reinach",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895923",
+      "minute": 63,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "JJ Kotze",
+      "detail": "Try (39-22)",
+      "playerName": "JJ Kotze",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 39,
+        "away": 22
+      }
     }
   ]
 }
