@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-lei-car",
   "matchId": "urc-2026-10-10-lei-car",
-  "updated_at": "2026-10-10T20:30:14+01:00",
+  "updated_at": "2026-10-10T21:03:07+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604055/competitions/604055/plays",
-      "fetched_at": "2026-10-10T20:30:14+01:00",
+      "fetched_at": "2026-10-10T21:03:07+01:00",
       "espn_event_id": "604055",
       "espn_league_id": 270557
     }
@@ -24,6 +24,21 @@
       "detail": "Try (5-0)",
       "playerName": "Hugo Keenan",
       "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1896485-cm",
+      "minute": 9,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (5-0)",
+      "label": "Conversion missed",
+      "inferred": true,
       "scoreAfter": {
         "home": 5,
         "away": 0
@@ -60,6 +75,21 @@
       }
     },
     {
+      "id": "espn-1896505-cm",
+      "minute": 17,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (10-0)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 10,
+        "away": 0
+      }
+    },
+    {
       "id": "espn-1896518",
       "minute": 19,
       "period": "1H",
@@ -75,6 +105,21 @@
       }
     },
     {
+      "id": "espn-1896518-cm",
+      "minute": 19,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (15-0)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 15,
+        "away": 0
+      }
+    },
+    {
       "id": "espn-1896534",
       "minute": 24,
       "period": "1H",
@@ -84,6 +129,21 @@
       "detail": "Try (15-5)",
       "playerName": "Mason Grady",
       "label": "Try",
+      "scoreAfter": {
+        "home": 15,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1896534-cm",
+      "minute": 24,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (15-5)",
+      "label": "Conversion missed",
+      "inferred": true,
       "scoreAfter": {
         "home": 15,
         "away": 5
@@ -142,6 +202,54 @@
         "home": 22,
         "away": 5
       }
+    },
+    {
+      "id": "espn-1896605",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jarrod Evans",
+      "detail": "replaces Callum Sheedy",
+      "playerOn": "Jarrod Evans",
+      "playerOff": "Callum Sheedy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896607",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Johan Mulder",
+      "detail": "replaces Aled Davies",
+      "playerOn": "Johan Mulder",
+      "playerOff": "Aled Davies",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896638",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Fintan Gunne",
+      "detail": "replaces Oliver Coffey",
+      "playerOn": "Fintan Gunne",
+      "playerOff": "Oliver Coffey",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896640",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Thomas Clarkson",
+      "detail": "replaces Tadhg Furlong",
+      "playerOn": "Thomas Clarkson",
+      "playerOff": "Tadhg Furlong",
+      "label": "Substitution"
     }
   ]
 }
