@@ -443,7 +443,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292605%5D%7D",
-      "fetched_at": "2026-10-10T17:14:36+01:00",
+      "fetched_at": "2026-10-10T17:51:06+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/benetton-vs-scarlets/teams/",
-      "fetched_at": "2026-10-10T17:14:36+01:00",
+      "fetched_at": "2026-10-10T17:51:06+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -467,7 +467,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26744/urc-2026-2027/scarlets-benetton",
-      "fetched_at": "2026-10-10T17:14:36+01:00",
+      "fetched_at": "2026-10-10T17:51:06+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -491,7 +491,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292605%5D%7D",
-      "fetched_at": "2026-10-10T17:14:36+01:00",
+      "fetched_at": "2026-10-10T17:51:06+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": true,
@@ -504,7 +504,7 @@
     {
       "source_name": "rugbypass",
       "url": "https://www.rugbypass.com/live/benetton-vs-scarlets/teams/",
-      "fetched_at": "2026-10-10T17:14:36+01:00",
+      "fetched_at": "2026-10-10T17:51:06+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -515,7 +515,7 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26744/urc-2026-2027/scarlets-benetton",
-      "fetched_at": "2026-10-10T17:14:36+01:00",
+      "fetched_at": "2026-10-10T17:51:06+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -525,16 +525,16 @@
     }
   ],
   "confidence": {
-    "overall": 0.97,
+    "overall": 0.98,
     "match_identity": 0.9,
     "home_lineup": 0.98,
-    "away_lineup": 0.95,
+    "away_lineup": 0.98,
     "score": 0,
     "reasons": [
       "home: complete_1_to_23 from urc_official (official); rugbypass 23/23 jerseys agree; all_rugby 21/23 jerseys agree (differs at #11,#14)",
-      "away: complete_1_to_23 from urc_official (official); rugbypass 18/23 jerseys agree (differs at #6,#7,#8,#15,#19); all_rugby 18/22 jerseys agree (differs at #1,#3,#4,#5)",
+      "away: complete_1_to_23 from urc_official (official); rugbypass 23/23 jerseys agree; all_rugby 18/22 jerseys agree (differs at #1,#3,#4,#5)",
       "home: X cross-check https://x.com/scarlets_rugby/status/2108180751019643164 (posted 2026-10-08T14:00:33+01:00) — graphic viewed with Read 2026-10-08T15:20:59+01:00 (yes): Scarlets 'Y Tîm' graphic, numbered 1–23; all 23 match by eye; 7 Josh Macleod (C); machine-certain: 0/23 agree, 0 disagree, 23 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 0); captain on X #7 (agree)"
     ]
   },
-  "notes": "Ingest poll 2026-10-10T17:14:36+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-10T17:51:06+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
