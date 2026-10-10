@@ -2,21 +2,21 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-uls-mun",
   "matchId": "urc-2026-10-10-uls-mun",
-  "updated_at": "2026-10-10T17:43:40+01:00",
+  "updated_at": "2026-10-10T17:48:54+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604054/competitions/604054/plays",
-      "fetched_at": "2026-10-10T17:43:40+01:00",
+      "fetched_at": "2026-10-10T17:48:54+01:00",
       "espn_event_id": "604054",
       "espn_league_id": 270557
     }
   ],
   "events": [
     {
-      "id": "espn-1896271",
-      "minute": 8,
+      "id": "espn-1896272",
+      "minute": 9,
       "period": "1H",
       "type": "try",
       "team": "away",
@@ -26,6 +26,21 @@
       "label": "Try",
       "scoreAfter": {
         "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1896273",
+      "minute": 12,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Jacob Stockdale",
+      "detail": "Try (5-5)",
+      "playerName": "Jacob Stockdale",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
         "away": 5
       }
     }
