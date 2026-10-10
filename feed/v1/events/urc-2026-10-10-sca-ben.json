@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T18:36:59+01:00",
+  "updated_at": "2026-10-10T18:42:39+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T18:36:59+01:00",
+      "fetched_at": "2026-10-10T18:42:39+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -229,6 +229,36 @@
       "playerOn": "Johnny Williams",
       "playerOff": "Joe Hawkins",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1896328",
+      "minute": 53,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Blair Murray",
+      "detail": "Try (12-21)",
+      "playerName": "Blair Murray",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1896329",
+      "minute": 54,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sam Costelow",
+      "detail": "Conversion (14-21)",
+      "playerName": "Sam Costelow",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
+        "away": 21
+      }
     }
   ]
 }
