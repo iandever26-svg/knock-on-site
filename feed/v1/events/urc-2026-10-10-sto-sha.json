@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sto-sha",
   "matchId": "urc-2026-10-10-sto-sha",
-  "updated_at": "2026-10-10T15:25:29+01:00",
+  "updated_at": "2026-10-10T15:35:56+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604051/competitions/604051/plays",
-      "fetched_at": "2026-10-10T15:25:29+01:00",
+      "fetched_at": "2026-10-10T15:35:56+01:00",
       "espn_event_id": "604051",
       "espn_league_id": 270557
     }
@@ -70,6 +70,21 @@
       "playerOn": "Gianni Lombard",
       "playerOff": "Vusi Moyo",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1895661",
+      "minute": 30,
+      "period": "1H",
+      "type": "penalty_goal_made",
+      "team": "away",
+      "player": "Gianni Lombard",
+      "detail": "Penalty (8-8)",
+      "playerName": "Gianni Lombard",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 8,
+        "away": 8
+      }
     }
   ]
 }
