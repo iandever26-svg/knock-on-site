@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-bul-lio",
   "matchId": "urc-2026-10-10-bul-lio",
-  "updated_at": "2026-10-10T13:11:22+01:00",
+  "updated_at": "2026-10-10T13:16:35+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604050/competitions/604050/plays",
-      "fetched_at": "2026-10-10T13:11:22+01:00",
+      "fetched_at": "2026-10-10T13:16:35+01:00",
       "espn_event_id": "604050",
       "espn_league_id": 270557
     }
@@ -144,6 +144,36 @@
       "scoreAfter": {
         "home": 19,
         "away": 7
+      }
+    },
+    {
+      "id": "espn-1895445",
+      "minute": 33,
+      "period": "1H",
+      "type": "penalty_goal_made",
+      "team": "away",
+      "player": "Chris Smith",
+      "detail": "Penalty (19-10)",
+      "playerName": "Chris Smith",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 19,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1895446",
+      "minute": 35,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Cameron Hanekom",
+      "detail": "Try (24-10)",
+      "playerName": "Cameron Hanekom",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 10
       }
     }
   ]
