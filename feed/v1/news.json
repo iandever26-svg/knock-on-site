@@ -1,8 +1,67 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T15:07:20+01:00",
+  "generatedAt": "2026-10-10T16:07:11+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjqegyxdj2a",
+      "text": "HALF-TIME | So far, so good for Edinburgh in Parma\nA big 40 minutes to come!",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjqegyxdj2a",
+      "publishedAt": "2026-10-10T14:50:09.029Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidtibx35wpcim4sccyhnwos3dw365s6yfzr7riwgvml24m3zod56e",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxjqebk3vt2r",
+      "text": "Vodacom Bulls v 10bet Lions | Highlights | Round 3 | URC 2026/27 (📹@URCOfficial) #VodacomBulls #10betLions #URC2026",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxjqebk3vt2r",
+      "publishedAt": "2026-10-10T14:50:03.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiboigommenh4skeekxxf4yybb7h7h2cepxpfmo3wo74ngxsidbele",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:eahs7s_ZFRs",
+      "title": "Vodacom Bulls v 10bet Lions | Highlights | Round 3 | URC 2026/27",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=eahs7s_ZFRs",
+      "publishedAt": "2026-10-10T14:48:53.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/eahs7s_ZFRs/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxjq3lowt723",
+      "text": "Tonight's homecoming game is now SOLD OUT! 💥\n#LEIvCAR",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxjq3lowt723",
+      "publishedAt": "2026-10-10T14:45:11.986Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreigu3wjuuxk4uvxp2zc3vvbd2nm7ya6kjypiw7wcihdrt7owv6zrgq",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxjoylk5sk2q",
+      "text": "Cardiff 7-7 Carmarthen HT\nA tense first half at a windy CAP with the Rags mostly camped in our own 22, but now looking to open up playing with the wind and slope.\n#BlueAndBlacks",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxjoylk5sk2q",
+      "publishedAt": "2026-10-10T14:25:37.546Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxjnuqdgkp2i",
@@ -26,6 +85,17 @@
       "publishedAt": "2026-10-10T14:00:46.608Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreie6jgmqvjr3y7jkvl5wzd77pgev4tvpxtnowwpmak3chtpvnemdga",
       "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:uYVDztwod50",
+      "title": "Vorster does it ALL himself 😍🐃 #URC",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=uYVDztwod50",
+      "publishedAt": "2026-10-10T13:58:42.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/uYVDztwod50/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "bluesky",
@@ -194,30 +264,6 @@
       "publishedAt": "2026-10-10T08:00:13.153Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreicgi5ige6xupalq5qfc46c4n34bqkguenvqknxatpa7tavmfhmdye",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxiwaiv24m2z",
-      "text": "Franco Smith was proud of Glasgow Warriors’ resilience to defeat Connacht at Scotstoun but there’s slight concern over an injury to Matt Fagerson.\n🔗 shorturl.at/ZVys2",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxiwaiv24m2z",
-      "publishedAt": "2026-10-10T07:02:38.504Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreic4od6bvevqeyhdsercszlxamfu7jjklhjh4n5w6w4bqsgtng54ym",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxiw64ol3e2l",
-      "text": "Leinster's delight to return home to Laya Arena as Cardiff visit Dublin (✍️@rugby_ie) #Leinster #Rugby #URC",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxiw64ol3e2l",
-      "publishedAt": "2026-10-10T07:01:19.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidmwpk53g6rd2cf653o2xk5lzhoxp27tnzjcyzhq5lg2pl4pwiz4q",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -445,18 +491,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxh7ysswsn27",
-      "text": "One last walkthrough before the day 👌\n🎟️ Limited tickets available at https://bit.ly/3UsT8jJ",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxh7ysswsn27",
-      "publishedAt": "2026-10-09T14:51:59.456Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiale5chga5pf3qib6nhp262o22ymsxncobiwbbjiowksayuisigoa",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxgqpqyzts27",
       "text": "Our latest “80+ column” newsletter\ncovering topics like…\n🏉 Leinster v Cardiff preview\n🏉 Let’s be Avan you\n🏉 Tackling tackles\n🏉 How Bledisloe can they go?\n🏉 “...and much, much more”\nCheck it out here > jeffpagano.substack.com/p/80-column-...",
       "author": "Harpin' On Rugby",
@@ -503,29 +537,6 @@
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxequvqmyk2w",
-      "text": "Some unfortunate injury news for Cardiff this week with Scott Sio (facial fracture), James Botham (hand) and Ben Thomas (calf) all being ruled out.\nThomas in particular set for a few weeks on the sidelines, Sio has had successful surgery and CVZ is confident he'll be back soon.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxequvqmyk2w",
-      "publishedAt": "2026-10-08T15:16:02.819Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:CIvZNJG6EPs",
-      "title": "A Heated Rivalry | Sharks v Stormers | Round 11 2026",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=CIvZNJG6EPs",
-      "publishedAt": "2026-10-08T15:00:32.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/CIvZNJG6EPs/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
       "type": "youtube",
       "id": "yt:GXZhuXeVo2U",
       "title": "🦁​​Lo schieramento biancoverde per la prima trasferta stagionale contro gli Scarlets",
@@ -547,17 +558,6 @@
       "publishedAt": "2026-10-08T13:35:39.639Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:76m24vhrsckzqfi33uyt6snv/bafkreibw7s27g34psvr2cwo5pqk5esd2w4xqc3cxljffx6mrjozkfq6gmu",
       "source": "dragonsrfc.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:sBZPnP20osA",
-      "title": "Sam Prendergast to Andrew Osborne 🤝",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=sBZPnP20osA",
-      "publishedAt": "2026-10-08T11:48:28.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/sBZPnP20osA/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "youtube",
