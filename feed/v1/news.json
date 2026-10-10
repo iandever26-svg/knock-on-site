@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T09:17:08+01:00",
+  "generatedAt": "2026-10-10T10:07:14+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxj45j7csk22",
+      "text": "New Zealand make light work of Aussies in Auckland (✍️@RTErugby) #BledisloeCup #AllBlacks #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxj45j7csk22",
+      "publishedAt": "2026-10-10T08:48:21.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiempwplyjloavpgpdg32n6tf7psea74hvqeccli72csuzh53mkvmy",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxizhgjcpd2z",
@@ -161,18 +173,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxhwkcocut2g",
-      "text": "Dragons RFC v Ospreys | Highlights | Round 3 | URC 2026/27 (📹@URCOfficial) #DragonsRFC #Ospreys #URC",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxhwkcocut2g",
-      "publishedAt": "2026-10-09T21:35:28.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicn2boqxexgzca76t5infohyelht563rn5q7qqu2dv25h4ttly6cu",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxhvvbd3ds2v",
       "text": "Four maul tries helped Glasgow Warriors fight off a spirited challenge from Connacht to secure a bonus-point 36-19 win at Scotstoun\nFive talking points 👉 shorturl.at/PT0xm",
       "author": "Scotland Rugby News",
@@ -327,7 +327,7 @@
     {
       "type": "youtube",
       "id": "yt:iiwYREOouG0",
-      "title": "Behind-The-Scenes | URC Round Three | Zebra Away",
+      "title": "Behind-The-Scenes | URC Round Three | Zebre Away",
       "author": "Edinburgh Rugby",
       "avatar": null,
       "url": "https://www.youtube.com/watch?v=iiwYREOouG0",
