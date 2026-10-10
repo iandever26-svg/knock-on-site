@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T18:54:21+01:00",
+  "updated_at": "2026-10-10T18:59:34+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T18:54:21+01:00",
+      "fetched_at": "2026-10-10T18:59:34+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -344,6 +344,45 @@
       "detail": "replaces Rhyno Smith",
       "playerOn": "Jean Smith",
       "playerOff": "Rhyno Smith",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896388",
+      "minute": 65,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Ellis Mee",
+      "detail": "Try (24-21)",
+      "playerName": "Ellis Mee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1896389",
+      "minute": 67,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Federico Zanandrea",
+      "detail": "replaces Onisi Ratave",
+      "playerOn": "Federico Zanandrea",
+      "playerOff": "Onisi Ratave",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896391",
+      "minute": 67,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Isaia Walker-Leawere",
+      "detail": "replaces Mattia Midena",
+      "playerOn": "Isaia Walker-Leawere",
+      "playerOff": "Mattia Midena",
       "label": "Substitution"
     }
   ]
