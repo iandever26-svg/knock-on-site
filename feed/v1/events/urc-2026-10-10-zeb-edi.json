@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-zeb-edi",
   "matchId": "urc-2026-10-10-zeb-edi",
-  "updated_at": "2026-10-10T16:49:14+01:00",
-  "final": false,
+  "updated_at": "2026-10-10T16:54:29+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604052/competitions/604052/plays",
-      "fetched_at": "2026-10-10T16:49:14+01:00",
+      "fetched_at": "2026-10-10T16:54:29+01:00",
       "espn_event_id": "604052",
       "espn_league_id": 270557
     }
@@ -375,16 +376,57 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1896024",
+      "id": "espn-1896025",
       "minute": 73,
       "period": "2H",
       "type": "substitution",
       "team": "away",
       "player": "Tom Currie",
-      "detail": "replaces Glen Young",
+      "detail": "replaces Harri Morris",
       "playerOn": "Tom Currie",
-      "playerOff": "Glen Young",
+      "playerOff": "Harri Morris",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1896033",
+      "minute": 73,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": null,
+      "detail": "replaces Harri Morris",
+      "playerOff": "Harri Morris",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896039",
+      "minute": 80,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Tom Currie",
+      "detail": "Try (12-27)",
+      "playerName": "Tom Currie",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 27
+      }
+    },
+    {
+      "id": "espn-1896043",
+      "minute": 81,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "James Grayson",
+      "detail": "Conversion (12-29)",
+      "playerName": "James Grayson",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 29
+      }
     }
   ]
 }
