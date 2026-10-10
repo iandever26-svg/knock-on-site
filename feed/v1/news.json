@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T03:07:18+01:00",
+  "generatedAt": "2026-10-10T04:07:08+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
     {
@@ -721,7 +721,7 @@
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
       "ok": false,
-      "error": "HTTP 404",
+      "error": "HTTP 500",
       "kept": 3
     },
     {
@@ -735,7 +735,7 @@
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
       "ok": false,
-      "error": "HTTP 500",
+      "error": "HTTP 404",
       "kept": 0
     },
     {
