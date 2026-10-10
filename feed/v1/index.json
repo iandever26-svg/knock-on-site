@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T16:12:38+01:00",
-  "updatedAt": "2026-10-10T16:12:38+01:00",
+  "generatedAt": "2026-10-10T16:17:51+01:00",
+  "updatedAt": "2026-10-10T16:17:51+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-10T14:42:22+01:00",
   "matches": [
@@ -189,7 +189,7 @@
       "match_id": "urc-2026-10-10-bul-lio",
       "kickoff": "2026-10-10T12:30:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-10T16:07:19+01:00",
+      "scoreUpdatedAt": "2026-10-10T16:17:48+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-10T12:47:54+01:00",
       "events": true,
@@ -199,7 +199,7 @@
       "match_id": "urc-2026-10-10-lei-car",
       "kickoff": "2026-10-10T19:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-10T16:07:19+01:00",
+      "scoreUpdatedAt": "2026-10-10T16:17:48+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-08T16:47:50+01:00",
       "events": false,
@@ -209,7 +209,7 @@
       "match_id": "urc-2026-10-10-sca-ben",
       "kickoff": "2026-10-10T17:30:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-10T16:07:19+01:00",
+      "scoreUpdatedAt": "2026-10-10T16:17:48+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-10T15:46:12+01:00",
       "events": false,
@@ -219,17 +219,17 @@
       "match_id": "urc-2026-10-10-sto-sha",
       "kickoff": "2026-10-10T15:00:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-10T16:12:33+01:00",
+      "scoreUpdatedAt": "2026-10-10T16:17:48+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-09T09:19:38+01:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-10T16:12:38+01:00"
+      "eventsUpdatedAt": "2026-10-10T16:17:51+01:00"
     },
     {
       "match_id": "urc-2026-10-10-uls-mun",
       "kickoff": "2026-10-10T17:30:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-10T16:07:19+01:00",
+      "scoreUpdatedAt": "2026-10-10T16:17:48+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-08T15:05:56+01:00",
       "events": false,
@@ -239,11 +239,11 @@
       "match_id": "urc-2026-10-10-zeb-edi",
       "kickoff": "2026-10-10T15:00:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-10T16:07:19+01:00",
+      "scoreUpdatedAt": "2026-10-10T16:17:48+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-10T14:43:05+01:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-10T16:12:38+01:00"
+      "eventsUpdatedAt": "2026-10-10T16:17:51+01:00"
     }
   ]
 }

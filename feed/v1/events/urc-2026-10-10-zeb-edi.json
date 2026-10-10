@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-zeb-edi",
   "matchId": "urc-2026-10-10-zeb-edi",
-  "updated_at": "2026-10-10T16:12:38+01:00",
+  "updated_at": "2026-10-10T16:17:51+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604052/competitions/604052/plays",
-      "fetched_at": "2026-10-10T16:12:38+01:00",
+      "fetched_at": "2026-10-10T16:17:51+01:00",
       "espn_event_id": "604052",
       "espn_league_id": 270557
     }
@@ -141,6 +141,30 @@
       "detail": "replaces Juan Barbotti",
       "playerOn": "Filippo Alongi",
       "playerOff": "Juan Barbotti",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895772",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Paul Hill",
+      "detail": "replaces Ollie Blyth-Lafferty",
+      "playerOn": "Paul Hill",
+      "playerOff": "Ollie Blyth-Lafferty",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1895780",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Francisco Minervino",
+      "detail": "replaces Tommaso di Bartolomeo",
+      "playerOn": "Francisco Minervino",
+      "playerOff": "Tommaso di Bartolomeo",
       "label": "Substitution"
     }
   ]
