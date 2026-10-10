@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T23:16:02+01:00",
-  "updatedAt": "2026-10-10T23:16:02+01:00",
+  "generatedAt": "2026-10-10T23:19:56+01:00",
+  "updatedAt": "2026-10-10T23:19:56+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -480,13 +480,13 @@
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
-      "home_tries": 5,
-      "away_tries": 1,
-      "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-10T20:45:47+01:00",
       "latest_event_minute": 77,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-10T21:31:25+01:00"
+      "latest_event_seen_at": "2026-10-10T21:31:25+01:00",
+      "home_tries": 5,
+      "away_tries": 1,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
