@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-uls-mun",
   "matchId": "urc-2026-10-10-uls-mun",
-  "updated_at": "2026-10-10T18:47:50+01:00",
+  "updated_at": "2026-10-10T18:49:08+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604054/competitions/604054/plays",
-      "fetched_at": "2026-10-10T18:47:50+01:00",
+      "fetched_at": "2026-10-10T18:49:08+01:00",
       "espn_event_id": "604054",
       "espn_league_id": 270557
     }
@@ -247,6 +247,33 @@
         "home": 10,
         "away": 26
       }
+    },
+    {
+      "id": "espn-1896374",
+      "minute": 54,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jack Murphy",
+      "detail": "Conversion (12-26)",
+      "playerName": "Jack Murphy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1896379",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "John Hodnett",
+      "detail": "replaces Alex Kendellen",
+      "playerOn": "John Hodnett",
+      "playerOff": "Alex Kendellen",
+      "label": "Substitution"
     }
   ]
 }
