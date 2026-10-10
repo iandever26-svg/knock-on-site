@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-bul-lio",
   "matchId": "urc-2026-10-10-bul-lio",
-  "updated_at": "2026-10-10T13:21:58+01:00",
+  "updated_at": "2026-10-10T13:28:20+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604050/competitions/604050/plays",
-      "fetched_at": "2026-10-10T13:21:58+01:00",
+      "fetched_at": "2026-10-10T13:28:20+01:00",
       "espn_event_id": "604050",
       "espn_league_id": 270557
     }
@@ -132,7 +132,7 @@
       }
     },
     {
-      "id": "espn-1895444",
+      "id": "espn-1895449",
       "minute": 30,
       "period": "1H",
       "type": "conversion_made",
