@@ -2,21 +2,21 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sto-sha",
   "matchId": "urc-2026-10-10-sto-sha",
-  "updated_at": "2026-10-10T16:54:29+01:00",
+  "updated_at": "2026-10-10T23:15:55+01:00",
   "final": true,
   "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604051/competitions/604051/plays",
-      "fetched_at": "2026-10-10T16:54:29+01:00",
+      "fetched_at": "2026-10-10T23:15:55+01:00",
       "espn_event_id": "604051",
       "espn_league_id": 270557
     }
   ],
   "events": [
     {
-      "id": "espn-1895608",
+      "id": "espn-1896798",
       "minute": 6,
       "period": "1H",
       "type": "try",
@@ -31,7 +31,22 @@
       }
     },
     {
-      "id": "espn-1895637",
+      "id": "espn-1896798-cm",
+      "minute": 6,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (5-0)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1896799",
       "minute": 13,
       "period": "1H",
       "type": "penalty_goal_made",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "id": "espn-1895640",
+      "id": "espn-1896800",
       "minute": 15,
       "period": "1H",
       "type": "try",
@@ -61,7 +76,22 @@
       }
     },
     {
-      "id": "espn-1895650",
+      "id": "espn-1896800-cm",
+      "minute": 15,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (8-5)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 8,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1896801",
       "minute": 19,
       "period": "1H",
       "type": "substitution",
@@ -73,8 +103,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895661",
-      "minute": 30,
+      "id": "espn-1896803",
+      "minute": 31,
       "period": "1H",
       "type": "penalty_goal_made",
       "team": "away",
@@ -88,8 +118,8 @@
       }
     },
     {
-      "id": "espn-1895683",
-      "minute": 35,
+      "id": "espn-1896804",
+      "minute": 36,
       "period": "1H",
       "type": "yellow_card",
       "team": "away",
@@ -103,8 +133,8 @@
       }
     },
     {
-      "id": "espn-1895697",
-      "minute": 36,
+      "id": "espn-1896805",
+      "minute": 37,
       "period": "1H",
       "type": "try",
       "team": "home",
@@ -118,8 +148,8 @@
       }
     },
     {
-      "id": "espn-1895703",
-      "minute": 37,
+      "id": "espn-1896806",
+      "minute": 38,
       "period": "1H",
       "type": "conversion_made",
       "team": "home",
@@ -133,8 +163,8 @@
       }
     },
     {
-      "id": "espn-1895708",
-      "minute": 37,
+      "id": "espn-1896807",
+      "minute": 38,
       "period": "1H",
       "type": "substitution",
       "team": "away",
@@ -145,29 +175,14 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895759",
+      "id": "espn-1895750",
       "minute": 41,
-      "period": "1H",
-      "type": "yellow_card",
-      "team": "away",
-      "player": "Manu Tshituka",
-      "detail": "Yellow card (15-8)",
-      "playerName": "Manu Tshituka",
-      "label": "Yellow card",
-      "scoreAfter": {
-        "home": 15,
-        "away": 8
-      }
-    },
-    {
-      "id": "espn-1895726",
-      "minute": 41,
-      "period": "1H",
+      "period": "2H",
       "type": "try",
       "team": "home",
-      "player": "André-Hugo Venter",
+      "player": "Leolin Zas",
       "detail": "Try (20-8)",
-      "playerName": "André-Hugo Venter",
+      "playerName": "Leolin Zas",
       "label": "Try",
       "scoreAfter": {
         "home": 20,
@@ -175,14 +190,44 @@
       }
     },
     {
-      "id": "espn-1895750",
+      "id": "espn-1895750-cm",
       "minute": 41,
       "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (20-8)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 20,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1896809",
+      "minute": 43,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Manu Tshituka",
+      "detail": "Yellow card (20-8)",
+      "playerName": "Manu Tshituka",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 20,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1896810",
+      "minute": 43,
+      "period": "1H",
       "type": "try",
       "team": "home",
-      "player": "Leolin Zas",
+      "player": "André-Hugo Venter",
       "detail": "Try (25-8)",
-      "playerName": "Leolin Zas",
+      "playerName": "André-Hugo Venter",
       "label": "Try",
       "scoreAfter": {
         "home": 25,
@@ -190,8 +235,8 @@
       }
     },
     {
-      "id": "espn-1895729",
-      "minute": 42,
+      "id": "espn-1896811",
+      "minute": 44,
       "period": "1H",
       "type": "conversion_made",
       "team": "home",
@@ -235,7 +280,7 @@
       }
     },
     {
-      "id": "espn-1895813",
+      "id": "espn-1896812",
       "minute": 50,
       "period": "2H",
       "type": "substitution",
@@ -247,7 +292,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895815",
+      "id": "espn-1896814",
       "minute": 50,
       "period": "2H",
       "type": "substitution",
@@ -259,7 +304,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895825",
+      "id": "espn-1896816",
       "minute": 50,
       "period": "2H",
       "type": "substitution",
@@ -271,7 +316,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895808",
+      "id": "espn-1896818",
       "minute": 51,
       "period": "2H",
       "type": "try",
@@ -286,7 +331,7 @@
       }
     },
     {
-      "id": "espn-1895809",
+      "id": "espn-1896819",
       "minute": 52,
       "period": "2H",
       "type": "conversion_made",
@@ -301,7 +346,7 @@
       }
     },
     {
-      "id": "espn-1895848",
+      "id": "espn-1896820",
       "minute": 52,
       "period": "2H",
       "type": "substitution",
@@ -313,7 +358,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895850",
+      "id": "espn-1896822",
       "minute": 52,
       "period": "2H",
       "type": "substitution",
@@ -325,7 +370,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895852",
+      "id": "espn-1896824",
       "minute": 52,
       "period": "2H",
       "type": "substitution",
@@ -337,7 +382,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895861",
+      "id": "espn-1896826",
       "minute": 52,
       "period": "2H",
       "type": "substitution",
@@ -349,7 +394,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895886",
+      "id": "espn-1896828",
       "minute": 52,
       "period": "2H",
       "type": "substitution",
@@ -361,7 +406,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895925",
+      "id": "espn-1896830",
       "minute": 52,
       "period": "2H",
       "type": "substitution",
@@ -373,7 +418,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895858",
+      "id": "espn-1896832",
       "minute": 56,
       "period": "2H",
       "type": "substitution",
@@ -385,7 +430,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895888",
+      "id": "espn-1896834",
       "minute": 57,
       "period": "2H",
       "type": "try",
@@ -400,7 +445,7 @@
       }
     },
     {
-      "id": "espn-1895891",
+      "id": "espn-1896835",
       "minute": 58,
       "period": "2H",
       "type": "conversion_made",
@@ -415,8 +460,8 @@
       }
     },
     {
-      "id": "espn-1895904",
-      "minute": 59,
+      "id": "espn-1896836",
+      "minute": 60,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -427,8 +472,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895914",
-      "minute": 61,
+      "id": "espn-1896838",
+      "minute": 62,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -439,8 +484,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895923",
-      "minute": 63,
+      "id": "espn-1896840",
+      "minute": 64,
       "period": "2H",
       "type": "try",
       "team": "home",
@@ -454,8 +499,23 @@
       }
     },
     {
-      "id": "espn-1895931",
+      "id": "espn-1896840-cm",
       "minute": 64,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (39-22)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 39,
+        "away": 22
+      }
+    },
+    {
+      "id": "espn-1896841",
+      "minute": 65,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -466,7 +526,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895933",
+      "id": "espn-1896843",
       "minute": 65,
       "period": "2H",
       "type": "substitution",

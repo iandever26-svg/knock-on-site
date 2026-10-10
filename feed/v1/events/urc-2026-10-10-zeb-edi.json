@@ -2,14 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-zeb-edi",
   "matchId": "urc-2026-10-10-zeb-edi",
-  "updated_at": "2026-10-10T16:54:29+01:00",
+  "updated_at": "2026-10-10T23:15:55+01:00",
   "final": true,
   "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604052/competitions/604052/plays",
-      "fetched_at": "2026-10-10T16:54:29+01:00",
+      "fetched_at": "2026-10-10T23:15:55+01:00",
       "espn_event_id": "604052",
       "espn_league_id": 270557
     }
@@ -55,6 +55,21 @@
       "detail": "Try (5-3)",
       "playerName": "Alessandro Fusco",
       "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-1895638-cm",
+      "minute": 12,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (5-3)",
+      "label": "Conversion missed",
+      "inferred": true,
       "scoreAfter": {
         "home": 5,
         "away": 3
@@ -115,6 +130,21 @@
       "detail": "Try (5-15)",
       "playerName": "Freddy Douglas",
       "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1895714-cm",
+      "minute": 37,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (5-15)",
+      "label": "Conversion missed",
+      "inferred": true,
       "scoreAfter": {
         "home": 5,
         "away": 15

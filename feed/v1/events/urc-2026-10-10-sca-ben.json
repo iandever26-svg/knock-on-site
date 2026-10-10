@@ -2,14 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T19:15:13+01:00",
+  "updated_at": "2026-10-10T23:15:56+01:00",
   "final": true,
   "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T19:15:13+01:00",
+      "fetched_at": "2026-10-10T23:15:56+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -247,7 +247,7 @@
       }
     },
     {
-      "id": "espn-1896329",
+      "id": "espn-1896457",
       "minute": 54,
       "period": "2H",
       "type": "conversion_made",
@@ -271,6 +271,21 @@
       "detail": "Try (19-21)",
       "playerName": "Ellis Mee",
       "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1896365-cm",
+      "minute": 56,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (19-21)",
+      "label": "Conversion missed",
+      "inferred": true,
       "scoreAfter": {
         "home": 19,
         "away": 21
@@ -363,6 +378,21 @@
       }
     },
     {
+      "id": "espn-1896388-cm",
+      "minute": 65,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (24-21)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 24,
+        "away": 21
+      }
+    },
+    {
       "id": "espn-1896389",
       "minute": 67,
       "period": "2H",
@@ -396,6 +426,21 @@
       "detail": "Try (24-26)",
       "playerName": "Louis Lynagh",
       "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1896411-cm",
+      "minute": 72,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (24-26)",
+      "label": "Conversion missed",
+      "inferred": true,
       "scoreAfter": {
         "home": 24,
         "away": 26
