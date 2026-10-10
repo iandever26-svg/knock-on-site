@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-lei-car",
   "matchId": "urc-2026-10-10-lei-car",
-  "updated_at": "2026-10-10T21:05:13+01:00",
+  "updated_at": "2026-10-10T21:15:31+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604055/competitions/604055/plays",
-      "fetched_at": "2026-10-10T21:05:13+01:00",
+      "fetched_at": "2026-10-10T21:15:31+01:00",
       "espn_event_id": "604055",
       "espn_league_id": 270557
     }
@@ -189,6 +189,102 @@
       "detail": "replaces Tadhg Furlong",
       "playerOn": "Thomas Clarkson",
       "playerOff": "Tadhg Furlong",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896698",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Rhys Barratt",
+      "detail": "replaces Danny Southworth",
+      "playerOn": "Rhys Barratt",
+      "playerOff": "Danny Southworth",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896700",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sam Wainwright",
+      "detail": "replaces Javan Sebastian",
+      "playerOn": "Sam Wainwright",
+      "playerOff": "Javan Sebastian",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896702",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Evan Lloyd",
+      "detail": "replaces Dan Thomas",
+      "playerOn": "Evan Lloyd",
+      "playerOff": "Dan Thomas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896677",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Peter Dooley",
+      "detail": "replaces Alex Usanov",
+      "playerOn": "Peter Dooley",
+      "playerOff": "Alex Usanov",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896679",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Alan Spicer",
+      "detail": "replaces Max Deegan",
+      "playerOn": "Alan Spicer",
+      "playerOff": "Max Deegan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896713",
+      "minute": 67,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Josh Ericson",
+      "detail": "replaces Jack Conan",
+      "playerOn": "Josh Ericson",
+      "playerOff": "Jack Conan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896715",
+      "minute": 67,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Robbie Henshaw",
+      "detail": "replaces Hugo Keenan",
+      "playerOn": "Robbie Henshaw",
+      "playerOff": "Hugo Keenan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896717",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Semisi Paea",
+      "detail": "replaces Liam Belcher",
+      "playerOn": "Semisi Paea",
+      "playerOff": "Liam Belcher",
       "label": "Substitution"
     }
   ]
