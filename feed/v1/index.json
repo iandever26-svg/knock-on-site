@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T15:56:55+01:00",
-  "updatedAt": "2026-10-10T15:56:55+01:00",
+  "generatedAt": "2026-10-10T16:02:09+01:00",
+  "updatedAt": "2026-10-10T16:02:09+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-10T14:42:22+01:00",
   "matches": [
@@ -239,11 +239,11 @@
       "match_id": "urc-2026-10-10-zeb-edi",
       "kickoff": "2026-10-10T15:00:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-10T15:56:51+01:00",
+      "scoreUpdatedAt": "2026-10-10T16:02:04+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-10T14:43:05+01:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-10T15:51:40+01:00"
+      "eventsUpdatedAt": "2026-10-10T16:02:09+01:00"
     }
   ]
 }
