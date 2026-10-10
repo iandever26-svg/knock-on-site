@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sto-sha",
   "matchId": "urc-2026-10-10-sto-sha",
-  "updated_at": "2026-10-10T15:51:39+01:00",
+  "updated_at": "2026-10-10T15:56:54+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604051/competitions/604051/plays",
-      "fetched_at": "2026-10-10T15:51:39+01:00",
+      "fetched_at": "2026-10-10T15:56:54+01:00",
       "espn_event_id": "604051",
       "espn_league_id": 270557
     }
@@ -142,6 +142,36 @@
       "playerOn": "Jason Jenkins",
       "playerOff": "Eben Etzebeth",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1895726",
+      "minute": 41,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "André-Hugo Venter",
+      "detail": "Try (20-8)",
+      "playerName": "André-Hugo Venter",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 20,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1895729",
+      "minute": 42,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sacha Feinberg-Mngomezulu",
+      "detail": "Conversion (22-8)",
+      "playerName": "Sacha Feinberg-Mngomezulu",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 22,
+        "away": 8
+      }
     }
   ]
 }
