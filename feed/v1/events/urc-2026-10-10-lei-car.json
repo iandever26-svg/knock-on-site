@@ -2,16 +2,32 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-lei-car",
   "matchId": "urc-2026-10-10-lei-car",
-  "updated_at": "2026-10-10T19:48:35+01:00",
+  "updated_at": "2026-10-10T19:57:18+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604055/competitions/604055/plays",
-      "fetched_at": "2026-10-10T19:48:35+01:00",
+      "fetched_at": "2026-10-10T19:57:18+01:00",
       "espn_event_id": "604055",
       "espn_league_id": 270557
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "espn-1896485",
+      "minute": 9,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Hugo Keenan",
+      "detail": "Try (5-0)",
+      "playerName": "Hugo Keenan",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    }
+  ]
 }
