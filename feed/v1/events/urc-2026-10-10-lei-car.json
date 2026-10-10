@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-lei-car",
   "matchId": "urc-2026-10-10-lei-car",
-  "updated_at": "2026-10-10T21:20:47+01:00",
-  "final": false,
+  "updated_at": "2026-10-10T21:31:25+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604055/competitions/604055/plays",
-      "fetched_at": "2026-10-10T21:20:47+01:00",
+      "fetched_at": "2026-10-10T21:31:25+01:00",
       "espn_event_id": "604055",
       "espn_league_id": 270557
     }
@@ -288,6 +289,18 @@
       "label": "Substitution"
     },
     {
+      "id": "espn-1896774",
+      "minute": 73,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Steffan Emanuel",
+      "detail": "replaces Jacob Beetham",
+      "playerOn": "Steffan Emanuel",
+      "playerOff": "Jacob Beetham",
+      "label": "Substitution"
+    },
+    {
       "id": "espn-1896755",
       "minute": 73,
       "period": "2H",
@@ -297,6 +310,60 @@
       "detail": "replaces Dan Sheehan",
       "playerOn": "Rónan Kelleher",
       "playerOff": "Dan Sheehan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896761",
+      "minute": 76,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Jamie Osborne",
+      "detail": "Try (27-5)",
+      "playerName": "Jamie Osborne",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 27,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1896765",
+      "minute": 77,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sam Prendergast",
+      "detail": "Conversion (29-5)",
+      "playerName": "Sam Prendergast",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 29,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1896770",
+      "minute": 77,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Rory Thornton",
+      "detail": "replaces Alex Mann",
+      "playerOn": "Rory Thornton",
+      "playerOff": "Alex Mann",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896766",
+      "minute": 77,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Caspar Gabriel",
+      "detail": "replaces Jamie Osborne",
+      "playerOn": "Caspar Gabriel",
+      "playerOff": "Jamie Osborne",
       "label": "Substitution"
     }
   ]
