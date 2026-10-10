@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-bul-lio",
   "matchId": "urc-2026-10-10-bul-lio",
-  "updated_at": "2026-10-10T12:52:57+01:00",
+  "updated_at": "2026-10-10T13:11:22+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604050/competitions/604050/plays",
-      "fetched_at": "2026-10-10T12:52:57+01:00",
+      "fetched_at": "2026-10-10T13:11:22+01:00",
       "espn_event_id": "604050",
       "espn_league_id": 270557
     }
@@ -68,6 +68,81 @@
       "label": "Conversion",
       "scoreAfter": {
         "home": 5,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1895441",
+      "minute": 26,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Morné van den Berg",
+      "detail": "Yellow card (5-7)",
+      "playerName": "Morné van den Berg",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 5,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1895439",
+      "minute": 26,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Johan Grobbelaar",
+      "detail": "Try (10-7)",
+      "playerName": "Johan Grobbelaar",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1895442",
+      "minute": 26,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "Conversion (12-7)",
+      "playerName": "Curwin Bosch",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1895443",
+      "minute": 29,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Cameron Hanekom",
+      "detail": "Try (17-7)",
+      "playerName": "Cameron Hanekom",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1895444",
+      "minute": 30,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "Conversion (19-7)",
+      "playerName": "Curwin Bosch",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
         "away": 7
       }
     }
