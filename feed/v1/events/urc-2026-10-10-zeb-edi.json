@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-zeb-edi",
   "matchId": "urc-2026-10-10-zeb-edi",
-  "updated_at": "2026-10-10T16:44:01+01:00",
+  "updated_at": "2026-10-10T16:49:14+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604052/competitions/604052/plays",
-      "fetched_at": "2026-10-10T16:44:01+01:00",
+      "fetched_at": "2026-10-10T16:49:14+01:00",
       "espn_event_id": "604052",
       "espn_league_id": 270557
     }
@@ -321,7 +321,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1895936",
+      "id": "espn-1896005",
       "minute": 72,
       "period": "2H",
       "type": "try",
@@ -349,6 +349,42 @@
         "home": 12,
         "away": 22
       }
+    },
+    {
+      "id": "espn-1896017",
+      "minute": 73,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jamie Stewart",
+      "detail": "replaces Pierre Schoeman",
+      "playerOn": "Jamie Stewart",
+      "playerOff": "Pierre Schoeman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896022",
+      "minute": 73,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Conor McAlpine",
+      "detail": "replaces Hector Patterson",
+      "playerOn": "Conor McAlpine",
+      "playerOff": "Hector Patterson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896024",
+      "minute": 73,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Tom Currie",
+      "detail": "replaces Glen Young",
+      "playerOn": "Tom Currie",
+      "playerOff": "Glen Young",
+      "label": "Substitution"
     }
   ]
 }
