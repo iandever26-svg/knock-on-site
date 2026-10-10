@@ -1,43 +1,138 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T20:07:18+01:00",
+  "generatedAt": "2026-10-10T21:07:13+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxk6oyqmik2j",
-      "text": "⏱️ | 20'\nTRY! Jack Conan crashes over from close range after a lovely break from Sam Prendergast and Jimmy O'Brien.\n🔵🔵 15-0 ⚪️⚪️\n#LEIvCAR",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxk6oyqmik2j",
-      "publishedAt": "2026-10-10T19:06:35.713Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreifomjvdsq36pmfyks45d37yrcfctsm6p55kuawh2r57xc4zkrmjym",
-      "source": "leinsterrugby.bsky.social"
+      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxkbpjj4y22o",
+      "text": "Decent showing from Coffey #LEIvCAR",
+      "author": "Harpin' On Rugby",
+      "handle": "harpinonrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
+      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxkbpjj4y22o",
+      "publishedAt": "2026-10-10T20:00:34.517Z",
+      "thumbnail": null,
+      "source": "harpinonrugby.bsky.social"
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxk6jo2hgk2j",
-      "text": "⏱️ | 17'\nTRY! Jimmy O'Brien finishes in the corner off the back of a five-metre scrum!\n🔵🔵 10-0 ⚪️⚪️\n#LEIvCAR",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxkaxshw3s2j",
+      "text": "⏱️ | 46'\nTaine Basham picks off a pass and has a clear path to the tryline but Hugo Keenan chases him down and we carry the ball into touch deep in our own 22.\n🔵🔵 22-5 ⚪️⚪️\n#LEIvCAR",
       "author": "Leinster Rugby",
       "handle": "leinsterrugby.bsky.social",
       "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxk6jo2hgk2j",
-      "publishedAt": "2026-10-10T19:03:36.728Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreihxocc33ldwxyd3ocfkyat5luxs2k2dz24hf76a3pq7u5caehvgrq",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxk6gph4gk2j",
-      "text": "⏱️ | 15'\n🟨 Yellow card for Aled Davies for killing a Leinster move right on the try line. We opt for a five-metre scrum from the penalty.\n🔵🔵 5-0 ⚪️⚪️\n#LEIvCAR",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxk6gph4gk2j",
-      "publishedAt": "2026-10-10T19:01:57.531Z",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxkaxshw3s2j",
+      "publishedAt": "2026-10-10T19:47:18.612Z",
       "thumbnail": null,
       "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkak3rcto2p",
+      "text": "Ulster v Munster | Highlights | Round 3 | URC 2026/27 (📹@URCOfficial) #URC #Rugby #Ulster",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkak3rcto2p",
+      "publishedAt": "2026-10-10T19:39:38.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiervoxeixfvhxsrb3vsioawwk6osfbz7qasbj5n7c2o63wswsulaq",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxkajtobok2j",
+      "text": "⏱️ | 40'\nWe receive the kick off for the second half. Let's go, lads! ☄️\n🔵🔵 22-5 ⚪️⚪️\n#LEIvCAR",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxkajtobok2j",
+      "publishedAt": "2026-10-10T19:39:30.106Z",
+      "thumbnail": null,
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxkactlrhc2a",
+      "text": "Tries from Hugo Keenan, Jack Conan and a Jimmy O'Brien double have us in front at the break with a bonus point already in the bag ⚡\nIt's been a productive first 40 minutes at Laya Arena! 🙌\n#LEIvCAR",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxkactlrhc2a",
+      "publishedAt": "2026-10-10T19:35:35.023Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreif42q7kj5y53arwnikpysfc4trdlob7wn2qensvgilhzlbijj3okq",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxka2ff67s24",
+      "text": "Leinster 22-5 Cardiff HT\nJust not good enough really.\nFar too many handling errors, everything being done a yard too slowly, and some of the tries have been seriously soft.\nEmpty the bench and look to score 3 tries.\n#LEIvCAR",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxka2ff67s24",
+      "publishedAt": "2026-10-10T19:30:51.809Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxk7yhyqvc2o",
+      "text": "Have to be happy with that.  Sam's kicking radar needed fine tuning but overall the attack looks well in full flow.  Fell asleep for the Cardiff try but we're good for this lead and need to push on for more.  #LEIvCAR #BKTURC",
+      "author": "Harpin' On Rugby",
+      "handle": "harpinonrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
+      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxk7yhyqvc2o",
+      "publishedAt": "2026-10-10T19:29:47.441Z",
+      "thumbnail": null,
+      "source": "harpinonrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxk7x2ervf27",
+      "text": "A first-half bonus point here at Laya Arena 💪\n#LEIvCAR",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxk7x2ervf27",
+      "publishedAt": "2026-10-10T19:28:59.480Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreid4rpu3yqb5uctl7r7wtmb62gfifnyl7shzj6r2lhzkza3jn5w7lq",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxk7rb44ek2j",
+      "text": "⏱️ | 38'\nTRY! Jimmy O'Brien grabs his second and secures the bonus point after a lovely break from Prendergast through the heart of the Cardiff defence. Prendergast converts from out wide.\n🔵🔵 22-5 ⚪️⚪️\n#LEIvCAR",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxk7rb44ek2j",
+      "publishedAt": "2026-10-10T19:25:45.327Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreihxt5qkqapqq3qztewuxercizvxiafkv557s7mnvii4wgbswyct5e",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:PfmmoISYDDM",
+      "title": "Ulster v Munster | Highlights | Round 3 | URC 2026/27",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=PfmmoISYDDM",
+      "publishedAt": "2026-10-10T19:19:25.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/PfmmoISYDDM/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxk6sfebiy2c",
+      "text": "Scarlets v Benetton | Highlights | Round 3 | URC 2026/27 (📹@URCOfficial) #URC #RugbyHighlights #Scarlets",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxk6sfebiy2c",
+      "publishedAt": "2026-10-10T19:08:29.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibzyutfd7b775sfnfhmcouesu5ydryukchxvyfhwqlz5pd33ygdcq",
+      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -52,18 +147,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxk652w2wk2j",
-      "text": "⏱️ | 10'\nTRY! Hugo Keenan scores the opening try of the game after he's set away by some quick hands and recovers his own kick through!\n🔵🔵 5-0 ⚪️⚪️\n#LEIvCAR",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxk652w2wk2j",
-      "publishedAt": "2026-10-10T18:56:34.007Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreieusielhyinyd7o3ytcuwuq47xnqhkncfo252u3donf4qflvnpdwy",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxk5sm3jp22e",
       "text": "Well that’s definitely not Taulupe Faletau at 8…\n#LEIvCAR",
       "author": "Cardiff Rugby Life",
@@ -73,18 +156,6 @@
       "publishedAt": "2026-10-10T18:50:42.916Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxk5jx4ua22j",
-      "text": "We've been waiting two years for this... Sam Prendergast kicks off the game at Laya Arena! 🙌\nCome on, Leinster! 🔥\n#LEIvCAR",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxk5jx4ua22j",
-      "publishedAt": "2026-10-10T18:45:52.502Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreifvsdnckdnfdu754si5onfxqjokidioodeg6ewb37xjupngmikmza",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "bluesky",
@@ -144,30 +215,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxk4sqy5pr2t",
       "publishedAt": "2026-10-10T18:32:54.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiapxbgg36l6xf62uqvtd2f2mhtuirsn6d2clibbinp5qcwqd6g45q",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxk4h7u4wo2p",
-      "text": "United Rugby Championship: Leinster v Cardiff updates (✍️@RTErugby) #UnitedRugbyChampionship #Leinster #Cardiff",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxk4h7u4wo2p",
-      "publishedAt": "2026-10-10T18:26:27.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihuyvs33ucvr75gtm5wp5ea7dc4p43kvmpjqazlrabql7ov3i2rte",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxk2sobpx22z",
-      "text": "AIL round-up: No unbeaten teams left as Clontarf sit top after nine-try hammering (✍️@rugby_ie) #AIL #Rugby #Clontarf",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxk2sobpx22z",
-      "publishedAt": "2026-10-10T17:57:03.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidpj5mr2b2gmjx5f5gg34dxz7u2bzy27smntwq4xa637sl4md3cbe",
       "source": "rugbynewsplus.bsky.social"
     },
     {
@@ -299,17 +346,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:eahs7s_ZFRs",
-      "title": "Vodacom Bulls v 10bet Lions | Highlights | Round 3 | URC 2026/27",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=eahs7s_ZFRs",
-      "publishedAt": "2026-10-10T14:48:53.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/eahs7s_ZFRs/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxjoylk5sk2q",
       "text": "Cardiff 7-7 Carmarthen HT\nA tense first half at a windy CAP with the Rags mostly camped in our own 22, but now looking to open up playing with the wind and slope.\n#BlueAndBlacks",
@@ -344,18 +380,6 @@
       "publishedAt": "2026-10-10T12:48:08.875Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreieurutlrj7gy3r3swzfhchqebylu3do7tmsqeqgvkdkpb23wz7pfa",
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxjj3wnenk2z",
-      "text": "Academy lads out and about again today;\n- Calen Edwards starts for Ystrad\n- Ioan Leyshon starts for Beddau\n- and on the other side in that fixture Harry Turner is on the bench for Merthyr",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxjj3wnenk2z",
-      "publishedAt": "2026-10-10T12:40:07.393Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreiejtufxv6kh6neztornfuskaaagipa3jznmk3sra55v7a4v6j3opy",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
@@ -479,18 +503,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxhqpt2fbs25",
-      "text": "That was a super sweet try right there.\n#GLAvCON #BKTURC",
-      "author": "Harpin' On Rugby",
-      "handle": "harpinonrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
-      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxhqpt2fbs25",
-      "publishedAt": "2026-10-09T19:51:11.425Z",
-      "thumbnail": null,
-      "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxhplg6fpr2j",
       "text": "The physicality in this is off the charts 😤\nReminder you can get regular updates on the official Connacht Rugby app 📱\n#GLAvCON | #BKTURC",
       "author": "Connacht Rugby",
@@ -535,18 +547,6 @@
       "publishedAt": "2026-10-09T16:31:13.996Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreicy5bwuag7bpye27pfkbbj6lwi3xbauftzisq72my5czb3s4xavpu/thumbnail.jpg",
       "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxgqpqyzts27",
-      "text": "Our latest “80+ column” newsletter\ncovering topics like…\n🏉 Leinster v Cardiff preview\n🏉 Let’s be Avan you\n🏉 Tackling tackles\n🏉 How Bledisloe can they go?\n🏉 “...and much, much more”\nCheck it out here > jeffpagano.substack.com/p/80-column-...",
-      "author": "Harpin' On Rugby",
-      "handle": "harpinonrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
-      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxgqpqyzts27",
-      "publishedAt": "2026-10-09T10:18:29.552Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreihlmf25sfgn44wrvg2sfqi645xxvmpl4pds2di4ofwmrocb52eu6i",
-      "source": "harpinonrugby.bsky.social"
     },
     {
       "type": "bluesky",
