@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T18:49:08+01:00",
+  "updated_at": "2026-10-10T18:54:21+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T18:49:08+01:00",
+      "fetched_at": "2026-10-10T18:54:21+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
@@ -293,22 +293,10 @@
       "period": "2H",
       "type": "substitution",
       "team": "away",
-      "player": "Federico Zanandrea",
-      "detail": "replaces So'otala Fa'aso'o",
-      "playerOn": "Federico Zanandrea",
-      "playerOff": "So'otala Fa'aso'o",
-      "label": "Substitution"
-    },
-    {
-      "id": "espn-1896375",
-      "minute": 57,
-      "period": "2H",
-      "type": "substitution",
-      "team": "away",
       "player": "Louis Werchon",
-      "detail": "replaces Onisi Ratave",
+      "detail": "replaces So'otala Fa'aso'o",
       "playerOn": "Louis Werchon",
-      "playerOff": "Onisi Ratave",
+      "playerOff": "So'otala Fa'aso'o",
       "label": "Substitution"
     },
     {
@@ -344,6 +332,18 @@
       "detail": "replaces Ryan Elias",
       "playerOn": "John McKee",
       "playerOff": "Ryan Elias",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896383",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jean Smith",
+      "detail": "replaces Rhyno Smith",
+      "playerOn": "Jean Smith",
+      "playerOff": "Rhyno Smith",
       "label": "Substitution"
     }
   ]
