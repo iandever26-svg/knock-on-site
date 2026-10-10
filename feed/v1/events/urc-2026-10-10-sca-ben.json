@@ -2,16 +2,47 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sca-ben",
   "matchId": "urc-2026-10-10-sca-ben",
-  "updated_at": "2026-10-10T17:33:12+01:00",
+  "updated_at": "2026-10-10T17:38:25+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604053/competitions/604053/plays",
-      "fetched_at": "2026-10-10T17:33:12+01:00",
+      "fetched_at": "2026-10-10T17:38:25+01:00",
       "espn_event_id": "604053",
       "espn_league_id": 270557
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "espn-1896263",
+      "minute": 4,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Sam Lousi",
+      "detail": "Try (5-0)",
+      "playerName": "Sam Lousi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1896264",
+      "minute": 5,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sam Costelow",
+      "detail": "Conversion (7-0)",
+      "playerName": "Sam Costelow",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 0
+      }
+    }
+  ]
 }
