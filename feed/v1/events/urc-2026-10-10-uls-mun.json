@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-uls-mun",
   "matchId": "urc-2026-10-10-uls-mun",
-  "updated_at": "2026-10-10T19:15:14+01:00",
+  "updated_at": "2026-10-10T19:23:02+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604054/competitions/604054/plays",
-      "fetched_at": "2026-10-10T19:15:14+01:00",
+      "fetched_at": "2026-10-10T19:23:02+01:00",
       "espn_event_id": "604054",
       "espn_league_id": 270557
     }
@@ -363,6 +363,48 @@
       "detail": "replaces Craig Casey",
       "playerOn": "Ben O'Donovan",
       "playerOff": "Craig Casey",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1896435",
+      "minute": 77,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Stuart McCloskey",
+      "detail": "Try (24-26)",
+      "playerName": "Stuart McCloskey",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1896436",
+      "minute": 78,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jack Murphy",
+      "detail": "Conversion (26-26)",
+      "playerName": "Jack Murphy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 26,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1896441",
+      "minute": 80,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Henry Walker",
+      "detail": "replaces Tom Stewart",
+      "playerOn": "Henry Walker",
+      "playerOff": "Tom Stewart",
       "label": "Substitution"
     }
   ]
