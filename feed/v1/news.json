@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T00:07:06+01:00",
+  "generatedAt": "2026-10-10T01:07:18+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxi45iekjz2j",
+      "text": "Post match chat with Stuart Lancaster 🟢🦅\n#OneConnacht",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugbai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
+      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxi45iekjz2j",
+      "publishedAt": "2026-10-09T23:15:40.693Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreidzcm6qzg55iwso5xr5n76yiomded23f36vzwuhbsqb6rdzu6bpee/thumbnail.jpg",
+      "source": "connachtrugbai.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxi2ycezrk2h",
@@ -298,18 +310,6 @@
       "publishedAt": "2026-10-09T16:00:33.490Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreigo7avlsdzjaoirpiasyvoypuqyroqwkxut42w5oa3n3vmqeoeenq",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3mxhczevwe326",
-      "text": "Haven’t downloaded the app yet? Get it here: http://connachtrugby.ie/app\nOur Round 3 Live Match Centre will keep you up to date with all the important moments from Treviso, including live text commentary, real-time stats and the latest score throughout the game 📱\n#GLAvCON | #BKTURC",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugbai.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidpaf4huzx5eselthu4md6z46ho6zni46nu3gflikegpybr4rysgu",
-      "url": "https://bsky.app/profile/connachtrugbai.bsky.social/post/3mxhczevwe326",
-      "publishedAt": "2026-10-09T15:45:59.455Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreidosihuor7s6zvu7nxiyb22kwvsnsicnbg4h2bosowtndshjmeney",
-      "source": "connachtrugbai.bsky.social"
     },
     {
       "type": "bluesky",
