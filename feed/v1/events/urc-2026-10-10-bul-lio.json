@@ -2,16 +2,44 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-bul-lio",
   "matchId": "urc-2026-10-10-bul-lio",
-  "updated_at": "2026-10-10T12:40:16+01:00",
+  "updated_at": "2026-10-10T12:47:43+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604050/competitions/604050/plays",
-      "fetched_at": "2026-10-10T12:40:16+01:00",
+      "fetched_at": "2026-10-10T12:47:43+01:00",
       "espn_event_id": "604050",
       "espn_league_id": 270557
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "espn-1895410",
+      "minute": 10,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Harold Vorster",
+      "detail": "Try (5-0)",
+      "playerName": "Harold Vorster",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1895411",
+      "minute": 11,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "RF Schoeman",
+      "detail": "replaces Sebastian Lombard",
+      "playerOn": "RF Schoeman",
+      "playerOff": "Sebastian Lombard",
+      "label": "Substitution"
+    }
+  ]
 }
