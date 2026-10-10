@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-10-10-lei-car",
+  "matchId": "urc-2026-10-10-lei-car",
+  "updated_at": "2026-10-10T19:48:35+01:00",
+  "final": false,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604055/competitions/604055/plays",
+      "fetched_at": "2026-10-10T19:48:35+01:00",
+      "espn_event_id": "604055",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": []
+}
