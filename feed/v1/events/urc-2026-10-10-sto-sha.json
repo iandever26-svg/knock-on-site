@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-10-sto-sha",
   "matchId": "urc-2026-10-10-sto-sha",
-  "updated_at": "2026-10-10T15:56:54+01:00",
+  "updated_at": "2026-10-10T16:12:38+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604051/competitions/604051/plays",
-      "fetched_at": "2026-10-10T15:56:54+01:00",
+      "fetched_at": "2026-10-10T16:12:38+01:00",
       "espn_event_id": "604051",
       "espn_league_id": 270557
     }
@@ -144,6 +144,21 @@
       "label": "Substitution"
     },
     {
+      "id": "espn-1895759",
+      "minute": 41,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Manu Tshituka",
+      "detail": "Yellow card (15-8)",
+      "playerName": "Manu Tshituka",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 15,
+        "away": 8
+      }
+    },
+    {
       "id": "espn-1895726",
       "minute": 41,
       "period": "1H",
@@ -159,17 +174,32 @@
       }
     },
     {
+      "id": "espn-1895750",
+      "minute": 41,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Leolin Zas",
+      "detail": "Try (25-8)",
+      "playerName": "Leolin Zas",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 25,
+        "away": 8
+      }
+    },
+    {
       "id": "espn-1895729",
       "minute": 42,
       "period": "1H",
       "type": "conversion_made",
       "team": "home",
       "player": "Sacha Feinberg-Mngomezulu",
-      "detail": "Conversion (22-8)",
+      "detail": "Conversion (27-8)",
       "playerName": "Sacha Feinberg-Mngomezulu",
       "label": "Conversion",
       "scoreAfter": {
-        "home": 22,
+        "home": 27,
         "away": 8
       }
     }
