@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-11T17:07:16+01:00",
+  "generatedAt": "2026-10-11T19:07:17+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxmjuhvxrs2s",
+      "text": "While he was delighted with the win over Zebre, Magnus Bradbury admits Edinburgh's three-match winning start makes him \"cringe\"\n🔗 shorturl.at/ATEk9",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxmjuhvxrs2s",
+      "publishedAt": "2026-10-11T17:31:50.022Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreic5xfmod5qsnszi5mqowpmd67oikjzvuutgt5upnho6gnmcy67piu",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxmjevoqwm2i",
+      "text": "I Get It Now. 🦌 #rugby #munster (📹@PirateRugbyPod) #rugby #Munster #sports",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxmjevoqwm2i",
+      "publishedAt": "2026-10-11T17:23:07.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiacwhguxx6vk4azz2252iwnze2mts5qbxpiyr73easyrbxzrk63mq",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxmehdspdc2m",
@@ -125,18 +149,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxldgv7oj42w",
-      "text": "It has been a rollercoaster few weeks for Callum Reidy but it ended on a massive high as he finally made his Glasgow Warriors debut on Friday night\n🔗  shorturl.at/AH9oT",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxldgv7oj42w",
-      "publishedAt": "2026-10-11T06:04:10.493Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihwqsnmhd2v5wv7ayjwibdzhlqie2ylxwmej3bcramwd2fnir5lhq",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxl4ubftsk24",
       "text": "'We’re playing matches like they're training sessions' - Ulster still searching for consistency (✍️@rugby_ie) #UlsterRugby #MunsterRugby #RugbyUnion",
       "author": "Rugby News +",
@@ -157,18 +169,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkj3shoej22",
       "publishedAt": "2026-10-10T22:12:42.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreickjzjnnhiztm44s747hw56hjd2lgbbg4kiiuhr6b3qdz6mify7h4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkibvxooq2v",
-      "text": "'It's amazing we've sold out today, we'd love that to be the norm now' (✍️@rugby_ie) #Leinster #LeoCullen #SoldOut",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkibvxooq2v",
-      "publishedAt": "2026-10-10T21:58:13.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidw3qn7rk2h27u5unzppeimm3djm5hl2bvg3gfwseolgsqtdsonsa",
       "source": "rugbynewsplus.bsky.social"
     },
     {
