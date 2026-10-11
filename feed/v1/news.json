@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-11T15:07:23+01:00",
+  "generatedAt": "2026-10-11T17:07:16+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxmehdspdc2m",
+      "text": "The Whites are home🤍\nThis weekend saw Swansea return to St Helen's for their 1st game home, played in front of a busy JCP Solicitors Stand 😍\nOn Thursday, they go again vs Cardiff💪\nThis is a key event in the lead up to Ospreys v Dragons, and we need you there!\n🎟️ ospreys.info/SRFCvCAR",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxmehdspdc2m",
+      "publishedAt": "2026-10-11T15:55:00.808Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifiaaxr3q5bcm4vtkfwinz2o3b2v6zb2i7xbmpmnwz4etdj5yfhey",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxmeajonys27",
+      "text": "Jake Dalziel made Newcastle history this afternoon on his PREM debut against Exeter\nAnd the teenager caught the eye of a couple of former British & Irish Lions despite defeat at Sandy Park\n🔗 shorturl.at/WvS3M",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxmeajonys27",
+      "publishedAt": "2026-10-11T15:51:12.085Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifmdj3dcbuwtb7wbgsopmlkar767x3q2kb6wa2h7f45twrr2eoehm",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxm4vu6d5q2v",
@@ -371,18 +395,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjxxwvhbp2h",
-      "text": "“A bonus point win in Parma has been scarce for Edinburgh.”\nEdinburgh boss Sean Everitt praised the character his side showed in their win over Zebre\n🔗  shorturl.at/o31IU",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjxxwvhbp2h",
-      "publishedAt": "2026-10-10T17:06:19.396Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreievuuxrblnfzaxc4v4kszc47jvyglop7az3lfmltjpfzvg73oy2lu",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxjrn3uw222o",
       "text": "Gwrando i Morgan Morse ar ôl y gêm Dreigiau 🐉\n#YGweilchYnEinGwaed",
       "author": "Ospreys Rugby",
@@ -440,18 +452,6 @@
       "publishedAt": "2026-10-09T23:15:40.693Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7azxdiemtvd7otuvlaeddz7p/bafkreidzcm6qzg55iwso5xr5n76yiomded23f36vzwuhbsqb6rdzu6bpee/thumbnail.jpg",
       "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxi2ycezrk2h",
-      "text": "Post-match press conference 🎥\n\"We didn't go fishing with dynamite, we were strategic and patient. I was pleased with the maturity to action what we needed to under pressure. We feel like we did a bit of everything today and we took our chances.\" - Mark Jones\n🎞️ youtu.be/VC5QXNx1JjM",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxi2ycezrk2h",
-      "publishedAt": "2026-10-09T22:54:53.366Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreiam4rrcnp2n2tysx33lbdc73axjozxfansxnrkbogc2qk7pjunxwy",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
