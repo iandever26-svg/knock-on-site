@@ -1,8 +1,19 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-11T19:07:17+01:00",
+  "generatedAt": "2026-10-11T20:19:37+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:sb3QAdo1vsw",
+      "title": "Another maul, another try 💥",
+      "author": "BenettonRugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=sb3QAdo1vsw",
+      "publishedAt": "2026-10-11T19:00:00.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/sb3QAdo1vsw/hqdefault.jpg",
+      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxmjuhvxrs2s",
@@ -684,17 +695,6 @@
       "publishedAt": "2026-10-06T09:48:33.413Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Akbwtbs2mqfxm4om4l7h7b2r6/bafkreif233f4dbiflmiulndyvoca6rylnwfgcakgqddxpvvmom24y42gwi/thumbnail.jpg",
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:iSdaazlamf0",
-      "title": "Una passione biancoverde senza confini 🤍💚",
-      "author": "BenettonRugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=iSdaazlamf0",
-      "publishedAt": "2026-10-06T09:19:46.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/iSdaazlamf0/hqdefault.jpg",
-      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
     },
     {
       "type": "bluesky",
