@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T23:14:59+01:00",
+  "generatedAt": "2026-10-11T09:06:07+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxlgtmij5e2a",
+      "text": "The two dangerous tackles World Rugby is clamping down on (✍️@rugby_ie) #Rugby #WorldRugby #TackleSafety",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxlgtmij5e2a",
+      "publishedAt": "2026-10-11T07:05:00.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigtv6tj3eiiuvi6gyq42srethwm432izgh5jbjkwtx3blfoo5pnza",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxldgv7oj42w",
+      "text": "It has been a rollercoaster few weeks for Callum Reidy but it ended on a massive high as he finally made his Glasgow Warriors debut on Friday night\n🔗  shorturl.at/AH9oT",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxldgv7oj42w",
+      "publishedAt": "2026-10-11T06:04:10.493Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihwqsnmhd2v5wv7ayjwibdzhlqie2ylxwmej3bcramwd2fnir5lhq",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxl4ubftsk24",
+      "text": "'We’re playing matches like they're training sessions' - Ulster still searching for consistency (✍️@rugby_ie) #UlsterRugby #MunsterRugby #RugbyUnion",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxl4ubftsk24",
+      "publishedAt": "2026-10-11T04:06:24.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie2ayosvg3ysczoqbsdkediijivzifgy2lomurxvi3qr5c4b6yabq",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkj3shoej22",
@@ -85,30 +121,6 @@
       "publishedAt": "2026-10-10T20:51:34.510Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreihqtuqiad4dfv3d4pbgtn3kn4w4d5h4secs4eaw5jxk3xq5tkne6m",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkduyd7kd2r",
-      "text": "Leinster mark RDS return with comfortable Cardiff win (✍️@RTErugby) #Leinster #Rugby #URC",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkduyd7kd2r",
-      "publishedAt": "2026-10-10T20:39:25.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiddbifxndvvxxiuxlan6kktibqxlnijqcr6twmbwk4karb2fsot4u",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkdlbb3s72s",
-      "text": "Leinster have a happy return to Laya Arena as Prendergast shines (✍️@rugby_ie) #Leinster #Rugby #URC",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkdlbb3s72s",
-      "publishedAt": "2026-10-10T20:33:58.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigst3db66b6i4kfuobjxh6a6odibkrmsmg6dgdcu3wawgadxhmf4m",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -367,18 +379,6 @@
       "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjqegyxdj2a",
       "publishedAt": "2026-10-10T14:50:09.029Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidtibx35wpcim4sccyhnwos3dw365s6yfzr7riwgvml24m3zod56e",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjnm5ofmk2o",
-      "text": "Edinburgh all set to take on Zebre in Parma\nCan they make it three from three this afternoon?",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjnm5ofmk2o",
-      "publishedAt": "2026-10-10T14:00:46.608Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreie6jgmqvjr3y7jkvl5wzd77pgev4tvpxtnowwpmak3chtpvnemdga",
       "source": "scotlandrugbynews.bsky.social"
     },
     {
