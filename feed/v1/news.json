@@ -1,8 +1,80 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-11T09:06:07+01:00",
+  "generatedAt": "2026-10-11T11:55:56+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxlqul2h7k2e",
+      "text": "Touchline talk with Sam Parry and Morgan Morris 🗣️\n\"It's class, the fans came down in numbers. We're just really looking forward to getting home to St Helen's and seeing them all down there.\" - Sam Parry\n\"Next up it's Europe and two Welsh Derbies, you can't ask for much better.\" - Morgan Morris",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxlqul2h7k2e",
+      "publishedAt": "2026-10-11T10:04:29.774Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreifengmlgcpdk2prhaocybgs4kg43imbwwnoqfxhycj7oipiqbii74/thumbnail.jpg",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxlqsvc6p62w",
+      "text": "Magnus Bradbury produced another outstanding performance for Edinburgh as they recorded a third win of the season to go top of the URC table\nShould he be in the Scotland team next month?\n🔗 shorturl.at/P6R2l",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxlqsvc6p62w",
+      "publishedAt": "2026-10-11T10:03:31.650Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreieutsklk745yhgmct23o24is5ts6ui4bjq3l3yjaf4pyfi7y3souq",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxlo2ggect2p",
+      "text": "Are Samoa BACK?! 🇼🇸 #rugby #samoan (📹@PirateRugbyPod) #Samoa #Rugby #Samoan",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxlo2ggect2p",
+      "publishedAt": "2026-10-11T09:14:04.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihxskkatepnna7dm6fqvmsimn4rihloeh2puphpf3ayturhvxvamu",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxlnbibpud27",
+      "text": "This week's Castore Player Spotlight shines on Sam Prendergast after an impressive first start of the season 💪\n1️⃣0️⃣0️⃣ metres carried\n5️⃣6️⃣ post-contact metres\n4️⃣ defenders beaten\n3️⃣ line breaks\n2️⃣ offloads\n2️⃣ try assists\n8️⃣ tackles\n#LEIvCAR",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxlnbibpud27",
+      "publishedAt": "2026-10-11T09:00:07.993Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreihdinvjeckjtdjkfw43kfjzduu4gzaxdv4nywshek3cjejkfl6mau",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxlkyzlszk2l",
+      "text": "On Sunday mornings we share our notes from our feature match on Substack, including real-time screengrabs from our WhatsApp group throughout > jeffpagano.substack.com/p/leinster-v...",
+      "author": "Harpin' On Rugby",
+      "handle": "harpinonrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
+      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxlkyzlszk2l",
+      "publishedAt": "2026-10-11T08:19:36.787Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreicrybpvjz2bqdscifep2qigjw3hlvipy3byyz2wnanbcwxngf3txy",
+      "source": "harpinonrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxlkcyf7dn2z",
+      "text": "Rachel Malcolm has addressed Scotland's struggles during the brief tenure of Sione Fukofuka\nAnd the Scotland captain also gave a glowing endorsement of interim boss Dave Butcher\n🔗 shorturl.at/RKvPE",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxlkcyf7dn2z",
+      "publishedAt": "2026-10-11T08:07:13.988Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibbymrwpce2cuqz3sk4ebcdlythowj2ihqukssobtmobpdwydeemq",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxlgtmij5e2a",
@@ -74,18 +146,6 @@
       "publishedAt": "2026-10-10T21:22:31.382Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreigr6t3d3l77pxoudwnxyss3aejk3qbrsrrt6l6wgjsxnzocz4a5oq",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkfqvpfud2a",
-      "text": "Leinster v Cardiff Rugby | Highlights | Round 3 | URC 2026/27 (📹@URCOfficial) #Leinster #CardiffRugby #URCHighlights",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkfqvpfud2a",
-      "publishedAt": "2026-10-10T21:12:55.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibqule2mbvozi7blajweycxtopsjusouf5mgmr3irj5fvjf5fpioi",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -183,18 +243,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxkcz2grc22j",
-      "text": "⏱️ | 77'\nTRY! Jamie Osborne powers through for the try and Prendergast converts!\n🔵🔵 29-5 ⚪️⚪️\n#LEIvCAR",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxkcz2grc22j",
-      "publishedAt": "2026-10-10T20:23:47.996Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiftb7xajyts3uu4hksymgroxrh7l65zqkynl3ns3tgz22e5ksdm4a",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxkbpjj4y22o",
       "text": "Decent showing from Coffey #LEIvCAR",
       "author": "Harpin' On Rugby",
@@ -232,7 +280,7 @@
     {
       "type": "youtube",
       "id": "yt:PfmmoISYDDM",
-      "title": "Ulster v Munster | Highlights | Round 3 | URC 2026/27",
+      "title": "Classic Irish Derby | Ulster v Munster | Highlights | Round 3 | URC 2026/27",
       "author": "United Rugby Championship",
       "avatar": null,
       "url": "https://www.youtube.com/watch?v=PfmmoISYDDM",
@@ -273,18 +321,6 @@
       "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxk5edg4s22m",
       "publishedAt": "2026-10-10T18:42:44.029Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreia5j7z2halp5imdxpglckfvwjjglalxfqhxs5oa5dkqucsn4ig4qu",
-      "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxk53yjzlk2o",
-      "text": "Filling up nicely here great to see #BKTURC #LEIvCAR",
-      "author": "Harpin' On Rugby",
-      "handle": "harpinonrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
-      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxk53yjzlk2o",
-      "publishedAt": "2026-10-10T18:38:04.221Z",
-      "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
     },
     {
@@ -347,18 +383,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjttrp6ls2w",
-      "text": "FULL-TIME | Maximum points for Edinburgh to seal a brilliant start to the new season\nAnalysis & reaction to follow...",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjttrp6ls2w",
-      "publishedAt": "2026-10-10T15:52:24.763Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiem33er6e2nlnafuo6frp4hbthpcl6dw2rhdaw5g6n5pagvzsocwi",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxjrn3uw222o",
       "text": "Gwrando i Morgan Morse ar ôl y gêm Dreigiau 🐉\n#YGweilchYnEinGwaed",
       "author": "Ospreys Rugby",
@@ -368,18 +392,6 @@
       "publishedAt": "2026-10-10T15:12:53.247Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreiefqjggbb4sl5w3xqcxpcu54bm3aipfer6qsi5uqyd7awjagjc57y/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjqegyxdj2a",
-      "text": "HALF-TIME | So far, so good for Edinburgh in Parma\nA big 40 minutes to come!",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjqegyxdj2a",
-      "publishedAt": "2026-10-10T14:50:09.029Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidtibx35wpcim4sccyhnwos3dw365s6yfzr7riwgvml24m3zod56e",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -452,18 +464,6 @@
       "publishedAt": "2026-10-09T22:51:41.302Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreibsvj77bpwlroqtnectparfrldtpdp3jkgyb75oa3budkpfqophhy",
       "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxhxdeqyxs2h",
-      "text": "Match Report: Ospreys score six tries in derby day win vs Dragons 🖤\nIt was a strong Ospreys performance as the squad scored six tries and secured an important bonus point away from home at Rodney Parade.\n📰 ospreys.info/4ifQN3Z",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxhxdeqyxs2h",
-      "publishedAt": "2026-10-09T21:49:29.986Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifersb35ywv3bnhy7xnrgfqyqizlpaes6weqfktikcmyhmibeq7dq",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
