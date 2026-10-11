@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-11T11:55:56+01:00",
+  "generatedAt": "2026-10-11T15:07:23+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxm4vu6d5q2v",
+      "text": "Scotland U20 star Jake Dalziel is in line for his Newcastle Red Bulls debut when they face Exeter Chiefs this afternoon, after a late call-up to the matchday squad\n🔗 shorturl.at/WvS3M",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxm4vu6d5q2v",
+      "publishedAt": "2026-10-11T13:39:57.641Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihezvob7j7eono54mdlk6obhdeu2g6ulbf4sbkwm5cru57ror4hay",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxlqul2h7k2e",
@@ -367,18 +379,6 @@
       "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjxxwvhbp2h",
       "publishedAt": "2026-10-10T17:06:19.396Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreievuuxrblnfzaxc4v4kszc47jvyglop7az3lfmltjpfzvg73oy2lu",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxjvgy2qlz2d",
-      "text": "Edinburgh sealed their best league start for 11 years with a bonus point win over Zebre in Parma\nFive talking points 👉 shorturl.at/P6R2l",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxjvgy2qlz2d",
-      "publishedAt": "2026-10-10T16:21:02.731Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigqvj4jgifrvg7ez2vhg46rq6k72w5byp7rfthijwzx2exdmol6oq",
       "source": "scotlandrugbynews.bsky.social"
     },
     {
