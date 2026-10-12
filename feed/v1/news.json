@@ -1,8 +1,66 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-12T15:31:32+01:00",
+  "generatedAt": "2026-10-12T16:58:13+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxouozfcve2l",
+      "text": "Ep 3680: Leinster's Bright Lights, Sam's Guns, Telescopic Tees, Wing Craft - 12/10/26 (🎙️@SecondCaptains) #Rugby #Leinster #Munster",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxouozfcve2l",
+      "publishedAt": "2026-10-12T15:50:57.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib3hlgvedwz6sgilo62yyg2k36m44do2ozodevsg25sxogyzusqeq",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxououu4fy2z",
+      "text": "Episode 3680: Cum On Feel The Noize - 12/10/26 (🎙️@SecondCaptains) #ManchesterCity #LiverpoolFC #EPL",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxououu4fy2z",
+      "publishedAt": "2026-10-12T15:50:52.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifzx3jigojk6lipudaofmjpnhsdc5nutnxv6yizyyhqmmode4bsam",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxosh4g4ru2g",
+      "text": "Sam Prendergast’s Playmaking Masterclass vs Cardiff (📹@URCOfficial) #URC #Rugby #RugbyUnion",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxosh4g4ru2g",
+      "publishedAt": "2026-10-12T15:10:44.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibih3geiqsdmnex2xjdkdz6ixzdlks32abjp4lhpukphkuec3nf74",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:41fLAuNfmac",
+      "title": "Did you know we're playing Toulon this week?  #rugby #edinburghrugby #toulon #epcr #sports #edit",
+      "author": "Edinburgh Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=41fLAuNfmac",
+      "publishedAt": "2026-10-12T15:00:23.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/41fLAuNfmac/hqdefault.jpg",
+      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:9BgeZofIafw",
+      "title": "Sam Prendergast’s Playmaking Masterclass vs Cardiff",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=9BgeZofIafw",
+      "publishedAt": "2026-10-12T15:00:03.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/9BgeZofIafw/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxoogins662s",
@@ -156,30 +214,6 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxo7imesnd2g",
-      "text": "Connacht cant get out of their own way, Munster Ulster and a game of two halves, Leinster back to winning ways_mixdown (🎙️@the2ndRow) #URC #Connacht #Munster",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxo7imesnd2g",
-      "publishedAt": "2026-10-12T09:31:33.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib4f4gtdbchoatsb2twrz4y3dirrea5b5o6vd4ge3hgvrl46gh5fi",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxo7c7s4cc2z",
-      "text": "A perfect pass from Sam Prendergast 👌 (📹@URCOfficial) #SamPrendergast #PerfectPass #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxo7c7s4cc2z",
-      "publishedAt": "2026-10-12T09:27:59.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicbvxkbwuc52grmk53p7eb2hwjptmd7ssmtfj6uoibb3aej2papaq",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:l7vafCAilNQ",
       "title": "A perfect pass from Sam Prendergast 👌",
@@ -201,18 +235,6 @@
       "publishedAt": "2026-10-12T08:15:44.020Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifndz7szny33z2ramkc47qhqf4nt5csj2sscmkcda4iraw675byym",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxnykhgi5u2r",
-      "text": "Cameron Hanekom Was ON ONE Against The Lions (📹@URCOfficial) #CameronHanekom #URC #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxnykhgi5u2r",
-      "publishedAt": "2026-10-12T07:27:19.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreig6lbs5qv67mrxnmutj47ahjuxuz462735at7vsbxltnkbvacaux4",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -451,17 +473,6 @@
       "source": "harpinonrugby.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:PfmmoISYDDM",
-      "title": "Classic Irish Derby | Ulster v Munster | Highlights | Round 3 | URC 2026/27",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=PfmmoISYDDM",
-      "publishedAt": "2026-10-10T19:19:25.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/PfmmoISYDDM/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxk5sm3jp22e",
       "text": "Well that’s definitely not Taulupe Faletau at 8…\n#LEIvCAR",
@@ -592,17 +603,6 @@
       "publishedAt": "2026-10-09T18:53:09.293Z",
       "thumbnail": null,
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:iiwYREOouG0",
-      "title": "Behind-The-Scenes | URC Round Three | Zebre Away",
-      "author": "Edinburgh Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=iiwYREOouG0",
-      "publishedAt": "2026-10-09T17:07:26.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/iiwYREOouG0/hqdefault.jpg",
-      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
       "type": "bluesky",
