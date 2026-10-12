@@ -1,8 +1,43 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-12T11:34:29+01:00",
+  "generatedAt": "2026-10-12T13:11:52+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxoghgg6tc2z",
+      "text": "Super Rygbi Cymru Wrap Up 🏉\nCheck out last weekend's results and the next fixtures for Aberavon, Bridgend Ravens and Swansea RFC 👇\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxoghgg6tc2z",
+      "publishedAt": "2026-10-12T11:36:10.504Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreielt33ybrjsm7bfbjweap5duagdgoh3nq64qglfaz3q4curjkmshy",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:ZsGZQCSKiNw",
+      "title": "Just pure power all the way to the try line 🔥",
+      "author": "BenettonRugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=ZsGZQCSKiNw",
+      "publishedAt": "2026-10-12T11:00:34.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/ZsGZQCSKiNw/hqdefault.jpg",
+      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mxoe5cn5qs2l",
+      "text": "This week's Substack looking at how much try-scoring is too much try-scoring.\nPlus notes on the All Blacks, Dalziel, and PREM crowd numbers.\ntheofffieldreview.substack.com/p/tries-plea...",
+      "author": "Ben Coles",
+      "handle": "bencoles.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihnbnflj5pmzn2vw5tula7bf7hay7nsutvg5e7suz6y2bnoob5p2a",
+      "url": "https://bsky.app/profile/bencoles.bsky.social/post/3mxoe5cn5qs2l",
+      "publishedAt": "2026-10-12T10:54:43.511Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreif4j3vgh3mxgwy32jluxb6kxj5pxvtkqv5723bbv33afubs2pe6eu",
+      "source": "bencoles.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxoankm6t32a",
@@ -442,18 +477,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxjrn3uw222o",
-      "text": "Gwrando i Morgan Morse ar ôl y gêm Dreigiau 🐉\n#YGweilchYnEinGwaed",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxjrn3uw222o",
-      "publishedAt": "2026-10-10T15:12:53.247Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreiefqjggbb4sl5w3xqcxpcu54bm3aipfer6qsi5uqyd7awjagjc57y/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mxjjkbsuzs2w",
       "text": "Can I tempt you with another Harlequins long-read?\nSpent the week talking to sources inside and outside the club about the obvious problems, the solutions, and just how deep this rebuild is. observer.co.uk/news/sport/a...",
       "author": "Ben Coles",
@@ -665,17 +688,6 @@
     },
     {
       "type": "youtube",
-      "id": "yt:wnwPJUeNF0w",
-      "title": "#SCAvBEN | Cannone N.: \"Contro gli Scarlets per proporre la migliore versione di noi stessi\"",
-      "author": "BenettonRugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=wnwPJUeNF0w",
-      "publishedAt": "2026-10-07T09:15:17.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/wnwPJUeNF0w/hqdefault.jpg",
-      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
-      "type": "youtube",
       "id": "yt:T8Hc9cpZijg",
       "title": "Just the 70kgs then Wes?  #rugby #edinburghrugby #gym #sport #workout #weights",
       "author": "Edinburgh Rugby",
@@ -695,18 +707,6 @@
       "publishedAt": "2026-10-06T14:49:28.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/MTKRan8tT6g/hqdefault.jpg",
       "source": "UC7991AZNku42o3Y36kUZOJA"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mx75nhouwc2g",
-      "text": "This week's Substack: Kane James was mentioned as a breakout player for Exeter during pre-season. Has started hot, and here's why.\ntheofffieldreview.substack.com/p/kane-james...\nPlus notes on Gloucester, Sale, a missed chance for Newcastle, and Rees-Zammit being very much a wing.",
-      "author": "Ben Coles",
-      "handle": "bencoles.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihnbnflj5pmzn2vw5tula7bf7hay7nsutvg5e7suz6y2bnoob5p2a",
-      "url": "https://bsky.app/profile/bencoles.bsky.social/post/3mx75nhouwc2g",
-      "publishedAt": "2026-10-06T09:48:33.413Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Akbwtbs2mqfxm4om4l7h7b2r6/bafkreif233f4dbiflmiulndyvoca6rylnwfgcakgqddxpvvmom24y42gwi/thumbnail.jpg",
-      "source": "bencoles.bsky.social"
     }
   ],
   "sources": [
