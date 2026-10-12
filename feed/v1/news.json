@@ -1,8 +1,67 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-11T20:19:37+01:00",
+  "generatedAt": "2026-10-12T08:09:34+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxnx5vcrbx2h",
+      "text": "The Scotland age-grade international looked completely at home on his PREM debut, as he broke a 22-year-old record for Newcastle\n🔗 shorturl.at/WvS3M",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxnx5vcrbx2h",
+      "publishedAt": "2026-10-12T07:02:23.407Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreicv5jtrg5w7badoznwgkyklftt7b36a2zg2gldjn3cdk4l4immdp4",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxntvmu7yk2g",
+      "text": "The WRU Ruined My Friday - Keystone Report Breakdown (🎙️@PirateRugbyPod) #WRU #Rugby #KeystoneReport",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxntvmu7yk2g",
+      "publishedAt": "2026-10-12T06:04:05.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie3dbujfblswu5ivqy7itekqogqy5uh753ebwfwvf2krjjwxu3qsi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:gdBlpnL-0RQ",
+      "title": "Cameron Hanekom Was ON ONE Against The Lions",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=gdBlpnL-0RQ",
+      "publishedAt": "2026-10-12T06:00:11.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/gdBlpnL-0RQ/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxnqpcj6xl2v",
+      "text": "Prendergast starts strongly as he pushes on from 'mixed bag' season (✍️@rugby_ie) #Prendergast #Leinster #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxnqpcj6xl2v",
+      "publishedAt": "2026-10-12T05:06:52.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihkrkxem7zybeg3hl5kqilcytlkqtos2gr5zxzixxkgb2henrysfe",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mxn2g4scxk2l",
+      "text": "If you're Ollie Sleightholme here, where there's so much time and space, are you... thinking about dinner? Planning a holiday?",
+      "author": "Ben Coles",
+      "handle": "bencoles.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihnbnflj5pmzn2vw5tula7bf7hay7nsutvg5e7suz6y2bnoob5p2a",
+      "url": "https://bsky.app/profile/bencoles.bsky.social/post/3mxn2g4scxk2l",
+      "publishedAt": "2026-10-11T22:28:02.221Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreifb3neln5j255wiel2jef4vv4atb5yylp5vx6tzhipnmmjxrhwkdy",
+      "source": "bencoles.bsky.social"
+    },
     {
       "type": "youtube",
       "id": "yt:sb3QAdo1vsw",
@@ -136,18 +195,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxlkcyf7dn2z",
-      "text": "Rachel Malcolm has addressed Scotland's struggles during the brief tenure of Sione Fukofuka\nAnd the Scotland captain also gave a glowing endorsement of interim boss Dave Butcher\n🔗 shorturl.at/RKvPE",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxlkcyf7dn2z",
-      "publishedAt": "2026-10-11T08:07:13.988Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibbymrwpce2cuqz3sk4ebcdlythowj2ihqukssobtmobpdwydeemq",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxlgtmij5e2a",
       "text": "The two dangerous tackles World Rugby is clamping down on (✍️@rugby_ie) #Rugby #WorldRugby #TackleSafety",
       "author": "Rugby News +",
@@ -156,30 +203,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxlgtmij5e2a",
       "publishedAt": "2026-10-11T07:05:00.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigtv6tj3eiiuvi6gyq42srethwm432izgh5jbjkwtx3blfoo5pnza",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxl4ubftsk24",
-      "text": "'We’re playing matches like they're training sessions' - Ulster still searching for consistency (✍️@rugby_ie) #UlsterRugby #MunsterRugby #RugbyUnion",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxl4ubftsk24",
-      "publishedAt": "2026-10-11T04:06:24.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie2ayosvg3ysczoqbsdkediijivzifgy2lomurxvi3qr5c4b6yabq",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxkj3shoej22",
-      "text": "Cullen wants to more from Leinster after 'disjointed' win (✍️@RTErugby) #Leinster #Rugby #LeoCullen",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxkj3shoej22",
-      "publishedAt": "2026-10-10T22:12:42.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreickjzjnnhiztm44s747hw56hjd2lgbbg4kiiuhr6b3qdz6mify7h4",
       "source": "rugbynewsplus.bsky.social"
     },
     {
@@ -392,17 +415,6 @@
       "publishedAt": "2026-10-10T17:20:01.986Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:S2W1xH3bojI",
-      "title": "BOK BROTHERS🇿🇦 CLUB RIVALS 😤",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=S2W1xH3bojI",
-      "publishedAt": "2026-10-10T17:16:45.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/S2W1xH3bojI/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "bluesky",
@@ -695,18 +707,6 @@
       "publishedAt": "2026-10-06T09:48:33.413Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Akbwtbs2mqfxm4om4l7h7b2r6/bafkreif233f4dbiflmiulndyvoca6rylnwfgcakgqddxpvvmom24y42gwi/thumbnail.jpg",
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3mx4ki7j3js2u",
-      "text": "What a weekend of results in the urc!!!\nWe break it all down on this week's podcast!!\n#BKTURC #IrishRugby\nyoutu.be/WXyx-Sf2JNE",
-      "author": "The 2nd Row",
-      "handle": "the2ndrow.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiazut3bcdskefwftkflzwbla4h6q56u7xutxhdmmhk4unffwpjl4e",
-      "url": "https://bsky.app/profile/the2ndrow.bsky.social/post/3mx4ki7j3js2u",
-      "publishedAt": "2026-10-05T09:00:16.484Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiaxazkjmls4w6ri4qodokhcrot7nlrhgoa3sbg5rniram2h6vxvlm",
-      "source": "the2ndrow.bsky.social"
     }
   ],
   "sources": [
