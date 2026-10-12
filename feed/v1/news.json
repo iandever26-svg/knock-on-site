@@ -1,8 +1,101 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-12T13:11:52+01:00",
+  "generatedAt": "2026-10-12T15:31:32+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxoogins662s",
+      "text": "The Vodacom Bulls cash in 💰 (📹@URCOfficial) #VodacomBulls #Rugby #SportsNews",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxoogins662s",
+      "publishedAt": "2026-10-12T13:58:49.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicdvocznwsqvbtpvxkqhqea4p53wiyupqmpzlj3xr3gldghj3s2le",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:g48-fG63NbQ",
+      "title": "The Vodacom Bulls cash in 💰",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=g48-fG63NbQ",
+      "publishedAt": "2026-10-12T13:45:03.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/g48-fG63NbQ/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxon4or7cd2s",
+      "text": "A classic interpro in Belfast, Leinster's RDS return, and the grubber's triumphant comeback (✍️@rugby_ie) #URC #IrishRugby #Interpro",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxon4or7cd2s",
+      "publishedAt": "2026-10-12T13:35:26.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidyh7lnsdmyo3x44vt57wt4gxtcqburbm7ouvsoyrnjaqwmyuayqi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxoms2gcx22z",
+      "text": "Dragons vs Ospreys Match Highlights | 09.10.26 📺\nA six try Ospreys victory in Newport 😍\nSponsored by QuinnBet 🤝\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxoms2gcx22z",
+      "publishedAt": "2026-10-12T13:29:29.473Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreidwhqgohhksi5na2eetiptf2usxx3u5k5macaspsl22vmokcikvou/thumbnail.jpg",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxolmotojc2a",
+      "text": "Glasgow Warriors enjoyed a statement campaign in the Champions Cup last season, finishing top of their pool with maximum points\nBut our columnist Rob Robertson fears it could be a different story this season...\n🔗 shorturl.at/M4npS",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxolmotojc2a",
+      "publishedAt": "2026-10-12T13:08:35.659Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigyxkzjlqkzcz3dlk7dvimoqsonytodujsidb7t3lgo7msisjomzq",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxol726f322z",
+      "text": "Ospreys Logistics Partner Newgistics expand partnership 🤝\nNewgistics will continue as sponsor of the 6 jersey for the 26/27 and will be expanding the partnership further, with Newgistics also taking the No.6 jersey on the academy shirt and on the back of the training jersey.\n📰 ospreys.info/3TRFw1i",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxol726f322z",
+      "publishedAt": "2026-10-12T13:00:57.904Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreieg2o2rcps4fkhi5rvuzfjjiw3ikggcsfjnzuxngxysxtw45rz4ny",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:_zR4ARnXy84",
+      "title": "Zebre Parma v Edinburgh Rugby | Match Highlights | URC Round Three",
+      "author": "Edinburgh Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=_zR4ARnXy84",
+      "publishedAt": "2026-10-12T12:26:14.000Z",
+      "thumbnail": "https://i4.ytimg.com/vi/_zR4ARnXy84/hqdefault.jpg",
+      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:yCb6-PInE9A",
+      "title": "That time of the year again. Don't miss out   #rugby #edinburghrugby #epcr #europe #toulon #sports",
+      "author": "Edinburgh Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=yCb6-PInE9A",
+      "publishedAt": "2026-10-12T12:16:22.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/yCb6-PInE9A/hqdefault.jpg",
+      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxoghgg6tc2z",
@@ -123,30 +216,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxny76gtv72z",
-      "text": "Leinster aim for cohesion ahead of visit to the 'cauldron' in Clermont (✍️@rugby_ie) #Leinster #ChampionsCup #LeoCullen",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxny76gtv72z",
-      "publishedAt": "2026-10-12T07:21:01.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreif4ss7y2vlinm3zihmg6tjvzly5637hta43n7rtmwecoxtghikjhq",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxny73hhpz22",
-      "text": "Munster's set-piece proving a source of strength, but province still have work to do (✍️@rugby_ie) #MunsterRugby #UlsterRugby #RugbyUnion",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxny73hhpz22",
-      "publishedAt": "2026-10-12T07:20:58.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibdjqb3vurczerxepwev74xnvybblnjv6d4htjv3o56k7fpvtn67i",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxnx5vcrbx2h",
       "text": "The Scotland age-grade international looked completely at home on his PREM debut, as he broke a 22-year-old record for Newcastle\n🔗 shorturl.at/WvS3M",
       "author": "Scotland Rugby News",
@@ -205,18 +274,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxmehdspdc2m",
-      "text": "The Whites are home🤍\nThis weekend saw Swansea return to St Helen's for their 1st game home, played in front of a busy JCP Solicitors Stand 😍\nOn Thursday, they go again vs Cardiff💪\nThis is a key event in the lead up to Ospreys v Dragons, and we need you there!\n🎟️ ospreys.info/SRFCvCAR",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxmehdspdc2m",
-      "publishedAt": "2026-10-11T15:55:00.808Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifiaaxr3q5bcm4vtkfwinz2o3b2v6zb2i7xbmpmnwz4etdj5yfhey",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxmeajonys27",
       "text": "Jake Dalziel made Newcastle history this afternoon on his PREM debut against Exeter\nAnd the teenager caught the eye of a couple of former British & Irish Lions despite defeat at Sandy Park\n🔗 shorturl.at/WvS3M",
       "author": "Scotland Rugby News",
@@ -226,30 +283,6 @@
       "publishedAt": "2026-10-11T15:51:12.085Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifmdj3dcbuwtb7wbgsopmlkar767x3q2kb6wa2h7f45twrr2eoehm",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxm4vu6d5q2v",
-      "text": "Scotland U20 star Jake Dalziel is in line for his Newcastle Red Bulls debut when they face Exeter Chiefs this afternoon, after a late call-up to the matchday squad\n🔗 shorturl.at/WvS3M",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxm4vu6d5q2v",
-      "publishedAt": "2026-10-11T13:39:57.641Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihezvob7j7eono54mdlk6obhdeu2g6ulbf4sbkwm5cru57ror4hay",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxlqul2h7k2e",
-      "text": "Touchline talk with Sam Parry and Morgan Morris 🗣️\n\"It's class, the fans came down in numbers. We're just really looking forward to getting home to St Helen's and seeing them all down there.\" - Sam Parry\n\"Next up it's Europe and two Welsh Derbies, you can't ask for much better.\" - Morgan Morris",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxlqul2h7k2e",
-      "publishedAt": "2026-10-11T10:04:29.774Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreifengmlgcpdk2prhaocybgs4kg43imbwwnoqfxhycj7oipiqbii74/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
@@ -426,17 +459,6 @@
       "url": "https://www.youtube.com/watch?v=PfmmoISYDDM",
       "publishedAt": "2026-10-10T19:19:25.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/PfmmoISYDDM/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:SkNehLhEq2A",
-      "title": "Scarlets v Benetton | Highlights | Round 3 | URC 2026/27",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=SkNehLhEq2A",
-      "publishedAt": "2026-10-10T18:57:25.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/SkNehLhEq2A/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
@@ -630,17 +652,6 @@
       "source": "dragonsrfc.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:FvRzm2lm2Wc",
-      "title": "We've all scrolled too far before  #rugby #edinburghrugby #funny #joke #reel #shorts #sports #fun",
-      "author": "Edinburgh Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=FvRzm2lm2Wc",
-      "publishedAt": "2026-10-08T09:06:09.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/FvRzm2lm2Wc/hqdefault.jpg",
-      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxdxbrm2mk2g",
       "text": "@justindeegan.bsky.social on South America's 2035 World Cup bid",
@@ -685,17 +696,6 @@
       "publishedAt": "2026-10-07T15:02:17.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/eIumgopvHX8/hqdefault.jpg",
       "source": "UC7991AZNku42o3Y36kUZOJA"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:T8Hc9cpZijg",
-      "title": "Just the 70kgs then Wes?  #rugby #edinburghrugby #gym #sport #workout #weights",
-      "author": "Edinburgh Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=T8Hc9cpZijg",
-      "publishedAt": "2026-10-07T09:00:10.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/T8Hc9cpZijg/hqdefault.jpg",
-      "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
       "type": "youtube",
