@@ -1,15 +1,74 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-12T09:23:05+01:00",
+  "generatedAt": "2026-10-12T11:34:29+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxoankm6t32a",
+      "text": "The Scottish sides have made a great start in the URC, but as attention turns to Europe, Rob Robertson has very differing expectations for this season\n🔗 shorturl.at/M4npS",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxoankm6t32a",
+      "publishedAt": "2026-10-12T09:52:13.618Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihgko2hideur6b2264dsvnfz2pelf4tnq3c47nrj3c6fyxdhai6hi",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxoamgxjck2z",
+      "text": "Penblwydd hapus i Owen Watkin 🥳\nMwynhewch eich diwrnod arbennig // Enjoy your special day 🎂\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxoamgxjck2z",
+      "publishedAt": "2026-10-12T09:51:36.391Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreiaz3jp4x2wghpr6ffyefwzspr5ftblyo6p4dhi72zncgmf24pa36m",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxo7imesnd2g",
+      "text": "Connacht cant get out of their own way, Munster Ulster and a game of two halves, Leinster back to winning ways_mixdown (🎙️@the2ndRow) #URC #Connacht #Munster",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxo7imesnd2g",
+      "publishedAt": "2026-10-12T09:31:33.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib4f4gtdbchoatsb2twrz4y3dirrea5b5o6vd4ge3hgvrl46gh5fi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxo7c7s4cc2z",
+      "text": "A perfect pass from Sam Prendergast 👌 (📹@URCOfficial) #SamPrendergast #PerfectPass #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxo7c7s4cc2z",
+      "publishedAt": "2026-10-12T09:27:59.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicbvxkbwuc52grmk53p7eb2hwjptmd7ssmtfj6uoibb3aej2papaq",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:l7vafCAilNQ",
+      "title": "A perfect pass from Sam Prendergast 👌",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=l7vafCAilNQ",
+      "publishedAt": "2026-10-12T09:14:30.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/l7vafCAilNQ/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxo3az3af22z",
       "text": "European Rugby is back 😍\nOur campaign gets underway this weekend in Georgia 👊\n🦁 Black Lion\n🏆 EPCR Challenge Cup\n🏟️ Avchala Stadium\n📅 Saturday 17th October\n⌚1 pm KO\nThe game will be live on EPCR TV📺\n#OurBloodIsBlack",
       "author": "Ospreys Rugby",
       "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxo3az3af22z",
       "publishedAt": "2026-10-12T08:15:44.020Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifndz7szny33z2ramkc47qhqf4nt5csj2sscmkcda4iraw675byym",
@@ -64,18 +123,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxntvmu7yk2g",
-      "text": "The WRU Ruined My Friday - Keystone Report Breakdown (🎙️@PirateRugbyPod) #WRU #Rugby #KeystoneReport",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxntvmu7yk2g",
-      "publishedAt": "2026-10-12T06:04:05.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie3dbujfblswu5ivqy7itekqogqy5uh753ebwfwvf2krjjwxu3qsi",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:gdBlpnL-0RQ",
       "title": "Cameron Hanekom Was ON ONE Against The Lions",
@@ -85,18 +132,6 @@
       "publishedAt": "2026-10-12T06:00:11.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/gdBlpnL-0RQ/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxnqpcj6xl2v",
-      "text": "Prendergast starts strongly as he pushes on from 'mixed bag' season (✍️@rugby_ie) #Prendergast #Leinster #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxnqpcj6xl2v",
-      "publishedAt": "2026-10-12T05:06:52.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihkrkxem7zybeg3hl5kqilcytlkqtos2gr5zxzixxkgb2henrysfe",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -139,7 +174,7 @@
       "text": "The Whites are home🤍\nThis weekend saw Swansea return to St Helen's for their 1st game home, played in front of a busy JCP Solicitors Stand 😍\nOn Thursday, they go again vs Cardiff💪\nThis is a key event in the lead up to Ospreys v Dragons, and we need you there!\n🎟️ ospreys.info/SRFCvCAR",
       "author": "Ospreys Rugby",
       "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxmehdspdc2m",
       "publishedAt": "2026-10-11T15:55:00.808Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifiaaxr3q5bcm4vtkfwinz2o3b2v6zb2i7xbmpmnwz4etdj5yfhey",
@@ -175,23 +210,11 @@
       "text": "Touchline talk with Sam Parry and Morgan Morris 🗣️\n\"It's class, the fans came down in numbers. We're just really looking forward to getting home to St Helen's and seeing them all down there.\" - Sam Parry\n\"Next up it's Europe and two Welsh Derbies, you can't ask for much better.\" - Morgan Morris",
       "author": "Ospreys Rugby",
       "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxlqul2h7k2e",
       "publishedAt": "2026-10-11T10:04:29.774Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreifengmlgcpdk2prhaocybgs4kg43imbwwnoqfxhycj7oipiqbii74/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxlqsvc6p62w",
-      "text": "Magnus Bradbury produced another outstanding performance for Edinburgh as they recorded a third win of the season to go top of the URC table\nShould he be in the Scotland team next month?\n🔗 shorturl.at/P6R2l",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxlqsvc6p62w",
-      "publishedAt": "2026-10-11T10:03:31.650Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreieutsklk745yhgmct23o24is5ts6ui4bjq3l3yjaf4pyfi7y3souq",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -406,17 +429,6 @@
       "source": "harpinonrugby.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:67r-6Iif1fg",
-      "title": "WHAT DEFENDERS? 😮‍💨💨",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=67r-6Iif1fg",
-      "publishedAt": "2026-10-10T17:33:00.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/67r-6Iif1fg/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxjyqh7khs27",
       "text": "Would like to see Cardiff come out with some real intent and have a go at a Leinster side that could well be a little rusty tonight.\nNo shame in losing to a side packed with test quality on their big return home, but as long we can get into them early and worry them #LEIvCAR",
@@ -434,7 +446,7 @@
       "text": "Gwrando i Morgan Morse ar ôl y gêm Dreigiau 🐉\n#YGweilchYnEinGwaed",
       "author": "Ospreys Rugby",
       "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxjrn3uw222o",
       "publishedAt": "2026-10-10T15:12:53.247Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreiefqjggbb4sl5w3xqcxpcu54bm3aipfer6qsi5uqyd7awjagjc57y/thumbnail.jpg",
@@ -451,18 +463,6 @@
       "publishedAt": "2026-10-10T12:48:08.875Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreieurutlrj7gy3r3swzfhchqebylu3do7tmsqeqgvkdkpb23wz7pfa",
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxj6vpowd227",
-      "text": "St Helen's opens today! 🖤\nThe sun is shining and it's your first chance to see the redeveloped ground and get behind Swansea RFC as they face Ebbw Vale RFC at 2:30 🏉\nIt's the first milestone in getting the stadium up and running and a long awaited return for the Whites to St Helen's 🤍\n(1/2) 🧵",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreif3alq7ds6ovtohg4i53b2p2zyp2mfjgboaqzsqtfdxgxekue2joi",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxj6vpowd227",
-      "publishedAt": "2026-10-10T09:37:41.361Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidy6ggmfncpsrjrp3gvlqezvbyzf5l2nnk3dxnjxgdo3cjhhatway",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
