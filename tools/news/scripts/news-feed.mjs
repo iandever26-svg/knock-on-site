@@ -21,6 +21,7 @@ import {
   DEFAULT_LIMITS,
   NEWS_SCHEMA_VERSION,
   YT_FEED_URL,
+  loadXNewsItems,
   mergeNews,
   normalizeBlueskyFeed,
   parseYoutubeRss,
@@ -34,6 +35,8 @@ const CONFIG = path.join(ROOT, 'data', 'news-sources.json');
 const args = process.argv.slice(2);
 const flag = (n) => args.includes(n);
 const outIdx = args.indexOf('--out');
+const xIdx = args.indexOf('--x-file');
+const X_FILE = xIdx >= 0 ? path.resolve(args[xIdx + 1]) : process.env.NEWS_X_FILE || '/workspace/knock-on-x/news-x.json';
 const OUT = outIdx >= 0 ? path.resolve(args[outIdx + 1]) : path.join(ROOT, 'data', 'news', 'news.json');
 const UA = 'knock-on-news/1.0 (+https://github.com/iandever26-svg/knock-on)';
 const TIMEOUT_MS = 15_000;
@@ -123,15 +126,20 @@ async function main() {
   }
   if (okCount === 0) throw new Error('every news source failed');
 
-  const items = mergeNews(all, { maxItems: limits.maxItems, maxAgeDays: limits.maxAgeDays });
+  // X posts (agent-routine fed, see scripts/x-news.mjs): their own budget of slots so they never squeeze out videos/Bluesky.
+  let xItems = [];
+  try { if (existsSync(X_FILE)) xItems = loadXNewsItems(JSON.parse(readFileSync(X_FILE, 'utf8')), { maxItems: limits.maxXItems ?? 40 }); } catch (e) { console.warn(`news: x file unreadable: ${e.message}`); }
+  const items = [...mergeNews(all, { maxItems: limits.maxItems, maxAgeDays: limits.maxAgeDays }), ...mergeNews(xItems, { maxItems: limits.maxXItems ?? 40, maxAgeDays: 7 })]
+    .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+  if (xItems.length) status.push({ kind: 'x', id: 'news-x.json', ok: true, items: xItems.length });
   const doc = {
     schema_version: NEWS_SCHEMA_VERSION,
     generatedAt: irelandIso(),
-    attribution: 'Posts from Bluesky, videos from YouTube — tap to open the original.',
+    attribution: xItems.length ? 'Posts from Bluesky and X, videos from YouTube — tap to open the original.' : 'Posts from Bluesky, videos from YouTube — tap to open the original.',
     items,
     sources: status,
   };
-  console.log(`news: ${items.length} items (${items.filter((i) => i.type === 'youtube').length} videos, ${items.filter((i) => i.type === 'bluesky').length} posts); ${okCount}/${jobs.length} sources ok`);
+  console.log(`news: ${items.length} items (${items.filter((i) => i.type === 'youtube').length} videos, ${items.filter((i) => i.type === 'bluesky').length} Bluesky, ${items.filter((i) => i.type === 'x').length} X); ${okCount}/${jobs.length} sources ok`);
   if (sameNewsContent(prev, doc)) return console.log('news unchanged');
   if (flag('--dry-run')) return console.log(`[dry-run] would write ${path.relative(ROOT, OUT)}`);
   mkdirSync(path.dirname(OUT), { recursive: true });

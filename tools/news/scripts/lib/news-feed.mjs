@@ -151,3 +151,21 @@ export function validateSources(cfg) {
   if (new Set(handles).size !== handles.length) errors.push('duplicate bluesky handle');
   return { ok: errors.length === 0, errors };
 }
+
+/** X items from news-x.json (written by scripts/x-news.mjs). Only well-formed x.com status links; dropped
+ *  entirely when the file is older than maxAgeHours (the routine stopped → deletions could no longer be honoured). */
+export const X_STATUS_URL = /^https:\/\/x\.com\/[A-Za-z0-9_]{1,15}\/status\/\d+$/;
+export function loadXNewsItems(doc, { now = Date.now(), maxAgeHours = 24, maxItems = 40 } = {}) {
+  if (!doc || !Array.isArray(doc.items)) return [];
+  const gen = Date.parse(doc.generatedAt);
+  if (!Number.isFinite(gen) || now - gen > maxAgeHours * 3_600_000) return [];
+  const out = [];
+  for (const it of doc.items) {
+    if (it?.type !== 'x' || !X_STATUS_URL.test(it.url || '') || !it.id || !it.publishedAt || !it.handle) continue;
+    out.push({ type: 'x', id: String(it.id), text: String(it.text ?? ''), author: String(it.author || it.handle), handle: String(it.handle),
+      avatar: isHttps(it.avatar) ? it.avatar : null, url: it.url, publishedAt: it.publishedAt, thumbnail: isHttps(it.thumbnail) ? it.thumbnail : null,
+      ...(it.mediaAlt ? { mediaAlt: String(it.mediaAlt) } : {}), teamIds: Array.isArray(it.teamIds) ? it.teamIds.map(String) : [], source: it.source || `x:${it.handle}` });
+    if (out.length >= maxItems) break;
+  }
+  return out;
+}
