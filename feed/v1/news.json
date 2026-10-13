@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-13T19:12:09+01:00",
+  "generatedAt": "2026-10-13T20:19:48+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxroqsmtwi2a",
+      "text": "So why is the All Blacks' kicking game so effective? (📹@SquidgeRugby) #AllBlacks #Rugby #KickingGame",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxroqsmtwi2a",
+      "publishedAt": "2026-10-13T18:42:34.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidg5jktd6bhraecyfrf73pcltvxki7dxcql2m4yyparvkwqphbl4y",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxrnduxbfg2z",
+      "text": "Ep 3681: The Long Walk to Justice; George Gibney Jailed for 15 1/2 Years - 13/10/2026 (🎙️@SecondCaptains) #JusticeForSurvivors #GeorgeGibney #SexualAbuseAwareness",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxrnduxbfg2z",
+      "publishedAt": "2026-10-13T18:17:26.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifepm7vuolt2zrk6biray3qp5gn3tknqeet2frqaa5bbyaqwit2ym",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxrmhpfz6a2h",
@@ -14,6 +38,49 @@
       "publishedAt": "2026-10-13T18:01:39.552Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidzp5cjhv5knoyozl4sefiz4aajrtovob74yoefvnehjrhuq2uy5e",
       "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110068172644569177",
+      "text": "New nickname unlocked 🔓😆\n\n#BKTURC #URC | #DRAvOSP https://t.co/prbf5hQ701",
+      "author": "BKT United Rugby Championship (URC)",
+      "handle": "URCOfficial",
+      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
+      "url": "https://x.com/URCOfficial/status/2110068172644569177",
+      "publishedAt": "2026-10-13T18:00:30.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUhKRd5WsAAyiGM.jpg",
+      "teamIds": [],
+      "source": "x:URCOfficial"
+    },
+    {
+      "type": "x",
+      "id": "x:2110068049659261275",
+      "text": "𝙁𝙍𝙊𝙉𝙏 𝙍𝙊𝙒 | Introducing your Dragons Props & Hookers for this season! 🐉\n\n#WeAreGwentRugby https://t.co/6JWOJsucyi",
+      "author": "Dragons RFC 🐉",
+      "handle": "dragonsrfc",
+      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
+      "url": "https://x.com/dragonsrfc/status/2110068049659261275",
+      "publishedAt": "2026-10-13T18:00:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110054663386972160/img/83Ak1Fj1RZqikn1a.jpg",
+      "teamIds": [
+        "dragons"
+      ],
+      "source": "x:dragonsrfc"
+    },
+    {
+      "type": "x",
+      "id": "x:2110062255979266323",
+      "text": "Building towards Saturday 🏃‍♂️\n\n#OneConnacht | 🎟️ https://t.co/frVsb8sJxt https://t.co/c249OFejmo",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
+      "url": "https://x.com/connachtrugby/status/2110062255979266323",
+      "publishedAt": "2026-10-13T17:36:59.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110051929778790400/img/LXZaURuZ7KX3yYaI.jpg",
+      "teamIds": [
+        "connacht"
+      ],
+      "source": "x:connachtrugby"
     },
     {
       "type": "x",
@@ -367,18 +434,6 @@
       "source": "x:top14rugby"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxrcfrcvsx2z",
-      "text": "20,000 tickets sold for Munster's clash in Cork, while Edogbo returns to training (✍️@rugby_ie) #MunsterRugby #Cork #Edogbo",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxrcfrcvsx2z",
-      "publishedAt": "2026-10-13T15:01:38.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihaak22qdg5mqjgst3hbyjyptjgcpj2qpgkfgypu6xlrol7ni5ivi",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "x",
       "id": "x:2110020556028277103",
       "text": "18,196\nWhat does this number represent?\n#GuinnessM6N #Since1883",
@@ -420,18 +475,6 @@
         "scotland"
       ],
       "source": "x:Scotlandteam"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxr5jrz5ef2r",
-      "text": "World Cup winning coach White takes reins at Fiji (✍️@RTErugby) #WorldCup #Rugby #JakeWhite",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxr5jrz5ef2r",
-      "publishedAt": "2026-10-13T13:34:25.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreih7ntbhfcknrjcd4efhieq42zyye3tuj37k7pkbig6dmtmt6kltgu",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
@@ -766,21 +809,6 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2109938325960179956",
-      "text": "Egg chasing at its finest 👏 \n\n📺 Check out all the action from our bonus-point win over Connacht on YouTube - https://t.co/dXZh80dqGX https://t.co/xxqkd1nLlI",
-      "author": "Glasgow Warriors",
-      "handle": "GlasgowWarriors",
-      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
-      "url": "https://x.com/GlasgowWarriors/status/2109938325960179956",
-      "publishedAt": "2026-10-13T09:24:32.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUgBucDWoAAZhEU.jpg",
-      "teamIds": [
-        "glasgow"
-      ],
-      "source": "x:GlasgowWarriors"
-    },
-    {
       "type": "youtube",
       "id": "yt:OgoBUMGQxsM",
       "title": "Canan Moodie finishes in style 🫡",
@@ -790,36 +818,6 @@
       "publishedAt": "2026-10-13T09:17:34.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/OgoBUMGQxsM/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "x",
-      "id": "x:2109935422943965296",
-      "text": "He's an attacking weapon and ready to fire again on Saturday at DHL Stadium.\n\n🎟️ https://t.co/iHPYfSLoAG\n\n#inittogether https://t.co/Of1UDh1SDa",
-      "author": "DHL Stormers",
-      "handle": "THESTORMERS",
-      "avatar": "https://pbs.twimg.com/profile_images/2109556734381498368/CXO-R1_p_bigger.jpg",
-      "url": "https://x.com/THESTORMERS/status/2109935422943965296",
-      "publishedAt": "2026-10-13T09:13:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUf85jvWwAAjUju.jpg",
-      "teamIds": [
-        "stormers"
-      ],
-      "source": "x:THESTORMERS"
-    },
-    {
-      "type": "x",
-      "id": "x:2109933732719116672",
-      "text": "U20 Six Nations stadium announcement 📣\nEngland U20 Men will play their three 2027 home games in Leicester, York and Bath:\n📍Round two, 12 February, France, Mattioli Woods Welford Road, Leicester\n📍Round three, 19 February, Italy, LNER York Community Stadium\n📍Round five, 12 https://t.co/GBF11FPXU7",
-      "author": "England Rugby",
-      "handle": "EnglandRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2073051143622582272/RSwdDey8_bigger.jpg",
-      "url": "https://x.com/EnglandRugby/status/2109933732719116672",
-      "publishedAt": "2026-10-13T09:06:17.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUf9ahjXUAA8JHf.jpg",
-      "teamIds": [
-        "england"
-      ],
-      "source": "x:EnglandRugby"
     },
     {
       "type": "bluesky",
