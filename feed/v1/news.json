@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-13T21:07:06+01:00",
+  "generatedAt": "2026-10-13T22:08:46+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxrtoduiq22z",
+      "text": "Pre-match Press Conference with Lawson Creighton 🎥\n\"It's been really good coming over. The boys have been really welcoming, it's been easy to transition in.\nWe're gonna go to Georgia and expect a tough game: they're a real physical bunch.\"\n🎞️ youtu.be/qT4X-mT_d58\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxrtoduiq22z",
+      "publishedAt": "2026-10-13T20:10:40.568Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreihjly4tvjcpq3v627dlxn7uriptasw4zwu35b3km3pxmjkxo7ueva",
+      "source": "ospreysofficial.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxrt5swrok2z",
@@ -865,18 +877,6 @@
       "publishedAt": "2026-10-13T06:34:36.803Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihfqgx3kuswaj5fvg6zwq72nxsmlup2kn2b2cezmlvtc6dcpevmne",
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxp5jcfnq22w",
-      "text": "If you look really closely you can see Ross under the pile of players 🧐\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxp5jcfnq22w",
-      "publishedAt": "2026-10-12T18:28:49.461Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreicx6y34omeghjpeq5gx5dgd2suz3hbgnscp3glpvfljrhzxrt3paq/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "youtube",
