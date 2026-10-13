@@ -1,8 +1,74 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-13T20:19:48+01:00",
+  "generatedAt": "2026-10-13T21:07:06+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxrt5swrok2z",
+      "text": "Pre-match Press Conference with First Team Coach, Rich Kelly🎥\n\"We're going there to get the win. They're a good team and we're excited to get there and rip in.\"\n🎞️ youtu.be/YsRzqfbGdd8\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxrt5swrok2z",
+      "publishedAt": "2026-10-13T20:01:25.943Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreiblcvonbr6225dohpj43op4xghhblapztttd6ndekr442keest63y",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxrsg5i2z222",
+      "text": "Maul mania, Prendergast's form, and Champions Cup is back (✍️@RTErugby) #Rugby #ChampionsCup #UnitedRugbyChampionship",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxrsg5i2z222",
+      "publishedAt": "2026-10-13T19:48:11.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreieivfna52keaqcv55bg5ehyeqomhck4xntetg4hovvewkjdwb7ghi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxrrkvgpl42z",
+      "text": "Pierre Schoeman says Duhan van der Merwe is working hard as he bids to return from an ankle injury before the Nations Championship next month\nRead more from the Edinburgh prop 👇\n🔗 shorturl.at/rbsnb",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxrrkvgpl42z",
+      "publishedAt": "2026-10-13T19:32:55.392Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihpkkmyafmvrtqnlw7wsywo4wcresxmtetlaognffralaxvpdsera",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110090652927324531",
+      "text": "Pre-match Press Conference with First Team Coach, Rich Kelly🎥\n\n\"We're going there to get the win. They're a good team and we're excited to get there and rip in.\"\n\n#OurBloodIsBlack https://t.co/I90lhzvfEr",
+      "author": "Ospreys",
+      "handle": "ospreys",
+      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
+      "url": "https://x.com/ospreys/status/2110090652927324531",
+      "publishedAt": "2026-10-13T19:29:49.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110078777447309312/img/_HgSQbW6hbR6FAzA.jpg",
+      "teamIds": [
+        "ospreys"
+      ],
+      "source": "x:ospreys"
+    },
+    {
+      "type": "x",
+      "id": "x:2110083146255319500",
+      "text": "Getting closer 💥\n\nLive on @Channel9 & @StanSportAU 📺 https://t.co/SDKUxT8tp4",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2110083146255319500",
+      "publishedAt": "2026-10-13T19:00:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUfCLkzbIAAhkBs.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxroqsmtwi2a",
@@ -26,6 +92,36 @@
       "publishedAt": "2026-10-13T18:17:26.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifepm7vuolt2zrk6biray3qp5gn3tknqeet2frqaa5bbyaqwit2ym",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110069053851353382",
+      "text": "👕 Rendez-vous demain à 11h 👀 https://t.co/Wcliz706lv",
+      "author": "Stade Toulousain",
+      "handle": "StadeToulousain",
+      "avatar": "https://pbs.twimg.com/profile_images/2048769015720574976/RBbkXMVV_bigger.jpg",
+      "url": "https://x.com/StadeToulousain/status/2110069053851353382",
+      "publishedAt": "2026-10-13T18:04:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUhmflHWQAAI4jF.jpg",
+      "teamIds": [
+        "toulouse"
+      ],
+      "source": "x:StadeToulousain"
+    },
+    {
+      "type": "x",
+      "id": "x:2110069007726391485",
+      "text": "Secure your copy 🖼️\n\nLimited copies of Alice Lowe’s match artwork remain available. Get yours via the link below 👇\n\n🔗 https://t.co/M24jGQAIS0 https://t.co/fTKXDfyxGy",
+      "author": "Sale Sharks 🦈",
+      "handle": "SaleSharksRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1988666083184726016/BZz1QPlv_bigger.jpg",
+      "url": "https://x.com/SaleSharksRugby/status/2110069007726391485",
+      "publishedAt": "2026-10-13T18:03:49.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUh4lA7WIAA7vyk.jpg",
+      "teamIds": [
+        "sale"
+      ],
+      "source": "x:SaleSharksRugby"
     },
     {
       "type": "bluesky",
@@ -66,6 +162,21 @@
         "dragons"
       ],
       "source": "x:dragonsrfc"
+    },
+    {
+      "type": "x",
+      "id": "x:2110068049080459743",
+      "text": "Envie de 𝙥𝙧𝙤𝙡𝙤𝙣𝙜𝙚𝙧 𝙡𝙚 𝙥𝙡𝙖𝙞𝙨𝙞𝙧 samedi soir ? 😋\n\n🍔 On vous propose un burger, ses pommes de terre roties et un éclair en dessert en Bodega Atlantique - https://t.co/YKH8p87L6W !\n\n#SRvLIO | #InvestecChampionsCup | #FievreSR https://t.co/rzZXWOb1Xs",
+      "author": "Stade Rochelais",
+      "handle": "staderochelais",
+      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
+      "url": "https://x.com/staderochelais/status/2110068049080459743",
+      "publishedAt": "2026-10-13T18:00:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUhfqqNXAAEpz0G.jpg",
+      "teamIds": [
+        "la-rochelle"
+      ],
+      "source": "x:staderochelais"
     },
     {
       "type": "x",
@@ -163,21 +274,6 @@
       "avatar": "https://pbs.twimg.com/profile_images/2048769015720574976/RBbkXMVV_bigger.jpg",
       "url": "https://x.com/StadeToulousain/status/2110048886907949478",
       "publishedAt": "2026-10-13T16:43:52.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUhloLQXcAEelWf.jpg",
-      "teamIds": [
-        "toulouse"
-      ],
-      "source": "x:StadeToulousain"
-    },
-    {
-      "type": "x",
-      "id": "x:2110048173028933915",
-      "text": "VERGÉ 2030 🔴⚫️\n\nClément Vergé, Toulousain jusqu’en 2030 🤝 https://t.co/aHmq3fj0hg",
-      "author": "Stade Toulousain",
-      "handle": "StadeToulousain",
-      "avatar": "https://pbs.twimg.com/profile_images/2048769015720574976/RBbkXMVV_bigger.jpg",
-      "url": "https://x.com/StadeToulousain/status/2110048173028933915",
-      "publishedAt": "2026-10-13T16:41:01.000Z",
       "thumbnail": "https://pbs.twimg.com/media/HUhloLQXcAEelWf.jpg",
       "teamIds": [
         "toulouse"
@@ -381,18 +477,6 @@
       "thumbnail": null,
       "teamIds": [],
       "source": "x:SixNationsRugby"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxrdloklmb2r",
-      "text": "Macs Page and Ellis Mee combine for a stunner 🤩 (📹@URCOfficial) #MacsPage #EllisMee #Stunner",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxrdloklmb2r",
-      "publishedAt": "2026-10-13T15:22:51.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifvnpgg3uorzyvkvhko3p3gshy2wwnpipm2zqziyhs7kxzksez4w4",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -680,18 +764,6 @@
       "source": "x:Scotlandteam"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxqrwq7ceq2h",
-      "text": "Edinburgh fans' favourite Hamish Watson has discussed his exit from the capital club for the first time\nHe's embracing a new challenge with Castres after spending the end of last season on loan with Leicester\nExclusive 👉 shorturl.at/wBdlI",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxqrwq7ceq2h",
-      "publishedAt": "2026-10-13T10:06:54.376Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreib5abkpjqmbuontdy4uq7xjfrhmxitmqj2tdqtiflncy43tlz3f2q",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "x",
       "id": "x:2109946510582616553",
       "text": "𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗼𝗳 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗹𝘂𝗯 𝗿𝘂𝗴𝗯𝘆!\n\nNow’s the time to book. See you in Lyon in 2027!\n\nTicketing link: https://t.co/1kmC5jZBL8\n\n@ChampionsCup | @Investec https://t.co/DNJDapozvf",
@@ -735,66 +807,6 @@
         "ulster"
       ],
       "source": "x:UlsterRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2109941127218430092",
-      "text": "The @buffoon_media Moment of the Match 🎞️🍿\n\nUnder pressure on our line, a huge turn over from Morsey 😤\n\n#OurBloodIsBlack https://t.co/Nya1O5fswF",
-      "author": "Ospreys",
-      "handle": "ospreys",
-      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
-      "url": "https://x.com/ospreys/status/2109941127218430092",
-      "publishedAt": "2026-10-13T09:35:40.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2109940429336485888/img/nRJYIec34aBvnQoW.jpg",
-      "teamIds": [
-        "ospreys"
-      ],
-      "source": "x:ospreys"
-    },
-    {
-      "type": "x",
-      "id": "x:2109940650896503009",
-      "text": "Listen to the great @Tj_Perenara and get your tickets for Cardiff 🆚 @Barbarian_FC next June! \n\nCelebrating our 1️⃣5️⃣0️⃣ with an iconic showdown. \n\n🔗 https://t.co/7JSJw3uTuu https://t.co/BRKxdo50mO",
-      "author": "Cardiff Rugby",
-      "handle": "Cardiff_Rugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107857652424249344/M7TI9U6l_bigger.jpg",
-      "url": "https://x.com/Cardiff_Rugby/status/2109940650896503009",
-      "publishedAt": "2026-10-13T09:33:46.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2109940597981138944/img/3-70TCLRuvimMKL5.jpg",
-      "teamIds": [
-        "cardiff"
-      ],
-      "source": "x:Cardiff_Rugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2109940585268453648",
-      "text": "The lads are getting more and more creative these days.\n\n🎟️ https://t.co/LAyJx5sfjp https://t.co/HNDHgek5zz",
-      "author": "Edinburgh Rugby",
-      "handle": "EdinburghRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107140647740125184/-3l-zIiB_bigger.jpg",
-      "url": "https://x.com/EdinburghRugby/status/2109940585268453648",
-      "publishedAt": "2026-10-13T09:33:30.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2109940522806562816/img/M8eq1tM25B0sYvaG.jpg",
-      "teamIds": [
-        "edinburgh"
-      ],
-      "source": "x:EdinburghRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2109940511683555730",
-      "text": "The @buffoon_media Moment of the Match 🎞️🍿\n\nUnder pressure on our line, the moment that swung the momentum for the win: a huge turn over from Morsey 😤\n\n#OurBloodIsBlack https://t.co/AspFX20duq",
-      "author": "Ospreys",
-      "handle": "ospreys",
-      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
-      "url": "https://x.com/ospreys/status/2109940511683555730",
-      "publishedAt": "2026-10-13T09:33:13.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2109940429336485888/img/nRJYIec34aBvnQoW.jpg",
-      "teamIds": [
-        "ospreys"
-      ],
-      "source": "x:ospreys"
     },
     {
       "type": "bluesky",
@@ -932,18 +944,6 @@
       "publishedAt": "2026-10-12T13:45:03.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/g48-fG63NbQ/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxoms2gcx22z",
-      "text": "Dragons vs Ospreys Match Highlights | 09.10.26 📺\nA six try Ospreys victory in Newport 😍\nSponsored by QuinnBet 🤝\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxoms2gcx22z",
-      "publishedAt": "2026-10-12T13:29:29.473Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreidwhqgohhksi5na2eetiptf2usxx3u5k5macaspsl22vmokcikvou/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
