@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-14T01:07:06+01:00",
+  "generatedAt": "2026-10-14T02:07:18+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2110148479234326664",
+      "text": "\"Out of the 15 players that were starting... 13 of them would make the hall of fame.\"\n\nMatt Giteau joined us last week on 𝑰𝒏𝒔𝒊𝒅𝒆 𝒕𝒉𝒆 𝑩𝒍𝒂𝒄𝒌 𝑱𝒆𝒓𝒔𝒆𝒚 to talk through the history of the rivalry between the All Blacks & Wallabies, and more...\n\n📲 Watch every episode: https://t.co/B8T0OXjz5y",
+      "author": "All Blacks",
+      "handle": "AllBlacks",
+      "avatar": "https://pbs.twimg.com/profile_images/1472711036813799428/QHrkYpf6_bigger.jpg",
+      "url": "https://x.com/AllBlacks/status/2110148479234326664",
+      "publishedAt": "2026-10-13T23:19:36.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUjA28jWwAA3dkX.jpg",
+      "teamIds": [
+        "new-zealand"
+      ],
+      "source": "x:AllBlacks"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxrtoduiq22z",
@@ -806,21 +821,6 @@
       "source": "x:EdinburghRugby"
     },
     {
-      "type": "x",
-      "id": "x:2109942412454076476",
-      "text": "Squad Update ⚕️\n\nThe Performance Medicine Team has issued an injury update ahead of Saturday’s Challenge Cup game.\n\nRead here ➡️ https://t.co/lSSpydRHl3 https://t.co/zVfWB74Hp1",
-      "author": "Ulster Rugby",
-      "handle": "UlsterRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1807735739297251328/5Dhp1fAe_bigger.jpg",
-      "url": "https://x.com/UlsterRugby/status/2109942412454076476",
-      "publishedAt": "2026-10-13T09:40:46.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUgEzWzXQAASi8x.jpg",
-      "teamIds": [
-        "ulster"
-      ],
-      "source": "x:UlsterRugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxqpzcdkac2z",
       "text": "The Buffoon Media Media Moment of the Match 🎞️🍿\nUnder pressure on our line, the moment that swung the momentum for the win: a huge turn over from Morsey 😤\n#OurBloodIsBlack",
@@ -1318,14 +1318,14 @@
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
       "ok": false,
-      "error": "HTTP 500",
+      "error": "HTTP 404",
       "kept": 0
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
       "ok": false,
-      "error": "HTTP 500",
+      "error": "HTTP 404",
       "kept": 3
     },
     {
