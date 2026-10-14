@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-14T22:07:09+01:00",
+  "generatedAt": "2026-10-14T23:07:38+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxui23zmyk2d",
+      "text": "Another excellent Teddy Williams showing with two lineout steals up against the Sheehan/Ryan/McCarthy combo of Leinster.\nSomehow continues to up the performance levels week-on-week.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxui23zmyk2d",
+      "publishedAt": "2026-10-14T21:20:29.310Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreih5ceywylm3mpwkduiebrp7l4ety6yq3mkflmjizohg4ttbr3b4pa/thumbnail.jpg",
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxucpc6wsk23",
@@ -867,18 +879,6 @@
       "publishedAt": "2026-10-14T08:01:25.555Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifwjmcelxmotqjgnj7vq6z6zuohf45x7araspu2eeyi353bombhhi",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxszu4lmoc2m",
-      "text": "Plenty discussed on the pod this week around Cardiff's centre partnership on Saturday, how Matty Young only got a 5/10 rating in the paper, Taine Basham for Cymru, the new WRU Chair being from N*wport, and a head v heart debate on team selection.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxszu4lmoc2m",
-      "publishedAt": "2026-10-14T07:33:56.452Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
