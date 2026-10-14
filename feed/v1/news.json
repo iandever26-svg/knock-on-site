@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-14T20:07:17+01:00",
+  "generatedAt": "2026-10-14T21:10:23+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxucpc6wsk23",
+      "text": "🚨TEAM ANNOUNCEMENT 🚨\nHere is the Scotland team to face Australia in Sydney on Saturday (3am kick-off UK time)\nTeam news 👉 shorturl.at/uXSFw",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxucpc6wsk23",
+      "publishedAt": "2026-10-14T19:44:57.800Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreieospn7jcrfidkepeitjjtontdbt4b3bpuqgv3n52emeki3qkn6na",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxuccvn7zs2u",
+      "text": "Some thoughts on still not knowing exactly where this Cardiff team is, Leinster being a bit too good and Matty Young finally getting his chance.\ncardiffrugbylife.wales/2026/10/14/v...",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxuccvn7zs2u",
+      "publishedAt": "2026-10-14T19:38:02.155Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreih5ofz673drfhgavjldawvv7akdlzl3c3ygzmypxwsuk377idjw6q",
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2110445605545816355",
@@ -904,18 +928,6 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxrrkvgpl42z",
-      "text": "Pierre Schoeman says Duhan van der Merwe is working hard as he bids to return from an ankle injury before the Nations Championship next month\nRead more from the Edinburgh prop 👇\n🔗 shorturl.at/rbsnb",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxrrkvgpl42z",
-      "publishedAt": "2026-10-13T19:32:55.392Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihpkkmyafmvrtqnlw7wsywo4wcresxmtetlaognffralaxvpdsera",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:y-jlswiBP_I",
       "title": "Macs Page and Ellis Mee combine for a stunner 🤩",
@@ -947,18 +959,6 @@
       "publishedAt": "2026-10-13T12:23:38.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/vcVuhlNYqwA/hqdefault.jpg",
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxqz5nholc2y",
-      "text": "Cardiff have named their 42-man Champions Cup squad.\nEllis Bevan, Theo Cabango, Ioan Lloyd & Iwan Stephens are all omitted.\nTom Manz is included, as are the academy's Tom Cottle, Rhys Cummings, Sion Davies, Tom Howe & Matty Young.\n5 changes may be made during the pool stage.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxqz5nholc2y",
-      "publishedAt": "2026-10-13T12:16:02.922Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "youtube",
