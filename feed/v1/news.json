@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-14T21:10:23+01:00",
+  "generatedAt": "2026-10-14T22:07:09+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
     {
@@ -26,6 +26,36 @@
       "publishedAt": "2026-10-14T19:38:02.155Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreih5ofz673drfhgavjldawvv7akdlzl3c3ygzmypxwsuk377idjw6q",
       "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110454286719037900",
+      "text": "6️⃣ Warriors named to take on Australia this weekend. https://t.co/5VCudfSG0U",
+      "author": "Glasgow Warriors",
+      "handle": "GlasgowWarriors",
+      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
+      "url": "https://x.com/GlasgowWarriors/status/2110454286719037900",
+      "publishedAt": "2026-10-14T19:34:46.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUnW_SxWQAAFhSw.jpg",
+      "teamIds": [
+        "glasgow"
+      ],
+      "source": "x:GlasgowWarriors"
+    },
+    {
+      "type": "x",
+      "id": "x:2110453102130102402",
+      "text": "Your team to face Australia in Sydney this weekend 🇦🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿\n\nKatie Buchanan gets her first start 🙌 https://t.co/7VRWY7g4av",
+      "author": "Scottish Rugby",
+      "handle": "Scotlandteam",
+      "avatar": "https://pbs.twimg.com/profile_images/1856274139696275456/XghMgMxS_bigger.jpg",
+      "url": "https://x.com/Scotlandteam/status/2110453102130102402",
+      "publishedAt": "2026-10-14T19:30:04.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUnQFvvWUAAozJn.jpg",
+      "teamIds": [
+        "scotland"
+      ],
+      "source": "x:Scotlandteam"
     },
     {
       "type": "x",
@@ -626,36 +656,6 @@
       "thumbnail": "https://pbs.twimg.com/media/HUhJ3kzXgAAkC9t.jpg",
       "teamIds": [],
       "source": "x:URCOfficial"
-    },
-    {
-      "type": "x",
-      "id": "x:2110385141034168483",
-      "text": "Ready for our European adventure to begin 🃏\n\n#COYQ https://t.co/z5t7M8bYwd",
-      "author": "Harlequins 🃏",
-      "handle": "Harlequins",
-      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
-      "url": "https://x.com/Harlequins/status/2110385141034168483",
-      "publishedAt": "2026-10-14T15:00:01.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUmP5auX0AAE3n0.jpg",
-      "teamIds": [
-        "harlequins"
-      ],
-      "source": "x:Harlequins"
-    },
-    {
-      "type": "x",
-      "id": "x:2110385138517283068",
-      "text": "Three-time @ChampionsCup winners @Saracens come to town this Saturday 👊\n\n🎟️ https://t.co/frVsb8sbHV\n\n#OneConnacht https://t.co/PEuxYOt8wz",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
-      "url": "https://x.com/connachtrugby/status/2110385138517283068",
-      "publishedAt": "2026-10-14T15:00:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUmJvzuWUAALrjV.jpg",
-      "teamIds": [
-        "connacht"
-      ],
-      "source": "x:connachtrugby"
     },
     {
       "type": "bluesky",
