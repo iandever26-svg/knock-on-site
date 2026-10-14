@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-14T07:07:08+01:00",
+  "generatedAt": "2026-10-14T08:23:17+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxsycjct5u2t",
+      "text": "The Bledisloe result no-one wanted? | 8/9 Rugby with Tony Johnson (📹 @89combo) #BledisloeCup #Rugby #AllBlacks",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxsycjct5u2t",
+      "publishedAt": "2026-10-14T07:06:11.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigcd6p7ptumex2pkldsj3iijxz3a5t5bvt2dqvgm6btfv65gncboy",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxsybppkzh2s",
+      "text": "544 : Cardiff, Coaches & Contenders (✍️ @HarpinOnRugby) #Cardiff #Rugby #URC",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxsybppkzh2s",
+      "publishedAt": "2026-10-14T07:05:45.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreih2zysawy47jixzsebwik4xhbkqpywrc7tqu2lhktwkzj64gt2st4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxsy5rsg4k2c",
+      "text": "For our latest pod I was joined by Keego & Hugo Gordon and we harped on…\n🏉 LEIvCAR review\n🏉 URC Round 3 wrap\n🏉 Big boots to (Dr) Phil?\n🏉 CC contenders\n🏉 Format fatigue\nCheck it out here > harpinonrugby.blog/2026/10/14/5...",
+      "author": "Harpin' On Rugby",
+      "handle": "harpinonrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
+      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxsy5rsg4k2c",
+      "publishedAt": "2026-10-14T07:03:33.202Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreignqhfbeno2zpyymzilumjymfc3vtuzyx7smeo4wjelnbsjrzbtbm",
+      "source": "harpinonrugby.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxsus6qvba2z",
@@ -38,6 +74,17 @@
       "publishedAt": "2026-10-14T06:02:22.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicly6oed7ch3emaio2na3kn7ceoq3bd2f75akyqh2fzar7xi3k56y",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:iC-dNzKjmR4",
+      "title": "The unstoppable Onisi Ratave 😤",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=iC-dNzKjmR4",
+      "publishedAt": "2026-10-14T05:49:32.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/iC-dNzKjmR4/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "x",
@@ -116,30 +163,6 @@
       "publishedAt": "2026-10-13T19:32:55.392Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihpkkmyafmvrtqnlw7wsywo4wcresxmtetlaognffralaxvpdsera",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxroqsmtwi2a",
-      "text": "So why is the All Blacks' kicking game so effective? (📹@SquidgeRugby) #AllBlacks #Rugby #KickingGame",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxroqsmtwi2a",
-      "publishedAt": "2026-10-13T18:42:34.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidg5jktd6bhraecyfrf73pcltvxki7dxcql2m4yyparvkwqphbl4y",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxrnduxbfg2z",
-      "text": "Ep 3681: The Long Walk to Justice; George Gibney Jailed for 15 1/2 Years - 13/10/2026 (🎙️@SecondCaptains) #JusticeForSurvivors #GeorgeGibney #SexualAbuseAwareness",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxrnduxbfg2z",
-      "publishedAt": "2026-10-13T18:17:26.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifepm7vuolt2zrk6biray3qp5gn3tknqeet2frqaa5bbyaqwit2ym",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -260,7 +283,7 @@
     {
       "type": "youtube",
       "id": "yt:qX9a06LYRoI",
-      "title": "Blair Murray Was Absolutely Brilliant Against Benetton",
+      "title": "An INCREDIBLE Performance From Blair Murray",
       "author": "United Rugby Championship",
       "avatar": null,
       "url": "https://www.youtube.com/watch?v=qX9a06LYRoI",
@@ -380,17 +403,6 @@
       "url": "https://www.youtube.com/watch?v=9BgeZofIafw",
       "publishedAt": "2026-10-12T15:00:03.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/9BgeZofIafw/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:g48-fG63NbQ",
-      "title": "The Vodacom Bulls cash in 💰",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=g48-fG63NbQ",
-      "publishedAt": "2026-10-12T13:45:03.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/g48-fG63NbQ/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
@@ -547,18 +559,6 @@
       "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxk7yhyqvc2o",
       "publishedAt": "2026-10-10T19:29:47.441Z",
       "thumbnail": null,
-      "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxk5edg4s22m",
-      "text": "Sorry love but I'm already here to do the harpin'..... 😜",
-      "author": "Harpin' On Rugby",
-      "handle": "harpinonrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
-      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxk5edg4s22m",
-      "publishedAt": "2026-10-10T18:42:44.029Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreia5j7z2halp5imdxpglckfvwjjglalxfqhxs5oa5dkqucsn4ig4qu",
       "source": "harpinonrugby.bsky.social"
     },
     {
@@ -744,37 +744,32 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 2
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 0
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "bluesky",
