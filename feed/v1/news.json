@@ -1,8 +1,136 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-14T12:07:10+01:00",
+  "generatedAt": "2026-10-14T13:07:22+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxtgzuihr62v",
+      "text": "Sam Prendergast Shines as Leinster Celebrate RDS Return | Cardiff Reaction (📹@HarpinOnRugby) #Leinster #Cardiff #URC",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxtgzuihr62v",
+      "publishedAt": "2026-10-14T11:29:47.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreics34ivammjwnchq5irju35iw5d67zebsaubldvumqshrb43t3klq",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110330996696416526",
+      "text": "The countdown is on for the 2027 EPCR Finals, taking place on 21 and 22 May at Lyon's OL Stadium. \n\nTickets are already on sale for this unmissable date in international club rugby. Two finals, one unique city, unforgettable memories.\n\n🔗https://t.co/WvC32graQK https://t.co/BURVQdm5fd",
+      "author": "Cardiff Rugby",
+      "handle": "Cardiff_Rugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
+      "url": "https://x.com/Cardiff_Rugby/status/2110330996696416526",
+      "publishedAt": "2026-10-14T11:24:52.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUlmojTXYAAof9J.jpg",
+      "teamIds": [
+        "cardiff"
+      ],
+      "source": "x:Cardiff_Rugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110329894773133695",
+      "text": "Un mis i fynd! The All Blacks are coming to Caerdydd 🖤\n\nCymru legend Jamie Roberts looks back on facing New Zealand in red, and being part of the iconic Barbarians side that beat the All Blacks in 2009.\n\nCymru v Crysau Duon. One month to go 🏴󠁧󠁢󠁷󠁬󠁳󠁿\n\nGet your tickets now🎟️ https://t.co/0XQf1MIlOo",
+      "author": "Welsh Rugby Union 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "handle": "WelshRugbyUnion",
+      "avatar": "https://pbs.twimg.com/profile_images/2032055092023623680/2UrVtIad_bigger.jpg",
+      "url": "https://x.com/WelshRugbyUnion/status/2110329894773133695",
+      "publishedAt": "2026-10-14T11:20:29.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUll2vDWwAEFph0.jpg",
+      "teamIds": [
+        "wales"
+      ],
+      "source": "x:WelshRugbyUnion"
+    },
+    {
+      "type": "x",
+      "id": "x:2110324867518074983",
+      "text": "Just THREE of the unmissable clashes we’ve got our eyes on this weekend 👀🔥\n\nWho else is counting down? 👇\n\n#ChallengeCupRugby https://t.co/sqme6QhpWK",
+      "author": "EPCR Challenge Cup",
+      "handle": "ChallengeCup_",
+      "avatar": "https://pbs.twimg.com/profile_images/1443878359226896423/Otikwf_N_bigger.jpg",
+      "url": "https://x.com/ChallengeCup_/status/2110324867518074983",
+      "publishedAt": "2026-10-14T11:00:31.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUlhSG3XAAAvz-K.jpg",
+      "teamIds": [],
+      "source": "x:ChallengeCup_"
+    },
+    {
+      "type": "x",
+      "id": "x:2110324766536085795",
+      "text": "The rain never bothered us anyway 🏴󠁧󠁢󠁳󠁣󠁴󠁿\n\nGearing up for our rematch with the Wallaroos in Sydney ⚙️🆙 https://t.co/eOBbXXpC4o",
+      "author": "Scottish Rugby",
+      "handle": "Scotlandteam",
+      "avatar": "https://pbs.twimg.com/profile_images/1856274139696275456/XghMgMxS_bigger.jpg",
+      "url": "https://x.com/Scotlandteam/status/2110324766536085795",
+      "publishedAt": "2026-10-14T11:00:06.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110314296311717888/img/Cm0QbEu-DGCqnlgY.jpg",
+      "teamIds": [
+        "scotland"
+      ],
+      "source": "x:Scotlandteam"
+    },
+    {
+      "type": "x",
+      "id": "x:2110324760613687485",
+      "text": "What did Sean Jansen and Shane Jennings get up to today at @gbayfm  📻🤔\n\nWatch more 🔗 https://t.co/HHM6Vlgg4g\n\n#OneConnacht https://t.co/hkmteicstz",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
+      "url": "https://x.com/connachtrugby/status/2110324760613687485",
+      "publishedAt": "2026-10-14T11:00:05.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110324636265152512/img/zPHOUHSXjlPfAdAr.jpg",
+      "teamIds": [
+        "connacht"
+      ],
+      "source": "x:connachtrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110324748806717511",
+      "text": "Your Round 3 #PREMxBuffaloTrace big hit winner 💥 https://t.co/9Qio4ABenO",
+      "author": "PREM Rugby",
+      "handle": "premrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1947922197328134144/2PBgulm5_bigger.jpg",
+      "url": "https://x.com/premrugby/status/2110324748806717511",
+      "publishedAt": "2026-10-14T11:00:02.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUlQgp5W8AAb58o.jpg",
+      "teamIds": [],
+      "source": "x:premrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110324569785455104",
+      "text": "Nine days until we are back at CAP. \n\nHave you got your tickets for our @URCOfficial showdown with @SharksRugby yet?\n\n🎟️ https://t.co/7JSJw3uTuu https://t.co/Qmpo6TQ9C3",
+      "author": "Cardiff Rugby",
+      "handle": "Cardiff_Rugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
+      "url": "https://x.com/Cardiff_Rugby/status/2110324569785455104",
+      "publishedAt": "2026-10-14T10:59:20.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUlgwjQWwAAzNhy.jpg",
+      "teamIds": [
+        "cardiff"
+      ],
+      "source": "x:Cardiff_Rugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110323997489397946",
+      "text": "That catch 👌 https://t.co/Fd3GhVDCor",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1993085605345968128/98zCXa8C_bigger.jpg",
+      "url": "https://x.com/leinsterrugby/status/2110323997489397946",
+      "publishedAt": "2026-10-14T10:57:03.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUlgfRZXwAAyb5g.jpg",
+      "teamIds": [
+        "leinster"
+      ],
+      "source": "x:leinsterrugby"
+    },
     {
       "type": "youtube",
       "id": "yt:gnL8Dl2LvcE",
@@ -15,6 +143,36 @@
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
+      "type": "x",
+      "id": "x:2110319955245666595",
+      "text": "Two finals. One city. One unforgettable weekend of club rugby.\n\n🎟️ https://t.co/Unuu6j9mFb https://t.co/askXoqhqb3",
+      "author": "Glasgow Warriors",
+      "handle": "GlasgowWarriors",
+      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
+      "url": "https://x.com/GlasgowWarriors/status/2110319955245666595",
+      "publishedAt": "2026-10-14T10:40:59.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUlc0N9W4AAElLW.jpg",
+      "teamIds": [
+        "glasgow"
+      ],
+      "source": "x:GlasgowWarriors"
+    },
+    {
+      "type": "x",
+      "id": "x:2110319356831809853",
+      "text": "🏉 EPCR have confirmed that our Challenge Cup Round 1 fixture away to Zebre will be streamed live on EPCR TV.\n\nSign up to watch here ➡️ https://t.co/k51pcgOkCW https://t.co/GRlxDXIcYk",
+      "author": "Ulster Rugby",
+      "handle": "UlsterRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1807735739297251328/5Dhp1fAe_bigger.jpg",
+      "url": "https://x.com/UlsterRugby/status/2110319356831809853",
+      "publishedAt": "2026-10-14T10:38:37.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUgYQ86WcAA8y9K.jpg",
+      "teamIds": [
+        "ulster"
+      ],
+      "source": "x:UlsterRugby"
+    },
+    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3mxte3tl4kclo",
       "text": "Can the leading SA teams (read Bulls and Stormers) break the Champions Cup semi-final ceiling this season?\nMy piece ahead of the first round for @dailymaverick.co.za\nwww.dailymaverick.co.za/article/2026...",
@@ -25,6 +183,36 @@
       "publishedAt": "2026-10-14T10:37:12.853Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wizadpqsar4meknsnx7s3rms/bafkreid2f3xhjcdrsuysbq4ajwm6blhfumpczb45dcrujtqjayighmixjq",
       "source": "joncardinelli.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110317085188346082",
+      "text": "Shannon Airport 🤝 Munster Rugby\n\n@ShannonAirport and Munster Rugby have extended their partnership for another three seasons, with Shannon remaining the Official Airport Partner of Munster Rugby until 2029 ✈️\n\nMore Info: https://t.co/scuJdnECEI\n\n#SUAF 🔴 https://t.co/luUEGOQIoI",
+      "author": "Munster Rugby",
+      "handle": "Munsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107826516448989184/JSC31ryn_bigger.jpg",
+      "url": "https://x.com/Munsterrugby/status/2110317085188346082",
+      "publishedAt": "2026-10-14T10:29:35.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUlZzSuWIAACIBh.jpg",
+      "teamIds": [
+        "munster"
+      ],
+      "source": "x:Munsterrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110313219323544016",
+      "text": "Your voice, your club 💙\n\nIf you're passionate about Glasgow Warriors and want to play a constructive role in strengthening the relationship between the club and its supporters, we'd love to hear from you.\n\nApplications for the new Supportors Forum are now open - https://t.co/N22aTAdBjM",
+      "author": "Glasgow Warriors",
+      "handle": "GlasgowWarriors",
+      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
+      "url": "https://x.com/GlasgowWarriors/status/2110313219323544016",
+      "publishedAt": "2026-10-14T10:14:13.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUlWsESWQAAIcmX.jpg",
+      "teamIds": [
+        "glasgow"
+      ],
+      "source": "x:GlasgowWarriors"
     },
     {
       "type": "x",
@@ -452,18 +640,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxsycjct5u2t",
       "publishedAt": "2026-10-14T07:06:11.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigcd6p7ptumex2pkldsj3iijxz3a5t5bvt2dqvgm6btfv65gncboy",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxsybppkzh2s",
-      "text": "544 : Cardiff, Coaches & Contenders (✍️ @HarpinOnRugby) #Cardiff #Rugby #URC",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxsybppkzh2s",
-      "publishedAt": "2026-10-14T07:05:45.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreih2zysawy47jixzsebwik4xhbkqpywrc7tqu2lhktwkzj64gt2st4",
       "source": "rugbynewsplus.bsky.social"
     },
     {
@@ -1242,7 +1418,7 @@
       "kind": "x",
       "id": "news-x.json",
       "ok": true,
-      "items": 28
+      "items": 40
     }
   ]
 }
