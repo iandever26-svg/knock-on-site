@@ -1,8 +1,59 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-14T05:07:14+01:00",
+  "generatedAt": "2026-10-14T07:07:08+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxsus6qvba2z",
+      "text": "Munster eager to honour Axel on another night at the Páirc (✍️@rugby_ie) #MunsterRugby #ChampionsCup #Axel",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxsus6qvba2z",
+      "publishedAt": "2026-10-14T06:03:22.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiamwviafrhfrowdjwrjdvppy4lgfdzicbawtfbmhoxisz7thcbn5i",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxsurf32w52d",
+      "text": "After an excellent debut for Newcastle at the weekend, Jake Dalziel is being backed for a place in the Scotland squad for next month’s Nations Championship\n🔗 shorturl.at/NM8D5",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxsurf32w52d",
+      "publishedAt": "2026-10-14T06:02:55.625Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigzieb6alen6mxqy357t6nkudyskwwtttt76loqqxpkv6njiqh42u",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxsuqfpngl2a",
+      "text": "Backs to the Rescue, Forwards to the Drawing Board! (🎙️@dplockhart) #UlsterRugby #MunsterRugby #RugbyPodcast",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxsuqfpngl2a",
+      "publishedAt": "2026-10-14T06:02:22.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicly6oed7ch3emaio2na3kn7ceoq3bd2f75akyqh2fzar7xi3k56y",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110240717909930137",
+      "text": "Neels Volschenk and Victor Sekekete on @OFMSport   ahead of their first @ChallengeCup_  game of the 2026/27 season. \n@ToyotaSA https://t.co/NlzkMpeQn8",
+      "author": "Toyota Cheetahs",
+      "handle": "CheetahsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1923021611650662400/CQ915wlL_bigger.jpg",
+      "url": "https://x.com/CheetahsRugby/status/2110240717909930137",
+      "publishedAt": "2026-10-14T05:26:08.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUkUvdrWYAA6smG.jpg",
+      "teamIds": [
+        "cheetahs"
+      ],
+      "source": "x:CheetahsRugby"
+    },
     {
       "type": "x",
       "id": "x:2110182257898262646",
@@ -115,30 +166,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxrfe4blrf2c",
-      "text": "So how did the All Blacks retain the Bledisloe Cup for 2026? (📹@SquidgeRugby) #AllBlacks #BledisloeCup #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxrfe4blrf2c",
-      "publishedAt": "2026-10-13T15:54:24.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiedyhnxdgww7lhvuyo5st2ypymawsb6eef55t26tbrwvdhtggrsw4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxrexkhutb2t",
-      "text": "'Memory of Axel to the forefront is of everyone's mind' (✍️@RTErugby) #AnthonyFoley #MunsterRugby #RugbyMemories",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxrexkhutb2t",
-      "publishedAt": "2026-10-13T15:47:23.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreif6lbznrz3d2exxyhiwphenerkprooufu45ph4bix2irt5db2o73u",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:y-jlswiBP_I",
       "title": "Macs Page and Ellis Mee combine for a stunner 🤩",
@@ -240,18 +267,6 @@
       "publishedAt": "2026-10-13T11:00:23.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/qX9a06LYRoI/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxqswyauaj2w",
-      "text": "England international Jack Singleton has signed a short-term deal with Glasgow Warriors, one year after a heart attack in training\n🔗 shorturl.at/I22TY",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxqswyauaj2w",
-      "publishedAt": "2026-10-13T10:24:56.744Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiaaepmwrczvvwpn73u3fea5hzxwdoqt4ukeaca7xswcenveg33m64",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -849,7 +864,7 @@
       "kind": "x",
       "id": "news-x.json",
       "ok": true,
-      "items": 1
+      "items": 2
     }
   ]
 }
