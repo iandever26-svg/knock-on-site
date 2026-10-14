@@ -1,8 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-14T14:10:01+01:00",
+  "generatedAt": "2026-10-14T15:07:10+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:MElZA1s7Yug",
+      "title": "Highlights | Munster Rugby v Ulster Rugby | URC R3",
+      "author": "Munster Rugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=MElZA1s7Yug",
+      "publishedAt": "2026-10-14T13:28:12.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/MElZA1s7Yug/hqdefault.jpg",
+      "source": "UC7991AZNku42o3Y36kUZOJA"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxtmzcnxg32g",
+      "text": "The Champions Cup is back! How will the Irish provinces fare? (✍️@rugby_ie) #ChampionsCup #IrishProvinces #Leinster",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxtmzcnxg32g",
+      "publishedAt": "2026-10-14T13:16:51.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidyh7lnsdmyo3x44vt57wt4gxtcqburbm7ouvsoyrnjaqwmyuayqi",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxtmcmji7s2o",
@@ -39,6 +62,21 @@
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
+      "type": "x",
+      "id": "x:2110355078490038539",
+      "text": "Ospreys team up with @VisitSwanseaBay as European jersey sponsor 🌇\n\nThe collaboration highlights the commitment of the Ospreys and Visit Swansea Bay to promote the vibrant culture and stunning landscapes of Swansea to a broader audience.\n\nIt will see the Ospreys display the Visit Swansea Bay logo on the collar of their European jerseys as they embark on their EPCR Challenge Cup campaign across the continent.\n\n📰 https://t.co/ZR6DsMXdGx\n\n#OurBloodIsBlack",
+      "author": "Ospreys",
+      "handle": "ospreys",
+      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
+      "url": "https://x.com/ospreys/status/2110355078490038539",
+      "publishedAt": "2026-10-14T13:00:33.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUl4KcaX0AAjYsl.jpg",
+      "teamIds": [
+        "ospreys"
+      ],
+      "source": "x:ospreys"
+    },
+    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxtm3db4ts2b",
       "text": "Ospreys team up with Visit Swansea Bay as European jersey sponsor 🌇\nThe collaboration highlights the commitment of the Ospreys and Visit Swansea Bay to promote the vibrant culture and stunning landscapes of Swansea to a broader audience.\n📰 ospreys.info/VSBay",
@@ -51,6 +89,21 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
+      "type": "x",
+      "id": "x:2110351917582839994",
+      "text": "🗣️ @rhynosmith15 : \"Castres è un campo difficile, dovremo trovare energie extra\" 🦁\n\n#BenettonRugby #WeAreLions #CASvBEN https://t.co/NQwJzv0eSt",
+      "author": "Benetton Rugby 🦁",
+      "handle": "BenettonRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107800809316425728/hbrhjN9A_bigger.jpg",
+      "url": "https://x.com/BenettonRugby/status/2110351917582839994",
+      "publishedAt": "2026-10-14T12:48:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110306770593644544/img/xFr8N2rQaEUC7CFa.jpg",
+      "teamIds": [
+        "benetton"
+      ],
+      "source": "x:BenettonRugby"
+    },
+    {
       "type": "youtube",
       "id": "yt:STuXW-wYcuA",
       "title": "Press Pass | Munster Rugby v Racing 92",
@@ -60,6 +113,21 @@
       "publishedAt": "2026-10-14T12:41:51.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/STuXW-wYcuA/hqdefault.jpg",
       "source": "UC7991AZNku42o3Y36kUZOJA"
+    },
+    {
+      "type": "x",
+      "id": "x:2110345629226455367",
+      "text": "First outing in red. 🦁🔥 \nJP du Preez made his 10bet Lions URC debut against the Vodacom Bulls last weekend.\nWelcome to the Pride, JP! ❤️\n#LionsPride #ForOurCity https://t.co/74El1c9NV7",
+      "author": "Lions",
+      "handle": "LionsRugbyCo",
+      "avatar": "https://pbs.twimg.com/profile_images/1288898544645144578/dNPdChOX_bigger.jpg",
+      "url": "https://x.com/LionsRugbyCo/status/2110345629226455367",
+      "publishedAt": "2026-10-14T12:23:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUlzxaWWAAAu9Hc.jpg",
+      "teamIds": [
+        "lions"
+      ],
+      "source": "x:LionsRugbyCo"
     },
     {
       "type": "x",
@@ -75,6 +143,49 @@
         "exeter"
       ],
       "source": "x:ExeterChiefs"
+    },
+    {
+      "type": "x",
+      "id": "x:2110339126503305684",
+      "text": "Juksei Derby... Noord-Suid Derby... Coastal Derby...\n\nWhat name would you give the Hollywoodbets Sharks-Vodacom Bulls Derby? 🤔\n\n#HollywoodbetsSharks #URC #SharksFest\n\n(© Steve Haag Sports) https://t.co/nERzMNReuM",
+      "author": "Sharks Rugby Club",
+      "handle": "SharksRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2108105864909312000/tbCzWA0T_bigger.jpg",
+      "url": "https://x.com/SharksRugby/status/2110339126503305684",
+      "publishedAt": "2026-10-14T11:57:10.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUltZnwXAAABH2j.jpg",
+      "teamIds": [
+        "sharks"
+      ],
+      "source": "x:SharksRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110338832130326902",
+      "text": "Juksei Derby... Noord-Suid Derby... Coastal Derby...\n\nWhat name would you give the Hollywoodbets Sharks-Vodacom Bulls Derby? 🤔\n\n#HollywoodbetsSharks #URC #SharksFest https://t.co/WI1RnUvkNA",
+      "author": "Sharks Rugby Club",
+      "handle": "SharksRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2108105864909312000/tbCzWA0T_bigger.jpg",
+      "url": "https://x.com/SharksRugby/status/2110338832130326902",
+      "publishedAt": "2026-10-14T11:56:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUltZnwXAAABH2j.jpg",
+      "teamIds": [
+        "sharks"
+      ],
+      "source": "x:SharksRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110337931973939435",
+      "text": "Pick one player to have an injury free rugby career? Who and why? 🤔\n\n#GuinnessM6N #Since1883",
+      "author": "Guinness Men's Six Nations",
+      "handle": "SixNationsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1862922194491265024/iIUEoSFe_bigger.jpg",
+      "url": "https://x.com/SixNationsRugby/status/2110337931973939435",
+      "publishedAt": "2026-10-14T11:52:25.000Z",
+      "thumbnail": null,
+      "teamIds": [],
+      "source": "x:SixNationsRugby"
     },
     {
       "type": "x",
@@ -658,21 +769,6 @@
       "source": "rugbynewsplus.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2110295017629577672",
-      "text": "Our heroic new European jersey by @MacronSports for the 26/27 season is here 💥\n\nA kit with a real presence and comic-book-inspired design, the jersey takes on a bold, heroic feel built for the big occasions, the floodlit nights and the moments that matter.\n\n🛍️ https://t.co/ergWwGZ4wA\n\nSupporters can also pick up the new jerseys in person at our Swansea Market stall today, Wednesday 14th October. Please note the Market Stall will be closed tomorrow, Thursday 15th October. Season Members will receive their exclusive discount on the full 2026/27 range in-store.\n\n#OurBloodIsBlack",
-      "author": "Ospreys",
-      "handle": "ospreys",
-      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
-      "url": "https://x.com/ospreys/status/2110295017629577672",
-      "publishedAt": "2026-10-14T09:01:54.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUlCd6KXQAAiMXL.jpg",
-      "teamIds": [
-        "ospreys"
-      ],
-      "source": "x:ospreys"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxt6qnvc2s2k",
       "text": "Our heroic new European jersey by Macron for the 26/27 season is here 💥\nA kit with a real presence and comic-book-inspired design, the jersey takes on a bold, heroic feel built for the big occasions, the floodlit nights and the moments that matter.\n🛍️ ospreys.info/shoponline",
@@ -683,36 +779,6 @@
       "publishedAt": "2026-10-14T09:01:28.343Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreieq6hbnmeoxfb6n4bq34kkkoew5kbbebn3duaum3bywogqynoqng4",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2110294899837018555",
-      "text": "🔴 Maillot Third 26/27 \n\nInspiré par Toulouse, son caractère et l’énergie de son peuple 🔥\n\nDisponible en boutiques 🛍️ https://t.co/Et7w70mjwe",
-      "author": "Stade Toulousain",
-      "handle": "StadeToulousain",
-      "avatar": "https://pbs.twimg.com/profile_images/2110294817947242496/LikEw8hJ_bigger.jpg",
-      "url": "https://x.com/StadeToulousain/status/2110294899837018555",
-      "publishedAt": "2026-10-14T09:01:26.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110294848431374337/img/FzvAgosx9-OPX59y.jpg",
-      "teamIds": [
-        "toulouse"
-      ],
-      "source": "x:StadeToulousain"
-    },
-    {
-      "type": "x",
-      "id": "x:2110281592753045749",
-      "text": "Don't miss out on @ChampionsCup action at Dexcom Stadium this season 🏉\n\nIt all begins this Saturday against Saracens 📺 https://t.co/30vWGC3PGa\n\n#OneConnacht https://t.co/uyhgdwXP5r",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
-      "url": "https://x.com/connachtrugby/status/2110281592753045749",
-      "publishedAt": "2026-10-14T08:08:33.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUk5e_UWkAA7OXG.jpg",
-      "teamIds": [
-        "connacht"
-      ],
-      "source": "x:connachtrugby"
     },
     {
       "type": "bluesky",
@@ -727,49 +793,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2110279477045363194",
-      "text": "We’re ready for a new season… are you? 👀\n\nThere’s still time to compose your perfect XV and prove your rugby IQ😍\n\nPlay NOW 🎮 🔗 https://t.co/rHenbKskk0\n\n#InvestecChampionsCup https://t.co/ZrbLLJXz2p",
-      "author": "Investec Champions Cup",
-      "handle": "ChampionsCup",
-      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
-      "url": "https://x.com/ChampionsCup/status/2110279477045363194",
-      "publishedAt": "2026-10-14T08:00:09.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUk4ADEXEAAQRRH.jpg",
-      "teamIds": [],
-      "source": "x:ChampionsCup"
-    },
-    {
-      "type": "x",
-      "id": "x:2110279443038282105",
-      "text": "🗣️ “Europe gave the team a lot of belief last season... We had to fight to get where we got to, and then when we got in there, we surprised a lot of people...\"\n\nMacLeod looks for another Euro lift-off 🚀\n\n▶️ https://t.co/byhjmmIgDR\n🎟️ https://t.co/eYQDYglE7t\n\n#WeAreGwentRugby https://t.co/41LxeGZ1FP",
-      "author": "Dragons RFC 🐉",
-      "handle": "dragonsrfc",
-      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
-      "url": "https://x.com/dragonsrfc/status/2110279443038282105",
-      "publishedAt": "2026-10-14T08:00:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUkc97sXEAAKRUi.jpg",
-      "teamIds": [
-        "dragons"
-      ],
-      "source": "x:dragonsrfc"
-    },
-    {
-      "type": "x",
-      "id": "x:2110279441662501057",
-      "text": "Penblwydd hapus i James Ratti 🥳\n\nMwynhewch eich diwrnod arbennig // Enjoy your special day 🎂\n\n#OurBloodIsBlack https://t.co/2jq8TcJ6wh",
-      "author": "Ospreys",
-      "handle": "ospreys",
-      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
-      "url": "https://x.com/ospreys/status/2110279441662501057",
-      "publishedAt": "2026-10-14T08:00:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUgqWhZXoAA5-G8.jpg",
-      "teamIds": [
-        "ospreys"
-      ],
-      "source": "x:ospreys"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxszu4lmoc2m",
       "text": "Plenty discussed on the pod this week around Cardiff's centre partnership on Saturday, how Matty Young only got a 5/10 rating in the paper, Taine Basham for Cymru, the new WRU Chair being from N*wport, and a head v heart debate on team selection.",
@@ -780,18 +803,6 @@
       "publishedAt": "2026-10-14T07:33:56.452Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxszcijuin24",
-      "text": "The unstoppable Onisi Ratave 😤 (📹@URCOfficial) #OnisiRatave #Unstoppable #SportsHighlights",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxszcijuin24",
-      "publishedAt": "2026-10-14T07:24:04.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiethazvwh27b25kb63qtvqi2qellvu5wkokknxxs7tda5tdv4hikq",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -1286,18 +1297,6 @@
       "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mxdxbrm2mk2g",
       "publishedAt": "2026-10-08T07:37:57.390Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreibccjh4tgxsy4n4r3iv4rgo4sgnu23m2nkbbcjtnlrlauqyvqv2km",
-      "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxdx3i2wkc2i",
-      "text": "@irishwomens.bsky.social speaks to Irish international Robyn O'Connor on her meteoric rise",
-      "author": "The Leinster Playbook",
-      "handle": "lplaybook.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
-      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mxdx3i2wkc2i",
-      "publishedAt": "2026-10-08T07:34:26.054Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreidqehm6xgflbx4bjm7a7hev6fywkxcmcbgywaw7n4r543n2zpwmhm",
       "source": "lplaybook.bsky.social"
     }
   ],
