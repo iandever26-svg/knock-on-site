@@ -1,8 +1,43 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-14T10:07:06+01:00",
+  "generatedAt": "2026-10-14T11:09:55+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxtaf6lpho2z",
+      "text": "Former Scotland international Ryan Wilson is backing Jake Dalziel to earn a place in Gregor Townsend's squad next month\nAnd he says the teenage starlet can be the long-term successor to Finn Russell\n🔗 shorturl.at/NM8D5",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxtaf6lpho2z",
+      "publishedAt": "2026-10-14T09:30:48.919Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreid6j5bkqiwgbfo5fq6pg4oebifd6figo6osiwepvl4sqnblmucr4a",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxtadu6x7l2c",
+      "text": "The first Champions Cup match is in our sights 👀",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxtadu6x7l2c",
+      "publishedAt": "2026-10-14T09:30:06.847Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreig53phliflgivatfs52nxtsrel2ngrzvfqq45qpnb5hgjm6u5jhvq",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:PfMb6jB5U5Q",
+      "title": "#CASvBEN | Smith R.: \"Ci manca l’ultimo step, a Castres servirà fisicità\"",
+      "author": "BenettonRugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=PfMb6jB5U5Q",
+      "publishedAt": "2026-10-14T09:30:05.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/PfMb6jB5U5Q/hqdefault.jpg",
+      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxt6ruh2sn2a",
@@ -374,18 +409,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxrj6vs2n722",
-      "text": "A wide-ranging chat with Pierre as he discussed...\n🔝 Edinburgh's good start to the URC season\n🏆 Facing Toulon in the Challenge Cup\n⚡ His business partner Duhan van der Merwe\n💪 Prop backed to take Scotland step\nRead more 👉 shorturl.at/rbsnb",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxrj6vs2n722",
-      "publishedAt": "2026-10-13T17:03:03.126Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreib3rgzqbrkhcxdrn5zxgibb75vsbtbgif3ukgfcorf2xyegsqiq3y",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:y-jlswiBP_I",
       "title": "Macs Page and Ellis Mee combine for a stunner 🤩",
@@ -521,17 +544,6 @@
       "publishedAt": "2026-10-13T06:34:36.803Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihfqgx3kuswaj5fvg6zwq72nxsmlup2kn2b2cezmlvtc6dcpevmne",
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:TNrM0PCbpMU",
-      "title": "Spot the gap and score the try 👀",
-      "author": "BenettonRugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=TNrM0PCbpMU",
-      "publishedAt": "2026-10-12T17:00:21.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/TNrM0PCbpMU/hqdefault.jpg",
-      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
     },
     {
       "type": "bluesky",
@@ -685,18 +697,6 @@
       "publishedAt": "2026-10-10T20:30:32.472Z",
       "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxkdcay7gh2g",
-      "text": "A bonus-point win on our return home 💙\n#LEIvCAR",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxkdcay7gh2g",
-      "publishedAt": "2026-10-10T20:28:56.737Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreie3ejexabtm2lugiysltsnbw34bmny3atoj45k7jvbjrexgvf4eju",
-      "source": "leinsterrugby.bsky.social"
     },
     {
       "type": "bluesky",
