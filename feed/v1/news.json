@@ -1,8 +1,107 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T18:07:11+01:00",
+  "generatedAt": "2026-10-15T19:07:16+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwnmal45r2s",
+      "text": "So can the Wallabies strike back? | Bledisloe Cup 2026 Test 2 Preview (📹@SquidgeRugby) #Wallabies #BledisloeCup #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwnmal45r2s",
+      "publishedAt": "2026-10-15T18:05:26.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifewpsqq3wnunyrg635lfrynamw5mb7hpyifbd5h2u5ty3mn42zie",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxwni6hfw52d",
+      "text": "Scotland captain Malcolm has labelled her team-mate Evie Gallagher as the best player in the world\nAnd she's discussed her own Lions ambitions ahead of the inaugural women's tour next year\n🔗 shorturl.at/kyvtJ",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxwni6hfw52d",
+      "publishedAt": "2026-10-15T18:03:09.190Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigussu5kinjohgtemghkxbgtlcojvvh4hnjzsnce3g75iqzh2ihja",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110780908794249370",
+      "text": "Head to head. 💥\n\nYour teams for tomorrow night's European opener at Hive Stadium.\n\n🎟️ https://t.co/LAyJx5sfjp https://t.co/xjK8OSjGFk",
+      "author": "Edinburgh Rugby",
+      "handle": "EdinburghRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107140647740125184/-3l-zIiB_bigger.jpg",
+      "url": "https://x.com/EdinburghRugby/status/2110780908794249370",
+      "publishedAt": "2026-10-15T17:12:39.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUr_jO2WYAAS6K7.jpg",
+      "teamIds": [
+        "edinburgh"
+      ],
+      "source": "x:EdinburghRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110777733370253395",
+      "text": "⚡𝙍𝘼𝙋𝙄𝘿 𝙍𝙄𝙊 𝙃𝙄𝙏𝙎 1️⃣0️⃣0️⃣⚡\n\nSit back and enjoy some Rio Dyer highlights as we look ahead to his 100th game for the Men of Gwent! 🎥🏉\n\n📢 Be sure to be there tomorrow night to cheer him on! 🔊\n\n🎟️ https://t.co/uV4ltiGflh\n📞 01633 670690\n\n#WeAreGwentRugby https://t.co/ApY0wpW9Ne",
+      "author": "Dragons RFC 🐉",
+      "handle": "dragonsrfc",
+      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
+      "url": "https://x.com/dragonsrfc/status/2110777733370253395",
+      "publishedAt": "2026-10-15T17:00:02.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110723494061146112/img/T3M-nQC2NCoP3EEl.jpg",
+      "teamIds": [
+        "dragons"
+      ],
+      "source": "x:dragonsrfc"
+    },
+    {
+      "type": "x",
+      "id": "x:2110777730945966159",
+      "text": "Be there or be square. 🫵\n\nYou don't want to disappoint @EllisGenge!\n\n🎟️ https://t.co/hik0V0o88x https://t.co/ifZfss5FGD",
+      "author": "Bristol Bears 🐻",
+      "handle": "BristolBears",
+      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
+      "url": "https://x.com/BristolBears/status/2110777730945966159",
+      "publishedAt": "2026-10-15T17:00:02.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110711464172367872/img/bFfbRmurG9GidvUG.jpg",
+      "teamIds": [
+        "bristol"
+      ],
+      "source": "x:BristolBears"
+    },
+    {
+      "type": "x",
+      "id": "x:2110777728295403692",
+      "text": "🫵 Your DHL #PlayerThatDelivered for September! \n\nCongratulations to Bryn Bradley, who received the most fan votes & picks up this month's award 👏\n\n#COYQ | @DHLRugbyUK https://t.co/32dtTJ88Zz",
+      "author": "Harlequins 🃏",
+      "handle": "Harlequins",
+      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
+      "url": "https://x.com/Harlequins/status/2110777728295403692",
+      "publishedAt": "2026-10-15T17:00:01.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110769442233716736/img/zXcl-6GeCRhSxBQj.jpg",
+      "teamIds": [
+        "harlequins"
+      ],
+      "source": "x:Harlequins"
+    },
+    {
+      "type": "x",
+      "id": "x:2110777723249738133",
+      "text": "\"It's all about creating that 80-minute performance\" \n\nLana Skeldon reflects on Scotland’s challenging journey so far in the WXV Global Series and highlights the recent progress being made through hard work and dedicated training.\n\nWatch the full interview with Lana Skeldon on https://t.co/Bupkh55FMg",
+      "author": "Scottish Rugby",
+      "handle": "Scotlandteam",
+      "avatar": "https://pbs.twimg.com/profile_images/1856274139696275456/XghMgMxS_bigger.jpg",
+      "url": "https://x.com/Scotlandteam/status/2110777723249738133",
+      "publishedAt": "2026-10-15T17:00:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110724904257523712/img/IPEig-9s1KbiQJkQ.jpg",
+      "teamIds": [
+        "scotland"
+      ],
+      "source": "x:Scotlandteam"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:76m24vhrsckzqfi33uyt6snv/app.bsky.feed.post/3mxwjnjdi6c2s",
@@ -16,6 +115,21 @@
       "source": "dragonsrfc.bsky.social"
     },
     {
+      "type": "x",
+      "id": "x:2110773696734666978",
+      "text": "Racing Family 🫶\n\n🗞️ https://t.co/CAZiMqodSe\n\n#RacingFamily https://t.co/OFIsv0XOPh",
+      "author": "Racing 92",
+      "handle": "racing92",
+      "avatar": "https://pbs.twimg.com/profile_images/2079851891677085696/mG5poFwl_bigger.jpg",
+      "url": "https://x.com/racing92/status/2110773696734666978",
+      "publishedAt": "2026-10-15T16:44:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110773624915333120/img/QNCMxAMu8YH1Dkub.jpg",
+      "teamIds": [
+        "racing"
+      ],
+      "source": "x:racing92"
+    },
+    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxwi62shmc24",
       "text": "Tough test for the Rags tonight with a good few changes and key players missing.\nAdd in a good crowd in the parts of the stadium that are open and what is forecast to be a very wet evening.\nSwansea have been close to winning a number of games, any Cardiff win would be great.",
@@ -26,6 +140,19 @@
       "publishedAt": "2026-10-15T16:28:01.725Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110765674716950808",
+      "text": "Quelques secondes pour faire la différence. Et tout le monde dans le rétro ⚡️\n\nDavit Niniashvili ou Sireli Maqala : qui a été le plus rapide ?\n\nÀ vous de départager les deux Coups de Jus avec Andros 🧃\n\n#CoupDeJusTOP14 | #AndrosxTOP14 https://t.co/oF4OeqJ4B9",
+      "author": "TOP 14 Rugby",
+      "handle": "top14rugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_bigger.jpg",
+      "url": "https://x.com/top14rugby/status/2110765674716950808",
+      "publishedAt": "2026-10-15T16:12:07.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110765548690722816/img/XYHy7TISqjHs11vW.jpg",
+      "teamIds": [],
+      "source": "x:top14rugby"
     },
     {
       "type": "x",
@@ -81,6 +208,21 @@
     },
     {
       "type": "x",
+      "id": "x:2110762634387812717",
+      "text": "Putting in the work ahead of tomorrow's @ChampionsCup opener. 💪\n\nJoin us 👉 https://t.co/W2hCYdjoHM https://t.co/nj84RPQ4Gg",
+      "author": "Gloucester Rugby 🍒",
+      "handle": "gloucesterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1808786958673481728/9MztoY2U_bigger.jpg",
+      "url": "https://x.com/gloucesterrugby/status/2110762634387812717",
+      "publishedAt": "2026-10-15T16:00:02.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110513284159856640/img/gO-v0HMXfkecas1C.jpg",
+      "teamIds": [
+        "gloucester"
+      ],
+      "source": "x:gloucesterrugby"
+    },
+    {
+      "type": "x",
       "id": "x:2110762630780473601",
       "text": "🐉 𝙈𝙔 𝘾𝙇𝙐𝘽 - 𝙀𝙋𝙄𝙎𝙊𝘿𝙀 𝙏𝙒𝙊 𝘿𝙍𝘼𝙂𝙊𝙉𝙎 𝘼𝙇𝙇𝙎𝙏𝘼𝙍𝙎 𝙄𝙉𝘾𝙇𝙐𝙎𝙄𝙑𝙀 𝙏𝙊𝙐𝘾𝙃 🌟🏉\n\nMeet both players and coaches of this great family. 🗣️🎤\n\nTo get involved contact them via their Facebook page or email dragonsmixedtouch@gmail.com. 📧\n\n#WeAreGwentRugby https://t.co/nj6kWctVAG",
       "author": "Dragons RFC 🐉",
@@ -111,6 +253,21 @@
     },
     {
       "type": "x",
+      "id": "x:2110762623646200231",
+      "text": "Who you got 🧐?\n\n🏆 Pick your Starting XV for our EPCR Challenge Cup opener 👉 https://t.co/aSDzdGNdFB\n\n#COYQ https://t.co/5l3bhQUvaF",
+      "author": "Harlequins 🃏",
+      "handle": "Harlequins",
+      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
+      "url": "https://x.com/Harlequins/status/2110762623646200231",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUrSLyxXEAABuxx.jpg",
+      "teamIds": [
+        "harlequins"
+      ],
+      "source": "x:Harlequins"
+    },
+    {
+      "type": "x",
       "id": "x:2110762394423103923",
       "text": "Travel Diaries 📸\n\nOn the road in Lyon 🇫🇷\n\n#SharksRugbyClub #BlackWhiteForever https://t.co/b1JTWUrukL",
       "author": "Sharks Rugby Club",
@@ -123,6 +280,81 @@
         "sharks"
       ],
       "source": "x:SharksRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110759383982342536",
+      "text": "🥊 Welcoming Chantelle Cameron\n🎟️ Tickets available\n🎵 Matchday entertainment\n🚗 Parking info\n🌭 Food and drink offerings\n\nAhead of our Investec Champions Cup opener, here’s everything you need to know.\n\nhttps://t.co/cLyFkTV9jI https://t.co/eb4ys8T5s9",
+      "author": "Northampton Saints 😇",
+      "handle": "SaintsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1988900674784866305/sfjuv-iG_bigger.jpg",
+      "url": "https://x.com/SaintsRugby/status/2110759383982342536",
+      "publishedAt": "2026-10-15T15:47:07.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUrr_nkWEAAGlHw.jpg",
+      "teamIds": [
+        "northampton"
+      ],
+      "source": "x:SaintsRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110759362960806079",
+      "text": "Week-end de matchs de l'association 👊 https://t.co/1hKv8wC6k4",
+      "author": "Stade Français Paris",
+      "handle": "SFParisRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1742121351714848768/r5ASIpJK_bigger.jpg",
+      "url": "https://x.com/SFParisRugby/status/2110759362960806079",
+      "publishedAt": "2026-10-15T15:47:02.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUrsPGQW4AAeD-u.jpg",
+      "teamIds": [
+        "stade-francais"
+      ],
+      "source": "x:SFParisRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110759065106411674",
+      "text": "Une nouvelle carte dans la collection, et pas n'importe laquelle ! 🆕🎴\n\n@LewisLudlam prolonge l'aventure Rouge & Noir jusqu'en 2029 ! ❤️🖤\n\nLe communiqué 👉 https://t.co/KTwQv1gHi9 https://t.co/B4yChhdohu",
+      "author": "RCT – Rugby Club Toulonnais",
+      "handle": "RCTofficiel",
+      "avatar": "https://pbs.twimg.com/profile_images/2109904523674198016/izi3_RW9_bigger.jpg",
+      "url": "https://x.com/RCTofficiel/status/2110759065106411674",
+      "publishedAt": "2026-10-15T15:45:51.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUrpU-SXkAELWcA.jpg",
+      "teamIds": [
+        "toulon"
+      ],
+      "source": "x:RCTofficiel"
+    },
+    {
+      "type": "x",
+      "id": "x:2110758965919277236",
+      "text": "💚🎙️un petit nouveau s’est incrusté à l’entraînement du jour..\n\n📲nouveau maillot third disponibles dans nos trois boutiques et en ligne ! https://t.co/LAWTYumK0U",
+      "author": "USAP",
+      "handle": "usap_officiel",
+      "avatar": "https://pbs.twimg.com/profile_images/1996139539996229632/yW83N5Na_bigger.jpg",
+      "url": "https://x.com/usap_officiel/status/2110758965919277236",
+      "publishedAt": "2026-10-15T15:45:28.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110758857127436288/img/ULXB7BTqSXzMOdmr.jpg",
+      "teamIds": [
+        "perpignan"
+      ],
+      "source": "x:usap_officiel"
+    },
+    {
+      "type": "x",
+      "id": "x:2110758849489805801",
+      "text": "Montpellier, cousue au fil de notre histoire. 💙\n\nL'écusson de Montpellier, les symboles historiques du club, les dates-clés, les lieux emblématiques de notre ville viennent décorer un tableau plus montpelliérain que jamais.\n\nDisponible dès maintenant https://t.co/ONUIyHOklr https://t.co/KTlvIL6ifu",
+      "author": "Montpellier Hérault Rugby",
+      "handle": "MHR_officiel",
+      "avatar": "https://pbs.twimg.com/profile_images/2106411988607709184/1c9is3HI_bigger.jpg",
+      "url": "https://x.com/MHR_officiel/status/2110758849489805801",
+      "publishedAt": "2026-10-15T15:45:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110742871515045888/img/XoxOKMrKXY936Zyk.jpg",
+      "teamIds": [
+        "montpellier"
+      ],
+      "source": "x:MHR_officiel"
     },
     {
       "type": "x",
@@ -155,6 +387,66 @@
       "source": "x:Munsterrugby"
     },
     {
+      "type": "x",
+      "id": "x:2110754570997559432",
+      "text": "Opéré de la cheville cette semaine, Noah Nene sera éloigné des terrains pour plusieurs semaines.\n\nBon rétablissement Noah 🩷 https://t.co/tsrjJWyhy7",
+      "author": "Stade Français Paris",
+      "handle": "SFParisRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1742121351714848768/r5ASIpJK_bigger.jpg",
+      "url": "https://x.com/SFParisRugby/status/2110754570997559432",
+      "publishedAt": "2026-10-15T15:28:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUq-XgjWcAA8OP3.jpg",
+      "teamIds": [
+        "stade-francais"
+      ],
+      "source": "x:SFParisRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110754490731159626",
+      "text": "Bear Country is calling. 🤳\n\nYou still have time to get 🔐 in for the rest of the campaign with a 2026/27 Season Ticket, including #BigDayOut at @principalitysta!\n\n🐻 Adult tickets from £238 \n🧒 Under-12s tickets from £69 \n\n🎟️ https://t.co/5KuFO130kp https://t.co/NXiFEsakOr",
+      "author": "Bristol Bears 🐻",
+      "handle": "BristolBears",
+      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
+      "url": "https://x.com/BristolBears/status/2110754490731159626",
+      "publishedAt": "2026-10-15T15:27:41.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUrmBgeWoAAAo77.jpg",
+      "teamIds": [
+        "bristol"
+      ],
+      "source": "x:BristolBears"
+    },
+    {
+      "type": "x",
+      "id": "x:2110754370686005755",
+      "text": "Bear Country is calling. 🤳\n\nYou still have time to get 🔐 in for the rest of the campaign with a 2026/27 Season Ticket, including #BigDayOut at @principalitysta!\n\n🐻 Adult tickets from £238 \n🧒 Under-12s tickets from £69 \n👕 FREE replica shirt for U12s\n\n🎟️ https://t.co/vMplAzQRTg",
+      "author": "Bristol Bears 🐻",
+      "handle": "BristolBears",
+      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
+      "url": "https://x.com/BristolBears/status/2110754370686005755",
+      "publishedAt": "2026-10-15T15:27:12.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUrmBgeWoAAAo77.jpg",
+      "teamIds": [
+        "bristol"
+      ],
+      "source": "x:BristolBears"
+    },
+    {
+      "type": "x",
+      "id": "x:2110754279422095670",
+      "text": "Oui oui, samedi, on a hâte de retrouver vos 𝙨𝙤𝙪𝙧𝙞𝙧𝙚𝙨 🫂\n\n💛 Rendez-vous à partir de 𝟭𝟲𝗵𝟯𝟬 pour l'ouverture de la @ChampionsCup à Deflandre !\n\n#SRvLIO | #InvestecChampionsCup | #FievreSR https://t.co/Rj8wZzLlRc",
+      "author": "Stade Rochelais",
+      "handle": "staderochelais",
+      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
+      "url": "https://x.com/staderochelais/status/2110754279422095670",
+      "publishedAt": "2026-10-15T15:26:50.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110753354200518656/img/WTIUG3GPgaqS2SLP.jpg",
+      "teamIds": [
+        "la-rochelle"
+      ],
+      "source": "x:staderochelais"
+    },
+    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwe3rw2yl2t",
       "text": "Man Utd And Martinez, Haaland's Moral Core (🎙️@SecondCaptains) #ManUtd #Martinez #Haaland",
@@ -165,6 +457,21 @@
       "publishedAt": "2026-10-15T15:14:59.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifo6odcejf4uljfn777nwljqntfuj63jbgyrw64i5oybn4b6vvinq",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110750706462531745",
+      "text": "Un nouveau booster vient d'arriver… 👀 https://t.co/lLCAuaReGu",
+      "author": "RCT – Rugby Club Toulonnais",
+      "handle": "RCTofficiel",
+      "avatar": "https://pbs.twimg.com/profile_images/2109904523674198016/izi3_RW9_bigger.jpg",
+      "url": "https://x.com/RCTofficiel/status/2110750706462531745",
+      "publishedAt": "2026-10-15T15:12:38.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110750408251461632/img/fE0TOsQK76E9siRW.jpg",
+      "teamIds": [
+        "toulon"
+      ],
+      "source": "x:RCTofficiel"
     },
     {
       "type": "x",
@@ -379,49 +686,6 @@
       "source": "x:Harlequins"
     },
     {
-      "type": "x",
-      "id": "x:2110725470006174029",
-      "text": "𝐏𝐎𝐈𝐍𝐓 𝐁𝐋𝐄𝐒𝐒𝐄𝐒 🚑\n\nRetrouvez le point sur l’infirmerie des Rouge & Noir avant le déplacement en Écosse, présenté par notre partenaire #BTL 🤝\n\n👉 https://t.co/kwGkq8VugS https://t.co/Jev0t3PPhH",
-      "author": "RCT – Rugby Club Toulonnais",
-      "handle": "RCTofficiel",
-      "avatar": "https://pbs.twimg.com/profile_images/2109904523674198016/izi3_RW9_bigger.jpg",
-      "url": "https://x.com/RCTofficiel/status/2110725470006174029",
-      "publishedAt": "2026-10-15T13:32:22.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrNiG1XMAAbVlg.jpg",
-      "teamIds": [
-        "toulon"
-      ],
-      "source": "x:RCTofficiel"
-    },
-    {
-      "type": "x",
-      "id": "x:2110724879133901230",
-      "text": "Final push 🫸 https://t.co/J6ZunF135G",
-      "author": "Scottish Rugby",
-      "handle": "Scotlandteam",
-      "avatar": "https://pbs.twimg.com/profile_images/1856274139696275456/XghMgMxS_bigger.jpg",
-      "url": "https://x.com/Scotlandteam/status/2110724879133901230",
-      "publishedAt": "2026-10-15T13:30:01.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUq_AG-XsAAKqgT.jpg",
-      "teamIds": [
-        "scotland"
-      ],
-      "source": "x:Scotlandteam"
-    },
-    {
-      "type": "x",
-      "id": "x:2110723642367647868",
-      "text": "C'est fort l'accélération ⚡️👏 https://t.co/nwRq7tHAmY",
-      "author": "TOP 14 Rugby",
-      "handle": "top14rugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_bigger.jpg",
-      "url": "https://x.com/top14rugby/status/2110723642367647868",
-      "publishedAt": "2026-10-15T13:25:06.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110723533567389696/img/oGDdEvzvo5oIF7D9.jpg",
-      "teamIds": [],
-      "source": "x:top14rugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxw5wn3yvq22",
       "text": "Alessandro Fusco gets it moving 🔥 (📹@URCOfficial) #AlessandroFusco #Motivation #GetMoving",
@@ -434,51 +698,6 @@
       "source": "rugbynewsplus.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2110723524067270938",
-      "text": "❌ The Residency - SOLD OUT\n❌ The Bridge & Suites - SOLD OUT\n\nElevate your matchday for Derby Weekend with Club Pravha or The Crossbar and make it a day to remember in Bear Country!\n\n🥂 https://t.co/300SpRtqvL https://t.co/SYMtLVoc7m",
-      "author": "Bristol Bears 🐻",
-      "handle": "BristolBears",
-      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
-      "url": "https://x.com/BristolBears/status/2110723524067270938",
-      "publishedAt": "2026-10-15T13:24:38.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110716775885103104/img/6xHr1rHBg4G3voxm.jpg",
-      "teamIds": [
-        "bristol"
-      ],
-      "source": "x:BristolBears"
-    },
-    {
-      "type": "x",
-      "id": "x:2110722687790100965",
-      "text": "New competition. New opposition. 🦁🔥 \nGet to know @staderochelais before we take them on in our Investec Champions Cup debut this Saturday.\n#InvestecChampionsCup | #ForOurCity | #LionsPride🦁 https://t.co/Hm3fk9yuq3",
-      "author": "Lions",
-      "handle": "LionsRugbyCo",
-      "avatar": "https://pbs.twimg.com/profile_images/1288898544645144578/dNPdChOX_bigger.jpg",
-      "url": "https://x.com/LionsRugbyCo/status/2110722687790100965",
-      "publishedAt": "2026-10-15T13:21:18.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrK1KJXUAEKWre.jpg",
-      "teamIds": [
-        "lions"
-      ],
-      "source": "x:LionsRugbyCo"
-    },
-    {
-      "type": "x",
-      "id": "x:2110720197757694007",
-      "text": "We are seeking enthusiastic Season Ticket Holders to join the Club’s Halos volunteer team and help deliver the warm welcome that makes DPD Stadium at Franklin’s Gardens such a special place on matchdays 😇\n\nTo find out more, or apply for the 2026/27 season, tap below.\n\nhttps://t.co/g4lJ04tZl4",
-      "author": "Northampton Saints 😇",
-      "handle": "SaintsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1988900674784866305/sfjuv-iG_bigger.jpg",
-      "url": "https://x.com/SaintsRugby/status/2110720197757694007",
-      "publishedAt": "2026-10-15T13:11:25.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "northampton"
-      ],
-      "source": "x:SaintsRugby"
-    },
-    {
       "type": "youtube",
       "id": "yt:IfA1y_tgA9Y",
       "title": "Alessandro Fusco gets it moving 🔥",
@@ -488,139 +707,6 @@
       "publishedAt": "2026-10-15T13:00:08.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/IfA1y_tgA9Y/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "x",
-      "id": "x:2110717327004381246",
-      "text": "Harlequins are pleased to confirm an additional fixture for the Jesters next weekend 🃏\n\n🆚 Edinburgh Rugby A\n📆 Sat 24 Oct, KO 15:00 \n📍 Richmond Athletic Ground\n\nInformation on access to the fixture will be confirmed early next week.\n\n#COYQ https://t.co/BtRX05AKnu",
-      "author": "Harlequins 🃏",
-      "handle": "Harlequins",
-      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
-      "url": "https://x.com/Harlequins/status/2110717327004381246",
-      "publishedAt": "2026-10-15T13:00:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUq7cqFXEAA_rPb.jpg",
-      "teamIds": [
-        "harlequins"
-      ],
-      "source": "x:Harlequins"
-    },
-    {
-      "type": "x",
-      "id": "x:2110715860037910894",
-      "text": "Look who is back 😀\n\n@ChampionsCup | @Investec https://t.co/aIFWKnW6bW",
-      "author": "Official Blue Bulls",
-      "handle": "BlueBullsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
-      "url": "https://x.com/BlueBullsRugby/status/2110715860037910894",
-      "publishedAt": "2026-10-15T12:54:10.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrCVpBXAAE_4V-.jpg",
-      "teamIds": [
-        "bulls"
-      ],
-      "source": "x:BlueBullsRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110712865061732473",
-      "text": "70% of the lower bowl - gone! 🤯\n\nEarly Bird tickets still available for the Coastal Derby against the DHL Stormers.\n\n#SharksRugbyClub #BlackWhiteForever https://t.co/EwgsMBgHx3",
-      "author": "Sharks Rugby Club",
-      "handle": "SharksRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2108105864909312000/tbCzWA0T_bigger.jpg",
-      "url": "https://x.com/SharksRugby/status/2110712865061732473",
-      "publishedAt": "2026-10-15T12:42:16.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrAZAnX0AAAunM.jpg",
-      "teamIds": [
-        "sharks"
-      ],
-      "source": "x:SharksRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110711736471056888",
-      "text": "Pure power from Caelan. 😳 https://t.co/o1iwthxyqX",
-      "author": "Irish Rugby",
-      "handle": "IrishRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2013579995612917760/vv0fi-Pq_bigger.jpg",
-      "url": "https://x.com/IrishRugby/status/2110711736471056888",
-      "publishedAt": "2026-10-15T12:37:47.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110711507164012544/img/ntL0OVUqs3F2ba5w.jpg",
-      "teamIds": [
-        "ireland"
-      ],
-      "source": "x:IrishRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110710434772984264",
-      "text": "From the archives: 2017 🎥\n\nv Zebre https://t.co/x2RqbX2fZE",
-      "author": "Ulster Rugby",
-      "handle": "UlsterRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1807735739297251328/5Dhp1fAe_bigger.jpg",
-      "url": "https://x.com/UlsterRugby/status/2110710434772984264",
-      "publishedAt": "2026-10-15T12:32:37.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110680354608623616/img/DUMSLe9HeiH_Avt-.jpg",
-      "teamIds": [
-        "ulster"
-      ],
-      "source": "x:UlsterRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110710153422970901",
-      "text": "Good luck to all our teams in Round 1 🌍🏉\n\n#InvestecChampionsCup | #ChallengeCupRugby https://t.co/f6ZKA5IiaO",
-      "author": "BKT United Rugby Championship (URC)",
-      "handle": "URCOfficial",
-      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
-      "url": "https://x.com/URCOfficial/status/2110710153422970901",
-      "publishedAt": "2026-10-15T12:31:30.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUqrekPWkAAc0pG.jpg",
-      "teamIds": [],
-      "source": "x:URCOfficial"
-    },
-    {
-      "type": "x",
-      "id": "x:2110706415962615841",
-      "text": "Vous êtes à l'affut 👀\n\nÇa part vite alors ne tardez pas à prendre vos places 🎟️ https://t.co/kAiuEsB4QE https://t.co/s3HuRr92DW",
-      "author": "Stade Français Paris",
-      "handle": "SFParisRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1742121351714848768/r5ASIpJK_bigger.jpg",
-      "url": "https://x.com/SFParisRugby/status/2110706415962615841",
-      "publishedAt": "2026-10-15T12:16:39.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUq78LHWwAAmvD5.jpg",
-      "teamIds": [
-        "stade-francais"
-      ],
-      "source": "x:SFParisRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110705997455020455",
-      "text": "This Sunday sees the last eight of the Energia All-Ireland Women’s Junior Cup face off for a place in the Semi Finals. https://t.co/KZ5v7T05pM",
-      "author": "Irish Rugby",
-      "handle": "IrishRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2013579995612917760/vv0fi-Pq_bigger.jpg",
-      "url": "https://x.com/IrishRugby/status/2110705997455020455",
-      "publishedAt": "2026-10-15T12:14:59.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUq76pyWQAAV9Yn.jpg",
-      "teamIds": [
-        "ireland"
-      ],
-      "source": "x:IrishRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110705984901706087",
-      "text": "𝑳'𝒂𝒅𝒗𝒆𝒓𝒔𝒂𝒊𝒓𝒆 🏴󠁧󠁢󠁳󠁣󠁴󠁿\n\nEn cette veille de match face à Edimbourg, focus sur notre adversaire du week-end avec quelques chiffres marquants 📊\nhttps://t.co/mNzNMwFMS6",
-      "author": "RCT – Rugby Club Toulonnais",
-      "handle": "RCTofficiel",
-      "avatar": "https://pbs.twimg.com/profile_images/2109904523674198016/izi3_RW9_bigger.jpg",
-      "url": "https://x.com/RCTofficiel/status/2110705984901706087",
-      "publishedAt": "2026-10-15T12:14:56.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "toulon"
-      ],
-      "source": "x:RCTofficiel"
     },
     {
       "type": "bluesky",
@@ -635,48 +721,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxvzljuelq2s",
-      "text": "Nou Camp and Bernabeu feature in Spain's 2035 RWC bid (✍️@rugby_ie) #WorldCup #RWC2035 #Spain",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxvzljuelq2s",
-      "publishedAt": "2026-10-15T12:07:07.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihfjmckuoiizl7j7zfgg6jar7w4yt64urpjmwlavtwnjkqaptbway",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2110703310130802948",
-      "text": "Eyes on Challenge Cup 👀\n\n#BenettonRugby #WeAreLions https://t.co/G04BPp2R2O",
-      "author": "Benetton Rugby 🦁",
-      "handle": "BenettonRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107800809316425728/hbrhjN9A_bigger.jpg",
-      "url": "https://x.com/BenettonRugby/status/2110703310130802948",
-      "publishedAt": "2026-10-15T12:04:18.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUq5ci0X0AApmzU.jpg",
-      "teamIds": [
-        "benetton"
-      ],
-      "source": "x:BenettonRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110702827471253558",
-      "text": "Much more than just match day. See what goes into the build-up and on the big day behind the scenes each week.\n\nWatch it all Unfiltered on Stormers TV 👇 \n\nhttps://t.co/jyY1r8iN1A https://t.co/TkQ8h8TWPu",
-      "author": "DHL Stormers",
-      "handle": "THESTORMERS",
-      "avatar": "https://pbs.twimg.com/profile_images/2109556734381498368/CXO-R1_p_bigger.jpg",
-      "url": "https://x.com/THESTORMERS/status/2110702827471253558",
-      "publishedAt": "2026-10-15T12:02:23.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110702518225297408/img/etU2YdWjACoqn9CB.jpg",
-      "teamIds": [
-        "stormers"
-      ],
-      "source": "x:THESTORMERS"
-    },
-    {
       "type": "youtube",
       "id": "yt:m7FxcOuLsvQ",
       "title": "Who's ready for Darcy tomorrow night?  #rugby #edinburghrugby #highlights #hype #montage #metallica",
@@ -686,36 +730,6 @@
       "publishedAt": "2026-10-15T12:00:35.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/m7FxcOuLsvQ/hqdefault.jpg",
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
-    },
-    {
-      "type": "x",
-      "id": "x:2110702283948486841",
-      "text": "Closing date pushed to October 21st 👇 https://t.co/HpPliFBmAQ",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
-      "url": "https://x.com/connachtrugby/status/2110702283948486841",
-      "publishedAt": "2026-10-15T12:00:14.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "connacht"
-      ],
-      "source": "x:connachtrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110702233314553967",
-      "text": "🗣️ \"What an opportunity.\"\n\nDan Robson relishing the chance to take on double European champions at Kingsholm tomorrow evening.\n\n📺 https://t.co/h17HpAOyAD\n🎟️ https://t.co/W2hCYdiQSe\n🤝 @QuaysideWealth \n\n#GLOvUBB | 🍒🍇 https://t.co/7TgxkVktRl",
-      "author": "Gloucester Rugby 🍒",
-      "handle": "gloucesterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1808786958673481728/9MztoY2U_bigger.jpg",
-      "url": "https://x.com/gloucesterrugby/status/2110702233314553967",
-      "publishedAt": "2026-10-15T12:00:02.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110515425129758720/img/7si5wkUOt56rRbvd.jpg",
-      "teamIds": [
-        "gloucester"
-      ],
-      "source": "x:gloucesterrugby"
     },
     {
       "type": "bluesky",
@@ -810,18 +824,6 @@
       "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxvfactfs522",
       "publishedAt": "2026-10-15T06:02:55.238Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihwlwyef5cl25hgethvo5pnbnmoh43wpzp3axcofbeyuiqi572m2q",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxvbu3n76a2d",
-      "text": "ICYMI | Here is the Scotland team to face Australia in Sydney on Saturday\n🚨PLEASE NOTE: The game kicks off at 2am UK time,  not 3am as previously advertised\n🔗 shorturl.at/uXSFw",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxvbu3n76a2d",
-      "publishedAt": "2026-10-15T05:02:21.304Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreieospn7jcrfidkepeitjjtontdbt4b3bpuqgv3n52emeki3qkn6na",
       "source": "scotlandrugbynews.bsky.social"
     },
     {
