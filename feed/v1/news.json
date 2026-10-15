@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T06:36:24+01:00",
+  "generatedAt": "2026-10-15T07:09:32+01:00",
   "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxvfe2y4r62a",
+      "text": "James Ryan on new-look mauls, Leinster's evolving attack and the hunt for that fifth star (✍️@rugby_ie) #JamesRyan #Leinster #ChampionsCup",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxvfe2y4r62a",
+      "publishedAt": "2026-10-15T06:05:02.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreian2klkb3ve53mjzgimyov36sz76roi7zzb4bded6ypfwneyfnanu",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxvfactfs522",
+      "text": "Scotland hooker Ewan Ashman insists he is unfazed by the rising crop of young talent snapping at his heels for club and country\n🔗 shorturl.at/2i8Jz",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxvfactfs522",
+      "publishedAt": "2026-10-15T06:02:55.238Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihwlwyef5cl25hgethvo5pnbnmoh43wpzp3axcofbeyuiqi572m2q",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxveah7ijk2v",
+      "text": "Molecast #210 (🎙️@dementedmole) #Molecast #Podcast #SupportCreators",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxveah7ijk2v",
+      "publishedAt": "2026-10-15T05:45:07.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreid4cyxlsyhzfr637qoqgneliwgl4pxu7zww56obsqwoq2n6umziii",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxvbw54odf2c",
@@ -171,18 +207,6 @@
       "source": "cardiffrugbylife.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxtmaz2oc52l",
-      "text": "Beaten in the air 🫡 (📹@URCOfficial) #BeatenInTheAir #AirFight #ChallengeAccepted",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxtmaz2oc52l",
-      "publishedAt": "2026-10-14T13:03:16.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifwhahdp5aepfzipintfng75t2ygpx4hcstxf2pfdadyzef5753xa",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:SU95pRjGFf8",
       "title": "Beaten in the air 🫡",
@@ -215,18 +239,6 @@
       "publishedAt": "2026-10-14T12:41:51.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/STuXW-wYcuA/hqdefault.jpg",
       "source": "UC7991AZNku42o3Y36kUZOJA"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxtgzuihr62v",
-      "text": "Sam Prendergast Shines as Leinster Celebrate RDS Return | Cardiff Reaction (📹@HarpinOnRugby) #Leinster #Cardiff #URC",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxtgzuihr62v",
-      "publishedAt": "2026-10-14T11:29:47.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreics34ivammjwnchq5irju35iw5d67zebsaubldvumqshrb43t3klq",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -297,18 +309,6 @@
       "publishedAt": "2026-10-14T09:01:28.343Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreieq6hbnmeoxfb6n4bq34kkkoew5kbbebn3duaum3bywogqynoqng4",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxt3fbmvgp2d",
-      "text": "😮 'Bitterly disappointed' over Edinburgh exit\n🐯 Grateful to Leicester for lifeline last season\n🇫🇷   Embracing a new chapter with Castres\nRead our exclusive interview with Scotland star Hamish Watson 👇\n🔗 shorturl.at/wBdlI",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxt3fbmvgp2d",
-      "publishedAt": "2026-10-14T08:01:25.555Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifwjmcelxmotqjgnj7vq6z6zuohf45x7araspu2eeyi353bombhhi",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -736,7 +736,7 @@
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
       "ok": false,
-      "error": "HTTP 500",
+      "error": "HTTP 404",
       "kept": 0
     },
     {
