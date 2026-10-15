@@ -1,8 +1,87 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T19:07:16+01:00",
+  "generatedAt": "2026-10-15T20:31:31+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxwrt7ctas2c",
+      "text": "Swansea 15-3 Cardiff HT\nLeaving the refereeing aside it’s not been up to the required standard from Cardiff.\nLacking physicality at the gain line and being completely out-kicked.\nNeed to be much smarter in the second half.\n#BlueAndBlacks",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxwrt7ctas2c",
+      "publishedAt": "2026-10-15T19:20:54.773Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxwqxnv3bc2c",
+      "text": "Assuming there’s no TMO in this live SRC game? Otherwise the Swansea 7 would have a clear red card.\n#BlueAndBlacks",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxwqxnv3bc2c",
+      "publishedAt": "2026-10-15T19:05:30.528Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxwqwc2vgj2g",
+      "text": "WATCH | Gavin Harper joins Bruce Aitchison to look ahead to Edinburgh's Challenge Cup clash with Toulon as Darcy Graham returns for the capital club.\nWe also discuss Scotland Women's WXV clash with Australia\n👉 www.youtube.com/watch?v=tqv...",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxwqwc2vgj2g",
+      "publishedAt": "2026-10-15T19:04:42.243Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif3kguhfvjtxcwgmm5rzxwvivydogw7ymhd22t4b4a4vxcf2x5e4y",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110800418678665625",
+      "text": "Game respect game 🤝 \n\nGreat to welcome @ChicagoBears to Scotstoun today, as they continue their UK tour in Glasgow this week 🏈 https://t.co/vACTWBselO",
+      "author": "Glasgow Warriors",
+      "handle": "GlasgowWarriors",
+      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
+      "url": "https://x.com/GlasgowWarriors/status/2110800418678665625",
+      "publishedAt": "2026-10-15T18:30:11.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUsRx49WcAAIp3J.jpg",
+      "teamIds": [
+        "glasgow"
+      ],
+      "source": "x:GlasgowWarriors"
+    },
+    {
+      "type": "x",
+      "id": "x:2110800373061730488",
+      "text": "⚡ 𝙍𝙄𝙊 1️⃣0️⃣0️⃣ | 🗣️ Hear from the man of the hour Rio Dyer who is set to make his 100th Dragons appearance tomorrow night against Perpignan. 🐉👏 \n\nMake sure you\\re there to support him and the team tomorrow night!👇\n\n🎟️ https://t.co/uV4ltiGNaP\n📞 01633 670690\n\n#WeAreGwentRugby https://t.co/q19sdQjUd2",
+      "author": "Dragons RFC 🐉",
+      "handle": "dragonsrfc",
+      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
+      "url": "https://x.com/dragonsrfc/status/2110800373061730488",
+      "publishedAt": "2026-10-15T18:30:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110791850923626496/img/DYJQ3GEyN-A2Xjf5.jpg",
+      "teamIds": [
+        "dragons"
+      ],
+      "source": "x:dragonsrfc"
+    },
+    {
+      "type": "x",
+      "id": "x:2110797412633645432",
+      "text": "UBB's newest lock means business 😮‍💨🍇\n\n#InvestecChampionsCup #Rugby https://t.co/NoQ11P23YG",
+      "author": "Investec Champions Cup",
+      "handle": "ChampionsCup",
+      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
+      "url": "https://x.com/ChampionsCup/status/2110797412633645432",
+      "publishedAt": "2026-10-15T18:18:14.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUsPD6QW0AA1c_p.jpg",
+      "teamIds": [],
+      "source": "x:ChampionsCup"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwnmal45r2s",
@@ -26,6 +105,36 @@
       "publishedAt": "2026-10-15T18:03:09.190Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigussu5kinjohgtemghkxbgtlcojvvh4hnjzsnce3g75iqzh2ihja",
       "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110790536428695860",
+      "text": "🎙️ \"Every match presents a new challenge. 𝗪𝗲 𝗵𝗮𝘃𝗲 𝘁𝗼 𝗲𝗮𝗿𝗻 𝘁𝗵𝗲 𝗿𝗶𝗴𝗵𝘁 𝘁𝗼 𝘄𝗶𝗻!\"\n\nVodacom Bulls Head Coach Johan Ackermann emphasises that nothing is guaranteed as the team prepares for their Investec Champions Cup clash.\n\n14h00 | Loftus Versfeld | Stade Français.",
+      "author": "Official Blue Bulls",
+      "handle": "BlueBullsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
+      "url": "https://x.com/BlueBullsRugby/status/2110790536428695860",
+      "publishedAt": "2026-10-15T17:50:55.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110789329366753280/img/swFWWQ6HKYvt0iJy.jpg",
+      "teamIds": [
+        "bulls"
+      ],
+      "source": "x:BlueBullsRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110789514792935626",
+      "text": "Team news for our opening @ChampionsCup game drops tomorrow midday 🗞️\n\n#OneConnacht https://t.co/qS8F1XGiV9",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
+      "url": "https://x.com/connachtrugby/status/2110789514792935626",
+      "publishedAt": "2026-10-15T17:46:51.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUsH36BWQAAzsjg.jpg",
+      "teamIds": [
+        "connacht"
+      ],
+      "source": "x:connachtrugby"
     },
     {
       "type": "x",
@@ -599,36 +708,6 @@
       "source": "x:Scotlandteam"
     },
     {
-      "type": "x",
-      "id": "x:2110742298229383444",
-      "text": "The Kadoma Driller on a mission 🇿🇼\n\nTino Mavesere heads to Europe with a big season for club and country ahead of him. \n\nOne to watch in France, Wales and Ireland 👀\n\n#HollywoodbetsSharks #BlackWhiteForever \n\n(© Steve Haag Sports) https://t.co/c5zZwo9tkq",
-      "author": "Sharks Rugby Club",
-      "handle": "SharksRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2108105864909312000/tbCzWA0T_bigger.jpg",
-      "url": "https://x.com/SharksRugby/status/2110742298229383444",
-      "publishedAt": "2026-10-15T14:39:14.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrBCYFWAAA_PSR.jpg",
-      "teamIds": [
-        "sharks"
-      ],
-      "source": "x:SharksRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110739392419815699",
-      "text": "𝙈𝙖𝙧𝙙𝙞, on ouvre nos portes 🫵\n\nÀ l'occasion des vacances scolaires - et avant le défi bordelais - venez profiter de 𝗹'𝗲𝗻𝘁𝗿𝗮𝗶̂𝗻𝗲𝗺𝗲𝗻𝘁 des joueurs à Deflandre 💛\n\n#SRUBB | #Top14 | #FievreSR\nhttps://t.co/lcgSH8ZGxC",
-      "author": "Stade Rochelais",
-      "handle": "staderochelais",
-      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
-      "url": "https://x.com/staderochelais/status/2110739392419815699",
-      "publishedAt": "2026-10-15T14:27:41.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "la-rochelle"
-      ],
-      "source": "x:staderochelais"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwbgs7yyo2g",
       "text": "Edogbo signs new contract up to 2029 (✍️@RTErugby) #EdwinEdogbo #MunsterRugby #IRFU",
@@ -639,51 +718,6 @@
       "publishedAt": "2026-10-15T14:27:38.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreianfwqmnoavbuxylvyyqbhj24vz3cucnm5ldcrkv73nx6greddj5y",
       "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2110732759807250491",
-      "text": "🔒 Locked in.\n\nFrom Cobh to the international stage ☘️\n\nEdwin Edogbo has signed a new two-year contract extension, keeping him at Munster until at least 2029 🦌\n\n#SUAF 🔴 https://t.co/S6511vsXYf",
-      "author": "Munster Rugby",
-      "handle": "Munsterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2110417394795511808/MFQIU77q_bigger.jpg",
-      "url": "https://x.com/Munsterrugby/status/2110732759807250491",
-      "publishedAt": "2026-10-15T14:01:20.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrTFVtXAAELofP.jpg",
-      "teamIds": [
-        "munster"
-      ],
-      "source": "x:Munsterrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110732547835433424",
-      "text": "Not long now whānau ⏱️ \n\n#TudorWatch // Kick-off times. https://t.co/2FvYSx9bUq",
-      "author": "All Blacks",
-      "handle": "AllBlacks",
-      "avatar": "https://pbs.twimg.com/profile_images/1472711036813799428/QHrkYpf6_bigger.jpg",
-      "url": "https://x.com/AllBlacks/status/2110732547835433424",
-      "publishedAt": "2026-10-15T14:00:29.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrUELaWgAASH9q.jpg",
-      "teamIds": [
-        "new-zealand"
-      ],
-      "source": "x:AllBlacks"
-    },
-    {
-      "type": "x",
-      "id": "x:2110732428620783734",
-      "text": "Supporter travel update ⚠️\n\nSupporters are advised to plan their journey in advance of travelling to The Stoop on Sunday as Twickenham Station will be closed due to maintenance work taking place on lines surrounding the Twickenham area.\n\nℹ️ https://t.co/bheZ3bnrfU\n\n#COYQ https://t.co/pyRV4Iy714",
-      "author": "Harlequins 🃏",
-      "handle": "Harlequins",
-      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
-      "url": "https://x.com/Harlequins/status/2110732428620783734",
-      "publishedAt": "2026-10-15T14:00:01.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrCYwJXEAAdkKJ.jpg",
-      "teamIds": [
-        "harlequins"
-      ],
-      "source": "x:Harlequins"
     },
     {
       "type": "bluesky",
@@ -816,18 +850,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxvfactfs522",
-      "text": "Scotland hooker Ewan Ashman insists he is unfazed by the rising crop of young talent snapping at his heels for club and country\n🔗 shorturl.at/2i8Jz",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxvfactfs522",
-      "publishedAt": "2026-10-15T06:02:55.238Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihwlwyef5cl25hgethvo5pnbnmoh43wpzp3axcofbeyuiqi572m2q",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxui23zmyk2d",
       "text": "Another excellent Teddy Williams showing with two lineout steals up against the Sheehan/Ryan/McCarthy combo of Leinster.\nSomehow continues to up the performance levels week-on-week.",
       "author": "Cardiff Rugby Life",
@@ -836,18 +858,6 @@
       "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxui23zmyk2d",
       "publishedAt": "2026-10-14T21:20:29.310Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreih5ceywylm3mpwkduiebrp7l4ety6yq3mkflmjizohg4ttbr3b4pa/thumbnail.jpg",
-      "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxuccvn7zs2u",
-      "text": "Some thoughts on still not knowing exactly where this Cardiff team is, Leinster being a bit too good and Matty Young finally getting his chance.\ncardiffrugbylife.wales/2026/10/14/v...",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxuccvn7zs2u",
-      "publishedAt": "2026-10-14T19:38:02.155Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreih5ofz673drfhgavjldawvv7akdlzl3c3ygzmypxwsuk377idjw6q",
       "source": "cardiffrugbylife.bsky.social"
     },
     {
@@ -861,18 +871,6 @@
       "publishedAt": "2026-10-14T18:45:46.984Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreidzo3swx4ov4n3xk62x3dfbrmtfijqvwafqlqqwkmltel7btxkjxi/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxu4yt2lwk2i",
-      "text": "Good and bad injury news out of Corniel Van Zyl’s press conference;\nBad - Ben Thomas is out until mid-November\nGood - James Botham and Taulupe Faletau are very close to return and seem set to feature in one of the next two games.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxu4yt2lwk2i",
-      "publishedAt": "2026-10-14T18:02:55.193Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
