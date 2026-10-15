@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T11:09:25+01:00",
+  "generatedAt": "2026-10-15T12:08:21+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxvvvhclj62d",
+      "text": "🏰 TEAM ANNOUNCEMENT 🏰\nHere is the Edinburgh side to face Toulon on Friday night\nSean Everitt has explained more about Darcy Graham's recovery 👉 shorturl.at/hMgwk",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxvvvhclj62d",
+      "publishedAt": "2026-10-15T11:01:05.343Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiev5v7yelh4z7o4ubs35oxxflbfkslrccyj6xams2njrpoh3t45ly",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxvv3w2mqk25",
+      "text": "The steal and carry from Liam Wright, the chip through from Lalakai Foketi and the finish from Keelan Giles 😍\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxvv3w2mqk25",
+      "publishedAt": "2026-10-15T10:46:48.541Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreidbiooz5555umw4dothpn2c7vufqsgav6od4u2jsq4vk56d5by5tm/thumbnail.jpg",
+      "source": "ospreysofficial.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2110661935528091939",
@@ -487,18 +511,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxtrgnbkt52g",
-      "text": "🗣️ \"He probably feels that if he’s playing in a successful Glasgow team and they’re up there at the top of the URC and in Europe, that’s going to push his case.\"\nSale Sharks' George Ford has backed Dan Lancaster to receive a Scotland call-up.\n🔗 shorturl.at/CrfZh",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxtrgnbkt52g",
-      "publishedAt": "2026-10-14T14:35:53.804Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiasjkzlkz43af2qe4t755qbw25qd4e5b4h5xbb5zq66wkxqmlofma",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxtqo5n6k225",
       "text": "Good to see Alun Lawrence and Cam Winnett back out on the field in the club’s training video this week.\nHopefully we’ll see them both back during this short turnaround.",
       "author": "Cardiff Rugby Life",
@@ -611,18 +623,6 @@
       "publishedAt": "2026-10-14T09:30:05.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/PfMb6jB5U5Q/hqdefault.jpg",
       "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxt6qnvc2s2k",
-      "text": "Our heroic new European jersey by Macron for the 26/27 season is here 💥\nA kit with a real presence and comic-book-inspired design, the jersey takes on a bold, heroic feel built for the big occasions, the floodlit nights and the moments that matter.\n🛍️ ospreys.info/shoponline",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxt6qnvc2s2k",
-      "publishedAt": "2026-10-14T09:01:28.343Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreieq6hbnmeoxfb6n4bq34kkkoew5kbbebn3duaum3bywogqynoqng4",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
