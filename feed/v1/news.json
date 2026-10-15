@@ -1,8 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T07:09:32+01:00",
-  "attribution": "Posts from Bluesky, videos from YouTube — tap to open the original.",
+  "generatedAt": "2026-10-15T08:07:09+01:00",
+  "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxvgfpv7fk2k",
+      "text": "🔵 Could Dr Phil be coming home?\nFelipe Contepomi is a leading name in the conversation about Leo Cullen's successor.\nKeego, Hugo & I discuss Leinster's coaching options, the 2027 World Cup complication and Cullen's legacy.\n🎥 youtu.be/BF17eJxlsto\n#LeinsterRugby #IrishRugby",
+      "author": "Harpin' On Rugby",
+      "handle": "harpinonrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
+      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxvgfpv7fk2k",
+      "publishedAt": "2026-10-15T06:23:51.491Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreify4byopx6cugg47yfmddaxwgstm4kl4baus2feivhz64pcah4ihm",
+      "source": "harpinonrugby.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:IGOUZPAayZQ",
+      "title": "Leinster score a beauty🪉",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=IGOUZPAayZQ",
+      "publishedAt": "2026-10-15T06:15:38.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/IGOUZPAayZQ/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxvfe2y4r62a",
@@ -26,6 +49,21 @@
       "publishedAt": "2026-10-15T06:02:55.238Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihwlwyef5cl25hgethvo5pnbnmoh43wpzp3axcofbeyuiqi572m2q",
       "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110611792430764039",
+      "text": "General Sale now OPEN! 🔥 \nGet your tickets to watch England U20 face France U20 in the U20s Six Nations 2027!\n\nhttps://t.co/iTSYwrm7lG https://t.co/PUfS6ZHmc0",
+      "author": "Leicester Tigers",
+      "handle": "LeicesterTigers",
+      "avatar": "https://pbs.twimg.com/profile_images/1989291325540200448/erA--7dV_bigger.jpg",
+      "url": "https://x.com/LeicesterTigers/status/2110611792430764039",
+      "publishedAt": "2026-10-15T06:00:39.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUpmPL8WoAAdCVI.jpg",
+      "teamIds": [
+        "leicester"
+      ],
+      "source": "x:LeicesterTigers"
     },
     {
       "type": "bluesky",
@@ -447,17 +485,6 @@
       "source": "leinsterrugby.bsky.social"
     },
     {
-      "type": "youtube",
-      "id": "yt:MREVamQFTw4",
-      "title": "Jamie Dobie threads it through ⚽️",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=MREVamQFTw4",
-      "publishedAt": "2026-10-12T16:15:31.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/MREVamQFTw4/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mxoe5cn5qs2l",
       "text": "This week's Substack looking at how much try-scoring is too much try-scoring.\nPlus notes on the All Blacks, Dalziel, and PREM crowd numbers.\ntheofffieldreview.substack.com/p/tries-plea...",
@@ -550,18 +577,6 @@
       "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
       "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxkbpjj4y22o",
       "publishedAt": "2026-10-10T20:00:34.517Z",
-      "thumbnail": null,
-      "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxk7yhyqvc2o",
-      "text": "Have to be happy with that.  Sam's kicking radar needed fine tuning but overall the attack looks well in full flow.  Fell asleep for the Cardiff try but we're good for this lead and need to push on for more.  #LEIvCAR #BKTURC",
-      "author": "Harpin' On Rugby",
-      "handle": "harpinonrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreiehjzabtopas56abxv6eloubkkbqofmpztzciypn7d42ne3zbqjae",
-      "url": "https://bsky.app/profile/harpinonrugby.bsky.social/post/3mxk7yhyqvc2o",
-      "publishedAt": "2026-10-10T19:29:47.441Z",
       "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
     },
@@ -714,37 +729,32 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 2
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 0
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "bluesky",
@@ -829,6 +839,12 @@
       "id": "joncardinelli.bsky.social",
       "ok": true,
       "items": 5
+    },
+    {
+      "kind": "x",
+      "id": "news-x.json",
+      "ok": true,
+      "items": 1
     }
   ]
 }
