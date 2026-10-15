@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T04:10:16+01:00",
+  "generatedAt": "2026-10-15T05:07:05+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2110543429306630144",
+      "text": "Your 23 to face the All Blacks in Sydney 🦘\n\nLive on @Channel9 & @StanSportAU 📺 https://t.co/kYYTm3H81L",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2110543429306630144",
+      "publishedAt": "2026-10-15T01:29:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUojJS8bIAAgDgR.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxui23zmyk2d",
@@ -657,19 +672,6 @@
       "source": "x:GlasgowWarriors"
     },
     {
-      "type": "x",
-      "id": "x:2110385263188852738",
-      "text": "An absolute talent factory 👔🇿🇦\n\n#BKTURC #URC https://t.co/E7gsvj6VpS",
-      "author": "BKT United Rugby Championship (URC)",
-      "handle": "URCOfficial",
-      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
-      "url": "https://x.com/URCOfficial/status/2110385263188852738",
-      "publishedAt": "2026-10-14T15:00:30.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUhJ3kzXgAAkC9t.jpg",
-      "teamIds": [],
-      "source": "x:URCOfficial"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxtrgnbkt52g",
       "text": "🗣️ \"He probably feels that if he’s playing in a successful Glasgow team and they’re up there at the top of the URC and in Europe, that’s going to push his case.\"\nSale Sharks' George Ford has backed Dan Lancaster to receive a Scotland call-up.\n🔗 shorturl.at/CrfZh",
@@ -1296,14 +1298,16 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": true,
-      "items": 6
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 2
     },
     {
       "kind": "youtube",
@@ -1315,14 +1319,16 @@
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 0
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 3
     },
     {
       "kind": "bluesky",
