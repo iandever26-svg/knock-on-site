@@ -1,8 +1,119 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T20:31:31+01:00",
+  "generatedAt": "2026-10-15T22:09:20+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwwquvnid2i",
+      "text": "Bordeaux-Bègles players stuck at UK airport after travel hitch (✍️@rugby_ie) #BordeauxBegles #Rugby #ChampionsCup",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwwquvnid2i",
+      "publishedAt": "2026-10-15T20:49:05.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiggqdsaaip7sdqagomchbqb4vepejsjxdmihp4darqn24afu2pwm4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3mxwwb6by522e",
+      "text": "",
+      "author": "The 2nd Row",
+      "handle": "the2ndrow.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiazut3bcdskefwftkflzwbla4h6q56u7xutxhdmmhk4unffwpjl4e",
+      "url": "https://bsky.app/profile/the2ndrow.bsky.social/post/3mxwwb6by522e",
+      "publishedAt": "2026-10-15T20:40:18.422Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreifidytmakc36el2ort5ocxfrl242m5gjrwdamvytd5d2ocjic5qnu",
+      "source": "the2ndrow.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxwuue5ubs2l",
+      "text": "Swansea 26-3 Cardiff FT\nNot the Rags’ night by any measure; out-kicked, out-muscled, out-refereed.\nA big learning curve for a much-changed and inexperienced side in how to manage those conditions.\nWrite it off and move on.\n#BlueAndBlacks",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxwuue5ubs2l",
+      "publishedAt": "2026-10-15T20:15:14.635Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110823273390862397",
+      "text": "Our latest Bank of Ireland #NeverStopCompeting Moment of the Week! 💥     \n\nMichael Foy making his Munster debut in last weekend's draw away to Ulster 🙌\n\n@bankofireland | #SUAF 🔴 https://t.co/0gXtZGC0gU",
+      "author": "Munster Rugby",
+      "handle": "Munsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110417394795511808/MFQIU77q_bigger.jpg",
+      "url": "https://x.com/Munsterrugby/status/2110823273390862397",
+      "publishedAt": "2026-10-15T20:01:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUr1Qe7XgAAWTzU.jpg",
+      "teamIds": [
+        "munster"
+      ],
+      "source": "x:Munsterrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110823022634672309",
+      "text": "See you tomorrow 🍿\n\nLive on @Channel9 & @StanSportAU 📺 https://t.co/6w05i8o5JN",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2110823022634672309",
+      "publishedAt": "2026-10-15T20:00:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUfJH1maYAA4raE.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
+    {
+      "type": "x",
+      "id": "x:2110822267236372922",
+      "text": "Qui a tout donné ce soir ? 🥵\n\n#FievreSR https://t.co/ZjfLlVkDeb",
+      "author": "Stade Rochelais",
+      "handle": "staderochelais",
+      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
+      "url": "https://x.com/staderochelais/status/2110822267236372922",
+      "publishedAt": "2026-10-15T19:57:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUslqNWWwAALwnW.jpg",
+      "teamIds": [
+        "la-rochelle"
+      ],
+      "source": "x:staderochelais"
+    },
+    {
+      "type": "x",
+      "id": "x:2110820314791735678",
+      "text": "Complimenti ragazze 👏🏻\n\nSilvia Fent e Mascia Jelic fanno parte della formazione della @Federugby per il match delle Global Series contro gli USA 🇺🇲\n\n#BenettonRugby #WeAreLions https://t.co/XyRfkpTgtT",
+      "author": "Benetton Rugby 🦁",
+      "handle": "BenettonRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107800809316425728/hbrhjN9A_bigger.jpg",
+      "url": "https://x.com/BenettonRugby/status/2110820314791735678",
+      "publishedAt": "2026-10-15T19:49:14.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUsj3OSWsAI0RyY.jpg",
+      "teamIds": [
+        "benetton"
+      ],
+      "source": "x:BenettonRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2110815473369780328",
+      "text": "Le #Azzurre tornano in campo per il terzo match del #WXV 👉\n\n#USAvITA 🇺🇸🇮🇹▪️ domenica 18 ottobre, ore 00.00 (ITA) – Texas Health Mansfield Stadium, Mansfield\n\n📺 @SkySport - @NOWTV_It \n\n#Italrugby #insieme #rugbypassioneitaliana https://t.co/dMccmLgMkz",
+      "author": "Italrugby",
+      "handle": "Federugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1675068815590260736/dJaahi5h_bigger.png",
+      "url": "https://x.com/Federugby/status/2110815473369780328",
+      "publishedAt": "2026-10-15T19:30:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUsIQT3X0AEdCoT.jpg",
+      "teamIds": [
+        "italy"
+      ],
+      "source": "x:Federugby"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxwrt7ctas2c",
@@ -38,6 +149,21 @@
       "publishedAt": "2026-10-15T19:04:42.243Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif3kguhfvjtxcwgmm5rzxwvivydogw7ymhd22t4b4a4vxcf2x5e4y",
       "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110807929519800472",
+      "text": "🚨 𝟮𝟰 𝗛𝗢𝗨𝗥𝗦 𝗧𝗢 𝗚𝗢 | Almost time! European action is 🔙 at 🏠 as we kick-off the 🆕 @ChallengeCup_ season💥 Get your ticket  ⤵️       \n\n🎟️ https://t.co/uV4ltiGNaP\n\n#WeAreGwentRugby https://t.co/n6yesGnLbE",
+      "author": "Dragons RFC 🐉",
+      "handle": "dragonsrfc",
+      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
+      "url": "https://x.com/dragonsrfc/status/2110807929519800472",
+      "publishedAt": "2026-10-15T19:00:01.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUa8XFhbEAATf-L.jpg",
+      "teamIds": [
+        "dragons"
+      ],
+      "source": "x:dragonsrfc"
     },
     {
       "type": "x",
@@ -332,21 +458,6 @@
     },
     {
       "type": "x",
-      "id": "x:2110762630780473601",
-      "text": "🐉 𝙈𝙔 𝘾𝙇𝙐𝘽 - 𝙀𝙋𝙄𝙎𝙊𝘿𝙀 𝙏𝙒𝙊 𝘿𝙍𝘼𝙂𝙊𝙉𝙎 𝘼𝙇𝙇𝙎𝙏𝘼𝙍𝙎 𝙄𝙉𝘾𝙇𝙐𝙎𝙄𝙑𝙀 𝙏𝙊𝙐𝘾𝙃 🌟🏉\n\nMeet both players and coaches of this great family. 🗣️🎤\n\nTo get involved contact them via their Facebook page or email dragonsmixedtouch@gmail.com. 📧\n\n#WeAreGwentRugby https://t.co/nj6kWctVAG",
-      "author": "Dragons RFC 🐉",
-      "handle": "dragonsrfc",
-      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
-      "url": "https://x.com/dragonsrfc/status/2110762630780473601",
-      "publishedAt": "2026-10-15T16:00:01.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110664617470885888/img/-N92FghK49QC0Y5j.jpg",
-      "teamIds": [
-        "dragons"
-      ],
-      "source": "x:dragonsrfc"
-    },
-    {
-      "type": "x",
       "id": "x:2110762625453711509",
       "text": "Unleash the noise this Saturday 🔊\n\n#OneConnacht | 🎟️ https://t.co/frVsb8sbHV https://t.co/xMK9FWvbEt",
       "author": "Connacht Rugby",
@@ -623,64 +734,6 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2110747596511694898",
-      "text": "Ospreys Announce @swanseacom as St Helen’s Roof Sponsor 🏟️\n\nOspreys Rugby are delighted to announce https://t.co/Y1HcKsmtrw as the club’s roof sponsor at St Helen’s, the home of the Ospreys and Swansea RFC.\n\nAs part of the partnership, https://t.co/Y1HcKsmtrw branding will https://t.co/hFXR8bRbKV",
-      "author": "Ospreys",
-      "handle": "ospreys",
-      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
-      "url": "https://x.com/ospreys/status/2110747596511694898",
-      "publishedAt": "2026-10-15T15:00:17.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110745655320649729/img/D-YKC4CWC_sJ3ehe.jpg",
-      "teamIds": [
-        "ospreys"
-      ],
-      "source": "x:ospreys"
-    },
-    {
-      "type": "x",
-      "id": "x:2110747536545738941",
-      "text": "Drop your names below 😮‍💨\n\n#GuinnessM6N #Since1883 https://t.co/eeABcK2PX8",
-      "author": "Guinness Men's Six Nations",
-      "handle": "SixNationsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1862922194491265024/iIUEoSFe_bigger.jpg",
-      "url": "https://x.com/SixNationsRugby/status/2110747536545738941",
-      "publishedAt": "2026-10-15T15:00:03.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrhsfMWoAApCzw.jpg",
-      "teamIds": [],
-      "source": "x:SixNationsRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110746398157148275",
-      "text": "Homegrown talent 🌱\n\nA big future ahead 📈\n\n#SUAF 🔴 https://t.co/YXALrMISYV",
-      "author": "Munster Rugby",
-      "handle": "Munsterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2110417394795511808/MFQIU77q_bigger.jpg",
-      "url": "https://x.com/Munsterrugby/status/2110746398157148275",
-      "publishedAt": "2026-10-15T14:55:31.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrgT9FXUAAd8tU.jpg",
-      "teamIds": [
-        "munster"
-      ],
-      "source": "x:Munsterrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110745516183310360",
-      "text": "Place à l’Europe ⚔️\n#FiertéBretonne https://t.co/XCzGNeE3rT",
-      "author": "Rugby Club Vannes",
-      "handle": "RugbyClubVannes",
-      "avatar": "https://pbs.twimg.com/profile_images/2109587393636433920/OMk2Ti3R_bigger.jpg",
-      "url": "https://x.com/RugbyClubVannes/status/2110745516183310360",
-      "publishedAt": "2026-10-15T14:52:01.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrf2uHXUAAV7Gv.jpg",
-      "teamIds": [
-        "vannes"
-      ],
-      "source": "x:RugbyClubVannes"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwclptwae2s",
       "text": "Munster \"grateful\" as Edwin Edogbo extends deal until at least 2029 (✍️@rugby_ie) #MunsterRugby #EdwinEdogbo #RugbyNews",
@@ -693,21 +746,6 @@
       "source": "rugbynewsplus.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2110742682880659836",
-      "text": "From the National Talent Pathway to the Safari Sevens in Kenya🌍\n\nGHA’s Struan White is making the most of every opportunity to develop his game and take the next step in his rugby journey.\n\nRead more down below 📖 https://t.co/sfz3jiBrjA",
-      "author": "Scottish Rugby",
-      "handle": "Scotlandteam",
-      "avatar": "https://pbs.twimg.com/profile_images/1856274139696275456/XghMgMxS_bigger.jpg",
-      "url": "https://x.com/Scotlandteam/status/2110742682880659836",
-      "publishedAt": "2026-10-15T14:40:45.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrdR2VW8AA76Mz.jpg",
-      "teamIds": [
-        "scotland"
-      ],
-      "source": "x:Scotlandteam"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwbgs7yyo2g",
       "text": "Edogbo signs new contract up to 2029 (✍️@RTErugby) #EdwinEdogbo #MunsterRugby #IRFU",
@@ -717,18 +755,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwbgs7yyo2g",
       "publishedAt": "2026-10-15T14:27:38.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreianfwqmnoavbuxylvyyqbhj24vz3cucnm5ldcrkv73nx6greddj5y",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxw5wn3yvq22",
-      "text": "Alessandro Fusco gets it moving 🔥 (📹@URCOfficial) #AlessandroFusco #Motivation #GetMoving",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxw5wn3yvq22",
-      "publishedAt": "2026-10-15T13:24:54.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiffoa473bse6hicxgmtxfvkajzny7ybympkjnyvwof4eqf7fcf7ai",
       "source": "rugbynewsplus.bsky.social"
     },
     {
@@ -847,18 +873,6 @@
       "publishedAt": "2026-10-15T06:15:38.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/IGOUZPAayZQ/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxui23zmyk2d",
-      "text": "Another excellent Teddy Williams showing with two lineout steals up against the Sheehan/Ryan/McCarthy combo of Leinster.\nSomehow continues to up the performance levels week-on-week.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxui23zmyk2d",
-      "publishedAt": "2026-10-14T21:20:29.310Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreih5ceywylm3mpwkduiebrp7l4ety6yq3mkflmjizohg4ttbr3b4pa/thumbnail.jpg",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
@@ -1280,18 +1294,6 @@
       "publishedAt": "2026-10-08T17:27:56.071Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreid2bx4asfbngpcjmzggclumpmerqywd3xv7arowmavpaluib7fw4q",
       "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:76m24vhrsckzqfi33uyt6snv/app.bsky.feed.post/3mxelbflu7c2z",
-      "text": "🐉 𝙏𝙀𝘼𝙈 𝙉𝙀𝙒𝙎 | Friday night under the lights as we face @ospreys at 🏠 in the @URCOfficial!💥\n😮‍💨 Paea and Hope start in the backline\n👊 Beddall in at 7️⃣\n👨‍✈️ Angus set for return from bench\n🎟️ eticketing.co.uk/dragons/\n📞 01633 670690\n#WeAreGwentRugby",
-      "author": "Dragons RFC",
-      "handle": "dragonsrfc.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:76m24vhrsckzqfi33uyt6snv/bafkreihzvwyirklqwchsdtgblhclnw6rfqviodnvjitltqmj6wyvtix6oi",
-      "url": "https://bsky.app/profile/dragonsrfc.bsky.social/post/3mxelbflu7c2z",
-      "publishedAt": "2026-10-08T13:35:39.639Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:76m24vhrsckzqfi33uyt6snv/bafkreibw7s27g34psvr2cwo5pqk5esd2w4xqc3cxljffx6mrjozkfq6gmu",
-      "source": "dragonsrfc.bsky.social"
     }
   ],
   "sources": [
