@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T15:07:17+01:00",
+  "generatedAt": "2026-10-15T16:07:23+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxwdbaojyk2b",
+      "text": "Ospreys Announce Swansea.com as St Helen’s Roof Sponsor 🏟️\nOspreys Rugby are delighted to announce Swansea.com as the club’s roof sponsor at St Helen’s, the home of the Ospreys and Swansea RFC.\n📰 ospreys.info/4dFIdtG\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxwdbaojyk2b",
+      "publishedAt": "2026-10-15T15:00:19.838Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreifl6kkvgruk27c3avlhtnbhl4olgv3snklc5a7iu5ru2sl6fljl4q/thumbnail.jpg",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwclptwae2s",
+      "text": "Munster \"grateful\" as Edwin Edogbo extends deal until at least 2029 (✍️@rugby_ie) #MunsterRugby #EdwinEdogbo #RugbyNews",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwclptwae2s",
+      "publishedAt": "2026-10-15T14:48:17.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihatn7ngh5hpdwvffxqzwcecmysjhdngpaea25sm6gcyvqdadkunm",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwbgs7yyo2g",
+      "text": "Edogbo signs new contract up to 2029 (✍️@RTErugby) #EdwinEdogbo #MunsterRugby #IRFU",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwbgs7yyo2g",
+      "publishedAt": "2026-10-15T14:27:38.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreianfwqmnoavbuxylvyyqbhj24vz3cucnm5ldcrkv73nx6greddj5y",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2110724879133901230",
@@ -728,30 +764,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxvkhsld622v",
-      "text": "What The WRU Still Aren’t Telling Us 🤦‍♀️ #rugby #women (📹@PirateRugbyPod) #rugby #women #WRU",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxvkhsld622v",
-      "publishedAt": "2026-10-15T07:36:36.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiesfejtiolvtdkys2c7weiiufrudthvmdoorbudhpmxbjymb2yzny",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxvjxbqofs2r",
-      "text": "Felipe Contepomi to Replace Leo Cullen at Leinster? (📹@HarpinOnRugby) #LeinsterRugby #FelipeContepomi #LeoCullen",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxvjxbqofs2r",
-      "publishedAt": "2026-10-15T07:27:21.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie6gw5ncvazqintxffveumysfifcmkxcdxgscfsfln7kw45usdl7q",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxvgfpv7fk2k",
       "text": "🔵 Could Dr Phil be coming home?\nFelipe Contepomi is a leading name in the conversation about Leo Cullen's successor.\nKeego, Hugo & I discuss Leinster's coaching options, the 2027 World Cup complication and Cullen's legacy.\n🎥 youtu.be/BF17eJxlsto\n#LeinsterRugby #IrishRugby",
       "author": "Harpin' On Rugby",
@@ -890,18 +902,6 @@
       "publishedAt": "2026-10-14T13:00:36.000Z",
       "thumbnail": "https://i4.ytimg.com/vi/SU95pRjGFf8/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxtm3db4ts2b",
-      "text": "Ospreys team up with Visit Swansea Bay as European jersey sponsor 🌇\nThe collaboration highlights the commitment of the Ospreys and Visit Swansea Bay to promote the vibrant culture and stunning landscapes of Swansea to a broader audience.\n📰 ospreys.info/VSBay",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxtm3db4ts2b",
-      "publishedAt": "2026-10-14T13:00:05.626Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidlasn2abeia5lpuc6fkvztn3leh4usek73ks37bspbgwlfymqpja",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "youtube",
