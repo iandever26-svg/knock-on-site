@@ -1,8 +1,36 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T10:09:57+01:00",
+  "generatedAt": "2026-10-15T11:09:25+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2110661935528091939",
+      "text": "Pick your perfect XV and test your @ChampionsCup IQ 🎮\n\nPlay ➡️ https://t.co/DKKyY2xU3R\n\n#InvestecChampionsCup https://t.co/g3cWD7R4vW",
+      "author": "BKT United Rugby Championship (URC)",
+      "handle": "URCOfficial",
+      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
+      "url": "https://x.com/URCOfficial/status/2110661935528091939",
+      "publishedAt": "2026-10-15T09:19:54.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUqTu7mWgAAnCmq.jpg",
+      "teamIds": [],
+      "source": "x:URCOfficial"
+    },
+    {
+      "type": "x",
+      "id": "x:2110658596069314633",
+      "text": "Our last @ChampionsCup match at Dexcom Stadium 🔙 19.01.24\n\n#OneConnacht | 🎟️ https://t.co/frVsb8sbHV https://t.co/indNLeKdhj",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
+      "url": "https://x.com/connachtrugby/status/2110658596069314633",
+      "publishedAt": "2026-10-15T09:06:38.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110657796437860352/img/Fowpw7Cre1eJbwQD.jpg",
+      "teamIds": [
+        "connacht"
+      ],
+      "source": "x:connachtrugby"
+    },
     {
       "type": "x",
       "id": "x:2110649805772898684",
@@ -1080,7 +1108,7 @@
       "kind": "x",
       "id": "news-x.json",
       "ok": true,
-      "items": 17
+      "items": 19
     }
   ]
 }
