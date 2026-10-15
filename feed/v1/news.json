@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T22:09:20+01:00",
+  "generatedAt": "2026-10-15T23:08:37+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
     {
@@ -26,6 +26,21 @@
       "publishedAt": "2026-10-15T20:40:18.422Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreifidytmakc36el2ort5ocxfrl242m5gjrwdamvytd5d2ocjic5qnu",
       "source": "the2ndrow.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110828824602533938",
+      "text": "Complimenti ragazze 👏🏻\n\nSilvia Fent, Giorgia Cuoghi e Mascia Jelic fanno parte della formazione della @Federugby per il match delle Global Series contro gli USA 🇺🇲\n\n#BenettonRugby #WeAreLions https://t.co/gHjfNXldtY",
+      "author": "Benetton Rugby 🦁",
+      "handle": "BenettonRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107800809316425728/hbrhjN9A_bigger.jpg",
+      "url": "https://x.com/BenettonRugby/status/2110828824602533938",
+      "publishedAt": "2026-10-15T20:23:03.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUsrlXZWYAEC2zL.jpg",
+      "teamIds": [
+        "benetton"
+      ],
+      "source": "x:BenettonRugby"
     },
     {
       "type": "bluesky",
@@ -705,21 +720,6 @@
       "thumbnail": "https://pbs.twimg.com/media/HUrkOVvXoAAyJzp.jpg",
       "teamIds": [],
       "source": "x:top14rugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110750429495566391",
-      "text": "All eyes on the @ChampionsCup 💪🏉\n\n#YmlaenCaerdydd | #InvestecChampionsCup https://t.co/rvsIaGX0Zf",
-      "author": "Cardiff Rugby",
-      "handle": "Cardiff_Rugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
-      "url": "https://x.com/Cardiff_Rugby/status/2110750429495566391",
-      "publishedAt": "2026-10-15T15:11:32.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrkU5pWYAAOzQE.jpg",
-      "teamIds": [
-        "cardiff"
-      ],
-      "source": "x:Cardiff_Rugby"
     },
     {
       "type": "bluesky",
