@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-10-16T20:08:59.264Z",
- "updatedAt": "2026-10-16T20:08:59.264Z",
+ "generatedAt": "2026-10-16T20:15:17.064Z",
+ "updatedAt": "2026-10-16T20:15:17.064Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -9,15 +9,15 @@
    "match_id": "ccup-2026-10-16-glo-ubb",
    "status": "live",
    "home_score": 24,
-   "away_score": 17,
+   "away_score": 29,
    "clock": "1'",
    "period": "2H",
-   "updated_at": "2026-10-16T20:08:59.264Z",
+   "updated_at": "2026-10-16T20:15:17.064Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/271937/scoreboard",
-     "fetched_at": "2026-10-16T20:08:59.264Z",
+     "fetched_at": "2026-10-16T20:15:17.064Z",
      "espn_event_id": "604246",
      "may_lag": true
     }
@@ -31,12 +31,12 @@
    "away_score": 7,
    "clock": "1'",
    "period": "2H",
-   "updated_at": "2026-10-16T20:08:59.264Z",
+   "updated_at": "2026-10-16T20:15:17.064Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/272073/scoreboard",
-     "fetched_at": "2026-10-16T20:08:59.264Z",
+     "fetched_at": "2026-10-16T20:15:17.064Z",
      "espn_event_id": "604309",
      "may_lag": true
     }
@@ -50,12 +50,12 @@
    "away_score": 13,
    "clock": "1'",
    "period": "2H",
-   "updated_at": "2026-10-16T20:08:59.264Z",
+   "updated_at": "2026-10-16T20:15:17.064Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/272073/scoreboard",
-     "fetched_at": "2026-10-16T20:08:59.264Z",
+     "fetched_at": "2026-10-16T20:15:17.064Z",
      "espn_event_id": "604310",
      "may_lag": true
     }
