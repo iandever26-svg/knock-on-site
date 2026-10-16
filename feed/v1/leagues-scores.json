@@ -1,7 +1,65 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-10-16T12:03:34.462Z",
- "updatedAt": "2026-10-16T12:03:34.462Z",
+ "generatedAt": "2026-10-16T19:03:20.254Z",
+ "updatedAt": "2026-10-16T19:03:20.254Z",
  "note": "ESPN-sourced; may lag",
- "scores": []
+ "scores": [
+  {
+   "schema_version": "1.0.0",
+   "match_id": "ccup-2026-10-16-glo-ubb",
+   "status": "live",
+   "home_score": 0,
+   "away_score": 0,
+   "clock": "1'",
+   "period": "1H",
+   "updated_at": "2026-10-16T19:03:20.254Z",
+   "provenance": [
+    {
+     "source_name": "espn",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/271937/scoreboard",
+     "fetched_at": "2026-10-16T19:03:20.254Z",
+     "espn_event_id": "604246",
+     "may_lag": true
+    }
+   ]
+  },
+  {
+   "schema_version": "1.0.0",
+   "match_id": "chcup-2026-10-16-dra-per",
+   "status": "live",
+   "home_score": 0,
+   "away_score": 0,
+   "clock": "1'",
+   "period": "1H",
+   "updated_at": "2026-10-16T19:03:20.254Z",
+   "provenance": [
+    {
+     "source_name": "espn",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/272073/scoreboard",
+     "fetched_at": "2026-10-16T19:03:20.254Z",
+     "espn_event_id": "604309",
+     "may_lag": true
+    }
+   ]
+  },
+  {
+   "schema_version": "1.0.0",
+   "match_id": "chcup-2026-10-16-edi-tln",
+   "status": "live",
+   "home_score": 0,
+   "away_score": 0,
+   "clock": "1'",
+   "period": "1H",
+   "updated_at": "2026-10-16T19:03:20.254Z",
+   "provenance": [
+    {
+     "source_name": "espn",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/272073/scoreboard",
+     "fetched_at": "2026-10-16T19:03:20.254Z",
+     "espn_event_id": "604310",
+     "may_lag": true
+    }
+   ]
+  }
+ ]
 }
