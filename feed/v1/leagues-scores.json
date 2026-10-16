@@ -1,23 +1,23 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-10-16T20:38:15.556Z",
- "updatedAt": "2026-10-16T20:38:15.556Z",
+ "generatedAt": "2026-10-16T20:52:36.327Z",
+ "updatedAt": "2026-10-16T20:52:36.327Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
    "schema_version": "1.0.0",
    "match_id": "ccup-2026-10-16-glo-ubb",
-   "status": "live",
+   "status": "ft",
    "home_score": 36,
    "away_score": 36,
-   "clock": "1'",
-   "period": "2H",
-   "updated_at": "2026-10-16T20:38:15.556Z",
+   "clock": "FT",
+   "period": "FT",
+   "updated_at": "2026-10-16T20:52:36.327Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/271937/scoreboard",
-     "fetched_at": "2026-10-16T20:38:15.556Z",
+     "fetched_at": "2026-10-16T20:52:36.327Z",
      "espn_event_id": "604246",
      "may_lag": true
     }
@@ -27,16 +27,16 @@
    "schema_version": "1.0.0",
    "match_id": "chcup-2026-10-16-dra-per",
    "status": "live",
-   "home_score": 15,
+   "home_score": 22,
    "away_score": 14,
    "clock": "1'",
    "period": "2H",
-   "updated_at": "2026-10-16T20:38:15.556Z",
+   "updated_at": "2026-10-16T20:52:36.327Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/272073/scoreboard",
-     "fetched_at": "2026-10-16T20:38:15.556Z",
+     "fetched_at": "2026-10-16T20:52:36.327Z",
      "espn_event_id": "604309",
      "may_lag": true
     }
@@ -45,17 +45,17 @@
   {
    "schema_version": "1.0.0",
    "match_id": "chcup-2026-10-16-edi-tln",
-   "status": "live",
+   "status": "ft",
    "home_score": 17,
    "away_score": 27,
-   "clock": "1'",
-   "period": "2H",
-   "updated_at": "2026-10-16T20:38:15.556Z",
+   "clock": "FT",
+   "period": "FT",
+   "updated_at": "2026-10-16T20:52:36.327Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/272073/scoreboard",
-     "fetched_at": "2026-10-16T20:38:15.556Z",
+     "fetched_at": "2026-10-16T20:52:36.327Z",
      "espn_event_id": "604310",
      "may_lag": true
     }
