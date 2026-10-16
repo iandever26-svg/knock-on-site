@@ -1,8 +1,82 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-16T06:10:11+01:00",
+  "generatedAt": "2026-10-16T07:07:20+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxxvnza3ui2a",
+      "text": "After a difficult start to the season for Toulon, Ben White is relishing the chance to return to Scotland this weekend\nHe'll captain the French side vs Edinburgh tonight\n🔗  shorturl.at/Tb7sh",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxxvnza3ui2a",
+      "publishedAt": "2026-10-16T06:02:13.256Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreia3ptdou6i7q7355gnnfmdyl2p6vdljiuqq3zifgfebhmealqip54",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:tgOgqBQMdfY",
+      "title": "Future Springbok? Luan Giliomee Is A Star In The Making",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=tgOgqBQMdfY",
+      "publishedAt": "2026-10-16T06:00:10.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/tgOgqBQMdfY/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "x",
+      "id": "x:2110974020455961044",
+      "text": "31 ans pour 𝙏𝙝𝙚𝙤 ✨ https://t.co/HNwlYCu68Q",
+      "author": "Stade Rochelais",
+      "handle": "staderochelais",
+      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
+      "url": "https://x.com/staderochelais/status/2110974020455961044",
+      "publishedAt": "2026-10-16T06:00:01.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUrvsztXAAAyW4y.jpg",
+      "teamIds": [
+        "la-rochelle"
+      ],
+      "source": "x:staderochelais"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxxv44avf22z",
+      "text": "Cullen excited by 'good little tweak' to bonus-points (✍️@RTErugby) #Rugby #BonusPoints #TournamentRules",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxxv44avf22z",
+      "publishedAt": "2026-10-16T05:52:14.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiciiwxwonrrgqy4cba6mv7jpbkndkpfo4e3t3o32nl6gmusm4p6iq",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxxutg2t472r",
+      "text": "Champions Cup Round 1: All You Need to Know (✍️@RTErugby) #ChampionsCup #Rugby #Investec",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxxutg2t472r",
+      "publishedAt": "2026-10-16T05:47:22.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigk7cdpqoo5ftpmao7xvasnrv2damca6tnhoaxt2jaowxzrnzewzy",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxxuafcdsp2t",
+      "text": "Munster determined to muscle back into Champions Cup knock-outs (✍️@rugby_ie) #MunsterRugby #ChampionsCup #RugbyUnion",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxxuafcdsp2t",
+      "publishedAt": "2026-10-16T05:36:44.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicsbu3xndjh3z46quw667f34ggwfhhznm4762sbkir6fsdefe2eva",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxxsie5iwb2c",
@@ -264,18 +338,6 @@
       "thumbnail": "https://pbs.twimg.com/media/HUsPD6QW0AA1c_p.jpg",
       "teamIds": [],
       "source": "x:ChampionsCup"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwnmal45r2s",
-      "text": "So can the Wallabies strike back? | Bledisloe Cup 2026 Test 2 Preview (📹@SquidgeRugby) #Wallabies #BledisloeCup #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwnmal45r2s",
-      "publishedAt": "2026-10-15T18:05:26.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifewpsqq3wnunyrg635lfrynamw5mb7hpyifbd5h2u5ty3mn42zie",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -680,33 +742,6 @@
     },
     {
       "type": "x",
-      "id": "x:2110754279422095670",
-      "text": "Oui oui, samedi, on a hâte de retrouver vos 𝙨𝙤𝙪𝙧𝙞𝙧𝙚𝙨 🫂\n\n💛 Rendez-vous à partir de 𝟭𝟲𝗵𝟯𝟬 pour l'ouverture de la @ChampionsCup à Deflandre !\n\n#SRvLIO | #InvestecChampionsCup | #FievreSR https://t.co/Rj8wZzLlRc",
-      "author": "Stade Rochelais",
-      "handle": "staderochelais",
-      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
-      "url": "https://x.com/staderochelais/status/2110754279422095670",
-      "publishedAt": "2026-10-15T15:26:50.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110753354200518656/img/WTIUG3GPgaqS2SLP.jpg",
-      "teamIds": [
-        "la-rochelle"
-      ],
-      "source": "x:staderochelais"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwe3rw2yl2t",
-      "text": "Man Utd And Martinez, Haaland's Moral Core (🎙️@SecondCaptains) #ManUtd #Martinez #Haaland",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwe3rw2yl2t",
-      "publishedAt": "2026-10-15T15:14:59.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifo6odcejf4uljfn777nwljqntfuj63jbgyrw64i5oybn4b6vvinq",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "x",
       "id": "x:2110750706462531745",
       "text": "Un nouveau booster vient d'arriver… 👀 https://t.co/lLCAuaReGu",
       "author": "RCT – Rugby Club Toulonnais",
@@ -744,18 +779,6 @@
       "publishedAt": "2026-10-15T15:00:19.838Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreifl6kkvgruk27c3avlhtnbhl4olgv3snklc5a7iu5ru2sl6fljl4q/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwclptwae2s",
-      "text": "Munster \"grateful\" as Edwin Edogbo extends deal until at least 2029 (✍️@rugby_ie) #MunsterRugby #EdwinEdogbo #RugbyNews",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwclptwae2s",
-      "publishedAt": "2026-10-15T14:48:17.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihatn7ngh5hpdwvffxqzwcecmysjhdngpaea25sm6gcyvqdadkunm",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -838,18 +861,6 @@
       "publishedAt": "2026-10-15T08:30:33.653Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreie22ka6nbtn5jn6i2gpjcyvci7ihihsul2cgfovw5kwe3u3mvnbey",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxvluh6lmy2n",
-      "text": "Dave Butcher says Scotland have identified three areas they must target if they're to beat Australia in Sydney on Saturday\n🔗 shorturl.at/uXSFw",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxvluh6lmy2n",
-      "publishedAt": "2026-10-15T08:01:33.841Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidhkvxigzyabvjnvioctbb3jxwzivtznpiekxkxtvl62wv4rir7gu",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -1032,17 +1043,6 @@
       "publishedAt": "2026-10-13T12:00:03.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/-W5znScfWsc/hqdefault.jpg",
       "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:qX9a06LYRoI",
-      "title": "An INCREDIBLE Performance From Blair Murray",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=qX9a06LYRoI",
-      "publishedAt": "2026-10-13T11:00:23.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/qX9a06LYRoI/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
       "type": "youtube",
@@ -1300,9 +1300,8 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
