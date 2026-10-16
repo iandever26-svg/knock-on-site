@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-16T05:07:09+01:00",
+  "generatedAt": "2026-10-16T06:10:11+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxxsie5iwb2c",
+      "text": "'We don’t have a grand vision' - Leinster embrace step-by-step approach to new season (✍️@rugby_ie) #Leinster #ChampionsCup #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxxsie5iwb2c",
+      "publishedAt": "2026-10-16T05:05:24.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihpvuo7ixo4kbtwaurvo2np6ehqfk7uglmeg7w26xsw5hqcb2lpea",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2110936272730562810",
@@ -743,18 +755,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwclptwae2s",
       "publishedAt": "2026-10-15T14:48:17.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihatn7ngh5hpdwvffxqzwcecmysjhdngpaea25sm6gcyvqdadkunm",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwbgs7yyo2g",
-      "text": "Edogbo signs new contract up to 2029 (✍️@RTErugby) #EdwinEdogbo #MunsterRugby #IRFU",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwbgs7yyo2g",
-      "publishedAt": "2026-10-15T14:27:38.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreianfwqmnoavbuxylvyyqbhj24vz3cucnm5ldcrkv73nx6greddj5y",
       "source": "rugbynewsplus.bsky.social"
     },
     {
