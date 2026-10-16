@@ -1,8 +1,67 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-16T08:07:20+01:00",
+  "generatedAt": "2026-10-16T09:07:13+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxy4eho6h72g",
+      "text": "⚫🔴 Difficult start to Toulon season\n🆕 Coaching change\n🔜 Scotland autumn aims\n⚡ Darcy Graham's return\nWe caught up with Ben White as he returns to Scotland with Toulon tonight\n🔗  shorturl.at/Tb7sh",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxy4eho6h72g",
+      "publishedAt": "2026-10-16T08:02:08.968Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiehx6j7x4zswll7jwzskt3ws3ocexrb72wsu7gg62fru7ufqvxdue",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxy2k2crmf2a",
+      "text": "DHL Stormers keeping the ball alive ⚡️ (📹@URCOfficial) #DHLStormers #Rugby #KeepTheBallAlive",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxy2k2crmf2a",
+      "publishedAt": "2026-10-16T07:29:30.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie364f5petwaclrb6iiudjlwfieergz5khutjzfbum3jw7n46qhte",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxxzznzl4u2v",
+      "text": "Future Springbok? Luan Giliomee Is A Star In The Making (📹@URCOfficial) #FutureSpringbok #LuanGiliomee #VodacomBulls",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxxzznzl4u2v",
+      "publishedAt": "2026-10-16T07:20:21.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiew43kqfd7jw5d7sewo6bgv75wyvl4hj6sehofxjbrrqf74qmnmgi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:TId0j_qMh64",
+      "title": "DHL Stormers keeping the ball alive ⚡️",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=TId0j_qMh64",
+      "publishedAt": "2026-10-16T07:15:29.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/TId0j_qMh64/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxxzqsgxsf2a",
+      "text": "544 : Cardiff, Coaches & Contenders [full pod audio only] (📹@HarpinOnRugby) #Rugby #URC #Cardiff",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxxzqsgxsf2a",
+      "publishedAt": "2026-10-16T07:15:23.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifxbljifzex7qo6urdzdqzjubiri4mckrpvmdynfruh6qwyi5u5na",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2110989367959261688",
@@ -150,30 +209,6 @@
       "source": "rugbynewsplus.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxxuafcdsp2t",
-      "text": "Munster determined to muscle back into Champions Cup knock-outs (✍️@rugby_ie) #MunsterRugby #ChampionsCup #RugbyUnion",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxxuafcdsp2t",
-      "publishedAt": "2026-10-16T05:36:44.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicsbu3xndjh3z46quw667f34ggwfhhznm4762sbkir6fsdefe2eva",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxxsie5iwb2c",
-      "text": "'We don’t have a grand vision' - Leinster embrace step-by-step approach to new season (✍️@rugby_ie) #Leinster #ChampionsCup #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxxsie5iwb2c",
-      "publishedAt": "2026-10-16T05:05:24.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihpvuo7ixo4kbtwaurvo2np6ehqfk7uglmeg7w26xsw5hqcb2lpea",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "x",
       "id": "x:2110936272730562810",
       "text": "A historic occasion on the horizon at Accor Stadium 🦘\n\nQuadruple Header Matches:\n1️⃣ Wallaroos v Scotland | 12:00pm AEDT\n2️⃣ Australia Sevens Men's v Fiji Sevens Men's | 2:00pm AEDT\n3️⃣ Australia Sevens Women's v New Zealand Sevens Women's | 2:25pm AEDT\n4️⃣ Wallabies v New Zealand | 3:45pm AEDT\n\nLive on @Channel9 & @StanSportAU 📺",
@@ -217,18 +252,6 @@
         "australia"
       ],
       "source": "x:wallabies"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwwquvnid2i",
-      "text": "Bordeaux-Bègles players stuck at UK airport after travel hitch (✍️@rugby_ie) #BordeauxBegles #Rugby #ChampionsCup",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxwwquvnid2i",
-      "publishedAt": "2026-10-15T20:49:05.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiggqdsaaip7sdqagomchbqb4vepejsjxdmihp4darqn24afu2pwm4",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -841,18 +864,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxvvvhclj62d",
-      "text": "🏰 TEAM ANNOUNCEMENT 🏰\nHere is the Edinburgh side to face Toulon on Friday night\nSean Everitt has explained more about Darcy Graham's recovery 👉 shorturl.at/hMgwk",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxvvvhclj62d",
-      "publishedAt": "2026-10-15T11:01:05.343Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiev5v7yelh4z7o4ubs35oxxflbfkslrccyj6xams2njrpoh3t45ly",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxvv3w2mqk25",
       "text": "The steal and carry from Liam Wright, the chip through from Lalakai Foketi and the finish from Keelan Giles 😍\n#OurBloodIsBlack",
       "author": "Ospreys Rugby",
@@ -1022,17 +1033,6 @@
       "url": "https://www.youtube.com/watch?v=iC-dNzKjmR4",
       "publishedAt": "2026-10-14T05:49:32.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/iC-dNzKjmR4/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:y-jlswiBP_I",
-      "title": "Macs Page and Ellis Mee combine for a stunner 🤩",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=y-jlswiBP_I",
-      "publishedAt": "2026-10-13T15:15:16.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/y-jlswiBP_I/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
     },
     {
