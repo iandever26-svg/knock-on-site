@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-16T10:07:31+01:00",
+  "generatedAt": "2026-10-16T10:40:10+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxyabrurgh2s",
+      "text": "Lenihan: Munster-Racing clash should be in Limerick (✍️@RTErugby) #Rugby #Munster #Racing92",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxyabrurgh2s",
+      "publishedAt": "2026-10-16T09:12:16.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidhw3xvzhyqn4r3ipzjjvotwyehgba76jzgixfxzafmonqd3crbte",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxy4eho6h72g",
@@ -387,18 +399,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxxv44avf22z",
       "publishedAt": "2026-10-16T05:52:14.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiciiwxwonrrgqy4cba6mv7jpbkndkpfo4e3t3o32nl6gmusm4p6iq",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxxutg2t472r",
-      "text": "Champions Cup Round 1: All You Need to Know (✍️@RTErugby) #ChampionsCup #Rugby #Investec",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxxutg2t472r",
-      "publishedAt": "2026-10-16T05:47:22.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigk7cdpqoo5ftpmao7xvasnrv2damca6tnhoaxt2jaowxzrnzewzy",
       "source": "rugbynewsplus.bsky.social"
     },
     {
