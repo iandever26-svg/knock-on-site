@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-16T23:07:19+01:00",
+  "generatedAt": "2026-10-17T00:07:18+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxzmnglukg2w",
+      "text": "🗣️ \"Hyron was a great person.\"\nEdinburgh head coach Sean Everitt has paid tribute to Hyron Andrews, the Lions lock who passed away on Friday aged 31\n🔗 shorturl.at/FAb54",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxzmnglukg2w",
+      "publishedAt": "2026-10-16T22:26:11.428Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigksrfcpvwwetpsmtavtrhq27cng3mipg52fdxo2pzdpk3m6ofsgi",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxzkl45zz32v",
@@ -537,18 +549,6 @@
         "perpignan"
       ],
       "source": "x:usap_officiel"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxz5ib7uu42d",
-      "text": "WATCH | Gavin Harper joins Bruce Aitchison from Murrayfield to discuss Glasgow's Champions Cup opener against Sale Sharks as three Scotland stars return from injury\n👉  www.youtube.com/watch?v=w1X...",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxz5ib7uu42d",
-      "publishedAt": "2026-10-16T17:54:51.902Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiff5x4kwzf4a3u7mz2femcetib5a6hdasftt4terg7ulja5kgiumm",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "x",
