@@ -1,0 +1,430 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "chcup-2026-10-16-edi-tln",
+ "matchId": "chcup-2026-10-16-edi-tln",
+ "updated_at": "2026-10-16T21:23:27.221Z",
+ "final": true,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604310/competitions/604310/plays?limit=400",
+   "fetched_at": "2026-10-16T21:23:27.221Z",
+   "espn_event_id": "604310",
+   "espn_league_id": 272073
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1897738",
+   "minute": 4,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Melvyn Jaminet",
+   "detail": "Penalty (0-3)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1897757",
+   "minute": 28,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Melvyn Jaminet",
+   "detail": "Penalty (0-6)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 6
+   }
+  },
+  {
+   "id": "espn-1897770",
+   "minute": 38,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "James Grayson",
+   "detail": "Penalty (3-6)",
+   "playerName": "James Grayson",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 3,
+    "away": 6
+   }
+  },
+  {
+   "id": "espn-1897774",
+   "minute": 43,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Melvyn Jaminet",
+   "detail": "Try (3-11)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 3,
+    "away": 11
+   }
+  },
+  {
+   "id": "espn-1897775",
+   "minute": 44,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Melvyn Jaminet",
+   "detail": "Conversion (3-13)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 3,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1897776",
+   "minute": 45,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ewan Ashman",
+   "detail": "Try (8-13)",
+   "playerName": "Ewan Ashman",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 8,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1897779",
+   "minute": 46,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "James Grayson",
+   "detail": "Conversion (10-13)",
+   "playerName": "James Grayson",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1897801",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Samuel Jean-Christophe",
+   "detail": "replaces Jean-Baptiste Gros",
+   "playerOn": "Samuel Jean-Christophe",
+   "playerOff": "Jean-Baptiste Gros",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897803",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Teddy Baubigny",
+   "detail": "replaces Gianmarco Lucchesi",
+   "playerOn": "Teddy Baubigny",
+   "playerOff": "Gianmarco Lucchesi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897807",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Paul Hill",
+   "detail": "replaces Ollie Blyth-Lafferty",
+   "playerOn": "Paul Hill",
+   "playerOff": "Ollie Blyth-Lafferty",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897809",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Grant Gilchrist",
+   "detail": "replaces Callum Hunter-Hill",
+   "playerOn": "Grant Gilchrist",
+   "playerOff": "Callum Hunter-Hill",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897813",
+   "minute": 58,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Setariki Tuicuvu",
+   "detail": "Try (10-18)",
+   "playerName": "Setariki Tuicuvu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1897815",
+   "minute": 59,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Melvyn Jaminet",
+   "detail": "Conversion (10-20)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1897816",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Baptiste Serin",
+   "detail": "replaces Ben White",
+   "playerOn": "Baptiste Serin",
+   "playerOff": "Ben White",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897821",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Geordie Gwynn",
+   "detail": "replaces Darcy Graham",
+   "playerOn": "Geordie Gwynn",
+   "playerOff": "Darcy Graham",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897827",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joe Quere Karaba",
+   "detail": "replaces Patrick Tuifua",
+   "playerOn": "Joe Quere Karaba",
+   "playerOff": "Patrick Tuifua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897829",
+   "minute": 62,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Geordie Gwynn",
+   "detail": "Try (15-20)",
+   "playerName": "Geordie Gwynn",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1897840",
+   "minute": 62,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "James Grayson",
+   "detail": "Conversion (17-20)",
+   "playerName": "James Grayson",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1897854",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Owen Sorhaindo",
+   "detail": "replaces Beka Gigashvili",
+   "playerOn": "Owen Sorhaindo",
+   "playerOff": "Beka Gigashvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897867",
+   "minute": 66,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Piers O'Conor",
+   "detail": "Yellow card (17-20)",
+   "playerName": "Piers O'Conor",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 17,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1897861",
+   "minute": 66,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Melvyn Jaminet",
+   "detail": "Try (17-25)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1897868",
+   "minute": 67,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Melvyn Jaminet",
+   "detail": "Conversion (17-27)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1897872",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Conor McAlpine",
+   "detail": "replaces Hector Patterson",
+   "playerOn": "Conor McAlpine",
+   "playerOff": "Hector Patterson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897874",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Rory McHaffie",
+   "detail": "replaces Malelili Satala-Navlivou",
+   "playerOn": "Rory McHaffie",
+   "playerOff": "Malelili Satala-Navlivou",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897878",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Euan McVie",
+   "detail": "replaces Tom Currie",
+   "playerOn": "Euan McVie",
+   "playerOff": "Tom Currie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897894",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lewis Ludlam",
+   "detail": "replaces Zach Mercer",
+   "playerOn": "Lewis Ludlam",
+   "playerOff": "Zach Mercer",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897899",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Luka Keletaona",
+   "detail": "replaces Mateo Garcia",
+   "playerOn": "Luka Keletaona",
+   "playerOff": "Mateo Garcia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897901",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jamie Stewart",
+   "detail": "replaces Pierre Schoeman",
+   "playerOn": "Jamie Stewart",
+   "playerOff": "Pierre Schoeman",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897919",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Luciano Asevedo",
+   "detail": "replaces Swan Rebbadj",
+   "playerOn": "Luciano Asevedo",
+   "playerOff": "Swan Rebbadj",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897921",
+   "minute": 78,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jerry Blyth-Lafferty",
+   "detail": "replaces Ewan Ashman",
+   "playerOn": "Jerry Blyth-Lafferty",
+   "playerOff": "Ewan Ashman",
+   "label": "Substitution"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 17,
+  "away": 27
+ },
+ "plays_summed": {
+  "home": 17,
+  "away": 27
+ }
+}

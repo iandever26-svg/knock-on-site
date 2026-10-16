@@ -1,0 +1,450 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "chcup-2026-10-16-dra-per",
+ "matchId": "chcup-2026-10-16-dra-per",
+ "updated_at": "2026-10-16T21:23:27.221Z",
+ "final": true,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604309/competitions/604309/plays?limit=400",
+   "fetched_at": "2026-10-16T21:23:27.221Z",
+   "espn_event_id": "604309",
+   "espn_league_id": 272073
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1897739",
+   "minute": 5,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Jared Rosser",
+   "detail": "Try (5-0)",
+   "playerName": "Jared Rosser",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1897739-cm",
+   "minute": 5,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (5-0)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1897771",
+   "minute": 30,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Jules Coulon",
+   "detail": "Try (5-5)",
+   "playerName": "Jules Coulon",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1897772",
+   "minute": 30,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Tristan Tedder",
+   "detail": "Conversion (5-7)",
+   "playerName": "Tristan Tedder",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 5,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1897768",
+   "minute": 33,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mathys Lotrian",
+   "detail": "replaces Sama Malolo",
+   "playerOn": "Mathys Lotrian",
+   "playerOff": "Sama Malolo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897792",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dillon Lewis",
+   "detail": "replaces Owain James",
+   "playerOn": "Dillon Lewis",
+   "playerOff": "Owain James",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897780",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Wyn Jones",
+   "detail": "replaces Rhodri Jones",
+   "playerOn": "Wyn Jones",
+   "playerOff": "Rhodri Jones",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897782",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Elliot Dee",
+   "detail": "replaces Brodie Coghlan",
+   "playerOn": "Elliot Dee",
+   "playerOff": "Brodie Coghlan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897805",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Giorgi Tetrashvili",
+   "detail": "replaces Lorencio Boyer Gallardo",
+   "playerOn": "Giorgi Tetrashvili",
+   "playerOff": "Lorencio Boyer Gallardo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897830",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Bradley Amituanai",
+   "detail": "replaces Marco Riccioni",
+   "playerOn": "Bradley Amituanai",
+   "playerOff": "Marco Riccioni",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897834",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Simon Taty",
+   "detail": "replaces Jacobus van Tonder",
+   "playerOn": "Simon Taty",
+   "playerOff": "Jacobus van Tonder",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897869",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Matthew Screech",
+   "detail": "replaces Barny Langton-Cryer",
+   "playerOn": "Matthew Screech",
+   "playerOff": "Barny Langton-Cryer",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897871",
+   "minute": 56,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Aneurin Owen",
+   "detail": "Try (10-7)",
+   "playerName": "Aneurin Owen",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1897858",
+   "minute": 57,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Tinus de Beer",
+   "detail": "Conversion (12-7)",
+   "playerName": "Tinus de Beer",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1897880",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Anzelo Tuitavuki",
+   "detail": "replaces Jac Lloyd",
+   "playerOn": "Anzelo Tuitavuki",
+   "playerOff": "Jac Lloyd",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897892",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Rhodri Jones",
+   "detail": "replaces Wyn Jones",
+   "playerOn": "Rhodri Jones",
+   "playerOff": "Wyn Jones",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897864",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Antoine Aucagne",
+   "detail": "replaces Jake McIntyre",
+   "playerOn": "Antoine Aucagne",
+   "playerOff": "Jake McIntyre",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897903",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Posolo Tuilagi",
+   "detail": "replaces Mathieu Tanguy",
+   "playerOn": "Posolo Tuilagi",
+   "playerOff": "Mathieu Tanguy",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897906",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lucas Velarte",
+   "detail": "replaces Andro Dvali",
+   "playerOn": "Lucas Velarte",
+   "playerOff": "Andro Dvali",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897912",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Andro Dvali",
+   "playerOff": "Andro Dvali",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897915",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Rhodri Williams",
+   "detail": "replaces Che Hope",
+   "playerOn": "Rhodri Williams",
+   "playerOff": "Che Hope",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897917",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Fetuli Paea",
+   "detail": "replaces Fine Inisi",
+   "playerOn": "Fetuli Paea",
+   "playerOff": "Fine Inisi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897927",
+   "minute": 62,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Posolo Tuilagi",
+   "detail": "Try (12-12)",
+   "playerName": "Posolo Tuilagi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1897908",
+   "minute": 63,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Tristan Tedder",
+   "detail": "Conversion (12-14)",
+   "playerName": "Tristan Tedder",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1897909",
+   "minute": 65,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Tinus de Beer",
+   "detail": "Penalty (15-14)",
+   "playerName": "Tinus de Beer",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 15,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1897932",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Anzelo Tuitavuki",
+   "detail": "Try (20-14)",
+   "playerName": "Anzelo Tuitavuki",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 20,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1897934",
+   "minute": 69,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Tinus de Beer",
+   "detail": "Conversion (22-14)",
+   "playerName": "Tinus de Beer",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1897928",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Diego Mascarenc",
+   "detail": "replaces Setareki Toganiyadrava",
+   "playerOn": "Diego Mascarenc",
+   "playerOff": "Setareki Toganiyadrava",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897937",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Evan Minto",
+   "detail": "replaces Harri Keddie",
+   "playerOn": "Evan Minto",
+   "playerOff": "Harri Keddie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897930",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Owain James",
+   "detail": "replaces Rhodri Jones",
+   "playerOn": "Owain James",
+   "playerOff": "Rhodri Jones",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1897945",
+   "minute": 77,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Fetuli Paea",
+   "detail": "Try (27-14)",
+   "playerName": "Fetuli Paea",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1897946",
+   "minute": 78,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Tinus de Beer",
+   "detail": "Conversion (29-14)",
+   "playerName": "Tinus de Beer",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 29,
+    "away": 14
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 29,
+  "away": 14
+ },
+ "plays_summed": {
+  "home": 29,
+  "away": 14
+ }
+}
