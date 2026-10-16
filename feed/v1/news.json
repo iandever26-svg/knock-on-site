@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-16T01:07:41+01:00",
+  "generatedAt": "2026-10-16T02:07:23+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2110857386156327138",
+      "text": "Lukhan through the years 🎞️\n\nLSL is set for his 50th Wallabies cap this weekend against the All Blacks 🦘 https://t.co/cSSuwUeuo2",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2110857386156327138",
+      "publishedAt": "2026-10-15T22:16:33.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUtFiygbAAANzBa.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwwquvnid2i",
@@ -719,19 +734,6 @@
       "source": "x:ospreys"
     },
     {
-      "type": "x",
-      "id": "x:2110747536545738941",
-      "text": "Drop your names below 😮‍💨\n\n#GuinnessM6N #Since1883 https://t.co/eeABcK2PX8",
-      "author": "Guinness Men's Six Nations",
-      "handle": "SixNationsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1862922194491265024/iIUEoSFe_bigger.jpg",
-      "url": "https://x.com/SixNationsRugby/status/2110747536545738941",
-      "publishedAt": "2026-10-15T15:00:03.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrhsfMWoAApCzw.jpg",
-      "teamIds": [],
-      "source": "x:SixNationsRugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwclptwae2s",
       "text": "Munster \"grateful\" as Edwin Edogbo extends deal until at least 2029 (✍️@rugby_ie) #MunsterRugby #EdwinEdogbo #RugbyNews",
@@ -1298,32 +1300,37 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": true,
-      "items": 6
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 2
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 0
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 3
     },
     {
       "kind": "bluesky",
