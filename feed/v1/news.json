@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-16T18:07:21+01:00",
+  "generatedAt": "2026-10-16T19:07:17+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxz5ib7uu42d",
+      "text": "WATCH | Gavin Harper joins Bruce Aitchison from Murrayfield to discuss Glasgow's Champions Cup opener against Sale Sharks as three Scotland stars return from injury\n👉  www.youtube.com/watch?v=w1X...",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxz5ib7uu42d",
+      "publishedAt": "2026-10-16T17:54:51.902Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiff5x4kwzf4a3u7mz2femcetib5a6hdasftt4terg7ulja5kgiumm",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxz2qix7vo2c",
@@ -792,18 +804,6 @@
       "publishedAt": "2026-10-16T12:00:23.663Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreihkkd5poztnxgkm4xrkxm4khr3cgnegta6namqdmuebhhrgrxvfie",
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxyjgngaot2d",
-      "text": "Wales and Lions legend Stephen Jones is relishing the opportunity to help develop Scotland fly-half starlet Jake Dalziel at Newcastle.\nThe teenager will make his first start for the club this weekend\n🔗 shorturl.at/iPSNT",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxyjgngaot2d",
-      "publishedAt": "2026-10-16T11:56:02.732Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihra4scgw7mja4bqv7vnwiszktib6xfvo5yv5awhrr5iyboyz3n4i",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
