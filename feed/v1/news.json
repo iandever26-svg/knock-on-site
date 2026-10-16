@@ -1,8 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-16T04:07:04+01:00",
+  "generatedAt": "2026-10-16T05:07:09+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2110936272730562810",
+      "text": "A historic occasion on the horizon at Accor Stadium 🦘\n\nQuadruple Header Matches:\n1️⃣ Wallaroos v Scotland | 12:00pm AEDT\n2️⃣ Australia Sevens Men's v Fiji Sevens Men's | 2:00pm AEDT\n3️⃣ Australia Sevens Women's v New Zealand Sevens Women's | 2:25pm AEDT\n4️⃣ Wallabies v New Zealand | 3:45pm AEDT\n\nLive on @Channel9 & @StanSportAU 📺",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2110936272730562810",
+      "publishedAt": "2026-10-16T03:30:01.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUt-YEFaMAA1ZYy.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
+    {
+      "type": "x",
+      "id": "x:2110921169427677399",
+      "text": "United by Green & Gold 💚💛\n\nYour Wallabies and Wallaroos team's to take the field at Accor Stadium in a historic Quadruple Header 🦘 https://t.co/VkRnvzJ2LJ",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2110921169427677399",
+      "publishedAt": "2026-10-16T02:30:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUt2jhaaEAAHpTT.png",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
     {
       "type": "x",
       "id": "x:2110857386156327138",
@@ -98,21 +128,6 @@
         "munster"
       ],
       "source": "x:Munsterrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2110823022634672309",
-      "text": "See you tomorrow 🍿\n\nLive on @Channel9 & @StanSportAU 📺 https://t.co/6w05i8o5JN",
-      "author": "Wallabies",
-      "handle": "wallabies",
-      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
-      "url": "https://x.com/wallabies/status/2110823022634672309",
-      "publishedAt": "2026-10-15T20:00:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUfJH1maYAA4raE.jpg",
-      "teamIds": [
-        "australia"
-      ],
-      "source": "x:wallabies"
     },
     {
       "type": "x",
@@ -707,21 +722,6 @@
       "source": "x:top14rugby"
     },
     {
-      "type": "x",
-      "id": "x:2110750429495566391",
-      "text": "All eyes on the @ChampionsCup 💪🏉\n\n#YmlaenCaerdydd | #InvestecChampionsCup https://t.co/rvsIaGX0Zf",
-      "author": "Cardiff Rugby",
-      "handle": "Cardiff_Rugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
-      "url": "https://x.com/Cardiff_Rugby/status/2110750429495566391",
-      "publishedAt": "2026-10-15T15:11:32.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrkU5pWYAAOzQE.jpg",
-      "teamIds": [
-        "cardiff"
-      ],
-      "source": "x:Cardiff_Rugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxwdbaojyk2b",
       "text": "Ospreys Announce Swansea.com as St Helen’s Roof Sponsor 🏟️\nOspreys Rugby are delighted to announce Swansea.com as the club’s roof sponsor at St Helen’s, the home of the Ospreys and Swansea RFC.\n📰 ospreys.info/4dFIdtG\n#OurBloodIsBlack",
@@ -1300,8 +1300,9 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": true,
-      "items": 6
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 6
     },
     {
       "kind": "youtube",
@@ -1320,14 +1321,15 @@
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 0
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
       "ok": false,
-      "error": "HTTP 500",
+      "error": "HTTP 404",
       "kept": 3
     },
     {
