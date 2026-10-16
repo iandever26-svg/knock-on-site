@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-16T02:07:23+01:00",
+  "generatedAt": "2026-10-16T04:07:04+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
     {
@@ -41,6 +41,21 @@
       "publishedAt": "2026-10-15T20:40:18.422Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreifidytmakc36el2ort5ocxfrl242m5gjrwdamvytd5d2ocjic5qnu",
       "source": "the2ndrow.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110829264006234338",
+      "text": "Du rose, du 𝙧𝙤𝙨𝙚… et du 🩷\n\n#FievreSR https://t.co/VxOm5aXh06",
+      "author": "Stade Rochelais",
+      "handle": "staderochelais",
+      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
+      "url": "https://x.com/staderochelais/status/2110829264006234338",
+      "publishedAt": "2026-10-15T20:24:48.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUssBDlX0AAXoVB.jpg",
+      "teamIds": [
+        "la-rochelle"
+      ],
+      "source": "x:staderochelais"
     },
     {
       "type": "x",
@@ -719,21 +734,6 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2110747596511694898",
-      "text": "Ospreys Announce @swanseacom as St Helen’s Roof Sponsor 🏟️\n\nOspreys Rugby are delighted to announce https://t.co/Y1HcKsmtrw as the club’s roof sponsor at St Helen’s, the home of the Ospreys and Swansea RFC.\n\nAs part of the partnership, https://t.co/Y1HcKsmtrw branding will https://t.co/hFXR8bRbKV",
-      "author": "Ospreys",
-      "handle": "ospreys",
-      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
-      "url": "https://x.com/ospreys/status/2110747596511694898",
-      "publishedAt": "2026-10-15T15:00:17.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110745655320649729/img/D-YKC4CWC_sJ3ehe.jpg",
-      "teamIds": [
-        "ospreys"
-      ],
-      "source": "x:ospreys"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxwclptwae2s",
       "text": "Munster \"grateful\" as Edwin Edogbo extends deal until at least 2029 (✍️@rugby_ie) #MunsterRugby #EdwinEdogbo #RugbyNews",
@@ -1300,9 +1300,8 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
@@ -1321,15 +1320,14 @@
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 0
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
       "ok": false,
-      "error": "HTTP 404",
+      "error": "HTTP 500",
       "kept": 3
     },
     {
