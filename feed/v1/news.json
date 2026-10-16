@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-15T23:08:37+01:00",
+  "generatedAt": "2026-10-16T01:07:41+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
     {
@@ -98,21 +98,6 @@
         "la-rochelle"
       ],
       "source": "x:staderochelais"
-    },
-    {
-      "type": "x",
-      "id": "x:2110820314791735678",
-      "text": "Complimenti ragazze 👏🏻\n\nSilvia Fent e Mascia Jelic fanno parte della formazione della @Federugby per il match delle Global Series contro gli USA 🇺🇲\n\n#BenettonRugby #WeAreLions https://t.co/XyRfkpTgtT",
-      "author": "Benetton Rugby 🦁",
-      "handle": "BenettonRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107800809316425728/hbrhjN9A_bigger.jpg",
-      "url": "https://x.com/BenettonRugby/status/2110820314791735678",
-      "publishedAt": "2026-10-15T19:49:14.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUsj3OSWsAI0RyY.jpg",
-      "teamIds": [
-        "benetton"
-      ],
-      "source": "x:BenettonRugby"
     },
     {
       "type": "x",
@@ -638,36 +623,6 @@
     },
     {
       "type": "x",
-      "id": "x:2110754490731159626",
-      "text": "Bear Country is calling. 🤳\n\nYou still have time to get 🔐 in for the rest of the campaign with a 2026/27 Season Ticket, including #BigDayOut at @principalitysta!\n\n🐻 Adult tickets from £238 \n🧒 Under-12s tickets from £69 \n\n🎟️ https://t.co/5KuFO130kp https://t.co/NXiFEsakOr",
-      "author": "Bristol Bears 🐻",
-      "handle": "BristolBears",
-      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
-      "url": "https://x.com/BristolBears/status/2110754490731159626",
-      "publishedAt": "2026-10-15T15:27:41.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrmBgeWoAAAo77.jpg",
-      "teamIds": [
-        "bristol"
-      ],
-      "source": "x:BristolBears"
-    },
-    {
-      "type": "x",
-      "id": "x:2110754370686005755",
-      "text": "Bear Country is calling. 🤳\n\nYou still have time to get 🔐 in for the rest of the campaign with a 2026/27 Season Ticket, including #BigDayOut at @principalitysta!\n\n🐻 Adult tickets from £238 \n🧒 Under-12s tickets from £69 \n👕 FREE replica shirt for U12s\n\n🎟️ https://t.co/vMplAzQRTg",
-      "author": "Bristol Bears 🐻",
-      "handle": "BristolBears",
-      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
-      "url": "https://x.com/BristolBears/status/2110754370686005755",
-      "publishedAt": "2026-10-15T15:27:12.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrmBgeWoAAAo77.jpg",
-      "teamIds": [
-        "bristol"
-      ],
-      "source": "x:BristolBears"
-    },
-    {
-      "type": "x",
       "id": "x:2110754279422095670",
       "text": "Oui oui, samedi, on a hâte de retrouver vos 𝙨𝙤𝙪𝙧𝙞𝙧𝙚𝙨 🫂\n\n💛 Rendez-vous à partir de 𝟭𝟲𝗵𝟯𝟬 pour l'ouverture de la @ChampionsCup à Deflandre !\n\n#SRvLIO | #InvestecChampionsCup | #FievreSR https://t.co/Rj8wZzLlRc",
       "author": "Stade Rochelais",
@@ -722,6 +677,21 @@
       "source": "x:top14rugby"
     },
     {
+      "type": "x",
+      "id": "x:2110750429495566391",
+      "text": "All eyes on the @ChampionsCup 💪🏉\n\n#YmlaenCaerdydd | #InvestecChampionsCup https://t.co/rvsIaGX0Zf",
+      "author": "Cardiff Rugby",
+      "handle": "Cardiff_Rugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
+      "url": "https://x.com/Cardiff_Rugby/status/2110750429495566391",
+      "publishedAt": "2026-10-15T15:11:32.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUrkU5pWYAAOzQE.jpg",
+      "teamIds": [
+        "cardiff"
+      ],
+      "source": "x:Cardiff_Rugby"
+    },
+    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxwdbaojyk2b",
       "text": "Ospreys Announce Swansea.com as St Helen’s Roof Sponsor 🏟️\nOspreys Rugby are delighted to announce Swansea.com as the club’s roof sponsor at St Helen’s, the home of the Ospreys and Swansea RFC.\n📰 ospreys.info/4dFIdtG\n#OurBloodIsBlack",
@@ -732,6 +702,34 @@
       "publishedAt": "2026-10-15T15:00:19.838Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreifl6kkvgruk27c3avlhtnbhl4olgv3snklc5a7iu5ru2sl6fljl4q/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2110747596511694898",
+      "text": "Ospreys Announce @swanseacom as St Helen’s Roof Sponsor 🏟️\n\nOspreys Rugby are delighted to announce https://t.co/Y1HcKsmtrw as the club’s roof sponsor at St Helen’s, the home of the Ospreys and Swansea RFC.\n\nAs part of the partnership, https://t.co/Y1HcKsmtrw branding will https://t.co/hFXR8bRbKV",
+      "author": "Ospreys",
+      "handle": "ospreys",
+      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
+      "url": "https://x.com/ospreys/status/2110747596511694898",
+      "publishedAt": "2026-10-15T15:00:17.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2110745655320649729/img/D-YKC4CWC_sJ3ehe.jpg",
+      "teamIds": [
+        "ospreys"
+      ],
+      "source": "x:ospreys"
+    },
+    {
+      "type": "x",
+      "id": "x:2110747536545738941",
+      "text": "Drop your names below 😮‍💨\n\n#GuinnessM6N #Since1883 https://t.co/eeABcK2PX8",
+      "author": "Guinness Men's Six Nations",
+      "handle": "SixNationsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1862922194491265024/iIUEoSFe_bigger.jpg",
+      "url": "https://x.com/SixNationsRugby/status/2110747536545738941",
+      "publishedAt": "2026-10-15T15:00:03.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUrhsfMWoAApCzw.jpg",
+      "teamIds": [],
+      "source": "x:SixNationsRugby"
     },
     {
       "type": "bluesky",
