@@ -1,0 +1,40 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "intl-2026-10-17-aus-nzl",
+ "matchId": "intl-2026-10-17-aus-nzl",
+ "updated_at": "2026-10-17T05:04:32.793Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/603464/competitions/603464/plays?limit=400",
+   "fetched_at": "2026-10-17T05:04:32.793Z",
+   "espn_event_id": "603464",
+   "espn_league_id": 289234
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1897989",
+   "minute": 2,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Rieko Ioane",
+   "detail": "replaces Quinn Tupaea",
+   "playerOn": "Rieko Ioane",
+   "playerOff": "Quinn Tupaea",
+   "label": "Substitution"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 0,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 0,
+  "away": 0
+ }
+}
