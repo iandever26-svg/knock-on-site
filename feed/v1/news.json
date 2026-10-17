@@ -1,8 +1,68 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-17T13:12:02+01:00",
+  "generatedAt": "2026-10-17T14:07:16+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3my35ofm7zx2a",
+      "text": "Set up and ready for action 💪\n#ASMvLEI",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3my35ofm7zx2a",
+      "publishedAt": "2026-10-17T13:03:37.335Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiapqrhvqmdksti3jfs63wthdbk2g2nogmlus2rek6svsrxl3aifeq",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3my35ayagk22k",
+      "text": "40' That's half time. We had into the sheds with 4 tries in the bag 👊\n🦁 BLA 7 - 22 OSP 🖤\n#BLAvOSP | #ChallengeCupRugby | #OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3my35ayagk22k",
+      "publishedAt": "2026-10-17T12:56:07.231Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreicawn6q5equ32vj6ahmmsl2o5v4rulinii4wwxserbgqk2xv4zmp4",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my353erhir2v",
+      "text": "HALF-TIME | After a slow start, Glasgow have recovered well and lead at the break",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my353erhir2v",
+      "publishedAt": "2026-10-17T12:52:58.890Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifez7caxhs3k655hm323bdnqehprud3oeuxm6esito4gywhlslngq",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3my33fb77je2p",
+      "text": "Back at the Stade Marcel-Michelin. It's been a while 💛\n#ASMvLEI",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3my33fb77je2p",
+      "publishedAt": "2026-10-17T12:22:43.241Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreicnojslvw6ru7mgbkpt43rwdqwgsbgvtnubcrmd5tbcf5ipjcqn6a",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my33eln2b22r",
+      "text": "Where the £10m is going other than the pro clubs is interesting.\nYou’d think CVC would be expecting the money is used to strengthen the competing clubs and help raise the commercial profile of the league.\nOtherwise we’re giving away a chunk of future earnings for what?\nwww.itv.com/news/2026-10...",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my33eln2b22r",
+      "publishedAt": "2026-10-17T12:22:20.747Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3my32bllkjk2k",
@@ -811,18 +871,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxzy2i53fx22",
-      "text": "HALF-TIME | A dominant first half from the Wallaroos in Sydney",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxzy2i53fx22",
-      "publishedAt": "2026-10-17T01:50:20.412Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreigi2duovuyf7mzc6c6hnoh6qvpdjjrhzjk42koezp53knokm6cjxy",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3mxzj2x7r322l",
       "text": "No. Just, no.",
       "author": "Harpin' On Rugby",
@@ -903,18 +951,6 @@
       "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxysg6wj2f2i",
       "publishedAt": "2026-10-16T14:36:51.261Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreigqlnyghlooyg3u6kwotzjsixdmc6abtsrqa63zm7rsl3e53im63e",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxyqnfnnge27",
-      "text": "Charlie Tector will captain Leinster 'A' for tomorrow's clash with Edinburgh 'A' at The Hive 🫡\nFull team news 👉 https://bit.ly/4ymvfIA",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxyqnfnnge27",
-      "publishedAt": "2026-10-16T14:05:05.706Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreihwmvkjp5wnxztk5tb3np5ui6gyvepibvuowfwx3teg6kcm3jekm4",
       "source": "leinsterrugby.bsky.social"
     },
     {
@@ -1000,18 +1036,6 @@
       "source": "ospreysofficial.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxygctm7bg2w",
-      "text": "✨ Here is your Leinster team to take on ASM Clermont Auvergne in our Investec Champions Cup opener this Saturday at Stade Marcel-Michelin\n📰 See the full team news: https://bit.ly/47j3CFB\n#ASMvLEI",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mxygctm7bg2w",
-      "publishedAt": "2026-10-16T11:00:13.829Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreid4mo2ca6obtl3wmg2hzwiqts7wo3ajzv4tuho5jnedqnxijn5oiu",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:OfIdSHMUw80",
       "title": "Behind-The-Scenes | EPCR Round One | Toulon Home",
@@ -1094,18 +1118,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxwuue5ubs2l",
-      "text": "Swansea 26-3 Cardiff FT\nNot the Rags’ night by any measure; out-kicked, out-muscled, out-refereed.\nA big learning curve for a much-changed and inexperienced side in how to manage those conditions.\nWrite it off and move on.\n#BlueAndBlacks",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxwuue5ubs2l",
-      "publishedAt": "2026-10-15T20:15:14.635Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:76m24vhrsckzqfi33uyt6snv/app.bsky.feed.post/3mxwjnjdi6c2s",
       "text": "🐉 𝙏𝙀𝘼𝙈 𝙉𝙀𝙒𝙎 | First game of our 26/27 @ChallengeCup_ campaign and we are at home to @usap_officiel! 🏠\n👏 Rio Dyer makes 100th Dragons appearance\n💨 Rosser and Lloyd start\n💪 Langton-Cryer & James start\n🎟️ eticketing.co.uk/dragons/\n📞 01633 670690\n#WeAreGwentRugby",
       "author": "Dragons RFC",
@@ -1115,18 +1127,6 @@
       "publishedAt": "2026-10-15T16:54:34.018Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:76m24vhrsckzqfi33uyt6snv/bafkreifzbjyplcsxwqisckctdgeqhcpqtsopq3fxcm7jyv7p2gpsbqwrai",
       "source": "dragonsrfc.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3mxwdbaojyk2b",
-      "text": "Ospreys Announce Swansea.com as St Helen’s Roof Sponsor 🏟️\nOspreys Rugby are delighted to announce Swansea.com as the club’s roof sponsor at St Helen’s, the home of the Ospreys and Swansea RFC.\n📰 ospreys.info/4dFIdtG\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3mxwdbaojyk2b",
-      "publishedAt": "2026-10-15T15:00:19.838Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreifl6kkvgruk27c3avlhtnbhl4olgv3snklc5a7iu5ru2sl6fljl4q/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "youtube",
