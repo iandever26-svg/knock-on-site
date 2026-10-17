@@ -2,7 +2,7 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bat-mon",
  "matchId": "ccup-2026-10-17-bat-mon",
- "updated_at": "2026-10-17T19:07:03.191Z",
+ "updated_at": "2026-10-17T19:12:07.367Z",
  "final": false,
  "scores_verified": false,
  "note": "ESPN timeline incomplete: events sum to 5-0, final 0-0; running scores omitted.",
@@ -10,7 +10,7 @@
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604254/competitions/604254/plays?limit=400",
-   "fetched_at": "2026-10-17T19:07:03.191Z",
+   "fetched_at": "2026-10-17T19:12:07.367Z",
    "espn_event_id": "604254",
    "espn_league_id": 271937
   }
