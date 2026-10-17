@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-lyo-sha",
  "matchId": "chcup-2026-10-17-lyo-sha",
- "updated_at": "2026-10-17T13:38:10.779Z",
+ "updated_at": "2026-10-17T13:40:55.845Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604311/competitions/604311/plays?limit=400",
-   "fetched_at": "2026-10-17T13:38:10.779Z",
+   "fetched_at": "2026-10-17T13:40:55.845Z",
    "espn_event_id": "604311",
    "espn_league_id": 272073
   }
@@ -422,15 +422,69 @@
    "playerOn": "Thibaut Regard",
    "playerOff": "Adrien Seguret",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898370",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Gabin Lorre",
+   "detail": "Try (26-33)",
+   "playerName": "Gabin Lorre",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 33
+   }
+  },
+  {
+   "id": "espn-1898370-cm",
+   "minute": 67,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (26-33)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 26,
+    "away": 33
+   }
+  },
+  {
+   "id": "espn-1898377",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Monty Ioane",
+   "detail": "replaces Alfred Parisien",
+   "playerOn": "Monty Ioane",
+   "playerOff": "Alfred Parisien",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898379",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Camille Chat",
+   "detail": "replaces Mathis Sarragallet",
+   "playerOn": "Camille Chat",
+   "playerOff": "Mathis Sarragallet",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
+  "home": 26,
   "away": 33
  },
  "plays_summed": {
-  "home": 21,
+  "home": 26,
   "away": 33
  }
 }

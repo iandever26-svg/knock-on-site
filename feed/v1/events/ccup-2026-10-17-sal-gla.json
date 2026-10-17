@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sal-gla",
  "matchId": "ccup-2026-10-17-sal-gla",
- "updated_at": "2026-10-17T13:38:10.779Z",
+ "updated_at": "2026-10-17T13:40:55.845Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604247/competitions/604247/plays?limit=400",
-   "fetched_at": "2026-10-17T13:38:10.779Z",
+   "fetched_at": "2026-10-17T13:40:55.845Z",
    "espn_event_id": "604247",
    "espn_league_id": 271937
   }
@@ -364,6 +364,60 @@
    }
   },
   {
+   "id": "espn-1898371",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Si McIntyre",
+   "detail": "replaces Nicky Smith",
+   "playerOn": "Si McIntyre",
+   "playerOff": "Nicky Smith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898365",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Arron Reed",
+   "detail": "Try (27-26)",
+   "playerName": "Arron Reed",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1898365-cm",
+   "minute": 67,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (27-26)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 27,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1898375",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alex Lozowski",
+   "detail": "replaces Rekeiti Ma'asi-White",
+   "playerOn": "Alex Lozowski",
+   "playerOff": "Rekeiti Ma'asi-White",
+   "label": "Substitution"
+  },
+  {
    "id": "inferred-pt-away-1",
    "minute": 0,
    "minuteKnown": false,
@@ -373,20 +427,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (22-33)",
+   "detail": "Penalty try (inferred, minute unknown) (27-33)",
    "scoreAfter": {
-    "home": 22,
+    "home": 27,
     "away": 33
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 22,
+  "home": 27,
   "away": 33
  },
  "plays_summed": {
-  "home": 22,
+  "home": 27,
   "away": 26
  },
  "inferred_penalty_tries": [
