@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-lro-lio",
  "matchId": "ccup-2026-10-17-lro-lio",
- "updated_at": "2026-10-17T17:09:46.617Z",
+ "updated_at": "2026-10-17T17:16:52.612Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604252/competitions/604252/plays?limit=400",
-   "fetched_at": "2026-10-17T17:09:46.617Z",
+   "fetched_at": "2026-10-17T17:16:52.612Z",
    "espn_event_id": "604252",
    "espn_league_id": 271937
   }
@@ -88,8 +88,8 @@
    }
   },
   {
-   "id": "espn-1898770",
-   "minute": 29,
+   "id": "espn-1898775",
+   "minute": 28,
    "period": "1H",
    "type": "yellow_card",
    "team": "away",
@@ -131,15 +131,60 @@
     "home": 14,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1898782",
+   "minute": 33,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Pierre Bourgarit",
+   "detail": "Yellow card (14-7)",
+   "playerName": "Pierre Bourgarit",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 14,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1898784",
+   "minute": 34,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Morne Brandon",
+   "detail": "Try (14-12)",
+   "playerName": "Morne Brandon",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898783",
+   "minute": 35,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Chris Smith",
+   "detail": "Conversion (14-14)",
+   "playerName": "Chris Smith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 14,
-  "away": 7
+  "away": 14
  },
  "plays_summed": {
   "home": 14,
-  "away": 7
+  "away": 14
  }
 }
