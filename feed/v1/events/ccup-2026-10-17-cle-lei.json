@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-cle-lei",
  "matchId": "ccup-2026-10-17-cle-lei",
- "updated_at": "2026-10-17T14:48:00.681Z",
+ "updated_at": "2026-10-17T14:55:13.779Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604249/competitions/604249/plays?limit=400",
-   "fetched_at": "2026-10-17T14:48:00.681Z",
+   "fetched_at": "2026-10-17T14:55:13.779Z",
    "espn_event_id": "604249",
    "espn_league_id": 271937
   }
@@ -101,15 +101,72 @@
     "home": 6,
     "away": 12
    }
+  },
+  {
+   "id": "espn-1898488-cm",
+   "minute": 28,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (6-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 6,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898492",
+   "minute": 31,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thibaud Lanen",
+   "detail": "replaces Leo Michaux",
+   "playerOn": "Thibaud Lanen",
+   "playerOff": "Leo Michaux",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898496",
+   "minute": 33,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Joris Jurand",
+   "detail": "Try (11-12)",
+   "playerName": "Joris Jurand",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 11,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898497",
+   "minute": 34,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Harry Plummer",
+   "detail": "Conversion (13-12)",
+   "playerName": "Harry Plummer",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 13,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 6,
+  "home": 13,
   "away": 12
  },
  "plays_summed": {
-  "home": 6,
+  "home": 13,
   "away": 12
  }
 }
