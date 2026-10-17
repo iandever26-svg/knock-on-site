@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-con-sar",
  "matchId": "ccup-2026-10-17-con-sar",
- "updated_at": "2026-10-17T16:55:23.961Z",
+ "updated_at": "2026-10-17T17:09:46.617Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604251/competitions/604251/plays?limit=400",
-   "fetched_at": "2026-10-17T16:55:23.961Z",
+   "fetched_at": "2026-10-17T17:09:46.617Z",
    "espn_event_id": "604251",
    "espn_league_id": 271937
   }
@@ -88,7 +88,7 @@
    }
   },
   {
-   "id": "espn-1898747",
+   "id": "espn-1898757",
    "minute": 18,
    "period": "1H",
    "type": "try",
@@ -103,8 +103,8 @@
    }
   },
   {
-   "id": "espn-1898748",
-   "minute": 21,
+   "id": "espn-1898764",
+   "minute": 19,
    "period": "1H",
    "type": "conversion_made",
    "team": "home",
@@ -118,8 +118,8 @@
    }
   },
   {
-   "id": "espn-1898750",
-   "minute": 21,
+   "id": "espn-1898765",
+   "minute": 19,
    "period": "1H",
    "type": "substitution",
    "team": "away",
@@ -128,15 +128,75 @@
    "playerOn": "Nick Isiekwe",
    "playerOff": "Olamide Sodeke",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898769",
+   "minute": 24,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Cathal Forde",
+   "detail": "Try (12-12)",
+   "playerName": "Cathal Forde",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898769-cm",
+   "minute": 24,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (12-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 12,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898771",
+   "minute": 30,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Shamus Hurley-Langton",
+   "detail": "Try (17-12)",
+   "playerName": "Shamus Hurley-Langton",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898773",
+   "minute": 31,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Gilbert",
+   "detail": "Conversion (19-12)",
+   "playerName": "Sam Gilbert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 19,
   "away": 12
  },
  "plays_summed": {
-  "home": 7,
+  "home": 19,
   "away": 12
  }
 }
