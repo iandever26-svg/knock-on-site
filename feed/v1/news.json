@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-17T03:07:09+01:00",
+  "generatedAt": "2026-10-17T05:07:11+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my26cuyba52l",
+      "text": "Five tries in a dominant first half paved the way for the Wallaroos as Scotland fell to an eighth consecutive defeat in Sydney\nTalking points👉https://shorturl.at/MZklC",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my26cuyba52l",
+      "publishedAt": "2026-10-17T03:42:24.580Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreicutqkh5swm665bl7a722dqzauzghglcpqdtbfvj5f54kt4ndxmsa",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my252v7euh2d",
+      "text": "FULL-TIME | Another defeat for Scotland as they're well beaten by the Wallaroos in Sydney\nAnalysis & reaction to come...",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my252v7euh2d",
+      "publishedAt": "2026-10-17T03:20:02.832Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifucblqhr37gctpsjzrkmsf324epszedv7bmbo53v2j3mruypwyb4",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxzy2i53fx22",
@@ -97,6 +121,21 @@
         "edinburgh"
       ],
       "source": "x:EdinburghRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2111217437240868883",
+      "text": "📰 Report, reaction and gallery from Kingsholm 👉 https://t.co/enzQTUEsqL https://t.co/Ktq2rmXfFs",
+      "author": "Gloucester Rugby 🍒",
+      "handle": "gloucesterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1808786958673481728/9MztoY2U_bigger.jpg",
+      "url": "https://x.com/gloucesterrugby/status/2111217437240868883",
+      "publishedAt": "2026-10-16T22:07:16.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUyMNKoX0AEmCUC.jpg",
+      "teamIds": [
+        "gloucester"
+      ],
+      "source": "x:gloucesterrugby"
     },
     {
       "type": "x",
@@ -262,18 +301,6 @@
       "source": "harpinonrugby.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxzitzkpbl2d",
-      "text": "A 22-point haul from fullback Melvyn Jaminet helped Toulon past a battling Edinburgh\nTalkng points 👉 shorturl.at/kLYCI",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxzitzkpbl2d",
-      "publishedAt": "2026-10-16T21:18:17.665Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidh2iepi7ia5rmykxdxrafmfxh7wpkoijgk6nh6eykxvuauv6rbpa",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "x",
       "id": "x:2111202036582887457",
       "text": "Thank you for the match, and have a great season @EdinburghRugby 🤝 https://t.co/7ADfWfNCpI",
@@ -343,18 +370,6 @@
       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111198177227317248/img/zFbng3UDPwWipKKq.jpg",
       "teamIds": [],
       "source": "x:ChallengeCup_"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mxzhdfmhku2n",
-      "text": "FULL-TIME | Edinburgh's winning start to the season comes to an end as Toulon emerge victorious at The Hive\nAnalysis & reaction to come...",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mxzhdfmhku2n",
-      "publishedAt": "2026-10-16T20:51:06.152Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreibawdiv4lml3crpsl4tl5ogrhq24y3wlp6jgdmh44ivgxkgwuxpga",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "x",
@@ -739,21 +754,6 @@
         "bath"
       ],
       "source": "x:BathRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111139893325799882",
-      "text": "European nights 🤩\n\n#GLOvUBB | 🍒🍇 https://t.co/m4zDZUGjdK",
-      "author": "Gloucester Rugby 🍒",
-      "handle": "gloucesterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1808786958673481728/9MztoY2U_bigger.jpg",
-      "url": "https://x.com/gloucesterrugby/status/2111139893325799882",
-      "publishedAt": "2026-10-16T16:59:08.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUxGZbOWYAAc0t0.jpg",
-      "teamIds": [
-        "gloucester"
-      ],
-      "source": "x:gloucesterrugby"
     },
     {
       "type": "bluesky",
