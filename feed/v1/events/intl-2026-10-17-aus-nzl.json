@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-17-aus-nzl",
  "matchId": "intl-2026-10-17-aus-nzl",
- "updated_at": "2026-10-17T05:26:30.941Z",
+ "updated_at": "2026-10-17T05:37:18.971Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/603464/competitions/603464/plays?limit=400",
-   "fetched_at": "2026-10-17T05:26:30.941Z",
+   "fetched_at": "2026-10-17T05:37:18.971Z",
    "espn_event_id": "603464",
    "espn_league_id": 289234
   }
@@ -116,15 +116,120 @@
     "home": 0,
     "away": 17
    }
+  },
+  {
+   "id": "espn-1897997",
+   "minute": 26,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Rieko Ioane",
+   "detail": "Try (0-22)",
+   "playerName": "Rieko Ioane",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1897997-cm",
+   "minute": 26,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (0-22)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 0,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1897998",
+   "minute": 29,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Jeremy Williams",
+   "detail": "Try (5-22)",
+   "playerName": "Jeremy Williams",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1897999",
+   "minute": 30,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Ryan Lonergan",
+   "detail": "Conversion (7-22)",
+   "playerName": "Ryan Lonergan",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1898000",
+   "minute": 31,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Jeremy Williams",
+   "detail": "Yellow card (7-22)",
+   "playerName": "Jeremy Williams",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1898005",
+   "minute": 32,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Wallace Sititi",
+   "detail": "Try (7-27)",
+   "playerName": "Wallace Sititi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1898006",
+   "minute": 33,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Damian McKenzie",
+   "detail": "Conversion (7-29)",
+   "playerName": "Damian McKenzie",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 29
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
-  "away": 17
+  "home": 7,
+  "away": 29
  },
  "plays_summed": {
-  "home": 0,
-  "away": 17
+  "home": 7,
+  "away": 29
  }
 }
