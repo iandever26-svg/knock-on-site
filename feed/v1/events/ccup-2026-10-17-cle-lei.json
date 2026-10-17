@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-cle-lei",
  "matchId": "ccup-2026-10-17-cle-lei",
- "updated_at": "2026-10-17T15:44:49.768Z",
+ "updated_at": "2026-10-17T15:49:54.355Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604249/competitions/604249/plays?limit=400",
-   "fetched_at": "2026-10-17T15:44:49.768Z",
+   "fetched_at": "2026-10-17T15:49:54.355Z",
    "espn_event_id": "604249",
    "espn_league_id": 271937
   }
@@ -271,6 +271,21 @@
    }
   },
   {
+   "id": "espn-1898641",
+   "minute": 62,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sam Prendergast",
+   "detail": "Conversion (16-29)",
+   "playerName": "Sam Prendergast",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 16,
+    "away": 29
+   }
+  },
+  {
    "id": "espn-1898577",
    "minute": 62,
    "period": "2H",
@@ -348,12 +363,12 @@
    "type": "try",
    "team": "home",
    "player": "Mathys Belaubre",
-   "detail": "Try (21-27)",
+   "detail": "Try (21-29)",
    "playerName": "Mathys Belaubre",
    "label": "Try",
    "scoreAfter": {
     "home": 21,
-    "away": 27
+    "away": 29
    }
   },
   {
@@ -363,12 +378,12 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Harry Plummer",
-   "detail": "Conversion (23-27)",
+   "detail": "Conversion (23-29)",
    "playerName": "Harry Plummer",
    "label": "Conversion",
    "scoreAfter": {
     "home": 23,
-    "away": 27
+    "away": 29
    }
   },
   {
@@ -378,13 +393,88 @@
    "type": "try",
    "team": "away",
    "player": "Jack Conan",
-   "detail": "Try (23-32)",
+   "detail": "Try (23-34)",
    "playerName": "Jack Conan",
    "label": "Try",
    "scoreAfter": {
     "home": 23,
-    "away": 32
+    "away": 34
    }
+  },
+  {
+   "id": "espn-1898643",
+   "minute": 66,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sam Prendergast",
+   "detail": "Conversion (23-36)",
+   "playerName": "Sam Prendergast",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 23,
+    "away": 36
+   }
+  },
+  {
+   "id": "espn-1898644",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Louis Vermeulen",
+   "detail": "replaces Kevin Noah",
+   "playerOn": "Louis Vermeulen",
+   "playerOff": "Kevin Noah",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898659",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Conor O'Tighearnaigh",
+   "detail": "replaces James Ryan",
+   "playerOn": "Conor O'Tighearnaigh",
+   "playerOff": "James Ryan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898657",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Scott Penny",
+   "detail": "replaces Jack Conan",
+   "playerOn": "Scott Penny",
+   "playerOff": "Jack Conan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898661",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Baptiste Germain",
+   "detail": "replaces Baptiste Jauneau",
+   "playerOn": "Baptiste Germain",
+   "playerOff": "Baptiste Jauneau",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898663",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Matheo Frisach",
+   "detail": "replaces Nohem Ez Zahouany",
+   "playerOn": "Matheo Frisach",
+   "playerOff": "Nohem Ez Zahouany",
+   "label": "Substitution"
   },
   {
    "id": "inferred-pt-away-1",
@@ -396,21 +486,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (23-39)",
+   "detail": "Penalty try (inferred, minute unknown) (23-43)",
    "scoreAfter": {
     "home": 23,
-    "away": 39
+    "away": 43
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 23,
-  "away": 39
+  "away": 43
  },
  "plays_summed": {
   "home": 23,
-  "away": 32
+  "away": 36
  },
  "inferred_penalty_tries": [
   {
