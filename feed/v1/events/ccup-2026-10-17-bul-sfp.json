@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bul-sfp",
  "matchId": "ccup-2026-10-17-bul-sfp",
- "updated_at": "2026-10-17T12:17:03.183Z",
+ "updated_at": "2026-10-17T12:22:06.904Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604248/competitions/604248/plays?limit=400",
-   "fetched_at": "2026-10-17T12:17:03.183Z",
+   "fetched_at": "2026-10-17T12:22:06.904Z",
    "espn_event_id": "604248",
    "espn_league_id": 271937
   }
@@ -59,15 +59,30 @@
     "home": 7,
     "away": 3
    }
+  },
+  {
+   "id": "espn-1898147",
+   "minute": 17,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Cobus Wiese",
+   "detail": "Try (12-3)",
+   "playerName": "Cobus Wiese",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 3
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 12,
   "away": 3
  },
  "plays_summed": {
-  "home": 7,
+  "home": 12,
   "away": 3
  }
 }
