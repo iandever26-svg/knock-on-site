@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sto-bri",
  "matchId": "ccup-2026-10-17-sto-bri",
- "updated_at": "2026-10-17T15:34:41.761Z",
+ "updated_at": "2026-10-17T15:39:46.233Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604250/competitions/604250/plays?limit=400",
-   "fetched_at": "2026-10-17T15:34:41.761Z",
+   "fetched_at": "2026-10-17T15:39:46.233Z",
    "espn_event_id": "604250",
    "espn_league_id": 271937
   }
@@ -293,15 +293,77 @@
     "home": 26,
     "away": 12
    }
+  },
+  {
+   "id": "espn-1898553",
+   "minute": 54,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (28-12)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898555",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Siya Kolisi",
+   "detail": "replaces Andre-Hugo Venter",
+   "playerOn": "Siya Kolisi",
+   "playerOff": "Andre-Hugo Venter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898579",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Andre-Hugo Venter",
+   "detail": "replaces Andre-Hugo Venter",
+   "playerOn": "Andre-Hugo Venter",
+   "playerOff": "Andre-Hugo Venter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898584",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": null,
+   "detail": "replaces JJ Kotze",
+   "playerOff": "JJ Kotze",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898575",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ollie Harris",
+   "detail": "replaces Kieran Marmion",
+   "playerOn": "Ollie Harris",
+   "playerOff": "Kieran Marmion",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 26,
+  "home": 28,
   "away": 12
  },
  "plays_summed": {
-  "home": 26,
+  "home": 28,
   "away": 12
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-cle-lei",
  "matchId": "ccup-2026-10-17-cle-lei",
- "updated_at": "2026-10-17T15:34:41.761Z",
+ "updated_at": "2026-10-17T15:39:46.233Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604249/competitions/604249/plays?limit=400",
-   "fetched_at": "2026-10-17T15:34:41.761Z",
+   "fetched_at": "2026-10-17T15:39:46.233Z",
    "espn_event_id": "604249",
    "espn_league_id": 271937
   }
@@ -220,6 +220,81 @@
    }
   },
   {
+   "id": "espn-1898562",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Peniami Narisia",
+   "detail": "replaces Barnabe Massa",
+   "playerOn": "Peniami Narisia",
+   "playerOff": "Barnabe Massa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898564",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Leo Michaux",
+   "detail": "replaces Darcy Swain",
+   "playerOn": "Leo Michaux",
+   "playerOff": "Darcy Swain",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898566",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Antoine Chalus-Cercy",
+   "detail": "replaces Killian Tixeront",
+   "playerOn": "Antoine Chalus-Cercy",
+   "playerOff": "Killian Tixeront",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898568",
+   "minute": 61,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Dan Sheehan",
+   "detail": "Try (16-27)",
+   "playerName": "Dan Sheehan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 16,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1898577",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ronan Kelleher",
+   "detail": "replaces Dan Sheehan",
+   "playerOn": "Ronan Kelleher",
+   "playerOff": "Dan Sheehan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898580",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Thomas Clarkson",
+   "detail": "replaces Tadhg Furlong",
+   "playerOn": "Thomas Clarkson",
+   "playerOff": "Tadhg Furlong",
+   "label": "Substitution"
+  },
+  {
    "id": "inferred-pt-away-1",
    "minute": 0,
    "minuteKnown": false,
@@ -229,21 +304,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (16-29)",
+   "detail": "Penalty try (inferred, minute unknown) (16-34)",
    "scoreAfter": {
     "home": 16,
-    "away": 29
+    "away": 34
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 16,
-  "away": 29
+  "away": 34
  },
  "plays_summed": {
   "home": 16,
-  "away": 22
+  "away": 27
  },
  "inferred_penalty_tries": [
   {
