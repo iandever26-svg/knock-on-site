@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sal-gla",
  "matchId": "ccup-2026-10-17-sal-gla",
- "updated_at": "2026-10-17T13:40:55.845Z",
+ "updated_at": "2026-10-17T13:43:15.723Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604247/competitions/604247/plays?limit=400",
-   "fetched_at": "2026-10-17T13:40:55.845Z",
+   "fetched_at": "2026-10-17T13:43:15.723Z",
    "espn_event_id": "604247",
    "espn_league_id": 271937
   }
@@ -418,6 +418,45 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1898383",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ollie Smith",
+   "detail": "replaces Jamie Dobie",
+   "playerOn": "Ollie Smith",
+   "playerOff": "Jamie Dobie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898381",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ally Miller",
+   "detail": "replaces Euan Ferrie",
+   "playerOn": "Ally Miller",
+   "playerOff": "Euan Ferrie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898387",
+   "minute": 72,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Ollie Smith",
+   "detail": "Try (27-31)",
+   "playerName": "Ollie Smith",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 31
+   }
+  },
+  {
    "id": "inferred-pt-away-1",
    "minute": 0,
    "minuteKnown": false,
@@ -427,21 +466,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (27-33)",
+   "detail": "Penalty try (inferred, minute unknown) (27-38)",
    "scoreAfter": {
     "home": 27,
-    "away": 33
+    "away": 38
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 27,
-  "away": 33
+  "away": 38
  },
  "plays_summed": {
   "home": 27,
-  "away": 26
+  "away": 31
  },
  "inferred_penalty_tries": [
   {
