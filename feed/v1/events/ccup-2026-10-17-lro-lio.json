@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-lro-lio",
  "matchId": "ccup-2026-10-17-lro-lio",
- "updated_at": "2026-10-17T17:50:52.701Z",
+ "updated_at": "2026-10-17T17:55:58.407Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604252/competitions/604252/plays?limit=400",
-   "fetched_at": "2026-10-17T17:50:52.701Z",
+   "fetched_at": "2026-10-17T17:55:58.407Z",
    "espn_event_id": "604252",
    "espn_league_id": 271937
   }
@@ -301,6 +301,54 @@
    "detail": "replaces Theo McFarland",
    "playerOn": "Matthias Haddad",
    "playerOff": "Theo McFarland",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898849",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "SJ Kotze",
+   "detail": "replaces Boan Venter",
+   "playerOn": "SJ Kotze",
+   "playerOff": "Boan Venter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898853",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "RF Schoeman",
+   "detail": "replaces Conraad van Vuuren",
+   "playerOn": "RF Schoeman",
+   "playerOff": "Conraad van Vuuren",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898855",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tiaan Lange",
+   "detail": "replaces Morne Brandon",
+   "playerOn": "Tiaan Lange",
+   "playerOff": "Morne Brandon",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898865",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dillyn Leyds",
+   "detail": "replaces Semi Lagivala",
+   "playerOn": "Dillyn Leyds",
+   "playerOff": "Semi Lagivala",
    "label": "Substitution"
   }
  ],
