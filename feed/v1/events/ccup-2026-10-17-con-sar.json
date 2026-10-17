@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-con-sar",
  "matchId": "ccup-2026-10-17-con-sar",
- "updated_at": "2026-10-17T17:55:58.407Z",
+ "updated_at": "2026-10-17T18:02:02.133Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604251/competitions/604251/plays?limit=400",
-   "fetched_at": "2026-10-17T17:55:58.407Z",
+   "fetched_at": "2026-10-17T18:02:02.133Z",
    "espn_event_id": "604251",
    "espn_league_id": 271937
   }
@@ -395,15 +395,123 @@
    "playerOn": "Eoin de Buitlear",
    "playerOff": "Matt Victory",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898875",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Caolin Blade",
+   "detail": "replaces Colm Reilly",
+   "playerOn": "Caolin Blade",
+   "playerOff": "Colm Reilly",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898877",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thomas Connolly",
+   "detail": "replaces Sam Illo",
+   "playerOn": "Thomas Connolly",
+   "playerOff": "Sam Illo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898879",
+   "minute": 58,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Sione Va'enuku",
+   "detail": "Try (33-29)",
+   "playerName": "Sione Va'enuku",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 33,
+    "away": 29
+   }
+  },
+  {
+   "id": "espn-1898880",
+   "minute": 58,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Owen Farrell",
+   "detail": "Conversion (33-31)",
+   "playerName": "Owen Farrell",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 33,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1898881",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Josh Ioane",
+   "detail": "replaces Bundee Aki",
+   "playerOn": "Josh Ioane",
+   "playerOff": "Bundee Aki",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898884",
+   "minute": 61,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Caolin Blade",
+   "detail": "Try (38-31)",
+   "playerName": "Caolin Blade",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 38,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1898884-cm",
+   "minute": 61,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (38-31)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 38,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1898887",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sean O'Brien",
+   "detail": "replaces Sean Jansen",
+   "playerOn": "Sean O'Brien",
+   "playerOff": "Sean Jansen",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 33,
-  "away": 24
+  "home": 38,
+  "away": 31
  },
  "plays_summed": {
-  "home": 33,
-  "away": 24
+  "home": 38,
+  "away": 31
  }
 }

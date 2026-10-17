@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-lro-lio",
  "matchId": "ccup-2026-10-17-lro-lio",
- "updated_at": "2026-10-17T17:55:58.407Z",
+ "updated_at": "2026-10-17T18:02:02.133Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604252/competitions/604252/plays?limit=400",
-   "fetched_at": "2026-10-17T17:55:58.407Z",
+   "fetched_at": "2026-10-17T18:02:02.133Z",
    "espn_event_id": "604252",
    "espn_league_id": 271937
   }
@@ -350,15 +350,57 @@
    "playerOn": "Dillyn Leyds",
    "playerOff": "Semi Lagivala",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898883",
+   "minute": 61,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Tolu Latu",
+   "detail": "Try (24-14)",
+   "playerName": "Tolu Latu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1898883-cm",
+   "minute": 61,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (24-14)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 24,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1898885",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Dylan Sjoblom",
+   "detail": "replaces Etienne Oosthuizen",
+   "playerOn": "Dylan Sjoblom",
+   "playerOff": "Etienne Oosthuizen",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 19,
+  "home": 24,
   "away": 14
  },
  "plays_summed": {
-  "home": 19,
+  "home": 24,
   "away": 14
  }
 }
