@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-con-sar",
  "matchId": "ccup-2026-10-17-con-sar",
- "updated_at": "2026-10-17T17:44:01.725Z",
+ "updated_at": "2026-10-17T17:50:52.701Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604251/competitions/604251/plays?limit=400",
-   "fetched_at": "2026-10-17T17:44:01.725Z",
+   "fetched_at": "2026-10-17T17:50:52.701Z",
    "espn_event_id": "604251",
    "espn_league_id": 271937
   }
@@ -233,15 +233,153 @@
     "home": 19,
     "away": 19
    }
+  },
+  {
+   "id": "espn-1898841",
+   "minute": 47,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Cian Prendergast",
+   "detail": "Try (24-19)",
+   "playerName": "Cian Prendergast",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1898842",
+   "minute": 48,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Gilbert",
+   "detail": "Conversion (26-19)",
+   "playerName": "Sam Gilbert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 26,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1898817",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Corne Weilbach",
+   "detail": "replaces Marcus Street",
+   "playerOn": "Corne Weilbach",
+   "playerOff": "Marcus Street",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898832",
+   "minute": 50,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Rotimi Segun",
+   "detail": "Try (26-24)",
+   "playerName": "Rotimi Segun",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1898832-cm",
+   "minute": 50,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (26-24)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 26,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1898833",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Phil Brantingham",
+   "detail": "replaces Eroni Mawi",
+   "playerOn": "Phil Brantingham",
+   "playerOff": "Eroni Mawi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898835",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Eoghan Clarke",
+   "detail": "replaces Jamie George",
+   "playerOn": "Eoghan Clarke",
+   "playerOff": "Jamie George",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898837",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Alfie Barbeary",
+   "detail": "replaces Toby Knight",
+   "playerOn": "Alfie Barbeary",
+   "playerOff": "Toby Knight",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898843",
+   "minute": 52,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ciaran Frawley",
+   "detail": "Try (31-24)",
+   "playerName": "Ciaran Frawley",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 31,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1898844",
+   "minute": 53,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Gilbert",
+   "detail": "Conversion (33-24)",
+   "playerName": "Sam Gilbert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 33,
+    "away": 24
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 19,
-  "away": 19
+  "home": 33,
+  "away": 24
  },
  "plays_summed": {
-  "home": 19,
-  "away": 19
+  "home": 33,
+  "away": 24
  }
 }
