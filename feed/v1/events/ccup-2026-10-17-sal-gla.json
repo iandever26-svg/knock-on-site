@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sal-gla",
  "matchId": "ccup-2026-10-17-sal-gla",
- "updated_at": "2026-10-17T13:22:56.276Z",
+ "updated_at": "2026-10-17T13:28:00.789Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604247/competitions/604247/plays?limit=400",
-   "fetched_at": "2026-10-17T13:22:56.276Z",
+   "fetched_at": "2026-10-17T13:28:00.789Z",
    "espn_event_id": "604247",
    "espn_league_id": 271937
   }
@@ -208,6 +208,42 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1898302",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sam Talakai",
+   "detail": "replaces Zander Fagerson",
+   "playerOn": "Sam Talakai",
+   "playerOff": "Zander Fagerson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898304",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Patrick Schickerling",
+   "detail": "replaces Nathan McBeth",
+   "playerOn": "Patrick Schickerling",
+   "playerOff": "Nathan McBeth",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898309",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Olujare Oguntibeju",
+   "detail": "replaces Alex Craig",
+   "playerOn": "Olujare Oguntibeju",
+   "playerOff": "Alex Craig",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1898300",
    "minute": 53,
    "period": "2H",
@@ -217,6 +253,42 @@
    "detail": "replaces Tomas Francis",
    "playerOn": "Asher Opoku-Fordjour",
    "playerOff": "Tomas Francis",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898311",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Gregor Brown",
+   "detail": "replaces Ruwald van der Merwe",
+   "playerOn": "Gregor Brown",
+   "playerOff": "Ruwald van der Merwe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898314",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Christ Tshiunza",
+   "detail": "replaces Courtney Lawes",
+   "playerOn": "Christ Tshiunza",
+   "playerOff": "Courtney Lawes",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898316",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Nathan Jibulu",
+   "detail": "replaces Luke Cowan-Dickie",
+   "playerOn": "Nathan Jibulu",
+   "playerOff": "Luke Cowan-Dickie",
    "label": "Substitution"
   },
   {

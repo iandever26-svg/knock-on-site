@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-bli-osp",
  "matchId": "chcup-2026-10-17-bli-osp",
- "updated_at": "2026-10-17T13:22:56.276Z",
+ "updated_at": "2026-10-17T13:28:00.789Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604312/competitions/604312/plays?limit=400",
-   "fetched_at": "2026-10-17T13:22:56.276Z",
+   "fetched_at": "2026-10-17T13:28:00.789Z",
    "espn_event_id": "604312",
    "espn_league_id": 272073
   }
@@ -380,15 +380,69 @@
    "playerOn": "Temuri Dzodzuashvili",
    "playerOff": "Giorgi Spanderashvili",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898306",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kian Hire",
+   "detail": "replaces Ben Warren",
+   "playerOn": "Kian Hire",
+   "playerOff": "Ben Warren",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898308",
+   "minute": 62,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Kian Hire",
+   "detail": "Try (7-37)",
+   "playerName": "Kian Hire",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 37
+   }
+  },
+  {
+   "id": "espn-1898313",
+   "minute": 63,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Lawson Creighton",
+   "detail": "Conversion (7-39)",
+   "playerName": "Lawson Creighton",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 39
+   }
+  },
+  {
+   "id": "espn-1898329",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Harri Wilde",
+   "detail": "replaces Lewis Edwards",
+   "playerOn": "Harri Wilde",
+   "playerOff": "Lewis Edwards",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 32
+  "away": 39
  },
  "plays_summed": {
   "home": 7,
-  "away": 32
+  "away": 39
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-lyo-sha",
  "matchId": "chcup-2026-10-17-lyo-sha",
- "updated_at": "2026-10-17T13:22:56.276Z",
+ "updated_at": "2026-10-17T13:28:00.789Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604311/competitions/604311/plays?limit=400",
-   "fetched_at": "2026-10-17T13:22:56.276Z",
+   "fetched_at": "2026-10-17T13:28:00.789Z",
    "espn_event_id": "604311",
    "espn_league_id": 272073
   }
@@ -326,15 +326,69 @@
    "playerOn": "Bradley Davids",
    "playerOff": "Ivan van Zyl",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898319",
+   "minute": 56,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Nick Hatton",
+   "detail": "Try (21-24)",
+   "playerName": "Nick Hatton",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1898322",
+   "minute": 56,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Jordan Hendrikse",
+   "detail": "Conversion (21-26)",
+   "playerName": "Jordan Hendrikse",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1898320",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Marvin Okuya",
+   "detail": "replaces Janse Roux",
+   "playerOn": "Marvin Okuya",
+   "playerOff": "Janse Roux",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898325",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Leo Berdeu",
+   "detail": "replaces Monty Ioane",
+   "playerOn": "Leo Berdeu",
+   "playerOff": "Monty Ioane",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 19
+  "away": 26
  },
  "plays_summed": {
   "home": 21,
-  "away": 19
+  "away": 26
  }
 }

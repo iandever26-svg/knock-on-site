@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bul-sfp",
  "matchId": "ccup-2026-10-17-bul-sfp",
- "updated_at": "2026-10-17T13:22:56.276Z",
+ "updated_at": "2026-10-17T13:28:00.789Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604248/competitions/604248/plays?limit=400",
-   "fetched_at": "2026-10-17T13:22:56.276Z",
+   "fetched_at": "2026-10-17T13:28:00.789Z",
    "espn_event_id": "604248",
    "espn_league_id": 271937
   }
@@ -225,9 +225,9 @@
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": "Samuel Ezeala",
+   "player": "Rufus McLean",
    "detail": "replaces Lester Etien",
-   "playerOn": "Samuel Ezeala",
+   "playerOn": "Rufus McLean",
    "playerOff": "Lester Etien",
    "label": "Substitution"
   },
@@ -241,6 +241,54 @@
    "detail": "replaces Jacques Botha",
    "playerOn": "Petero Mailulu",
    "playerOff": "Jacques Botha",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898323",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Braxton Lua Asi",
+   "detail": "replaces Moses Alo-Emile",
+   "playerOn": "Braxton Lua Asi",
+   "playerOff": "Moses Alo-Emile",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898327",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Embrose Papier",
+   "detail": "replaces Paul de Wet",
+   "playerOn": "Embrose Papier",
+   "playerOff": "Paul de Wet",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898331",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jaco Grobbelaar",
+   "detail": "replaces Cobus Wiese",
+   "playerOn": "Jaco Grobbelaar",
+   "playerOff": "Cobus Wiese",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898333",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jeandre Rudolph",
+   "detail": "replaces Cameron Hanekom",
+   "playerOn": "Jeandre Rudolph",
+   "playerOff": "Cameron Hanekom",
    "label": "Substitution"
   }
  ],
