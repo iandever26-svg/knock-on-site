@@ -1,8 +1,142 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-17T07:07:07+01:00",
+  "generatedAt": "2026-10-17T08:07:16+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my2jmfbcd52a",
+      "text": "Bledisloe Cup 2nd Test - Australia v New Zealand in Sydney | 8/9 Rugby Post-Mortem (📹 @89combo) #BledisloeCup #Rugby #Wallabies",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my2jmfbcd52a",
+      "publishedAt": "2026-10-17T07:04:35.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigyeizr3fqvjlkz77l6gcfx53mqwucfgcst5inghu5dofgdv76pme",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my2jmdbskl2l",
+      "text": "The tricky little Eden Park wind #89rugby #rugby #BledisloeCup (📹 @89combo) #89rugby #rugby #BledisloeCup",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my2jmdbskl2l",
+      "publishedAt": "2026-10-17T07:04:32.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifb756i7tjyzjxow7yhxm7b73nrbjlz4nvhdd62g54hovmiu74nti",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my2jmb6q7k22",
+      "text": "Taine Basham is pure power 💪 (📹@URCOfficial) #TaineBasham #RugbyPower #CardiffBlues",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my2jmb6q7k22",
+      "publishedAt": "2026-10-17T07:04:30.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidhiuqm5w24gaprbfkk4gasb46xiecpxc5tzo6bqztkbkjt5i3qfm",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111351541525344550",
+      "text": "The journey begins here 💫 https://t.co/BB13KomGAl",
+      "author": "Glasgow Warriors",
+      "handle": "GlasgowWarriors",
+      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
+      "url": "https://x.com/GlasgowWarriors/status/2111351541525344550",
+      "publishedAt": "2026-10-17T07:00:09.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU0HCTuXUAAh5hX.jpg",
+      "teamIds": [
+        "glasgow"
+      ],
+      "source": "x:GlasgowWarriors"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3my2iz2xxb26z",
+      "text": "Bledisloe Cup 2026 aggregate score: NZ 93 Aus 40.\nAll Blacks attack on fire in the first half in Sydney.\nWallabies defence a perennial issue – missing 30 tackles over the course of the game; tackle completion rate just a touch over 70%.",
+      "author": "Jon Cardinelli",
+      "handle": "joncardinelli.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wizadpqsar4meknsnx7s3rms/bafkreicmmiirqk2ft7xymnjwhs66pxlm4ttg4u2v7vqg26qpvuchxm5nri",
+      "url": "https://bsky.app/profile/joncardinelli.bsky.social/post/3my2iz2xxb26z",
+      "publishedAt": "2026-10-17T06:53:46.828Z",
+      "thumbnail": null,
+      "source": "joncardinelli.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111349618717991285",
+      "text": "Job finished 🤝🏽 \n\nWe close out the Bledisloe Cup 2-0. https://t.co/LF0pm5seIu",
+      "author": "All Blacks",
+      "handle": "AllBlacks",
+      "avatar": "https://pbs.twimg.com/profile_images/1472711036813799428/QHrkYpf6_bigger.jpg",
+      "url": "https://x.com/AllBlacks/status/2111349618717991285",
+      "publishedAt": "2026-10-17T06:52:30.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU0FSY8WYAAAd_8.jpg",
+      "teamIds": [
+        "new-zealand"
+      ],
+      "source": "x:AllBlacks"
+    },
+    {
+      "type": "x",
+      "id": "x:2111349465844228231",
+      "text": "Disappointed with the result.\n\nAlways a tough contest, @AllBlacks 🤝 https://t.co/cpxrjhWt7W",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2111349465844228231",
+      "publishedAt": "2026-10-17T06:51:54.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU0FBp_agAAbjep.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
+    {
+      "type": "x",
+      "id": "x:2111346470095823122",
+      "text": "Lipo through traffic ⚡️ https://t.co/HfCruEOz2R",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2111346470095823122",
+      "publishedAt": "2026-10-17T06:40:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU0CYNQWkAACk3P.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
+    {
+      "type": "x",
+      "id": "x:2111346215317311568",
+      "text": "66' | Lipo zooms through ⚡️ https://t.co/AIorMTEelL",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2111346215317311568",
+      "publishedAt": "2026-10-17T06:38:59.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU0CHckbMAAvh-4.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:l80hn6kGR2I",
+      "title": "Taine Basham is pure power 💪",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=l80hn6kGR2I",
+      "publishedAt": "2026-10-17T06:15:20.000Z",
+      "thumbnail": "https://i1.ytimg.com/vi/l80hn6kGR2I/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my2gbb3zih2c",
@@ -56,45 +190,6 @@
     },
     {
       "type": "x",
-      "id": "x:2111329754133782567",
-      "text": "28' | We get our first points of the match. https://t.co/Few9nCHBfJ",
-      "author": "Wallabies",
-      "handle": "wallabies",
-      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
-      "url": "https://x.com/wallabies/status/2111329754133782567",
-      "publishedAt": "2026-10-17T05:33:34.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUzzAovboAAnS51.jpg",
-      "teamIds": [
-        "australia"
-      ],
-      "source": "x:wallabies"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my2ds4vyoc2z",
-      "text": "Leinster seek Champions Cup 'magic' as latest European quest starts on familiar ground (✍️@rugby_ie) #ChampionsCup #Leinster #ClermontAuvergne",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my2ds4vyoc2z",
-      "publishedAt": "2026-10-17T05:20:25.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigcjsewgmyygqivhp6kf7rg5grsmatjlsrpcn4mvew42dbck5anou",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my2cspeerw2p",
-      "text": "Munster must build on optimism and honour Axel at the Páirc (✍️@rugby_ie) #MunsterRugby #ChampionsCup #Racing92",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my2cspeerw2p",
-      "publishedAt": "2026-10-17T05:02:50.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiaywuhmwry7vnnbq4yx5tes2uokgnpu6erj46qf2vxr6wfo5sxjsi",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "x",
       "id": "x:2111321437663547639",
       "text": "The #InvestecChampionsCup is here. Let's go!\n\n🎟️ https://t.co/iHPYfSLWqe\n\n#STOvBRI #inittogether https://t.co/9xHsyV9zLy",
       "author": "DHL Stormers",
@@ -122,21 +217,6 @@
         "stormers"
       ],
       "source": "x:THESTORMERS"
-    },
-    {
-      "type": "x",
-      "id": "x:2111306512832622824",
-      "text": "In our backyard 🦘 https://t.co/hVwPUv8ge4",
-      "author": "Wallabies",
-      "handle": "wallabies",
-      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
-      "url": "https://x.com/wallabies/status/2111306512832622824",
-      "publishedAt": "2026-10-17T04:01:13.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUzeFE4aYAAIc9y.jpg",
-      "teamIds": [
-        "australia"
-      ],
-      "source": "x:wallabies"
     },
     {
       "type": "x",
@@ -206,21 +286,6 @@
       "publishedAt": "2026-10-17T03:20:02.832Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifucblqhr37gctpsjzrkmsf324epszedv7bmbo53v2j3mruypwyb4",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2111289239141019654",
-      "text": "Details 🔎\n\nWe’ll carry #881 on our backs today for one of our own, Nathan Charles 🦘 https://t.co/fnsJ48eE3f",
-      "author": "Wallabies",
-      "handle": "wallabies",
-      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
-      "url": "https://x.com/wallabies/status/2111289239141019654",
-      "publishedAt": "2026-10-17T02:52:35.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUzOXn3bYAAI-Gf.jpg",
-      "teamIds": [
-        "australia"
-      ],
-      "source": "x:wallabies"
     },
     {
       "type": "x",
@@ -376,18 +441,6 @@
         "dragons"
       ],
       "source": "x:dragonsrfc"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mxzkd4cqbk26",
-      "text": "Holders Bordeaux draw as Champions Cup opens on mournful note (✍️@rugby_ie) #ChampionsCup #Bordeaux #LaRochelle",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mxzkd4cqbk26",
-      "publishedAt": "2026-10-16T21:44:37.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib6rw52uiinl7rbfiay5m2fi46mbht6nio24zu22eyw3lsggrfcji",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
@@ -762,36 +815,6 @@
       "source": "x:usap_officiel"
     },
     {
-      "type": "x",
-      "id": "x:2111155604236746796",
-      "text": "What happened when @LouisReesZammit took on Welsh sprinter - and World Indoor Champion - Jeremiah Azu over 40 metres? ⚡️\n\nFind out here 👇\n\nhttps://t.co/yJ0gBgbcu7 https://t.co/8ix5QTe1DI",
-      "author": "Bristol Bears 🐻",
-      "handle": "BristolBears",
-      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
-      "url": "https://x.com/BristolBears/status/2111155604236746796",
-      "publishedAt": "2026-10-16T18:01:34.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111154492108357632/img/mMACTYTSguj5qssK.jpg",
-      "teamIds": [
-        "bristol"
-      ],
-      "source": "x:BristolBears"
-    },
-    {
-      "type": "x",
-      "id": "x:2111155296001315093",
-      "text": "Job's not finished. Game Day in Sydney! 🫡 \n\nEverything Bledisloe Cup: https://t.co/3TfvgH1jIM https://t.co/ltE5PMXiup",
-      "author": "All Blacks",
-      "handle": "AllBlacks",
-      "avatar": "https://pbs.twimg.com/profile_images/1472711036813799428/QHrkYpf6_bigger.jpg",
-      "url": "https://x.com/AllBlacks/status/2111155296001315093",
-      "publishedAt": "2026-10-16T18:00:20.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUxUjQSX0AAKeFq.jpg",
-      "teamIds": [
-        "new-zealand"
-      ],
-      "source": "x:AllBlacks"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mxyzv5nx2g2q",
       "text": "We'll be back tomorrow for round 1 of the Champions Cup 🏟️\n📺 Watch live on Premier Sports 2 - Kick off at 3:15 IST / 4:15 local time",
@@ -1110,17 +1133,6 @@
     },
     {
       "type": "youtube",
-      "id": "yt:IGOUZPAayZQ",
-      "title": "Leinster score a beauty🪉",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=IGOUZPAayZQ",
-      "publishedAt": "2026-10-15T06:15:38.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/IGOUZPAayZQ/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "youtube",
       "id": "yt:MElZA1s7Yug",
       "title": "Highlights | Munster Rugby v Ulster Rugby | URC R3",
       "author": "Munster Rugby",
@@ -1280,55 +1292,38 @@
       "publishedAt": "2026-10-09T22:51:41.302Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreibsvj77bpwlroqtnectparfrldtpdp3jkgyb75oa3budkpfqophhy",
       "source": "lplaybook.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3mxhsvjskas2k",
-      "text": "A bit like Al Pacino's Frank Slade in Scent Of A Woman, we're only getting warmed up on The Leinster Playbook.\nFor €5 a week we offer sustained long reads, coupled with news, interviews and original features.\ntheleinsterplaybook.counterpress.media",
-      "author": "The Leinster Playbook",
-      "handle": "lplaybook.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreigindvb7f6skkn3rjvjebp3pnkmcq2chdzvfyslpzqvymmoex2w5e",
-      "url": "https://bsky.app/profile/lplaybook.bsky.social/post/3mxhsvjskas2k",
-      "publishedAt": "2026-10-09T20:30:10.538Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tqaiior3rapjsccnczowb4h2/bafkreih5njrphrhpbq632bnbyyumnvetvuj3zvvgd63eapo7nb5gaabt7y",
-      "source": "lplaybook.bsky.social"
     }
   ],
   "sources": [
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 2
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 0
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "bluesky",
