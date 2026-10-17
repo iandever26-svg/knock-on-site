@@ -36,6 +36,26 @@
       "eventsUpdatedAt": "2026-10-17T16:05:06.534Z"
     },
     {
+      "match_id": "ccup-2026-10-17-con-sar",
+      "kickoff": "2026-10-17T17:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-17T16:38:41.086Z"
+    },
+    {
+      "match_id": "ccup-2026-10-17-lro-lio",
+      "kickoff": "2026-10-17T17:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-17T16:38:41.086Z"
+    },
+    {
       "match_id": "ccup-2026-10-17-sal-gla",
       "kickoff": "2026-10-17T13:00:00+01:00",
       "score": false,

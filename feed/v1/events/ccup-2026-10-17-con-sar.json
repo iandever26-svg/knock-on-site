@@ -1,0 +1,55 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ccup-2026-10-17-con-sar",
+ "matchId": "ccup-2026-10-17-con-sar",
+ "updated_at": "2026-10-17T16:38:41.086Z",
+ "final": false,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 0-7, final 0-5; running scores omitted.",
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604251/competitions/604251/plays?limit=400",
+   "fetched_at": "2026-10-17T16:38:41.086Z",
+   "espn_event_id": "604251",
+   "espn_league_id": 271937
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1898732",
+   "minute": 6,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Sione Va'enuku",
+   "detail": "Try",
+   "playerName": "Sione Va'enuku",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1898733",
+   "minute": 7,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Owen Farrell",
+   "detail": "Conversion",
+   "playerName": "Owen Farrell",
+   "label": "Conversion"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 0,
+  "away": 5
+ },
+ "plays_summed": {
+  "home": 0,
+  "away": 7
+ },
+ "unexplained_gap": {
+  "home": 0,
+  "away": -2
+ }
+}
