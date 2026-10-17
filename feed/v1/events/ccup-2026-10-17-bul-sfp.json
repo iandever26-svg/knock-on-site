@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bul-sfp",
  "matchId": "ccup-2026-10-17-bul-sfp",
- "updated_at": "2026-10-17T12:12:00.065Z",
+ "updated_at": "2026-10-17T12:17:03.183Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604248/competitions/604248/plays?limit=400",
-   "fetched_at": "2026-10-17T12:12:00.065Z",
+   "fetched_at": "2026-10-17T12:17:03.183Z",
    "espn_event_id": "604248",
    "espn_league_id": 271937
   }
@@ -44,15 +44,30 @@
     "home": 7,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1898142",
+   "minute": 10,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Ihaia West",
+   "detail": "Penalty (7-3)",
+   "playerName": "Ihaia West",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 7,
+    "away": 3
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 0
+  "away": 3
  },
  "plays_summed": {
   "home": 7,
-  "away": 0
+  "away": 3
  }
 }

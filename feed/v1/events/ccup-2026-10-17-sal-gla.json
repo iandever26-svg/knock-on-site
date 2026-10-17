@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sal-gla",
  "matchId": "ccup-2026-10-17-sal-gla",
- "updated_at": "2026-10-17T12:12:00.065Z",
+ "updated_at": "2026-10-17T12:17:03.183Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604247/competitions/604247/plays?limit=400",
-   "fetched_at": "2026-10-17T12:12:00.065Z",
+   "fetched_at": "2026-10-17T12:17:03.183Z",
    "espn_event_id": "604247",
    "espn_league_id": 271937
   }
@@ -44,15 +44,30 @@
     "home": 7,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1898140",
+   "minute": 9,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Arron Reed",
+   "detail": "Try (12-0)",
+   "playerName": "Arron Reed",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 12,
   "away": 0
  },
  "plays_summed": {
-  "home": 7,
+  "home": 12,
   "away": 0
  }
 }
