@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-sca-new",
  "matchId": "chcup-2026-10-17-sca-new",
- "updated_at": "2026-10-17T20:16:11.239Z",
+ "updated_at": "2026-10-17T20:21:15.154Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604314/competitions/604314/plays?limit=400",
-   "fetched_at": "2026-10-17T20:16:11.239Z",
+   "fetched_at": "2026-10-17T20:21:15.154Z",
    "espn_event_id": "604314",
    "espn_league_id": 272073
   }
@@ -218,15 +218,120 @@
    "playerOn": "Ryan Elias",
    "playerOff": "John McKee",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1899268",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Adam Brocklebank",
+   "detail": "replaces Tom West",
+   "playerOn": "Adam Brocklebank",
+   "playerOff": "Tom West",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899270",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Samson Adejimi",
+   "detail": "replaces Ollie Fletcher",
+   "playerOn": "Samson Adejimi",
+   "playerOff": "Ollie Fletcher",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899272",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Murray McCallum",
+   "detail": "replaces Francisco Moreno",
+   "playerOn": "Murray McCallum",
+   "playerOff": "Francisco Moreno",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899260",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sam O'Connor",
+   "detail": "replaces Kemsley Mathias",
+   "playerOn": "Sam O'Connor",
+   "playerOff": "Kemsley Mathias",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899262",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gabe Hawley",
+   "detail": "replaces Harri O'Connor",
+   "playerOn": "Gabe Hawley",
+   "playerOff": "Harri O'Connor",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899280",
+   "minute": 54,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Murray McCallum",
+   "detail": "Yellow card (26-0)",
+   "playerName": "Murray McCallum",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 26,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1899283",
+   "minute": 55,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ellis Mee",
+   "detail": "Try (31-0)",
+   "playerName": "Ellis Mee",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 31,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1899289",
+   "minute": 56,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joe Hawkins",
+   "detail": "Conversion (33-0)",
+   "playerName": "Joe Hawkins",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 33,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 26,
+  "home": 33,
   "away": 0
  },
  "plays_summed": {
-  "home": 26,
+  "home": 33,
   "away": 0
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-mun-rac",
  "matchId": "ccup-2026-10-17-mun-rac",
- "updated_at": "2026-10-17T20:16:11.239Z",
+ "updated_at": "2026-10-17T20:21:15.154Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604253/competitions/604253/plays?limit=400",
-   "fetched_at": "2026-10-17T20:16:11.239Z",
+   "fetched_at": "2026-10-17T20:21:15.154Z",
    "espn_event_id": "604253",
    "espn_league_id": 271937
   }
@@ -136,6 +136,18 @@
    }
   },
   {
+   "id": "espn-1899264",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sam James",
+   "detail": "replaces Vinaya Habosi",
+   "playerOn": "Sam James",
+   "playerOff": "Vinaya Habosi",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1899215",
    "minute": 45,
    "period": "2H",
@@ -157,18 +169,6 @@
    "detail": "replaces Antoine Latrasse",
    "playerOn": "Maxime Machenaud",
    "playerOff": "Antoine Latrasse",
-   "label": "Substitution"
-  },
-  {
-   "id": "espn-1899223",
-   "minute": 45,
-   "period": "2H",
-   "type": "substitution",
-   "team": "away",
-   "player": "Sam James",
-   "detail": "replaces Vinaya Habosi",
-   "playerOn": "Sam James",
-   "playerOff": "Vinaya Habosi",
    "label": "Substitution"
   },
   {
@@ -214,7 +214,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899238",
+   "id": "espn-1899252",
    "minute": 53,
    "period": "2H",
    "type": "try",
@@ -265,6 +265,54 @@
    "detail": "replaces Brian Gleeson",
    "playerOn": "Gavin Coombes",
    "playerOff": "Brian Gleeson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899278",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Arthur Roche",
+   "detail": "replaces Sione Tupou",
+   "playerOn": "Arthur Roche",
+   "playerOff": "Sione Tupou",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899281",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "JJ Hanrahan",
+   "detail": "replaces Charlie O'Shea",
+   "playerOn": "JJ Hanrahan",
+   "playerOff": "Charlie O'Shea",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899284",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Kieran Brookes",
+   "detail": "replaces Jack Aungier",
+   "playerOn": "Kieran Brookes",
+   "playerOff": "Jack Aungier",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899286",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Josh Wycherley",
+   "detail": "replaces Jeremy Loughman",
+   "playerOn": "Josh Wycherley",
+   "playerOff": "Jeremy Loughman",
    "label": "Substitution"
   }
  ],
