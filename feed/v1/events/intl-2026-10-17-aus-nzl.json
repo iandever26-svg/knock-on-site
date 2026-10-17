@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-17-aus-nzl",
  "matchId": "intl-2026-10-17-aus-nzl",
- "updated_at": "2026-10-17T06:19:39.427Z",
+ "updated_at": "2026-10-17T06:30:24.128Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/603464/competitions/603464/plays?limit=400",
-   "fetched_at": "2026-10-17T06:19:39.427Z",
+   "fetched_at": "2026-10-17T06:30:24.128Z",
    "espn_event_id": "603464",
    "espn_league_id": 289234
   }
@@ -442,6 +442,18 @@
    "detail": "replaces Wallace Sititi",
    "playerOn": "Shannon Frizell",
    "playerOff": "Wallace Sititi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898044",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Du'Plessis Kirifi",
+   "detail": "replaces Shannon Frizell",
+   "playerOn": "Du'Plessis Kirifi",
+   "playerOff": "Shannon Frizell",
    "label": "Substitution"
   }
  ],
