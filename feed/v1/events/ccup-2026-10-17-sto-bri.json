@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sto-bri",
  "matchId": "ccup-2026-10-17-sto-bri",
- "updated_at": "2026-10-17T14:31:54.395Z",
+ "updated_at": "2026-10-17T14:36:59.247Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604250/competitions/604250/plays?limit=400",
-   "fetched_at": "2026-10-17T14:31:54.395Z",
+   "fetched_at": "2026-10-17T14:36:59.247Z",
    "espn_event_id": "604250",
    "espn_league_id": 271937
   }
@@ -44,15 +44,45 @@
     "home": 7,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1898477",
+   "minute": 16,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Leolin Zas",
+   "detail": "Try (12-0)",
+   "playerName": "Leolin Zas",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1898478",
+   "minute": 17,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (14-0)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 0
  },
  "plays_summed": {
-  "home": 7,
+  "home": 14,
   "away": 0
  }
 }
