@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-lyo-sha",
  "matchId": "chcup-2026-10-17-lyo-sha",
- "updated_at": "2026-10-17T13:07:43.825Z",
+ "updated_at": "2026-10-17T13:12:47.750Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604311/competitions/604311/plays?limit=400",
-   "fetched_at": "2026-10-17T13:07:43.825Z",
+   "fetched_at": "2026-10-17T13:12:47.750Z",
    "espn_event_id": "604311",
    "espn_league_id": 272073
   }
@@ -164,6 +164,54 @@
     "home": 14,
     "away": 19
    }
+  },
+  {
+   "id": "espn-1898220",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Esethu Mnebelele",
+   "detail": "replaces Ethan Bester",
+   "playerOn": "Esethu Mnebelele",
+   "playerOff": "Ethan Bester",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898222",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cameron Dawson",
+   "detail": "replaces Phatu Ganyane",
+   "playerOn": "Cameron Dawson",
+   "playerOff": "Phatu Ganyane",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898224",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Nemo Roelofse",
+   "detail": "replaces Hanro Jacobs",
+   "playerOn": "Nemo Roelofse",
+   "playerOff": "Hanro Jacobs",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898238",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lilian Baret",
+   "detail": "replaces Maxime Gouzou",
+   "playerOn": "Lilian Baret",
+   "playerOff": "Maxime Gouzou",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

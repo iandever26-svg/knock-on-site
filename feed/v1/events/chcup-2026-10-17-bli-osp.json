@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-bli-osp",
  "matchId": "chcup-2026-10-17-bli-osp",
- "updated_at": "2026-10-17T13:07:43.825Z",
+ "updated_at": "2026-10-17T13:12:47.750Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604312/competitions/604312/plays?limit=400",
-   "fetched_at": "2026-10-17T13:07:43.825Z",
+   "fetched_at": "2026-10-17T13:12:47.750Z",
    "espn_event_id": "604312",
    "espn_league_id": 272073
   }
@@ -230,15 +230,105 @@
    "playerOn": "Vakhtang Jintcharadze",
    "playerOff": "Irakli Kvatadze",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898226",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Otar Giorgadze",
+   "detail": "replaces Luka Narsia",
+   "playerOn": "Otar Giorgadze",
+   "playerOff": "Luka Narsia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898229",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Giorgi Mamaiashvili",
+   "detail": "replaces Dato Abdushelishvili",
+   "playerOn": "Giorgi Mamaiashvili",
+   "playerOff": "Dato Abdushelishvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898231",
+   "minute": 50,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Lewis Lloyd",
+   "detail": "Try (7-32)",
+   "playerName": "Lewis Lloyd",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 32
+   }
+  },
+  {
+   "id": "espn-1898231-cm",
+   "minute": 50,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (7-32)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 7,
+    "away": 32
+   }
+  },
+  {
+   "id": "espn-1898232",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Morgan Morris",
+   "detail": "replaces Ryan Smith",
+   "playerOn": "Morgan Morris",
+   "playerOff": "Ryan Smith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898236",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cameron Jones",
+   "detail": "replaces Steffan Thomas",
+   "playerOn": "Cameron Jones",
+   "playerOff": "Steffan Thomas",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898234",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Otar Metreveli",
+   "detail": "replaces Romani Makhatadze",
+   "playerOn": "Otar Metreveli",
+   "playerOff": "Romani Makhatadze",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 27
+  "away": 32
  },
  "plays_summed": {
   "home": 7,
-  "away": 27
+  "away": 32
  }
 }
