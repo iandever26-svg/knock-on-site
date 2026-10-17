@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bul-sfp",
  "matchId": "ccup-2026-10-17-bul-sfp",
- "updated_at": "2026-10-17T12:47:26.001Z",
+ "updated_at": "2026-10-17T12:52:30.049Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604248/competitions/604248/plays?limit=400",
-   "fetched_at": "2026-10-17T12:47:26.001Z",
+   "fetched_at": "2026-10-17T12:52:30.049Z",
    "espn_event_id": "604248",
    "espn_league_id": 271937
   }
@@ -128,15 +128,45 @@
    "playerOn": "Sergo Abramishvili",
    "playerOff": "Thomas Bue",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898181",
+   "minute": 37,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Cameron Hanekom",
+   "detail": "Try (19-6)",
+   "playerName": "Cameron Hanekom",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 6
+   }
+  },
+  {
+   "id": "espn-1898182",
+   "minute": 37,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Handre Pollard",
+   "detail": "Conversion (21-6)",
+   "playerName": "Handre Pollard",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 6
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
+  "home": 21,
   "away": 6
  },
  "plays_summed": {
-  "home": 14,
+  "home": 21,
   "away": 6
  }
 }
