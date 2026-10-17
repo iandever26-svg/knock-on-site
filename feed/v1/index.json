@@ -16,6 +16,16 @@
       "eventsUpdatedAt": "2026-10-16T21:23:27.221Z"
     },
     {
+      "match_id": "ccup-2026-10-17-bat-mon",
+      "kickoff": "2026-10-17T20:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-17T19:07:03.191Z"
+    },
+    {
       "match_id": "ccup-2026-10-17-bul-sfp",
       "kickoff": "2026-10-17T13:00:00+01:00",
       "score": false,
@@ -54,6 +64,16 @@
       "lineupUpdatedAt": null,
       "events": true,
       "eventsUpdatedAt": "2026-10-17T18:29:18.684Z"
+    },
+    {
+      "match_id": "ccup-2026-10-17-mun-rac",
+      "kickoff": "2026-10-17T20:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-17T19:07:03.191Z"
     },
     {
       "match_id": "ccup-2026-10-17-sal-gla",
