@@ -23,7 +23,7 @@
       "lineup": false,
       "lineupUpdatedAt": null,
       "events": true,
-      "eventsUpdatedAt": "2026-10-17T19:12:07.367Z"
+      "eventsUpdatedAt": "2026-10-17T19:22:40.051Z"
     },
     {
       "match_id": "ccup-2026-10-17-bul-sfp",
@@ -73,7 +73,7 @@
       "lineup": false,
       "lineupUpdatedAt": null,
       "events": true,
-      "eventsUpdatedAt": "2026-10-17T19:12:07.367Z"
+      "eventsUpdatedAt": "2026-10-17T19:22:40.051Z"
     },
     {
       "match_id": "ccup-2026-10-17-sal-gla",
@@ -134,6 +134,16 @@
       "lineupUpdatedAt": null,
       "events": true,
       "eventsUpdatedAt": "2026-10-17T14:03:34.749Z"
+    },
+    {
+      "match_id": "chcup-2026-10-17-sca-new",
+      "kickoff": "2026-10-17T20:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-17T19:22:40.051Z"
     },
     {
       "match_id": "chcup-2026-10-17-zeb-uls",
