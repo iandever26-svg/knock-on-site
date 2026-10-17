@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-17-aus-nzl",
  "matchId": "intl-2026-10-17-aus-nzl",
- "updated_at": "2026-10-17T06:40:55.858Z",
- "final": false,
+ "updated_at": "2026-10-17T06:58:06.125Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/603464/competitions/603464/plays?limit=400",
-   "fetched_at": "2026-10-17T06:40:55.858Z",
+   "fetched_at": "2026-10-17T06:58:06.125Z",
    "espn_event_id": "603464",
    "espn_league_id": 289234
   }
@@ -523,7 +523,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1898054",
+   "id": "espn-1898117",
    "minute": 68,
    "period": "2H",
    "type": "substitution",
@@ -544,6 +544,33 @@
    "playerOn": "Codie Taylor",
    "playerOff": "Timoci Tavatavanawai",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898057",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Harry McLaughlin-Phillips",
+   "detail": "replaces Declan Meredith",
+   "playerOn": "Harry McLaughlin-Phillips",
+   "playerOff": "Declan Meredith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898113",
+   "minute": 76,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Chay Fihaki",
+   "detail": "Yellow card (21-43)",
+   "playerName": "Chay Fihaki",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 43
+   }
   }
  ],
  "score_source": "espn_scoreboard",
