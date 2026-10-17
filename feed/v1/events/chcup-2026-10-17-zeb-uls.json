@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-zeb-uls",
  "matchId": "chcup-2026-10-17-zeb-uls",
- "updated_at": "2026-10-17T16:00:02.168Z",
+ "updated_at": "2026-10-17T16:05:06.534Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604313/competitions/604313/plays?limit=400",
-   "fetched_at": "2026-10-17T16:00:02.168Z",
+   "fetched_at": "2026-10-17T16:05:06.534Z",
    "espn_event_id": "604313",
    "espn_league_id": 272073
   }
@@ -415,8 +415,8 @@
    }
   },
   {
-   "id": "espn-1898671",
-   "minute": 72,
+   "id": "espn-1898699",
+   "minute": 71,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -427,8 +427,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1898676",
-   "minute": 73,
+   "id": "espn-1898718",
+   "minute": 71,
    "period": "2H",
    "type": "try",
    "team": "away",
@@ -442,8 +442,8 @@
    }
   },
   {
-   "id": "espn-1898677",
-   "minute": 74,
+   "id": "espn-1898712",
+   "minute": 72,
    "period": "2H",
    "type": "conversion_made",
    "team": "away",
@@ -457,8 +457,8 @@
    }
   },
   {
-   "id": "espn-1898679",
-   "minute": 74,
+   "id": "espn-1898713",
+   "minute": 73,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -469,8 +469,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1898686",
-   "minute": 75,
+   "id": "espn-1898715",
+   "minute": 73,
    "period": "2H",
    "type": "try",
    "team": "home",
@@ -484,8 +484,8 @@
    }
   },
   {
-   "id": "espn-1898687",
-   "minute": 76,
+   "id": "espn-1898716",
+   "minute": 74,
    "period": "2H",
    "type": "conversion_made",
    "team": "home",
@@ -497,15 +497,45 @@
     "home": 21,
     "away": 33
    }
+  },
+  {
+   "id": "espn-1898721",
+   "minute": 77,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Martin Moloney",
+   "detail": "Try (21-38)",
+   "playerName": "Martin Moloney",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 38
+   }
+  },
+  {
+   "id": "espn-1898723",
+   "minute": 79,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Jamie Benson",
+   "detail": "Conversion (21-40)",
+   "playerName": "Jamie Benson",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 40
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 33
+  "away": 40
  },
  "plays_summed": {
   "home": 21,
-  "away": 33
+  "away": 40
  }
 }
