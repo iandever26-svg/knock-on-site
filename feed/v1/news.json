@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-17T23:07:15+01:00",
+  "generatedAt": "2026-10-18T00:07:04+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my44jpuwmb2z",
+      "text": "O'Donoghue proud as Munster victorious on emotional night (✍️@RTErugby) #MunsterRugby #RugbyUnion #JackODonoghue",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my44jpuwmb2z",
+      "publishedAt": "2026-10-17T22:15:46.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreied66csipqxa722tlvn7olpmm2tf7rtk7dnk6bm3ejtizszucmv4i",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my43jwtlcq2a",
@@ -75,18 +87,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3ybsirvw2z",
       "publishedAt": "2026-10-17T20:59:45.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreic7jxb3lrap2zz4j7xeamsiroectstj2mivl7szenrywhj2q5wgle",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3xzs5uyy2s",
-      "text": "Casey seals hard-fought win for Munster over Racing in Cork (✍️@rugby_ie) #MunsterRugby #Racing92 #PáircUíChaoimh",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3xzs5uyy2s",
-      "publishedAt": "2026-10-17T20:55:16.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicznnghxsloj7j5cn3mqdp664gppr5z5jjinrcmbgpw5x3npp3idy",
       "source": "rugbynewsplus.bsky.social"
     },
     {
