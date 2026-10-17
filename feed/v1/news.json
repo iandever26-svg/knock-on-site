@@ -1,8 +1,276 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-17T17:07:17+01:00",
+  "generatedAt": "2026-10-17T18:07:10+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3my3lbpmqck2q",
+      "text": "Connacht scoring a maul try",
+      "author": "The 2nd Row",
+      "handle": "the2ndrow.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiazut3bcdskefwftkflzwbla4h6q56u7xutxhdmmhk4unffwpjl4e",
+      "url": "https://bsky.app/profile/the2ndrow.bsky.social/post/3my3lbpmqck2q",
+      "publishedAt": "2026-10-17T17:07:04.136Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreihnspn5q7gnpm4xaucph2k6v4zduidnqrur6p26vudgjzmd6ee3li",
+      "source": "the2ndrow.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my3kzx2kc723",
+      "text": "What a day for the Tuipulotu family 🫶\nRead what Sione had to say about his brother's Glasgow Warriors debut & a big win over Sale Sharks\n🔗 shorturl.at/HhtES",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my3kzx2kc723",
+      "publishedAt": "2026-10-17T17:02:40.749Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreifbruix2dgygyv7mrvsl72p3iossekdi4na2wl55plke7zeolosrm",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3my3kybeeok2n",
+      "text": "Connacht with the ball and Connacht without the ball\nIs no different to Dr Jekyll and Mr Hyde",
+      "author": "The 2nd Row",
+      "handle": "the2ndrow.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiazut3bcdskefwftkflzwbla4h6q56u7xutxhdmmhk4unffwpjl4e",
+      "url": "https://bsky.app/profile/the2ndrow.bsky.social/post/3my3kybeeok2n",
+      "publishedAt": "2026-10-17T17:01:47.191Z",
+      "thumbnail": null,
+      "source": "the2ndrow.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111502851687981092",
+      "text": "A gesture of respect and solidarity. 💛🦁\n\nThe @staderochelais family welcomed us with a guard of honour as we arrived at the stadium.\n\nA moment that reminds us rugby is bigger than just the game. 💛 #ForHyron\n\n#LionsPride #ForOurCity https://t.co/JrlDl4IMH4",
+      "author": "Lions",
+      "handle": "LionsRugbyCo",
+      "avatar": "https://pbs.twimg.com/profile_images/1288898544645144578/dNPdChOX_bigger.jpg",
+      "url": "https://x.com/LionsRugbyCo/status/2111502851687981092",
+      "publishedAt": "2026-10-17T17:01:24.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111502789230682112/img/cN-9kgS0vs0rzhdz.jpg",
+      "teamIds": [
+        "lions"
+      ],
+      "source": "x:LionsRugbyCo"
+    },
+    {
+      "type": "x",
+      "id": "x:2111502772881256627",
+      "text": "Off the mark 💪\n\nHenco gets the first points on the board for the @LionsRugbyCo \n\nWatch live on  @beinsports @supersporttv @premsportstv @florugby and EPCR TV https://t.co/UERQEBJG1C",
+      "author": "Investec Champions Cup",
+      "handle": "ChampionsCup",
+      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
+      "url": "https://x.com/ChampionsCup/status/2111502772881256627",
+      "publishedAt": "2026-10-17T17:01:05.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2Qjt-XkAAgFYf.jpg",
+      "teamIds": [],
+      "source": "x:ChampionsCup"
+    },
+    {
+      "type": "x",
+      "id": "x:2111502752215925062",
+      "text": "Saracens hot on the attack from early on 👌\n\nVaenuku and Calouri touching down 🤩\n\nWatch live on @premsportstv @beinsports @supersporttv @florugby and EPCR TV \n\n#InvestecChampionsCup https://t.co/It5bvlwmQj",
+      "author": "Investec Champions Cup",
+      "handle": "ChampionsCup",
+      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
+      "url": "https://x.com/ChampionsCup/status/2111502752215925062",
+      "publishedAt": "2026-10-17T17:01:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2QisXXMAADH0F.jpg",
+      "teamIds": [],
+      "source": "x:ChampionsCup"
+    },
+    {
+      "type": "x",
+      "id": "x:2111501653841006732",
+      "text": "Rest in peace, Hyron 🕊️\n\n#ForHyron https://t.co/GDPhmM42gX",
+      "author": "Investec Champions Cup",
+      "handle": "ChampionsCup",
+      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
+      "url": "https://x.com/ChampionsCup/status/2111501653841006732",
+      "publishedAt": "2026-10-17T16:56:38.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2PdZLXIAAI_U_.jpg",
+      "teamIds": [],
+      "source": "x:ChampionsCup"
+    },
+    {
+      "type": "x",
+      "id": "x:2111500565431677315",
+      "text": "Never in doubt 🙌👏🔥\n\nYour Investec Champions Cup player of the Match, Cheswill.\n\n@ChampionsCup | @Investec https://t.co/F3L8B2wvcM",
+      "author": "Official Blue Bulls",
+      "handle": "BlueBullsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
+      "url": "https://x.com/BlueBullsRugby/status/2111500565431677315",
+      "publishedAt": "2026-10-17T16:52:19.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2OiqUXsAA9e3_.jpg",
+      "teamIds": [
+        "bulls"
+      ],
+      "source": "x:BlueBullsRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2111498347974365575",
+      "text": "Never in doubt 🙌👏🔥\n\nYour Investec Champions Cup player of the Match.\n\n@ChampionsCup | @Investec https://t.co/PZkjDskJgH",
+      "author": "Official Blue Bulls",
+      "handle": "BlueBullsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
+      "url": "https://x.com/BlueBullsRugby/status/2111498347974365575",
+      "publishedAt": "2026-10-17T16:43:30.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2Mg2tXgAABF-c.jpg",
+      "teamIds": [
+        "bulls"
+      ],
+      "source": "x:BlueBullsRugby"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3itrdw4n2s",
+      "text": "It’s Finally Over. 🇨🇦 #rugby #women (📹@PirateRugbyPod) #Rugby #WomenInSport #RugbyUnion",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3itrdw4n2s",
+      "publishedAt": "2026-10-17T16:23:28.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreih3volqscaiyx7qz2pgcxras5gknkw4f3su6sictt2yjz3bnzepli",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3irzb2ho2g",
+      "text": "Champions Cup updates: Connacht v Saracens (✍️@RTErugby) #ChampionsCup #Rugby #Connacht",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3irzb2ho2g",
+      "publishedAt": "2026-10-17T16:22:29.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiex5qmxwlxpdjlpge4upzlw5l2k4zif4oyrzyrhvms5f6f73stffu",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111493043132190842",
+      "text": "In honour of Axel, the number 8 jersey will be retired for the day – as it was for the Glasgow game in 2016 – with Brian Gleeson wearing number 24.\n\n#SUAF 🔴 | #MUNvR92 https://t.co/QhvmFRLxNF",
+      "author": "Munster Rugby",
+      "handle": "Munsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110417394795511808/MFQIU77q_bigger.jpg",
+      "url": "https://x.com/Munsterrugby/status/2111493043132190842",
+      "publishedAt": "2026-10-17T16:22:25.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2HuovWsAAShax.jpg",
+      "teamIds": [
+        "munster"
+      ],
+      "source": "x:Munsterrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2111491769909297589",
+      "text": "📊 | Here are the match stats from today's bonus-point defeat of ASM Clermont Auvergne, courtesy of @LayaHealthcare \n\n#ASMvLEI https://t.co/29WghjQW6f",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1993085605345968128/98zCXa8C_bigger.jpg",
+      "url": "https://x.com/leinsterrugby/status/2111491769909297589",
+      "publishedAt": "2026-10-17T16:17:22.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2GU_cXkAEycho.jpg",
+      "teamIds": [
+        "leinster"
+      ],
+      "source": "x:leinsterrugby"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3my3iitggy62a",
+      "text": "📊 | Here are the match stats from today's bonus-point defeat of ASM Clermont Auvergne, courtesy of Laya Healthcare\n#ASMvLEI",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3my3iitggy62a",
+      "publishedAt": "2026-10-17T16:17:21.615Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreifv6zrbpctvslrbvxokc7cjaop2ikiq7gyrseekcvhby6ojievjzi",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111490745526051167",
+      "text": "Bonus point win in Parma 💥 https://t.co/2hgr5yA21b",
+      "author": "Ulster Rugby",
+      "handle": "UlsterRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1807735739297251328/5Dhp1fAe_bigger.jpg",
+      "url": "https://x.com/UlsterRugby/status/2111490745526051167",
+      "publishedAt": "2026-10-17T16:13:17.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2FoZfW8AAvl1r.jpg",
+      "teamIds": [
+        "ulster"
+      ],
+      "source": "x:UlsterRugby"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3ia6infa2i",
+      "text": "Second-half surge sees Leinster clear Clermont test (✍️@rugby_ie) #Leinster #Clermont #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3ia6infa2i",
+      "publishedAt": "2026-10-17T16:12:31.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreieaks35ws3k4qp3mecilxwzkzl6ggrdx566ivsft2iomnz6fs7osi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my3i6qni3w23",
+      "text": "Glasgow Warriors showed their Champions Cup credentials by making a dream start to the competition with a 47-27 bonus-point win against Sale\n🔗 shorturl.at/SkWrd",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my3i6qni3w23",
+      "publishedAt": "2026-10-17T16:11:43.167Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiedwrtknqyorbovwf54ps3ttm6fzfbzxovvjlt6zxvuv4gbrnjqb4",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111489550170169392",
+      "text": "Ice cold glass of Irn Ru 🧊 https://t.co/3b8vlijE70",
+      "author": "Glasgow Warriors",
+      "handle": "GlasgowWarriors",
+      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
+      "url": "https://x.com/GlasgowWarriors/status/2111489550170169392",
+      "publishedAt": "2026-10-17T16:08:32.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2Egt7X0AAokSP.jpg",
+      "teamIds": [
+        "glasgow"
+      ],
+      "source": "x:GlasgowWarriors"
+    },
+    {
+      "type": "x",
+      "id": "x:2111489428350746973",
+      "text": "Lowry takes the plunge! 🌊\n\n#ChallengeCupRugby https://t.co/HYKLL9oLeM",
+      "author": "EPCR Challenge Cup",
+      "handle": "ChallengeCup_",
+      "avatar": "https://pbs.twimg.com/profile_images/1443878359226896423/Otikwf_N_bigger.jpg",
+      "url": "https://x.com/ChallengeCup_/status/2111489428350746973",
+      "publishedAt": "2026-10-17T16:08:03.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111489313586249728/img/5iy4Ar-jYx9UrCXg.jpg",
+      "teamIds": [],
+      "source": "x:ChallengeCup_"
+    },
+    {
+      "type": "x",
+      "id": "x:2111489162519994726",
+      "text": "‘This is just the start’\n\nSione Tuipulotu presents his younger brother Ottavio with his debut shirt 🫶 https://t.co/C396SupwoF",
+      "author": "Glasgow Warriors",
+      "handle": "GlasgowWarriors",
+      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
+      "url": "https://x.com/GlasgowWarriors/status/2111489162519994726",
+      "publishedAt": "2026-10-17T16:07:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111489016340119554/img/5kS2N84OS5ZEnKH1.jpg",
+      "teamIds": [
+        "glasgow"
+      ],
+      "source": "x:GlasgowWarriors"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3my3hrjd3kk6z",
@@ -38,6 +306,34 @@
       "publishedAt": "2026-10-17T16:03:47.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicoe3isotz4lygjxhkpquxjgnmhrjl7eniic5bzqignf7dh4h5dzq",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111488098928300378",
+      "text": "Kicking off the new @ChampionsCup campaign with a bonus point at the Stade Marcel-Michelin 🔥\n\n#ASMvLEI https://t.co/8wqj3s9NTX",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1993085605345968128/98zCXa8C_bigger.jpg",
+      "url": "https://x.com/leinsterrugby/status/2111488098928300378",
+      "publishedAt": "2026-10-17T16:02:46.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2DLRWWEAA4uBK.jpg",
+      "teamIds": [
+        "leinster"
+      ],
+      "source": "x:leinsterrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2111488072701661371",
+      "text": "L'@ASMOfficiel a longtemps lutté et a tout tenté mais le Leinster était trop fort et les Auvergnats s'inclinent à domicile ❌\n\n#TOP14 #InvestecChampionsCup https://t.co/VVNAMrDzlY",
+      "author": "TOP 14 Rugby",
+      "handle": "top14rugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_bigger.jpg",
+      "url": "https://x.com/top14rugby/status/2111488072701661371",
+      "publishedAt": "2026-10-17T16:02:40.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU2DKMmXAAEieLn.jpg",
+      "teamIds": [],
+      "source": "x:top14rugby"
     },
     {
       "type": "bluesky",
@@ -118,18 +414,6 @@
       "source": "leinsterrugby.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3my3gpcbmfs2d",
-      "text": "⏱️ | 66'\nTRY! Jack Conan cancels out the Clermont try with a score of his own! Prendergast knocks over the extras.\n🔵🔵 23-41  🩶🩶\n#ASMvLEI",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3my3gpcbmfs2d",
-      "publishedAt": "2026-10-17T15:45:11.194Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreifzpo2ohbhnxgfm52n4q6xfoj53gzop5wf3jq53tqshsfemcjplia",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
       "type": "x",
       "id": "x:2111483152099058167",
       "text": "Captains for coin toss 🪙\n\n#CONvSAR | #InvestecChampionsCup https://t.co/pyBMxale6r",
@@ -180,19 +464,6 @@
       "publishedAt": "2026-10-17T15:26:27.092Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreibudp66gjtvfmdis6nfivf2faxqamxplwraqoylqrnxzjt4paq5zq/thumbnail.jpg",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2111478687522525657",
-      "text": "O'brien with a PERFECT offload to Prendergast 🔥\n\n#InvestecChampionsCup https://t.co/MKKRLyUM6M",
-      "author": "Investec Champions Cup",
-      "handle": "ChampionsCup",
-      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
-      "url": "https://x.com/ChampionsCup/status/2111478687522525657",
-      "publishedAt": "2026-10-17T15:25:23.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU16mvmWUAA6KMo.jpg",
-      "teamIds": [],
-      "source": "x:ChampionsCup"
     },
     {
       "type": "x",
@@ -295,19 +566,6 @@
     },
     {
       "type": "x",
-      "id": "x:2111473237204853016",
-      "text": "Bonus point win 💪\n\nCatch up with instant #InvestecChampionsCup highlights ➡️ https://t.co/7e4aQSRl2n https://t.co/dAYtDnJykK",
-      "author": "Investec Champions Cup",
-      "handle": "ChampionsCup",
-      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
-      "url": "https://x.com/ChampionsCup/status/2111473237204853016",
-      "publishedAt": "2026-10-17T15:03:43.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU11stnWwAI5sSb.jpg",
-      "teamIds": [],
-      "source": "x:ChampionsCup"
-    },
-    {
-      "type": "x",
       "id": "x:2111472940747252167",
       "text": "Once a Shark, forever a Shark #373\n\nThank you to everyone who shared a minute’s silence with us this afternoon to remember our friend and teammate Hyron. \n\nOur thoughts and prayers go out to his family, friends and everyone who had the privilege of knowing what a great man he was.\n\nPlease feel free to leave a message of condolence below. \n🔗 https://t.co/nZoInkaROQ",
       "author": "Sale Sharks 🦈",
@@ -335,49 +593,6 @@
         "ulster"
       ],
       "source": "x:UlsterRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111472546172346875",
-      "text": "Coast-to-coast 🤩\n\nCatch up with instant #InvestecChampionsCup highlights ➡️ https://t.co/2hiH48WbuT https://t.co/NDDggyIBeY",
-      "author": "Investec Champions Cup",
-      "handle": "ChampionsCup",
-      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
-      "url": "https://x.com/ChampionsCup/status/2111472546172346875",
-      "publishedAt": "2026-10-17T15:00:58.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU11EJZW4AEfppx.jpg",
-      "teamIds": [],
-      "source": "x:ChampionsCup"
-    },
-    {
-      "type": "x",
-      "id": "x:2111472543521550540",
-      "text": "We trail by one at the break in Clermont\n\n#ASMvLEI https://t.co/7KQEGaegCL",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1993085605345968128/98zCXa8C_bigger.jpg",
-      "url": "https://x.com/leinsterrugby/status/2111472543521550540",
-      "publishedAt": "2026-10-17T15:00:58.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU10-e2W8AAwPF5.jpg",
-      "teamIds": [
-        "leinster"
-      ],
-      "source": "x:leinsterrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111472391272779780",
-      "text": "TWOpulotu ✌️ https://t.co/aGxfokc7SA",
-      "author": "Glasgow Warriors",
-      "handle": "GlasgowWarriors",
-      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
-      "url": "https://x.com/GlasgowWarriors/status/2111472391272779780",
-      "publishedAt": "2026-10-17T15:00:21.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU1z4dvXUAAYRmJ.jpg",
-      "teamIds": [
-        "glasgow"
-      ],
-      "source": "x:GlasgowWarriors"
     },
     {
       "type": "x",
@@ -423,36 +638,6 @@
         "la-rochelle"
       ],
       "source": "x:staderochelais"
-    },
-    {
-      "type": "x",
-      "id": "x:2111471219883360699",
-      "text": "TWOpuilotu ✌️ https://t.co/qgLTROO2l6",
-      "author": "Glasgow Warriors",
-      "handle": "GlasgowWarriors",
-      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
-      "url": "https://x.com/GlasgowWarriors/status/2111471219883360699",
-      "publishedAt": "2026-10-17T14:55:42.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU1z4dvXUAAYRmJ.jpg",
-      "teamIds": [
-        "glasgow"
-      ],
-      "source": "x:GlasgowWarriors"
-    },
-    {
-      "type": "x",
-      "id": "x:2111469786261536784",
-      "text": "Henry Walker 👏👏 https://t.co/HlYNlUAP7m",
-      "author": "Ulster Rugby",
-      "handle": "UlsterRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1807735739297251328/5Dhp1fAe_bigger.jpg",
-      "url": "https://x.com/UlsterRugby/status/2111469786261536784",
-      "publishedAt": "2026-10-17T14:50:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU1yiSPXwAAzO0G.jpg",
-      "teamIds": [
-        "ulster"
-      ],
-      "source": "x:UlsterRugby"
     },
     {
       "type": "x",
@@ -573,21 +758,6 @@
       "source": "x:top14rugby"
     },
     {
-      "type": "x",
-      "id": "x:2111459291500536023",
-      "text": "Nearly time to go 👊 \n\n#ASMvLEI https://t.co/mvAAjLfMLZ",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1993085605345968128/98zCXa8C_bigger.jpg",
-      "url": "https://x.com/leinsterrugby/status/2111459291500536023",
-      "publishedAt": "2026-10-17T14:08:18.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU1pA9SWQAAM2lh.jpg",
-      "teamIds": [
-        "leinster"
-      ],
-      "source": "x:leinsterrugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3my3bbzvj2c2k",
       "text": "Gwilym Evans is your EPCR Challenge Cup Player of the Match 🖤\nA fantastic try scoring performance from the backrower 😤\n#OurBloodIsBlack",
@@ -682,21 +852,6 @@
       "source": "x:SFParisRugby"
     },
     {
-      "type": "x",
-      "id": "x:2111457203030786405",
-      "text": "✍️ This is your chance to win a #BigGame18 shirt signed by @pauloakenfold 🤩\n\nEnter now: https://t.co/dSt62A7bEq\n\n#COYQ https://t.co/ebHFulhKWz",
-      "author": "Harlequins 🃏",
-      "handle": "Harlequins",
-      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
-      "url": "https://x.com/Harlequins/status/2111457203030786405",
-      "publishedAt": "2026-10-17T14:00:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUrfzRzW8AA4Ab8.jpg",
-      "teamIds": [
-        "harlequins"
-      ],
-      "source": "x:Harlequins"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3my3ar7qfu26z",
       "text": "Stunning win for a young Sharks side on the road. Definitely a different energy about this team this season, and they've carried their URC form through to the Challenge Cup. Older recruits (Van Zyl, Lewies, Roelofse) made an impact, but Siyaya, Bester and co outstanding",
@@ -707,18 +862,6 @@
       "publishedAt": "2026-10-17T13:58:53.192Z",
       "thumbnail": null,
       "source": "joncardinelli.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3aq2q2mc2i",
-      "text": "LIVE: Clermont v Leinster, Champions Cup (✍️@rugby_ie) #ChampionsCup #Clermont #Leinster",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3aq2q2mc2i",
-      "publishedAt": "2026-10-17T13:58:14.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidjl4cdakpwbsq736y4tr44xy26d5zqsboalmy5du4uxvc6thcis4",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -745,64 +888,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2111454947707605203",
-      "text": "Siyaya cuts through like a hot knife through butter! 🔪\n\n#ChallengeCupRugby https://t.co/68fCttzCxc",
-      "author": "EPCR Challenge Cup",
-      "handle": "ChallengeCup_",
-      "avatar": "https://pbs.twimg.com/profile_images/1443878359226896423/Otikwf_N_bigger.jpg",
-      "url": "https://x.com/ChallengeCup_/status/2111454947707605203",
-      "publishedAt": "2026-10-17T13:51:03.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111454739124609024/img/5bHcmmxXECF9cKXr.jpg",
-      "teamIds": [],
-      "source": "x:ChallengeCup_"
-    },
-    {
-      "type": "x",
-      "id": "x:2111453724149473363",
-      "text": "Settling in at DHL Stadium 🏟️\n\n#STOvBRI | #BristolBears https://t.co/99su6hp8nt",
-      "author": "Bristol Bears 🐻",
-      "handle": "BristolBears",
-      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
-      "url": "https://x.com/BristolBears/status/2111453724149473363",
-      "publishedAt": "2026-10-17T13:46:11.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU1j2NrWsAAZgnp.jpg",
-      "teamIds": [
-        "bristol"
-      ],
-      "source": "x:BristolBears"
-    },
-    {
-      "type": "x",
-      "id": "x:2111452520220684606",
-      "text": "Your Munster team to take on Racing 92 in Cork 👊\n\n#SUAF 🔴 | #MUNvR92 https://t.co/V4LuAwUHU5",
-      "author": "Munster Rugby",
-      "handle": "Munsterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2110417394795511808/MFQIU77q_bigger.jpg",
-      "url": "https://x.com/Munsterrugby/status/2111452520220684606",
-      "publishedAt": "2026-10-17T13:41:24.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111452470224318464/img/3HbPC1tqSl7I-GiB.jpg",
-      "teamIds": [
-        "munster"
-      ],
-      "source": "x:Munsterrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111451583820988451",
-      "text": "🏠 Home turf. #inittogether https://t.co/7TeW6SuTzv",
-      "author": "DHL Stormers",
-      "handle": "THESTORMERS",
-      "avatar": "https://pbs.twimg.com/profile_images/2109556734381498368/CXO-R1_p_bigger.jpg",
-      "url": "https://x.com/THESTORMERS/status/2111451583820988451",
-      "publishedAt": "2026-10-17T13:37:41.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111451232665518080/img/-PK05OMaiuHjBgnV.jpg",
-      "teamIds": [
-        "stormers"
-      ],
-      "source": "x:THESTORMERS"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tqaiior3rapjsccnczowb4h2/app.bsky.feed.post/3my37akeqnc27",
       "text": "Schadenfreude? Surely not. But an entertaining opening match in this season's Champions Cup.",
@@ -825,33 +910,6 @@
       "publishedAt": "2026-10-17T13:29:02.739Z",
       "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my36rc5jkz2g",
-      "text": "Seabelo Senatla comes oh so close 🤏 (📹@URCOfficial) #SeabeloSenatla #Rugby #Sport",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my36rc5jkz2g",
-      "publishedAt": "2026-10-17T13:23:08.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifg4imexxj2qhhquycuvveaab3peoxmw6ucaw2rct7kpxfoiqj37m",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2111446882547585374",
-      "text": "🗣️ \"We had enough of the game to win...\"\n\nTechnical Director Chris Boyd gives his reflections on the @ChampionsCup thriller with Bordeaux Begles.\n\n📺 https://t.co/G7HuYwAX6e\n🤝 @QuaysideWealth https://t.co/HWDM9mTrAt",
-      "author": "Gloucester Rugby 🍒",
-      "handle": "gloucesterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1808786958673481728/9MztoY2U_bigger.jpg",
-      "url": "https://x.com/gloucesterrugby/status/2111446882547585374",
-      "publishedAt": "2026-10-17T13:19:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111446595795386368/img/qGaeTMn8hhcqX9-l.jpg",
-      "teamIds": [
-        "gloucester"
-      ],
-      "source": "x:gloucesterrugby"
     },
     {
       "type": "youtube",
@@ -926,18 +984,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my2v2gdp7n2r",
-      "text": "Harpin content from the past week (✍️ @HarpinOnRugby) #Rugby #Podcast #Leinster",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my2v2gdp7n2r",
-      "publishedAt": "2026-10-17T10:29:17.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibjhnunzljhxn5xe5zxhfrlui2g6kakkkfdwvxwals3m632b4hvla",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my2qbpuhji2z",
       "text": "Dave Butcher admitted emotions were “raw” for the Scotland squad after their 56-12 drubbing by Australia\nAnd he lamented his side’s inability to match the Wallaroos' physicality in Sydney\n🔗 shorturl.at/vcwph",
       "author": "Scotland Rugby News",
@@ -994,30 +1040,6 @@
       "publishedAt": "2026-10-17T06:15:20.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/l80hn6kGR2I/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my2g3f62qj2h",
-      "text": "🗣️ \"We couldn't get our game going...\"\nSean Everitt offered his take on Edinburgh's defeat to Toulon and the return of Darcy Graham 👉 shorturl.at/I3jfk",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my2g3f62qj2h",
-      "publishedAt": "2026-10-17T06:01:21.846Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreicvvimf65zme5wueanc3tbbfradzvrnlqoi25e6ezrnhztivwh7sm",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my26cuyba52l",
-      "text": "Five tries in a dominant first half paved the way for the Wallaroos as Scotland fell to an eighth consecutive defeat in Sydney\nTalking points👉https://shorturl.at/MZklC",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my26cuyba52l",
-      "publishedAt": "2026-10-17T03:42:24.580Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreicutqkh5swm665bl7a722dqzauzghglcpqdtbfvj5f54kt4ndxmsa",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -1271,29 +1293,6 @@
       "publishedAt": "2026-10-13T12:00:03.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/-W5znScfWsc/hqdefault.jpg",
       "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:RCVWeYil79E",
-      "title": "HIGHLIGHTS Round 3 URC SCARLETS vs BENETTON 27-26",
-      "author": "BenettonRugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=RCVWeYil79E",
-      "publishedAt": "2026-10-13T07:00:07.000Z",
-      "thumbnail": "https://i3.ytimg.com/vi/RCVWeYil79E/hqdefault.jpg",
-      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3mxqg34f6sk2p",
-      "text": "Yeah, doesn’t look fun.",
-      "author": "Ben Coles",
-      "handle": "bencoles.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihnbnflj5pmzn2vw5tula7bf7hay7nsutvg5e7suz6y2bnoob5p2a",
-      "url": "https://bsky.app/profile/bencoles.bsky.social/post/3mxqg34f6sk2p",
-      "publishedAt": "2026-10-13T06:34:36.803Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihfqgx3kuswaj5fvg6zwq72nxsmlup2kn2b2cezmlvtc6dcpevmne",
-      "source": "bencoles.bsky.social"
     }
   ],
   "sources": [
