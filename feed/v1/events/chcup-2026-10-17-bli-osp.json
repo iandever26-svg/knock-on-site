@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-bli-osp",
  "matchId": "chcup-2026-10-17-bli-osp",
- "updated_at": "2026-10-17T13:28:00.789Z",
+ "updated_at": "2026-10-17T13:31:13.721Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604312/competitions/604312/plays?limit=400",
-   "fetched_at": "2026-10-17T13:28:00.789Z",
+   "fetched_at": "2026-10-17T13:31:13.721Z",
    "espn_event_id": "604312",
    "espn_league_id": 272073
   }
@@ -422,6 +422,41 @@
     "home": 7,
     "away": 39
    }
+  },
+  {
+   "id": "espn-1898342",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Efan Daniel",
+   "detail": "replaces Lewis Lloyd",
+   "playerOn": "Efan Daniel",
+   "playerOff": "Lewis Lloyd",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898345",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Luka Narsia",
+   "detail": "replaces Potu Leavasa",
+   "playerOn": "Luka Narsia",
+   "playerOff": "Potu Leavasa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898348",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": null,
+   "detail": "replaces Potu Leavasa",
+   "playerOff": "Potu Leavasa",
+   "label": "Substitution"
   },
   {
    "id": "espn-1898329",

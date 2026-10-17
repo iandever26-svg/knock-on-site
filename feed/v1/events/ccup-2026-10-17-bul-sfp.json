@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bul-sfp",
  "matchId": "ccup-2026-10-17-bul-sfp",
- "updated_at": "2026-10-17T13:28:00.789Z",
+ "updated_at": "2026-10-17T13:31:13.721Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604248/competitions/604248/plays?limit=400",
-   "fetched_at": "2026-10-17T13:28:00.789Z",
+   "fetched_at": "2026-10-17T13:31:13.721Z",
    "espn_event_id": "604248",
    "espn_league_id": 271937
   }
@@ -290,15 +290,57 @@
    "playerOn": "Jeandre Rudolph",
    "playerOff": "Cameron Hanekom",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898335",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Willie le Roux",
+   "detail": "replaces Harold Vorster",
+   "playerOn": "Willie le Roux",
+   "playerOff": "Harold Vorster",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898338",
+   "minute": 56,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Petero Mailulu",
+   "detail": "Try (28-18)",
+   "playerName": "Petero Mailulu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 28,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1898339",
+   "minute": 57,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Louis Foursans-Bourdette",
+   "detail": "Conversion (28-20)",
+   "playerName": "Louis Foursans-Bourdette",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 20
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 28,
-  "away": 13
+  "away": 20
  },
  "plays_summed": {
   "home": 28,
-  "away": 13
+  "away": 20
  }
 }

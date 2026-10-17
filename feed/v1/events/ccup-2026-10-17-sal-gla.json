@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sal-gla",
  "matchId": "ccup-2026-10-17-sal-gla",
- "updated_at": "2026-10-17T13:28:00.789Z",
+ "updated_at": "2026-10-17T13:31:13.721Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604247/competitions/604247/plays?limit=400",
-   "fetched_at": "2026-10-17T13:28:00.789Z",
+   "fetched_at": "2026-10-17T13:31:13.721Z",
    "espn_event_id": "604247",
    "espn_league_id": 271937
   }
@@ -208,6 +208,18 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1898346",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Asher Opoku-Fordjour",
+   "detail": "replaces Tomas Francis",
+   "playerOn": "Asher Opoku-Fordjour",
+   "playerOff": "Tomas Francis",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1898302",
    "minute": 53,
    "period": "2H",
@@ -241,18 +253,6 @@
    "detail": "replaces Alex Craig",
    "playerOn": "Olujare Oguntibeju",
    "playerOff": "Alex Craig",
-   "label": "Substitution"
-  },
-  {
-   "id": "espn-1898300",
-   "minute": 53,
-   "period": "2H",
-   "type": "substitution",
-   "team": "home",
-   "player": "Asher Opoku-Fordjour",
-   "detail": "replaces Tomas Francis",
-   "playerOn": "Asher Opoku-Fordjour",
-   "playerOff": "Tomas Francis",
    "label": "Substitution"
   },
   {
@@ -292,6 +292,36 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1898337",
+   "minute": 58,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Rekeiti Ma'asi-White",
+   "detail": "Try (20-19)",
+   "playerName": "Rekeiti Ma'asi-White",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 20,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1898340",
+   "minute": 59,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "George Ford",
+   "detail": "Conversion (22-19)",
+   "playerName": "George Ford",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 19
+   }
+  },
+  {
    "id": "inferred-pt-away-1",
    "minute": 0,
    "minuteKnown": false,
@@ -301,20 +331,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (15-26)",
+   "detail": "Penalty try (inferred, minute unknown) (22-26)",
    "scoreAfter": {
-    "home": 15,
+    "home": 22,
     "away": 26
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 15,
+  "home": 22,
   "away": 26
  },
  "plays_summed": {
-  "home": 15,
+  "home": 22,
   "away": 19
  },
  "inferred_penalty_tries": [
