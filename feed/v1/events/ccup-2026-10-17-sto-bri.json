@@ -1,0 +1,58 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ccup-2026-10-17-sto-bri",
+ "matchId": "ccup-2026-10-17-sto-bri",
+ "updated_at": "2026-10-17T14:26:48.470Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604250/competitions/604250/plays?limit=400",
+   "fetched_at": "2026-10-17T14:26:48.470Z",
+   "espn_event_id": "604250",
+   "espn_league_id": 271937
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1898468",
+   "minute": 7,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Seabelo Senatla",
+   "detail": "Try (5-0)",
+   "playerName": "Seabelo Senatla",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1898469",
+   "minute": 8,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (7-0)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 7,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 0
+ }
+}
