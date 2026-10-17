@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-zeb-uls",
  "matchId": "chcup-2026-10-17-zeb-uls",
- "updated_at": "2026-10-17T14:42:02.956Z",
+ "updated_at": "2026-10-17T14:48:00.681Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604313/competitions/604313/plays?limit=400",
-   "fetched_at": "2026-10-17T14:42:02.956Z",
+   "fetched_at": "2026-10-17T14:48:00.681Z",
    "espn_event_id": "604313",
    "espn_league_id": 272073
   }
@@ -59,15 +59,45 @@
     "home": 0,
     "away": 12
    }
+  },
+  {
+   "id": "espn-1898482-cm",
+   "minute": 20,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (0-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 0,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898487",
+   "minute": 28,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Henry Walker",
+   "detail": "Try (0-17)",
+   "playerName": "Henry Walker",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 17
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 0,
-  "away": 12
+  "away": 17
  },
  "plays_summed": {
   "home": 0,
-  "away": 12
+  "away": 17
  }
 }

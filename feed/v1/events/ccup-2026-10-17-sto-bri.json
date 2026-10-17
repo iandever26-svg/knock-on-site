@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sto-bri",
  "matchId": "ccup-2026-10-17-sto-bri",
- "updated_at": "2026-10-17T14:42:02.956Z",
+ "updated_at": "2026-10-17T14:48:00.681Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604250/competitions/604250/plays?limit=400",
-   "fetched_at": "2026-10-17T14:42:02.956Z",
+   "fetched_at": "2026-10-17T14:48:00.681Z",
    "espn_event_id": "604250",
    "espn_league_id": 271937
   }
@@ -89,15 +89,45 @@
     "home": 14,
     "away": 5
    }
+  },
+  {
+   "id": "espn-1898486",
+   "minute": 24,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sam Worsley",
+   "detail": "Conversion (14-7)",
+   "playerName": "Sam Worsley",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1898489",
+   "minute": 29,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Jonathan Roche",
+   "detail": "Try (19-7)",
+   "playerName": "Jonathan Roche",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
-  "away": 5
+  "home": 19,
+  "away": 7
  },
  "plays_summed": {
-  "home": 14,
-  "away": 5
+  "home": 19,
+  "away": 7
  }
 }
