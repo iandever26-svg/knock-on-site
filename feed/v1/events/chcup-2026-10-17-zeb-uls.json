@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-zeb-uls",
  "matchId": "chcup-2026-10-17-zeb-uls",
- "updated_at": "2026-10-17T15:54:58.896Z",
+ "updated_at": "2026-10-17T16:00:02.168Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604313/competitions/604313/plays?limit=400",
-   "fetched_at": "2026-10-17T15:54:58.896Z",
+   "fetched_at": "2026-10-17T16:00:02.168Z",
    "espn_event_id": "604313",
    "espn_league_id": 272073
   }
@@ -413,15 +413,99 @@
     "home": 14,
     "away": 26
    }
+  },
+  {
+   "id": "espn-1898671",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Riccardo Casarin",
+   "detail": "replaces Damiano Mazza",
+   "playerOn": "Riccardo Casarin",
+   "playerOff": "Damiano Mazza",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898676",
+   "minute": 73,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Mike Lowry",
+   "detail": "Try (14-31)",
+   "playerName": "Mike Lowry",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1898677",
+   "minute": 74,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Jamie Benson",
+   "detail": "Conversion (14-33)",
+   "playerName": "Jamie Benson",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 33
+   }
+  },
+  {
+   "id": "espn-1898679",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alessandro Fusco",
+   "detail": "replaces Patricio Baronio",
+   "playerOn": "Alessandro Fusco",
+   "playerOff": "Patricio Baronio",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898686",
+   "minute": 75,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Giovanni Montemauri",
+   "detail": "Try (19-33)",
+   "playerName": "Giovanni Montemauri",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 33
+   }
+  },
+  {
+   "id": "espn-1898687",
+   "minute": 76,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Giovanni Montemauri",
+   "detail": "Conversion (21-33)",
+   "playerName": "Giovanni Montemauri",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 33
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
-  "away": 26
+  "home": 21,
+  "away": 33
  },
  "plays_summed": {
-  "home": 14,
-  "away": 26
+  "home": 21,
+  "away": 33
  }
 }

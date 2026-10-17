@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-cle-lei",
  "matchId": "ccup-2026-10-17-cle-lei",
- "updated_at": "2026-10-17T15:54:58.896Z",
+ "updated_at": "2026-10-17T16:00:02.168Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604249/competitions/604249/plays?limit=400",
-   "fetched_at": "2026-10-17T15:54:58.896Z",
+   "fetched_at": "2026-10-17T16:00:02.168Z",
    "espn_event_id": "604249",
    "espn_league_id": 271937
   }
@@ -501,6 +501,48 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1898681",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joey Carbery",
+   "detail": "replaces Sam Prendergast",
+   "playerOn": "Joey Carbery",
+   "playerOff": "Sam Prendergast",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898674",
+   "minute": 77,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Tommy O'Brien",
+   "detail": "Try (23-41)",
+   "playerName": "Tommy O'Brien",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 23,
+    "away": 41
+   }
+  },
+  {
+   "id": "espn-1898688",
+   "minute": 81,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Joe McCarthy",
+   "detail": "Yellow card (23-41)",
+   "playerName": "Joe McCarthy",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 23,
+    "away": 41
+   }
+  },
+  {
    "id": "inferred-pt-away-1",
    "minute": 0,
    "minuteKnown": false,
@@ -510,21 +552,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (23-43)",
+   "detail": "Penalty try (inferred, minute unknown) (23-48)",
    "scoreAfter": {
     "home": 23,
-    "away": 43
+    "away": 48
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 23,
-  "away": 43
+  "away": 48
  },
  "plays_summed": {
   "home": 23,
-  "away": 36
+  "away": 41
  },
  "inferred_penalty_tries": [
   {

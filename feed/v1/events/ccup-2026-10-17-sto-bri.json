@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sto-bri",
  "matchId": "ccup-2026-10-17-sto-bri",
- "updated_at": "2026-10-17T15:54:58.896Z",
+ "updated_at": "2026-10-17T16:00:02.168Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604250/competitions/604250/plays?limit=400",
-   "fetched_at": "2026-10-17T15:54:58.896Z",
+   "fetched_at": "2026-10-17T16:00:02.168Z",
    "espn_event_id": "604250",
    "espn_league_id": 271937
   }
@@ -427,15 +427,99 @@
    "playerOn": "Warrick Gelant",
    "playerOff": "Seabelo Senatla",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898673",
+   "minute": 72,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Warrick Gelant",
+   "detail": "Try (33-12)",
+   "playerName": "Warrick Gelant",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 33,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898675",
+   "minute": 73,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (35-12)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 35,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898683",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "James Williams",
+   "detail": "replaces Matias Moroni",
+   "playerOn": "James Williams",
+   "playerOff": "Matias Moroni",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898678",
+   "minute": 74,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Andre-Hugo Venter",
+   "detail": "Try (40-12)",
+   "playerName": "Andre-Hugo Venter",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 40,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898685",
+   "minute": 75,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (42-12)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 42,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898689",
+   "minute": 75,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Victor Worsnip",
+   "detail": "replaces Jack Bates",
+   "playerOn": "Victor Worsnip",
+   "playerOff": "Jack Bates",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 28,
+  "home": 42,
   "away": 12
  },
  "plays_summed": {
-  "home": 28,
+  "home": 42,
   "away": 12
  }
 }
