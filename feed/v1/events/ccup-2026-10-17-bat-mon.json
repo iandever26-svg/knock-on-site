@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bat-mon",
  "matchId": "ccup-2026-10-17-bat-mon",
- "updated_at": "2026-10-17T20:26:19.090Z",
+ "updated_at": "2026-10-17T20:31:23.516Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604254/competitions/604254/plays?limit=400",
-   "fetched_at": "2026-10-17T20:26:19.090Z",
+   "fetched_at": "2026-10-17T20:31:23.516Z",
    "espn_event_id": "604254",
    "espn_league_id": 271937
   }
@@ -202,7 +202,7 @@
    }
   },
   {
-   "id": "espn-1899292",
+   "id": "espn-1899350",
    "minute": 56,
    "period": "2H",
    "type": "substitution",
@@ -214,7 +214,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899294",
+   "id": "espn-1899352",
    "minute": 56,
    "period": "2H",
    "type": "substitution",
@@ -224,15 +224,69 @@
    "playerOn": "Josh Bayliss",
    "playerOff": "Will Jeanes",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1899349",
+   "minute": 63,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Donovan Taofifenua",
+   "detail": "Try (14-23)",
+   "playerName": "Donovan Taofifenua",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 23
+   }
+  },
+  {
+   "id": "espn-1899379",
+   "minute": 63,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Adam Hastings",
+   "detail": "Conversion (14-25)",
+   "playerName": "Adam Hastings",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1899382",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Archie Griffin",
+   "detail": "replaces Will Stuart",
+   "playerOn": "Archie Griffin",
+   "playerOff": "Will Stuart",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899387",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Scott Kirk",
+   "detail": "replaces Beno Obano",
+   "playerOn": "Scott Kirk",
+   "playerOff": "Beno Obano",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 14,
-  "away": 18
+  "away": 25
  },
  "plays_summed": {
   "home": 14,
-  "away": 18
+  "away": 25
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-mun-rac",
  "matchId": "ccup-2026-10-17-mun-rac",
- "updated_at": "2026-10-17T20:26:19.090Z",
+ "updated_at": "2026-10-17T20:31:23.516Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604253/competitions/604253/plays?limit=400",
-   "fetched_at": "2026-10-17T20:26:19.090Z",
+   "fetched_at": "2026-10-17T20:31:23.516Z",
    "espn_event_id": "604253",
    "espn_league_id": 271937
   }
@@ -368,15 +368,30 @@
     "home": 28,
     "away": 18
    }
+  },
+  {
+   "id": "espn-1899384",
+   "minute": 68,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Joseph Manu",
+   "detail": "Try (28-23)",
+   "playerName": "Joseph Manu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 28,
+    "away": 23
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 28,
-  "away": 18
+  "away": 23
  },
  "plays_summed": {
   "home": 28,
-  "away": 18
+  "away": 23
  }
 }
