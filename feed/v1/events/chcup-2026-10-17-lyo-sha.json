@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-lyo-sha",
  "matchId": "chcup-2026-10-17-lyo-sha",
- "updated_at": "2026-10-17T13:31:13.721Z",
+ "updated_at": "2026-10-17T13:33:05.743Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604311/competitions/604311/plays?limit=400",
-   "fetched_at": "2026-10-17T13:31:13.721Z",
+   "fetched_at": "2026-10-17T13:33:05.743Z",
    "espn_event_id": "604311",
    "espn_league_id": 272073
   }
@@ -380,15 +380,30 @@
    "playerOn": "Leo Berdeu",
    "playerOff": "Monty Ioane",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898350",
+   "minute": 63,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Zekhethelo Siyaya",
+   "detail": "Try (21-31)",
+   "playerName": "Zekhethelo Siyaya",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 31
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 26
+  "away": 31
  },
  "plays_summed": {
   "home": 21,
-  "away": 26
+  "away": 31
  }
 }
