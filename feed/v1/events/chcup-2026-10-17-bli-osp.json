@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-bli-osp",
  "matchId": "chcup-2026-10-17-bli-osp",
- "updated_at": "2026-10-17T12:37:17.582Z",
+ "updated_at": "2026-10-17T12:42:22.836Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604312/competitions/604312/plays?limit=400",
-   "fetched_at": "2026-10-17T12:37:17.582Z",
+   "fetched_at": "2026-10-17T12:42:22.836Z",
    "espn_event_id": "604312",
    "espn_league_id": 272073
   }
@@ -119,15 +119,60 @@
     "home": 7,
     "away": 15
    }
+  },
+  {
+   "id": "espn-1898163-cm",
+   "minute": 25,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (7-15)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 7,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1898173",
+   "minute": 35,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Luke Morgan",
+   "detail": "Try (7-20)",
+   "playerName": "Luke Morgan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1898174",
+   "minute": 35,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Lawson Creighton",
+   "detail": "Conversion (7-22)",
+   "playerName": "Lawson Creighton",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 22
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 15
+  "away": 22
  },
  "plays_summed": {
   "home": 7,
-  "away": 15
+  "away": 22
  }
 }

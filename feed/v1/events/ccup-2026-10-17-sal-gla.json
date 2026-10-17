@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sal-gla",
  "matchId": "ccup-2026-10-17-sal-gla",
- "updated_at": "2026-10-17T12:37:17.582Z",
+ "updated_at": "2026-10-17T12:42:22.836Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 15-14, final 15-19; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604247/competitions/604247/plays?limit=400",
-   "fetched_at": "2026-10-17T12:37:17.582Z",
+   "fetched_at": "2026-10-17T12:42:22.836Z",
    "espn_event_id": "604247",
    "espn_league_id": 271937
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "home",
    "player": "Ben Curry",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Ben Curry",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1898136",
@@ -34,9 +37,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "George Ford",
-   "detail": "Conversion",
+   "detail": "Conversion (7-0)",
    "playerName": "George Ford",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
   },
   {
    "id": "espn-1898140",
@@ -45,9 +52,13 @@
    "type": "try",
    "team": "home",
    "player": "Arron Reed",
-   "detail": "Try",
+   "detail": "Try (12-0)",
    "playerName": "Arron Reed",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
   },
   {
    "id": "espn-1898140-cm",
@@ -56,9 +67,13 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (12-0)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
   },
   {
    "id": "espn-1898146",
@@ -67,9 +82,13 @@
    "type": "yellow_card",
    "team": "home",
    "player": "Gus Warr",
-   "detail": "Yellow card",
+   "detail": "Yellow card (12-0)",
    "playerName": "Gus Warr",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
   },
   {
    "id": "espn-1898150",
@@ -78,9 +97,13 @@
    "type": "yellow_card",
    "team": "home",
    "player": "Tom Roebuck",
-   "detail": "Yellow card",
+   "detail": "Yellow card (12-0)",
    "playerName": "Tom Roebuck",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
   },
   {
    "id": "espn-1898161",
@@ -89,9 +112,13 @@
    "type": "try",
    "team": "away",
    "player": "Kyle Steyn",
-   "detail": "Try",
+   "detail": "Try (12-5)",
    "playerName": "Kyle Steyn",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 5
+   }
   },
   {
    "id": "espn-1898164",
@@ -100,9 +127,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "George Horne",
-   "detail": "Conversion",
+   "detail": "Conversion (12-7)",
    "playerName": "George Horne",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 7
+   }
   },
   {
    "id": "espn-1898167",
@@ -111,9 +142,13 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "George Ford",
-   "detail": "Penalty",
+   "detail": "Penalty (15-7)",
    "playerName": "George Ford",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 15,
+    "away": 7
+   }
   },
   {
    "id": "espn-1898169",
@@ -122,9 +157,13 @@
    "type": "try",
    "team": "away",
    "player": "Jamie Dobie",
-   "detail": "Try",
+   "detail": "Try (15-12)",
    "playerName": "Jamie Dobie",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 12
+   }
   },
   {
    "id": "espn-1898170",
@@ -133,22 +172,44 @@
    "type": "conversion_made",
    "team": "away",
    "player": "George Horne",
-   "detail": "Conversion",
+   "detail": "Conversion (15-14)",
    "playerName": "George Horne",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 15,
+    "away": 14
+   }
+  },
+  {
+   "id": "inferred-pt-away-1",
+   "minute": 0,
+   "minuteKnown": false,
+   "period": "1H",
+   "type": "penalty_try",
+   "team": "away",
+   "player": null,
+   "inferred": true,
+   "label": "Penalty try",
+   "detail": "Penalty try (inferred, minute unknown) (15-21)",
+   "scoreAfter": {
+    "home": 15,
+    "away": 21
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 15,
-  "away": 19
+  "away": 21
  },
  "plays_summed": {
   "home": 15,
   "away": 14
  },
- "unexplained_gap": {
-  "home": 0,
-  "away": 5
- }
+ "inferred_penalty_tries": [
+  {
+   "team": "away",
+   "minute": null
+  }
+ ]
 }
