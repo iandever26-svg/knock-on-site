@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-17-aus-nzl",
  "matchId": "intl-2026-10-17-aus-nzl",
- "updated_at": "2026-10-17T05:04:32.793Z",
+ "updated_at": "2026-10-17T05:17:37.559Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/603464/competitions/603464/plays?limit=400",
-   "fetched_at": "2026-10-17T05:04:32.793Z",
+   "fetched_at": "2026-10-17T05:17:37.559Z",
    "espn_event_id": "603464",
    "espn_league_id": 289234
   }
@@ -26,15 +26,30 @@
    "playerOn": "Rieko Ioane",
    "playerOff": "Quinn Tupaea",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1897991",
+   "minute": 12,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Josh Moorby",
+   "detail": "Try (0-5)",
+   "playerName": "Josh Moorby",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 0,
-  "away": 0
+  "away": 5
  },
  "plays_summed": {
   "home": 0,
-  "away": 0
+  "away": 5
  }
 }
