@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-mun-rac",
  "matchId": "ccup-2026-10-17-mun-rac",
- "updated_at": "2026-10-17T20:31:23.516Z",
+ "updated_at": "2026-10-17T20:36:27.264Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604253/competitions/604253/plays?limit=400",
-   "fetched_at": "2026-10-17T20:31:23.516Z",
+   "fetched_at": "2026-10-17T20:36:27.264Z",
    "espn_event_id": "604253",
    "espn_league_id": 271937
   }
@@ -340,8 +340,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899305",
-   "minute": 61,
+   "id": "espn-1899410",
+   "minute": 60,
    "period": "2H",
    "type": "try",
    "team": "home",
@@ -370,8 +370,8 @@
    }
   },
   {
-   "id": "espn-1899384",
-   "minute": 68,
+   "id": "espn-1899417",
+   "minute": 67,
    "period": "2H",
    "type": "try",
    "team": "away",
@@ -383,15 +383,57 @@
     "home": 28,
     "away": 23
    }
+  },
+  {
+   "id": "espn-1899418",
+   "minute": 68,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Gibert",
+   "detail": "Conversion (28-25)",
+   "playerName": "Antoine Gibert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1899423",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Gia Kharaishvili",
+   "detail": "replaces Demba Bamba",
+   "playerOn": "Gia Kharaishvili",
+   "playerOff": "Demba Bamba",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899427",
+   "minute": 71,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Arthur Roche",
+   "detail": "Yellow card (28-25)",
+   "playerName": "Arthur Roche",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 28,
+    "away": 25
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 28,
-  "away": 23
+  "away": 25
  },
  "plays_summed": {
   "home": 28,
-  "away": 23
+  "away": 25
  }
 }

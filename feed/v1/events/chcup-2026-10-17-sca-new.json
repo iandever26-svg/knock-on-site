@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-sca-new",
  "matchId": "chcup-2026-10-17-sca-new",
- "updated_at": "2026-10-17T20:31:23.516Z",
+ "updated_at": "2026-10-17T20:36:27.264Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604314/competitions/604314/plays?limit=400",
-   "fetched_at": "2026-10-17T20:31:23.516Z",
+   "fetched_at": "2026-10-17T20:36:27.264Z",
    "espn_event_id": "604314",
    "espn_league_id": 272073
   }
@@ -145,18 +145,6 @@
    }
   },
   {
-   "id": "espn-1899202",
-   "minute": 40,
-   "period": "2H",
-   "type": "substitution",
-   "team": "home",
-   "player": "Taine Plumtree",
-   "detail": "replaces Harvey Cuckson",
-   "playerOn": "Taine Plumtree",
-   "playerOff": "Harvey Cuckson",
-   "label": "Substitution"
-  },
-  {
    "id": "espn-1899153",
    "minute": 41,
    "period": "1H",
@@ -172,7 +160,7 @@
    }
   },
   {
-   "id": "espn-1899206",
+   "id": "espn-1899432",
    "minute": 41,
    "period": "2H",
    "type": "substitution",
@@ -181,6 +169,18 @@
    "detail": "replaces James Elliott",
    "playerOn": "Simon Benitez Cruz",
    "playerOff": "James Elliott",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899434",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Taine Plumtree",
+   "detail": "replaces Harvey Cuckson",
+   "playerOn": "Taine Plumtree",
+   "playerOff": "Harvey Cuckson",
    "label": "Substitution"
   },
   {
@@ -367,8 +367,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899347",
-   "minute": 60,
+   "id": "espn-1899404",
+   "minute": 59,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -379,7 +379,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899380",
+   "id": "espn-1899400",
    "minute": 64,
    "period": "2H",
    "type": "substitution",
@@ -391,8 +391,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899385",
-   "minute": 66,
+   "id": "espn-1899402",
+   "minute": 65,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -401,15 +401,57 @@
    "playerOn": "Dan Davis",
    "playerOff": "Sam Lousi",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1899428",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ollie Leatherbarrow",
+   "detail": "replaces Francisco Moreno",
+   "playerOn": "Ollie Leatherbarrow",
+   "playerOff": "Francisco Moreno",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899408",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Macs Page",
+   "detail": "Try (45-0)",
+   "playerName": "Macs Page",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 45,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1899409",
+   "minute": 68,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joe Hawkins",
+   "detail": "Conversion (47-0)",
+   "playerName": "Joe Hawkins",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 47,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 40,
+  "home": 47,
   "away": 0
  },
  "plays_summed": {
-  "home": 40,
+  "home": 47,
   "away": 0
  }
 }
