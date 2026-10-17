@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-sca-new",
  "matchId": "chcup-2026-10-17-sca-new",
- "updated_at": "2026-10-17T19:50:51.164Z",
+ "updated_at": "2026-10-17T20:06:01.390Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604314/competitions/604314/plays?limit=400",
-   "fetched_at": "2026-10-17T19:50:51.164Z",
+   "fetched_at": "2026-10-17T20:06:01.390Z",
    "espn_event_id": "604314",
    "espn_league_id": 272073
   }
@@ -145,6 +145,18 @@
    }
   },
   {
+   "id": "espn-1899202",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Taine Plumtree",
+   "detail": "replaces Harvey Cuckson",
+   "playerOn": "Taine Plumtree",
+   "playerOff": "Harvey Cuckson",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1899153",
    "minute": 41,
    "period": "1H",
@@ -158,6 +170,18 @@
     "home": 26,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1899206",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Simon Benitez Cruz",
+   "detail": "replaces James Elliott",
+   "playerOn": "Simon Benitez Cruz",
+   "playerOff": "James Elliott",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bat-mon",
  "matchId": "ccup-2026-10-17-bat-mon",
- "updated_at": "2026-10-17T19:50:51.164Z",
+ "updated_at": "2026-10-17T20:06:01.390Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604254/competitions/604254/plays?limit=400",
-   "fetched_at": "2026-10-17T19:50:51.164Z",
+   "fetched_at": "2026-10-17T20:06:01.390Z",
    "espn_event_id": "604254",
    "espn_league_id": 271937
   }
@@ -119,6 +119,18 @@
     "home": 14,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1899210",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tyler Duguid",
+   "detail": "replaces Bastien Chalureau",
+   "playerOn": "Tyler Duguid",
+   "playerOff": "Bastien Chalureau",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
