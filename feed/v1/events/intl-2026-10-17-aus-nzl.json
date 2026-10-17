@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-17-aus-nzl",
  "matchId": "intl-2026-10-17-aus-nzl",
- "updated_at": "2026-10-17T06:35:39.226Z",
+ "updated_at": "2026-10-17T06:40:55.858Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/603464/competitions/603464/plays?limit=400",
-   "fetched_at": "2026-10-17T06:35:39.226Z",
+   "fetched_at": "2026-10-17T06:40:55.858Z",
    "espn_event_id": "603464",
    "espn_league_id": 289234
   }
@@ -520,6 +520,29 @@
    "detail": "replaces Samisoni Taukei'aho",
    "playerOn": "Codie Taylor",
    "playerOff": "Samisoni Taukei'aho",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898054",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Codie Taylor",
+   "playerOff": "Codie Taylor",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898055",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Codie Taylor",
+   "detail": "replaces Timoci Tavatavanawai",
+   "playerOn": "Codie Taylor",
+   "playerOff": "Timoci Tavatavanawai",
    "label": "Substitution"
   }
  ],
