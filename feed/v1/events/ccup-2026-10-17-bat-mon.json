@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bat-mon",
  "matchId": "ccup-2026-10-17-bat-mon",
- "updated_at": "2026-10-17T20:51:28.207Z",
- "final": false,
+ "updated_at": "2026-10-17T21:00:44.796Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604254/competitions/604254/plays?limit=400",
-   "fetched_at": "2026-10-17T20:51:28.207Z",
+   "fetched_at": "2026-10-17T21:00:44.796Z",
    "espn_event_id": "604254",
    "espn_league_id": 271937
   }
@@ -337,6 +337,42 @@
    "detail": "replaces Max Ojomoh",
    "playerOn": "Cameron Redpath",
    "playerOff": "Max Ojomoh",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899537",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ricky Riccitelli",
+   "detail": "replaces Lyam Akrab",
+   "playerOn": "Ricky Riccitelli",
+   "playerOff": "Lyam Akrab",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899539",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Luca Tabarot",
+   "detail": "replaces Reda Wardi",
+   "playerOn": "Luca Tabarot",
+   "playerOff": "Reda Wardi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899541",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sebastien Bezy",
+   "detail": "replaces Ali Price",
+   "playerOn": "Sebastien Bezy",
+   "playerOff": "Ali Price",
    "label": "Substitution"
   },
   {
