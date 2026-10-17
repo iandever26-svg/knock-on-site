@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-bli-osp",
  "matchId": "chcup-2026-10-17-bli-osp",
- "updated_at": "2026-10-17T13:43:15.723Z",
+ "updated_at": "2026-10-17T13:48:21.052Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604312/competitions/604312/plays?limit=400",
-   "fetched_at": "2026-10-17T13:43:15.723Z",
+   "fetched_at": "2026-10-17T13:48:21.052Z",
    "espn_event_id": "604312",
    "espn_league_id": 272073
   }
@@ -469,15 +469,45 @@
    "playerOn": "Harri Wilde",
    "playerOff": "Lewis Edwards",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898394",
+   "minute": 78,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Otar Giorgadze",
+   "detail": "Try (12-39)",
+   "playerName": "Otar Giorgadze",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 39
+   }
+  },
+  {
+   "id": "espn-1898402",
+   "minute": 79,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Luka Tsirekidze",
+   "detail": "Conversion (14-39)",
+   "playerName": "Luka Tsirekidze",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 39
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 39
  },
  "plays_summed": {
-  "home": 7,
+  "home": 14,
   "away": 39
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sal-gla",
  "matchId": "ccup-2026-10-17-sal-gla",
- "updated_at": "2026-10-17T13:43:15.723Z",
+ "updated_at": "2026-10-17T13:48:21.052Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604247/competitions/604247/plays?limit=400",
-   "fetched_at": "2026-10-17T13:43:15.723Z",
+   "fetched_at": "2026-10-17T13:48:21.052Z",
    "espn_event_id": "604247",
    "espn_league_id": 271937
   }
@@ -232,6 +232,18 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1898390",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ponipate Loganimasi",
+   "detail": "replaces Tom Roebuck",
+   "playerOn": "Ponipate Loganimasi",
+   "playerOff": "Tom Roebuck",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1898304",
    "minute": 53,
    "period": "2H",
@@ -322,7 +334,7 @@
    }
   },
   {
-   "id": "espn-1898357",
+   "id": "espn-1898392",
    "minute": 62,
    "period": "2H",
    "type": "substitution",
@@ -457,6 +469,75 @@
    }
   },
   {
+   "id": "espn-1898388",
+   "minute": 73,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "George Horne",
+   "detail": "Conversion (27-33)",
+   "playerName": "George Horne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 27,
+    "away": 33
+   }
+  },
+  {
+   "id": "espn-1898397",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dom Hanson",
+   "detail": "replaces Gus Warr",
+   "playerOn": "Dom Hanson",
+   "playerOff": "Gus Warr",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898399",
+   "minute": 75,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Callum Reidy",
+   "detail": "replaces George Horne",
+   "playerOn": "Callum Reidy",
+   "playerOff": "George Horne",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898403",
+   "minute": 76,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Tavi Tuipulotu",
+   "detail": "Try (27-38)",
+   "playerName": "Tavi Tuipulotu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 38
+   }
+  },
+  {
+   "id": "espn-1898404",
+   "minute": 77,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Dan Lancaster",
+   "detail": "Conversion (27-40)",
+   "playerName": "Dan Lancaster",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 27,
+    "away": 40
+   }
+  },
+  {
    "id": "inferred-pt-away-1",
    "minute": 0,
    "minuteKnown": false,
@@ -466,21 +547,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (27-38)",
+   "detail": "Penalty try (inferred, minute unknown) (27-47)",
    "scoreAfter": {
     "home": 27,
-    "away": 38
+    "away": 47
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 27,
-  "away": 38
+  "away": 47
  },
  "plays_summed": {
   "home": 27,
-  "away": 31
+  "away": 40
  },
  "inferred_penalty_tries": [
   {
