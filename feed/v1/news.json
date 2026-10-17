@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-17T22:07:07+01:00",
+  "generatedAt": "2026-10-17T23:07:15+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my43jwtlcq2a",
+      "text": "'10 years on and to still be in that circle, it was very emotional' (✍️@rugby_ie) #Munster #Rugby #AnthonyFoley",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my43jwtlcq2a",
+      "publishedAt": "2026-10-17T21:57:59.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib7hr6wqo42val4rfs3eobbiyfdb7c62leywmqbu7ttmeeccq2umu",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my42jvcxy22i",
+      "text": "O'Gara laments 'fragility of life' as La Rochelle beat mourning Lions following Hyron Andrews' passing (✍️@rugby_ie) #rugby #LaRochelle #ChampionsCup",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my42jvcxy22i",
+      "publishedAt": "2026-10-17T21:40:04.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidg3lr35sqafdyh5rzehhxxiqvo5vunlddfikv63dvg7jufkrlmny",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3zkvixab2a",
+      "text": "'Tonight we said, 'Give the crowd a bit of energy, fire some shots, play Connacht rugby'' (✍️@rugby_ie) #ConnachtRugby #Rugby #CiaranFrawley",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3zkvixab2a",
+      "publishedAt": "2026-10-17T21:22:44.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibvcsfxvsvndf24cl3ytbzhcjhhy53gjma7n6icixqnvk6bg4iakm",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2111563568424559027",
@@ -80,18 +116,6 @@
         "scarlets"
       ],
       "source": "x:scarlets_rugby"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3wzq6rky2t",
-      "text": "Frawley stars on home debut as Connacht beat Saracens in 13-try thriller (✍️@rugby_ie) #ChampionsCup #Connacht #Saracens",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3wzq6rky2t",
-      "publishedAt": "2026-10-17T20:37:21.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiaaj5exzhwco2smmskmay7upavppjlze7n7qeimd73tu4ukfztxrq",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
@@ -238,18 +262,6 @@
       "source": "x:ChampionsCup"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3tk5ns7a2a",
-      "text": "Scintillating Connacht beat Saracens in Galway try-fest (✍️@RTErugby) #Connacht #Saracens #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3tk5ns7a2a",
-      "publishedAt": "2026-10-17T19:34:57.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibaqlc2dwvx6mgfx6qyagtqz6bnfbi32venssrt7adgefzuiwe7w4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "x",
       "id": "x:2111540347809452412",
       "text": "The man was in flying form 🔥Ciarán Frawley \n\n#OneConnacht | 📸 @INPHOjames https://t.co/Sk1Ph5idxE",
@@ -383,18 +395,6 @@
         "bath"
       ],
       "source": "x:BathRugby"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3qringxc2l",
-      "text": "Champions Cup updates: Munster v Racing 92 (✍️@RTErugby) #ChampionsCup #MunsterRugby #Racing92",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3qringxc2l",
-      "publishedAt": "2026-10-17T18:45:22.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidza5irq3wikjkvimpvpz7cz3isnteeyn4sy6uya4afjo5et7jury",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
