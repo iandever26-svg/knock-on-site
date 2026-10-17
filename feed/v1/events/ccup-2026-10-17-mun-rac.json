@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-mun-rac",
  "matchId": "ccup-2026-10-17-mun-rac",
- "updated_at": "2026-10-17T19:27:44.449Z",
+ "updated_at": "2026-10-17T19:32:48.357Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604253/competitions/604253/plays?limit=400",
-   "fetched_at": "2026-10-17T19:27:44.449Z",
+   "fetched_at": "2026-10-17T19:32:48.357Z",
    "espn_event_id": "604253",
    "espn_league_id": 271937
   }
@@ -89,15 +89,30 @@
     "home": 14,
     "away": 3
    }
+  },
+  {
+   "id": "espn-1899119",
+   "minute": 26,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Antoine Gibert",
+   "detail": "Penalty (14-6)",
+   "playerName": "Antoine Gibert",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 14,
+    "away": 6
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 14,
-  "away": 3
+  "away": 6
  },
  "plays_summed": {
   "home": 14,
-  "away": 3
+  "away": 6
  }
 }
