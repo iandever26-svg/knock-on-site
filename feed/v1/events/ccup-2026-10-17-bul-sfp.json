@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bul-sfp",
  "matchId": "ccup-2026-10-17-bul-sfp",
- "updated_at": "2026-10-17T13:12:47.750Z",
+ "updated_at": "2026-10-17T13:17:52.058Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604248/competitions/604248/plays?limit=400",
-   "fetched_at": "2026-10-17T13:12:47.750Z",
+   "fetched_at": "2026-10-17T13:17:52.058Z",
    "espn_event_id": "604248",
    "espn_league_id": 271937
   }
@@ -158,15 +158,45 @@
     "home": 21,
     "away": 6
    }
+  },
+  {
+   "id": "espn-1898253",
+   "minute": 44,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Jacques Botha",
+   "detail": "Try (21-11)",
+   "playerName": "Jacques Botha",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 11
+   }
+  },
+  {
+   "id": "espn-1898254",
+   "minute": 45,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Louis Foursans-Bourdette",
+   "detail": "Conversion (21-13)",
+   "playerName": "Louis Foursans-Bourdette",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 13
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 6
+  "away": 13
  },
  "plays_summed": {
   "home": 21,
-  "away": 6
+  "away": 13
  }
 }

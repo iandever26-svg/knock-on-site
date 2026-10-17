@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-bli-osp",
  "matchId": "chcup-2026-10-17-bli-osp",
- "updated_at": "2026-10-17T13:12:47.750Z",
+ "updated_at": "2026-10-17T13:17:52.058Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604312/competitions/604312/plays?limit=400",
-   "fetched_at": "2026-10-17T13:12:47.750Z",
+   "fetched_at": "2026-10-17T13:17:52.058Z",
    "espn_event_id": "604312",
    "espn_league_id": 272073
   }
@@ -310,6 +310,18 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1898241",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Luke Davies",
+   "detail": "replaces Reuben Morgan-Williams",
+   "playerOn": "Luke Davies",
+   "playerOff": "Reuben Morgan-Williams",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1898234",
    "minute": 52,
    "period": "2H",
@@ -319,6 +331,42 @@
    "detail": "replaces Romani Makhatadze",
    "playerOn": "Otar Metreveli",
    "playerOff": "Romani Makhatadze",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898255",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Giorgi Chkhartishvili",
+   "detail": "replaces Nikoloz Khatiashvili",
+   "playerOn": "Giorgi Chkhartishvili",
+   "playerOff": "Nikoloz Khatiashvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898257",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben Roberts",
+   "detail": "replaces Lewis Jones",
+   "playerOn": "Ben Roberts",
+   "playerOff": "Lewis Jones",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898259",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Evardi Boshoff",
+   "detail": "replaces Lalakai Foketi",
+   "playerOn": "Evardi Boshoff",
+   "playerOff": "Lalakai Foketi",
    "label": "Substitution"
   }
  ],
