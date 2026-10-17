@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-bli-osp",
  "matchId": "chcup-2026-10-17-bli-osp",
- "updated_at": "2026-10-17T13:17:52.058Z",
+ "updated_at": "2026-10-17T13:22:56.276Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604312/competitions/604312/plays?limit=400",
-   "fetched_at": "2026-10-17T13:17:52.058Z",
+   "fetched_at": "2026-10-17T13:22:56.276Z",
    "espn_event_id": "604312",
    "espn_league_id": 272073
   }
@@ -367,6 +367,18 @@
    "detail": "replaces Lalakai Foketi",
    "playerOn": "Evardi Boshoff",
    "playerOff": "Lalakai Foketi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898268",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Temuri Dzodzuashvili",
+   "detail": "replaces Giorgi Spanderashvili",
+   "playerOn": "Temuri Dzodzuashvili",
+   "playerOff": "Giorgi Spanderashvili",
    "label": "Substitution"
   }
  ],

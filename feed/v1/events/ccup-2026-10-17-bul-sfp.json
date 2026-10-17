@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bul-sfp",
  "matchId": "ccup-2026-10-17-bul-sfp",
- "updated_at": "2026-10-17T13:17:52.058Z",
+ "updated_at": "2026-10-17T13:22:56.276Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604248/competitions/604248/plays?limit=400",
-   "fetched_at": "2026-10-17T13:17:52.058Z",
+   "fetched_at": "2026-10-17T13:22:56.276Z",
    "espn_event_id": "604248",
    "espn_league_id": 271937
   }
@@ -160,7 +160,7 @@
    }
   },
   {
-   "id": "espn-1898253",
+   "id": "espn-1898276",
    "minute": 44,
    "period": "2H",
    "type": "try",
@@ -175,7 +175,7 @@
    }
   },
   {
-   "id": "espn-1898254",
+   "id": "espn-1898277",
    "minute": 45,
    "period": "2H",
    "type": "conversion_made",
@@ -188,15 +188,69 @@
     "home": 21,
     "away": 13
    }
+  },
+  {
+   "id": "espn-1898278",
+   "minute": 47,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Marco van Staden",
+   "detail": "Try (26-13)",
+   "playerName": "Marco van Staden",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1898279",
+   "minute": 48,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Handre Pollard",
+   "detail": "Conversion (28-13)",
+   "playerName": "Handre Pollard",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1898292",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Samuel Ezeala",
+   "detail": "replaces Lester Etien",
+   "playerOn": "Samuel Ezeala",
+   "playerOff": "Lester Etien",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898298",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Petero Mailulu",
+   "detail": "replaces Jacques Botha",
+   "playerOn": "Petero Mailulu",
+   "playerOff": "Jacques Botha",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
+  "home": 28,
   "away": 13
  },
  "plays_summed": {
-  "home": 21,
+  "home": 28,
   "away": 13
  }
 }

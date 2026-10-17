@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-lyo-sha",
  "matchId": "chcup-2026-10-17-lyo-sha",
- "updated_at": "2026-10-17T13:17:52.058Z",
+ "updated_at": "2026-10-17T13:22:56.276Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604311/competitions/604311/plays?limit=400",
-   "fetched_at": "2026-10-17T13:17:52.058Z",
+   "fetched_at": "2026-10-17T13:22:56.276Z",
    "espn_event_id": "604311",
    "espn_league_id": 272073
   }
@@ -242,6 +242,90 @@
     "home": 21,
     "away": 19
    }
+  },
+  {
+   "id": "espn-1898265",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jurenzo Julius",
+   "detail": "replaces Jaco Williams",
+   "playerOn": "Jurenzo Julius",
+   "playerOff": "Jaco Williams",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898284",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mathis Sarragallet",
+   "detail": "replaces Camille Chat",
+   "playerOn": "Mathis Sarragallet",
+   "playerOff": "Camille Chat",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898294",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Emile van Heerden",
+   "detail": "replaces Deon Slabbert",
+   "playerOn": "Emile van Heerden",
+   "playerOff": "Deon Slabbert",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898286",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thomas Marceline",
+   "detail": "replaces Matteo Nocera",
+   "playerOn": "Thomas Marceline",
+   "playerOff": "Matteo Nocera",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898296",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tinotenda Mavesere",
+   "detail": "replaces Manu Tshituka",
+   "playerOn": "Tinotenda Mavesere",
+   "playerOff": "Manu Tshituka",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898280",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Hamza Kaabeche",
+   "detail": "replaces Thomas Gallo",
+   "playerOn": "Hamza Kaabeche",
+   "playerOff": "Thomas Gallo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898282",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Bradley Davids",
+   "detail": "replaces Ivan van Zyl",
+   "playerOn": "Bradley Davids",
+   "playerOff": "Ivan van Zyl",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
