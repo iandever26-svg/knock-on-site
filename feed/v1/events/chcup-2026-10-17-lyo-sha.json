@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-lyo-sha",
  "matchId": "chcup-2026-10-17-lyo-sha",
- "updated_at": "2026-10-17T13:48:21.052Z",
+ "updated_at": "2026-10-17T13:53:26.424Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604311/competitions/604311/plays?limit=400",
-   "fetched_at": "2026-10-17T13:48:21.052Z",
+   "fetched_at": "2026-10-17T13:53:26.424Z",
    "espn_event_id": "604311",
    "espn_league_id": 272073
   }
@@ -476,30 +476,15 @@
    "playerOn": "Camille Chat",
    "playerOff": "Mathis Sarragallet",
    "label": "Substitution"
-  },
-  {
-   "id": "espn-1898396",
-   "minute": 74,
-   "period": "2H",
-   "type": "try",
-   "team": "away",
-   "player": "Bradley Davids",
-   "detail": "Try (26-38)",
-   "playerName": "Bradley Davids",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 26,
-    "away": 38
-   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 26,
-  "away": 38
+  "away": 33
  },
  "plays_summed": {
   "home": 26,
-  "away": 38
+  "away": 33
  }
 }

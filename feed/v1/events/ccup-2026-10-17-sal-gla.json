@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sal-gla",
  "matchId": "ccup-2026-10-17-sal-gla",
- "updated_at": "2026-10-17T13:48:21.052Z",
- "final": false,
+ "updated_at": "2026-10-17T13:53:26.424Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604247/competitions/604247/plays?limit=400",
-   "fetched_at": "2026-10-17T13:48:21.052Z",
+   "fetched_at": "2026-10-17T13:53:26.424Z",
    "espn_event_id": "604247",
    "espn_league_id": 271937
   }
@@ -418,7 +418,7 @@
    }
   },
   {
-   "id": "espn-1898375",
+   "id": "espn-1898407",
    "minute": 69,
    "period": "2H",
    "type": "substitution",
