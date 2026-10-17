@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-17-aus-nzl",
  "matchId": "intl-2026-10-17-aus-nzl",
- "updated_at": "2026-10-17T06:05:24.544Z",
+ "updated_at": "2026-10-17T06:19:39.427Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/603464/competitions/603464/plays?limit=400",
-   "fetched_at": "2026-10-17T06:05:24.544Z",
+   "fetched_at": "2026-10-17T06:19:39.427Z",
    "espn_event_id": "603464",
    "espn_league_id": 289234
   }
@@ -317,15 +317,141 @@
    "playerOn": "Josh Canham",
    "playerOff": "Rob Valetini",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898027",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Billy Pollard",
+   "detail": "replaces Josh Nasser",
+   "playerOn": "Billy Pollard",
+   "playerOff": "Josh Nasser",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898029",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Massimo De Lutiis",
+   "detail": "replaces Allan Alaalatoa",
+   "playerOn": "Massimo De Lutiis",
+   "playerOff": "Allan Alaalatoa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898031",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Carlo Tizzano",
+   "detail": "replaces Lukhan Salakaia-Loto",
+   "playerOn": "Carlo Tizzano",
+   "playerOff": "Lukhan Salakaia-Loto",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898021",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Pasilio Tosi",
+   "detail": "replaces Fletcher Newell",
+   "playerOn": "Pasilio Tosi",
+   "playerOff": "Fletcher Newell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898023",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Xavier Numia",
+   "detail": "replaces George Bower",
+   "playerOn": "Xavier Numia",
+   "playerOff": "George Bower",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898025",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Samisoni Taukei'aho",
+   "detail": "replaces Codie Taylor",
+   "playerOn": "Samisoni Taukei'aho",
+   "playerOff": "Codie Taylor",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898036",
+   "minute": 54,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Tom Wright",
+   "detail": "Try (12-43)",
+   "playerName": "Tom Wright",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 43
+   }
+  },
+  {
+   "id": "espn-1898037",
+   "minute": 55,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Ryan Lonergan",
+   "detail": "Conversion (14-43)",
+   "playerName": "Ryan Lonergan",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 43
+   }
+  },
+  {
+   "id": "espn-1898038",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Filipo Daugunu",
+   "detail": "replaces Harry Potter",
+   "playerOn": "Filipo Daugunu",
+   "playerOff": "Harry Potter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898040",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Shannon Frizell",
+   "detail": "replaces Wallace Sititi",
+   "playerOn": "Shannon Frizell",
+   "playerOff": "Wallace Sititi",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 43
  },
  "plays_summed": {
-  "home": 7,
+  "home": 14,
   "away": 43
  }
 }
