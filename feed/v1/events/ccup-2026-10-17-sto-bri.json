@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sto-bri",
  "matchId": "ccup-2026-10-17-sto-bri",
- "updated_at": "2026-10-17T15:05:23.259Z",
+ "updated_at": "2026-10-17T15:16:48.120Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604250/competitions/604250/plays?limit=400",
-   "fetched_at": "2026-10-17T15:05:23.259Z",
+   "fetched_at": "2026-10-17T15:16:48.120Z",
    "espn_event_id": "604250",
    "espn_league_id": 271937
   }
