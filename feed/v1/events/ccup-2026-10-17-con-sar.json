@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-con-sar",
  "matchId": "ccup-2026-10-17-con-sar",
- "updated_at": "2026-10-17T18:02:02.133Z",
+ "updated_at": "2026-10-17T18:09:34.845Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604251/competitions/604251/plays?limit=400",
-   "fetched_at": "2026-10-17T18:02:02.133Z",
+   "fetched_at": "2026-10-17T18:09:34.845Z",
    "espn_event_id": "604251",
    "espn_league_id": 271937
   }
@@ -190,7 +190,7 @@
    }
   },
   {
-   "id": "espn-1898797",
+   "id": "espn-1898890",
    "minute": 42,
    "period": "1H",
    "type": "yellow_card",
@@ -503,15 +503,81 @@
    "playerOn": "Sean O'Brien",
    "playerOff": "Sean Jansen",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898889",
+   "minute": 64,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ciaran Frawley",
+   "detail": "Try (43-31)",
+   "playerName": "Ciaran Frawley",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 43,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1898891",
+   "minute": 65,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Gilbert",
+   "detail": "Conversion (45-31)",
+   "playerName": "Sam Gilbert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 45,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1898896",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Nathan Michelow",
+   "detail": "replaces Ben Earl",
+   "playerOn": "Nathan Michelow",
+   "playerOff": "Ben Earl",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898898",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Fergus Burke",
+   "detail": "replaces Sione Va'enuku",
+   "playerOn": "Fergus Burke",
+   "playerOff": "Sione Va'enuku",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898894",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Niall Murray",
+   "detail": "replaces Darragh Murray",
+   "playerOn": "Niall Murray",
+   "playerOff": "Darragh Murray",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 38,
+  "home": 45,
   "away": 31
  },
  "plays_summed": {
-  "home": 38,
+  "home": 45,
   "away": 31
  }
 }
