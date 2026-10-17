@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-lro-lio",
  "matchId": "ccup-2026-10-17-lro-lio",
- "updated_at": "2026-10-17T18:14:38.297Z",
+ "updated_at": "2026-10-17T18:19:42.266Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604252/competitions/604252/plays?limit=400",
-   "fetched_at": "2026-10-17T18:14:38.297Z",
+   "fetched_at": "2026-10-17T18:19:42.266Z",
    "espn_event_id": "604252",
    "espn_league_id": 271937
   }
@@ -428,15 +428,57 @@
    "playerOn": "Avakuki Niusalelekitoga",
    "playerOff": "Sacha Elissalde",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898924",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Boeta Chamberlain",
+   "detail": "replaces Quan Horn",
+   "playerOn": "Boeta Chamberlain",
+   "playerOff": "Quan Horn",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898934",
+   "minute": 76,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Avakuki Niusalelekitoga",
+   "detail": "Try (29-14)",
+   "playerName": "Avakuki Niusalelekitoga",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1898935",
+   "minute": 77,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Hastoy",
+   "detail": "Conversion (31-14)",
+   "playerName": "Antoine Hastoy",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 31,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 24,
+  "home": 31,
   "away": 14
  },
  "plays_summed": {
-  "home": 24,
+  "home": 31,
   "away": 14
  }
 }

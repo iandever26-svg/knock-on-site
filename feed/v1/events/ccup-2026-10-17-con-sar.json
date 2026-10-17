@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-con-sar",
  "matchId": "ccup-2026-10-17-con-sar",
- "updated_at": "2026-10-17T18:14:38.297Z",
+ "updated_at": "2026-10-17T18:19:42.266Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604251/competitions/604251/plays?limit=400",
-   "fetched_at": "2026-10-17T18:14:38.297Z",
+   "fetched_at": "2026-10-17T18:19:42.266Z",
    "espn_event_id": "604251",
    "espn_league_id": 271937
   }
@@ -559,8 +559,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1898894",
-   "minute": 69,
+   "id": "espn-1898926",
+   "minute": 68,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -571,8 +571,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1898920",
-   "minute": 72,
+   "id": "espn-1898936",
+   "minute": 70,
    "period": "2H",
    "type": "substitution",
    "team": "away",
