@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sto-bri",
  "matchId": "ccup-2026-10-17-sto-bri",
- "updated_at": "2026-10-17T15:39:46.233Z",
+ "updated_at": "2026-10-17T15:44:49.768Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604250/competitions/604250/plays?limit=400",
-   "fetched_at": "2026-10-17T15:39:46.233Z",
+   "fetched_at": "2026-10-17T15:44:49.768Z",
    "espn_event_id": "604250",
    "espn_league_id": 271937
   }
@@ -354,6 +354,54 @@
    "detail": "replaces Kieran Marmion",
    "playerOn": "Ollie Harris",
    "playerOff": "Kieran Marmion",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898596",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Andrew Turner",
+   "detail": "replaces Jake Woolmore",
+   "playerOn": "Andrew Turner",
+   "playerOff": "Jake Woolmore",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898586",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Deon Fourie",
+   "detail": "replaces Paul de Villiers",
+   "playerOn": "Deon Fourie",
+   "playerOff": "Paul de Villiers",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898590",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Haashim Pead",
+   "detail": "replaces Cobus Reinach",
+   "playerOn": "Haashim Pead",
+   "playerOff": "Cobus Reinach",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898601",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Riley Norton",
+   "detail": "replaces JD Schickerling",
+   "playerOn": "Riley Norton",
+   "playerOff": "JD Schickerling",
    "label": "Substitution"
   }
  ],

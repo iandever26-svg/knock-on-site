@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-zeb-uls",
  "matchId": "chcup-2026-10-17-zeb-uls",
- "updated_at": "2026-10-17T15:39:46.233Z",
+ "updated_at": "2026-10-17T15:44:49.768Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604313/competitions/604313/plays?limit=400",
-   "fetched_at": "2026-10-17T15:39:46.233Z",
+   "fetched_at": "2026-10-17T15:44:49.768Z",
    "espn_event_id": "604313",
    "espn_league_id": 272073
   }
@@ -284,6 +284,81 @@
    "playerOn": "Mirko Belloni",
    "playerOff": "Giacomo Da Re",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898629",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Patricio Baronio",
+   "detail": "replaces Alessandro Fusco",
+   "playerOn": "Patricio Baronio",
+   "playerOff": "Alessandro Fusco",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898611",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Leonard Krumov",
+   "detail": "replaces Francesco Ruffolo",
+   "playerOn": "Leonard Krumov",
+   "playerOff": "Francesco Ruffolo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898625",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Matthew Devine",
+   "detail": "replaces Nathan Doak",
+   "playerOn": "Matthew Devine",
+   "playerOff": "Nathan Doak",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898627",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jack Murphy",
+   "detail": "replaces Jake Flannery",
+   "playerOn": "Jack Murphy",
+   "playerOff": "Jake Flannery",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898621",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joe Hopes",
+   "detail": "replaces Harry Sheridan",
+   "playerOn": "Joe Hopes",
+   "playerOff": "Harry Sheridan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898631",
+   "minute": 65,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Jack Murphy",
+   "detail": "Yellow card (7-26)",
+   "playerName": "Jack Murphy",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 26
+   }
   }
  ],
  "score_source": "espn_scoreboard",

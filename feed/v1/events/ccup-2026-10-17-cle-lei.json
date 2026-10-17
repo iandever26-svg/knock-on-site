@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-cle-lei",
  "matchId": "ccup-2026-10-17-cle-lei",
- "updated_at": "2026-10-17T15:39:46.233Z",
+ "updated_at": "2026-10-17T15:44:49.768Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604249/competitions/604249/plays?limit=400",
-   "fetched_at": "2026-10-17T15:39:46.233Z",
+   "fetched_at": "2026-10-17T15:44:49.768Z",
    "espn_event_id": "604249",
    "espn_league_id": 271937
   }
@@ -295,6 +295,98 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1898589",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jamie Osborne",
+   "detail": "replaces Robbie Henshaw",
+   "playerOn": "Jamie Osborne",
+   "playerOff": "Robbie Henshaw",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898606",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Robbie Henshaw",
+   "playerOff": "Robbie Henshaw",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898592",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sacha Lotrian",
+   "detail": "replaces Giorgi Akhaladze",
+   "playerOn": "Sacha Lotrian",
+   "playerOff": "Giorgi Akhaladze",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898594",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mathys Belaubre",
+   "detail": "replaces AJ Lam",
+   "playerOn": "Mathys Belaubre",
+   "playerOff": "AJ Lam",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898607",
+   "minute": 65,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Mathys Belaubre",
+   "detail": "Try (21-27)",
+   "playerName": "Mathys Belaubre",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1898608",
+   "minute": 65,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Harry Plummer",
+   "detail": "Conversion (23-27)",
+   "playerName": "Harry Plummer",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 23,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1898610",
+   "minute": 66,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Jack Conan",
+   "detail": "Try (23-32)",
+   "playerName": "Jack Conan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 23,
+    "away": 32
+   }
+  },
+  {
    "id": "inferred-pt-away-1",
    "minute": 0,
    "minuteKnown": false,
@@ -304,21 +396,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (16-34)",
+   "detail": "Penalty try (inferred, minute unknown) (23-39)",
    "scoreAfter": {
-    "home": 16,
-    "away": 34
+    "home": 23,
+    "away": 39
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 16,
-  "away": 34
+  "home": 23,
+  "away": 39
  },
  "plays_summed": {
-  "home": 16,
-  "away": 27
+  "home": 23,
+  "away": 32
  },
  "inferred_penalty_tries": [
   {
