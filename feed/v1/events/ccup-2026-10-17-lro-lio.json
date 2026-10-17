@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-lro-lio",
  "matchId": "ccup-2026-10-17-lro-lio",
- "updated_at": "2026-10-17T17:36:36.279Z",
+ "updated_at": "2026-10-17T17:44:01.725Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604252/competitions/604252/plays?limit=400",
-   "fetched_at": "2026-10-17T17:36:36.279Z",
+   "fetched_at": "2026-10-17T17:44:01.725Z",
    "espn_event_id": "604252",
    "espn_league_id": 271937
   }
@@ -217,6 +217,66 @@
    "detail": "replaces Tevita Ofa",
    "playerOn": "Tolu Latu",
    "playerOff": "Tevita Ofa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898802",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Aleksandre Kuntelia",
+   "detail": "replaces Karl Sorin",
+   "playerOn": "Aleksandre Kuntelia",
+   "playerOff": "Karl Sorin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898806",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Paul Boudehent",
+   "detail": "replaces Watisoni Waqanisaravi",
+   "playerOn": "Paul Boudehent",
+   "playerOff": "Watisoni Waqanisaravi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898808",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Salmaan Moerat",
+   "detail": "replaces Charles Kante-Samba",
+   "playerOn": "Salmaan Moerat",
+   "playerOff": "Charles Kante-Samba",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898810",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Louis Penverne",
+   "detail": "replaces Alexandre Kaddouri",
+   "playerOn": "Louis Penverne",
+   "playerOff": "Alexandre Kaddouri",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898804",
+   "minute": 43,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tevita Ofa",
+   "detail": "replaces Tolu Latu",
+   "playerOn": "Tevita Ofa",
+   "playerOff": "Tolu Latu",
    "label": "Substitution"
   }
  ],
