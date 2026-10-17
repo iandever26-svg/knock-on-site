@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-lyo-sha",
  "matchId": "chcup-2026-10-17-lyo-sha",
- "updated_at": "2026-10-17T13:58:31.022Z",
- "final": false,
+ "updated_at": "2026-10-17T14:03:34.749Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604311/competitions/604311/plays?limit=400",
-   "fetched_at": "2026-10-17T13:58:31.022Z",
+   "fetched_at": "2026-10-17T14:03:34.749Z",
    "espn_event_id": "604311",
    "espn_league_id": 272073
   }
@@ -412,7 +412,7 @@
    }
   },
   {
-   "id": "espn-1898360",
+   "id": "espn-1898457",
    "minute": 64,
    "period": "2H",
    "type": "substitution",
@@ -493,8 +493,8 @@
    }
   },
   {
-   "id": "espn-1898422",
-   "minute": 81,
+   "id": "espn-1898445",
+   "minute": 80,
    "period": "2H",
    "type": "conversion_made",
    "team": "home",
@@ -508,8 +508,8 @@
    }
   },
   {
-   "id": "espn-1898440",
-   "minute": 81,
+   "id": "espn-1898455",
+   "minute": 80,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -520,8 +520,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1898443",
-   "minute": 83,
+   "id": "espn-1898459",
+   "minute": 82,
    "period": "2H",
    "type": "try",
    "team": "away",
@@ -535,7 +535,7 @@
    }
   },
   {
-   "id": "espn-1898444",
+   "id": "espn-1898460",
    "minute": 83,
    "period": "2H",
    "type": "conversion_made",
