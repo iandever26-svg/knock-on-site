@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bul-sfp",
  "matchId": "ccup-2026-10-17-bul-sfp",
- "updated_at": "2026-10-17T12:32:13.832Z",
+ "updated_at": "2026-10-17T12:37:17.582Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604248/competitions/604248/plays?limit=400",
-   "fetched_at": "2026-10-17T12:32:13.832Z",
+   "fetched_at": "2026-10-17T12:37:17.582Z",
    "espn_event_id": "604248",
    "espn_league_id": 271937
   }
