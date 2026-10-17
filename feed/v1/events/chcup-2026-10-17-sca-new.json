@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-sca-new",
  "matchId": "chcup-2026-10-17-sca-new",
- "updated_at": "2026-10-17T19:37:53.107Z",
+ "updated_at": "2026-10-17T19:50:51.164Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604314/competitions/604314/plays?limit=400",
-   "fetched_at": "2026-10-17T19:37:53.107Z",
+   "fetched_at": "2026-10-17T19:50:51.164Z",
    "espn_event_id": "604314",
    "espn_league_id": 272073
   }
@@ -116,15 +116,57 @@
     "home": 19,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1899150",
+   "minute": 37,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Joe Hawkins",
+   "detail": "replaces Sam Costelow",
+   "playerOn": "Joe Hawkins",
+   "playerOff": "Sam Costelow",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899152",
+   "minute": 40,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Gareth Davies",
+   "detail": "Try (24-0)",
+   "playerName": "Gareth Davies",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1899153",
+   "minute": 41,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joe Hawkins",
+   "detail": "Conversion (26-0)",
+   "playerName": "Joe Hawkins",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 26,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 19,
+  "home": 26,
   "away": 0
  },
  "plays_summed": {
-  "home": 19,
+  "home": 26,
   "away": 0
  }
 }
