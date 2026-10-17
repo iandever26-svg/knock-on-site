@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-cle-lei",
  "matchId": "ccup-2026-10-17-cle-lei",
- "updated_at": "2026-10-17T15:49:54.355Z",
+ "updated_at": "2026-10-17T15:54:58.896Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604249/competitions/604249/plays?limit=400",
-   "fetched_at": "2026-10-17T15:49:54.355Z",
+   "fetched_at": "2026-10-17T15:54:58.896Z",
    "espn_event_id": "604249",
    "espn_league_id": 271937
   }
@@ -474,6 +474,30 @@
    "detail": "replaces Nohem Ez Zahouany",
    "playerOn": "Matheo Frisach",
    "playerOff": "Nohem Ez Zahouany",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898667",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Oliver Coffey",
+   "detail": "replaces Fintan Gunne",
+   "playerOn": "Oliver Coffey",
+   "playerOff": "Fintan Gunne",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898665",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Alex Usanov",
+   "detail": "replaces Andrew Porter",
+   "playerOn": "Alex Usanov",
+   "playerOff": "Andrew Porter",
    "label": "Substitution"
   },
   {
