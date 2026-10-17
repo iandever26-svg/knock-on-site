@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-lro-lio",
  "matchId": "ccup-2026-10-17-lro-lio",
- "updated_at": "2026-10-17T16:48:48.856Z",
+ "updated_at": "2026-10-17T16:55:23.961Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604252/competitions/604252/plays?limit=400",
-   "fetched_at": "2026-10-17T16:48:48.856Z",
+   "fetched_at": "2026-10-17T16:55:23.961Z",
    "espn_event_id": "604252",
    "espn_league_id": 271937
   }
@@ -56,15 +56,45 @@
    "playerOn": "Bathobele Hlekani",
    "playerOff": "Sibabalo Qoma",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898749",
+   "minute": 17,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Tevita Ofa",
+   "detail": "Try (5-7)",
+   "playerName": "Tevita Ofa",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1898752",
+   "minute": 18,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Hastoy",
+   "detail": "Conversion (7-7)",
+   "playerName": "Antoine Hastoy",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
+  "home": 7,
   "away": 7
  },
  "plays_summed": {
-  "home": 0,
+  "home": 7,
   "away": 7
  }
 }
