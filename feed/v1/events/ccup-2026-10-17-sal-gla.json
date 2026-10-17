@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sal-gla",
  "matchId": "ccup-2026-10-17-sal-gla",
- "updated_at": "2026-10-17T12:22:06.904Z",
+ "updated_at": "2026-10-17T12:27:10.694Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604247/competitions/604247/plays?limit=400",
-   "fetched_at": "2026-10-17T12:22:06.904Z",
+   "fetched_at": "2026-10-17T12:27:10.694Z",
    "espn_event_id": "604247",
    "espn_league_id": 271937
   }
@@ -91,6 +91,36 @@
    }
   },
   {
+   "id": "espn-1898150",
+   "minute": 17,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Tom Roebuck",
+   "detail": "Yellow card (12-0)",
+   "playerName": "Tom Roebuck",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1898161",
+   "minute": 21,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Kyle Steyn",
+   "detail": "Try (12-5)",
+   "playerName": "Kyle Steyn",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 5
+   }
+  },
+  {
    "id": "inferred-pt-away-1",
    "minute": 0,
    "minuteKnown": false,
@@ -100,21 +130,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (12-7)",
+   "detail": "Penalty try (inferred, minute unknown) (12-12)",
    "scoreAfter": {
     "home": 12,
-    "away": 7
+    "away": 12
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 12,
-  "away": 7
+  "away": 12
  },
  "plays_summed": {
   "home": 12,
-  "away": 0
+  "away": 5
  },
  "inferred_penalty_tries": [
   {
