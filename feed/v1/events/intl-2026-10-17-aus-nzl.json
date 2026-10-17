@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-17-aus-nzl",
  "matchId": "intl-2026-10-17-aus-nzl",
- "updated_at": "2026-10-17T06:30:24.128Z",
+ "updated_at": "2026-10-17T06:35:39.226Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/603464/competitions/603464/plays?limit=400",
-   "fetched_at": "2026-10-17T06:30:24.128Z",
+   "fetched_at": "2026-10-17T06:35:39.226Z",
    "espn_event_id": "603464",
    "espn_league_id": 289234
   }
@@ -455,15 +455,81 @@
    "playerOn": "Du'Plessis Kirifi",
    "playerOff": "Shannon Frizell",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898046",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Kalani Thomas",
+   "detail": "replaces Ryan Lonergan",
+   "playerOn": "Kalani Thomas",
+   "playerOff": "Ryan Lonergan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898048",
+   "minute": 66,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Filipo Daugunu",
+   "detail": "Try (19-43)",
+   "playerName": "Filipo Daugunu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 43
+   }
+  },
+  {
+   "id": "espn-1898049",
+   "minute": 67,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Declan Meredith",
+   "detail": "Conversion (21-43)",
+   "playerName": "Declan Meredith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 43
+   }
+  },
+  {
+   "id": "espn-1898050",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cortez Ratima",
+   "detail": "replaces Cam Roigard",
+   "playerOn": "Cortez Ratima",
+   "playerOff": "Cam Roigard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898052",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Codie Taylor",
+   "detail": "replaces Samisoni Taukei'aho",
+   "playerOn": "Codie Taylor",
+   "playerOff": "Samisoni Taukei'aho",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
+  "home": 21,
   "away": 43
  },
  "plays_summed": {
-  "home": 14,
+  "home": 21,
   "away": 43
  }
 }
