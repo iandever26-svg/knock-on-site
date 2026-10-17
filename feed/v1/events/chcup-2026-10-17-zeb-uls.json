@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-zeb-uls",
  "matchId": "chcup-2026-10-17-zeb-uls",
- "updated_at": "2026-10-17T16:05:06.534Z",
- "final": false,
+ "updated_at": "2026-10-17T16:13:24.232Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604313/competitions/604313/plays?limit=400",
-   "fetched_at": "2026-10-17T16:05:06.534Z",
+   "fetched_at": "2026-10-17T16:13:24.232Z",
    "espn_event_id": "604313",
    "espn_league_id": 272073
   }
@@ -527,6 +527,18 @@
     "home": 21,
     "away": 40
    }
+  },
+  {
+   "id": "espn-1898727",
+   "minute": 79,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Bautista Stavile",
+   "detail": "replaces Giovanni Licata",
+   "playerOn": "Bautista Stavile",
+   "playerOff": "Giovanni Licata",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
