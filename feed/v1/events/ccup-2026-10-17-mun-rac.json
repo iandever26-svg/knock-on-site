@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-mun-rac",
  "matchId": "ccup-2026-10-17-mun-rac",
- "updated_at": "2026-10-17T20:06:01.390Z",
+ "updated_at": "2026-10-17T20:11:06.872Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604253/competitions/604253/plays?limit=400",
-   "fetched_at": "2026-10-17T20:06:01.390Z",
+   "fetched_at": "2026-10-17T20:11:06.872Z",
    "espn_event_id": "604253",
    "espn_league_id": 271937
   }
@@ -134,15 +134,66 @@
     "home": 21,
     "away": 6
    }
+  },
+  {
+   "id": "espn-1899215",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Demba Bamba",
+   "detail": "replaces Gia Kharaishvili",
+   "playerOn": "Demba Bamba",
+   "playerOff": "Gia Kharaishvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899220",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Maxime Machenaud",
+   "detail": "replaces Antoine Latrasse",
+   "playerOn": "Maxime Machenaud",
+   "playerOff": "Antoine Latrasse",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899223",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sam James",
+   "detail": "replaces Vinaya Habosi",
+   "playerOn": "Sam James",
+   "playerOff": "Vinaya Habosi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899225",
+   "minute": 48,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Wilfried Hulleu",
+   "detail": "Try (21-11)",
+   "playerName": "Wilfried Hulleu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 11
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 6
+  "away": 11
  },
  "plays_summed": {
   "home": 21,
-  "away": 6
+  "away": 11
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-sca-new",
  "matchId": "chcup-2026-10-17-sca-new",
- "updated_at": "2026-10-17T20:06:01.390Z",
+ "updated_at": "2026-10-17T20:11:06.872Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604314/competitions/604314/plays?limit=400",
-   "fetched_at": "2026-10-17T20:06:01.390Z",
+   "fetched_at": "2026-10-17T20:11:06.872Z",
    "espn_event_id": "604314",
    "espn_league_id": 272073
   }
@@ -181,6 +181,18 @@
    "detail": "replaces James Elliott",
    "playerOn": "Simon Benitez Cruz",
    "playerOff": "James Elliott",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899218",
+   "minute": 43,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Eddie James",
+   "detail": "replaces Johnny Williams",
+   "playerOn": "Eddie James",
+   "playerOff": "Johnny Williams",
    "label": "Substitution"
   }
  ],
