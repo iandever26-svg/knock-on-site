@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bat-mon",
  "matchId": "ccup-2026-10-17-bat-mon",
- "updated_at": "2026-10-17T19:32:48.357Z",
+ "updated_at": "2026-10-17T19:37:53.107Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604254/competitions/604254/plays?limit=400",
-   "fetched_at": "2026-10-17T19:32:48.357Z",
+   "fetched_at": "2026-10-17T19:37:53.107Z",
    "espn_event_id": "604254",
    "espn_league_id": 271937
   }
@@ -104,15 +104,30 @@
     "home": 14,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1899128",
+   "minute": 35,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Adam Hastings",
+   "detail": "Penalty (14-10)",
+   "playerName": "Adam Hastings",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 14,
+    "away": 10
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 14,
-  "away": 7
+  "away": 10
  },
  "plays_summed": {
   "home": 14,
-  "away": 7
+  "away": 10
  }
 }
