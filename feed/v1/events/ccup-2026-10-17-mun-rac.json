@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-mun-rac",
  "matchId": "ccup-2026-10-17-mun-rac",
- "updated_at": "2026-10-17T20:21:15.154Z",
+ "updated_at": "2026-10-17T20:26:19.090Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604253/competitions/604253/plays?limit=400",
-   "fetched_at": "2026-10-17T20:21:15.154Z",
+   "fetched_at": "2026-10-17T20:26:19.090Z",
    "espn_event_id": "604253",
    "espn_league_id": 271937
   }
@@ -268,7 +268,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899278",
+   "id": "espn-1899343",
    "minute": 58,
    "period": "2H",
    "type": "substitution",
@@ -280,7 +280,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899281",
+   "id": "espn-1899345",
    "minute": 58,
    "period": "2H",
    "type": "substitution",
@@ -292,8 +292,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899284",
-   "minute": 59,
+   "id": "espn-1899297",
+   "minute": 58,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -304,8 +304,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899286",
-   "minute": 59,
+   "id": "espn-1899299",
+   "minute": 58,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -314,15 +314,69 @@
    "playerOn": "Josh Wycherley",
    "playerOff": "Jeremy Loughman",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1899302",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Fineen Wycherley",
+   "detail": "replaces Tom Ahern",
+   "playerOn": "Fineen Wycherley",
+   "playerOff": "Tom Ahern",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899309",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Nathan Hughes",
+   "detail": "replaces Jordan Joseph",
+   "playerOn": "Nathan Hughes",
+   "playerOff": "Jordan Joseph",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899305",
+   "minute": 61,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Fineen Wycherley",
+   "detail": "Try (26-18)",
+   "playerName": "Fineen Wycherley",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1899308",
+   "minute": 61,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "JJ Hanrahan",
+   "detail": "Conversion (28-18)",
+   "playerName": "JJ Hanrahan",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 18
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
+  "home": 28,
   "away": 18
  },
  "plays_summed": {
-  "home": 21,
+  "home": 28,
   "away": 18
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bat-mon",
  "matchId": "ccup-2026-10-17-bat-mon",
- "updated_at": "2026-10-17T20:21:15.154Z",
+ "updated_at": "2026-10-17T20:26:19.090Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604254/competitions/604254/plays?limit=400",
-   "fetched_at": "2026-10-17T20:21:15.154Z",
+   "fetched_at": "2026-10-17T20:26:19.090Z",
    "espn_event_id": "604254",
    "espn_league_id": 271937
   }
@@ -211,6 +211,18 @@
    "detail": "replaces Tom Dunn",
    "playerOn": "Dan Frost",
    "playerOff": "Tom Dunn",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899294",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Josh Bayliss",
+   "detail": "replaces Will Jeanes",
+   "playerOn": "Josh Bayliss",
+   "playerOff": "Will Jeanes",
    "label": "Substitution"
   }
  ],
