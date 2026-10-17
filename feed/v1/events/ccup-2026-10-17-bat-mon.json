@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bat-mon",
  "matchId": "ccup-2026-10-17-bat-mon",
- "updated_at": "2026-10-17T20:46:21.792Z",
+ "updated_at": "2026-10-17T20:51:28.207Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604254/competitions/604254/plays?limit=400",
-   "fetched_at": "2026-10-17T20:46:21.792Z",
+   "fetched_at": "2026-10-17T20:51:28.207Z",
    "espn_event_id": "604254",
    "espn_league_id": 271937
   }
@@ -365,15 +365,42 @@
     "home": 14,
     "away": 30
    }
+  },
+  {
+   "id": "espn-1899522",
+   "minute": 76,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Adam Hastings",
+   "detail": "Conversion (14-32)",
+   "playerName": "Adam Hastings",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 32
+   }
+  },
+  {
+   "id": "espn-1899530",
+   "minute": 79,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ted Hill",
+   "detail": "replaces Charlie Ewels",
+   "playerOn": "Ted Hill",
+   "playerOff": "Charlie Ewels",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 14,
-  "away": 30
+  "away": 32
  },
  "plays_summed": {
   "home": 14,
-  "away": 30
+  "away": 32
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-sca-new",
  "matchId": "chcup-2026-10-17-sca-new",
- "updated_at": "2026-10-17T20:46:21.792Z",
- "final": false,
+ "updated_at": "2026-10-17T20:51:28.207Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604314/competitions/604314/plays?limit=400",
-   "fetched_at": "2026-10-17T20:46:21.792Z",
+   "fetched_at": "2026-10-17T20:51:28.207Z",
    "espn_event_id": "604314",
    "espn_league_id": 272073
   }
@@ -457,7 +457,7 @@
    }
   },
   {
-   "id": "espn-1899491",
+   "id": "espn-1899529",
    "minute": 70,
    "period": "2H",
    "type": "try",
@@ -472,7 +472,7 @@
    }
   },
   {
-   "id": "espn-1899492",
+   "id": "espn-1899516",
    "minute": 71,
    "period": "2H",
    "type": "conversion_made",
@@ -487,7 +487,7 @@
    }
   },
   {
-   "id": "espn-1899498",
+   "id": "espn-1899517",
    "minute": 71,
    "period": "2H",
    "type": "substitution",
@@ -499,8 +499,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899502",
-   "minute": 79,
+   "id": "espn-1899533",
+   "minute": 73,
    "period": "2H",
    "type": "try",
    "team": "away",
@@ -514,8 +514,8 @@
    }
   },
   {
-   "id": "espn-1899503",
-   "minute": 79,
+   "id": "espn-1899534",
+   "minute": 73,
    "period": "2H",
    "type": "conversion_made",
    "team": "away",
