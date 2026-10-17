@@ -16,6 +16,26 @@
       "eventsUpdatedAt": "2026-10-16T21:23:27.221Z"
     },
     {
+      "match_id": "ccup-2026-10-17-bul-sfp",
+      "kickoff": "2026-10-17T13:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-17T12:12:00.065Z"
+    },
+    {
+      "match_id": "ccup-2026-10-17-sal-gla",
+      "kickoff": "2026-10-17T13:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-17T12:12:00.065Z"
+    },
+    {
       "match_id": "chcup-2026-10-16-dra-per",
       "kickoff": "2026-10-16T20:00:00+01:00",
       "score": false,
@@ -34,6 +54,26 @@
       "lineupUpdatedAt": null,
       "events": true,
       "eventsUpdatedAt": "2026-10-16T21:23:27.221Z"
+    },
+    {
+      "match_id": "chcup-2026-10-17-bli-osp",
+      "kickoff": "2026-10-17T13:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-17T12:12:00.065Z"
+    },
+    {
+      "match_id": "chcup-2026-10-17-lyo-sha",
+      "kickoff": "2026-10-17T13:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-17T12:12:00.065Z"
     },
     {
       "match_id": "intl-2026-10-17-aus-nzl",
