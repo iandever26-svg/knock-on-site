@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-con-sar",
  "matchId": "ccup-2026-10-17-con-sar",
- "updated_at": "2026-10-17T18:19:42.266Z",
- "final": false,
+ "updated_at": "2026-10-17T18:29:18.684Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604251/competitions/604251/plays?limit=400",
-   "fetched_at": "2026-10-17T18:19:42.266Z",
+   "fetched_at": "2026-10-17T18:29:18.684Z",
    "espn_event_id": "604251",
    "espn_league_id": 271937
   }
@@ -571,7 +571,19 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1898936",
+   "id": "espn-1898938",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sam Illo",
+   "detail": "replaces Thomas Connolly",
+   "playerOn": "Sam Illo",
+   "playerOff": "Thomas Connolly",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898941",
    "minute": 70,
    "period": "2H",
    "type": "substitution",
@@ -581,15 +593,72 @@
    "playerOn": "Tom James",
    "playerOff": "Tomos Williams",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898940",
+   "minute": 79,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Cian Prendergast",
+   "detail": "Yellow card (45-31)",
+   "playerName": "Cian Prendergast",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 45,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1898943",
+   "minute": 80,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Elliot Daly",
+   "detail": "Try (45-36)",
+   "playerName": "Elliot Daly",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 45,
+    "away": 36
+   }
+  },
+  {
+   "id": "espn-1898943-cm",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (45-36)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 45,
+    "away": 36
+   }
+  },
+  {
+   "id": "espn-1898944",
+   "minute": 81,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben Earl",
+   "detail": "replaces Alfie Barbeary",
+   "playerOn": "Ben Earl",
+   "playerOff": "Alfie Barbeary",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 45,
-  "away": 31
+  "away": 36
  },
  "plays_summed": {
   "home": 45,
-  "away": 31
+  "away": 36
  }
 }
