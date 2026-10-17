@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-bli-osp",
  "matchId": "chcup-2026-10-17-bli-osp",
- "updated_at": "2026-10-17T12:27:10.694Z",
+ "updated_at": "2026-10-17T12:32:13.832Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604312/competitions/604312/plays?limit=400",
-   "fetched_at": "2026-10-17T12:27:10.694Z",
+   "fetched_at": "2026-10-17T12:32:13.832Z",
    "espn_event_id": "604312",
    "espn_league_id": 272073
   }
@@ -104,15 +104,30 @@
     "home": 7,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1898163",
+   "minute": 25,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Huw Sutton",
+   "detail": "Try (7-15)",
+   "playerName": "Huw Sutton",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 15
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 10
+  "away": 15
  },
  "plays_summed": {
   "home": 7,
-  "away": 10
+  "away": 15
  }
 }

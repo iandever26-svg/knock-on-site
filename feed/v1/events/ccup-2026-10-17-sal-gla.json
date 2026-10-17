@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sal-gla",
  "matchId": "ccup-2026-10-17-sal-gla",
- "updated_at": "2026-10-17T12:27:10.694Z",
+ "updated_at": "2026-10-17T12:32:13.832Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604247/competitions/604247/plays?limit=400",
-   "fetched_at": "2026-10-17T12:27:10.694Z",
+   "fetched_at": "2026-10-17T12:32:13.832Z",
    "espn_event_id": "604247",
    "espn_league_id": 271937
   }
@@ -121,6 +121,21 @@
    }
   },
   {
+   "id": "espn-1898164",
+   "minute": 22,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "George Horne",
+   "detail": "Conversion (12-7)",
+   "playerName": "George Horne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 7
+   }
+  },
+  {
    "id": "inferred-pt-away-1",
    "minute": 0,
    "minuteKnown": false,
@@ -130,21 +145,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (12-12)",
+   "detail": "Penalty try (inferred, minute unknown) (12-14)",
    "scoreAfter": {
     "home": 12,
-    "away": 12
+    "away": 14
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 12,
-  "away": 12
+  "away": 14
  },
  "plays_summed": {
   "home": 12,
-  "away": 5
+  "away": 7
  },
  "inferred_penalty_tries": [
   {
