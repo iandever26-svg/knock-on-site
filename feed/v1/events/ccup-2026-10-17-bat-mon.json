@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bat-mon",
  "matchId": "ccup-2026-10-17-bat-mon",
- "updated_at": "2026-10-17T20:36:27.264Z",
+ "updated_at": "2026-10-17T20:46:21.792Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604254/competitions/604254/plays?limit=400",
-   "fetched_at": "2026-10-17T20:36:27.264Z",
+   "fetched_at": "2026-10-17T20:46:21.792Z",
    "espn_event_id": "604254",
    "espn_league_id": 271937
   }
@@ -292,6 +292,30 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1899467",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Adam Beard",
+   "detail": "replaces Ruben van Heerden",
+   "playerOn": "Adam Beard",
+   "playerOff": "Ruben van Heerden",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899445",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jon Echegaray",
+   "detail": "replaces Stuart Hogg",
+   "playerOn": "Jon Echegaray",
+   "playerOff": "Stuart Hogg",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1899411",
    "minute": 66,
    "period": "2H",
@@ -316,55 +340,40 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899421",
-   "minute": 66,
+   "id": "espn-1899493",
+   "minute": 72,
    "period": "2H",
    "type": "substitution",
-   "team": "away",
-   "player": "Jon Echegaray",
-   "detail": "replaces Stuart Hogg",
-   "playerOn": "Jon Echegaray",
-   "playerOff": "Stuart Hogg",
+   "team": "home",
+   "player": "Ewan Richards",
+   "detail": "replaces Ted Hill",
+   "playerOn": "Ewan Richards",
+   "playerOff": "Ted Hill",
    "label": "Substitution"
   },
   {
-   "id": "espn-1899430",
-   "minute": 68,
+   "id": "espn-1899504",
+   "minute": 75,
    "period": "2H",
    "type": "try",
-   "team": "home",
-   "player": "Josh Bayliss",
-   "detail": "Try (19-25)",
-   "playerName": "Josh Bayliss",
+   "team": "away",
+   "player": "Alexandre Becognee",
+   "detail": "Try (14-30)",
+   "playerName": "Alexandre Becognee",
    "label": "Try",
    "scoreAfter": {
-    "home": 19,
-    "away": 25
-   }
-  },
-  {
-   "id": "espn-1899436",
-   "minute": 69,
-   "period": "2H",
-   "type": "conversion_made",
-   "team": "home",
-   "player": "Finn Russell",
-   "detail": "Conversion (21-25)",
-   "playerName": "Finn Russell",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 21,
-    "away": 25
+    "home": 14,
+    "away": 30
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
-  "away": 25
+  "home": 14,
+  "away": 30
  },
  "plays_summed": {
-  "home": 21,
-  "away": 25
+  "home": 14,
+  "away": 30
  }
 }

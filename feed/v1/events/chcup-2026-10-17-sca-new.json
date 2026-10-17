@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-sca-new",
  "matchId": "chcup-2026-10-17-sca-new",
- "updated_at": "2026-10-17T20:36:27.264Z",
+ "updated_at": "2026-10-17T20:46:21.792Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604314/competitions/604314/plays?limit=400",
-   "fetched_at": "2026-10-17T20:36:27.264Z",
+   "fetched_at": "2026-10-17T20:46:21.792Z",
    "espn_event_id": "604314",
    "espn_league_id": 272073
   }
@@ -379,8 +379,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899400",
-   "minute": 64,
+   "id": "espn-1899477",
+   "minute": 63,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -391,7 +391,19 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899402",
+   "id": "espn-1899479",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dane Blacker",
+   "detail": "replaces Gareth Davies",
+   "playerOn": "Dane Blacker",
+   "playerOff": "Gareth Davies",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899485",
    "minute": 65,
    "period": "2H",
    "type": "substitution",
@@ -403,7 +415,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899428",
+   "id": "espn-1899487",
    "minute": 65,
    "period": "2H",
    "type": "substitution",
@@ -415,8 +427,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899408",
-   "minute": 67,
+   "id": "espn-1899489",
+   "minute": 66,
    "period": "2H",
    "type": "try",
    "team": "home",
@@ -430,8 +442,8 @@
    }
   },
   {
-   "id": "espn-1899409",
-   "minute": 68,
+   "id": "espn-1899490",
+   "minute": 67,
    "period": "2H",
    "type": "conversion_made",
    "team": "home",
@@ -443,15 +455,87 @@
     "home": 47,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1899491",
+   "minute": 70,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Oli Spencer",
+   "detail": "Try (47-5)",
+   "playerName": "Oli Spencer",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 47,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1899492",
+   "minute": 71,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Josh Hodge",
+   "detail": "Conversion (47-7)",
+   "playerName": "Josh Hodge",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 47,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1899498",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Oscar Usher",
+   "detail": "replaces Finn Baker",
+   "playerOn": "Oscar Usher",
+   "playerOff": "Finn Baker",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899502",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Ollie Leatherbarrow",
+   "detail": "Try (47-12)",
+   "playerName": "Ollie Leatherbarrow",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 47,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1899503",
+   "minute": 79,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Josh Hodge",
+   "detail": "Conversion (47-14)",
+   "playerName": "Josh Hodge",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 47,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 47,
-  "away": 0
+  "away": 14
  },
  "plays_summed": {
   "home": 47,
-  "away": 0
+  "away": 14
  }
 }
