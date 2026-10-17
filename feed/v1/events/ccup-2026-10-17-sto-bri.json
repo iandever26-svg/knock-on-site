@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sto-bri",
  "matchId": "ccup-2026-10-17-sto-bri",
- "updated_at": "2026-10-17T14:55:13.779Z",
+ "updated_at": "2026-10-17T15:00:18.897Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604250/competitions/604250/plays?limit=400",
-   "fetched_at": "2026-10-17T14:55:13.779Z",
+   "fetched_at": "2026-10-17T15:00:18.897Z",
    "espn_event_id": "604250",
    "espn_league_id": 271937
   }
@@ -149,6 +149,18 @@
     "home": 21,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1898501",
+   "minute": 37,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Andre-Hugo Venter",
+   "detail": "replaces Siya Kolisi",
+   "playerOn": "Andre-Hugo Venter",
+   "playerOff": "Siya Kolisi",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
