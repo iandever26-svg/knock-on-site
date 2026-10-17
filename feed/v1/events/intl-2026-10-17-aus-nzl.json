@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-17-aus-nzl",
  "matchId": "intl-2026-10-17-aus-nzl",
- "updated_at": "2026-10-17T05:43:35.481Z",
+ "updated_at": "2026-10-17T05:57:37.676Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/603464/competitions/603464/plays?limit=400",
-   "fetched_at": "2026-10-17T05:43:35.481Z",
+   "fetched_at": "2026-10-17T05:57:37.676Z",
    "espn_event_id": "603464",
    "espn_league_id": 289234
   }
@@ -236,15 +236,30 @@
     "home": 7,
     "away": 34
    }
+  },
+  {
+   "id": "espn-1898008",
+   "minute": 42,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Damian McKenzie",
+   "detail": "Conversion (7-36)",
+   "playerName": "Damian McKenzie",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 36
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 34
+  "away": 36
  },
  "plays_summed": {
   "home": 7,
-  "away": 34
+  "away": 36
  }
 }
