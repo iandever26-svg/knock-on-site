@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-lyo-sha",
  "matchId": "chcup-2026-10-17-lyo-sha",
- "updated_at": "2026-10-17T13:53:26.424Z",
+ "updated_at": "2026-10-17T13:58:31.022Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604311/competitions/604311/plays?limit=400",
-   "fetched_at": "2026-10-17T13:53:26.424Z",
+   "fetched_at": "2026-10-17T13:58:31.022Z",
    "espn_event_id": "604311",
    "espn_league_id": 272073
   }
@@ -476,15 +476,87 @@
    "playerOn": "Camille Chat",
    "playerOff": "Mathis Sarragallet",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898415",
+   "minute": 80,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Baptiste Couilloud",
+   "detail": "Try (31-33)",
+   "playerName": "Baptiste Couilloud",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 31,
+    "away": 33
+   }
+  },
+  {
+   "id": "espn-1898422",
+   "minute": 81,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Paddy Jackson",
+   "detail": "Conversion (33-33)",
+   "playerName": "Paddy Jackson",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 33,
+    "away": 33
+   }
+  },
+  {
+   "id": "espn-1898440",
+   "minute": 81,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sanele Nohamba",
+   "detail": "replaces Baptiste Couilloud",
+   "playerOn": "Sanele Nohamba",
+   "playerOff": "Baptiste Couilloud",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898443",
+   "minute": 83,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Litelihle Bester",
+   "detail": "Try (33-38)",
+   "playerName": "Litelihle Bester",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 33,
+    "away": 38
+   }
+  },
+  {
+   "id": "espn-1898444",
+   "minute": 83,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Jordan Hendrikse",
+   "detail": "Conversion (33-40)",
+   "playerName": "Jordan Hendrikse",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 33,
+    "away": 40
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 26,
-  "away": 33
+  "home": 33,
+  "away": 40
  },
  "plays_summed": {
-  "home": 26,
-  "away": 33
+  "home": 33,
+  "away": 40
  }
 }

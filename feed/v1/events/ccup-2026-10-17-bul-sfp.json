@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bul-sfp",
  "matchId": "ccup-2026-10-17-bul-sfp",
- "updated_at": "2026-10-17T13:53:26.424Z",
+ "updated_at": "2026-10-17T13:58:31.022Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604248/competitions/604248/plays?limit=400",
-   "fetched_at": "2026-10-17T13:53:26.424Z",
+   "fetched_at": "2026-10-17T13:58:31.022Z",
    "espn_event_id": "604248",
    "espn_league_id": 271937
   }
@@ -442,6 +442,18 @@
    }
   },
   {
+   "id": "espn-1898419",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ethan Tia",
+   "detail": "replaces Alvaro Garcia",
+   "playerOn": "Ethan Tia",
+   "playerOff": "Alvaro Garcia",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1898405",
    "minute": 73,
    "period": "2H",
@@ -451,6 +463,30 @@
    "detail": "replaces Thomas Bue",
    "playerOn": "Moses Alo-Emile",
    "playerOff": "Thomas Bue",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898411",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Johan Grobbelaar",
+   "detail": "replaces Jan-Hendrik Wessels",
+   "playerOn": "Johan Grobbelaar",
+   "playerOff": "Jan-Hendrik Wessels",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898413",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Stravino Jacobs",
+   "detail": "replaces Sebastian de Klerk",
+   "playerOn": "Stravino Jacobs",
+   "playerOff": "Sebastian de Klerk",
    "label": "Substitution"
   },
   {
@@ -464,15 +500,75 @@
    "playerOn": "Samuel Ezeala",
    "playerOff": "Julien Delbouis",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898418",
+   "minute": 74,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Cheswill Jooste",
+   "detail": "Try (47-20)",
+   "playerName": "Cheswill Jooste",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 47,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1898421",
+   "minute": 75,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Handre Pollard",
+   "detail": "Conversion (49-20)",
+   "playerName": "Handre Pollard",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 49,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1898425",
+   "minute": 76,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Cheswill Jooste",
+   "detail": "Try (54-20)",
+   "playerName": "Cheswill Jooste",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 54,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1898426",
+   "minute": 77,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Handre Pollard",
+   "detail": "Conversion (56-20)",
+   "playerName": "Handre Pollard",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 56,
+    "away": 20
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 42,
+  "home": 56,
   "away": 20
  },
  "plays_summed": {
-  "home": 42,
+  "home": 56,
   "away": 20
  }
 }
