@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-bat-mon",
  "matchId": "ccup-2026-10-17-bat-mon",
- "updated_at": "2026-10-17T20:11:06.872Z",
+ "updated_at": "2026-10-17T20:16:11.239Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604254/competitions/604254/plays?limit=400",
-   "fetched_at": "2026-10-17T20:11:06.872Z",
+   "fetched_at": "2026-10-17T20:16:11.239Z",
    "espn_event_id": "604254",
    "espn_league_id": 271937
   }
@@ -131,15 +131,30 @@
    "playerOn": "Tyler Duguid",
    "playerOff": "Bastien Chalureau",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1899229",
+   "minute": 48,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Donovan Taofifenua",
+   "detail": "Try (14-15)",
+   "playerName": "Donovan Taofifenua",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 15
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 14,
-  "away": 10
+  "away": 15
  },
  "plays_summed": {
   "home": 14,
-  "away": 10
+  "away": 15
  }
 }
