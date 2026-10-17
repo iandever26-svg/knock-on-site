@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-17-sto-bri",
  "matchId": "ccup-2026-10-17-sto-bri",
- "updated_at": "2026-10-17T15:16:48.120Z",
+ "updated_at": "2026-10-17T15:34:41.761Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604250/competitions/604250/plays?limit=400",
-   "fetched_at": "2026-10-17T15:16:48.120Z",
+   "fetched_at": "2026-10-17T15:34:41.761Z",
    "espn_event_id": "604250",
    "espn_league_id": 271937
   }
@@ -161,15 +161,147 @@
    "playerOn": "Andre-Hugo Venter",
    "playerOff": "Siya Kolisi",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898511",
+   "minute": 44,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ntuthuko Mchunu",
+   "detail": "replaces Vernon Matongo",
+   "playerOn": "Ntuthuko Mchunu",
+   "playerOff": "Vernon Matongo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898513",
+   "minute": 44,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Connor Evans",
+   "detail": "replaces Adre Smith",
+   "playerOn": "Connor Evans",
+   "playerOff": "Adre Smith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898515",
+   "minute": 44,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Zachary Porthen",
+   "detail": "replaces Sazi Sandi",
+   "playerOn": "Zachary Porthen",
+   "playerOff": "Sazi Sandi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898519",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Harry Wells",
+   "detail": "replaces Josh Caulfield",
+   "playerOn": "Harry Wells",
+   "playerOff": "Josh Caulfield",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898521",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sam Scott",
+   "detail": "replaces Jimmy Halliwell",
+   "playerOn": "Sam Scott",
+   "playerOff": "Jimmy Halliwell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898546",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sol Moody",
+   "detail": "replaces Tomas Gwilliam",
+   "playerOn": "Sol Moody",
+   "playerOff": "Tomas Gwilliam",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898533",
+   "minute": 48,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Leolin Zas",
+   "detail": "Yellow card (21-7)",
+   "playerName": "Leolin Zas",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1898544",
+   "minute": 51,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Sol Moody",
+   "detail": "Try (21-12)",
+   "playerName": "Sol Moody",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898544-cm",
+   "minute": 51,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (21-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 21,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1898550",
+   "minute": 53,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Jonathan Roche",
+   "detail": "Try (26-12)",
+   "playerName": "Jonathan Roche",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
-  "away": 7
+  "home": 26,
+  "away": 12
  },
  "plays_summed": {
-  "home": 21,
-  "away": 7
+  "home": 26,
+  "away": 12
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-17-zeb-uls",
  "matchId": "chcup-2026-10-17-zeb-uls",
- "updated_at": "2026-10-17T15:16:48.120Z",
+ "updated_at": "2026-10-17T15:34:41.761Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604313/competitions/604313/plays?limit=400",
-   "fetched_at": "2026-10-17T15:16:48.120Z",
+   "fetched_at": "2026-10-17T15:34:41.761Z",
    "espn_event_id": "604313",
    "espn_league_id": 272073
   }
@@ -116,15 +116,171 @@
    "playerOn": "Mirko Belloni",
    "playerOff": "Marco Zanon",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1898506",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Marco Zanon",
+   "detail": "replaces Mirko Belloni",
+   "playerOn": "Marco Zanon",
+   "playerOff": "Mirko Belloni",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898509",
+   "minute": 44,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Giovanni Licata",
+   "detail": "Try (5-19)",
+   "playerName": "Giovanni Licata",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1898510",
+   "minute": 45,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Giacomo Da Re",
+   "detail": "Conversion (7-19)",
+   "playerName": "Giacomo Da Re",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1898517",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mike Lowry",
+   "detail": "replaces Zac Ward",
+   "playerOn": "Mike Lowry",
+   "playerOff": "Zac Ward",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898523",
+   "minute": 48,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "David McCann",
+   "detail": "Try (7-24)",
+   "playerName": "David McCann",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1898528",
+   "minute": 49,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Nathan Doak",
+   "detail": "Conversion (7-26)",
+   "playerName": "Nathan Doak",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1898529",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Francisco Minervino",
+   "detail": "replaces Juan Barbotti",
+   "playerOn": "Francisco Minervino",
+   "playerOff": "Juan Barbotti",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898531",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jacopo Botturi",
+   "detail": "replaces Bautista Stavile",
+   "playerOn": "Jacopo Botturi",
+   "playerOff": "Bautista Stavile",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898534",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Federico Pisani",
+   "detail": "replaces Sergio Pelliccioli",
+   "playerOn": "Federico Pisani",
+   "playerOff": "Sergio Pelliccioli",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898536",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Giampietro Ribaldi",
+   "detail": "replaces Tommaso Di Bartolomeo",
+   "playerOn": "Giampietro Ribaldi",
+   "playerOff": "Tommaso Di Bartolomeo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898538",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Eric O'Sullivan",
+   "detail": "replaces Tom O'Toole",
+   "playerOn": "Eric O'Sullivan",
+   "playerOff": "Tom O'Toole",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1898542",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Scott Wilson",
+   "detail": "replaces Keynan Knox",
+   "playerOn": "Scott Wilson",
+   "playerOff": "Keynan Knox",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
-  "away": 19
+  "home": 7,
+  "away": 26
  },
  "plays_summed": {
-  "home": 0,
-  "away": 19
+  "home": 7,
+  "away": 26
  }
 }
