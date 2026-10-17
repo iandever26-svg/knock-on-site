@@ -1,0 +1,55 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "chcup-2026-10-17-zeb-uls",
+ "matchId": "chcup-2026-10-17-zeb-uls",
+ "updated_at": "2026-10-17T14:31:54.395Z",
+ "final": false,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 0-7, final 0-5; running scores omitted.",
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604313/competitions/604313/plays?limit=400",
+   "fetched_at": "2026-10-17T14:31:54.395Z",
+   "espn_event_id": "604313",
+   "espn_league_id": 272073
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1898474",
+   "minute": 9,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Henry Walker",
+   "detail": "Try",
+   "playerName": "Henry Walker",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1898475",
+   "minute": 10,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Nathan Doak",
+   "detail": "Conversion",
+   "playerName": "Nathan Doak",
+   "label": "Conversion"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 0,
+  "away": 5
+ },
+ "plays_summed": {
+  "home": 0,
+  "away": 7
+ },
+ "unexplained_gap": {
+  "home": 0,
+  "away": -2
+ }
+}
