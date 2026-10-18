@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T14:40:09.018Z",
+ "updated_at": "2026-10-18T14:45:12.259Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T14:40:09.018Z",
+   "fetched_at": "2026-10-18T14:45:12.259Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -76,7 +76,7 @@
    }
   },
   {
-   "id": "espn-1900196",
+   "id": "espn-1900198",
    "minute": 16,
    "period": "1H",
    "type": "red_card",
@@ -106,6 +106,33 @@
    }
   },
   {
+   "id": "espn-1900199",
+   "minute": 18,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Henry Slade",
+   "detail": "Conversion (5-14)",
+   "playerName": "Henry Slade",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 5,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1900201",
+   "minute": 22,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Benjamin Bertrand",
+   "detail": "replaces Dorian Aldegheri",
+   "playerOn": "Benjamin Bertrand",
+   "playerOff": "Dorian Aldegheri",
+   "label": "Substitution"
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -115,21 +142,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (12-12)",
+   "detail": "Penalty try (inferred, minute unknown) (12-14)",
    "scoreAfter": {
     "home": 12,
-    "away": 12
+    "away": 14
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 12,
-  "away": 12
+  "away": 14
  },
  "plays_summed": {
   "home": 5,
-  "away": 12
+  "away": 14
  },
  "inferred_penalty_tries": [
   {
