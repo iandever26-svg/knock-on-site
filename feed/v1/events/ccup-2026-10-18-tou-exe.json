@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T15:59:21.558Z",
+ "updated_at": "2026-10-18T16:04:24.943Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T15:59:21.558Z",
+   "fetched_at": "2026-10-18T16:04:24.943Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -520,19 +520,7 @@
    }
   },
   {
-   "id": "espn-1900249",
-   "minute": 66,
-   "period": "2H",
-   "type": "substitution",
-   "team": "away",
-   "player": "Harry Wilson",
-   "detail": "replaces Dafydd Jenkins",
-   "playerOn": "Harry Wilson",
-   "playerOff": "Dafydd Jenkins",
-   "label": "Substitution"
-  },
-  {
-   "id": "espn-1900251",
+   "id": "espn-1900258",
    "minute": 66,
    "period": "2H",
    "type": "substitution",
@@ -569,6 +557,30 @@
     "home": 36,
     "away": 40
    }
+  },
+  {
+   "id": "espn-1900262",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Harry Wilson",
+   "detail": "replaces Tom Hooper",
+   "playerOn": "Harry Wilson",
+   "playerOff": "Tom Hooper",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900260",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Anthony Jelonch",
+   "detail": "replaces Francois Cros",
+   "playerOn": "Anthony Jelonch",
+   "playerOff": "Francois Cros",
+   "label": "Substitution"
   },
   {
    "id": "inferred-pt-home-1",
