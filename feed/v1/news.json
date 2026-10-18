@@ -1,8 +1,77 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-18T05:07:13+01:00",
+  "generatedAt": "2026-10-18T07:07:19+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my4wq7ek2i2w",
+      "text": "With the Scotland squad due to be named for the Nations Championship this week, our writers have had a go at making their selections\n🔗 shorturl.at/ZeR9n",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my4wq7ek2i2w",
+      "publishedAt": "2026-10-18T06:04:39.349Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiehp34dhtcatcy5toenffezqaklsbaqi327f3gygcovyvo6655lym",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111698795725480338",
+      "text": "One of our own 💚💛\n\nYou can support Cheezy through his GoFundMe 📲 https://t.co/jdsVhwYeUJ https://t.co/AVJN9NeKZ7",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2111698795725480338",
+      "publishedAt": "2026-10-18T06:00:01.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU4LX0bbMAAPrRI.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
+    {
+      "type": "x",
+      "id": "x:2111698795822199172",
+      "text": "🧵 On se refait 𝙡𝙚 𝙛𝙞𝙡 de la rencontre d'hier ? \n\n#SRvLIO | #InvestecChampionsCup | #FievreSR\nhttps://t.co/31zzW7PPxx",
+      "author": "Stade Rochelais",
+      "handle": "staderochelais",
+      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
+      "url": "https://x.com/staderochelais/status/2111698795822199172",
+      "publishedAt": "2026-10-18T06:00:01.000Z",
+      "thumbnail": null,
+      "teamIds": [
+        "la-rochelle"
+      ],
+      "source": "x:staderochelais"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my4uw6b6sd2i",
+      "text": "Exciting O'Shea and Munster's young guns have their say (✍️@rugby_ie) #MunsterRugby #YoungGuns #BrianGleeson",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my4uw6b6sd2i",
+      "publishedAt": "2026-10-18T05:32:13.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiaqkst6qkhclgpnsh7jd5mi5jdfjj5wbnkktxsisgmqv32o4me6qi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111683696898257274",
+      "text": "Your support means everything 💚💛\n\nThank you, Sydney 🙌\n\n@CadburyAU | #ACheerAndAHalf https://t.co/ik60oEsmz6",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2111683696898257274",
+      "publishedAt": "2026-10-18T05:00:01.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU367LSa0AAuqqB.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
     {
       "type": "x",
       "id": "x:2111623298626781526",
@@ -62,21 +131,6 @@
         "italy"
       ],
       "source": "x:Federugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111586447266635902",
-      "text": "A special one 🇦🇺\n\n50 Tests in the Green and Gold for Lukhan 🦘 https://t.co/dcR6EY4sKG",
-      "author": "Wallabies",
-      "handle": "wallabies",
-      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
-      "url": "https://x.com/wallabies/status/2111586447266635902",
-      "publishedAt": "2026-10-17T22:33:35.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU3cq-za4AEBeGn.jpg",
-      "teamIds": [
-        "australia"
-      ],
-      "source": "x:wallabies"
     },
     {
       "type": "x",
@@ -235,18 +289,6 @@
         "newcastle"
       ],
       "source": "x:NCL_RedBulls"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3ybsirvw2z",
-      "text": "Five-try Munster hold off Racing in tight Cork clash (✍️@RTErugby) #Munster #ChampionsCup #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3ybsirvw2z",
-      "publishedAt": "2026-10-17T20:59:45.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreic7jxb3lrap2zz4j7xeamsiroectstj2mivl7szenrywhj2q5wgle",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
@@ -650,21 +692,6 @@
       "source": "x:Munsterrugby"
     },
     {
-      "type": "x",
-      "id": "x:2111520203750133790",
-      "text": "A huge shift from our young Bears this afternoon 👊\n\nCongratulations to @THESTORMERS on the win 🤝 https://t.co/rIQ8RjK612",
-      "author": "Bristol Bears 🐻",
-      "handle": "BristolBears",
-      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
-      "url": "https://x.com/BristolBears/status/2111520203750133790",
-      "publishedAt": "2026-10-17T18:10:21.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111519727075946496/img/KUP_GuT0LlOebX4L.jpg",
-      "teamIds": [
-        "bristol"
-      ],
-      "source": "x:BristolBears"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3my3omeuz2s2n",
       "text": "",
@@ -687,21 +714,6 @@
       "publishedAt": "2026-10-17T18:03:42.883Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreig3z7s4jfmsd5ar5glqnglwrc7kyyoawfjcrvn4cn2xxxrnruyyty",
       "source": "the2ndrow.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2111516077561692488",
-      "text": "Not making the trip to Franklin’s Gardens, the clubhouse at CAP will be open and screening the game 🍻 https://t.co/mAKTf9ypuJ",
-      "author": "Cardiff Rugby",
-      "handle": "Cardiff_Rugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
-      "url": "https://x.com/Cardiff_Rugby/status/2111516077561692488",
-      "publishedAt": "2026-10-17T17:53:57.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "cardiff"
-      ],
-      "source": "x:Cardiff_Rugby"
     },
     {
       "type": "bluesky",
@@ -1049,18 +1061,6 @@
       "publishedAt": "2026-10-17T10:30:02.534Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreibydwacrgfzbj463lov6fehkfgqdtbvhgvynteznqcsfqbbub7dsa",
       "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my2qbpuhji2z",
-      "text": "Dave Butcher admitted emotions were “raw” for the Scotland squad after their 56-12 drubbing by Australia\nAnd he lamented his side’s inability to match the Wallaroos' physicality in Sydney\n🔗 shorturl.at/vcwph",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my2qbpuhji2z",
-      "publishedAt": "2026-10-17T09:03:50.716Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif2lg5vkmvdvm2o2jo4dhm22gnrmmawc4xzsikeskodk5tkoceqkq",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
