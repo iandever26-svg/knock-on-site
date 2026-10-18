@@ -1,8 +1,62 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-18T08:07:18+01:00",
+  "generatedAt": "2026-10-18T09:09:09+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my55mzhr6a2i",
+      "text": "What’s Gone Wrong? 🔍 #rugby #women (📹@PirateRugbyPod) #rugby #womeninrugby #rugbylife",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my55mzhr6a2i",
+      "publishedAt": "2026-10-18T08:08:10.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigwhlrvjicqg5qcmacd46cqodcbrpzmciek5yu24omzvcm24bpzhq",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my53fybcc322",
+      "text": "Lancaster thrilled by Connacht's European response (✍️@RTErugby) #ConnachtRugby #ChampionsCup #URC",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my53fybcc322",
+      "publishedAt": "2026-10-18T07:28:26.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibcnflydunnxlln3j7aonlmxv3ra5lsmrprilp6iggvqg7eqwl4te",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111714151621853615",
+      "text": "🔥 WANT TO WALK OUT WITH WALES?\n\nSign up as a WRU Junior or Teen Member and enter our exclusive competition to win your place as the Official Mascot for one of the Nations Championship 2026 or Guinness Six Nations 2027 fixtures at Principality Stadium!\n\n🔗 https://t.co/eEKY1ILlpn https://t.co/XOcMsWmLDW",
+      "author": "Welsh Rugby Union 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "handle": "WelshRugbyUnion",
+      "avatar": "https://pbs.twimg.com/profile_images/2032055092023623680/2UrVtIad_bigger.jpg",
+      "url": "https://x.com/WelshRugbyUnion/status/2111714151621853615",
+      "publishedAt": "2026-10-18T07:01:02.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU5Q09WXkAAqjNo.jpg",
+      "teamIds": [
+        "wales"
+      ],
+      "source": "x:WelshRugbyUnion"
+    },
+    {
+      "type": "x",
+      "id": "x:2111707852008292444",
+      "text": "Happy birthday 𝐑𝐢𝐜𝐜𝐚𝐫𝐝𝐨 𝐅𝐚𝐯𝐫𝐞𝐭𝐭𝐨 🥳🎂\n\n#BenettonRugby #WeAreLions #happybirthday https://t.co/orAWHeAcSD",
+      "author": "Benetton Rugby 🦁",
+      "handle": "BenettonRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107800809316425728/hbrhjN9A_bigger.jpg",
+      "url": "https://x.com/BenettonRugby/status/2111707852008292444",
+      "publishedAt": "2026-10-18T06:36:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUvhFdXXQAA6pO1.jpg",
+      "teamIds": [
+        "benetton"
+      ],
+      "source": "x:BenettonRugby"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my4wq7ek2i2w",
@@ -224,18 +278,6 @@
       "source": "x:ChampionsCup"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my42jvcxy22i",
-      "text": "O'Gara laments 'fragility of life' as La Rochelle beat mourning Lions following Hyron Andrews' passing (✍️@rugby_ie) #rugby #LaRochelle #ChampionsCup",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my42jvcxy22i",
-      "publishedAt": "2026-10-17T21:40:04.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidg3lr35sqafdyh5rzehhxxiqvo5vunlddfikv63dvg7jufkrlmny",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "x",
       "id": "x:2111570004843868548",
       "text": "Your @Investec #PlayerOfTheMatch… 🥁\n\n⭐️ @connachtrugby’s Ciaran Frawley\n⭐️ @staderochelais’ Valentin Bouju\n⭐️ @Munsterrugby’s Craig Casey\n⭐️ @MHRofficiel’s Alex Becognee\n\nCatch up with instant #InvestecChampionsCup highlights ➡️\n\n https://t.co/DrauPyDMgX https://t.co/CH7w4PFNjS",
@@ -247,18 +289,6 @@
       "thumbnail": "https://pbs.twimg.com/media/HU3NuClWQAEqTgr.jpg",
       "teamIds": [],
       "source": "x:ChampionsCup"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3zkvixab2a",
-      "text": "'Tonight we said, 'Give the crowd a bit of energy, fire some shots, play Connacht rugby'' (✍️@rugby_ie) #ConnachtRugby #Rugby #CiaranFrawley",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my3zkvixab2a",
-      "publishedAt": "2026-10-17T21:22:44.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibvcsfxvsvndf24cl3ytbzhcjhhy53gjma7n6icixqnvk6bg4iakm",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
@@ -628,19 +658,6 @@
       "source": "x:IrishRugby"
     },
     {
-      "type": "x",
-      "id": "x:2111525293110264190",
-      "text": "We know you'd want to watch The Garden Shields v The Masked Eagles!\n\nThe Jaguars do their best to name some of Europe's rugby clubs!\n\n#GuinnessM6N #Since1883 https://t.co/gUNvsr5utw",
-      "author": "Guinness Men's Six Nations",
-      "handle": "SixNationsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1862922194491265024/iIUEoSFe_bigger.jpg",
-      "url": "https://x.com/SixNationsRugby/status/2111525293110264190",
-      "publishedAt": "2026-10-17T18:30:34.000Z",
-      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2111525123568087041/pu/img/Z_rb8308u6PxClRd.jpg",
-      "teamIds": [],
-      "source": "x:SixNationsRugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3my3pqxc2522v",
       "text": "That last 15 minutes was Connachts absolute huge engine Vs Saracens experience and grit\nMadness Chaos Exhausting\nWhat a game\n#CONvSAR",
@@ -675,21 +692,6 @@
       "publishedAt": "2026-10-17T18:23:00.465Z",
       "thumbnail": null,
       "source": "joncardinelli.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2111521150383632891",
-      "text": "Ready for work 💪\n\n#SUAF 🔴 | #MUNvR92 https://t.co/TeDpU1K5PV",
-      "author": "Munster Rugby",
-      "handle": "Munsterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2110417394795511808/MFQIU77q_bigger.jpg",
-      "url": "https://x.com/Munsterrugby/status/2111521150383632891",
-      "publishedAt": "2026-10-17T18:14:07.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111521028232867840/img/JFhq13p2zsMqi0k1.jpg",
-      "teamIds": [
-        "munster"
-      ],
-      "source": "x:Munsterrugby"
     },
     {
       "type": "bluesky",
