@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-cas-ben",
  "matchId": "chcup-2026-10-18-cas-ben",
- "updated_at": "2026-10-18T18:00:28.301Z",
+ "updated_at": "2026-10-18T18:05:49.057Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604317/competitions/604317/plays?limit=400",
-   "fetched_at": "2026-10-18T18:00:28.301Z",
+   "fetched_at": "2026-10-18T18:05:49.057Z",
    "espn_event_id": "604317",
    "espn_league_id": 272073
   }
@@ -235,6 +235,30 @@
    "detail": "replaces Federico Ruzza",
    "playerOn": "Antony Italo Miranda",
    "playerOff": "Federico Ruzza",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900352",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gauthier Doubrere",
+   "detail": "replaces Colin Dupuy",
+   "playerOn": "Gauthier Doubrere",
+   "playerOff": "Colin Dupuy",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900354",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Louka Guilhot",
+   "detail": "replaces Taylor Gontineac",
+   "playerOn": "Louka Guilhot",
+   "playerOff": "Taylor Gontineac",
    "label": "Substitution"
   }
  ],
