@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T15:44:11.427Z",
+ "updated_at": "2026-10-18T15:49:15.219Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T15:44:11.427Z",
+   "fetched_at": "2026-10-18T15:49:15.219Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -439,6 +439,18 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1900243",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kane James",
+   "detail": "replaces Ross Vintcent",
+   "playerOn": "Kane James",
+   "playerOff": "Ross Vintcent",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1900241",
    "minute": 59,
    "period": "2H",
@@ -451,15 +463,45 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900239",
-   "minute": 59,
+   "id": "espn-1900245",
+   "minute": 62,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Zack Wimbush",
+   "detail": "Try (31-38)",
+   "playerName": "Zack Wimbush",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 31,
+    "away": 38
+   }
+  },
+  {
+   "id": "espn-1900246",
+   "minute": 63,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Henry Slade",
+   "detail": "Conversion (31-40)",
+   "playerName": "Henry Slade",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 31,
+    "away": 40
+   }
+  },
+  {
+   "id": "espn-1900247",
+   "minute": 63,
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": "Kane James",
-   "detail": "replaces Ross Vintcent",
-   "playerOn": "Kane James",
-   "playerOff": "Ross Vintcent",
+   "player": "Will Haydon-Wood",
+   "detail": "replaces Zack Wimbush",
+   "playerOn": "Will Haydon-Wood",
+   "playerOff": "Zack Wimbush",
    "label": "Substitution"
   },
   {
@@ -472,21 +514,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (38-33)",
+   "detail": "Penalty try (inferred, minute unknown) (38-40)",
    "scoreAfter": {
     "home": 38,
-    "away": 33
+    "away": 40
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 38,
-  "away": 33
+  "away": 40
  },
  "plays_summed": {
   "home": 31,
-  "away": 33
+  "away": 40
  },
  "inferred_penalty_tries": [
   {
