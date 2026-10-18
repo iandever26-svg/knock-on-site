@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T15:39:07.935Z",
+ "updated_at": "2026-10-18T15:44:11.427Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T15:39:07.935Z",
+   "fetched_at": "2026-10-18T15:44:11.427Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -388,6 +388,81 @@
    }
   },
   {
+   "id": "espn-1900226",
+   "minute": 56,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Romain Ntamack",
+   "detail": "Conversion (31-33)",
+   "playerName": "Romain Ntamack",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 31,
+    "away": 33
+   }
+  },
+  {
+   "id": "espn-1900233",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Louie Gulley",
+   "detail": "replaces Jack Yeandle",
+   "playerOn": "Louie Gulley",
+   "playerOff": "Jack Yeandle",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900235",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jimmy Roots",
+   "detail": "replaces Josh Iosefa-Scott",
+   "playerOn": "Jimmy Roots",
+   "playerOff": "Josh Iosefa-Scott",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900237",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ethan Burger",
+   "detail": "replaces Will Goodrick-Clarke",
+   "playerOn": "Ethan Burger",
+   "playerOff": "Will Goodrick-Clarke",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900241",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Marc-Elie Kouassi",
+   "detail": "replaces Theo Ntamack",
+   "playerOn": "Marc-Elie Kouassi",
+   "playerOff": "Theo Ntamack",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900239",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kane James",
+   "detail": "replaces Ross Vintcent",
+   "playerOn": "Kane James",
+   "playerOff": "Ross Vintcent",
+   "label": "Substitution"
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -397,20 +472,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (36-33)",
+   "detail": "Penalty try (inferred, minute unknown) (38-33)",
    "scoreAfter": {
-    "home": 36,
+    "home": 38,
     "away": 33
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 36,
+  "home": 38,
   "away": 33
  },
  "plays_summed": {
-  "home": 29,
+  "home": 31,
   "away": 33
  },
  "inferred_penalty_tries": [
