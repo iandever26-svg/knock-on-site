@@ -1,8 +1,59 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-18T19:07:12+01:00",
+  "generatedAt": "2026-10-18T20:07:14+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my6bvhknys23",
+      "text": "A separate post for Taulupe Faletau who in 56 minutes of his fourth appearance of the calendar year somehow plays his way straight into Cymru squad contention 😂\nAbsolutely oozes quality, his class is undeniably permanent. #NORvCAR",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my6bvhknys23",
+      "publishedAt": "2026-10-18T18:57:08.568Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my6b6nhns223",
+      "text": "Plenty of good individual performances but particularly want to highlight solid full debuts from Tom Manz and Semisi Paea, Dan Thomas and Johan Mulder being typically all-action, and Steff Emanuel in particular with some really lovely touches and strong carries. #NORvCAR",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my6b6nhns223",
+      "publishedAt": "2026-10-18T18:44:23.008Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111889626709606749",
+      "text": "Get them up ☝️\n\n#ShoeArmy👞 https://t.co/j3w7yqY1Rj",
+      "author": "Northampton Saints 😇",
+      "handle": "SaintsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1988900674784866305/sfjuv-iG_bigger.jpg",
+      "url": "https://x.com/SaintsRugby/status/2111889626709606749",
+      "publishedAt": "2026-10-18T18:38:18.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111888183071760384/img/AF9m75MZrZ8p3Wt1.jpg",
+      "teamIds": [
+        "northampton"
+      ],
+      "source": "x:SaintsRugby"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my67x35mpk27",
+      "text": "Northampton 28-12 Cardiff FT\nHonestly a bit disappointed, which in itself is a positive because we were totally written off.\nWould have been good value for at least a losing bonus point, loads of solid defence, try scoring opportunities and good individual showings.\n#NORvCAR",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my67x35mpk27",
+      "publishedAt": "2026-10-18T18:22:15.183Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2111879887275360717",
@@ -65,6 +116,36 @@
     },
     {
       "type": "x",
+      "id": "x:2111873985218748751",
+      "text": "Une victoire qui donne le sourire 🫶🏻 https://t.co/pEAVRlvYAk",
+      "author": "Stade Toulousain",
+      "handle": "StadeToulousain",
+      "avatar": "https://pbs.twimg.com/profile_images/2110294817947242496/LikEw8hJ_bigger.jpg",
+      "url": "https://x.com/StadeToulousain/status/2111873985218748751",
+      "publishedAt": "2026-10-18T17:36:09.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU7iMPOWAAAlbQH.jpg",
+      "teamIds": [
+        "toulouse"
+      ],
+      "source": "x:StadeToulousain"
+    },
+    {
+      "type": "x",
+      "id": "x:2111872721558585513",
+      "text": "Read the full run-down on today’s game in our match report.\n\n🔗 https://t.co/moZlcl9Tzs https://t.co/W26rXvuxWJ",
+      "author": "Exeter Chiefs",
+      "handle": "ExeterChiefs",
+      "avatar": "https://pbs.twimg.com/profile_images/1753380700022005760/nY5BJTlN_bigger.jpg",
+      "url": "https://x.com/ExeterChiefs/status/2111872721558585513",
+      "publishedAt": "2026-10-18T17:31:08.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU7hC4jWgAEgOxT.jpg",
+      "teamIds": [
+        "exeter"
+      ],
+      "source": "x:ExeterChiefs"
+    },
+    {
+      "type": "x",
       "id": "x:2111871403020706116",
       "text": "DR x Vico 👊\n\n#OneConnacht | 📸 @Inphosports https://t.co/w4owMN9Ais",
       "author": "Connacht Rugby",
@@ -107,6 +188,21 @@
     },
     {
       "type": "x",
+      "id": "x:2111869977326133457",
+      "text": "⏹️ 𝗠𝗜-𝗧𝗘𝗠𝗣𝗦\nNos Olympiens rentrent en tête à la pause.\n\n#CASvBEN #TeamCO https://t.co/Q7pKdmT5ub",
+      "author": "Castres Olympique",
+      "handle": "CastresRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2109560813400858624/MVGr6NP2_bigger.jpg",
+      "url": "https://x.com/CastresRugby/status/2111869977326133457",
+      "publishedAt": "2026-10-18T17:20:13.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU7ejaAWoAAbNmE.jpg",
+      "teamIds": [
+        "castres"
+      ],
+      "source": "x:CastresRugby"
+    },
+    {
+      "type": "x",
       "id": "x:2111865795613446535",
       "text": "Game of the weekend? 👀\n\nCatch up with instant #InvestecChampionsCup highlights ➡️ https://t.co/YEl0OMUGZY https://t.co/6GHtyCbuO7",
       "author": "Investec Champions Cup",
@@ -117,6 +213,21 @@
       "thumbnail": "https://pbs.twimg.com/media/HU7auiHWQAADi6x.jpg",
       "teamIds": [],
       "source": "x:ChampionsCup"
+    },
+    {
+      "type": "x",
+      "id": "x:2111864371198779535",
+      "text": "Notre troisième ligne disputait aujourd’hui son cinquantième match en @ChampionsCup sous les couleurs ❤️ et 🖤\n\nBravo François 👏 https://t.co/VwwuGbwy8j",
+      "author": "Stade Toulousain",
+      "handle": "StadeToulousain",
+      "avatar": "https://pbs.twimg.com/profile_images/2110294817947242496/LikEw8hJ_bigger.jpg",
+      "url": "https://x.com/StadeToulousain/status/2111864371198779535",
+      "publishedAt": "2026-10-18T16:57:57.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU7Zcl6XoAAgdHM.jpg",
+      "teamIds": [
+        "toulouse"
+      ],
+      "source": "x:StadeToulousain"
     },
     {
       "type": "x",
@@ -325,36 +436,6 @@
     },
     {
       "type": "x",
-      "id": "x:2111849038937002188",
-      "text": "DOUBLÉ POUR REMUE ! 🇧🇪\n\nLe Belge se défait de Slade et file dans l'en-but pour reprendre l'avantage au score. https://t.co/VOnSeitV1k",
-      "author": "Stade Toulousain",
-      "handle": "StadeToulousain",
-      "avatar": "https://pbs.twimg.com/profile_images/2110294817947242496/LikEw8hJ_bigger.jpg",
-      "url": "https://x.com/StadeToulousain/status/2111849038937002188",
-      "publishedAt": "2026-10-18T15:57:01.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU7LdfVWMAAy6ci.jpg",
-      "teamIds": [
-        "toulouse"
-      ],
-      "source": "x:StadeToulousain"
-    },
-    {
-      "type": "x",
-      "id": "x:2111844816854401499",
-      "text": "ROMAAAAIN QUI FAIT EXPLOSER LE STADIUM ! 🤯\n\nLe Stade repasse devant grâce à une action de plus de 80m ! https://t.co/bafy1K7XLM",
-      "author": "Stade Toulousain",
-      "handle": "StadeToulousain",
-      "avatar": "https://pbs.twimg.com/profile_images/2110294817947242496/LikEw8hJ_bigger.jpg",
-      "url": "https://x.com/StadeToulousain/status/2111844816854401499",
-      "publishedAt": "2026-10-18T15:40:15.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU7HitzWEAAm01v.jpg",
-      "teamIds": [
-        "toulouse"
-      ],
-      "source": "x:StadeToulousain"
-    },
-    {
-      "type": "x",
       "id": "x:2111844078019084674",
       "text": "Jenkins with the charge down, Butt with the touch down 🤝\n\n#InvestecChampionsCup https://t.co/SSdGxCC2ob",
       "author": "Investec Champions Cup",
@@ -377,18 +458,6 @@
       "publishedAt": "2026-10-18T15:21:52.022Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreibs74vd2hhwvdatcpefrbzwdj5vqmqhgwqqpckwowjtrx63zt32xy",
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my5vs2yg4c2v",
-      "text": "No real expectations around the result this evening but hoping to see some good attack when we have the ball.\nThere’s a lot of pace and cutting edge from 10-15, if it clicks it could be very exciting.\n#NORvCAR",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my5vs2yg4c2v",
-      "publishedAt": "2026-10-18T15:20:29.821Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "x",
@@ -653,21 +722,6 @@
       "source": "rugbynewsplus.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2111808776789487802",
-      "text": "A brand new competition starts today 🤩\n\nFollow along in our match centre 🔗 https://t.co/moZlcl9Tzs https://t.co/gqhctcXrmR",
-      "author": "Exeter Chiefs",
-      "handle": "ExeterChiefs",
-      "avatar": "https://pbs.twimg.com/profile_images/1753380700022005760/nY5BJTlN_bigger.jpg",
-      "url": "https://x.com/ExeterChiefs/status/2111808776789487802",
-      "publishedAt": "2026-10-18T13:17:02.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU6m42EXAAA3xFh.jpg",
-      "teamIds": [
-        "exeter"
-      ],
-      "source": "x:ExeterChiefs"
-    },
-    {
       "type": "youtube",
       "id": "yt:zRE_U_2cL4I",
       "title": "Ellis Mee with the footwork ⚡️",
@@ -677,32 +731,6 @@
       "publishedAt": "2026-10-18T13:15:22.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/zRE_U_2cL4I/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "x",
-      "id": "x:2111806997574058092",
-      "text": "Les Bretons frappent fort dès l’entame de la seconde période 💥\n\n#ChallengeCupRugby https://t.co/wZJNNQ9sj6",
-      "author": "EPCR Challenge Cup",
-      "handle": "ChallengeCup_",
-      "avatar": "https://pbs.twimg.com/profile_images/1443878359226896423/Otikwf_N_bigger.jpg",
-      "url": "https://x.com/ChallengeCup_/status/2111806997574058092",
-      "publishedAt": "2026-10-18T13:09:58.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU6lReDXoAA8JBA.jpg",
-      "teamIds": [],
-      "source": "x:ChallengeCup_"
-    },
-    {
-      "type": "x",
-      "id": "x:2111804740824859103",
-      "text": "Serious determination from Louis Lynagh 👏\n\n#BKTURC #URC https://t.co/8RJ1QT6BEA",
-      "author": "BKT United Rugby Championship (URC)",
-      "handle": "URCOfficial",
-      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
-      "url": "https://x.com/URCOfficial/status/2111804740824859103",
-      "publishedAt": "2026-10-18T13:01:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2109774210596044800/img/FlivyfGVEjbPRxzl.jpg",
-      "teamIds": [],
-      "source": "x:URCOfficial"
     },
     {
       "type": "bluesky",
@@ -1089,18 +1117,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my33eln2b22r",
-      "text": "Where the £10m is going other than the pro clubs is interesting.\nYou’d think CVC would be expecting the money is used to strengthen the competing clubs and help raise the commercial profile of the league.\nOtherwise we’re giving away a chunk of future earnings for what?\nwww.itv.com/news/2026-10...",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my33eln2b22r",
-      "publishedAt": "2026-10-17T12:22:20.747Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:7azxdiemtvd7otuvlaeddz7p/app.bsky.feed.post/3my324qeai42j",
       "text": "Remaining tickets available ahead of today’s game 🏟️\n🎟️ https://connachtrugby.ie/tickets/buy-tickets/200/\n#CONvSAR | #InvestecChampionsCup",
       "author": "Connacht Rugby",
@@ -1169,18 +1185,6 @@
       "publishedAt": "2026-10-16T19:31:07.034Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7azxdiemtvd7otuvlaeddz7p/bafkreicksyypp55emhtwye34gqkwqzlr7bqyndzs7jqghr2qllaio6hrwa",
       "source": "connachtrugbai.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxytebwtt22h",
-      "text": "Lots of changes for Northampton too with Coles, Pollock, Freeman and Sleightholme dropping out of the 23 altogether.\nLangdon, Smith and Dingwall join a pretty strong bench.\nThey'll still be strong but a chance to get amongst some newer combinations.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxytebwtt22h",
-      "publishedAt": "2026-10-16T14:53:41.172Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreie2yxea7h6c4sngw6johqpl5wyuebgf647nxyhkm2ooncrgujc4pe",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "youtube",
