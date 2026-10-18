@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-nor-car",
  "matchId": "ccup-2026-10-18-nor-car",
- "updated_at": "2026-10-18T16:50:42.113Z",
+ "updated_at": "2026-10-18T16:55:47.338Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604257/competitions/604257/plays?limit=400",
-   "fetched_at": "2026-10-18T16:50:42.113Z",
+   "fetched_at": "2026-10-18T16:55:47.338Z",
    "espn_event_id": "604257",
    "espn_league_id": 271937
   }
@@ -44,15 +44,45 @@
     "home": 7,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1900273",
+   "minute": 21,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Toby Thame",
+   "detail": "Try (12-0)",
+   "playerName": "Toby Thame",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1900274",
+   "minute": 22,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Anthony Belleau",
+   "detail": "Conversion (14-0)",
+   "playerName": "Anthony Belleau",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 0
  },
  "plays_summed": {
-  "home": 7,
+  "home": 14,
   "away": 0
  }
 }
