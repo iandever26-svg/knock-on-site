@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-har-van",
  "matchId": "chcup-2026-10-18-har-van",
- "updated_at": "2026-10-18T13:24:05.908Z",
+ "updated_at": "2026-10-18T13:31:37.335Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604316/competitions/604316/plays?limit=400",
-   "fetched_at": "2026-10-18T13:24:05.908Z",
+   "fetched_at": "2026-10-18T13:31:37.335Z",
    "espn_event_id": "604316",
    "espn_league_id": 272073
   }
@@ -401,15 +401,84 @@
    "playerOn": "Elliot Williams",
    "playerOff": "James Dun",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900025",
+   "minute": 61,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Try (38-19)",
+   "playerName": "Marcus Smith",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 38,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1900025-cm",
+   "minute": 61,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (38-19)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 38,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1900026",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Robin Gicquel",
+   "detail": "replaces Joe Jonas",
+   "playerOn": "Robin Gicquel",
+   "playerOff": "Joe Jonas",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900036",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jesse Stegehuis",
+   "detail": "replaces Steeve Blanc-Mappaz",
+   "playerOn": "Jesse Stegehuis",
+   "playerOff": "Steeve Blanc-Mappaz",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900054",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Will Evans",
+   "detail": "Try (43-19)",
+   "playerName": "Will Evans",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 43,
+    "away": 19
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 33,
+  "home": 43,
   "away": 19
  },
  "plays_summed": {
-  "home": 33,
+  "home": 43,
   "away": 19
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-pau-lec",
  "matchId": "ccup-2026-10-18-pau-lec",
- "updated_at": "2026-10-18T13:24:05.908Z",
+ "updated_at": "2026-10-18T13:31:37.335Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604255/competitions/604255/plays?limit=400",
-   "fetched_at": "2026-10-18T13:24:05.908Z",
+   "fetched_at": "2026-10-18T13:31:37.335Z",
    "espn_event_id": "604255",
    "espn_league_id": 271937
   }
@@ -214,7 +214,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899993",
+   "id": "espn-1900030",
    "minute": 51,
    "period": "2H",
    "type": "substitution",
@@ -226,7 +226,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899997",
+   "id": "espn-1900032",
    "minute": 51,
    "period": "2H",
    "type": "substitution",
@@ -238,7 +238,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900001",
+   "id": "espn-1900034",
    "minute": 51,
    "period": "2H",
    "type": "substitution",
@@ -248,15 +248,72 @@
    "playerOn": "Jack van Poortvliet",
    "playerOff": "Tom Whiteley",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900052",
+   "minute": 55,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Archie van der Flier",
+   "detail": "Try (24-15)",
+   "playerName": "Archie van der Flier",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1900053",
+   "minute": 56,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Billy Searle",
+   "detail": "Conversion (24-17)",
+   "playerName": "Billy Searle",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 24,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1900055",
+   "minute": 58,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Axel Desperes",
+   "detail": "Penalty (27-17)",
+   "playerName": "Axel Desperes",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 27,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1900056",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Remi Picquette",
+   "detail": "replaces Mickael Capelli",
+   "playerOn": "Remi Picquette",
+   "playerOff": "Mickael Capelli",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 24,
-  "away": 10
+  "home": 27,
+  "away": 17
  },
  "plays_summed": {
-  "home": 24,
-  "away": 10
+  "home": 27,
+  "away": 17
  }
 }

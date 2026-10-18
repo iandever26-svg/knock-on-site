@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-bay-che",
  "matchId": "chcup-2026-10-18-bay-che",
- "updated_at": "2026-10-18T13:24:05.908Z",
+ "updated_at": "2026-10-18T13:31:37.335Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604315/competitions/604315/plays?limit=400",
-   "fetched_at": "2026-10-18T13:24:05.908Z",
+   "fetched_at": "2026-10-18T13:31:37.335Z",
    "espn_event_id": "604315",
    "espn_league_id": 272073
   }
@@ -326,6 +326,42 @@
     "home": 22,
     "away": 27
    }
+  },
+  {
+   "id": "espn-1900046",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lucas Paulos",
+   "detail": "replaces Manus van Leeuwen",
+   "playerOn": "Lucas Paulos",
+   "playerOff": "Manus van Leeuwen",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900048",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Bastien Rasal",
+   "detail": "replaces Federico Mori",
+   "playerOn": "Bastien Rasal",
+   "playerOff": "Federico Mori",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900050",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lucas Martin",
+   "detail": "replaces Facundo Bosch",
+   "playerOn": "Lucas Martin",
+   "playerOff": "Facundo Bosch",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
