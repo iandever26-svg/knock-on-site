@@ -1,8 +1,60 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-18T16:07:11+01:00",
+  "generatedAt": "2026-10-18T17:07:12+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2111844078019084674",
+      "text": "Jenkins with the charge down, Butt with the touch down 🤝\n\n#InvestecChampionsCup https://t.co/SSdGxCC2ob",
+      "author": "Investec Champions Cup",
+      "handle": "ChampionsCup",
+      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
+      "url": "https://x.com/ChampionsCup/status/2111844078019084674",
+      "publishedAt": "2026-10-18T15:37:19.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU7G9e1XIAAJfM1.jpg",
+      "teamIds": [],
+      "source": "x:ChampionsCup"
+    },
+    {
+      "type": "x",
+      "id": "x:2111843103405703527",
+      "text": "Ready for battle! ⚔️\n\n#YmlaenCaerdydd | #InvestecChampionsCup https://t.co/oY4Gok3LTv",
+      "author": "Cardiff Rugby",
+      "handle": "Cardiff_Rugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
+      "url": "https://x.com/Cardiff_Rugby/status/2111843103405703527",
+      "publishedAt": "2026-10-18T15:33:26.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111842984710860800/img/YOu949fnBS8DJC91.jpg",
+      "teamIds": [
+        "cardiff"
+      ],
+      "source": "x:Cardiff_Rugby"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3my5vujf4gk2r",
+      "text": "Ahead of the 60th anniversary - Aberfan, Merthyr RFC, and the bravery of Dai Beynon. For @observeruk.bsky.social. observer.co.uk/news/sport/a...",
+      "author": "Ben Coles",
+      "handle": "bencoles.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreihnbnflj5pmzn2vw5tula7bf7hay7nsutvg5e7suz6y2bnoob5p2a",
+      "url": "https://bsky.app/profile/bencoles.bsky.social/post/3my5vujf4gk2r",
+      "publishedAt": "2026-10-18T15:21:52.022Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreibs74vd2hhwvdatcpefrbzwdj5vqmqhgwqqpckwowjtrx63zt32xy",
+      "source": "bencoles.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my5vs2yg4c2v",
+      "text": "No real expectations around the result this evening but hoping to see some good attack when we have the ball.\nThere’s a lot of pace and cutting edge from 10-15, if it clicks it could be very exciting.\n#NORvCAR",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my5vs2yg4c2v",
+      "publishedAt": "2026-10-18T15:20:29.821Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3my5uz5nx7szy",
@@ -655,34 +707,6 @@
       "source": "x:ChampionsCup"
     },
     {
-      "type": "x",
-      "id": "x:2111753873656279380",
-      "text": "IT’S GAME DAY! 🐆🔥\n\nHear it from one of our own, Carl Els before we run out against Bayonne this afternoon! \n\n📅TODAY, 18 October 2026\n💥14:00 (SA TIME)\n📺Supersport Channel 211 \n📍Stade Jean Dauger, Bayonne\n\nThe countdown is on. The pride is real. Let’s back our Cheetahs! 💪🏻⚡️ https://t.co/b5Um5MMFFb",
-      "author": "Toyota Cheetahs",
-      "handle": "CheetahsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1923021611650662400/CQ915wlL_bigger.jpg",
-      "url": "https://x.com/CheetahsRugby/status/2111753873656279380",
-      "publishedAt": "2026-10-18T09:38:52.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111753723844202496/img/QcOXNBdYF_o70a6a.jpg",
-      "teamIds": [
-        "cheetahs"
-      ],
-      "source": "x:CheetahsRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111752018301796446",
-      "text": "Sunday showdown loading… ⏳\n\n#URC | #InvestecChampionsCup | #NORvCAR https://t.co/HES73cVFwg",
-      "author": "BKT United Rugby Championship (URC)",
-      "handle": "URCOfficial",
-      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
-      "url": "https://x.com/URCOfficial/status/2111752018301796446",
-      "publishedAt": "2026-10-18T09:31:30.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HUwLmVeWgAA_FVO.jpg",
-      "teamIds": [],
-      "source": "x:URCOfficial"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3my5ajzwkbi2o",
       "text": "💥 Leinster 'A' ran out 40-29 winners over Edinburgh 'A' thanks to tries from Andrew Doyle, Jack Deegan, Andrew Sparrow, Charlie Tector and a Hugo McLaughlin brace at the Hive Stadium yesterday\n📰 Read the match report: https://bit.ly/4yr4BhW",
@@ -1194,18 +1218,6 @@
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mxybvrxucs2x",
-      "text": "Not long until Cardiff’s team announcement now.\nIndications seem to point at a more rotated side travelling to Northampton with the Sharks game prioritised on the short turnaround.\nSuspect there would be a level of backlash to that but it would be very understandable.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mxybvrxucs2x",
-      "publishedAt": "2026-10-16T09:41:21.054Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:TId0j_qMh64",
       "title": "DHL Stormers keeping the ball alive ⚡️",
@@ -1281,17 +1293,6 @@
       "url": "https://www.youtube.com/watch?v=PfMb6jB5U5Q",
       "publishedAt": "2026-10-14T09:30:05.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/PfMb6jB5U5Q/hqdefault.jpg",
-      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:-W5znScfWsc",
-      "title": "A perfectly timed kick, an incredible catch and a clinical finish 💥🎯",
-      "author": "BenettonRugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=-W5znScfWsc",
-      "publishedAt": "2026-10-13T12:00:03.000Z",
-      "thumbnail": "https://i2.ytimg.com/vi/-W5znScfWsc/hqdefault.jpg",
       "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
     }
   ],
