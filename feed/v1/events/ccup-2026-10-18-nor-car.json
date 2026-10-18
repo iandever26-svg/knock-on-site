@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-nor-car",
  "matchId": "ccup-2026-10-18-nor-car",
- "updated_at": "2026-10-18T17:45:14.339Z",
+ "updated_at": "2026-10-18T17:50:21.214Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604257/competitions/604257/plays?limit=400",
-   "fetched_at": "2026-10-18T17:45:14.339Z",
+   "fetched_at": "2026-10-18T17:50:21.214Z",
    "espn_event_id": "604257",
    "espn_league_id": 271937
   }
@@ -128,6 +128,54 @@
     "home": 14,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1900292",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ion Neculai",
+   "detail": "replaces Cleopas Kundiona",
+   "playerOn": "Ion Neculai",
+   "playerOff": "Cleopas Kundiona",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900294",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ed Prowse",
+   "detail": "replaces JJ van der Mescht",
+   "playerOn": "Ed Prowse",
+   "playerOff": "JJ van der Mescht",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900297",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Evan Lloyd",
+   "detail": "replaces Taulupe Faletau",
+   "playerOn": "Evan Lloyd",
+   "playerOff": "Taulupe Faletau",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900299",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Josh Adams",
+   "detail": "replaces Harri Millard",
+   "playerOn": "Josh Adams",
+   "playerOff": "Harri Millard",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

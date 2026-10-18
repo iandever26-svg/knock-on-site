@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-cas-ben",
  "matchId": "chcup-2026-10-18-cas-ben",
- "updated_at": "2026-10-18T17:45:14.339Z",
+ "updated_at": "2026-10-18T17:50:21.214Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604317/competitions/604317/plays?limit=400",
-   "fetched_at": "2026-10-18T17:45:14.339Z",
+   "fetched_at": "2026-10-18T17:50:21.214Z",
    "espn_event_id": "604317",
    "espn_league_id": 272073
   }
@@ -107,15 +107,54 @@
    "playerOn": "Onisi Ratave",
    "playerOff": "Francois Carlo Mey",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900296",
+   "minute": 51,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Jacob Umaga",
+   "detail": "Penalty (8-3)",
+   "playerName": "Jacob Umaga",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 8,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1900302",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom Staniforth",
+   "detail": "replaces Chris Gabriel",
+   "playerOn": "Tom Staniforth",
+   "playerOff": "Chris Gabriel",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900304",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mael Turpin",
+   "detail": "replaces Mate Gurtskaia",
+   "playerOn": "Mael Turpin",
+   "playerOff": "Mate Gurtskaia",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 8,
-  "away": 0
+  "away": 3
  },
  "plays_summed": {
   "home": 8,
-  "away": 0
+  "away": 3
  }
 }
