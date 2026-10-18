@@ -1,8 +1,79 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-18T10:07:03+01:00",
+  "generatedAt": "2026-10-18T11:11:36+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2111752018301796446",
+      "text": "Sunday showdown loading… ⏳\n\n#URC | #InvestecChampionsCup | #NORvCAR https://t.co/HES73cVFwg",
+      "author": "BKT United Rugby Championship (URC)",
+      "handle": "URCOfficial",
+      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
+      "url": "https://x.com/URCOfficial/status/2111752018301796446",
+      "publishedAt": "2026-10-18T09:31:30.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUwLmVeWgAA_FVO.jpg",
+      "teamIds": [],
+      "source": "x:URCOfficial"
+    },
+    {
+      "type": "x",
+      "id": "x:2111751737484967989",
+      "text": "The Hollywoodbets Sharks GEN got the job done in Potchefstroom yesterday 🦈 \n\nThe SA Rugby Under-20 semifinals are still within reach 🏆 \n\n#HollywoodbetsSharksGEN #BlackWhiteForever https://t.co/OSVbYaM7ah",
+      "author": "Sharks Rugby Club",
+      "handle": "SharksRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2108105864909312000/tbCzWA0T_bigger.jpg",
+      "url": "https://x.com/SharksRugby/status/2111751737484967989",
+      "publishedAt": "2026-10-18T09:30:23.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU5zAn3XQAA7yWv.jpg",
+      "teamIds": [
+        "sharks"
+      ],
+      "source": "x:SharksRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2111749375412039819",
+      "text": "Go raibh míle maith agaibh don tacaíocht aréir 🫶\n\nThank you for that amazing support last night 💚\n\n#OneConnacht | 📸 @Inphosports https://t.co/qXr8T8QJXU",
+      "author": "Connacht Rugby",
+      "handle": "connachtrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
+      "url": "https://x.com/connachtrugby/status/2111749375412039819",
+      "publishedAt": "2026-10-18T09:21:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU5w3PLXMAAPZM1.jpg",
+      "teamIds": [
+        "connacht"
+      ],
+      "source": "x:connachtrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2111747735527534710",
+      "text": "Can’t make it to Northampton? You can watch the game in Clubhouse at the Cardiff Arms Park! 🍻 🔵⚫️ \n\n#YmlaenCaerdydd https://t.co/qcygc4zybl",
+      "author": "Cardiff Rugby",
+      "handle": "Cardiff_Rugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
+      "url": "https://x.com/Cardiff_Rugby/status/2111747735527534710",
+      "publishedAt": "2026-10-18T09:14:29.000Z",
+      "thumbnail": null,
+      "teamIds": [
+        "cardiff"
+      ],
+      "source": "x:Cardiff_Rugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2111744251352506857",
+      "text": "Today sees the Jaguars versus the Texans, but why should you watch?\n\n#GuinnessM6N #NFL #Since1883 https://t.co/9nDB88RJ8f",
+      "author": "Guinness Men's Six Nations",
+      "handle": "SixNationsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1862922194491265024/iIUEoSFe_bigger.jpg",
+      "url": "https://x.com/SixNationsRugby/status/2111744251352506857",
+      "publishedAt": "2026-10-18T09:00:38.000Z",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2111744143743426560/pu/img/eaDjzBYFMMZa8zSC.jpg",
+      "teamIds": [],
+      "source": "x:SixNationsRugby"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3my5ajzwkbi2o",
@@ -14,6 +85,36 @@
       "publishedAt": "2026-10-18T09:00:11.577Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreiedbolcbgk4nbtvxbj5jfxuigipfwobjfiw2eaq5dpfi3rt2ljsim",
       "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111744105420136801",
+      "text": "Diolch yn fawr 🖤\n\nIncredible to see so many faces taking the long trip to Georgia to support the boys. Safe travels home 🫡\n\n#OurBloodIsBlack https://t.co/7ZheELdtUx",
+      "author": "Ospreys",
+      "handle": "ospreys",
+      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
+      "url": "https://x.com/ospreys/status/2111744105420136801",
+      "publishedAt": "2026-10-18T09:00:03.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU1_I-kWkAIdpo6.jpg",
+      "teamIds": [
+        "ospreys"
+      ],
+      "source": "x:ospreys"
+    },
+    {
+      "type": "x",
+      "id": "x:2111744103360651744",
+      "text": "Debutto in Coppa per i Leoni!\n\n🆚 @CastresRugby \n🏆 Round 1 Pool 2 @ChallengeCup_ \n📅 18.10.2026\n🏟️ Stade Pierre Fabre\n⌚ 18:30 🇮🇹\n📱 #CASvBEN\n🖥️ Diretta streaming EPCR TV e DAZN\n\n#WeAreLions #gameday https://t.co/kPU7nPMzWl",
+      "author": "Benetton Rugby 🦁",
+      "handle": "BenettonRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107800809316425728/hbrhjN9A_bigger.jpg",
+      "url": "https://x.com/BenettonRugby/status/2111744103360651744",
+      "publishedAt": "2026-10-18T09:00:03.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111049710492434432/img/n7aKHlidd5-zW1Qf.jpg",
+      "teamIds": [
+        "benetton"
+      ],
+      "source": "x:BenettonRugby"
     },
     {
       "type": "bluesky",
@@ -578,111 +679,6 @@
       "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111555136212377600/img/UO3XB_MiivZw52aF.jpg",
       "teamIds": [],
       "source": "x:ChallengeCup_"
-    },
-    {
-      "type": "x",
-      "id": "x:2111555109679181825",
-      "text": "If ever a photo summed him up 📸\n\nWhat a warrior and what a performance from our captain 💪 https://t.co/3ns0oQ1MlN",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
-      "url": "https://x.com/connachtrugby/status/2111555109679181825",
-      "publishedAt": "2026-10-17T20:29:03.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU3ALbVXwAApEBj.jpg",
-      "teamIds": [
-        "connacht"
-      ],
-      "source": "x:connachtrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111550779823702190",
-      "text": "A defeat on the road for the Jesters in our second development game of the season. https://t.co/6vIHBiGhF3",
-      "author": "Harlequins 🃏",
-      "handle": "Harlequins",
-      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
-      "url": "https://x.com/Harlequins/status/2111550779823702190",
-      "publishedAt": "2026-10-17T20:11:51.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "harlequins"
-      ],
-      "source": "x:Harlequins"
-    },
-    {
-      "type": "x",
-      "id": "x:2111550625070608545",
-      "text": "\"It was incredible\"\n\nPost match chat with Stuart Lancaster after our win over Saracens in the @ChampionsCup 🟢🦅\n\n#OneConnacht https://t.co/681PSK25B5",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
-      "url": "https://x.com/connachtrugby/status/2111550625070608545",
-      "publishedAt": "2026-10-17T20:11:14.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111549897468006400/img/sYfHZz5I7Kf2Gl-d.jpg",
-      "teamIds": [
-        "connacht"
-      ],
-      "source": "x:connachtrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111548439011938495",
-      "text": "40 | Back for another 40 minutes. Tune in on our @Dyson Match Centre 🔗 https://t.co/CRK8AIOcML",
-      "author": "Bath Rugby",
-      "handle": "BathRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1997341780816072704/zfIo6JNf_bigger.jpg",
-      "url": "https://x.com/BathRugby/status/2111548439011938495",
-      "publishedAt": "2026-10-17T20:02:33.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "bath"
-      ],
-      "source": "x:BathRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111543103492395098",
-      "text": "Avec 𝙫𝙤𝙪𝙨 ❤️\n\n#SRvLIO | #InvestecChampionsCup | #FievreSR https://t.co/uoYziaFgmO",
-      "author": "Stade Rochelais",
-      "handle": "staderochelais",
-      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
-      "url": "https://x.com/staderochelais/status/2111543103492395098",
-      "publishedAt": "2026-10-17T19:41:21.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU21KqPWMAAerHV.jpg",
-      "teamIds": [
-        "la-rochelle"
-      ],
-      "source": "x:staderochelais"
-    },
-    {
-      "type": "x",
-      "id": "x:2111540347809452412",
-      "text": "The man was in flying form 🔥Ciarán Frawley \n\n#OneConnacht | 📸 @INPHOjames https://t.co/Sk1Ph5idxE",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
-      "url": "https://x.com/connachtrugby/status/2111540347809452412",
-      "publishedAt": "2026-10-17T19:30:24.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU2ywVeX0AAb_a3.jpg",
-      "teamIds": [
-        "connacht"
-      ],
-      "source": "x:connachtrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111538326150795273",
-      "text": "Vous êtes prêts ? Nous oui. 😈 https://t.co/sAHWjS9NB2",
-      "author": "Stade Toulousain",
-      "handle": "StadeToulousain",
-      "avatar": "https://pbs.twimg.com/profile_images/2110294817947242496/LikEw8hJ_bigger.jpg",
-      "url": "https://x.com/StadeToulousain/status/2111538326150795273",
-      "publishedAt": "2026-10-17T19:22:22.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111538182458048512/img/YpoxXtsS9mKqQ6K3.jpg",
-      "teamIds": [
-        "toulouse"
-      ],
-      "source": "x:StadeToulousain"
     },
     {
       "type": "bluesky",
