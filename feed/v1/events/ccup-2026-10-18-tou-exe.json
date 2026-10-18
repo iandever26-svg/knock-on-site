@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T15:23:49.501Z",
+ "updated_at": "2026-10-18T15:28:54.758Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T15:23:49.501Z",
+   "fetched_at": "2026-10-18T15:28:54.758Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -205,6 +205,18 @@
    }
   },
   {
+   "id": "espn-1900213",
+   "minute": 36,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tommaso Menoncello",
+   "detail": "replaces Santiago Chocobares",
+   "playerOn": "Tommaso Menoncello",
+   "playerOff": "Santiago Chocobares",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1900210",
    "minute": 37,
    "period": "1H",
@@ -263,6 +275,18 @@
     "home": 17,
     "away": 26
    }
+  },
+  {
+   "id": "espn-1900215",
+   "minute": 43,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Paul Graou",
+   "detail": "replaces Tommaso Menoncello",
+   "playerOn": "Paul Graou",
+   "playerOff": "Tommaso Menoncello",
+   "label": "Substitution"
   },
   {
    "id": "inferred-pt-home-1",
