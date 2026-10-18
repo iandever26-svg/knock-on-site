@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-har-van",
  "matchId": "chcup-2026-10-18-har-van",
- "updated_at": "2026-10-18T12:37:32.665Z",
+ "updated_at": "2026-10-18T12:42:35.420Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604316/competitions/604316/plays?limit=400",
-   "fetched_at": "2026-10-18T12:37:32.665Z",
+   "fetched_at": "2026-10-18T12:42:35.420Z",
    "espn_event_id": "604316",
    "espn_league_id": 272073
   }
@@ -106,7 +106,7 @@
    }
   },
   {
-   "id": "espn-1899895",
+   "id": "espn-1899900",
    "minute": 32,
    "period": "1H",
    "type": "try",
@@ -121,7 +121,7 @@
    }
   },
   {
-   "id": "espn-1899896",
+   "id": "espn-1899901",
    "minute": 33,
    "period": "1H",
    "type": "conversion_made",
@@ -134,15 +134,60 @@
     "home": 21,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1899905",
+   "minute": 37,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Yellow card (21-7)",
+   "playerName": "Marcus Smith",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1899906",
+   "minute": 38,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Enzo Benmegal",
+   "detail": "Try (21-12)",
+   "playerName": "Enzo Benmegal",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1899907",
+   "minute": 39,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Jean Cotarmanac'h",
+   "detail": "Conversion (21-14)",
+   "playerName": "Jean Cotarmanac'h",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 7
+  "away": 14
  },
  "plays_summed": {
   "home": 21,
-  "away": 7
+  "away": 14
  }
 }
