@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-nor-car",
  "matchId": "ccup-2026-10-18-nor-car",
- "updated_at": "2026-10-18T17:55:24.504Z",
+ "updated_at": "2026-10-18T18:00:28.301Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604257/competitions/604257/plays?limit=400",
-   "fetched_at": "2026-10-18T17:55:24.504Z",
+   "fetched_at": "2026-10-18T18:00:28.301Z",
    "espn_event_id": "604257",
    "espn_league_id": 271937
   }
@@ -154,6 +154,30 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1900329",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Evan Lloyd",
+   "detail": "replaces Taulupe Faletau",
+   "playerOn": "Evan Lloyd",
+   "playerOff": "Taulupe Faletau",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900331",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Josh Adams",
+   "detail": "replaces Harri Millard",
+   "playerOn": "Josh Adams",
+   "playerOff": "Harri Millard",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1900306",
    "minute": 57,
    "period": "2H",
@@ -166,18 +190,6 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900297",
-   "minute": 57,
-   "period": "2H",
-   "type": "substitution",
-   "team": "away",
-   "player": "Evan Lloyd",
-   "detail": "replaces Taulupe Faletau",
-   "playerOn": "Evan Lloyd",
-   "playerOff": "Taulupe Faletau",
-   "label": "Substitution"
-  },
-  {
    "id": "espn-1900308",
    "minute": 57,
    "period": "2H",
@@ -187,18 +199,6 @@
    "detail": "replaces Toby Thame",
    "playerOn": "Fraser Dingwall",
    "playerOff": "Toby Thame",
-   "label": "Substitution"
-  },
-  {
-   "id": "espn-1900299",
-   "minute": 57,
-   "period": "2H",
-   "type": "substitution",
-   "team": "away",
-   "player": "Josh Adams",
-   "detail": "replaces Harri Millard",
-   "playerOn": "Josh Adams",
-   "playerOff": "Harri Millard",
    "label": "Substitution"
   },
   {
@@ -227,15 +227,135 @@
     "home": 14,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1900315",
+   "minute": 61,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Mason Grady",
+   "detail": "Try (14-12)",
+   "playerName": "Mason Grady",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1900315-cm",
+   "minute": 61,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (14-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 14,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1900333",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Curtis Langdon",
+   "detail": "replaces Robbie Smith",
+   "playerOn": "Curtis Langdon",
+   "playerOff": "Robbie Smith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900335",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jordan Els",
+   "detail": "replaces Danilo Fischetti",
+   "playerOn": "Jordan Els",
+   "playerOff": "Danilo Fischetti",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900328",
+   "minute": 64,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "George Hendy",
+   "detail": "Try (19-12)",
+   "playerName": "George Hendy",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1900337",
+   "minute": 65,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "James Pater",
+   "detail": "Conversion (21-12)",
+   "playerName": "James Pater",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1900339",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joe Cowell",
+   "detail": "replaces Sam Wainwright",
+   "playerOn": "Joe Cowell",
+   "playerOff": "Sam Wainwright",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900345",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Callum Sheedy",
+   "detail": "replaces Jarrod Evans",
+   "playerOn": "Callum Sheedy",
+   "playerOff": "Jarrod Evans",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900347",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lucas de la Rua",
+   "detail": "replaces Semisi Paea",
+   "playerOn": "Lucas de la Rua",
+   "playerOff": "Semisi Paea",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
-  "away": 7
+  "home": 21,
+  "away": 12
  },
  "plays_summed": {
-  "home": 14,
-  "away": 7
+  "home": 21,
+  "away": 12
  }
 }

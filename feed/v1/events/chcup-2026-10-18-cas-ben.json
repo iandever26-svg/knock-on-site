@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-cas-ben",
  "matchId": "chcup-2026-10-18-cas-ben",
- "updated_at": "2026-10-18T17:55:24.504Z",
+ "updated_at": "2026-10-18T18:00:28.301Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604317/competitions/604317/plays?limit=400",
-   "fetched_at": "2026-10-18T17:55:24.504Z",
+   "fetched_at": "2026-10-18T18:00:28.301Z",
    "espn_event_id": "604317",
    "espn_league_id": 272073
   }
@@ -161,15 +161,90 @@
     "home": 8,
     "away": 6
    }
+  },
+  {
+   "id": "espn-1900316",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Kyllian Ringuet",
+   "detail": "replaces Mathieu Babillot",
+   "playerOn": "Kyllian Ringuet",
+   "playerOff": "Mathieu Babillot",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900320",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Baptiste Cope",
+   "detail": "replaces Veresa Ramototabua",
+   "playerOn": "Baptiste Cope",
+   "playerOff": "Veresa Ramototabua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900318",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Pierre Colonna",
+   "detail": "replaces Loris Zarantonello",
+   "playerOn": "Pierre Colonna",
+   "playerOff": "Loris Zarantonello",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900326",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Nicholas Gasperini",
+   "detail": "replaces Bautista Bernasconi",
+   "playerOn": "Nicholas Gasperini",
+   "playerOff": "Bautista Bernasconi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900338",
+   "minute": 60,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Jacob Umaga",
+   "detail": "Penalty (8-9)",
+   "playerName": "Jacob Umaga",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 8,
+    "away": 9
+   }
+  },
+  {
+   "id": "espn-1900343",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Antony Italo Miranda",
+   "detail": "replaces Federico Ruzza",
+   "playerOn": "Antony Italo Miranda",
+   "playerOff": "Federico Ruzza",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 8,
-  "away": 6
+  "away": 9
  },
  "plays_summed": {
   "home": 8,
-  "away": 6
+  "away": 9
  }
 }
