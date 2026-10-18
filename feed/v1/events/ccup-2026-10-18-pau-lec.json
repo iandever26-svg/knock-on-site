@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-pau-lec",
  "matchId": "ccup-2026-10-18-pau-lec",
- "updated_at": "2026-10-18T13:36:40.957Z",
+ "updated_at": "2026-10-18T13:48:02.364Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604255/competitions/604255/plays?limit=400",
-   "fetched_at": "2026-10-18T13:36:40.957Z",
+   "fetched_at": "2026-10-18T13:48:02.364Z",
    "espn_event_id": "604255",
    "espn_league_id": 271937
   }
@@ -353,15 +353,54 @@
    "playerOn": "Samiuela Moli",
    "playerOff": "Jamie Blamire",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900100",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gonzalo Garcia",
+   "detail": "replaces Thomas Souverbie",
+   "playerOn": "Gonzalo Garcia",
+   "playerOff": "Thomas Souverbie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900115",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Yon Caperaa",
+   "detail": "replaces Youri Delhommel",
+   "playerOn": "Yon Caperaa",
+   "playerOff": "Youri Delhommel",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900141",
+   "minute": 72,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Aaron Grandidier-Nkanang",
+   "detail": "Try (32-17)",
+   "playerName": "Aaron Grandidier-Nkanang",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 32,
+    "away": 17
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 27,
+  "home": 32,
   "away": 17
  },
  "plays_summed": {
-  "home": 27,
+  "home": 32,
   "away": 17
  }
 }

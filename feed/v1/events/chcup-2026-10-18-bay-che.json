@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-bay-che",
  "matchId": "chcup-2026-10-18-bay-che",
- "updated_at": "2026-10-18T13:36:40.957Z",
+ "updated_at": "2026-10-18T13:48:02.364Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604315/competitions/604315/plays?limit=400",
-   "fetched_at": "2026-10-18T13:36:40.957Z",
+   "fetched_at": "2026-10-18T13:48:02.364Z",
    "espn_event_id": "604315",
    "espn_league_id": 272073
   }
@@ -389,15 +389,102 @@
     "home": 27,
     "away": 27
    }
+  },
+  {
+   "id": "espn-1900099",
+   "minute": 70,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Robert du Preez",
+   "detail": "Conversion (29-27)",
+   "playerName": "Robert du Preez",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 29,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1900117",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jaundre Schoeman",
+   "detail": "replaces Louis van der Westhuizen",
+   "playerOn": "Jaundre Schoeman",
+   "playerOff": "Louis van der Westhuizen",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900120",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Aidon Davis",
+   "detail": "replaces Carl Wegner",
+   "playerOn": "Aidon Davis",
+   "playerOff": "Carl Wegner",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900133",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Hugo Leclerq",
+   "detail": "replaces Mahno Dealle Facquez Luts",
+   "playerOn": "Hugo Leclerq",
+   "playerOff": "Mahno Dealle Facquez Luts",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900127",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Siya Ningiza",
+   "detail": "replaces Simon Miller",
+   "playerOn": "Siya Ningiza",
+   "playerOff": "Simon Miller",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900129",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cohen Jasper",
+   "detail": "replaces Henry Immelman",
+   "playerOn": "Cohen Jasper",
+   "playerOff": "Henry Immelman",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900131",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Marco Jansen van Vuren",
+   "detail": "replaces Zander du Plessis",
+   "playerOn": "Marco Jansen van Vuren",
+   "playerOff": "Zander du Plessis",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 27,
+  "home": 29,
   "away": 27
  },
  "plays_summed": {
-  "home": 27,
+  "home": 29,
   "away": 27
  }
 }

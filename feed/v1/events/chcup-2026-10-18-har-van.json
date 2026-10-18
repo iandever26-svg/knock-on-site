@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-har-van",
  "matchId": "chcup-2026-10-18-har-van",
- "updated_at": "2026-10-18T13:36:40.957Z",
- "final": false,
+ "updated_at": "2026-10-18T13:48:02.364Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604316/competitions/604316/plays?limit=400",
-   "fetched_at": "2026-10-18T13:36:40.957Z",
+   "fetched_at": "2026-10-18T13:48:02.364Z",
    "espn_event_id": "604316",
    "espn_league_id": 272073
   }
@@ -469,8 +469,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900073",
-   "minute": 67,
+   "id": "espn-1900125",
+   "minute": 66,
    "period": "2H",
    "type": "try",
    "team": "home",
@@ -484,8 +484,8 @@
    }
   },
   {
-   "id": "espn-1900073-cm",
-   "minute": 67,
+   "id": "espn-1900125-cm",
+   "minute": 66,
    "period": "2H",
    "type": "conversion_missed",
    "team": "home",
@@ -499,7 +499,7 @@
    }
   },
   {
-   "id": "espn-1900078",
+   "id": "espn-1900109",
    "minute": 70,
    "period": "2H",
    "type": "try",
@@ -514,7 +514,7 @@
    }
   },
   {
-   "id": "espn-1900081",
+   "id": "espn-1900110",
    "minute": 71,
    "period": "2H",
    "type": "conversion_made",
@@ -529,7 +529,7 @@
    }
   },
   {
-   "id": "espn-1900084",
+   "id": "espn-1900111",
    "minute": 71,
    "period": "2H",
    "type": "substitution",
@@ -541,7 +541,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900097",
+   "id": "espn-1900113",
    "minute": 71,
    "period": "2H",
    "type": "substitution",
@@ -551,15 +551,60 @@
    "playerOn": "Simon Bourgeois",
    "playerOff": "Santiago Medrano",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900138",
+   "minute": 77,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Jesse Stegehuis",
+   "detail": "Yellow card (50-19)",
+   "playerName": "Jesse Stegehuis",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 50,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1900139",
+   "minute": 78,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Will Evans",
+   "detail": "Try (55-19)",
+   "playerName": "Will Evans",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 55,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1900140",
+   "minute": 79,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Conversion (57-19)",
+   "playerName": "Marcus Smith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 57,
+    "away": 19
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 50,
+  "home": 57,
   "away": 19
  },
  "plays_summed": {
-  "home": 50,
+  "home": 57,
   "away": 19
  }
 }
