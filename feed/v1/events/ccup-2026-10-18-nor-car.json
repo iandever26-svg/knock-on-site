@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-nor-car",
  "matchId": "ccup-2026-10-18-nor-car",
- "updated_at": "2026-10-18T18:10:52.219Z",
+ "updated_at": "2026-10-18T18:15:55.340Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 28-12, final 26-12; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604257/competitions/604257/plays?limit=400",
-   "fetched_at": "2026-10-18T18:10:52.219Z",
+   "fetched_at": "2026-10-18T18:15:55.340Z",
    "espn_event_id": "604257",
    "espn_league_id": 271937
   }
@@ -22,13 +23,9 @@
    "type": "try",
    "team": "home",
    "player": "James Pater",
-   "detail": "Try (5-0)",
+   "detail": "Try",
    "playerName": "James Pater",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 0
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1900270",
@@ -37,13 +34,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Anthony Belleau",
-   "detail": "Conversion (7-0)",
+   "detail": "Conversion",
    "playerName": "Anthony Belleau",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 0
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1900273",
@@ -52,13 +45,9 @@
    "type": "try",
    "team": "home",
    "player": "Toby Thame",
-   "detail": "Try (12-0)",
+   "detail": "Try",
    "playerName": "Toby Thame",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 12,
-    "away": 0
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1900274",
@@ -67,13 +56,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Anthony Belleau",
-   "detail": "Conversion (14-0)",
+   "detail": "Conversion",
    "playerName": "Anthony Belleau",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 14,
-    "away": 0
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1900278",
@@ -106,13 +91,9 @@
    "type": "try",
    "team": "away",
    "player": "Harri Millard",
-   "detail": "Try (14-5)",
+   "detail": "Try",
    "playerName": "Harri Millard",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 14,
-    "away": 5
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1900291",
@@ -121,13 +102,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Jarrod Evans",
-   "detail": "Conversion (14-7)",
+   "detail": "Conversion",
    "playerName": "Jarrod Evans",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 14,
-    "away": 7
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1900292",
@@ -220,13 +197,9 @@
    "type": "yellow_card",
    "team": "home",
    "player": "Anthony Belleau",
-   "detail": "Yellow card (14-7)",
+   "detail": "Yellow card",
    "playerName": "Anthony Belleau",
-   "label": "Yellow card",
-   "scoreAfter": {
-    "home": 14,
-    "away": 7
-   }
+   "label": "Yellow card"
   },
   {
    "id": "espn-1900315",
@@ -235,13 +208,9 @@
    "type": "try",
    "team": "away",
    "player": "Mason Grady",
-   "detail": "Try (14-12)",
+   "detail": "Try",
    "playerName": "Mason Grady",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 14,
-    "away": 12
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1900315-cm",
@@ -250,13 +219,9 @@
    "type": "conversion_missed",
    "team": "away",
    "player": null,
-   "detail": "Conversion missed (inferred) (14-12)",
+   "detail": "Conversion missed (inferred)",
    "label": "Conversion missed",
-   "inferred": true,
-   "scoreAfter": {
-    "home": 14,
-    "away": 12
-   }
+   "inferred": true
   },
   {
    "id": "espn-1900333",
@@ -289,13 +254,9 @@
    "type": "try",
    "team": "home",
    "player": "George Hendy",
-   "detail": "Try (19-12)",
+   "detail": "Try",
    "playerName": "George Hendy",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 19,
-    "away": 12
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1900337",
@@ -304,13 +265,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "James Pater",
-   "detail": "Conversion (21-12)",
+   "detail": "Conversion",
    "playerName": "James Pater",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 21,
-    "away": 12
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1900339",
@@ -349,7 +306,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900350",
+   "id": "espn-1900364",
    "minute": 67,
    "period": "2H",
    "type": "substitution",
@@ -383,15 +340,53 @@
    "playerOn": "Josh McNally",
    "playerOff": "Tom Manz",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900369",
+   "minute": 78,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sion Davies",
+   "detail": "replaces Johan Mulder",
+   "playerOn": "Sion Davies",
+   "playerOff": "Johan Mulder",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900371",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Fraser Dingwall",
+   "detail": "Try",
+   "playerName": "Fraser Dingwall",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1900372",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Anthony Belleau",
+   "detail": "Conversion",
+   "playerName": "Anthony Belleau",
+   "label": "Conversion"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
+  "home": 26,
   "away": 12
  },
  "plays_summed": {
-  "home": 21,
+  "home": 28,
   "away": 12
+ },
+ "unexplained_gap": {
+  "home": -2,
+  "away": 0
  }
 }

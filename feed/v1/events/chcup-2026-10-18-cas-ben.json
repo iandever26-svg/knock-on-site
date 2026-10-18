@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-cas-ben",
  "matchId": "chcup-2026-10-18-cas-ben",
- "updated_at": "2026-10-18T18:10:52.219Z",
+ "updated_at": "2026-10-18T18:15:55.340Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604317/competitions/604317/plays?limit=400",
-   "fetched_at": "2026-10-18T18:10:52.219Z",
+   "fetched_at": "2026-10-18T18:15:55.340Z",
    "espn_event_id": "604317",
    "espn_league_id": 272073
   }
@@ -272,15 +272,42 @@
    "playerOn": "Andy Uren",
    "playerOff": "Alessandro Garbisi",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900366",
+   "minute": 69,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Louis Le Brun",
+   "detail": "Penalty (11-9)",
+   "playerName": "Louis Le Brun",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 11,
+    "away": 9
+   }
+  },
+  {
+   "id": "espn-1900367",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ivan Nemer",
+   "detail": "replaces Matias Medrano",
+   "playerOn": "Ivan Nemer",
+   "playerOff": "Matias Medrano",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 8,
+  "home": 11,
   "away": 9
  },
  "plays_summed": {
-  "home": 8,
+  "home": 11,
   "away": 9
  }
 }
