@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-har-van",
  "matchId": "chcup-2026-10-18-har-van",
- "updated_at": "2026-10-18T13:31:37.335Z",
+ "updated_at": "2026-10-18T13:36:40.957Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604316/competitions/604316/plays?limit=400",
-   "fetched_at": "2026-10-18T13:31:37.335Z",
+   "fetched_at": "2026-10-18T13:36:40.957Z",
    "espn_event_id": "604316",
    "espn_league_id": 272073
   }
@@ -403,7 +403,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900025",
+   "id": "espn-1900068",
    "minute": 61,
    "period": "2H",
    "type": "try",
@@ -418,7 +418,7 @@
    }
   },
   {
-   "id": "espn-1900025-cm",
+   "id": "espn-1900068-cm",
    "minute": 61,
    "period": "2H",
    "type": "conversion_missed",
@@ -433,7 +433,19 @@
    }
   },
   {
-   "id": "espn-1900026",
+   "id": "espn-1900092",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Porter",
+   "detail": "replaces Lucas Friday",
+   "playerOn": "Will Porter",
+   "playerOff": "Lucas Friday",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900069",
    "minute": 62,
    "period": "2H",
    "type": "substitution",
@@ -445,8 +457,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900036",
-   "minute": 63,
+   "id": "espn-1900095",
+   "minute": 62,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -457,7 +469,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900054",
+   "id": "espn-1900073",
    "minute": 67,
    "period": "2H",
    "type": "try",
@@ -470,15 +482,84 @@
     "home": 43,
     "away": 19
    }
+  },
+  {
+   "id": "espn-1900073-cm",
+   "minute": 67,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (43-19)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 43,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1900078",
+   "minute": 70,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Jimmy Staples",
+   "detail": "Try (48-19)",
+   "playerName": "Jimmy Staples",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 48,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1900081",
+   "minute": 71,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Conversion (50-19)",
+   "playerName": "Marcus Smith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 50,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1900084",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tyrone Green",
+   "detail": "replaces Luke Northmore",
+   "playerOn": "Tyrone Green",
+   "playerOff": "Luke Northmore",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900097",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Simon Bourgeois",
+   "detail": "replaces Santiago Medrano",
+   "playerOn": "Simon Bourgeois",
+   "playerOff": "Santiago Medrano",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 43,
+  "home": 50,
   "away": 19
  },
  "plays_summed": {
-  "home": 43,
+  "home": 50,
   "away": 19
  }
 }

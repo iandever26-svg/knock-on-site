@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-pau-lec",
  "matchId": "ccup-2026-10-18-pau-lec",
- "updated_at": "2026-10-18T13:31:37.335Z",
+ "updated_at": "2026-10-18T13:36:40.957Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604255/competitions/604255/plays?limit=400",
-   "fetched_at": "2026-10-18T13:31:37.335Z",
+   "fetched_at": "2026-10-18T13:36:40.957Z",
    "espn_event_id": "604255",
    "espn_league_id": 271937
   }
@@ -295,7 +295,19 @@
    }
   },
   {
-   "id": "espn-1900056",
+   "id": "espn-1900058",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Facundo Isa",
+   "detail": "replaces Sacha Zegueur",
+   "playerOn": "Facundo Isa",
+   "playerOff": "Sacha Zegueur",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900060",
    "minute": 58,
    "period": "2H",
    "type": "substitution",
@@ -304,6 +316,42 @@
    "detail": "replaces Mickael Capelli",
    "playerOn": "Remi Picquette",
    "playerOff": "Mickael Capelli",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900088",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joseph Woodward",
+   "detail": "replaces Orlando Bailey",
+   "playerOn": "Joseph Woodward",
+   "playerOff": "Orlando Bailey",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900079",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mako Vunipola",
+   "detail": "replaces Archie van der Flier",
+   "playerOn": "Mako Vunipola",
+   "playerOff": "Archie van der Flier",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900090",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Samiuela Moli",
+   "detail": "replaces Jamie Blamire",
+   "playerOn": "Samiuela Moli",
+   "playerOff": "Jamie Blamire",
    "label": "Substitution"
   }
  ],
