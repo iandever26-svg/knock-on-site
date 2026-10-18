@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-cas-ben",
  "matchId": "chcup-2026-10-18-cas-ben",
- "updated_at": "2026-10-18T17:05:55.738Z",
+ "updated_at": "2026-10-18T17:13:00.142Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604317/competitions/604317/plays?limit=400",
-   "fetched_at": "2026-10-18T17:05:55.738Z",
+   "fetched_at": "2026-10-18T17:13:00.142Z",
    "espn_event_id": "604317",
    "espn_league_id": 272073
   }
@@ -53,15 +53,30 @@
    "playerOn": "Lois Guerois-Galisson",
    "playerOff": "Atunaisa Sokobale",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900277",
+   "minute": 32,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Vilimoni Botitu",
+   "detail": "Try (8-0)",
+   "playerName": "Vilimoni Botitu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 8,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 3,
+  "home": 8,
   "away": 0
  },
  "plays_summed": {
-  "home": 3,
+  "home": 8,
   "away": 0
  }
 }
