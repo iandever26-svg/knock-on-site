@@ -103,7 +103,7 @@
       "lineup": false,
       "lineupUpdatedAt": null,
       "events": true,
-      "eventsUpdatedAt": "2026-10-18T12:07:08.374Z"
+      "eventsUpdatedAt": "2026-10-18T12:12:12.629Z"
     },
     {
       "match_id": "chcup-2026-10-16-dra-per",
@@ -173,7 +173,17 @@
       "lineup": false,
       "lineupUpdatedAt": null,
       "events": true,
-      "eventsUpdatedAt": "2026-10-18T12:07:08.374Z"
+      "eventsUpdatedAt": "2026-10-18T12:12:12.629Z"
+    },
+    {
+      "match_id": "chcup-2026-10-18-har-van",
+      "kickoff": "2026-10-18T13:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T12:12:12.629Z"
     },
     {
       "match_id": "intl-2026-10-17-aus-nzl",

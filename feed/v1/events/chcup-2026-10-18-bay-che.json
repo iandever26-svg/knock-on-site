@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-bay-che",
  "matchId": "chcup-2026-10-18-bay-che",
- "updated_at": "2026-10-18T12:07:08.374Z",
+ "updated_at": "2026-10-18T12:12:12.629Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 0-8, final 0-3; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604315/competitions/604315/plays?limit=400",
-   "fetched_at": "2026-10-18T12:07:08.374Z",
+   "fetched_at": "2026-10-18T12:12:12.629Z",
    "espn_event_id": "604315",
    "espn_league_id": 272073
   }
@@ -22,13 +23,20 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Tiaan Swanepoel",
-   "detail": "Penalty (0-3)",
+   "detail": "Penalty",
    "playerName": "Tiaan Swanepoel",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 0,
-    "away": 3
-   }
+   "label": "Penalty"
+  },
+  {
+   "id": "espn-1899865",
+   "minute": 9,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Michael Annies",
+   "detail": "Try",
+   "playerName": "Michael Annies",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
@@ -38,6 +46,10 @@
  },
  "plays_summed": {
   "home": 0,
-  "away": 3
+  "away": 8
+ },
+ "unexplained_gap": {
+  "home": 0,
+  "away": -5
  }
 }
