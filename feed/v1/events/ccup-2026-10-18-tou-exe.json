@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T15:54:18.298Z",
+ "updated_at": "2026-10-18T15:59:21.558Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T15:54:18.298Z",
+   "fetched_at": "2026-10-18T15:59:21.558Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -505,20 +505,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900249",
-   "minute": 66,
-   "period": "2H",
-   "type": "substitution",
-   "team": "away",
-   "player": "Harry Wilson",
-   "detail": "replaces Dafydd Jenkins",
-   "playerOn": "Harry Wilson",
-   "playerOff": "Dafydd Jenkins",
-   "label": "Substitution"
-  },
-  {
-   "id": "espn-1900253",
-   "minute": 66,
+   "id": "espn-1900257",
+   "minute": 65,
    "period": "2H",
    "type": "yellow_card",
    "team": "away",
@@ -530,6 +518,18 @@
     "home": 31,
     "away": 40
    }
+  },
+  {
+   "id": "espn-1900249",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Harry Wilson",
+   "detail": "replaces Dafydd Jenkins",
+   "playerOn": "Harry Wilson",
+   "playerOff": "Dafydd Jenkins",
+   "label": "Substitution"
   },
   {
    "id": "espn-1900251",
@@ -544,6 +544,33 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1900254",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jack Yeandle",
+   "detail": "replaces Louie Gulley",
+   "playerOn": "Jack Yeandle",
+   "playerOff": "Louie Gulley",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900256",
+   "minute": 68,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Matias Remue",
+   "detail": "Try (36-40)",
+   "playerName": "Matias Remue",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 36,
+    "away": 40
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -553,20 +580,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (38-40)",
+   "detail": "Penalty try (inferred, minute unknown) (43-40)",
    "scoreAfter": {
-    "home": 38,
+    "home": 43,
     "away": 40
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 38,
+  "home": 43,
   "away": 40
  },
  "plays_summed": {
-  "home": 31,
+  "home": 36,
   "away": 40
  },
  "inferred_penalty_tries": [
