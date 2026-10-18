@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-18T02:07:21+01:00",
+  "generatedAt": "2026-10-18T03:07:10+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
     {
@@ -47,6 +47,21 @@
         "australia"
       ],
       "source": "x:wallabies"
+    },
+    {
+      "type": "x",
+      "id": "x:2111586041018655176",
+      "text": "A huge THANK YOU. To our amazing supports who made the journey to Llanelli. ❤️❤️❤️ https://t.co/KTuZFFbqg2",
+      "author": "Newcastle Red Bulls",
+      "handle": "NCL_RedBulls",
+      "avatar": "https://pbs.twimg.com/profile_images/1965721553179443200/SJgAkoMY_bigger.jpg",
+      "url": "https://x.com/NCL_RedBulls/status/2111586041018655176",
+      "publishedAt": "2026-10-17T22:31:58.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111585911926394880/img/Tr7wogwr8ELPVVL6.jpg",
+      "teamIds": [
+        "newcastle"
+      ],
+      "source": "x:NCL_RedBulls"
     },
     {
       "type": "x",
@@ -162,6 +177,36 @@
       "source": "rugbynewsplus.bsky.social"
     },
     {
+      "type": "x",
+      "id": "x:2111565818551210316",
+      "text": "Une très belle victoire de nos Cistes 🔥💙 https://t.co/RUVUoQeuty",
+      "author": "Montpellier Hérault Rugby",
+      "handle": "MHR_officiel",
+      "avatar": "https://pbs.twimg.com/profile_images/2106411988607709184/1c9is3HI_bigger.jpg",
+      "url": "https://x.com/MHR_officiel/status/2111565818551210316",
+      "publishedAt": "2026-10-17T21:11:36.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU3J0vaXEAAoCOS.jpg",
+      "teamIds": [
+        "montpellier"
+      ],
+      "source": "x:MHR_officiel"
+    },
+    {
+      "type": "x",
+      "id": "x:2111563919936372914",
+      "text": "A difficult night in South West Wales as we fall to defeat against Scarlets.\n\nMatch report ⤵️\nhttps://t.co/kmSF5XrIVS",
+      "author": "Newcastle Red Bulls",
+      "handle": "NCL_RedBulls",
+      "avatar": "https://pbs.twimg.com/profile_images/1965721553179443200/SJgAkoMY_bigger.jpg",
+      "url": "https://x.com/NCL_RedBulls/status/2111563919936372914",
+      "publishedAt": "2026-10-17T21:04:04.000Z",
+      "thumbnail": null,
+      "teamIds": [
+        "newcastle"
+      ],
+      "source": "x:NCL_RedBulls"
+    },
+    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my3ybsirvw2z",
       "text": "Five-try Munster hold off Racing in tight Cork clash (✍️@RTErugby) #Munster #ChampionsCup #Rugby",
@@ -172,6 +217,36 @@
       "publishedAt": "2026-10-17T20:59:45.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreic7jxb3lrap2zz4j7xeamsiroectstj2mivl7szenrywhj2q5wgle",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111561954762633509",
+      "text": "Not our night tonight. Congratulations @MHR_officiel, safe travels home.\n\n🤝 @theTRUESPEED https://t.co/fRa8tmQ6vK",
+      "author": "Bath Rugby",
+      "handle": "BathRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1997341780816072704/zfIo6JNf_bigger.jpg",
+      "url": "https://x.com/BathRugby/status/2111561954762633509",
+      "publishedAt": "2026-10-17T20:56:15.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU3GZRzWgAIQ0Vn.jpg",
+      "teamIds": [
+        "bath"
+      ],
+      "source": "x:BathRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2111561859841319249",
+      "text": "𝕯𝖊́𝖋𝖆𝖎𝖙𝖊 𝖊𝖓 𝖙𝖊𝖗𝖗𝖊𝖘 𝖎𝖗𝖑𝖆𝖓𝖉𝖆𝖎𝖘𝖊𝖘 ❌\n\nLes Racingmen s'inclinent sur la pelouse du Munster pour ce premier match de @ChampionsCup !\n\n#RacingFamily #MUNvR92 https://t.co/VHsKqiowmp",
+      "author": "Racing 92",
+      "handle": "racing92",
+      "avatar": "https://pbs.twimg.com/profile_images/2079851891677085696/mG5poFwl_bigger.jpg",
+      "url": "https://x.com/racing92/status/2111561859841319249",
+      "publishedAt": "2026-10-17T20:55:52.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU3GBh3WEAA7v1O.jpg",
+      "teamIds": [
+        "racing"
+      ],
+      "source": "x:racing92"
     },
     {
       "type": "x",
@@ -200,6 +275,21 @@
         "scarlets"
       ],
       "source": "x:scarlets_rugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2111559373847965876",
+      "text": "77) Josh Hodge adds the extras.\n\nScarlets 47 Red Bulls 14 https://t.co/tpj4QjbepE",
+      "author": "Newcastle Red Bulls",
+      "handle": "NCL_RedBulls",
+      "avatar": "https://pbs.twimg.com/profile_images/1965721553179443200/SJgAkoMY_bigger.jpg",
+      "url": "https://x.com/NCL_RedBulls/status/2111559373847965876",
+      "publishedAt": "2026-10-17T20:46:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU3EDiBWIAAiGDw.jpg",
+      "teamIds": [
+        "newcastle"
+      ],
+      "source": "x:NCL_RedBulls"
     },
     {
       "type": "x",
@@ -246,21 +336,6 @@
     },
     {
       "type": "x",
-      "id": "x:2111548440996184077",
-      "text": "Back out for the second half at Parc y Scarlets.\n\nWhere it's Scarlets 26 Newcastle Red Bulls 0. https://t.co/g6xR4cAJDI",
-      "author": "Newcastle Red Bulls",
-      "handle": "NCL_RedBulls",
-      "avatar": "https://pbs.twimg.com/profile_images/1965721553179443200/SJgAkoMY_bigger.jpg",
-      "url": "https://x.com/NCL_RedBulls/status/2111548440996184077",
-      "publishedAt": "2026-10-17T20:02:33.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU26HBbXsAANCb9.jpg",
-      "teamIds": [
-        "newcastle"
-      ],
-      "source": "x:NCL_RedBulls"
-    },
-    {
-      "type": "x",
       "id": "x:2111548439011938495",
       "text": "40 | Back for another 40 minutes. Tune in on our @Dyson Match Centre 🔗 https://t.co/CRK8AIOcML",
       "author": "Bath Rugby",
@@ -273,36 +348,6 @@
         "bath"
       ],
       "source": "x:BathRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111547777536901123",
-      "text": "Back out for the second half at Parc y Scarlets.\n\nWhere it's Scarlets 26 Newcastle Red Bulls 0.",
-      "author": "Newcastle Red Bulls",
-      "handle": "NCL_RedBulls",
-      "avatar": "https://pbs.twimg.com/profile_images/1965721553179443200/SJgAkoMY_bigger.jpg",
-      "url": "https://x.com/NCL_RedBulls/status/2111547777536901123",
-      "publishedAt": "2026-10-17T19:59:55.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "newcastle"
-      ],
-      "source": "x:NCL_RedBulls"
-    },
-    {
-      "type": "x",
-      "id": "x:2111547730635980995",
-      "text": "Plenty of work to do 👊⚡️\n\n@ChallengeCup_ https://t.co/tfYcKGcXMT",
-      "author": "Newcastle Red Bulls",
-      "handle": "NCL_RedBulls",
-      "avatar": "https://pbs.twimg.com/profile_images/1965721553179443200/SJgAkoMY_bigger.jpg",
-      "url": "https://x.com/NCL_RedBulls/status/2111547730635980995",
-      "publishedAt": "2026-10-17T19:59:44.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU25dfVWUAAfai7.jpg",
-      "teamIds": [
-        "newcastle"
-      ],
-      "source": "x:NCL_RedBulls"
     },
     {
       "type": "x",
@@ -451,21 +496,6 @@
         "ulster"
       ],
       "source": "x:UlsterRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111531542019256514",
-      "text": "It's nearly time! ⏳\n\nTune into live written commentary on our @Dyson Match Centre 🔗 https://t.co/CRK8AIOcML https://t.co/3tHkEd8Kux",
-      "author": "Bath Rugby",
-      "handle": "BathRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1997341780816072704/zfIo6JNf_bigger.jpg",
-      "url": "https://x.com/BathRugby/status/2111531542019256514",
-      "publishedAt": "2026-10-17T18:55:24.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU2qsUCXcAAz6xe.jpg",
-      "teamIds": [
-        "bath"
-      ],
-      "source": "x:BathRugby"
     },
     {
       "type": "x",
@@ -684,36 +714,6 @@
         "stormers"
       ],
       "source": "x:THESTORMERS"
-    },
-    {
-      "type": "x",
-      "id": "x:2111511684313420226",
-      "text": "Welcome home, class of 1996. 🧡 https://t.co/IuedRPKTEw",
-      "author": "Edinburgh Rugby",
-      "handle": "EdinburghRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107140647740125184/-3l-zIiB_bigger.jpg",
-      "url": "https://x.com/EdinburghRugby/status/2111511684313420226",
-      "publishedAt": "2026-10-17T17:36:30.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU2YDAfXAAAfxvy.jpg",
-      "teamIds": [
-        "edinburgh"
-      ],
-      "source": "x:EdinburghRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111510031304999176",
-      "text": "SOLD OUT! 😱\n\nThe Shed is already sold out for our @premrugby clash against Bath next week!\n\nSeats are also becoming limited, so if you're planning to join us for Derby Day, act quickly!\n\n🎟️ https://t.co/9aDElZ2U5G https://t.co/0TIQqgvQOW",
-      "author": "Gloucester Rugby 🍒",
-      "handle": "gloucesterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1808786958673481728/9MztoY2U_bigger.jpg",
-      "url": "https://x.com/gloucesterrugby/status/2111510031304999176",
-      "publishedAt": "2026-10-17T17:29:56.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU2V3i1WwAAIymd.jpg",
-      "teamIds": [
-        "gloucester"
-      ],
-      "source": "x:gloucesterrugby"
     },
     {
       "type": "bluesky",
@@ -1317,7 +1317,7 @@
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
       "ok": false,
-      "error": "HTTP 404",
+      "error": "HTTP 500",
       "kept": 0
     },
     {
