@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-har-van",
  "matchId": "chcup-2026-10-18-har-van",
- "updated_at": "2026-10-18T12:42:35.420Z",
+ "updated_at": "2026-10-18T12:48:43.707Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604316/competitions/604316/plays?limit=400",
-   "fetched_at": "2026-10-18T12:42:35.420Z",
+   "fetched_at": "2026-10-18T12:48:43.707Z",
    "espn_event_id": "604316",
    "espn_league_id": 272073
   }
@@ -151,7 +151,7 @@
    }
   },
   {
-   "id": "espn-1899906",
+   "id": "espn-1899914",
    "minute": 38,
    "period": "1H",
    "type": "try",
@@ -166,7 +166,7 @@
    }
   },
   {
-   "id": "espn-1899907",
+   "id": "espn-1899915",
    "minute": 39,
    "period": "1H",
    "type": "conversion_made",
@@ -179,15 +179,30 @@
     "home": 21,
     "away": 14
    }
+  },
+  {
+   "id": "espn-1899916",
+   "minute": 43,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Cadan Murley",
+   "detail": "Try (26-14)",
+   "playerName": "Cadan Murley",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
+  "home": 26,
   "away": 14
  },
  "plays_summed": {
-  "home": 21,
+  "home": 26,
   "away": 14
  }
 }
