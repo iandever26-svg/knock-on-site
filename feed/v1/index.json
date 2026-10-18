@@ -96,6 +96,16 @@
       "eventsUpdatedAt": "2026-10-17T16:05:06.534Z"
     },
     {
+      "match_id": "ccup-2026-10-18-pau-lec",
+      "kickoff": "2026-10-18T13:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T12:07:08.374Z"
+    },
+    {
       "match_id": "chcup-2026-10-16-dra-per",
       "kickoff": "2026-10-16T20:00:00+01:00",
       "score": false,
@@ -154,6 +164,16 @@
       "lineupUpdatedAt": null,
       "events": true,
       "eventsUpdatedAt": "2026-10-17T16:13:24.232Z"
+    },
+    {
+      "match_id": "chcup-2026-10-18-bay-che",
+      "kickoff": "2026-10-18T13:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T12:07:08.374Z"
     },
     {
       "match_id": "intl-2026-10-17-aus-nzl",
