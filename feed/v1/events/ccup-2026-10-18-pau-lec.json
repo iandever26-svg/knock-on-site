@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-pau-lec",
  "matchId": "ccup-2026-10-18-pau-lec",
- "updated_at": "2026-10-18T12:27:25.696Z",
+ "updated_at": "2026-10-18T12:32:29.077Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604255/competitions/604255/plays?limit=400",
-   "fetched_at": "2026-10-18T12:27:25.696Z",
+   "fetched_at": "2026-10-18T12:32:29.077Z",
    "espn_event_id": "604255",
    "espn_league_id": 271937
   }
@@ -76,28 +76,43 @@
    }
   },
   {
-   "id": "espn-1899876",
-   "minute": 24,
+   "id": "espn-1899879",
+   "minute": 25,
    "period": "1H",
    "type": "try",
    "team": "home",
-   "player": "Sacha Zegueur",
+   "player": "Rodrigo Marta",
    "detail": "Try (8-10)",
-   "playerName": "Sacha Zegueur",
+   "playerName": "Rodrigo Marta",
    "label": "Try",
    "scoreAfter": {
     "home": 8,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1899880",
+   "minute": 26,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Axel Desperes",
+   "detail": "Conversion (10-10)",
+   "playerName": "Axel Desperes",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
     "away": 10
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 8,
+  "home": 10,
   "away": 10
  },
  "plays_summed": {
-  "home": 8,
+  "home": 10,
   "away": 10
  }
 }
