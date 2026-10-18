@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T15:00:27.741Z",
+ "updated_at": "2026-10-18T15:05:32.108Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T15:00:27.741Z",
+   "fetched_at": "2026-10-18T15:05:32.108Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -190,6 +190,36 @@
    }
   },
   {
+   "id": "espn-1900209",
+   "minute": 36,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Teddy Thomas",
+   "detail": "Yellow card (17-14)",
+   "playerName": "Teddy Thomas",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 17,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1900210",
+   "minute": 37,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Jack Yeandle",
+   "detail": "Try (17-19)",
+   "playerName": "Jack Yeandle",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 19
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -199,21 +229,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (24-14)",
+   "detail": "Penalty try (inferred, minute unknown) (24-19)",
    "scoreAfter": {
     "home": 24,
-    "away": 14
+    "away": 19
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 24,
-  "away": 14
+  "away": 19
  },
  "plays_summed": {
   "home": 17,
-  "away": 14
+  "away": 19
  },
  "inferred_penalty_tries": [
   {
