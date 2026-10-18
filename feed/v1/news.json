@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-18T22:07:19+01:00",
+  "generatedAt": "2026-10-19T00:10:08+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my6ogxsnor26",
+      "text": "Connacht future European champions, and Irelands 10 jersey gets more interesting_mixdown (🎙️@the2ndRow) #Rugby #Connacht #EuropeanChampions",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my6ogxsnor26",
+      "publishedAt": "2026-10-18T22:41:40.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib4f4gtdbchoatsb2twrz4y3dirrea5b5o6vd4ge3hgvrl46gh5fi",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2111925759094718687",
@@ -802,18 +814,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my56fee7am2c",
       "publishedAt": "2026-10-18T08:21:47.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifhl4vqr5xf4spx23yre2wii4k734wmfkmfy6yfkhjog3uf6nssg4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my55mzhr6a2i",
-      "text": "What’s Gone Wrong? 🔍 #rugby #women (📹@PirateRugbyPod) #rugby #womeninrugby #rugbylife",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my55mzhr6a2i",
-      "publishedAt": "2026-10-18T08:08:10.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigwhlrvjicqg5qcmacd46cqodcbrpzmciek5yu24omzvcm24bpzhq",
       "source": "rugbynewsplus.bsky.social"
     },
     {
