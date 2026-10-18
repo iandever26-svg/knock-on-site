@@ -96,6 +96,16 @@
       "eventsUpdatedAt": "2026-10-17T16:05:06.534Z"
     },
     {
+      "match_id": "ccup-2026-10-18-nor-car",
+      "kickoff": "2026-10-18T17:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T16:45:38.222Z"
+    },
+    {
       "match_id": "ccup-2026-10-18-pau-lec",
       "kickoff": "2026-10-18T13:00:00+01:00",
       "score": false,
@@ -193,7 +203,7 @@
       "lineup": false,
       "lineupUpdatedAt": null,
       "events": true,
-      "eventsUpdatedAt": "2026-10-18T16:40:34.417Z"
+      "eventsUpdatedAt": "2026-10-18T16:45:38.222Z"
     },
     {
       "match_id": "chcup-2026-10-18-har-van",

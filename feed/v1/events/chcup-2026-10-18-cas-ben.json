@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-cas-ben",
  "matchId": "chcup-2026-10-18-cas-ben",
- "updated_at": "2026-10-18T16:40:34.417Z",
+ "updated_at": "2026-10-18T16:45:38.222Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604317/competitions/604317/plays?limit=400",
-   "fetched_at": "2026-10-18T16:40:34.417Z",
+   "fetched_at": "2026-10-18T16:45:38.222Z",
    "espn_event_id": "604317",
    "espn_league_id": 272073
   }
@@ -29,6 +29,18 @@
     "home": 3,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1900268",
+   "minute": 10,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Giosue Zilocchi",
+   "detail": "replaces Simone Ferrari",
+   "playerOn": "Giosue Zilocchi",
+   "playerOff": "Simone Ferrari",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
