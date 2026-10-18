@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-nor-car",
  "matchId": "ccup-2026-10-18-nor-car",
- "updated_at": "2026-10-18T17:13:00.142Z",
+ "updated_at": "2026-10-18T17:18:03.907Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604257/competitions/604257/plays?limit=400",
-   "fetched_at": "2026-10-18T17:13:00.142Z",
+   "fetched_at": "2026-10-18T17:18:03.907Z",
    "espn_event_id": "604257",
    "espn_league_id": 271937
   }
