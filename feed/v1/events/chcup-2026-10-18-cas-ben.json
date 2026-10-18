@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-cas-ben",
  "matchId": "chcup-2026-10-18-cas-ben",
- "updated_at": "2026-10-18T17:35:04.860Z",
+ "updated_at": "2026-10-18T17:40:09.090Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604317/competitions/604317/plays?limit=400",
-   "fetched_at": "2026-10-18T17:35:04.860Z",
+   "fetched_at": "2026-10-18T17:40:09.090Z",
    "espn_event_id": "604317",
    "espn_league_id": 272073
   }
@@ -68,6 +68,45 @@
     "home": 8,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1900277-cm",
+   "minute": 32,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (8-0)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 8,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1900286",
+   "minute": 44,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mattia Midena",
+   "detail": "replaces Giulio Marini",
+   "playerOn": "Mattia Midena",
+   "playerOff": "Giulio Marini",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900288",
+   "minute": 44,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Onisi Ratave",
+   "detail": "replaces Francois Carlo Mey",
+   "playerOn": "Onisi Ratave",
+   "playerOff": "Francois Carlo Mey",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
