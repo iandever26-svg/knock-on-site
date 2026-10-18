@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T14:45:12.259Z",
+ "updated_at": "2026-10-18T14:50:15.041Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T14:45:12.259Z",
+   "fetched_at": "2026-10-18T14:50:15.041Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -133,6 +133,36 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1900204",
+   "minute": 24,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Joshua Brennan",
+   "detail": "Try (10-14)",
+   "playerName": "Joshua Brennan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1900205",
+   "minute": 25,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Romain Ntamack",
+   "detail": "Conversion (12-14)",
+   "playerName": "Romain Ntamack",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 14
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -142,20 +172,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (12-14)",
+   "detail": "Penalty try (inferred, minute unknown) (19-14)",
    "scoreAfter": {
-    "home": 12,
+    "home": 19,
     "away": 14
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
+  "home": 19,
   "away": 14
  },
  "plays_summed": {
-  "home": 5,
+  "home": 12,
   "away": 14
  },
  "inferred_penalty_tries": [
