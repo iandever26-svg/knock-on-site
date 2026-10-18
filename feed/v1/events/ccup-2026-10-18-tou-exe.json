@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T14:30:03.615Z",
+ "updated_at": "2026-10-18T14:40:09.018Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T14:30:03.615Z",
+   "fetched_at": "2026-10-18T14:40:09.018Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -76,6 +76,36 @@
    }
   },
   {
+   "id": "espn-1900196",
+   "minute": 16,
+   "period": "1H",
+   "type": "red_card",
+   "team": "home",
+   "player": "Rodrigue Neti",
+   "detail": "Red card (5-7)",
+   "playerName": "Rodrigue Neti",
+   "label": "Red card",
+   "scoreAfter": {
+    "home": 5,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1900197",
+   "minute": 18,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Zack Wimbush",
+   "detail": "Try (5-12)",
+   "playerName": "Zack Wimbush",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 12
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -85,21 +115,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (12-7)",
+   "detail": "Penalty try (inferred, minute unknown) (12-12)",
    "scoreAfter": {
     "home": 12,
-    "away": 7
+    "away": 12
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 12,
-  "away": 7
+  "away": 12
  },
  "plays_summed": {
   "home": 5,
-  "away": 7
+  "away": 12
  },
  "inferred_penalty_tries": [
   {
