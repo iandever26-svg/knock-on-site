@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-har-van",
  "matchId": "chcup-2026-10-18-har-van",
- "updated_at": "2026-10-18T12:53:46.589Z",
+ "updated_at": "2026-10-18T13:08:54.953Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604316/competitions/604316/plays?limit=400",
-   "fetched_at": "2026-10-18T12:53:46.589Z",
+   "fetched_at": "2026-10-18T13:08:54.953Z",
    "espn_event_id": "604316",
    "espn_league_id": 272073
   }
@@ -194,15 +194,72 @@
     "home": 26,
     "away": 14
    }
+  },
+  {
+   "id": "espn-1899916-cm",
+   "minute": 43,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (26-14)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 26,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1899919",
+   "minute": 43,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Enzo Benmegal",
+   "detail": "Try (26-19)",
+   "playerName": "Enzo Benmegal",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1899919-cm",
+   "minute": 43,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (26-19)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 26,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1899924",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Pedro Delgado",
+   "detail": "replaces Ollie Streeter",
+   "playerOn": "Pedro Delgado",
+   "playerOff": "Ollie Streeter",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 26,
-  "away": 14
+  "away": 19
  },
  "plays_summed": {
   "home": 26,
-  "away": 14
+  "away": 19
  }
 }

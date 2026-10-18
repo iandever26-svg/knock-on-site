@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-bay-che",
  "matchId": "chcup-2026-10-18-bay-che",
- "updated_at": "2026-10-18T12:53:46.589Z",
+ "updated_at": "2026-10-18T13:08:54.953Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604315/competitions/604315/plays?limit=400",
-   "fetched_at": "2026-10-18T12:53:46.589Z",
+   "fetched_at": "2026-10-18T13:08:54.953Z",
    "espn_event_id": "604315",
    "espn_league_id": 272073
   }
@@ -179,6 +179,57 @@
     "home": 22,
     "away": 13
    }
+  },
+  {
+   "id": "espn-1899917-cm",
+   "minute": 38,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (22-13)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 22,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1899926",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Swan Cormenier",
+   "detail": "replaces Ignacio Calles",
+   "playerOn": "Swan Cormenier",
+   "playerOff": "Ignacio Calles",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899920",
+   "minute": 43,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tebogo Nkosi",
+   "detail": "replaces Matome Manyama",
+   "playerOn": "Tebogo Nkosi",
+   "playerOff": "Matome Manyama",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899922",
+   "minute": 43,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Erich Visser",
+   "detail": "replaces Faf de Klerk",
+   "playerOn": "Erich Visser",
+   "playerOff": "Faf de Klerk",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
