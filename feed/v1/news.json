@@ -1,8 +1,36 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-18T12:07:11+01:00",
+  "generatedAt": "2026-10-18T13:07:19+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2111789400229380267",
+      "text": "Abrazos que lo dicen todo. 🫂\n\nGracias por acompañarnos en casa paso. 🏉\n\n¡Feliz día, Ma! 🫶 https://t.co/iCOTezzzRj",
+      "author": "Los Pumas",
+      "handle": "lospumas",
+      "avatar": "https://pbs.twimg.com/profile_images/1688654044108103681/bad2JdFU_bigger.png",
+      "url": "https://x.com/lospumas/status/2111789400229380267",
+      "publishedAt": "2026-10-18T12:00:02.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUwe-uNXcAEGCfb.jpg",
+      "teamIds": [
+        "argentina"
+      ],
+      "source": "x:lospumas"
+    },
+    {
+      "type": "x",
+      "id": "x:2111785075998142954",
+      "text": "Harlequins whipping out the big dogs for Round 1 💪\n\nWatch live on @premsportstv @beinsports @florugby and EPCR TV\n\n#ChallengeCupRugby https://t.co/GUwrC4DXUw",
+      "author": "EPCR Challenge Cup",
+      "handle": "ChallengeCup_",
+      "avatar": "https://pbs.twimg.com/profile_images/1443878359226896423/Otikwf_N_bigger.jpg",
+      "url": "https://x.com/ChallengeCup_/status/2111785075998142954",
+      "publishedAt": "2026-10-18T11:42:51.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU6RVf1XEAA__Vm.jpg",
+      "teamIds": [],
+      "source": "x:ChallengeCup_"
+    },
     {
       "type": "x",
       "id": "x:2111775577908904086",
@@ -671,36 +699,6 @@
         "australia"
       ],
       "source": "x:wallabies"
-    },
-    {
-      "type": "x",
-      "id": "x:2111612670239707439",
-      "text": "Nella prima delle due sfide della serie tra USA e #Italrugby sono le statunitensi a vincere 36-27.\nLa squadra di Sciamanna spreca tante occasioni nel primo tempo, poi nella ripresa arriva una grande rimonta che però non basta 👉 https://t.co/29RFLRgook \n\n#USAvITA #WXV\n#insieme",
-      "author": "Italrugby",
-      "handle": "Federugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2111408340395823104/ZbLNJe9a_bigger.jpg",
-      "url": "https://x.com/Federugby/status/2111612670239707439",
-      "publishedAt": "2026-10-18T00:17:47.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "italy"
-      ],
-      "source": "x:Federugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2111609032305750368",
-      "text": "#Italrugby sconfitta a Mansfield.\nAppuntamento a sabato 24 ottobre per il secondo incontro #USAvITA \n\n#WXV #Italrugby\n#insieme #rugbypassioneitaliana https://t.co/hiXW7idHVw",
-      "author": "Italrugby",
-      "handle": "Federugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2111408340395823104/ZbLNJe9a_bigger.jpg",
-      "url": "https://x.com/Federugby/status/2111609032305750368",
-      "publishedAt": "2026-10-18T00:03:19.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU3xMjBXoAAWWFt.jpg",
-      "teamIds": [
-        "italy"
-      ],
-      "source": "x:Federugby"
     },
     {
       "type": "bluesky",
