@@ -106,6 +106,16 @@
       "eventsUpdatedAt": "2026-10-18T13:58:12.061Z"
     },
     {
+      "match_id": "ccup-2026-10-18-tou-exe",
+      "kickoff": "2026-10-18T15:15:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T14:19:56.570Z"
+    },
+    {
       "match_id": "chcup-2026-10-16-dra-per",
       "kickoff": "2026-10-16T20:00:00+01:00",
       "score": false,

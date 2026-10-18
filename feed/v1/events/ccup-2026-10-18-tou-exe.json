@@ -1,0 +1,58 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ccup-2026-10-18-tou-exe",
+ "matchId": "ccup-2026-10-18-tou-exe",
+ "updated_at": "2026-10-18T14:19:56.570Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
+   "fetched_at": "2026-10-18T14:19:56.570Z",
+   "espn_event_id": "604256",
+   "espn_league_id": 271937
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1900191",
+   "minute": 2,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Zack Wimbush",
+   "detail": "Try (0-5)",
+   "playerName": "Zack Wimbush",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1900192",
+   "minute": 3,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Henry Slade",
+   "detail": "Conversion (0-7)",
+   "playerName": "Henry Slade",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 7
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 0,
+  "away": 7
+ },
+ "plays_summed": {
+  "home": 0,
+  "away": 7
+ }
+}
