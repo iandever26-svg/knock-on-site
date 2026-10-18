@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-bay-che",
  "matchId": "chcup-2026-10-18-bay-che",
- "updated_at": "2026-10-18T13:13:58.611Z",
+ "updated_at": "2026-10-18T13:19:02.549Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604315/competitions/604315/plays?limit=400",
-   "fetched_at": "2026-10-18T13:13:58.611Z",
+   "fetched_at": "2026-10-18T13:19:02.549Z",
    "espn_event_id": "604315",
    "espn_league_id": 272073
   }
@@ -260,15 +260,57 @@
     "home": 22,
     "away": 20
    }
+  },
+  {
+   "id": "espn-1899966",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom Spring",
+   "detail": "replaces Yohan Orabe",
+   "playerOn": "Tom Spring",
+   "playerOff": "Yohan Orabe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899968",
+   "minute": 52,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Louis van der Westhuizen",
+   "detail": "Try (22-25)",
+   "playerName": "Louis van der Westhuizen",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1899969",
+   "minute": 53,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Tiaan Swanepoel",
+   "detail": "Conversion (22-27)",
+   "playerName": "Tiaan Swanepoel",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 27
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 22,
-  "away": 20
+  "away": 27
  },
  "plays_summed": {
   "home": 22,
-  "away": 20
+  "away": 27
  }
 }
