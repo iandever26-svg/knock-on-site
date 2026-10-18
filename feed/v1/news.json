@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-18T03:07:10+01:00",
+  "generatedAt": "2026-10-18T04:07:46+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
     {
@@ -318,6 +318,21 @@
         "connacht"
       ],
       "source": "x:connachtrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2111550779823702190",
+      "text": "A defeat on the road for the Jesters in our second development game of the season. https://t.co/6vIHBiGhF3",
+      "author": "Harlequins 🃏",
+      "handle": "Harlequins",
+      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
+      "url": "https://x.com/Harlequins/status/2111550779823702190",
+      "publishedAt": "2026-10-17T20:11:51.000Z",
+      "thumbnail": null,
+      "teamIds": [
+        "harlequins"
+      ],
+      "source": "x:Harlequins"
     },
     {
       "type": "x",
@@ -699,21 +714,6 @@
         "vannes"
       ],
       "source": "x:RugbyClubVannes"
-    },
-    {
-      "type": "x",
-      "id": "x:2111512153647988866",
-      "text": "One more time with feeling. #inittogether https://t.co/1rgGU8Z9z5",
-      "author": "DHL Stormers",
-      "handle": "THESTORMERS",
-      "avatar": "https://pbs.twimg.com/profile_images/2109556734381498368/CXO-R1_p_bigger.jpg",
-      "url": "https://x.com/THESTORMERS/status/2111512153647988866",
-      "publishedAt": "2026-10-17T17:38:22.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111510752582307840/img/2eSm_a1uXasVB_9O.jpg",
-      "teamIds": [
-        "stormers"
-      ],
-      "source": "x:THESTORMERS"
     },
     {
       "type": "bluesky",
@@ -1310,14 +1310,14 @@
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
       "ok": false,
-      "error": "HTTP 500",
+      "error": "HTTP 404",
       "kept": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
       "ok": false,
-      "error": "HTTP 500",
+      "error": "HTTP 404",
       "kept": 0
     },
     {
