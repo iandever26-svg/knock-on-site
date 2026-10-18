@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-har-van",
  "matchId": "chcup-2026-10-18-har-van",
- "updated_at": "2026-10-18T12:12:12.629Z",
+ "updated_at": "2026-10-18T12:17:17.501Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 14-0, final 12-0; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604316/competitions/604316/plays?limit=400",
-   "fetched_at": "2026-10-18T12:12:12.629Z",
+   "fetched_at": "2026-10-18T12:17:17.501Z",
    "espn_event_id": "604316",
    "espn_league_id": 272073
   }
@@ -22,13 +23,9 @@
    "type": "try",
    "team": "home",
    "player": "Cadan Murley",
-   "detail": "Try (5-0)",
+   "detail": "Try",
    "playerName": "Cadan Murley",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 0
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1899863",
@@ -37,22 +34,44 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Marcus Smith",
-   "detail": "Conversion (7-0)",
+   "detail": "Conversion",
    "playerName": "Marcus Smith",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 0
-   }
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1899868",
+   "minute": 16,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Try",
+   "playerName": "Marcus Smith",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1899869",
+   "minute": 17,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Conversion",
+   "playerName": "Marcus Smith",
+   "label": "Conversion"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 12,
   "away": 0
  },
  "plays_summed": {
-  "home": 7,
+  "home": 14,
+  "away": 0
+ },
+ "unexplained_gap": {
+  "home": -2,
   "away": 0
  }
 }
