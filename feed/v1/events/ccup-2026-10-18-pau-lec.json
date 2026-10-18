@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-pau-lec",
  "matchId": "ccup-2026-10-18-pau-lec",
- "updated_at": "2026-10-18T13:48:02.364Z",
+ "updated_at": "2026-10-18T13:53:07.553Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604255/competitions/604255/plays?limit=400",
-   "fetched_at": "2026-10-18T13:48:02.364Z",
+   "fetched_at": "2026-10-18T13:53:07.553Z",
    "espn_event_id": "604255",
    "espn_league_id": 271937
   }
@@ -392,15 +392,54 @@
     "home": 32,
     "away": 17
    }
+  },
+  {
+   "id": "espn-1900142",
+   "minute": 73,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Axel Desperes",
+   "detail": "Conversion (34-17)",
+   "playerName": "Axel Desperes",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 34,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1900143",
+   "minute": 75,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Osian Thomas",
+   "detail": "replaces Olly Cracknell",
+   "playerOn": "Osian Thomas",
+   "playerOff": "Olly Cracknell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900148",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Quentin Valentino",
+   "detail": "replaces Clement Laporte",
+   "playerOn": "Quentin Valentino",
+   "playerOff": "Clement Laporte",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 32,
+  "home": 34,
   "away": 17
  },
  "plays_summed": {
-  "home": 32,
+  "home": 34,
   "away": 17
  }
 }
