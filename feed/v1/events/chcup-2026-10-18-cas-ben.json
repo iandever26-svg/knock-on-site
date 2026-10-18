@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-cas-ben",
  "matchId": "chcup-2026-10-18-cas-ben",
- "updated_at": "2026-10-18T18:21:09.739Z",
- "final": false,
+ "updated_at": "2026-10-18T18:26:14.641Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604317/competitions/604317/plays?limit=400",
-   "fetched_at": "2026-10-18T18:21:09.739Z",
+   "fetched_at": "2026-10-18T18:26:14.641Z",
    "espn_event_id": "604317",
    "espn_league_id": 272073
   }
@@ -311,15 +311,45 @@
    "playerOn": "Rhyno Smith",
    "playerOff": "Matt Gallagher",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900402",
+   "minute": 78,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Remy Baget",
+   "detail": "Try (16-9)",
+   "playerName": "Remy Baget",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 16,
+    "away": 9
+   }
+  },
+  {
+   "id": "espn-1900403",
+   "minute": 79,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Louis Le Brun",
+   "detail": "Conversion (18-9)",
+   "playerName": "Louis Le Brun",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 18,
+    "away": 9
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 11,
+  "home": 18,
   "away": 9
  },
  "plays_summed": {
-  "home": 11,
+  "home": 18,
   "away": 9
  }
 }
