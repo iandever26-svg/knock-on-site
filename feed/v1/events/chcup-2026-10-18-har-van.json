@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-har-van",
  "matchId": "chcup-2026-10-18-har-van",
- "updated_at": "2026-10-18T12:17:17.501Z",
+ "updated_at": "2026-10-18T12:22:21.122Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 14-0, final 12-0; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604316/competitions/604316/plays?limit=400",
-   "fetched_at": "2026-10-18T12:17:17.501Z",
+   "fetched_at": "2026-10-18T12:22:21.122Z",
    "espn_event_id": "604316",
    "espn_league_id": 272073
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "home",
    "player": "Cadan Murley",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Cadan Murley",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1899863",
@@ -34,9 +37,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Marcus Smith",
-   "detail": "Conversion",
+   "detail": "Conversion (7-0)",
    "playerName": "Marcus Smith",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
   },
   {
    "id": "espn-1899868",
@@ -45,9 +52,13 @@
    "type": "try",
    "team": "home",
    "player": "Marcus Smith",
-   "detail": "Try",
+   "detail": "Try (12-0)",
    "playerName": "Marcus Smith",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
   },
   {
    "id": "espn-1899869",
@@ -56,22 +67,22 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Marcus Smith",
-   "detail": "Conversion",
+   "detail": "Conversion (14-0)",
    "playerName": "Marcus Smith",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
+  "home": 14,
   "away": 0
  },
  "plays_summed": {
   "home": 14,
-  "away": 0
- },
- "unexplained_gap": {
-  "home": -2,
   "away": 0
  }
 }
