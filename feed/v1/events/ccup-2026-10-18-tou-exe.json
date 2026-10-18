@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T14:50:15.041Z",
+ "updated_at": "2026-10-18T15:00:27.741Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T14:50:15.041Z",
+   "fetched_at": "2026-10-18T15:00:27.741Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -163,6 +163,33 @@
    }
   },
   {
+   "id": "espn-1900207",
+   "minute": 32,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben Hammersley",
+   "detail": "replaces Tommy Wyatt",
+   "playerOn": "Ben Hammersley",
+   "playerOff": "Tommy Wyatt",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900206",
+   "minute": 33,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Teddy Thomas",
+   "detail": "Try (17-14)",
+   "playerName": "Teddy Thomas",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 14
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -172,20 +199,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (19-14)",
+   "detail": "Penalty try (inferred, minute unknown) (24-14)",
    "scoreAfter": {
-    "home": 19,
+    "home": 24,
     "away": 14
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 19,
+  "home": 24,
   "away": 14
  },
  "plays_summed": {
-  "home": 12,
+  "home": 17,
   "away": 14
  },
  "inferred_penalty_tries": [
