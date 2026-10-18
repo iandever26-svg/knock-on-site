@@ -1,8 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-18T04:07:46+01:00",
+  "generatedAt": "2026-10-18T05:07:13+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2111623298626781526",
+      "text": "Sydney, you were unreal! 🦘 https://t.co/GzexwYfnCM",
+      "author": "Wallabies",
+      "handle": "wallabies",
+      "avatar": "https://pbs.twimg.com/profile_images/2064491957582499840/QOli76tK_bigger.jpg",
+      "url": "https://x.com/wallabies/status/2111623298626781526",
+      "publishedAt": "2026-10-18T01:00:01.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU32pf8bkAARU1w.jpg",
+      "teamIds": [
+        "australia"
+      ],
+      "source": "x:wallabies"
+    },
+    {
+      "type": "x",
+      "id": "x:2111612670239707439",
+      "text": "Nella prima delle due sfide della serie tra USA e #Italrugby sono le statunitensi a vincere 36-27.\nLa squadra di Sciamanna spreca tante occasioni nel primo tempo, poi nella ripresa arriva una grande rimonta che però non basta 👉 https://t.co/29RFLRgook \n\n#USAvITA #WXV\n#insieme",
+      "author": "Italrugby",
+      "handle": "Federugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2111408340395823104/ZbLNJe9a_bigger.jpg",
+      "url": "https://x.com/Federugby/status/2111612670239707439",
+      "publishedAt": "2026-10-18T00:17:47.000Z",
+      "thumbnail": null,
+      "teamIds": [
+        "italy"
+      ],
+      "source": "x:Federugby"
+    },
     {
       "type": "x",
       "id": "x:2111609032305750368",
@@ -674,21 +704,6 @@
       "source": "x:Cardiff_Rugby"
     },
     {
-      "type": "x",
-      "id": "x:2111515497153908746",
-      "text": "Le 𝙙𝙪𝙚𝙡 se poursuit à Marcel Deflandre ! 😤\n\n#SRvLIO | #InvestecChampionsCup | #FievreSR https://t.co/92zqqSdtly",
-      "author": "Stade Rochelais",
-      "handle": "staderochelais",
-      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
-      "url": "https://x.com/staderochelais/status/2111515497153908746",
-      "publishedAt": "2026-10-17T17:51:39.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU2cHC7WEAA_gCM.jpg",
-      "teamIds": [
-        "la-rochelle"
-      ],
-      "source": "x:staderochelais"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3my3nh5fjxk2t",
       "text": "I swear the fans in the new stand blew that over the bar.\nSuper match.\n#CONvSAR",
@@ -699,21 +714,6 @@
       "publishedAt": "2026-10-17T17:45:53.819Z",
       "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2111513722938429873",
-      "text": "🙌 Il est le seul joueur à avoir porté notre maillot et celui des @Harlequins…le match de demain entre Bretons et Anglais comme un clin d’œil à 𝐅𝐫𝐚𝐧𝐜𝐢𝐬 𝐒𝐚𝐢𝐥𝐢 💙\n\n#FiertéBretonne https://t.co/lPtO3YQcOF",
-      "author": "Rugby Club Vannes",
-      "handle": "RugbyClubVannes",
-      "avatar": "https://pbs.twimg.com/profile_images/2109587393636433920/OMk2Ti3R_bigger.jpg",
-      "url": "https://x.com/RugbyClubVannes/status/2111513722938429873",
-      "publishedAt": "2026-10-17T17:44:36.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU2ahvMWoAAtW4F.jpg",
-      "teamIds": [
-        "vannes"
-      ],
-      "source": "x:RugbyClubVannes"
     },
     {
       "type": "bluesky",
