@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-pau-lec",
  "matchId": "ccup-2026-10-18-pau-lec",
- "updated_at": "2026-10-18T13:53:07.553Z",
- "final": false,
+ "updated_at": "2026-10-18T13:58:12.061Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604255/competitions/604255/plays?limit=400",
-   "fetched_at": "2026-10-18T13:53:07.553Z",
+   "fetched_at": "2026-10-18T13:58:12.061Z",
    "espn_event_id": "604255",
    "espn_league_id": 271937
   }
@@ -421,8 +421,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1900148",
-   "minute": 77,
+   "id": "espn-1900160",
+   "minute": 76,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -431,15 +431,45 @@
    "playerOn": "Quentin Valentino",
    "playerOff": "Clement Laporte",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900159",
+   "minute": 77,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Fabien Brau-Boirie",
+   "detail": "Try (39-17)",
+   "playerName": "Fabien Brau-Boirie",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 39,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1900162",
+   "minute": 78,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Axel Desperes",
+   "detail": "Conversion (41-17)",
+   "playerName": "Axel Desperes",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 41,
+    "away": 17
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 34,
+  "home": 41,
   "away": 17
  },
  "plays_summed": {
-  "home": 34,
+  "home": 41,
   "away": 17
  }
 }
