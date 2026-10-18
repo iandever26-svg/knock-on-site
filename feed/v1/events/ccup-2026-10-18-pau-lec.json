@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-pau-lec",
  "matchId": "ccup-2026-10-18-pau-lec",
- "updated_at": "2026-10-18T13:08:54.953Z",
+ "updated_at": "2026-10-18T13:13:58.611Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604255/competitions/604255/plays?limit=400",
-   "fetched_at": "2026-10-18T13:08:54.953Z",
+   "fetched_at": "2026-10-18T13:13:58.611Z",
    "espn_event_id": "604255",
    "espn_league_id": 271937
   }
@@ -146,15 +146,69 @@
    "playerOn": "Hugo Parrou",
    "playerOff": "Alexandre Etchebehere",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1899929",
+   "minute": 43,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Guram Papidze",
+   "detail": "replaces Jon Zabala",
+   "playerOn": "Guram Papidze",
+   "playerOff": "Jon Zabala",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899939",
+   "minute": 45,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Rodrigo Marta",
+   "detail": "Try (22-10)",
+   "playerName": "Rodrigo Marta",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1899946",
+   "minute": 46,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Axel Desperes",
+   "detail": "Conversion (24-10)",
+   "playerName": "Axel Desperes",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 24,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1899947",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Will Hurd",
+   "detail": "replaces Joel Sclavi",
+   "playerOn": "Will Hurd",
+   "playerOff": "Joel Sclavi",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 17,
+  "home": 24,
   "away": 10
  },
  "plays_summed": {
-  "home": 17,
+  "home": 24,
   "away": 10
  }
 }

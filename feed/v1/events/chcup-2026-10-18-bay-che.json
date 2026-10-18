@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-bay-che",
  "matchId": "chcup-2026-10-18-bay-che",
- "updated_at": "2026-10-18T13:08:54.953Z",
+ "updated_at": "2026-10-18T13:13:58.611Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604315/competitions/604315/plays?limit=400",
-   "fetched_at": "2026-10-18T13:08:54.953Z",
+   "fetched_at": "2026-10-18T13:13:58.611Z",
    "espn_event_id": "604315",
    "espn_league_id": 272073
   }
@@ -230,15 +230,45 @@
    "playerOn": "Erich Visser",
    "playerOff": "Faf de Klerk",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1899943",
+   "minute": 44,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Carel-Jan Coetzee",
+   "detail": "Try (22-18)",
+   "playerName": "Carel-Jan Coetzee",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1899944",
+   "minute": 45,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Tiaan Swanepoel",
+   "detail": "Conversion (22-20)",
+   "playerName": "Tiaan Swanepoel",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 20
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 22,
-  "away": 13
+  "away": 20
  },
  "plays_summed": {
   "home": 22,
-  "away": 13
+  "away": 20
  }
 }
