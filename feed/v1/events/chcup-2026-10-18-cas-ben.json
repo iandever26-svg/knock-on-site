@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-cas-ben",
  "matchId": "chcup-2026-10-18-cas-ben",
- "updated_at": "2026-10-18T17:00:51.060Z",
+ "updated_at": "2026-10-18T17:05:55.738Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604317/competitions/604317/plays?limit=400",
-   "fetched_at": "2026-10-18T17:00:51.060Z",
+   "fetched_at": "2026-10-18T17:05:55.738Z",
    "espn_event_id": "604317",
    "espn_league_id": 272073
   }
