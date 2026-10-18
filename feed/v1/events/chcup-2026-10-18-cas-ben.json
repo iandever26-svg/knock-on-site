@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-cas-ben",
  "matchId": "chcup-2026-10-18-cas-ben",
- "updated_at": "2026-10-18T18:15:55.340Z",
+ "updated_at": "2026-10-18T18:21:09.739Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604317/competitions/604317/plays?limit=400",
-   "fetched_at": "2026-10-18T18:15:55.340Z",
+   "fetched_at": "2026-10-18T18:21:09.739Z",
    "espn_event_id": "604317",
    "espn_league_id": 272073
   }
@@ -298,6 +298,18 @@
    "detail": "replaces Matias Medrano",
    "playerOn": "Ivan Nemer",
    "playerOff": "Matias Medrano",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900373",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Rhyno Smith",
+   "detail": "replaces Matt Gallagher",
+   "playerOn": "Rhyno Smith",
+   "playerOff": "Matt Gallagher",
    "label": "Substitution"
   }
  ],
