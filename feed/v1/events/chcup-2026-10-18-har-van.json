@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-har-van",
  "matchId": "chcup-2026-10-18-har-van",
- "updated_at": "2026-10-18T13:19:02.549Z",
+ "updated_at": "2026-10-18T13:24:05.908Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604316/competitions/604316/plays?limit=400",
-   "fetched_at": "2026-10-18T13:19:02.549Z",
+   "fetched_at": "2026-10-18T13:24:05.908Z",
    "espn_event_id": "604316",
    "espn_league_id": 272073
   }
@@ -352,6 +352,54 @@
    "detail": "replaces Rudi Brown",
    "playerOn": "Basile Paul",
    "playerOff": "Rudi Brown",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900017",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mikheil Alania",
+   "detail": "replaces Simione Kuruvoli",
+   "playerOn": "Mikheil Alania",
+   "playerOff": "Simione Kuruvoli",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900019",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Harry Browne",
+   "detail": "replaces Kieran Treadwell",
+   "playerOn": "Harry Browne",
+   "playerOff": "Kieran Treadwell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900021",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Harry Johnson-Holmes",
+   "detail": "replaces Will Hobson",
+   "playerOn": "Harry Johnson-Holmes",
+   "playerOff": "Will Hobson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900023",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Elliot Williams",
+   "detail": "replaces James Dun",
+   "playerOn": "Elliot Williams",
+   "playerOff": "James Dun",
    "label": "Substitution"
   }
  ],

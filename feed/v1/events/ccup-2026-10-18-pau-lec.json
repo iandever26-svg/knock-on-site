@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-pau-lec",
  "matchId": "ccup-2026-10-18-pau-lec",
- "updated_at": "2026-10-18T13:19:02.549Z",
+ "updated_at": "2026-10-18T13:24:05.908Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604255/competitions/604255/plays?limit=400",
-   "fetched_at": "2026-10-18T13:19:02.549Z",
+   "fetched_at": "2026-10-18T13:24:05.908Z",
    "espn_event_id": "604255",
    "espn_league_id": 271937
   }
@@ -199,6 +199,54 @@
    "detail": "replaces Joel Sclavi",
    "playerOn": "Will Hurd",
    "playerOff": "Joel Sclavi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900007",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Santiago Grondona",
+   "detail": "replaces Thomas Jolmes",
+   "playerOn": "Santiago Grondona",
+   "playerOff": "Thomas Jolmes",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899993",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Gabriel Hamer-Webb",
+   "detail": "replaces Adam Radwan",
+   "playerOn": "Gabriel Hamer-Webb",
+   "playerOff": "Adam Radwan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1899997",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "James Thompson",
+   "detail": "replaces Ollie Chessum",
+   "playerOn": "James Thompson",
+   "playerOff": "Ollie Chessum",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900001",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jack van Poortvliet",
+   "detail": "replaces Tom Whiteley",
+   "playerOn": "Jack van Poortvliet",
+   "playerOff": "Tom Whiteley",
    "label": "Substitution"
   }
  ],

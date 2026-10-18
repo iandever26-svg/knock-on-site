@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "chcup-2026-10-18-bay-che",
  "matchId": "chcup-2026-10-18-bay-che",
- "updated_at": "2026-10-18T13:19:02.549Z",
+ "updated_at": "2026-10-18T13:24:05.908Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/272073/events/604315/competitions/604315/plays?limit=400",
-   "fetched_at": "2026-10-18T13:19:02.549Z",
+   "fetched_at": "2026-10-18T13:24:05.908Z",
    "espn_event_id": "604315",
    "espn_league_id": 272073
   }
@@ -274,8 +274,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1899968",
-   "minute": 52,
+   "id": "espn-1899999",
+   "minute": 54,
    "period": "2H",
    "type": "try",
    "team": "away",
@@ -289,8 +289,32 @@
    }
   },
   {
-   "id": "espn-1899969",
-   "minute": 53,
+   "id": "espn-1900003",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Herschel Jantjies",
+   "detail": "replaces Baptiste Tilloles",
+   "playerOn": "Herschel Jantjies",
+   "playerOff": "Baptiste Tilloles",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900005",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lasha Macharashvili",
+   "detail": "replaces Luke Tagi",
+   "playerOn": "Lasha Macharashvili",
+   "playerOff": "Luke Tagi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900000",
+   "minute": 55,
    "period": "2H",
    "type": "conversion_made",
    "team": "away",
