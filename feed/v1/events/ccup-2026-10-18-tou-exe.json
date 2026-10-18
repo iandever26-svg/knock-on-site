@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ccup-2026-10-18-tou-exe",
  "matchId": "ccup-2026-10-18-tou-exe",
- "updated_at": "2026-10-18T15:33:58.505Z",
+ "updated_at": "2026-10-18T15:39:07.935Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/271937/events/604256/competitions/604256/plays?limit=400",
-   "fetched_at": "2026-10-18T15:33:58.505Z",
+   "fetched_at": "2026-10-18T15:39:07.935Z",
    "espn_event_id": "604256",
    "espn_league_id": 271937
   }
@@ -319,6 +319,75 @@
    }
   },
   {
+   "id": "espn-1900219",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Romeo Bonnard Martin",
+   "detail": "replaces Joshua Brennan",
+   "playerOn": "Romeo Bonnard Martin",
+   "playerOff": "Joshua Brennan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900221",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Peato Mauvaka",
+   "detail": "replaces Thomas Lacombre",
+   "playerOn": "Peato Mauvaka",
+   "playerOff": "Thomas Lacombre",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900223",
+   "minute": 53,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Matias Remue",
+   "detail": "Try (22-33)",
+   "playerName": "Matias Remue",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 33
+   }
+  },
+  {
+   "id": "espn-1900224",
+   "minute": 54,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Romain Ntamack",
+   "detail": "Conversion (24-33)",
+   "playerName": "Romain Ntamack",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 24,
+    "away": 33
+   }
+  },
+  {
+   "id": "espn-1900225",
+   "minute": 55,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Romain Ntamack",
+   "detail": "Try (29-33)",
+   "playerName": "Romain Ntamack",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 33
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -328,20 +397,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (24-33)",
+   "detail": "Penalty try (inferred, minute unknown) (36-33)",
    "scoreAfter": {
-    "home": 24,
+    "home": 36,
     "away": 33
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 24,
+  "home": 36,
   "away": 33
  },
  "plays_summed": {
-  "home": 17,
+  "home": 29,
   "away": 33
  },
  "inferred_penalty_tries": [
