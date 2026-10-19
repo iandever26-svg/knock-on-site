@@ -1,8 +1,134 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-19T12:07:04+01:00",
+  "generatedAt": "2026-10-19T13:07:20+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2112151778493952056",
+      "text": "🐉 𝙋𝘼𝙍𝙏𝙉𝙀𝙍𝙎𝙃𝙄𝙋 | Dragons RFC & @cardiffmet have announced a formal partnership that will strengthen links between higher education and professional rugby, creating new opportunities for students, coaches, players and staff.\n\n▶️ https://t.co/BoJHpUmZDL\n\n#WeAreGwentRugby https://t.co/CQ76glgU97",
+      "author": "Dragons RFC 🐉",
+      "handle": "dragonsrfc",
+      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
+      "url": "https://x.com/dragonsrfc/status/2112151778493952056",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU_b8zPWYAAwtdk.jpg",
+      "teamIds": [
+        "dragons"
+      ],
+      "source": "x:dragonsrfc"
+    },
+    {
+      "type": "x",
+      "id": "x:2112150006924779649",
+      "text": "This week's @LunoGlobal moment of the match. https://t.co/GYLFdpDqMD",
+      "author": "Official Blue Bulls",
+      "handle": "BlueBullsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
+      "url": "https://x.com/BlueBullsRugby/status/2112150006924779649",
+      "publishedAt": "2026-10-19T11:52:58.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112149385064710144/img/JNAPhiuJve4sg9VS.jpg",
+      "teamIds": [
+        "bulls"
+      ],
+      "source": "x:BlueBullsRugby"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mya2eaqiof2w",
+      "text": "🆕 Jordan Larmour will be further assessed as he reintegrates into training.\n📰 Read the full injury report on leinsterrugby.ie or through the link in our story",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3mya2eaqiof2w",
+      "publishedAt": "2026-10-19T11:47:34.152Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreieo5gbfyhr7b4dnzae67bkfqga5kydgxltx6uem627pccw5hoy6gy",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112148649605988638",
+      "text": "🆕 Jordan Larmour will be further assessed as he reintegrates into training. \n\n📰 Read the full injury report on https://t.co/gk981o0siT https://t.co/VYuKE0CjTn",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1993085605345968128/98zCXa8C_bigger.jpg",
+      "url": "https://x.com/leinsterrugby/status/2112148649605988638",
+      "publishedAt": "2026-10-19T11:47:34.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU_cAG9WAAALGso.jpg",
+      "teamIds": [
+        "leinster"
+      ],
+      "source": "x:leinsterrugby"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my7z2ljxqs2c",
+      "text": "A summary of Johan Mulder's last two weeks;\nLeinster: Meant to have a weekend off, training injury to Ellis Bevan means he's travelling and on the bench\nNorthampton: Meant to be on the bench but Aled Davies is ill so starts and plays 78 minutes\nWas excellent yesterday as well.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my7z2ljxqs2c",
+      "publishedAt": "2026-10-19T11:24:16.309Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreiedjazrwtpfxhic22iokdxofwwv5i3faruiznzp7iazkumgibrjp4/thumbnail.jpg",
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3my7ynvaexs2d",
+      "text": "Super Rygbi Cymru Wrap Up 🏉\nCheck out last weekend's results and the next fixtures for\nAberavon, Bridgend Ravens and Swansea RFC 👇\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3my7ynvaexs2d",
+      "publishedAt": "2026-10-19T11:17:10.266Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreibeoftua26vhfmdp37z3mx3h7wpgxoiflg7tpbxd5z3v4dl2nugsq",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112140976533754095",
+      "text": "Super Rygbi Cymru Wrap Up 🏉\n\nCheck out last weekend's results and the next fixtures for @AberavonRugby, @bridgendravens and @SwanseaRFC 👇\n\n#OurBloodIsBlack https://t.co/Ue4ro1GX7F",
+      "author": "Ospreys",
+      "handle": "ospreys",
+      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
+      "url": "https://x.com/ospreys/status/2112140976533754095",
+      "publishedAt": "2026-10-19T11:17:05.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU_TzQBWAAA41-g.jpg",
+      "teamIds": [
+        "ospreys"
+      ],
+      "source": "x:ospreys"
+    },
+    {
+      "type": "x",
+      "id": "x:2112138888429129983",
+      "text": "A breathless European classic 😤\n\nThe numbers behind the Hollywoodbets Sharks' win in Lyon 🦈📊\n\n#HollywoodbetsSharks #EPCRChallengeCup https://t.co/CMx9Ds8pb5",
+      "author": "Sharks Rugby Club",
+      "handle": "SharksRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2108105864909312000/tbCzWA0T_bigger.jpg",
+      "url": "https://x.com/SharksRugby/status/2112138888429129983",
+      "publishedAt": "2026-10-19T11:08:47.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU_Sz4zWwAAs7qN.jpg",
+      "teamIds": [
+        "sharks"
+      ],
+      "source": "x:SharksRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112137936787444012",
+      "text": "🐉 𝙎𝙆𝙄𝙇𝙇𝙎 𝘾𝘼𝙈𝙋 | Rio and Brodie are coming - are you?\n\n@DRA_Community are 🔙 with Skills Camps this October half-term - starting at @rodneyparade a week today! ⤵️  \n\nBOOK HERE ▶️ https://t.co/3dvugQG111\n\n  #WeAreGwentRugby https://t.co/qsiXLQz5kJ",
+      "author": "Dragons RFC 🐉",
+      "handle": "dragonsrfc",
+      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
+      "url": "https://x.com/dragonsrfc/status/2112137936787444012",
+      "publishedAt": "2026-10-19T11:05:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU_FSipX0AAqe2L.jpg",
+      "teamIds": [
+        "dragons"
+      ],
+      "source": "x:dragonsrfc"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3my7xwz6rtc2d",
@@ -565,66 +691,6 @@
       "source": "x:ChallengeCup_"
     },
     {
-      "type": "x",
-      "id": "x:2112091385717215234",
-      "text": "2⃣2⃣ today! 🎈\n\nLá breithe sona duit! 🎂🥳\n\n#OneConnacht https://t.co/q7AR3uaEio",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
-      "url": "https://x.com/connachtrugby/status/2112091385717215234",
-      "publishedAt": "2026-10-19T08:00:01.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HTSl38uWMAA8_hl.jpg",
-      "teamIds": [
-        "connacht"
-      ],
-      "source": "x:connachtrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112085772169879690",
-      "text": "Cathal Forde 🚍\n\n#OneConnacht | 📸 @tomohanlonmedia https://t.co/ouWWaDhC4w",
-      "author": "Connacht Rugby",
-      "handle": "connachtrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2065398657311023104/Dindm9QL_bigger.jpg",
-      "url": "https://x.com/connachtrugby/status/2112085772169879690",
-      "publishedAt": "2026-10-19T07:37:43.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU-i0J8XoAAftmi.jpg",
-      "teamIds": [
-        "connacht"
-      ],
-      "source": "x:connachtrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112085726703828992",
-      "text": "Still not over that Vodacom Bulls performance.\n\n📸@AntonGeyser https://t.co/x770eViwAR",
-      "author": "Official Blue Bulls",
-      "handle": "BlueBullsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
-      "url": "https://x.com/BlueBullsRugby/status/2112085726703828992",
-      "publishedAt": "2026-10-19T07:37:32.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU-io-nW0AErT3W.jpg",
-      "teamIds": [
-        "bulls"
-      ],
-      "source": "x:BlueBullsRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112084595822793056",
-      "text": "𝗔𝗟𝗟 𝗢𝗨𝗥 𝗬𝗘𝗦𝗧𝗘𝗥𝗗𝗔𝗬𝗦\n\n1976-77 and all that (Part 2)\n\nOver the course of this season Kingsley Hyland looks back 50 years to chronicle the club’s record-breaking campaign, in which only two of 36 matches were lost – by far the most successful season in the pre-1995 https://t.co/blQOmPxRQW",
-      "author": "Newcastle Red Bulls",
-      "handle": "NCL_RedBulls",
-      "avatar": "https://pbs.twimg.com/profile_images/1965721553179443200/SJgAkoMY_bigger.jpg",
-      "url": "https://x.com/NCL_RedBulls/status/2112084595822793056",
-      "publishedAt": "2026-10-19T07:33:02.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU-hvf4XUAEWWKu.jpg",
-      "teamIds": [
-        "newcastle"
-      ],
-      "source": "x:NCL_RedBulls"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my7lz4grnf2w",
       "text": "\"Tell that to the lungs...\"\nCaptain Kyle Steyn was delighted to make his return in Glasgow's bonus point win against Sale Sharks on Saturday\n🔗 shorturl.at/906BM",
@@ -635,21 +701,6 @@
       "publishedAt": "2026-10-19T07:30:47.522Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreico6eptdptt23f2i6iklxvxsl3hna67r63ciohzfe43jyctmbgk4i",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2112083831104704740",
-      "text": "🎤 𝙏𝙄𝙉𝙐𝙎 𝙄𝙉𝙏𝙀𝙍𝙑𝙄𝙀𝙒 | Hear from Dragons flyhallf Tinus de Beer who switched the 1️⃣0️⃣ jersey to 1️⃣5️⃣ for our win against Perpignan. 💪\n\n#WeAreGwentRugby https://t.co/uNHDS6CxJt",
-      "author": "Dragons RFC 🐉",
-      "handle": "dragonsrfc",
-      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
-      "url": "https://x.com/dragonsrfc/status/2112083831104704740",
-      "publishedAt": "2026-10-19T07:30:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111864375585689601/img/YvCq4DVaDHT51AHh.jpg",
-      "teamIds": [
-        "dragons"
-      ],
-      "source": "x:dragonsrfc"
     },
     {
       "type": "bluesky",
@@ -674,21 +725,6 @@
       "publishedAt": "2026-10-19T07:05:46.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidotpwskougdz42y4x5msjc6id23ng2y4skcsdmpaq6bbiv3btch4",
       "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2112077158914891817",
-      "text": "🏉 Londres vous attend peut-être… 👀\n\nFaites vos pronostics sur les rencontres du Nations Championship en novembre et tentez de gagner vos places pour le week-end des finales à Londres !🍀\n\n👉 https://t.co/pcw87TWOsM https://t.co/PldTzVcoGJ",
-      "author": "France Rugby",
-      "handle": "FranceRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1921860349239734272/6ugkNYIn_bigger.jpg",
-      "url": "https://x.com/FranceRugby/status/2112077158914891817",
-      "publishedAt": "2026-10-19T07:03:29.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU-a1K6XkAA64uO.jpg",
-      "teamIds": [
-        "france"
-      ],
-      "source": "x:FranceRugby"
     },
     {
       "type": "youtube",
@@ -782,18 +818,6 @@
       "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
       "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my64pdv3ys27",
       "publishedAt": "2026-10-18T17:24:14.678Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my5yh7tt222z",
-      "text": "A change for Cardiff as Aled Davies (illness) withdraws.\nJohan Mulder starts with Sion Davies set for a debut off the bench.\nGreat opportunity for Sion Davies.\n#NORvCAR",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my5yh7tt222z",
-      "publishedAt": "2026-10-18T16:08:07.040Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
     },
@@ -1050,18 +1074,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3my3hqozkyo2v",
-      "text": "Kicking off the new Champions Cup campaign with a bonus point at the Stade Marcel-Michelin! 🔥\n#ASMvLEI",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3my3hqozkyo2v",
-      "publishedAt": "2026-10-17T16:03:51.734Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreido3qwx5uali6jqbxqz57y5mysjnz2jli5d6tmz5n3y3bemxhqwvy",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3my3hljkjgs2t",
       "text": "Delighted with that, we certainly found the Euro mode switch.  Particularly impressed with linespeed & set pieces, though Sam's superb tracking at the start of 2nd half set us up.  Conan's arm def the biggest worry, fingers crossed.  #ASMvLEI",
       "author": "Harpin' On Rugby",
@@ -1130,18 +1142,6 @@
       "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3my3bbzvj2c2k",
       "publishedAt": "2026-10-17T14:08:17.492Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreieiblhicc7d43zhhy7b7o6vxnwsikfkdgmlx4wy4ghbycnyzavlaa",
-      "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3my3aou67zc2k",
-      "text": "Victory in Tbilisi!\nOur European journey starts with a W 🙌\n🦁 BLA 14 - 39 OSP 🖤\n#BLAvOSP | #ChallengeCupRugby | #OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3my3aou67zc2k",
-      "publishedAt": "2026-10-17T13:57:33.951Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreia3rcwocjfwmr4dckbc7mnaaersnegaixn7rkfpbbvd67apnoatpu",
       "source": "ospreysofficial.bsky.social"
     },
     {
