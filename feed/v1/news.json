@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-19T05:07:04+01:00",
+  "generatedAt": "2026-10-19T06:09:36+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my7dtahqof26",
+      "text": "'It's an international side' - Munster turn focus to Leinster clash in Dublin (✍️@rugby_ie) #Munster #Leinster #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my7dtahqof26",
+      "publishedAt": "2026-10-19T05:04:21.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicguzhl5k3jkptd4ptbuy5wbcrx47jpkw44j2mdtuvtgnounstkle",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my6ogxsnor26",
@@ -806,18 +818,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my56fee7am2c",
-      "text": "La Rochelle beat Lions amid emotional scenes (✍️@RTErugby) #LaRochelle #Lions #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my56fee7am2c",
-      "publishedAt": "2026-10-18T08:21:47.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifhl4vqr5xf4spx23yre2wii4k734wmfkmfy6yfkhjog3uf6nssg4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my4wq7ek2i2w",
       "text": "With the Scotland squad due to be named for the Nations Championship this week, our writers have had a go at making their selections\n🔗 shorturl.at/ZeR9n",
       "author": "Scotland Rugby News",
@@ -1317,7 +1317,7 @@
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
       "ok": false,
-      "error": "HTTP 500",
+      "error": "HTTP 404",
       "kept": 3
     },
     {
