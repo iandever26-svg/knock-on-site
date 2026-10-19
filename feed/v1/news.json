@@ -1,8 +1,133 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-19T14:09:31+01:00",
+  "generatedAt": "2026-10-19T15:12:15+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3myab2gquqc2v",
+      "text": "It was a shaky start for the scrum but some patches on the go and by half-time Cardiff were back in the contest in a big way.\nSam Wainwright getting the loosehead in a terrible shape.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3myab2gquqc2v",
+      "publishedAt": "2026-10-19T13:47:21.229Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreieuurxnq4rkivordsbrm4lwykfhboz5xc5fbwg5uwdweushg6revq/thumbnail.jpg",
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myaasyoliu2g",
+      "text": "Munster's young guns shine, Leinster lay down marker, and Connacht produce all-time performance (✍️@rugby_ie) #ChampionsCup #Munster #Leinster",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myaasyoliu2g",
+      "publishedAt": "2026-10-19T13:43:11.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidyh7lnsdmyo3x44vt57wt4gxtcqburbm7ouvsoyrnjaqwmyuayqi",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112167154103533654",
+      "text": "How did you become a Sharks fan?  🦈\n\nTell us your story 💬\n\n#SharksRugbyClub #BlackWhiteForever https://t.co/XtNuQHzKam",
+      "author": "Sharks Rugby Club",
+      "handle": "SharksRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2108105864909312000/tbCzWA0T_bigger.jpg",
+      "url": "https://x.com/SharksRugby/status/2112167154103533654",
+      "publishedAt": "2026-10-19T13:01:06.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU_s1P8W0AEA-51.jpg",
+      "teamIds": [
+        "sharks"
+      ],
+      "source": "x:SharksRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112167104883355900",
+      "text": "The rivalry continues this Saturday as we go back to battle against Munster at Aviva Stadium 🏟️\n\n🎟️ Tickets are still available at https://t.co/M9MVoRxlvz https://t.co/ZDcC8zsaR4",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1993085605345968128/98zCXa8C_bigger.jpg",
+      "url": "https://x.com/leinsterrugby/status/2112167104883355900",
+      "publishedAt": "2026-10-19T13:00:54.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU_sycOXsAAWapR.jpg",
+      "teamIds": [
+        "leinster"
+      ],
+      "source": "x:leinsterrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112166913837011165",
+      "text": "There’s still time to put your clubhouse in the spotlight!\n\nThe Famous Grouse Characterful Clubhouse Fund is celebrating the people who make Scottish rugby clubs what they are. Get your club signed up and share the stories that make your clubhouse one of a kind.\n\n🏆 £10,000 grant for one successful club\n🏉 Two additional £2.5k club funds available\n📅 Apply by 3 November 2026\n\nWho’s the character at your clubhouse? Get involved today!\n\nSavour @thefamousgrouse Responsibly.",
+      "author": "Scottish Rugby",
+      "handle": "Scotlandteam",
+      "avatar": "https://pbs.twimg.com/profile_images/1856274139696275456/XghMgMxS_bigger.jpg",
+      "url": "https://x.com/Scotlandteam/status/2112166913837011165",
+      "publishedAt": "2026-10-19T13:00:09.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112161518112387072/img/Dw2_nKbPN5-_HS-j.jpg",
+      "teamIds": [
+        "scotland"
+      ],
+      "source": "x:Scotlandteam"
+    },
+    {
+      "type": "x",
+      "id": "x:2112162731860390268",
+      "text": "Freddy's on fire. 🔥 https://t.co/EWpROXuPdE",
+      "author": "Edinburgh Rugby",
+      "handle": "EdinburghRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2112152316769902592/uqKWkzBW_bigger.jpg",
+      "url": "https://x.com/EdinburghRugby/status/2112162731860390268",
+      "publishedAt": "2026-10-19T12:43:32.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU_oJ4FW8AEHC8Y.jpg",
+      "teamIds": [
+        "edinburgh"
+      ],
+      "source": "x:EdinburghRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112159579064705303",
+      "text": "A WILD finish in Lyon 🤯\n\n@SharksRugby dug deep for their first win in France since 2022\n\n#ChallengeCupRugby https://t.co/Zaee6Ol0A5",
+      "author": "BKT United Rugby Championship (URC)",
+      "handle": "URCOfficial",
+      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
+      "url": "https://x.com/URCOfficial/status/2112159579064705303",
+      "publishedAt": "2026-10-19T12:31:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU_d9cgXgAA4H2R.jpg",
+      "teamIds": [],
+      "source": "x:URCOfficial"
+    },
+    {
+      "type": "x",
+      "id": "x:2112158933620342942",
+      "text": "Cardiff Rugby Community Foundation are delighted to confirm Bronnie Jones has succeeded Nadine Griffiths as foundation director 👏\n\n🔗 https://t.co/WBkgrbc8K2\n\n#YmlaenCaerdydd | @CRugbyCommunity",
+      "author": "Cardiff Rugby",
+      "handle": "Cardiff_Rugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
+      "url": "https://x.com/Cardiff_Rugby/status/2112158933620342942",
+      "publishedAt": "2026-10-19T12:28:26.000Z",
+      "thumbnail": null,
+      "teamIds": [
+        "cardiff"
+      ],
+      "source": "x:Cardiff_Rugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112156774140686527",
+      "text": "Une rencontre marquée par l'émotion ✨🕊️\n\n📸 IconSport https://t.co/VOjkgahwEN",
+      "author": "TOP 14 Rugby",
+      "handle": "top14rugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_bigger.jpg",
+      "url": "https://x.com/top14rugby/status/2112156774140686527",
+      "publishedAt": "2026-10-19T12:19:51.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU_gzkMXUAACAKA.jpg",
+      "teamIds": [],
+      "source": "x:top14rugby"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mya43tcaae24",
@@ -592,111 +717,6 @@
       "source": "x:Cardiff_Rugby"
     },
     {
-      "type": "x",
-      "id": "x:2112120244680737229",
-      "text": "Grâce à doublé de @MelvynJaminet, nos Toulonnais entament parfaitement leur aventure européenne 💪\n\n#ParceQueToulon https://t.co/wBQsBL5q8i",
-      "author": "RCT – Rugby Club Toulonnais",
-      "handle": "RCTofficiel",
-      "avatar": "https://pbs.twimg.com/profile_images/2109904523674198016/izi3_RW9_bigger.jpg",
-      "url": "https://x.com/RCTofficiel/status/2112120244680737229",
-      "publishedAt": "2026-10-19T09:54:42.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112117360576364544/img/DXffW2oJp6qEA0LZ.jpg",
-      "teamIds": [
-        "toulon"
-      ],
-      "source": "x:RCTofficiel"
-    },
-    {
-      "type": "x",
-      "id": "x:2112119045709336577",
-      "text": "Next up 👉 @THESTORMERS \n\n🏆 Round 4 @URCOfficial \n📆 Saturday, October 24\n✈️ DHL Stadium\n\nByddwn yn teithio i Cape Town wythnos yma ar gyfer y rownd nesaf o'r Bencampwriaeth Rygbi Unedig.\n\n#BKTURC #YmaOHyd https://t.co/PKmlby7zmX",
-      "author": "Scarlets Rugby",
-      "handle": "scarlets_rugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107767296676478977/rJb4ckFZ_bigger.jpg",
-      "url": "https://x.com/scarlets_rugby/status/2112119045709336577",
-      "publishedAt": "2026-10-19T09:49:56.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU_BFBXXcAA7_NU.jpg",
-      "teamIds": [
-        "scarlets"
-      ],
-      "source": "x:scarlets_rugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112119022678380592",
-      "text": "Andiamo! 🛫 https://t.co/MH2qeo5pz9",
-      "author": "Glasgow Warriors",
-      "handle": "GlasgowWarriors",
-      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
-      "url": "https://x.com/GlasgowWarriors/status/2112119022678380592",
-      "publishedAt": "2026-10-19T09:49:50.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU_BDrSWMAAuxUn.jpg",
-      "teamIds": [
-        "glasgow"
-      ],
-      "source": "x:GlasgowWarriors"
-    },
-    {
-      "type": "x",
-      "id": "x:2112118635544051803",
-      "text": "Grâce à doublé de @MelvynJaminet, nos Toulonnais entament parfaitement leur aventure européenne 💪\n\nLe résumé du match avec notre partenaire, #SOSFuiteToiture 🎥👉 https://t.co/EVI8Fw2wyY https://t.co/qZUCKmLNHF",
-      "author": "RCT – Rugby Club Toulonnais",
-      "handle": "RCTofficiel",
-      "avatar": "https://pbs.twimg.com/profile_images/2109904523674198016/izi3_RW9_bigger.jpg",
-      "url": "https://x.com/RCTofficiel/status/2112118635544051803",
-      "publishedAt": "2026-10-19T09:48:18.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112117360576364544/img/DXffW2oJp6qEA0LZ.jpg",
-      "teamIds": [
-        "toulon"
-      ],
-      "source": "x:RCTofficiel"
-    },
-    {
-      "type": "x",
-      "id": "x:2112118599750221884",
-      "text": "🏟️​ Sabato pomeriggio torniamo a Monigo per sfidare Glasgow\n\n📄​ Ecco la guida dettagliata all'evento ⬇️​\n\n#BenettonRugby #WeAreLions #BENvGLA\n\nhttps://t.co/yICsNQFJYu",
-      "author": "Benetton Rugby 🦁",
-      "handle": "BenettonRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107800809316425728/hbrhjN9A_bigger.jpg",
-      "url": "https://x.com/BenettonRugby/status/2112118599750221884",
-      "publishedAt": "2026-10-19T09:48:10.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "benetton"
-      ],
-      "source": "x:BenettonRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112114947455107423",
-      "text": "The sun was shining in Munster this weekend as some cracking domestic matchups kicked off ☀️🏉\n\nRound up all the action and results here 👉 https://t.co/bmrfq5U4IW\n\n#MunsterStartsHere | #SUAF 🔴 | 📸 Aidan McCarthy (@MallowRFC ) https://t.co/bHarOYN1pN",
-      "author": "Munster Rugby",
-      "handle": "Munsterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2110417394795511808/MFQIU77q_bigger.jpg",
-      "url": "https://x.com/Munsterrugby/status/2112114947455107423",
-      "publishedAt": "2026-10-19T09:33:39.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU-9MfKXwAAsMJY.jpg",
-      "teamIds": [
-        "munster"
-      ],
-      "source": "x:Munsterrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112113566400872770",
-      "text": "Back at it in the @Vodacom #URC this weekend, with Scarlets in town.\n\n🎟️ https://t.co/JFWS04TUUr\n\n#STOvSCA #inittogether https://t.co/SG6nIAMncT",
-      "author": "DHL Stormers",
-      "handle": "THESTORMERS",
-      "avatar": "https://pbs.twimg.com/profile_images/2109556734381498368/CXO-R1_p_bigger.jpg",
-      "url": "https://x.com/THESTORMERS/status/2112113566400872770",
-      "publishedAt": "2026-10-19T09:28:10.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU-7gzuWIAApZLE.jpg",
-      "teamIds": [
-        "stormers"
-      ],
-      "source": "x:THESTORMERS"
-    },
-    {
       "type": "youtube",
       "id": "yt:db2cMNWkdCg",
       "title": "A special match ball delivery   #rugby #edinburghrugby #legends #inmemoriam",
@@ -768,18 +788,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my7i3cjocl26",
-      "text": "'We got steamrolled last year' – Leinster eye revenge against Munster (✍️@rugby_ie) #Leinster #Munster #AvivaStadium",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my7i3cjocl26",
-      "publishedAt": "2026-10-19T06:20:26.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreige7yewsoz24rsj5wwuf6c4dgzzq4qaaelztuutmiy52vgkrttnmi",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my6bvhknys23",
       "text": "A separate post for Taulupe Faletau who in 56 minutes of his fourth appearance of the calendar year somehow plays his way straight into Cymru squad contention 😂\nAbsolutely oozes quality, his class is undeniably permanent. #NORvCAR",
       "author": "Cardiff Rugby Life",
@@ -811,18 +819,6 @@
       "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
       "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my67x35mpk27",
       "publishedAt": "2026-10-18T18:22:15.183Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my64pdv3ys27",
-      "text": "Northampton 14-0 Cardiff HT\nThe rain has not helped this at all as a contest but the Blue & Blacks have largely defended well and had moments in attack.\nLineout is a huge issue though, get that right and we can be in this game.\n#NORvCAR",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my64pdv3ys27",
-      "publishedAt": "2026-10-18T17:24:14.678Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
     },
