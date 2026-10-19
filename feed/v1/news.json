@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-19T00:10:08+01:00",
+  "generatedAt": "2026-10-19T02:07:22+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
     {
@@ -14,6 +14,21 @@
       "publishedAt": "2026-10-18T22:41:40.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib4f4gtdbchoatsb2twrz4y3dirrea5b5o6vd4ge3hgvrl46gh5fi",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2111932622209171894",
+      "text": "Munster Rugby are currently inviting applications for the role of Women's Provincial Pathway Coach. \n\nMore info & apply 👇\n\nhttps://t.co/57yerb7lO0\n\n#SUAF 🔴 https://t.co/BlLIbop0Eh",
+      "author": "Munster Rugby",
+      "handle": "Munsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110417394795511808/MFQIU77q_bigger.jpg",
+      "url": "https://x.com/Munsterrugby/status/2111932622209171894",
+      "publishedAt": "2026-10-18T21:29:09.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU8XV3OXsAEZQZ1.png",
+      "teamIds": [
+        "munster"
+      ],
+      "source": "x:Munsterrugby"
     },
     {
       "type": "x",
@@ -683,21 +698,6 @@
       "source": "joncardinelli.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2111834698221801741",
-      "text": "Birthday weekend done right ✅\n\n#COYQ https://t.co/NBaQuaZytM",
-      "author": "Harlequins 🃏",
-      "handle": "Harlequins",
-      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
-      "url": "https://x.com/Harlequins/status/2111834698221801741",
-      "publishedAt": "2026-10-18T15:00:02.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111831607921328128/img/Q2guz2NOcV74JElX.jpg",
-      "teamIds": [
-        "harlequins"
-      ],
-      "source": "x:Harlequins"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my5tfmnka422",
       "text": "A weekend in Clermont: Riots and a French rugby giant facing challenges (✍️@rugby_ie) #ClermontFerrand #Rugby #Leinster",
@@ -1302,32 +1302,37 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": true,
-      "items": 6
+      "ok": false,
+      "error": "HTTP 500",
+      "kept": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 2
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 0
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "error": "HTTP 404",
+      "kept": 1
     },
     {
       "kind": "bluesky",
