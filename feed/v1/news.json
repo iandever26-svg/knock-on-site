@@ -1,8 +1,55 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-19T07:17:40+01:00",
+  "generatedAt": "2026-10-19T08:07:41+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my7kmee4an2a",
+      "text": "Ox Nche gets hit hard by the Stormers 💪 (📹@URCOfficial) #OxNche #Stormers #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my7kmee4an2a",
+      "publishedAt": "2026-10-19T07:05:46.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidotpwskougdz42y4x5msjc6id23ng2y4skcsdmpaq6bbiv3btch4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "youtube",
+      "id": "yt:nKgHRQPDP-E",
+      "title": "Ox Nche gets hit hard by the Stormers 💪",
+      "author": "United Rugby Championship",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=nKgHRQPDP-E",
+      "publishedAt": "2026-10-19T06:51:21.000Z",
+      "thumbnail": "https://i3.ytimg.com/vi/nKgHRQPDP-E/hqdefault.jpg",
+      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3my7jcymjzc2z",
+      "text": "What a weekend of European rugby, Connacht with a massive win, Munster make hard work off Racing while Leinster put up a score and Ulster get their Challenge Cup campaign underway\nyoutu.be/VmtRiExSy8A",
+      "author": "The 2nd Row",
+      "handle": "the2ndrow.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiazut3bcdskefwftkflzwbla4h6q56u7xutxhdmmhk4unffwpjl4e",
+      "url": "https://bsky.app/profile/the2ndrow.bsky.social/post/3my7jcymjzc2z",
+      "publishedAt": "2026-10-19T06:42:38.594Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreib6ls2amzwvi2iix27vevjhf6rmqop7qz6cwj3djzeuwns3bcicpe",
+      "source": "the2ndrow.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my7i3cjocl26",
+      "text": "'We got steamrolled last year' – Leinster eye revenge against Munster (✍️@rugby_ie) #Leinster #Munster #AvivaStadium",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my7i3cjocl26",
+      "publishedAt": "2026-10-19T06:20:26.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreige7yewsoz24rsj5wwuf6c4dgzzq4qaaelztuutmiy52vgkrttnmi",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my7flclxgf2s",
@@ -68,18 +115,6 @@
         "new-zealand"
       ],
       "source": "x:AllBlacks"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my6goio3rj2s",
-      "text": "Toulouse edge out Exeter in Champions Cup thriller as Northampton defeat Cardiff (✍️@rugby_ie) #ChampionsCup #Toulouse #Exeter",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my6goio3rj2s",
-      "publishedAt": "2026-10-18T20:22:43.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiehl6vgxcyegzbm6qo4nzlxz2hf3rnv2becuy5ovz3ukyqpxcji2m",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
@@ -723,18 +758,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my5tfmnka422",
-      "text": "A weekend in Clermont: Riots and a French rugby giant facing challenges (✍️@rugby_ie) #ClermontFerrand #Rugby #Leinster",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my5tfmnka422",
-      "publishedAt": "2026-10-18T14:37:44.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreia5tbrraojh6fscpdd4k6ltezegm6t7zrvlaill4bs3aoarsvvqpe",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my5rbhct3f2a",
       "text": "Our team make their Scotland squad picks - let us know what you think\n🔗 shorturl.at/ZeR9n",
       "author": "Scotland Rugby News",
@@ -874,18 +897,6 @@
       "url": "https://bsky.app/profile/the2ndrow.bsky.social/post/3my3omeuz2s2n",
       "publishedAt": "2026-10-17T18:06:43.197Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreifbfll54jfkovxuysxiht3a4dusmlv3f7htvby3qo64psed3aifjy",
-      "source": "the2ndrow.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:sj3xev6exp6xronoyolo3l4m/app.bsky.feed.post/3my3ogywc5k2p",
-      "text": "",
-      "author": "The 2nd Row",
-      "handle": "the2ndrow.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreiazut3bcdskefwftkflzwbla4h6q56u7xutxhdmmhk4unffwpjl4e",
-      "url": "https://bsky.app/profile/the2ndrow.bsky.social/post/3my3ogywc5k2p",
-      "publishedAt": "2026-10-17T18:03:42.883Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sj3xev6exp6xronoyolo3l4m/bafkreig3z7s4jfmsd5ar5glqnglwrc7kyyoawfjcrvn4cn2xxxrnruyyty",
       "source": "the2ndrow.bsky.social"
     },
     {
@@ -1220,17 +1231,6 @@
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
-      "type": "youtube",
-      "id": "yt:TId0j_qMh64",
-      "title": "DHL Stormers keeping the ball alive ⚡️",
-      "author": "United Rugby Championship",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=TId0j_qMh64",
-      "publishedAt": "2026-10-16T07:15:29.000Z",
-      "thumbnail": "https://i1.ytimg.com/vi/TId0j_qMh64/hqdefault.jpg",
-      "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:76m24vhrsckzqfi33uyt6snv/app.bsky.feed.post/3mxwjnjdi6c2s",
       "text": "🐉 𝙏𝙀𝘼𝙈 𝙉𝙀𝙒𝙎 | First game of our 26/27 @ChallengeCup_ campaign and we are at home to @usap_officiel! 🏠\n👏 Rio Dyer makes 100th Dragons appearance\n💨 Rosser and Lloyd start\n💪 Langton-Cryer & James start\n🎟️ eticketing.co.uk/dragons/\n📞 01633 670690\n#WeAreGwentRugby",
@@ -1302,37 +1302,32 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 2
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 0
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 1
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "bluesky",
