@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-19T08:07:41+01:00",
+  "generatedAt": "2026-10-19T09:07:17+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my7lz4grnf2w",
+      "text": "\"Tell that to the lungs...\"\nCaptain Kyle Steyn was delighted to make his return in Glasgow's bonus point win against Sale Sharks on Saturday\n🔗 shorturl.at/906BM",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my7lz4grnf2w",
+      "publishedAt": "2026-10-19T07:30:47.522Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreico6eptdptt23f2i6iklxvxsl3hna67r63ciohzfe43jyctmbgk4i",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my7l5sts6v2g",
+      "text": "Coolest New Rugby Stash?! 🇿🇦 #ad #southafrica (📹@PirateRugbyPod) #Rugby #SouthAfrica #RugbyStash",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my7l5sts6v2g",
+      "publishedAt": "2026-10-19T07:15:32.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiffwffq2mzswxqhwm3wmhomla2utblaeph5ko5nihlc6d6nmorfxe",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my7kmee4an2a",
@@ -14,6 +38,107 @@
       "publishedAt": "2026-10-19T07:05:46.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidotpwskougdz42y4x5msjc6id23ng2y4skcsdmpaq6bbiv3btch4",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112077158914891817",
+      "text": "🏉 Londres vous attend peut-être… 👀\n\nFaites vos pronostics sur les rencontres du Nations Championship en novembre et tentez de gagner vos places pour le week-end des finales à Londres !🍀\n\n👉 https://t.co/pcw87TWOsM https://t.co/PldTzVcoGJ",
+      "author": "France Rugby",
+      "handle": "FranceRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1921860349239734272/6ugkNYIn_bigger.jpg",
+      "url": "https://x.com/FranceRugby/status/2112077158914891817",
+      "publishedAt": "2026-10-19T07:03:29.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU-a1K6XkAA64uO.jpg",
+      "teamIds": [
+        "france"
+      ],
+      "source": "x:FranceRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112076657343521182",
+      "text": "11 of our clubs picking up a W in Round 1 🫡\n\n#InvestecChampionsCup | #ChallengeCupRugby https://t.co/EmsutUbQBK",
+      "author": "BKT United Rugby Championship (URC)",
+      "handle": "URCOfficial",
+      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
+      "url": "https://x.com/URCOfficial/status/2112076657343521182",
+      "publishedAt": "2026-10-19T07:01:30.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU9xPW7aQAEBv-w.jpg",
+      "teamIds": [],
+      "source": "x:URCOfficial"
+    },
+    {
+      "type": "x",
+      "id": "x:2112076531690283315",
+      "text": "Shay’s Day 🔥💥\n\n#SUAF 🔴 | #MUNvR92 https://t.co/2vdkC2f3nO",
+      "author": "Munster Rugby",
+      "handle": "Munsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110417394795511808/MFQIU77q_bigger.jpg",
+      "url": "https://x.com/Munsterrugby/status/2112076531690283315",
+      "publishedAt": "2026-10-19T07:01:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111933999895416832/img/jYZ0F4QAxf2TcAoe.jpg",
+      "teamIds": [
+        "munster"
+      ],
+      "source": "x:Munsterrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112076422953205765",
+      "text": "Match week in Cape Town as we continue the WXV Global Series against South Africa. 👊 https://t.co/6prRZR0uEw",
+      "author": "Irish Rugby",
+      "handle": "IrishRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2013579995612917760/vv0fi-Pq_bigger.jpg",
+      "url": "https://x.com/IrishRugby/status/2112076422953205765",
+      "publishedAt": "2026-10-19T07:00:34.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU-aToRXwAA1hC3.jpg",
+      "teamIds": [
+        "ireland"
+      ],
+      "source": "x:IrishRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112076357316300858",
+      "text": "Stopping Josh Adams short of the line isn't easy 👀\n\nHendy makes it look simple.\n\n#InvestecChampionsCup https://t.co/HvloazqUdh",
+      "author": "Investec Champions Cup",
+      "handle": "ChampionsCup",
+      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
+      "url": "https://x.com/ChampionsCup/status/2112076357316300858",
+      "publishedAt": "2026-10-19T07:00:18.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU-aQRXXcAADa56.jpg",
+      "teamIds": [],
+      "source": "x:ChampionsCup"
+    },
+    {
+      "type": "x",
+      "id": "x:2112076284297924900",
+      "text": "Happy birthday 𝐃𝐞𝐬𝐭𝐢𝐧𝐲 𝐀𝐦𝐢𝐧𝐮 🥳🎂\n\n#BenettonRugby #WeAreLions #happybirthday https://t.co/peJm7n0mwe",
+      "author": "Benetton Rugby 🦁",
+      "handle": "BenettonRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107800809316425728/hbrhjN9A_bigger.jpg",
+      "url": "https://x.com/BenettonRugby/status/2112076284297924900",
+      "publishedAt": "2026-10-19T07:00:01.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HUvhUYfWIAEmw7j.jpg",
+      "teamIds": [
+        "benetton"
+      ],
+      "source": "x:BenettonRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112076280531218879",
+      "text": "🎂𝗣𝗘𝗡𝗕𝗟𝗪𝗬𝗗𝗗 𝗛𝗔𝗣𝗨𝗦 | Penblwydd Hapus i ganolwr y Dreigiau Aneurin Owen sy'n dathlu heddiw! 🥳      \n\nHappy Birthday Nye, have an awesome day! 🎁    \n\n#WeAreGwentRugby https://t.co/c4tuLB6ryr",
+      "author": "Dragons RFC 🐉",
+      "handle": "dragonsrfc",
+      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
+      "url": "https://x.com/dragonsrfc/status/2112076280531218879",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU-ShH9XsAA32vO.jpg",
+      "teamIds": [
+        "dragons"
+      ],
+      "source": "x:dragonsrfc"
     },
     {
       "type": "youtube",
@@ -72,18 +197,6 @@
       "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my7dtahqof26",
       "publishedAt": "2026-10-19T05:04:21.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicguzhl5k3jkptd4ptbuy5wbcrx47jpkw44j2mdtuvtgnounstkle",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my6ogxsnor26",
-      "text": "Connacht future European champions, and Irelands 10 jersey gets more interesting_mixdown (🎙️@the2ndRow) #Rugby #Connacht #EuropeanChampions",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my6ogxsnor26",
-      "publishedAt": "2026-10-18T22:41:40.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreib4f4gtdbchoatsb2twrz4y3dirrea5b5o6vd4ge3hgvrl46gh5fi",
       "source": "rugbynewsplus.bsky.social"
     },
     {
@@ -269,19 +382,6 @@
       "publishedAt": "2026-10-18T18:57:08.568Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2111891382700777883",
-      "text": "Your @Investec #InvestecPlayeroftheMatch… 🥁\n\n⭐️ Section Paloise’s Theo Attissogbe\n⭐️ Stade Toulousian’s Théo Ntamack\n⭐️ Norhtampton Saints’ George Hendy\n\nCatch up with instant #InvestecChampionsCup highlights ➡️ LINK TO HIGHLIGHTS PLAYLIST 🔗\n\nhttps://t.co/DrauPyDMgX https://t.co/Uo9K1b8Vfs",
-      "author": "Investec Champions Cup",
-      "handle": "ChampionsCup",
-      "avatar": "https://pbs.twimg.com/profile_images/1697181182796935168/vcSAuYKk_bigger.jpg",
-      "url": "https://x.com/ChampionsCup/status/2111891382700777883",
-      "publishedAt": "2026-10-18T18:45:17.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU7yA6zWgAEipMR.jpg",
-      "teamIds": [],
-      "source": "x:ChampionsCup"
     },
     {
       "type": "bluesky",
@@ -542,21 +642,6 @@
     },
     {
       "type": "x",
-      "id": "x:2111853678395089331",
-      "text": "Ready to go 🔥\n\n#BenettonRugby #WeAreLions #CASvBEN https://t.co/ybgb1LWG3u",
-      "author": "Benetton Rugby 🦁",
-      "handle": "BenettonRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107800809316425728/hbrhjN9A_bigger.jpg",
-      "url": "https://x.com/BenettonRugby/status/2111853678395089331",
-      "publishedAt": "2026-10-18T16:15:27.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU7PpeHWkAAjJ5g.jpg",
-      "teamIds": [
-        "benetton"
-      ],
-      "source": "x:BenettonRugby"
-    },
-    {
-      "type": "x",
       "id": "x:2111853150311456994",
       "text": "C'EST GAGNÉ ❤️🖤\n\nEn infériorité numérique, les Rouge et Noir parviennent à arracher la victoire dans un Stadium en feu ! 💪 https://t.co/dnA6IL0ZlT",
       "author": "Stade Toulousain",
@@ -658,21 +743,6 @@
       "source": "x:dragonsrfc"
     },
     {
-      "type": "x",
-      "id": "x:2111849792620093801",
-      "text": "🗣️ \"The boys played really maturely in the second-half especially when the weather came in to get that bonus point.\"\n\nHead Coach Jason Gilmore's thoughts on today's win in our European opener at The Stoop agains RC Vannes 👇\n\n#COYQ https://t.co/IdfQeolZRR",
-      "author": "Harlequins 🃏",
-      "handle": "Harlequins",
-      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
-      "url": "https://x.com/Harlequins/status/2111849792620093801",
-      "publishedAt": "2026-10-18T16:00:01.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111838093833650176/img/Ce_cGKmFDgepRyZL.jpg",
-      "teamIds": [
-        "harlequins"
-      ],
-      "source": "x:Harlequins"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:kbwtbs2mqfxm4om4l7h7b2r6/app.bsky.feed.post/3my5vujf4gk2r",
       "text": "Ahead of the 60th anniversary - Aberfan, Merthyr RFC, and the bravery of Dai Beynon. For @observeruk.bsky.social. observer.co.uk/news/sport/a...",
@@ -683,66 +753,6 @@
       "publishedAt": "2026-10-18T15:21:52.022Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kbwtbs2mqfxm4om4l7h7b2r6/bafkreibs74vd2hhwvdatcpefrbzwdj5vqmqhgwqqpckwowjtrx63zt32xy",
       "source": "bencoles.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2111839635957780680",
-      "text": "𝐒𝐜𝐨𝐫𝐞 𝐟𝐢𝐧𝐚𝐥 avec Groupe Ecova \n\nDéfaite en Angleterre, sur le terrain des Harlequins, en ouverture de cette campagne européenne.\n \n#FiertéBretonne https://t.co/manaCAGeBf",
-      "author": "Rugby Club Vannes",
-      "handle": "RugbyClubVannes",
-      "avatar": "https://pbs.twimg.com/profile_images/2109587393636433920/OMk2Ti3R_bigger.jpg",
-      "url": "https://x.com/RugbyClubVannes/status/2111839635957780680",
-      "publishedAt": "2026-10-18T15:19:39.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU7C88IWIAAZnhc.jpg",
-      "teamIds": [
-        "vannes"
-      ],
-      "source": "x:RugbyClubVannes"
-    },
-    {
-      "type": "x",
-      "id": "x:2111838437787480193",
-      "text": "🎙️ 𝗦𝗲́𝗯𝗮𝘀𝘁𝗶𝗲𝗻 𝗣𝗶𝗾𝘂𝗲𝗿𝗼𝗻𝗶𝗲𝘀\n\n« La Section a fait une sacrée performance et a été bonne dans la conduite du jeu, dans la gestion des émotions, dans sa capacité à faire front, à rester dans le plan et à rendre fiers les supporters. On a eu une entame difficile face à une belle équipe, mais on s’en sort avec de la maîtrise et du sang-froid. Je pense que si on arrive à maintenir notre caractère défensif, on pourra vivre une belle saison. Quand on fait beaucoup d’efforts, on est performants et on peut rivaliser avec les meilleures équipes. »\n\n#InvestecChampionsCup #HonhaSection",
-      "author": "Section Paloise Béarn Pyrénées",
-      "handle": "SectionPaloise",
-      "avatar": "https://pbs.twimg.com/profile_images/1455181412533944330/lB5sMJzJ_bigger.jpg",
-      "url": "https://x.com/SectionPaloise/status/2111838437787480193",
-      "publishedAt": "2026-10-18T15:14:54.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU7B3DdXQAADYpg.jpg",
-      "teamIds": [
-        "pau"
-      ],
-      "source": "x:SectionPaloise"
-    },
-    {
-      "type": "x",
-      "id": "x:2111838117837586746",
-      "text": "🎙️ 𝗙𝗮𝗯𝗶𝗲𝗻 𝗕𝗿𝗮𝘂-𝗕𝗼𝗶𝗿𝗶𝗲\n\n« Victoire convaincante, on avait à cœur de faire une bonne performance, d’être connectés. Très content de cette première victoire en Champions Cup au Hameau. On rebascule la semaine prochaine en TOP 14, il faut s’adapter mais on est prêts. Il faut qu’on continue de prendre des initiatives, garder une bonne défense et qu’on soit dominants. Les ambitions sont claires : essayer de se qualifier dans cette compétition. On a un effectif qui peut nous le permettre. »\n\n#InvestecChampionsCup #HonhaSection",
-      "author": "Section Paloise Béarn Pyrénées",
-      "handle": "SectionPaloise",
-      "avatar": "https://pbs.twimg.com/profile_images/1455181412533944330/lB5sMJzJ_bigger.jpg",
-      "url": "https://x.com/SectionPaloise/status/2111838117837586746",
-      "publishedAt": "2026-10-18T15:13:38.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU7BkUoWUAA56aU.jpg",
-      "teamIds": [
-        "pau"
-      ],
-      "source": "x:SectionPaloise"
-    },
-    {
-      "type": "x",
-      "id": "x:2111838016868077818",
-      "text": "🎙️ 𝗕𝗮𝘀𝘁𝗶𝗲𝗻 𝗩𝗲𝗿𝗴𝗻𝗲𝘀-𝗧𝗮𝗶𝗹𝗹𝗲𝗳𝗲𝗿\n\n« C’est un match abouti de notre part. On se l’était dit toute la semaine que c’était un match un peu particulier dans ce long bloc de TOP 14. C’est prometteur pour l’avenir, il faut rester humble mais c’est une bonne chose de https://t.co/aoLRYQCPDm",
-      "author": "Section Paloise Béarn Pyrénées",
-      "handle": "SectionPaloise",
-      "avatar": "https://pbs.twimg.com/profile_images/1455181412533944330/lB5sMJzJ_bigger.jpg",
-      "url": "https://x.com/SectionPaloise/status/2111838016868077818",
-      "publishedAt": "2026-10-18T15:13:13.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU7BeSNXUAAnUoW.jpg",
-      "teamIds": [
-        "pau"
-      ],
-      "source": "x:SectionPaloise"
     },
     {
       "type": "bluesky",
@@ -1078,18 +1088,6 @@
       "publishedAt": "2026-10-17T13:57:33.951Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreia3rcwocjfwmr4dckbc7mnaaersnegaixn7rkfpbbvd67apnoatpu",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my3ahmidoo2w",
-      "text": "FULL-TIME | Seven tries & a bonus point win on the road in Salford\nA perfect start to the Champions Cup for Glasgow!",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my3ahmidoo2w",
-      "publishedAt": "2026-10-17T13:53:30.834Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiefbuwebfjo5fc5vwowcxdsykpx6pwk4pzns4nn2rayofbc6w4pgu",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
