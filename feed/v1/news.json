@@ -1,8 +1,71 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-19T17:07:16+01:00",
+  "generatedAt": "2026-10-19T18:10:21+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myakqwnzdz2z",
+      "text": "Why Leinster & Toulouse Will Always Be Rugby's Top Clubs. (📹@PirateRugbyPod) #rugby #leinster #toulouse",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myakqwnzdz2z",
+      "publishedAt": "2026-10-19T16:40:59.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibdboyqmzljvc4jbmr5fu64yj2qv6hwknahqtiwki55ci3ds2w2gm",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112220671635816951",
+      "text": "Their cup final. https://t.co/vdECz1lGO1",
+      "author": "Saracens Rugby Club",
+      "handle": "Saracens",
+      "avatar": "https://pbs.twimg.com/profile_images/2091836925652951041/pWgV8Bsa_bigger.jpg",
+      "url": "https://x.com/Saracens/status/2112220671635816951",
+      "publishedAt": "2026-10-19T16:33:45.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVAax6qXYAAzGgZ.jpg",
+      "teamIds": [
+        "saracens"
+      ],
+      "source": "x:Saracens"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myajluydah2s",
+      "text": "Ep 3686: Wins All Round In The Champions Cup, Connacht Conquer Saracens, Munster Get It Done In Cork - 19/10/26 (🎙️@SecondCaptains) #ChampionsCup #Connacht #Saracens",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myajluydah2s",
+      "publishedAt": "2026-10-19T16:20:16.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidthwzwh7h4sgzkvdtjbb3mn3zxzslp3k4sfexdxzlysxthyh5tvu",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myajdqy2572g",
+      "text": "So why is this rugby's biggest misconception? (📹@SquidgeRugby) #Rugby #RugbyUnion #Coaching",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myajdqy2572g",
+      "publishedAt": "2026-10-19T16:15:43.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibzgj6b74lmse2teymkhwmeb5jtqgxanrv7nq4xc5o37ij44xbncq",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3myaivvri722f",
+      "text": "Something Gareth Anscombe said on the Scrum V Podcast last month stuck with me.\nCymru needs to raise the bar on what it takes to be in national team contention.\ncardiffrugbylife.wales/2026/10/19/r...",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3myaivvri722f",
+      "publishedAt": "2026-10-19T16:07:59.136Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreibl7oy4fwpmvr4cc7edcyk2hank6ocsqwfhiv5s73t4tomm4qdpiu",
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myaipjd2gr2a",
@@ -30,6 +93,21 @@
     },
     {
       "type": "x",
+      "id": "x:2112211731342569522",
+      "text": "L’amour du jeu ❤️‍🔥 https://t.co/IAFDqDNhl7",
+      "author": "Stade Toulousain",
+      "handle": "StadeToulousain",
+      "avatar": "https://pbs.twimg.com/profile_images/2110294817947242496/LikEw8hJ_bigger.jpg",
+      "url": "https://x.com/StadeToulousain/status/2112211731342569522",
+      "publishedAt": "2026-10-19T15:58:14.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112211556939284481/img/0BROsiPMWjxleDOJ.jpg",
+      "teamIds": [
+        "toulouse"
+      ],
+      "source": "x:StadeToulousain"
+    },
+    {
+      "type": "x",
       "id": "x:2112209745515774438",
       "text": "🔥 𝗡𝗘𝗫𝗧 𝗨𝗣 | We head West this Saturday for Part 2️⃣ 🥊💥\n\n🆚 @ospreys\n \n🏟️ St Helen's, Swansea\n🏆 @URCOfficial\n \n🕠 7.00pm\n📺 @S4C & @PremSportsTV\n \n#WeAreGwentRugby #BKTURC #OSPvDRA https://t.co/NYtG0ubq00",
       "author": "Dragons RFC 🐉",
@@ -45,6 +123,22 @@
     },
     {
       "type": "x",
+      "id": "x:2112206486709436478",
+      "text": "Experience Club Pravha the Bears Way.\n\n🔒 Private bar access \n🍻 Free bottle of Pravha on arrival\n👨‍🍳 Chicken stir fry, Asian sticky pork belly\n🎯 Live sport, darts and shuffle boards\n\nTake your matchday to the next level!\n\n👉 https://t.co/5HbHtEZLO0 https://t.co/2cxL1qoJEk",
+      "author": "Bristol Bears 🐻",
+      "handle": "BristolBears",
+      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
+      "url": "https://x.com/BristolBears/status/2112206486709436478",
+      "publishedAt": "2026-10-19T15:37:23.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVANp_9WEAAXBEJ.jpg",
+      "mediaAlt": "Brand new Club Pravha.",
+      "teamIds": [
+        "bristol"
+      ],
+      "source": "x:BristolBears"
+    },
+    {
+      "type": "x",
       "id": "x:2112204625445052519",
       "text": "🐉 𝙑𝘼𝘾𝘼𝙉𝘾𝙔 | Dragons RFC are looking for a Junior Academy Physiotherapist/Therapist to lead the Junior Academy medical provision ensuring players have the care and attention to support their development ⤵️  \n\n▶️ https://t.co/c82uxL5Px5 \n\n#WeAreGwentRugby @rugbyvacancies https://t.co/DXm1UYOg2p",
       "author": "Dragons RFC 🐉",
@@ -57,6 +151,21 @@
         "dragons"
       ],
       "source": "x:dragonsrfc"
+    },
+    {
+      "type": "x",
+      "id": "x:2112204625428251071",
+      "text": "𝗦𝗲𝗺𝗮𝗶𝗻𝗲 𝗱𝗲 𝗺𝗮𝘁𝗰𝗵 👊\n\nNos 🔴&⚫️ retrouvent le @top14rugby et le Stade Mayol, ce samedi à 21h avec la réception de la @SectionPaloise 🔥\n\nPrenez vos places 🎟️👉 https://t.co/1EDXxdWrN9 https://t.co/Qeh9gGKgSn",
+      "author": "RCT – Rugby Club Toulonnais",
+      "handle": "RCTofficiel",
+      "avatar": "https://pbs.twimg.com/profile_images/2109904523674198016/izi3_RW9_bigger.jpg",
+      "url": "https://x.com/RCTofficiel/status/2112204625428251071",
+      "publishedAt": "2026-10-19T15:30:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112155746112561152/img/pYD91IHANbh_ulMN.jpg",
+      "teamIds": [
+        "toulon"
+      ],
+      "source": "x:RCTofficiel"
     },
     {
       "type": "x",
@@ -177,6 +286,21 @@
         "england"
       ],
       "source": "x:EnglandRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112197084862361671",
+      "text": "Finesse in the rain ☔️\n\n🔋 #PowerPlay brought to you by Conrad Energy\n\n#COYQ https://t.co/Iy2YwyXTvu",
+      "author": "Harlequins 🃏",
+      "handle": "Harlequins",
+      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
+      "url": "https://x.com/Harlequins/status/2112197084862361671",
+      "publishedAt": "2026-10-19T15:00:02.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2111891395950620672/img/Jz2_r3YW2xgMGyyp.jpg",
+      "teamIds": [
+        "harlequins"
+      ],
+      "source": "x:Harlequins"
     },
     {
       "type": "bluesky",
@@ -389,18 +513,6 @@
       "source": "x:CastresRugby"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myaasyoliu2g",
-      "text": "Munster's young guns shine, Leinster lay down marker, and Connacht produce all-time performance (✍️@rugby_ie) #ChampionsCup #Munster #Leinster",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myaasyoliu2g",
-      "publishedAt": "2026-10-19T13:43:11.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidyh7lnsdmyo3x44vt57wt4gxtcqburbm7ouvsoyrnjaqwmyuayqi",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "x",
       "id": "x:2112176340078072224",
       "text": "𝐃𝐮 𝐭𝐞𝐦𝐩𝐬 𝐝𝐞 𝐣𝐞𝐮 et de 𝐥’𝐞𝐱𝐩𝐞́𝐫𝐢𝐞𝐧𝐜𝐞 𝐬𝐮𝐩𝐩𝐥𝐞́𝐦𝐞𝐧𝐭𝐚𝐢𝐫𝐞 pour nos jeunes issus de la formation, ce week-end face au Dragons RFC Official en EPCR Challenge Cup ! \n\n#lasaisondonttueslehéros💥 https://t.co/st1Kg2triW",
@@ -579,91 +691,6 @@
       "source": "x:URCOfficial"
     },
     {
-      "type": "x",
-      "id": "x:2112158933620342942",
-      "text": "Cardiff Rugby Community Foundation are delighted to confirm Bronnie Jones has succeeded Nadine Griffiths as foundation director 👏\n\n🔗 https://t.co/WBkgrbc8K2\n\n#YmlaenCaerdydd | @CRugbyCommunity",
-      "author": "Cardiff Rugby",
-      "handle": "Cardiff_Rugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
-      "url": "https://x.com/Cardiff_Rugby/status/2112158933620342942",
-      "publishedAt": "2026-10-19T12:28:26.000Z",
-      "thumbnail": null,
-      "teamIds": [
-        "cardiff"
-      ],
-      "source": "x:Cardiff_Rugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112156774140686527",
-      "text": "Une rencontre marquée par l'émotion ✨🕊️\n\n📸 IconSport https://t.co/VOjkgahwEN",
-      "author": "TOP 14 Rugby",
-      "handle": "top14rugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_bigger.jpg",
-      "url": "https://x.com/top14rugby/status/2112156774140686527",
-      "publishedAt": "2026-10-19T12:19:51.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU_gzkMXUAACAKA.jpg",
-      "teamIds": [],
-      "source": "x:top14rugby"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mya43tcaae24",
-      "text": "Jack Conan's shoulder injury requires further assessment ahead of Ireland squad announcement (✍️@rugby_ie) #JackConan #ShoulderInjury #IrelandRugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mya43tcaae24",
-      "publishedAt": "2026-10-19T12:18:39.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibnabnhiibfsfzkp3mhe7lrgar4qf4eof4dbbffosnwkr3xj3jtka",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2112151879429898727",
-      "text": "Geoff's thoughts after Round 1 of the Investec Champions Cup in Pau. https://t.co/hjV2D9EHVn",
-      "author": "Leicester Tigers",
-      "handle": "LeicesterTigers",
-      "avatar": "https://pbs.twimg.com/profile_images/1989291325540200448/erA--7dV_bigger.jpg",
-      "url": "https://x.com/LeicesterTigers/status/2112151879429898727",
-      "publishedAt": "2026-10-19T12:00:24.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU_e78NWcAA2Fyx.jpg",
-      "teamIds": [
-        "leicester"
-      ],
-      "source": "x:LeicesterTigers"
-    },
-    {
-      "type": "x",
-      "id": "x:2112151867614507202",
-      "text": "Back at KP 🤩\n\nWho's joining us for Derby Weekend? 🤔\n\n🎟️: https://t.co/DKXhzB5Nok\n🥂: https://t.co/jLtbcBhGsE https://t.co/9UrEaevA9D",
-      "author": "Newcastle Red Bulls",
-      "handle": "NCL_RedBulls",
-      "avatar": "https://pbs.twimg.com/profile_images/1965721553179443200/SJgAkoMY_bigger.jpg",
-      "url": "https://x.com/NCL_RedBulls/status/2112151867614507202",
-      "publishedAt": "2026-10-19T12:00:21.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU_e7ggXMAASrSy.jpg",
-      "teamIds": [
-        "newcastle"
-      ],
-      "source": "x:NCL_RedBulls"
-    },
-    {
-      "type": "x",
-      "id": "x:2112151778493952056",
-      "text": "🐉 𝙋𝘼𝙍𝙏𝙉𝙀𝙍𝙎𝙃𝙄𝙋 | Dragons RFC & @cardiffmet have announced a formal partnership that will strengthen links between higher education and professional rugby, creating new opportunities for students, coaches, players and staff.\n\n▶️ https://t.co/BoJHpUmZDL\n\n#WeAreGwentRugby https://t.co/CQ76glgU97",
-      "author": "Dragons RFC 🐉",
-      "handle": "dragonsrfc",
-      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
-      "url": "https://x.com/dragonsrfc/status/2112151778493952056",
-      "publishedAt": "2026-10-19T12:00:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU_b8zPWYAAwtdk.jpg",
-      "teamIds": [
-        "dragons"
-      ],
-      "source": "x:dragonsrfc"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3mya2eaqiof2w",
       "text": "🆕 Jordan Larmour will be further assessed as he reintegrates into training.\n📰 Read the full injury report on leinsterrugby.ie or through the link in our story",
@@ -721,18 +748,6 @@
       "publishedAt": "2026-10-19T10:49:18.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/QWNVPenjgw0/hqdefault.jpg",
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3my7usxyrkb2z",
-      "text": "Hacjivah Dayimani Has Started The Season With A BANG (📹@URCOfficial) #URC #Rugby #RugbyUnion",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3my7usxyrkb2z",
-      "publishedAt": "2026-10-19T10:08:25.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiheryljn2puchjelwhj4miyunwqtaztvjepphrdyuasvzjoalmpxi",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "youtube",
@@ -812,18 +827,6 @@
       "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
       "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my6b6nhns223",
       "publishedAt": "2026-10-18T18:44:23.008Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my67x35mpk27",
-      "text": "Northampton 28-12 Cardiff FT\nHonestly a bit disappointed, which in itself is a positive because we were totally written off.\nWould have been good value for at least a losing bonus point, loads of solid defence, try scoring opportunities and good individual showings.\n#NORvCAR",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my67x35mpk27",
-      "publishedAt": "2026-10-18T18:22:15.183Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
     },
