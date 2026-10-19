@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-19T21:07:46+01:00",
+  "generatedAt": "2026-10-19T22:07:05+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
     {
@@ -26,6 +26,21 @@
       "publishedAt": "2026-10-19T19:44:32.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigogwhrl26sd6tbijjgsjs2cuvvfeaurdsf7oiakdqgohiijzdifa",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112256034505207972",
+      "text": "Tomorrow ⏳️🏴󠁧󠁢󠁷󠁬󠁳󠁿\n\n#CymruAmByth https://t.co/LjDGHlFNIR",
+      "author": "Welsh Rugby Union 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "handle": "WelshRugbyUnion",
+      "avatar": "https://pbs.twimg.com/profile_images/2032055092023623680/2UrVtIad_bigger.jpg",
+      "url": "https://x.com/WelshRugbyUnion/status/2112256034505207972",
+      "publishedAt": "2026-10-19T18:54:17.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVA9qwOW4AALI-H.jpg",
+      "teamIds": [
+        "wales"
+      ],
+      "source": "x:WelshRugbyUnion"
     },
     {
       "type": "x",
@@ -695,21 +710,6 @@
         "bristol"
       ],
       "source": "x:BristolBears"
-    },
-    {
-      "type": "x",
-      "id": "x:2112182982442426862",
-      "text": "We're halfway through a big October at home. Two more @Vodacom #URC matches at DHL Stadium before we break next month.\n\n🎟️ https://t.co/JFWS04TUUr \n\n#STOvSCA #inittogether https://t.co/6S8yKAgUZ9",
-      "author": "DHL Stormers",
-      "handle": "THESTORMERS",
-      "avatar": "https://pbs.twimg.com/profile_images/2109556734381498368/CXO-R1_p_bigger.jpg",
-      "url": "https://x.com/THESTORMERS/status/2112182982442426862",
-      "publishedAt": "2026-10-19T14:04:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU_65h2WoAAiagy.jpg",
-      "teamIds": [
-        "stormers"
-      ],
-      "source": "x:THESTORMERS"
     },
     {
       "type": "bluesky",
