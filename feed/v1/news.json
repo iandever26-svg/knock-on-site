@@ -1,8 +1,56 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-20T13:07:20+01:00",
+  "generatedAt": "2026-10-20T14:09:49+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3mycnoftpucnx",
+      "text": "At one stage the Proteas were looking at 150.\nJust gone past 300... and 350 is now possible.\nIncredible partnership by Bavuma and Jansen to get SA back into the Test and series.\nBavuma scores one of the great fightback tons. No one better for this SA side when chips are down",
+      "author": "Jon Cardinelli",
+      "handle": "joncardinelli.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wizadpqsar4meknsnx7s3rms/bafkreicmmiirqk2ft7xymnjwhs66pxlm4ttg4u2v7vqg26qpvuchxm5nri",
+      "url": "https://bsky.app/profile/joncardinelli.bsky.social/post/3mycnoftpucnx",
+      "publishedAt": "2026-10-20T12:38:35.741Z",
+      "thumbnail": null,
+      "source": "joncardinelli.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mycnkaixwc2r",
+      "text": "Nankivell's new Munster deal paves way for Ireland career (✍️@RTErugby) #Rugby #Munster #AlexNankivell",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mycnkaixwc2r",
+      "publishedAt": "2026-10-20T12:36:15.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiejuyvca3tap2b5iz2kbuhmguw7o55jgdlnfffhkfv5k5vsmb5ls4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mycndxch2n26",
+      "text": "Farrell set to name Ireland squad as he targets Nations Championship title (✍️@rugby_ie) #Ireland #Rugby #SixNations",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mycndxch2n26",
+      "publishedAt": "2026-10-20T12:32:44.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihmv2nokwk2p74twijczutiqf36pz554rxbcbioxvs6fukmh4ilmm",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mycmflxej32r",
+      "text": "Alex Nankivell signs two-year contract extension with Munster (✍️@rugby_ie) #MunsterRugby #AlexNankivell #RugbyNews",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mycmflxej32r",
+      "publishedAt": "2026-10-20T12:15:46.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibdsgmwnfgz3vlvshdlqpr3qwwehd6khbgtath567ngrvhwg5pbte",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2112514411277471782",
@@ -773,42 +821,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mybwcyyjne2v",
-      "text": "European bonus point system met with provincial optimism (✍️@RTErugby) #Rugby #EPCR #BonusPoints",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mybwcyyjne2v",
-      "publishedAt": "2026-10-20T05:40:36.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigelspi2ftiqlu4lfndm4kbgug66zvnh7g7qs5zkyvkjxhnhqc6kq",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mybufguds52c",
-      "text": "Leinster coach Bleyendaal on Axel anniversary and Munster's 'different dynamic' (✍️@rugby_ie) #Leinster #Munster #Rugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mybufguds52c",
-      "publishedAt": "2026-10-20T05:06:11.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicuf2up54n3eovz4f6mxpss2ljqfgidoj45x6ewhzorgasu4bgju4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myb3vb6ou22z",
-      "text": "Jackman: Lancaster's young stars ignited Connacht win (✍️@RTErugby) #Rugby #Connacht #BernardJackman",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myb3vb6ou22z",
-      "publishedAt": "2026-10-19T21:47:38.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreie4jrsqxjfmqewnant7hycke4srqkd4cg6z55okcx7gbwpwodyvbe",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3myav2hs2rc2c",
       "text": "I will never tire of a Jonny Goodridge tap penalty move.",
       "author": "Cardiff Rugby Life",
@@ -1114,18 +1126,6 @@
       "publishedAt": "2026-10-17T17:17:37.217Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreicvrfhmfgzf42k3usamnxolrskv7ndznxrwryi77oqkrzgpj2jzcm",
       "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3my3hrjd3kk6z",
-      "text": "Great start to the game by the Stormers, and at one stage it looked like it might be a one-sided blowout.\nMade to fight either side of HT, though... cards stalled their momentum.\nGood hustle to regain initiative and clinch the BP.  Scrum again dominant, kicking game on point",
-      "author": "Jon Cardinelli",
-      "handle": "joncardinelli.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wizadpqsar4meknsnx7s3rms/bafkreicmmiirqk2ft7xymnjwhs66pxlm4ttg4u2v7vqg26qpvuchxm5nri",
-      "url": "https://bsky.app/profile/joncardinelli.bsky.social/post/3my3hrjd3kk6z",
-      "publishedAt": "2026-10-17T16:04:19.434Z",
-      "thumbnail": null,
-      "source": "joncardinelli.bsky.social"
     },
     {
       "type": "bluesky",
