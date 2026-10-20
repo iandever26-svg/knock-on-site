@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-20T05:07:18+01:00",
+  "generatedAt": "2026-10-20T06:07:11+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mybufguds52c",
+      "text": "Leinster coach Bleyendaal on Axel anniversary and Munster's 'different dynamic' (✍️@rugby_ie) #Leinster #Munster #Rugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mybufguds52c",
+      "publishedAt": "2026-10-20T05:06:11.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicuf2up54n3eovz4f6mxpss2ljqfgidoj45x6ewhzorgasu4bgju4",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2112361931466035492",
@@ -381,18 +393,6 @@
         "scotland"
       ],
       "source": "x:Scotlandteam"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myajluydah2s",
-      "text": "Ep 3686: Wins All Round In The Champions Cup, Connacht Conquer Saracens, Munster Get It Done In Cork - 19/10/26 (🎙️@SecondCaptains) #ChampionsCup #Connacht #Saracens",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myajluydah2s",
-      "publishedAt": "2026-10-19T16:20:16.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidthwzwh7h4sgzkvdtjbb3mn3zxzslp3k4sfexdxzlysxthyh5tvu",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
@@ -1333,7 +1333,7 @@
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
       "ok": false,
-      "error": "HTTP 404",
+      "error": "HTTP 500",
       "kept": 1
     },
     {
