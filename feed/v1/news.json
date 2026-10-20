@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-20T04:10:10+01:00",
+  "generatedAt": "2026-10-20T05:07:18+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2112361931466035492",
+      "text": "Beauden Barrett appreciation post 💌 https://t.co/qvqqb0iu1e",
+      "author": "All Blacks",
+      "handle": "AllBlacks",
+      "avatar": "https://pbs.twimg.com/profile_images/1472711036813799428/QHrkYpf6_bigger.jpg",
+      "url": "https://x.com/AllBlacks/status/2112361931466035492",
+      "publishedAt": "2026-10-20T01:55:04.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVCd9kuXcAApAZ3.jpg",
+      "teamIds": [
+        "new-zealand"
+      ],
+      "source": "x:AllBlacks"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myb3vb6ou22z",
@@ -697,21 +712,6 @@
       "source": "x:StadeToulousain"
     },
     {
-      "type": "x",
-      "id": "x:2112185064263987450",
-      "text": "Some of our finest finishes 🆚 Chiefs 😍 https://t.co/H8iBqI8IqW",
-      "author": "Bristol Bears 🐻",
-      "handle": "BristolBears",
-      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
-      "url": "https://x.com/BristolBears/status/2112185064263987450",
-      "publishedAt": "2026-10-19T14:12:16.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU_6WmrWMAAtMCl.jpg",
-      "teamIds": [
-        "bristol"
-      ],
-      "source": "x:BristolBears"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3myab2gquqc2v",
       "text": "It was a shaky start for the scrum but some patches on the go and by half-time Cardiff were back in the contest in a big way.\nSam Wainwright getting the loosehead in a terrible shape.",
@@ -1319,7 +1319,7 @@
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
       "ok": false,
-      "error": "HTTP 500",
+      "error": "HTTP 404",
       "kept": 3
     },
     {
