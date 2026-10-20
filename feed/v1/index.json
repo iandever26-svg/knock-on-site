@@ -6,16 +6,6 @@
   "standingsUpdatedAt": "2026-10-10T21:45:31+01:00",
   "matches": [
     {
-      "match_id": "ccup-2026-10-16-glo-ubb",
-      "kickoff": "2026-10-16T20:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-16T21:23:27.221Z"
-    },
-    {
       "match_id": "ccup-2026-10-17-bat-mon",
       "kickoff": "2026-10-17T20:00:00+01:00",
       "score": false,
@@ -124,26 +114,6 @@
       "lineupUpdatedAt": null,
       "events": true,
       "eventsUpdatedAt": "2026-10-18T16:13:55.514Z"
-    },
-    {
-      "match_id": "chcup-2026-10-16-dra-per",
-      "kickoff": "2026-10-16T20:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-16T21:23:27.221Z"
-    },
-    {
-      "match_id": "chcup-2026-10-16-edi-tln",
-      "kickoff": "2026-10-16T20:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-16T21:23:27.221Z"
     },
     {
       "match_id": "chcup-2026-10-17-bli-osp",
