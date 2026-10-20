@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-20T08:07:15+01:00",
+  "generatedAt": "2026-10-20T09:08:15+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3myc64qpu332c",
+      "text": "It's about time for an interpro⚔️\n🎟️ Tickets are still available for our match against Munster at https://bit.ly/4gO8Q1D",
+      "author": "Leinster Rugby",
+      "handle": "leinsterrugby.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
+      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3myc64qpu332c",
+      "publishedAt": "2026-10-20T08:00:16.912Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreicahhvpnlepasgf6gtd7qxzbmtnm2qm7ukvydb6pheopn4n72uiwa",
+      "source": "leinsterrugby.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3myc63unar22w",
+      "text": "A first run out at St Helen's in our Macron home kit 🖤\nGet yours ready for Saturday night 👉 ospreys.info/shoponline\n#OurBloodIsBlack",
+      "author": "Ospreys Rugby",
+      "handle": "ospreysofficial.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
+      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3myc63unar22w",
+      "publishedAt": "2026-10-20T07:59:47.592Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifjyj64svyph64vqktivaa2ysqln32toaa6up4nztlvfxgrflq5qy",
+      "source": "ospreysofficial.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3myc3tmik3k2q",
+      "text": "Desperately sad news this weekend regarding the passing of Lions’ Hyron Andrews and RGC’s Jack Davies.\nThoughts with their family, friends and all those at Lions and RGC.\nCysgu’n Dawel, Hyron a Jack.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3myc3tmik3k2q",
+      "publishedAt": "2026-10-20T07:19:23.132Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3myc33rr55622",
@@ -749,18 +785,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3my7z2ljxqs2c",
-      "text": "A summary of Johan Mulder's last two weeks;\nLeinster: Meant to have a weekend off, training injury to Ellis Bevan means he's travelling and on the bench\nNorthampton: Meant to be on the bench but Aled Davies is ill so starts and plays 78 minutes\nWas excellent yesterday as well.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3my7z2ljxqs2c",
-      "publishedAt": "2026-10-19T11:24:16.309Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreiedjazrwtpfxhic22iokdxofwwv5i3faruiznzp7iazkumgibrjp4/thumbnail.jpg",
-      "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3my7ynvaexs2d",
       "text": "Super Rygbi Cymru Wrap Up 🏉\nCheck out last weekend's results and the next fixtures for\nAberavon, Bridgend Ravens and Swansea RFC 👇\n#OurBloodIsBlack",
       "author": "Ospreys Rugby",
@@ -1068,18 +1092,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:bgeqymeltxrtny34aikxe4vy/app.bsky.feed.post/3my3iitggy62a",
-      "text": "📊 | Here are the match stats from today's bonus-point defeat of ASM Clermont Auvergne, courtesy of Laya Healthcare\n#ASMvLEI",
-      "author": "Leinster Rugby",
-      "handle": "leinsterrugby.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreidewh6iscgzmp56acshzhwoixyjoxxld6vj6bi76zvuyirnaqf66y",
-      "url": "https://bsky.app/profile/leinsterrugby.bsky.social/post/3my3iitggy62a",
-      "publishedAt": "2026-10-17T16:17:21.615Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bgeqymeltxrtny34aikxe4vy/bafkreifv6zrbpctvslrbvxokc7cjaop2ikiq7gyrseekcvhby6ojievjzi",
-      "source": "leinsterrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3my3hrjd3kk6z",
       "text": "Great start to the game by the Stormers, and at one stage it looked like it might be a one-sided blowout.\nMade to fight either side of HT, though... cards stalled their momentum.\nGood hustle to regain initiative and clinch the BP.  Scrum again dominant, kicking game on point",
       "author": "Jon Cardinelli",
@@ -1113,18 +1125,6 @@
       "publishedAt": "2026-10-17T15:33:02.540Z",
       "thumbnail": null,
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:6bc4kwdt7yiy7nwvz5md3hvx/app.bsky.feed.post/3my3fnsauhc2k",
-      "text": "Post match Press Conference with Mark Jones 🗣️\n\"I'm really pleased with how experience and development all came together today. We've had a tough travel schedule to start the season and we've got some big derbies coming up. It was great to see all these guys performing so well.\"\n#OurBloodIsBlack",
-      "author": "Ospreys Rugby",
-      "handle": "ospreysofficial.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreidgvckuucjhse2if5kagyzx4jerxegmmbe2hrwm5jlq3cn6tyz3iu",
-      "url": "https://bsky.app/profile/ospreysofficial.bsky.social/post/3my3fnsauhc2k",
-      "publishedAt": "2026-10-17T15:26:27.092Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6bc4kwdt7yiy7nwvz5md3hvx/bafkreibudp66gjtvfmdis6nfivf2faxqamxplwraqoylqrnxzjt4paq5zq/thumbnail.jpg",
-      "source": "ospreysofficial.bsky.social"
     },
     {
       "type": "bluesky",
