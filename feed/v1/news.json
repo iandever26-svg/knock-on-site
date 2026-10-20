@@ -1,8 +1,32 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-20T06:07:11+01:00",
+  "generatedAt": "2026-10-20T07:07:21+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mybwd56lza2s",
+      "text": "Connacht firepower igniting hope and turning heads (✍️@RTErugby) #ConnachtRugby #RugbyUnion #EuropeanRugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mybwd56lza2s",
+      "publishedAt": "2026-10-20T05:40:41.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidfxdr3rbtrqlxlxolkwn2jrafdfcmhg24g5y7tqhmjlienrqsefy",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mybwcyyjne2v",
+      "text": "European bonus point system met with provincial optimism (✍️@RTErugby) #Rugby #EPCR #BonusPoints",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mybwcyyjne2v",
+      "publishedAt": "2026-10-20T05:40:36.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigelspi2ftiqlu4lfndm4kbgug66zvnh7g7qs5zkyvkjxhnhqc6kq",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mybufguds52c",
@@ -80,18 +104,6 @@
       "publishedAt": "2026-10-19T19:45:17.151Z",
       "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreibzqd53mfor56etjqavh7odl6dbxrb4qrlcfmpkwnybcwqmm7b6ty/thumbnail.jpg",
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myauz5p5hf2z",
-      "text": "Majestic effort from Prendergast and JOB tops Leinster's 7-try haul (✍️@rugby_ie) #Leinster #Rugby #ChampionsCup",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myauz5p5hf2z",
-      "publishedAt": "2026-10-19T19:44:32.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreigogwhrl26sd6tbijjgsjs2cuvvfeaurdsf7oiakdqgohiijzdifa",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
@@ -336,18 +348,6 @@
         "connacht"
       ],
       "source": "x:connachtrugby"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myakqwnzdz2z",
-      "text": "Why Leinster & Toulouse Will Always Be Rugby's Top Clubs. (📹@PirateRugbyPod) #rugby #leinster #toulouse",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myakqwnzdz2z",
-      "publishedAt": "2026-10-19T16:40:59.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibdboyqmzljvc4jbmr5fu64yj2qv6hwknahqtiwki55ci3ds2w2gm",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
@@ -1333,7 +1333,7 @@
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
       "ok": false,
-      "error": "HTTP 500",
+      "error": "HTTP 404",
       "kept": 1
     },
     {
