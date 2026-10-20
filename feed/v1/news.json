@@ -1,8 +1,161 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-20T14:09:49+01:00",
+  "generatedAt": "2026-10-20T15:07:16+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "youtube",
+      "id": "yt:Edukut3cXuc",
+      "title": "#BENvGLA | Lamaro: \"Orgoglioso dei 100 caps; contro Glasgow sarà una battaglia\"",
+      "author": "BenettonRugby",
+      "avatar": null,
+      "url": "https://www.youtube.com/watch?v=Edukut3cXuc",
+      "publishedAt": "2026-10-20T14:00:11.000Z",
+      "thumbnail": "https://i2.ytimg.com/vi/Edukut3cXuc/hqdefault.jpg",
+      "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mycqoyfbrr2z",
+      "text": "Edinburgh assistant Tim Sampson has confirmed Duhan van der Merwe is back in training\nAnd Sampson has pledged the club's support for the Lions as they deal with the tragic passing of Hyron Andrews\n🔗 shorturl.at/jTM2O",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mycqoyfbrr2z",
+      "publishedAt": "2026-10-20T13:32:36.165Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihw6vxiprxsxgdnpnv5rxk7b3nxsfau2tpvnfiaeu34qn4hfvuxp4",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112536815328489479",
+      "text": "Opening night predictions 👀🏀 https://t.co/q3OWAqjvME",
+      "author": "BKT United Rugby Championship (URC)",
+      "handle": "URCOfficial",
+      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
+      "url": "https://x.com/URCOfficial/status/2112536815328489479",
+      "publishedAt": "2026-10-20T13:30:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112514413219508224/img/i4TBQzeDpHaaPZrU.jpg",
+      "teamIds": [],
+      "source": "x:URCOfficial"
+    },
+    {
+      "type": "x",
+      "id": "x:2112536031153304008",
+      "text": "This Friday, we’ve got a job to do. 🦁🔥\n\nOur Fidelity ADT Lions U20s take on the DHL Stormers Bolts in the SA Rugby U20 Cup semi-final at UJ Stadium.\n\n🎟️ Free entrance. Free parking. Get behind the boys!\n\n#LionsPride #ForOurCity https://t.co/1nK9eImvVA",
+      "author": "Lions",
+      "handle": "LionsRugbyCo",
+      "avatar": "https://pbs.twimg.com/profile_images/1288898544645144578/dNPdChOX_bigger.jpg",
+      "url": "https://x.com/LionsRugbyCo/status/2112536031153304008",
+      "publishedAt": "2026-10-20T13:26:53.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVE8LyKXAAAyALk.jpg",
+      "teamIds": [
+        "lions"
+      ],
+      "source": "x:LionsRugbyCo"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mycpte7n2k2q",
+      "text": "Cardiff have announced that Jon Flatman will join the club as CEO from Barnsley FC.\nHe has previously been Chairman of York Knights RLFC and worked on the 2022 Rugby League World Cup.\nJamie Muir will remain as Managing Director working alongside Flatman.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mycpte7n2k2q",
+      "publishedAt": "2026-10-20T13:17:09.291Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112531655818973186",
+      "text": "🗞️ SQUAD UPDATE | The Munster squad started preparations on Monday ahead of Saturday's #URC Interpro derby against Leinster.\n\nSee the latest news from camp: https://t.co/1n1olxNyc5\n\n#SUAF 🔴 https://t.co/2w83S0PEuD",
+      "author": "Munster Rugby",
+      "handle": "Munsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2112185708186140672/xVcNc3M9_bigger.jpg",
+      "url": "https://x.com/Munsterrugby/status/2112531655818973186",
+      "publishedAt": "2026-10-20T13:09:30.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVE4MT-XgAA-1_R.jpg",
+      "teamIds": [
+        "munster"
+      ],
+      "source": "x:Munsterrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112530794321162570",
+      "text": "Cardiff Rugby are excited to announce the appointment of Jon Flatman as the club’s new chief executive officer.\n\nJon joins from @BarnsleyFC and will assume the role in January.\n\nFull story below:\nhttps://t.co/EOPezSHzJg https://t.co/jne7bkXlnV",
+      "author": "Cardiff Rugby",
+      "handle": "Cardiff_Rugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
+      "url": "https://x.com/Cardiff_Rugby/status/2112530794321162570",
+      "publishedAt": "2026-10-20T13:06:04.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVE3ZgNWkAAMSlI.jpg",
+      "teamIds": [
+        "cardiff"
+      ],
+      "source": "x:Cardiff_Rugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112529482636521884",
+      "text": "Next stop: Cardiff 📍 \n\nA rugby city rich in history that awaits the Hollywoodbets Sharks 📸\n\n#HollywoodbetsSharks #VodacomURC https://t.co/4uS9iLx7dA",
+      "author": "Sharks Rugby Club",
+      "handle": "SharksRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2108105864909312000/tbCzWA0T_bigger.jpg",
+      "url": "https://x.com/SharksRugby/status/2112529482636521884",
+      "publishedAt": "2026-10-20T13:00:52.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVE2XdZX0AAfjDF.jpg",
+      "teamIds": [
+        "sharks"
+      ],
+      "source": "x:SharksRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112529223596601505",
+      "text": "Cheswill with a performance of the ages 🙌🔥.\n\nHow do you rate that round 1 performance from Cheswill?\n\n@ChampionsCup | @Investec https://t.co/Qx7R8pwQKM",
+      "author": "Official Blue Bulls",
+      "handle": "BlueBullsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
+      "url": "https://x.com/BlueBullsRugby/status/2112529223596601505",
+      "publishedAt": "2026-10-20T12:59:50.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVE1VrPXoAEI_lQ.jpg",
+      "teamIds": [
+        "bulls"
+      ],
+      "source": "x:BlueBullsRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112528384161112517",
+      "text": "We're in the Scottish capital this Friday as we take on log leaders @EdinburghRugby.\n@Vodacom #URC | #EDIvLIO | #ForOurCity\n#LionsPride🦁 https://t.co/qCpZj9xAOE",
+      "author": "Lions",
+      "handle": "LionsRugbyCo",
+      "avatar": "https://pbs.twimg.com/profile_images/1288898544645144578/dNPdChOX_bigger.jpg",
+      "url": "https://x.com/LionsRugbyCo/status/2112528384161112517",
+      "publishedAt": "2026-10-20T12:56:30.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVEySy_XgAA-yDa.jpg",
+      "teamIds": [
+        "lions"
+      ],
+      "source": "x:LionsRugbyCo"
+    },
+    {
+      "type": "x",
+      "id": "x:2112525632643145949",
+      "text": "Top spot. Home crowd. Friday night. 🔥\n\nWe’re back in @URCOfficial action against the 10Bet Lions, and we want you behind us.\n\nTickets 🎟️ https://t.co/f0KaTTOcas https://t.co/ukwXWF0dL3",
+      "author": "Edinburgh Rugby",
+      "handle": "EdinburghRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2112152316769902592/uqKWkzBW_bigger.jpg",
+      "url": "https://x.com/EdinburghRugby/status/2112525632643145949",
+      "publishedAt": "2026-10-20T12:45:34.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVEuaFOXkAAvyKO.jpg",
+      "teamIds": [
+        "edinburgh"
+      ],
+      "source": "x:EdinburghRugby"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3mycnoftpucnx",
@@ -28,6 +181,21 @@
       "source": "rugbynewsplus.bsky.social"
     },
     {
+      "type": "x",
+      "id": "x:2112522801005371822",
+      "text": "💥 𝙒𝙮𝙩𝙝𝙣𝙤𝙨 𝙮 𝙂𝙚𝙢 | 🇯🇵🆚🏴󠁧󠁢󠁷󠁬󠁳󠁿 \n\nOur WXV campaign continues in Tokyo ✈️💪\n\n🗓️ 24.10.26\n⏰ 10.30 KO (UK time)\n🏟 Memorial Stadium\n🏆 WXV Global Series\n📺 BBC iplayer \n\n#CymruAmByth https://t.co/aWJ8jraoFV",
+      "author": "Welsh Rugby Union 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "handle": "WelshRugbyUnion",
+      "avatar": "https://pbs.twimg.com/profile_images/2032055092023623680/2UrVtIad_bigger.jpg",
+      "url": "https://x.com/WelshRugbyUnion/status/2112522801005371822",
+      "publishedAt": "2026-10-20T12:34:19.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112522779761233920/img/YyFtucEugwB5Yuae.jpg",
+      "teamIds": [
+        "wales"
+      ],
+      "source": "x:WelshRugbyUnion"
+    },
+    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mycndxch2n26",
       "text": "Farrell set to name Ireland squad as he targets Nations Championship title (✍️@rugby_ie) #Ireland #Rugby #SixNations",
@@ -38,6 +206,36 @@
       "publishedAt": "2026-10-20T12:32:44.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihmv2nokwk2p74twijczutiqf36pz554rxbcbioxvs6fukmh4ilmm",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112520525184368732",
+      "text": "Jimmy G. 🎯 https://t.co/9Ec8ZE9iQq",
+      "author": "Edinburgh Rugby",
+      "handle": "EdinburghRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2112152316769902592/uqKWkzBW_bigger.jpg",
+      "url": "https://x.com/EdinburghRugby/status/2112520525184368732",
+      "publishedAt": "2026-10-20T12:25:16.000Z",
+      "thumbnail": null,
+      "teamIds": [
+        "edinburgh"
+      ],
+      "source": "x:EdinburghRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112518594995302832",
+      "text": "Alex Samuel locked in 🔒 https://t.co/uEp7b5MO5u",
+      "author": "Glasgow Warriors",
+      "handle": "GlasgowWarriors",
+      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
+      "url": "https://x.com/GlasgowWarriors/status/2112518594995302832",
+      "publishedAt": "2026-10-20T12:17:36.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112518511578759169/img/-A0mKNvaYzwJIKFn.jpg",
+      "teamIds": [
+        "glasgow"
+      ],
+      "source": "x:GlasgowWarriors"
     },
     {
       "type": "bluesky",
@@ -53,6 +251,51 @@
     },
     {
       "type": "x",
+      "id": "x:2112516957228630049",
+      "text": "\"TEMBA BAVUMA! HE CAME FROM LANGA! HE CAME TO SCORE, CAME TO SCORE, CAME TO SCORE, SCORE, SCORE!\" - 👏👏👏👏 https://t.co/i4bMuibqZK",
+      "author": "Sharks Rugby Club",
+      "handle": "SharksRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2108105864909312000/tbCzWA0T_bigger.jpg",
+      "url": "https://x.com/SharksRugby/status/2112516957228630049",
+      "publishedAt": "2026-10-20T12:11:05.000Z",
+      "thumbnail": null,
+      "teamIds": [
+        "sharks"
+      ],
+      "source": "x:SharksRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112516219417047247",
+      "text": "🔒 Here to stay!\n\nAlex Nankivell has signed a new two-year contract extension, keeping him in Munster red until at least 2029 🦌\n\nFull story here 👉 https://t.co/U6PnHm1xlS https://t.co/EYdXdubRoQ",
+      "author": "Munster Rugby",
+      "handle": "Munsterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2112185708186140672/xVcNc3M9_bigger.jpg",
+      "url": "https://x.com/Munsterrugby/status/2112516219417047247",
+      "publishedAt": "2026-10-20T12:08:10.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVEp-XUWMAE4YQo.jpg",
+      "teamIds": [
+        "munster"
+      ],
+      "source": "x:Munsterrugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112514414809137319",
+      "text": "\"It's honestly such a privilege\" 💙\n\nScotland Women's Head of Athletic Performance, Josie Symonds, reflects on being appointed in the same role for the inaugural British & Irish Lions Women's Tour in 2027 👏 https://t.co/8mCISoL3Wq",
+      "author": "Scottish Rugby",
+      "handle": "Scotlandteam",
+      "avatar": "https://pbs.twimg.com/profile_images/1856274139696275456/XghMgMxS_bigger.jpg",
+      "url": "https://x.com/Scotlandteam/status/2112514414809137319",
+      "publishedAt": "2026-10-20T12:00:59.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112500477359218689/img/9TG-DjQPzF_qig86.jpg",
+      "teamIds": [
+        "scotland"
+      ],
+      "source": "x:Scotlandteam"
+    },
+    {
+      "type": "x",
       "id": "x:2112514411277471782",
       "text": "WIN a game-changing business package with Funding Circle 🏆\n📽️A professional, co-branded video\n🏉Co-branded LED advertising at a 2026/27 Leicester Tigers fixture\n💸A £5,000 paid media budget\nComplete the form below by 23:59 on 3/11/26 📅\nT&Cs apply.\nhttps://t.co/dpmmldtYoV https://t.co/sKCF58sPNp",
       "author": "Leicester Tigers",
@@ -65,6 +308,36 @@
         "leicester"
       ],
       "source": "x:LeicesterTigers"
+    },
+    {
+      "type": "x",
+      "id": "x:2112514335901671873",
+      "text": "Ulster Rugby | 24 October | 13h45 | Loftus Versfeld\n\nGet your tickets here 👉 https://t.co/uqYxKR0jAP\n\n@Vodacom #URC | @URCOfficial_RSA https://t.co/WqOjABpm7j",
+      "author": "Official Blue Bulls",
+      "handle": "BlueBullsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
+      "url": "https://x.com/BlueBullsRugby/status/2112514335901671873",
+      "publishedAt": "2026-10-20T12:00:40.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112512466475212800/img/kQL0Yh5pV6a8SHmk.jpg",
+      "teamIds": [
+        "bulls"
+      ],
+      "source": "x:BlueBullsRugby"
+    },
+    {
+      "type": "x",
+      "id": "x:2112514249100533934",
+      "text": "The journey continues ✍️ \n\nhttps://t.co/k4mwcvqIis https://t.co/OkYtfJv0G5",
+      "author": "Glasgow Warriors",
+      "handle": "GlasgowWarriors",
+      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
+      "url": "https://x.com/GlasgowWarriors/status/2112514249100533934",
+      "publishedAt": "2026-10-20T12:00:20.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVEog4aXcAAv-eV.jpg",
+      "teamIds": [
+        "glasgow"
+      ],
+      "source": "x:GlasgowWarriors"
     },
     {
       "type": "x",
@@ -270,21 +543,6 @@
       "source": "x:BristolBears"
     },
     {
-      "type": "x",
-      "id": "x:2112493712873832931",
-      "text": "Llongyfarchiadau to the 7 Blue & Blacks who have been selected to represent Wales fort the upcoming Nations Championship Fixtures! \n\n#YmlaenCaerdydd | 🔵⚫ https://t.co/uIayt5YA8u",
-      "author": "Cardiff Rugby",
-      "handle": "Cardiff_Rugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2110032145607430144/-9_D30W0_bigger.jpg",
-      "url": "https://x.com/Cardiff_Rugby/status/2112493712873832931",
-      "publishedAt": "2026-10-20T10:38:44.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVEV1akXIAA5SRo.jpg",
-      "teamIds": [
-        "cardiff"
-      ],
-      "source": "x:Cardiff_Rugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mycgt6c7u52s",
       "text": "Flannery named as Lions Women's head of operations (✍️@RTErugby) #LionsWomen #EimearFlannery #Rugby",
@@ -485,107 +743,6 @@
       "source": "x:connachtrugby"
     },
     {
-      "type": "x",
-      "id": "x:2112483394865049891",
-      "text": "⏳🏉 https://t.co/wNlBIRba6t",
-      "author": "TOP 14 Rugby",
-      "handle": "top14rugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1660209856731643905/f1K1xeM7_bigger.jpg",
-      "url": "https://x.com/top14rugby/status/2112483394865049891",
-      "publishedAt": "2026-10-20T09:57:44.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVEMc3aWAAAxINE.jpg",
-      "teamIds": [],
-      "source": "x:top14rugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112483065922740623",
-      "text": "Re-introducing: Matt Romao 💪\n\nWe already knew. The rest of the rugby world is starting to... 🦈\n\n#SharksRugbyClub #BlackWhiteForever https://t.co/WFtREe3LUX",
-      "author": "Sharks Rugby Club",
-      "handle": "SharksRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2108105864909312000/tbCzWA0T_bigger.jpg",
-      "url": "https://x.com/SharksRugby/status/2112483065922740623",
-      "publishedAt": "2026-10-20T09:56:25.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVELu6KXMAEIunV.jpg",
-      "teamIds": [
-        "sharks"
-      ],
-      "source": "x:SharksRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112482907113783792",
-      "text": "Pushing our limits.\n\nUlster Rugby; the boys' next challenge.\n\n24 October | 13h45 | Loftus Versfeld https://t.co/SHfajEWWzD",
-      "author": "Official Blue Bulls",
-      "handle": "BlueBullsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
-      "url": "https://x.com/BlueBullsRugby/status/2112482907113783792",
-      "publishedAt": "2026-10-20T09:55:47.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVELWRRW4AAl7j_.jpg",
-      "teamIds": [
-        "bulls"
-      ],
-      "source": "x:BlueBullsRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112482696907690335",
-      "text": "Pushing our limits.\n\nUltster; the boys' next challenge.\n\n24 October | 13h45 | Loftus Versfeld https://t.co/4FiaIg3EoT",
-      "author": "Official Blue Bulls",
-      "handle": "BlueBullsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
-      "url": "https://x.com/BlueBullsRugby/status/2112482696907690335",
-      "publishedAt": "2026-10-20T09:54:57.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVELWRRW4AAl7j_.jpg",
-      "teamIds": [
-        "bulls"
-      ],
-      "source": "x:BlueBullsRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112480578327183696",
-      "text": "Wednesday, 3pm. 👊 https://t.co/rGGaX1ukPN",
-      "author": "Irish Rugby",
-      "handle": "IrishRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2013579995612917760/vv0fi-Pq_bigger.jpg",
-      "url": "https://x.com/IrishRugby/status/2112480578327183696",
-      "publishedAt": "2026-10-20T09:46:32.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112476677544587264/img/4Zx6BFNXdtLH2ke8.jpg",
-      "teamIds": [
-        "ireland"
-      ],
-      "source": "x:IrishRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112476668099260553",
-      "text": "Edinburgh's new recruit on top ⬆️\n\nWho do you think will be topping the leaderboard after 18 rounds?\n\n#BKTURC #URC https://t.co/k4ThiQoaVI",
-      "author": "BKT United Rugby Championship (URC)",
-      "handle": "URCOfficial",
-      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
-      "url": "https://x.com/URCOfficial/status/2112476668099260553",
-      "publishedAt": "2026-10-20T09:31:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU9urkQaYAAL0O3.jpg",
-      "teamIds": [],
-      "source": "x:URCOfficial"
-    },
-    {
-      "type": "x",
-      "id": "x:2112475858950660421",
-      "text": "Carton plein pour les Élite jeunes avec 3 victoires à l’extérieur : les Espoirs à La Rochelle, les Crabos et Alamercery à Mont-de-Marsan !\n\nRetour sur les résultats du week-end du RCV Association 👉 https://t.co/NhR4mnMWJi\n\n#FiertéBretonne https://t.co/8fNBhZtBn7",
-      "author": "Rugby Club Vannes",
-      "handle": "RugbyClubVannes",
-      "avatar": "https://pbs.twimg.com/profile_images/2112474883581984768/pJO3WaRE_bigger.jpg",
-      "url": "https://x.com/RugbyClubVannes/status/2112475858950660421",
-      "publishedAt": "2026-10-20T09:27:47.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVEFj1BX0AAg0Dy.jpg",
-      "teamIds": [
-        "vannes"
-      ],
-      "source": "x:RugbyClubVannes"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3myccwjqvdk2q",
       "text": "The positivity of being in the Champions Cup and pushing Northampton all the way, mixed with the negativity of the format, the terrible scheduling and budgetary constraints as Cardiff return to the top table of European rugby.\ncardiffrugbylife.wales/2026/10/20/v...",
@@ -609,64 +766,6 @@
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
-      "type": "x",
-      "id": "x:2112472150783176926",
-      "text": "Notre pilier Atunaisa Sokobale, sorti blessé samedi lors du match face à Trévise, souffre d'une rupture du triceps et sera opéré demain. Il sera indisponible 4 à 5 mois.\n\nCourage Atu 🤍 https://t.co/pJvdb6bFfD",
-      "author": "Castres Olympique",
-      "handle": "CastresRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2112082818318647296/YAInWblg_bigger.jpg",
-      "url": "https://x.com/CastresRugby/status/2112472150783176926",
-      "publishedAt": "2026-10-20T09:13:03.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVECNdXWYAAJiS3.jpg",
-      "teamIds": [
-        "castres"
-      ],
-      "source": "x:CastresRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112468879788351658",
-      "text": "🐉 𝙎𝙆𝙄𝙇𝙇𝙎 𝘾𝘼𝙈𝙋 | @DRA_Community are 🔙 with Skills Camps this October half-term - including a day at @NHSOBRFC1 a week today! ⤵️\n\nBOOK HERE ▶️ https://t.co/3dvugQGyQz\n\n#WeAreGwentRugby https://t.co/uYwPLBHEen",
-      "author": "Dragons RFC 🐉",
-      "handle": "dragonsrfc",
-      "avatar": "https://pbs.twimg.com/profile_images/2107766404497731584/HWWEQTpv_bigger.jpg",
-      "url": "https://x.com/dragonsrfc/status/2112468879788351658",
-      "publishedAt": "2026-10-20T09:00:03.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVDUAnAWIAA4oy4.jpg",
-      "teamIds": [
-        "dragons"
-      ],
-      "source": "x:dragonsrfc"
-    },
-    {
-      "type": "x",
-      "id": "x:2112468882040496598",
-      "text": "WIN a game-changing business advertising package with Funding Circle 🏆\n\nImagine: your business in the spotlight. One lucky winner will get 👇\n\n📽️A professional, co-branded advertising video\n🏉Co-branded LED advertising at your favourite PREM Rugby club\n💸A £5,000 paid media https://t.co/LVLWqsMGDq",
-      "author": "PREM Rugby",
-      "handle": "premrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1947922197328134144/2PBgulm5_bigger.jpg",
-      "url": "https://x.com/premrugby/status/2112468882040496598",
-      "publishedAt": "2026-10-20T09:00:03.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVDza23XIAA1XNt.jpg",
-      "teamIds": [],
-      "source": "x:premrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112468674514923591",
-      "text": "AIL returns this weekend after a week's hiatus 💪\n\nWhile the All Ireland Junior Cup kicks off 🤩\n\nGet the low down on all the bank holiday weekend action here 👉 https://t.co/aewZmm1grY\n\n#MunsterStartsHere | #SUAF 🔴 https://t.co/dswKddX6un",
-      "author": "Munster Rugby",
-      "handle": "Munsterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2112185708186140672/xVcNc3M9_bigger.jpg",
-      "url": "https://x.com/Munsterrugby/status/2112468674514923591",
-      "publishedAt": "2026-10-20T08:59:14.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVD_CNbW0AATXBB.jpg",
-      "teamIds": [
-        "munster"
-      ],
-      "source": "x:Munsterrugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mycavg72252z",
       "text": "🗣️ \"Rugby is a beautiful game, isn't it?\"\nEdinburgh attack coach Tim Sampson has made clear the club will give the heartbroken Lions all the support they need in their most traumatic and emotional week\n🔗 shorturl.at/jTM2O",
@@ -677,64 +776,6 @@
       "publishedAt": "2026-10-20T08:49:51.703Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiebfxqry76u3jixodxnn54jsguks4xhqcbe3nxn3c5qsjxtuugc7a",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2112464744703807753",
-      "text": "𝗦𝗧𝗔𝗡𝗗𝗜𝗡𝗚 𝗦𝗢𝗟𝗗 𝗢𝗨𝗧 ❌\n\nStanding tickets for Friday night's derby against @BathRugby are now sold out!\n\nUnder 300 seated tickets remain 👉 https://t.co/aN2J0RbXyj\n\n#GLOvBAT | 🍒🛁 https://t.co/aOXlJKw9fR",
-      "author": "Gloucester Rugby 🍒",
-      "handle": "gloucesterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1808786958673481728/9MztoY2U_bigger.jpg",
-      "url": "https://x.com/gloucesterrugby/status/2112464744703807753",
-      "publishedAt": "2026-10-20T08:43:37.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVD7EEwXsAAfPdf.jpg",
-      "teamIds": [
-        "gloucester"
-      ],
-      "source": "x:gloucesterrugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112461994175402399",
-      "text": "Win the ultimate business advertising package with the Funding Circle🤩\n\nEnter here 🔗 https://t.co/FEsfu3Ux3Q https://t.co/Y8Q60DrU5Y",
-      "author": "Exeter Chiefs",
-      "handle": "ExeterChiefs",
-      "avatar": "https://pbs.twimg.com/profile_images/1753380700022005760/nY5BJTlN_bigger.jpg",
-      "url": "https://x.com/ExeterChiefs/status/2112461994175402399",
-      "publishedAt": "2026-10-20T08:32:41.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112461908317962240/img/wXPzTNf_tJPlJwwq.jpg",
-      "teamIds": [
-        "exeter"
-      ],
-      "source": "x:ExeterChiefs"
-    },
-    {
-      "type": "x",
-      "id": "x:2112460881330323651",
-      "text": "If they faced each other right now, who would win? \n• This match cannot end in a draw. \n• It is played in a neutral venue \n• It is a clear day, no wind, and no rain \n• Every player is fit and ready to play",
-      "author": "Guinness Men's Six Nations",
-      "handle": "SixNationsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1862922194491265024/iIUEoSFe_bigger.jpg",
-      "url": "https://x.com/SixNationsRugby/status/2112460881330323651",
-      "publishedAt": "2026-10-20T08:28:16.000Z",
-      "thumbnail": null,
-      "teamIds": [],
-      "source": "x:SixNationsRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112460243191914981",
-      "text": "Donate to the Rowvember challenge 🚣\n\nRowvember will see a team of \"All Stars\" row the Length of Wales in a relay format.\n\nHosted by our friends at @DavidLloydUK Swansea, the Row of 240km will challenge the team featuring some local heroes, current and ex players 🖤\n\nDonate here: https://t.co/UrBpFVvOgl\n\n#MoreThanRugby",
-      "author": "Ospreys",
-      "handle": "ospreys",
-      "avatar": "https://pbs.twimg.com/profile_images/2109570087829028864/eTePLZS8_bigger.jpg",
-      "url": "https://x.com/ospreys/status/2112460243191914981",
-      "publishedAt": "2026-10-20T08:25:44.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVD3TOrWAAASlXe.jpg",
-      "teamIds": [
-        "ospreys"
-      ],
-      "source": "x:ospreys"
     },
     {
       "type": "youtube",
@@ -818,18 +859,6 @@
       "publishedAt": "2026-10-20T05:40:41.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidfxdr3rbtrqlxlxolkwn2jrafdfcmhg24g5y7tqhmjlienrqsefy",
       "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3myav2hs2rc2c",
-      "text": "I will never tire of a Jonny Goodridge tap penalty move.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3myav2hs2rc2c",
-      "publishedAt": "2026-10-19T19:45:17.151Z",
-      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreibzqd53mfor56etjqavh7odl6dbxrb4qrlcfmpkwnybcwqmm7b6ty/thumbnail.jpg",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
@@ -959,18 +988,6 @@
       "publishedAt": "2026-10-18T15:06:33.763Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wizadpqsar4meknsnx7s3rms/bafkreiesbhfsb45stcttgekapyjkwa5kmgqaxl3m2yz43aotlzlaqpg76e",
       "source": "joncardinelli.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my5rbhct3f2a",
-      "text": "Our team make their Scotland squad picks - let us know what you think\n🔗 shorturl.at/ZeR9n",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my5rbhct3f2a",
-      "publishedAt": "2026-10-18T13:59:37.197Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihvhvyvs72l6e3dfz3xvmare22ar2rwxgg7qffz46jrk5xxh4dq3m",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
@@ -1289,17 +1306,6 @@
       "url": "https://www.youtube.com/watch?v=MElZA1s7Yug",
       "publishedAt": "2026-10-14T13:28:12.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/MElZA1s7Yug/hqdefault.jpg",
-      "source": "UC7991AZNku42o3Y36kUZOJA"
-    },
-    {
-      "type": "youtube",
-      "id": "yt:STuXW-wYcuA",
-      "title": "Press Pass | Munster Rugby v Racing 92",
-      "author": "Munster Rugby",
-      "avatar": null,
-      "url": "https://www.youtube.com/watch?v=STuXW-wYcuA",
-      "publishedAt": "2026-10-14T12:41:51.000Z",
-      "thumbnail": "https://i4.ytimg.com/vi/STuXW-wYcuA/hqdefault.jpg",
       "source": "UC7991AZNku42o3Y36kUZOJA"
     }
   ],
