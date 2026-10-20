@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-20T16:07:04+01:00",
+  "generatedAt": "2026-10-20T17:10:52+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mycyf3nkx42c",
+      "text": "Loughman a doubt for Munster's Aviva Stadium derby against Leinster (✍️@rugby_ie) #Munster #Leinster #AvivaStadium",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mycyf3nkx42c",
+      "publishedAt": "2026-10-20T15:50:14.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicutxfjxrxjofok2al5xvxkmatdaf7dqwcxorrhkyypkktehxtlym",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mycvsazdcz2z",
@@ -860,18 +872,6 @@
       "publishedAt": "2026-10-20T07:06:00.396Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidxhuoko3ljrzeey4734rz2brsqq545dacfckj7vnx7jc4tbvtxp4",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mybwd56lza2s",
-      "text": "Connacht firepower igniting hope and turning heads (✍️@RTErugby) #ConnachtRugby #RugbyUnion #EuropeanRugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mybwd56lza2s",
-      "publishedAt": "2026-10-20T05:40:41.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreidfxdr3rbtrqlxlxolkwn2jrafdfcmhg24g5y7tqhmjlienrqsefy",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "bluesky",
