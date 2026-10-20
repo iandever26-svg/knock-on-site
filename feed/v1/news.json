@@ -1,8 +1,116 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-20T21:08:27+01:00",
+  "generatedAt": "2026-10-20T23:07:21+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "x",
+      "id": "x:2112647916804313296",
+      "text": "Learn from each other. Grow together 🖤\n \nThanks to our Altrad Group whānau for the kōrero with the boys. Ngā mihi Caroline, Jack, Alan, Cyril and Fran 🤝🏽 https://t.co/6s6Iqjw0yd",
+      "author": "All Blacks",
+      "handle": "AllBlacks",
+      "avatar": "https://pbs.twimg.com/profile_images/1472711036813799428/QHrkYpf6_bigger.jpg",
+      "url": "https://x.com/AllBlacks/status/2112647916804313296",
+      "publishedAt": "2026-10-20T20:51:29.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVGiFX6W0AAGHUx.jpg",
+      "teamIds": [
+        "new-zealand"
+      ],
+      "source": "x:AllBlacks"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mydj57vgce2v",
+      "text": "545 : Clérmont, Kicking & Ciarán (✍️ @HarpinOnRugby) #Rugby #Clermont #EuropeanRugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mydj57vgce2v",
+      "publishedAt": "2026-10-20T20:50:03.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifbpmf6pmcntrh776ggwirlik467qmir7idimjpzldfirgwlmioey",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mydizas5ws2e",
+      "text": "🚨 TEAM ANNOUNCEMENT 🚨\nHere's the Scotland team to face the Wallaroos in Canberra on Friday\nTeam news 👉 shorturl.at/EFnkf",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mydizas5ws2e",
+      "publishedAt": "2026-10-20T20:47:50.574Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihfrzi2zuwshiybjkqirjlbn4iubknbeqfkdbfan27ifkr53hmq6q",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112646609267720537",
+      "text": "Sights set on MD1 in Cape Town. 👊 https://t.co/TUWUSFpl0P",
+      "author": "Irish Rugby",
+      "handle": "IrishRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2013579995612917760/vv0fi-Pq_bigger.jpg",
+      "url": "https://x.com/IrishRugby/status/2112646609267720537",
+      "publishedAt": "2026-10-20T20:46:17.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112641882522009600/img/6wWAUFSIU6io3UgG.jpg",
+      "teamIds": [
+        "ireland"
+      ],
+      "source": "x:IrishRugby"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mydikmsm622a",
+      "text": "Pleased for Seb Davies on his Cymru recall.\nThe fresh start at Dragons was just what he needed and he’s come into his own as a more senior player in an emerging team.\nStill only 30, great time to make his mark at test level if given the chance.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mydikmsm622a",
+      "publishedAt": "2026-10-20T20:39:39.853Z",
+      "thumbnail": null,
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mydiisgyiq2t",
+      "text": "Clean sweep for provinces as Champions Cup starts hot (✍️@RTErugby) #ChampionsCup #Rugby #IrishRugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mydiisgyiq2t",
+      "publishedAt": "2026-10-20T20:38:38.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreieqy5winlcvei22km3mfdqq5zemo7gw2ytqxa44f43dcayyl3ggja",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112643276352242097",
+      "text": "Eight of our Warriors named to take on Australia this Friday, with Spence and Flynn in line for Scotland debuts! 🏴󠁧󠁢󠁳󠁣󠁴󠁿 https://t.co/07ksWbbfX1",
+      "author": "Glasgow Warriors",
+      "handle": "GlasgowWarriors",
+      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
+      "url": "https://x.com/GlasgowWarriors/status/2112643276352242097",
+      "publishedAt": "2026-10-20T20:33:02.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVGd3HwWIAAB4O1.jpg",
+      "teamIds": [
+        "glasgow"
+      ],
+      "source": "x:GlasgowWarriors"
+    },
+    {
+      "type": "x",
+      "id": "x:2112642567095603364",
+      "text": "Your Scotland team for Friday's clash with Australia 🇦🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿 https://t.co/LVN8T6fSBo",
+      "author": "Scottish Rugby",
+      "handle": "Scotlandteam",
+      "avatar": "https://pbs.twimg.com/profile_images/1856274139696275456/XghMgMxS_bigger.jpg",
+      "url": "https://x.com/Scotlandteam/status/2112642567095603364",
+      "publishedAt": "2026-10-20T20:30:13.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVGZSssXYAAYPxI.jpg",
+      "teamIds": [
+        "scotland"
+      ],
+      "source": "x:Scotlandteam"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mydf55us4222",
@@ -415,21 +523,6 @@
     },
     {
       "type": "x",
-      "id": "x:2112579099701219415",
-      "text": "Want to have early access to buy tickets at Scottish Gas Murrayfield? 🏟\n\nJoin the Scotland Supporters Club today! https://t.co/pAqJ5LViRd",
-      "author": "Scottish Rugby",
-      "handle": "Scotlandteam",
-      "avatar": "https://pbs.twimg.com/profile_images/1856274139696275456/XghMgMxS_bigger.jpg",
-      "url": "https://x.com/Scotlandteam/status/2112579099701219415",
-      "publishedAt": "2026-10-20T16:18:01.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVFPL6zWAAAFJ-d.jpg",
-      "teamIds": [
-        "scotland"
-      ],
-      "source": "x:Scotlandteam"
-    },
-    {
-      "type": "x",
       "id": "x:2112578484446875914",
       "text": "PHARMACY2U STAND SOLD OUT❗ \nOnly Breedon Benches remaining so get your tickets NOW so you don't miss out! 💨 \n\nhttps://t.co/8gevAfERUN\n\n#COYT | #LeicesterTigers https://t.co/7oEKOggHgI",
       "author": "Leicester Tigers",
@@ -619,36 +712,6 @@
       "source": "x:UlsterRugby"
     },
     {
-      "type": "x",
-      "id": "x:2112564682469036035",
-      "text": "🏉 A full weekend of Energia All-Ireland League & Cup rugby is on the way!\n\nSaturday sees the Men’s Leagues move into Round 4. Here’s the Division 1A & 1B games on Saturday afternoon.\n\n#EnergiaAIL #IrishRugby https://t.co/UbXNhvfs8i",
-      "author": "Irish Rugby",
-      "handle": "IrishRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2013579995612917760/vv0fi-Pq_bigger.jpg",
-      "url": "https://x.com/IrishRugby/status/2112564682469036035",
-      "publishedAt": "2026-10-20T15:20:44.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVFWYMSXcAAmhbc.jpg",
-      "teamIds": [
-        "ireland"
-      ],
-      "source": "x:IrishRugby"
-    },
-    {
-      "type": "x",
-      "id": "x:2112564666752782516",
-      "text": "𝗧𝗛𝗜𝗦 𝗢𝗥 𝗧𝗛𝗔𝗧 🤔\n\nAhead of his testimonial fixture against @BathRugby this Friday, @LewisLudlow94 takes on a special Derby Weekend edition of 'This or that?'\n\nJoin us at Kingsholm 👉 https://t.co/aN2J0RbpIL\n\n#GLOvBAT | 🍒🛁 https://t.co/yzm3GuuKCN",
-      "author": "Gloucester Rugby 🍒",
-      "handle": "gloucesterrugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1808786958673481728/9MztoY2U_bigger.jpg",
-      "url": "https://x.com/gloucesterrugby/status/2112564666752782516",
-      "publishedAt": "2026-10-20T15:20:40.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112564059040018432/img/r18MY6bjUdq2spWF.jpg",
-      "teamIds": [
-        "gloucester"
-      ],
-      "source": "x:gloucesterrugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mycvsazdcz2z",
       "text": "🗣️ \"I’m looking forward to the next few years, and with the way the club is moving, it was a pretty easy decision to stay.\"\nAlex Samuel has pledged his future to Glasgow Warriors by signing a new contract.\n🔗 shorturl.at/JwpQQ",
@@ -659,21 +722,6 @@
       "publishedAt": "2026-10-20T15:03:54.656Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreighqewjtmw4joishrjmim35hpjom2ul3ycyimksdzemc7wbyh27je",
       "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2112559717264601145",
-      "text": "Un cuore italiano, una storia parigina 🩷 https://t.co/t6vtZ2Zv6o",
-      "author": "Stade Français Paris",
-      "handle": "SFParisRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/1742121351714848768/r5ASIpJK_bigger.jpg",
-      "url": "https://x.com/SFParisRugby/status/2112559717264601145",
-      "publishedAt": "2026-10-20T15:01:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112559617255383040/img/--wJHoaadeAQ-pDH.jpg",
-      "teamIds": [
-        "stade-francais"
-      ],
-      "source": "x:SFParisRugby"
     },
     {
       "type": "youtube",
@@ -724,30 +772,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mycnkaixwc2r",
-      "text": "Nankivell's new Munster deal paves way for Ireland career (✍️@RTErugby) #Rugby #Munster #AlexNankivell",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mycnkaixwc2r",
-      "publishedAt": "2026-10-20T12:36:15.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreiejuyvca3tap2b5iz2kbuhmguw7o55jgdlnfffhkfv5k5vsmb5ls4",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mycndxch2n26",
-      "text": "Farrell set to name Ireland squad as he targets Nations Championship title (✍️@rugby_ie) #Ireland #Rugby #SixNations",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mycndxch2n26",
-      "publishedAt": "2026-10-20T12:32:44.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihmv2nokwk2p74twijczutiqf36pz554rxbcbioxvs6fukmh4ilmm",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mycleyrskg2z",
       "text": "Scotland Women’s Josie Symonds has been appointed Head of Athletic Performance for the 2027 British & Irish Lions tour of New Zealand.\n🔗 shorturl.at/pkBBI",
       "author": "Scotland Rugby News",
@@ -793,18 +817,6 @@
       "publishedAt": "2026-10-20T10:06:42.288Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreibx5y4k3wxnhdmm2x65vdehw7d3xdsv3ay3q66e32cgqvsxoxnaw4",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3myccwjqvdk2q",
-      "text": "The positivity of being in the Champions Cup and pushing Northampton all the way, mixed with the negativity of the format, the terrible scheduling and budgetary constraints as Cardiff return to the top table of European rugby.\ncardiffrugbylife.wales/2026/10/20/v...",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3myccwjqvdk2q",
-      "publishedAt": "2026-10-20T09:26:17.116Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreibxsh5opiokxc3ycej4rugtgsyhzca3dxkrkatldhwtkxnis3y3a4",
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "youtube",
@@ -875,18 +887,6 @@
       "publishedAt": "2026-10-20T07:59:47.592Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6bc4kwdt7yiy7nwvz5md3hvx/bafkreifjyj64svyph64vqktivaa2ysqln32toaa6up4nztlvfxgrflq5qy",
       "source": "ospreysofficial.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3myc33rr55622",
-      "text": "A former Royal Scot who went on to work with the British & Irish Lions, Guy Richardson has had a long & varied career\nHe's looked back on some of the key moments - including one he experienced from a villa in Majorca\n🔗 shorturl.at/QKasN",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3myc33rr55622",
-      "publishedAt": "2026-10-20T07:06:00.396Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidxhuoko3ljrzeey4734rz2brsqq545dacfckj7vnx7jc4tbvtxp4",
-      "source": "scotlandrugbynews.bsky.social"
     },
     {
       "type": "bluesky",
