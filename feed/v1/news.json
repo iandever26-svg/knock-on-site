@@ -1,8 +1,48 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-20T07:07:21+01:00",
+  "generatedAt": "2026-10-20T08:07:15+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3myc33rr55622",
+      "text": "A former Royal Scot who went on to work with the British & Irish Lions, Guy Richardson has had a long & varied career\nHe's looked back on some of the key moments - including one he experienced from a villa in Majorca\n🔗 shorturl.at/QKasN",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3myc33rr55622",
+      "publishedAt": "2026-10-20T07:06:00.396Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreidxhuoko3ljrzeey4734rz2brsqq545dacfckj7vnx7jc4tbvtxp4",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112439045095874905",
+      "text": "Plenty of movement ↕️\n\nWho's been the biggest surprise for you so far this season?\n\n#BKTURC #URC https://t.co/FYduwdZHCs",
+      "author": "BKT United Rugby Championship (URC)",
+      "handle": "URCOfficial",
+      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
+      "url": "https://x.com/URCOfficial/status/2112439045095874905",
+      "publishedAt": "2026-10-20T07:01:30.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HU9tXJHa4AA7x9D.jpg",
+      "teamIds": [],
+      "source": "x:URCOfficial"
+    },
+    {
+      "type": "x",
+      "id": "x:2112435063082160629",
+      "text": "𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐢𝐭𝐲 𝐚𝐧𝐝 𝐒𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐚𝐭 𝐋𝐨𝐟𝐭𝐮𝐬.\n\nWe are proud to announce that Mr Willem Strauss has been re-elected unopposed as President of the Blue Bulls Rugby Union for a third consecutive term. \n\nCo-majority shareholders Johann Rupert and Patrice Motsepe https://t.co/QjiWHpdTk5",
+      "author": "Official Blue Bulls",
+      "handle": "BlueBullsRugby",
+      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
+      "url": "https://x.com/BlueBullsRugby/status/2112435063082160629",
+      "publishedAt": "2026-10-20T06:45:40.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVDeDmgXIAAtFgi.jpg",
+      "teamIds": [
+        "bulls"
+      ],
+      "source": "x:BlueBullsRugby"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mybwd56lza2s",
@@ -684,34 +724,6 @@
       "source": "x:SixNationsRugby"
     },
     {
-      "type": "x",
-      "id": "x:2112189530472153248",
-      "text": "Irish clean sweep 🧹\n \n#InvestecChampionsCup | #ChallengeCupRugby https://t.co/L3miVtenPd",
-      "author": "BKT United Rugby Championship (URC)",
-      "handle": "URCOfficial",
-      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
-      "url": "https://x.com/URCOfficial/status/2112189530472153248",
-      "publishedAt": "2026-10-19T14:30:01.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU_PTymWsAAZK55.jpg",
-      "teamIds": [],
-      "source": "x:URCOfficial"
-    },
-    {
-      "type": "x",
-      "id": "x:2112187429742612849",
-      "text": "Retour sur un dimanche intense au Stadium 📸 https://t.co/Oh5gV3QpTc",
-      "author": "Stade Toulousain",
-      "handle": "StadeToulousain",
-      "avatar": "https://pbs.twimg.com/profile_images/2110294817947242496/LikEw8hJ_bigger.jpg",
-      "url": "https://x.com/StadeToulousain/status/2112187429742612849",
-      "publishedAt": "2026-10-19T14:21:40.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HU__RMFXoAAt3tf.jpg",
-      "teamIds": [
-        "toulouse"
-      ],
-      "source": "x:StadeToulousain"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3myab2gquqc2v",
       "text": "It was a shaky start for the scrum but some patches on the go and by half-time Cardiff were back in the contest in a big way.\nSam Wainwright getting the loosehead in a terrible shape.",
@@ -1068,18 +1080,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3my3i6qni3w23",
-      "text": "Glasgow Warriors showed their Champions Cup credentials by making a dream start to the competition with a 47-27 bonus-point win against Sale\n🔗 shorturl.at/SkWrd",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3my3i6qni3w23",
-      "publishedAt": "2026-10-17T16:11:43.167Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiedwrtknqyorbovwf54ps3ttm6fzfbzxovvjlt6zxvuv4gbrnjqb4",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:wizadpqsar4meknsnx7s3rms/app.bsky.feed.post/3my3hrjd3kk6z",
       "text": "Great start to the game by the Stormers, and at one stage it looked like it might be a one-sided blowout.\nMade to fight either side of HT, though... cards stalled their momentum.\nGood hustle to regain initiative and clinch the BP.  Scrum again dominant, kicking game on point",
       "author": "Jon Cardinelli",
@@ -1304,37 +1304,32 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 2
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 0
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 1
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "bluesky",
