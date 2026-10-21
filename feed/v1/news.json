@@ -1,8 +1,44 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-21T07:07:18+01:00",
+  "generatedAt": "2026-10-21T08:39:52+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myemcx2zve2b",
+      "text": "Sam Prendergast Stars as Leinster Demolish Clermont 48–23! (📹@HarpinOnRugby) #ChampionsCup #Leinster #Clermont",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myemcx2zve2b",
+      "publishedAt": "2026-10-21T07:19:36.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreihvfnpusormjvemonfjgsmkg42f3ezrglozsajhz2vqjdew6vn5se",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myelsyo4ky2p",
+      "text": "Popping the L-plates back on | 8/9 Rugby with James Slipper (📹 @89combo) #Rugby #Wallabies #SuperRugby",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myelsyo4ky2p",
+      "publishedAt": "2026-10-21T07:10:41.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreih3xsha6zbdtwygnocfzasiojoemminzvwhoe5zbftpukj6poviue",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3myejpty6j52p",
+      "text": "Some significant changes for Scotland as Aicha Sutcliffe makes her first Test start and Hannah Ramsay is handed the key to number 🔟 in Canberra\nA pair of debutants awaits their chance from the bench, too\n🔗 shorturl.at/EFnkf",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3myejpty6j52p",
+      "publishedAt": "2026-10-21T06:33:08.281Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreie7chlyqo6nnesbfszpw2oboaixnh5foktxu3jxj6w7cizemmrusa",
+      "source": "scotlandrugbynews.bsky.social"
+    },
     {
       "type": "bluesky",
       "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myehyv4x7y2q",
@@ -68,18 +104,6 @@
     },
     {
       "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mydj57vgce2v",
-      "text": "545 : Clérmont, Kicking & Ciarán (✍️ @HarpinOnRugby) #Rugby #Clermont #EuropeanRugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mydj57vgce2v",
-      "publishedAt": "2026-10-20T20:50:03.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreifbpmf6pmcntrh776ggwirlik467qmir7idimjpzldfirgwlmioey",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
-      "type": "bluesky",
       "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mydizas5ws2e",
       "text": "🚨 TEAM ANNOUNCEMENT 🚨\nHere's the Scotland team to face the Wallaroos in Canberra on Friday\nTeam news 👉 shorturl.at/EFnkf",
       "author": "Scotland Rugby News",
@@ -116,18 +140,6 @@
       "publishedAt": "2026-10-20T20:39:39.853Z",
       "thumbnail": null,
       "source": "cardiffrugbylife.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mydiisgyiq2t",
-      "text": "Clean sweep for provinces as Champions Cup starts hot (✍️@RTErugby) #ChampionsCup #Rugby #IrishRugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mydiisgyiq2t",
-      "publishedAt": "2026-10-20T20:38:38.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreieqy5winlcvei22km3mfdqq5zemo7gw2ytqxa44f43dcayyl3ggja",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
@@ -842,18 +854,6 @@
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mycavg72252z",
-      "text": "🗣️ \"Rugby is a beautiful game, isn't it?\"\nEdinburgh attack coach Tim Sampson has made clear the club will give the heartbroken Lions all the support they need in their most traumatic and emotional week\n🔗 shorturl.at/jTM2O",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mycavg72252z",
-      "publishedAt": "2026-10-20T08:49:51.703Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiebfxqry76u3jixodxnn54jsguks4xhqcbe3nxn3c5qsjxtuugc7a",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
       "type": "youtube",
       "id": "yt:tyQyFNmMrts",
       "title": "Commitment on show 🤝🪣 #rugby",
@@ -1306,37 +1306,32 @@
     {
       "kind": "youtube",
       "id": "UC-S6cXyil4qbIPfb2hrcH4w",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 6
+      "ok": true,
+      "items": 6
     },
     {
       "kind": "youtube",
       "id": "UC7991AZNku42o3Y36kUZOJA",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 1
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UC5QfHoca5UPU3IU8XRw6FWg",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 3
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCrVT1pOPraNiimvksjsOgVw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 0
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "youtube",
       "id": "UCZWp6Nb9Rk6w6Dz_O_2nHqw",
-      "ok": false,
-      "error": "HTTP 404",
-      "kept": 1
+      "ok": true,
+      "items": 3
     },
     {
       "kind": "bluesky",
