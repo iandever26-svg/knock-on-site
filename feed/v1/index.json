@@ -16,16 +16,6 @@
       "eventsUpdatedAt": "2026-10-17T21:00:44.796Z"
     },
     {
-      "match_id": "ccup-2026-10-17-cle-lei",
-      "kickoff": "2026-10-17T15:15:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-17T16:05:06.534Z"
-    },
-    {
       "match_id": "ccup-2026-10-17-con-sar",
       "kickoff": "2026-10-17T17:30:00+01:00",
       "score": false,
@@ -54,16 +44,6 @@
       "lineupUpdatedAt": null,
       "events": true,
       "eventsUpdatedAt": "2026-10-17T20:46:21.792Z"
-    },
-    {
-      "match_id": "ccup-2026-10-17-sto-bri",
-      "kickoff": "2026-10-17T15:15:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-17T16:05:06.534Z"
     },
     {
       "match_id": "ccup-2026-10-18-nor-car",
@@ -104,16 +84,6 @@
       "lineupUpdatedAt": null,
       "events": true,
       "eventsUpdatedAt": "2026-10-17T20:51:28.207Z"
-    },
-    {
-      "match_id": "chcup-2026-10-17-zeb-uls",
-      "kickoff": "2026-10-17T15:15:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-17T16:13:24.232Z"
     },
     {
       "match_id": "chcup-2026-10-18-bay-che",
