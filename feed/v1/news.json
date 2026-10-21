@@ -1,8 +1,59 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-21T11:07:07+01:00",
+  "generatedAt": "2026-10-21T12:10:24+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myez53mwvw2r",
+      "text": "Ireland XV set for games against Fiji, Chile and England selections this season (✍️@rugby_ie) #IrelandXV #Rugby #Fiji",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myez53mwvw2r",
+      "publishedAt": "2026-10-21T11:08:58.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicst34ec4mwjnjla42hxfvk74wd6pof7ruk66chzhmckedm4qdza4",
+      "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3myeyweghfx2a",
+      "text": "💬 “Talks began at the back end of pre-season, and I had a long think about it.\"\nEdinburgh beat English club hijack efforts as highly-rated Hector Patterson signs new contract",
+      "author": "Scotland Rugby News",
+      "handle": "scotlandrugbynews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
+      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3myeyweghfx2a",
+      "publishedAt": "2026-10-21T11:05:13.181Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreiff6zqjbtu6gazzhfbh7a3fdotvk7vl6ltc3wuxvue52kezoygnwa",
+      "source": "scotlandrugbynews.bsky.social"
+    },
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3myey2y5mq222",
+      "text": "Tom Manz was busy on a very promising debut.\n14 tackles, 2 turnovers, 7 carries and 4 passes all around a stint off the field for a HIA too.\nMight have had a try/forced a pen try on another day as well.",
+      "author": "Cardiff Rugby Life",
+      "handle": "cardiffrugbylife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
+      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3myey2y5mq222",
+      "publishedAt": "2026-10-21T10:49:54.489Z",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aouvin3vruox2v2t674dym2c5/bafkreictmshddxuz7qwcm4itertxgkdn3ibkvaa7dry2jtgwkunebs3oka/thumbnail.jpg",
+      "source": "cardiffrugbylife.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112851602357027101",
+      "text": "Envie d'assister au derby et à la première historique des Féminines ? 🫵\n\n🟡⚫️ Les 𝙙𝙚𝙧𝙣𝙞𝙚̀𝙧𝙚𝙨 𝙥𝙡𝙖𝙘𝙚𝙨 sont mises en vente ce soir à 18h00 - https://t.co/MSLeXG0UwE !\n\n#SRUBB | #Top14 | #FievreSR https://t.co/yyOAJjREmK",
+      "author": "Stade Rochelais",
+      "handle": "staderochelais",
+      "avatar": "https://pbs.twimg.com/profile_images/2102037983402606593/UIQbzS03_bigger.jpg",
+      "url": "https://x.com/staderochelais/status/2112851602357027101",
+      "publishedAt": "2026-10-21T10:20:51.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVJbTNhW8AATRCl.jpg",
+      "teamIds": [
+        "la-rochelle"
+      ],
+      "source": "x:staderochelais"
+    },
     {
       "type": "x",
       "id": "x:2112846404200661352",
@@ -16,6 +67,36 @@
       "mediaAlt": "The image is a graphic titled \"Investec Player of the Round Nominees\" featuring five rugby players. Each player's name, club, and photo are displayed in separate sections: Théo Attissogbe (Section Paloise), Cheswill Jooste (Vodacom Bulls), Tom Willis (Union Bordeaux Bègles), Craig Casey (Munster Rugby), and Alex Béconnée (Montpellier Hérault Rugby). Investec and Champions Cup logos are at the bottom.",
       "teamIds": [],
       "source": "x:ChampionsCup"
+    },
+    {
+      "type": "x",
+      "id": "x:2112846357228929090",
+      "text": "À samedi 👋\n\nOliver Cowie vous donne rendez-vous à Mayol ce samedi soir 🫵\n\nPrenez vos places 🎟️👉 https://t.co/ce72QXOvdv https://t.co/wllk9Sywol",
+      "author": "RCT – Rugby Club Toulonnais",
+      "handle": "RCTofficiel",
+      "avatar": "https://pbs.twimg.com/profile_images/2112545216242573312/Up5Eptfw_bigger.jpg",
+      "url": "https://x.com/RCTofficiel/status/2112846357228929090",
+      "publishedAt": "2026-10-21T10:00:01.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112807693010235393/img/MA7avUr4G0BCqrMh.jpg",
+      "teamIds": [
+        "toulon"
+      ],
+      "source": "x:RCTofficiel"
+    },
+    {
+      "type": "x",
+      "id": "x:2112846355488190527",
+      "text": "👀 Want to win a RETRO Quins shirt with @premrugby? \n\nEnter here: https://t.co/w4J3Ex2sNp\n\n#COYQ #PREM30 https://t.co/1lK0xH8TKu",
+      "author": "Harlequins 🃏",
+      "handle": "Harlequins",
+      "avatar": "https://pbs.twimg.com/profile_images/2105552012905455616/9cTIK6To_bigger.jpg",
+      "url": "https://x.com/Harlequins/status/2112846355488190527",
+      "publishedAt": "2026-10-21T10:00:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVJGdHKWgAAyHom.jpg",
+      "teamIds": [
+        "harlequins"
+      ],
+      "source": "x:Harlequins"
     },
     {
       "type": "x",
@@ -42,6 +123,22 @@
       "publishedAt": "2026-10-21T09:42:22.000Z",
       "thumbnail": "https://i3.ytimg.com/vi/BQEbzOX0-is/hqdefault.jpg",
       "source": "UC5QfHoca5UPU3IU8XRw6FWg"
+    },
+    {
+      "type": "x",
+      "id": "x:2112841887019340057",
+      "text": "Hype man Bats. 🙌 https://t.co/gS1wOAwdY6 https://t.co/tR4Tc4VYqq",
+      "author": "Bristol Bears 🐻",
+      "handle": "BristolBears",
+      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
+      "url": "https://x.com/BristolBears/status/2112841887019340057",
+      "publishedAt": "2026-10-21T09:42:15.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVJR3tUXEAEkXIL.jpg",
+      "mediaAlt": "Joe Batley celebrating as Bill Mata runs in a try.",
+      "teamIds": [
+        "bristol"
+      ],
+      "source": "x:BristolBears"
     },
     {
       "type": "bluesky",
@@ -97,6 +194,21 @@
       "thumbnail": "https://pbs.twimg.com/media/HU9v9JhbcAA-ACF.jpg",
       "teamIds": [],
       "source": "x:URCOfficial"
+    },
+    {
+      "type": "x",
+      "id": "x:2112838806412083426",
+      "text": "How good was this last year?! 🤩\n\nMata's dive. The celebration. The NOISE!\n\n🎟️ https://t.co/hik0V0oFY5 https://t.co/7zvbmMNFYo",
+      "author": "Bristol Bears 🐻",
+      "handle": "BristolBears",
+      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
+      "url": "https://x.com/BristolBears/status/2112838806412083426",
+      "publishedAt": "2026-10-21T09:30:00.000Z",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112826742758842368/img/veXaMULt9oxbbQA1.jpg",
+      "teamIds": [
+        "bristol"
+      ],
+      "source": "x:BristolBears"
     },
     {
       "type": "bluesky",
@@ -189,6 +301,21 @@
     },
     {
       "type": "x",
+      "id": "x:2112831306346238418",
+      "text": "Newcastle Red Bulls are pleased to welcome @AdGefrin as the club’s Official Whisky Supplier, strengthening the support available to the squad on and off the pitch.\n\n📲 https://t.co/mQVtgbfCP6 https://t.co/tr7lX1oYfy",
+      "author": "Newcastle Red Bulls",
+      "handle": "NCL_RedBulls",
+      "avatar": "https://pbs.twimg.com/profile_images/1965721553179443200/SJgAkoMY_bigger.jpg",
+      "url": "https://x.com/NCL_RedBulls/status/2112831306346238418",
+      "publishedAt": "2026-10-21T09:00:12.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVJI3-0WYAERwbW.jpg",
+      "teamIds": [
+        "newcastle"
+      ],
+      "source": "x:NCL_RedBulls"
+    },
+    {
+      "type": "x",
       "id": "x:2112831272879792265",
       "text": "It’s DERBY WEEKEND 📣📣 which clash are you most excited to watch?! 👇\n\nAll games will be live on @tntsports \nTo our US fans, watch on @FloRugby  \n\n#DerbyWeekend2026 #PREMRugby #GallagherPREM https://t.co/G9En5GQIzJ",
       "author": "PREM Rugby",
@@ -222,6 +349,37 @@
       "publishedAt": "2026-10-21T08:52:24.000Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicly6oed7ch3emaio2na3kn7ceoq3bd2f75akyqh2fzar7xi3k56y",
       "source": "rugbynewsplus.bsky.social"
+    },
+    {
+      "type": "x",
+      "id": "x:2112828856117715207",
+      "text": "Good morning, Bears fans! 😍 https://t.co/Su3XY0mOty",
+      "author": "Bristol Bears 🐻",
+      "handle": "BristolBears",
+      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
+      "url": "https://x.com/BristolBears/status/2112828856117715207",
+      "publishedAt": "2026-10-21T08:50:28.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVJF-RZXQAAIyxF.jpg",
+      "mediaAlt": "Benhard Janse van Rensburg",
+      "teamIds": [
+        "bristol"
+      ],
+      "source": "x:BristolBears"
+    },
+    {
+      "type": "x",
+      "id": "x:2112828355619762240",
+      "text": "𝗡𝗘𝗔𝗥𝗟𝗬 𝗧𝗛𝗘𝗥𝗘 👀\n\nThere are fewer than 100 tickets remaining for Friday night's #GallagherPREM Derby Weekend fixture against @BathRugby. 🎟️\n\nSecure your spot before it's too late 👉 https://t.co/aN2J0RbpIL\n\n#GLOvBAT | 🍒🛁 https://t.co/vta086s3RK",
+      "author": "Gloucester Rugby 🍒",
+      "handle": "gloucesterrugby",
+      "avatar": "https://pbs.twimg.com/profile_images/1808786958673481728/9MztoY2U_bigger.jpg",
+      "url": "https://x.com/gloucesterrugby/status/2112828355619762240",
+      "publishedAt": "2026-10-21T08:48:29.000Z",
+      "thumbnail": "https://pbs.twimg.com/media/HVJF9huWgAEd4nd.jpg",
+      "teamIds": [
+        "gloucester"
+      ],
+      "source": "x:gloucesterrugby"
     },
     {
       "type": "x",
@@ -511,18 +669,6 @@
       "source": "rugbynewsplus.bsky.social"
     },
     {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myenrzkcoa2p",
-      "text": "Molecast #211 (🎙️@dementedmole) #Molecast #Rugby #IrishRugby",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myenrzkcoa2p",
-      "publishedAt": "2026-10-21T07:45:56.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreid4cyxlsyhzfr637qoqgneliwgl4pxu7zww56obsqwoq2n6umziii",
-      "source": "rugbynewsplus.bsky.social"
-    },
-    {
       "type": "x",
       "id": "x:2112808843453542826",
       "text": "🧭 Un 𝙩𝙤𝙪𝙧 𝙙'𝙝𝙤𝙧𝙞𝙯𝙤𝙣 sur le choc face à l'UBB, pour lancer le deuxième bloc ! \n\n#SRUBB | #Top14 | #FievreSR\nhttps://t.co/zAC744KIxm",
@@ -638,21 +784,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2112788636211053040",
-      "text": "LOCKED IN UNTIL 2030 🔒\n\nReinhardt Ludwig has extended his stay at Loftus Versfeld until 2030.\n\nPretoria is home.\n\nRead more: https://t.co/IqAGEYyIab https://t.co/YJSt1uKSlN",
-      "author": "Official Blue Bulls",
-      "handle": "BlueBullsRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2107786956029480960/VOk5__O__bigger.jpg",
-      "url": "https://x.com/BlueBullsRugby/status/2112788636211053040",
-      "publishedAt": "2026-10-21T06:10:39.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVIiEGkWIAA9z5T.jpg",
-      "teamIds": [
-        "bulls"
-      ],
-      "source": "x:BlueBullsRugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ffaez7heoltx2hhteuxtgxir/app.bsky.feed.post/3myegxtorqc2f",
       "text": "For our latest pod I was joined by Tom Coleman & Keego and we harped on…\n🏉 Clérmont review\n🏉 European roundup\n🏉 Kicking off?\n🏉 Frawley on fire\n🏉 Simply does it\nCheck it out here > harpinonrugby.blog/2026/10/20/5...",
@@ -663,21 +794,6 @@
       "publishedAt": "2026-10-21T05:43:55.527Z",
       "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffaez7heoltx2hhteuxtgxir/bafkreih6pfxwfrtenmw2lv7hkmm6i2ldgyvizped3h22ztdyg2ni7hmi3m",
       "source": "harpinonrugby.bsky.social"
-    },
-    {
-      "type": "x",
-      "id": "x:2112647916804313296",
-      "text": "Learn from each other. Grow together 🖤\n \nThanks to our Altrad Group whānau for the kōrero with the boys. Ngā mihi Caroline, Jack, Alan, Cyril and Fran 🤝🏽 https://t.co/6s6Iqjw0yd",
-      "author": "All Blacks",
-      "handle": "AllBlacks",
-      "avatar": "https://pbs.twimg.com/profile_images/1472711036813799428/QHrkYpf6_bigger.jpg",
-      "url": "https://x.com/AllBlacks/status/2112647916804313296",
-      "publishedAt": "2026-10-20T20:51:29.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVGiFX6W0AAGHUx.jpg",
-      "teamIds": [
-        "new-zealand"
-      ],
-      "source": "x:AllBlacks"
     },
     {
       "type": "bluesky",
@@ -692,21 +808,6 @@
       "source": "scotlandrugbynews.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2112646609267720537",
-      "text": "Sights set on MD1 in Cape Town. 👊 https://t.co/TUWUSFpl0P",
-      "author": "Irish Rugby",
-      "handle": "IrishRugby",
-      "avatar": "https://pbs.twimg.com/profile_images/2013579995612917760/vv0fi-Pq_bigger.jpg",
-      "url": "https://x.com/IrishRugby/status/2112646609267720537",
-      "publishedAt": "2026-10-20T20:46:17.000Z",
-      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2112641882522009600/img/6wWAUFSIU6io3UgG.jpg",
-      "teamIds": [
-        "ireland"
-      ],
-      "source": "x:IrishRugby"
-    },
-    {
       "type": "bluesky",
       "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mydikmsm622a",
       "text": "Pleased for Seb Davies on his Cymru recall.\nThe fresh start at Dragons was just what he needed and he’s come into his own as a more senior player in an emerging team.\nStill only 30, great time to make his mark at test level if given the chance.",
@@ -719,88 +820,15 @@
       "source": "cardiffrugbylife.bsky.social"
     },
     {
-      "type": "x",
-      "id": "x:2112643276352242097",
-      "text": "Eight of our Warriors named to take on Australia this Friday, with Spence and Flynn in line for Scotland debuts! 🏴󠁧󠁢󠁳󠁣󠁴󠁿 https://t.co/07ksWbbfX1",
-      "author": "Glasgow Warriors",
-      "handle": "GlasgowWarriors",
-      "avatar": "https://pbs.twimg.com/profile_images/1856309892677599232/Er6AzPaA_bigger.jpg",
-      "url": "https://x.com/GlasgowWarriors/status/2112643276352242097",
-      "publishedAt": "2026-10-20T20:33:02.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVGd3HwWIAAB4O1.jpg",
-      "teamIds": [
-        "glasgow"
-      ],
-      "source": "x:GlasgowWarriors"
-    },
-    {
-      "type": "x",
-      "id": "x:2112642567095603364",
-      "text": "Your Scotland team for Friday's clash with Australia 🇦🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿 https://t.co/LVN8T6fSBo",
-      "author": "Scottish Rugby",
-      "handle": "Scotlandteam",
-      "avatar": "https://pbs.twimg.com/profile_images/1856274139696275456/XghMgMxS_bigger.jpg",
-      "url": "https://x.com/Scotlandteam/status/2112642567095603364",
-      "publishedAt": "2026-10-20T20:30:13.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVGZSssXYAAYPxI.jpg",
-      "teamIds": [
-        "scotland"
-      ],
-      "source": "x:Scotlandteam"
-    },
-    {
       "type": "youtube",
       "id": "yt:XfoP5_B8w7w",
-      "title": "SUPERMARKET SWEEP: RUGBY EDITION!",
+      "title": "Supermarket Sweep: Rugby Edition!",
       "author": "United Rugby Championship",
       "avatar": null,
       "url": "https://www.youtube.com/watch?v=XfoP5_B8w7w",
       "publishedAt": "2026-10-20T19:30:30.000Z",
       "thumbnail": "https://i1.ytimg.com/vi/XfoP5_B8w7w/hqdefault.jpg",
       "source": "UC-S6cXyil4qbIPfb2hrcH4w"
-    },
-    {
-      "type": "x",
-      "id": "x:2112627537108971676",
-      "text": "One of the all-time classics 💥🥊\n \n#LEIvMUN https://t.co/cCKxtQl9Wc",
-      "author": "BKT United Rugby Championship (URC)",
-      "handle": "URCOfficial",
-      "avatar": "https://pbs.twimg.com/profile_images/2109995782245879808/FR4qezIe_bigger.png",
-      "url": "https://x.com/URCOfficial/status/2112627537108971676",
-      "publishedAt": "2026-10-20T19:30:30.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVEtWyfWEAAEbca.jpg",
-      "teamIds": [],
-      "source": "x:URCOfficial"
-    },
-    {
-      "type": "x",
-      "id": "x:2112619861486538924",
-      "text": "Respect 👊\n\nWe all ❤️ BJVR in Bear Country 🐻 https://t.co/HNMH8Kr5Fm",
-      "author": "Bristol Bears 🐻",
-      "handle": "BristolBears",
-      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
-      "url": "https://x.com/BristolBears/status/2112619861486538924",
-      "publishedAt": "2026-10-20T19:00:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVF1XH_XQAEjgMN.jpg",
-      "teamIds": [
-        "bristol"
-      ],
-      "source": "x:BristolBears"
-    },
-    {
-      "type": "x",
-      "id": "x:2112616086810034496",
-      "text": "💬 \"The reason everyone marvels at his consistency of performance week in and out, is all down to his incredible attitude and desire to represent his family with pride and not let his team down.\"\n\nPat Lam on @BenhardJVR's new contract with the club 🗣️✍️\n\nhttps://t.co/noWf4ITehb https://t.co/ji7PmjaMPN",
-      "author": "Bristol Bears 🐻",
-      "handle": "BristolBears",
-      "avatar": "https://pbs.twimg.com/profile_images/1991590455729852416/hpTdpeL6_bigger.jpg",
-      "url": "https://x.com/BristolBears/status/2112616086810034496",
-      "publishedAt": "2026-10-20T18:45:00.000Z",
-      "thumbnail": "https://pbs.twimg.com/media/HVFyrqQXQAA8Vt3.jpg",
-      "teamIds": [
-        "bristol"
-      ],
-      "source": "x:BristolBears"
     },
     {
       "type": "bluesky",
@@ -848,30 +876,6 @@
       "publishedAt": "2026-10-20T14:00:11.000Z",
       "thumbnail": "https://i2.ytimg.com/vi/Edukut3cXuc/hqdefault.jpg",
       "source": "UCZWp6Nb9Rk6w6Dz_O_2nHqw"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:3pzepjafmdqgrchkqdypeuea/app.bsky.feed.post/3mycqoyfbrr2z",
-      "text": "Edinburgh assistant Tim Sampson has confirmed Duhan van der Merwe is back in training\nAnd Sampson has pledged the club's support for the Lions as they deal with the tragic passing of Hyron Andrews\n🔗 shorturl.at/jTM2O",
-      "author": "Scotland Rugby News",
-      "handle": "scotlandrugbynews.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreif6g7jwyai2bngdxa3yek5mioziprgypfj3hvtxrlme6silqltyba",
-      "url": "https://bsky.app/profile/scotlandrugbynews.bsky.social/post/3mycqoyfbrr2z",
-      "publishedAt": "2026-10-20T13:32:36.165Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pzepjafmdqgrchkqdypeuea/bafkreihw6vxiprxsxgdnpnv5rxk7b3nxsfau2tpvnfiaeu34qn4hfvuxp4",
-      "source": "scotlandrugbynews.bsky.social"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:ouvin3vruox2v2t674dym2c5/app.bsky.feed.post/3mycpte7n2k2q",
-      "text": "Cardiff have announced that Jon Flatman will join the club as CEO from Barnsley FC.\nHe has previously been Chairman of York Knights RLFC and worked on the 2022 Rugby League World Cup.\nJamie Muir will remain as Managing Director working alongside Flatman.",
-      "author": "Cardiff Rugby Life",
-      "handle": "cardiffrugbylife.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ouvin3vruox2v2t674dym2c5/bafkreifwhig3c235gkfloyju2rzwylbbjo3sp6xo57fhnk2ib7ywn7i37i",
-      "url": "https://bsky.app/profile/cardiffrugbylife.bsky.social/post/3mycpte7n2k2q",
-      "publishedAt": "2026-10-20T13:17:09.291Z",
-      "thumbnail": null,
-      "source": "cardiffrugbylife.bsky.social"
     },
     {
       "type": "bluesky",
