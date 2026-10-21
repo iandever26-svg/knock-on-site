@@ -186,16 +186,6 @@
       "eventsUpdatedAt": "2026-10-18T13:48:02.364Z"
     },
     {
-      "match_id": "intl-2026-10-17-aus-nzl",
-      "kickoff": "2026-10-17T06:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-17T06:58:06.125Z"
-    },
-    {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
       "score": true,
