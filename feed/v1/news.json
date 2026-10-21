@@ -1,8 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-21T05:07:06+01:00",
+  "generatedAt": "2026-10-21T06:09:30+01:00",
   "attribution": "Posts from Bluesky and X, videos from YouTube — tap to open the original.",
   "items": [
+    {
+      "type": "bluesky",
+      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3myeeqmmvyl2e",
+      "text": "Nankivell on new contract, Axel's lasting legacy and more 'freedom' in Munster's attack (✍️@rugby_ie) #MunsterRugby #Nankivell #RugbyContract",
+      "author": "Rugby News +",
+      "handle": "rugbynewsplus.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
+      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3myeeqmmvyl2e",
+      "publishedAt": "2026-10-21T05:04:05.000Z",
+      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicinkexrgdofzkksmkc6qvk2wl35isvb627ojechlajb76wmcyn5y",
+      "source": "rugbynewsplus.bsky.social"
+    },
     {
       "type": "x",
       "id": "x:2112647916804313296",
@@ -608,18 +620,6 @@
         "la-rochelle"
       ],
       "source": "x:staderochelais"
-    },
-    {
-      "type": "bluesky",
-      "id": "bsky:at://did:plc:tzdpolrk43kslnybvi7at3fm/app.bsky.feed.post/3mycyf3nkx42c",
-      "text": "Loughman a doubt for Munster's Aviva Stadium derby against Leinster (✍️@rugby_ie) #Munster #Leinster #AvivaStadium",
-      "author": "Rugby News +",
-      "handle": "rugbynewsplus.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreibksbx2l7a7ortnmah6622r5kwz7km6qoasgtwbmotvbrpvj3hw3y",
-      "url": "https://bsky.app/profile/rugbynewsplus.bsky.social/post/3mycyf3nkx42c",
-      "publishedAt": "2026-10-20T15:50:14.000Z",
-      "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tzdpolrk43kslnybvi7at3fm/bafkreicutxfjxrxjofok2al5xvxkmatdaf7dqwcxorrhkyypkktehxtlym",
-      "source": "rugbynewsplus.bsky.social"
     },
     {
       "type": "x",
