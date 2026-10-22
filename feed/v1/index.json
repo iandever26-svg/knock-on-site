@@ -6,6 +6,26 @@
   "standingsUpdatedAt": "2026-10-10T21:45:31+01:00",
   "matches": [
     {
+      "match_id": "ccup-2026-10-18-nor-car",
+      "kickoff": "2026-10-18T17:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T18:21:09.739Z"
+    },
+    {
+      "match_id": "chcup-2026-10-18-cas-ben",
+      "kickoff": "2026-10-18T17:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T18:26:14.641Z"
+    },
+    {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
       "score": true,
@@ -324,66 +344,6 @@
       "lineupUpdatedAt": "2026-10-22T15:20:50+01:00",
       "events": false,
       "eventsUpdatedAt": null
-    },
-    {
-      "match_id": "ccup-2026-10-18-nor-car",
-      "kickoff": "2026-10-18T17:30:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T18:21:09.739Z"
-    },
-    {
-      "match_id": "ccup-2026-10-18-pau-lec",
-      "kickoff": "2026-10-18T13:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T13:58:12.061Z"
-    },
-    {
-      "match_id": "ccup-2026-10-18-tou-exe",
-      "kickoff": "2026-10-18T15:15:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T16:13:55.514Z"
-    },
-    {
-      "match_id": "chcup-2026-10-18-bay-che",
-      "kickoff": "2026-10-18T13:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T13:53:07.553Z"
-    },
-    {
-      "match_id": "chcup-2026-10-18-cas-ben",
-      "kickoff": "2026-10-18T17:30:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T18:26:14.641Z"
-    },
-    {
-      "match_id": "chcup-2026-10-18-har-van",
-      "kickoff": "2026-10-18T13:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T13:48:02.364Z"
     }
   ]
 }
