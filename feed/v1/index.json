@@ -1,70 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T23:19:56+01:00",
-  "updatedAt": "2026-10-10T23:19:56+01:00",
+  "generatedAt": "2026-10-22T15:26:31+01:00",
+  "updatedAt": "2026-10-22T15:26:31+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-10T21:45:31+01:00",
   "matches": [
-    {
-      "match_id": "ccup-2026-10-18-nor-car",
-      "kickoff": "2026-10-18T17:30:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T18:21:09.739Z"
-    },
-    {
-      "match_id": "ccup-2026-10-18-pau-lec",
-      "kickoff": "2026-10-18T13:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T13:58:12.061Z"
-    },
-    {
-      "match_id": "ccup-2026-10-18-tou-exe",
-      "kickoff": "2026-10-18T15:15:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T16:13:55.514Z"
-    },
-    {
-      "match_id": "chcup-2026-10-18-bay-che",
-      "kickoff": "2026-10-18T13:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T13:53:07.553Z"
-    },
-    {
-      "match_id": "chcup-2026-10-18-cas-ben",
-      "kickoff": "2026-10-18T17:30:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T18:26:14.641Z"
-    },
-    {
-      "match_id": "chcup-2026-10-18-har-van",
-      "kickoff": "2026-10-18T13:00:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-18T13:48:02.364Z"
-    },
     {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
@@ -304,6 +244,146 @@
       "lineupUpdatedAt": "2026-10-10T17:14:31+01:00",
       "events": true,
       "eventsUpdatedAt": "2026-10-10T23:15:55+01:00"
+    },
+    {
+      "match_id": "urc-2026-10-23-car-sha",
+      "kickoff": "2026-10-23T19:45:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-15T13:56:52+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-22T15:20:33+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-23-con-zeb",
+      "kickoff": "2026-10-23T19:45:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-15T13:56:52+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-22T15:20:40+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-23-edi-lio",
+      "kickoff": "2026-10-23T19:45:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-15T13:56:52+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-22T15:20:44+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-24-ben-gla",
+      "kickoff": "2026-10-24T15:00:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-22T15:30:00+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-22T15:20:54+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-24-bul-uls",
+      "kickoff": "2026-10-24T12:45:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-22T15:30:00+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-22T15:20:47+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-24-lei-mun",
+      "kickoff": "2026-10-24T18:00:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-22T15:30:00+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-22T15:20:57+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-24-osp-dra",
+      "kickoff": "2026-10-24T19:00:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-22T15:30:00+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-22T15:21:00+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "urc-2026-10-24-sto-sca",
+      "kickoff": "2026-10-24T15:00:00+01:00",
+      "score": true,
+      "scoreUpdatedAt": "2026-10-22T15:30:00+01:00",
+      "lineup": true,
+      "lineupUpdatedAt": "2026-10-22T15:20:50+01:00",
+      "events": false,
+      "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "ccup-2026-10-18-nor-car",
+      "kickoff": "2026-10-18T17:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T18:21:09.739Z"
+    },
+    {
+      "match_id": "ccup-2026-10-18-pau-lec",
+      "kickoff": "2026-10-18T13:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T13:58:12.061Z"
+    },
+    {
+      "match_id": "ccup-2026-10-18-tou-exe",
+      "kickoff": "2026-10-18T15:15:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T16:13:55.514Z"
+    },
+    {
+      "match_id": "chcup-2026-10-18-bay-che",
+      "kickoff": "2026-10-18T13:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T13:53:07.553Z"
+    },
+    {
+      "match_id": "chcup-2026-10-18-cas-ben",
+      "kickoff": "2026-10-18T17:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T18:26:14.641Z"
+    },
+    {
+      "match_id": "chcup-2026-10-18-har-van",
+      "kickoff": "2026-10-18T13:00:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-18T13:48:02.364Z"
     }
   ]
 }

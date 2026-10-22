@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-10T23:19:56+01:00",
-  "updatedAt": "2026-10-10T23:19:56+01:00",
+  "generatedAt": "2026-10-22T15:26:31+01:00",
+  "updatedAt": "2026-10-22T15:26:31+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -579,6 +579,151 @@
       "home_tries": 2,
       "away_tries": 4,
       "tries_source": "espn_events"
+    },
+    {
+      "schema_version": "1.0.0",
+      "match_id": "urc-2026-10-23-car-sha",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "clock": null,
+      "period": null,
+      "updated_at": "2026-10-15T13:56:52+01:00",
+      "provenance": [
+        {
+          "source_name": "highlightly",
+          "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-23&timezone=Europe%2FDublin&limit=40",
+          "fetched_at": "2026-10-15T13:56:52+01:00",
+          "highlightly_match_id": 45667997,
+          "highlightly_league_id": 65460,
+          "highlightly_league_name": "United Rugby Championship"
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "match_id": "urc-2026-10-23-con-zeb",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "clock": null,
+      "period": null,
+      "updated_at": "2026-10-15T13:56:52+01:00",
+      "provenance": [
+        {
+          "source_name": "highlightly",
+          "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-23&timezone=Europe%2FDublin&limit=40",
+          "fetched_at": "2026-10-15T13:56:52+01:00",
+          "highlightly_match_id": 45667146,
+          "highlightly_league_id": 65460,
+          "highlightly_league_name": "United Rugby Championship"
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "match_id": "urc-2026-10-23-edi-lio",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "clock": null,
+      "period": null,
+      "updated_at": "2026-10-15T13:56:52+01:00",
+      "provenance": [
+        {
+          "source_name": "highlightly",
+          "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-23&timezone=Europe%2FDublin&limit=40",
+          "fetched_at": "2026-10-15T13:56:52+01:00",
+          "highlightly_match_id": 45666295,
+          "highlightly_league_id": 65460,
+          "highlightly_league_name": "United Rugby Championship"
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "match_id": "urc-2026-10-24-ben-gla",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "clock": null,
+      "period": null,
+      "updated_at": "2026-10-22T15:30:00+01:00",
+      "provenance": [
+        {
+          "source_name": "knock-on fixtures (pre-match stub)",
+          "url": "https://www.unitedrugby.com/fixtures-results",
+          "fetched_at": "2026-10-22T15:30:00+01:00"
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "match_id": "urc-2026-10-24-bul-uls",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "clock": null,
+      "period": null,
+      "updated_at": "2026-10-22T15:30:00+01:00",
+      "provenance": [
+        {
+          "source_name": "knock-on fixtures (pre-match stub)",
+          "url": "https://www.unitedrugby.com/fixtures-results",
+          "fetched_at": "2026-10-22T15:30:00+01:00"
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "match_id": "urc-2026-10-24-lei-mun",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "clock": null,
+      "period": null,
+      "updated_at": "2026-10-22T15:30:00+01:00",
+      "provenance": [
+        {
+          "source_name": "knock-on fixtures (pre-match stub)",
+          "url": "https://www.unitedrugby.com/fixtures-results",
+          "fetched_at": "2026-10-22T15:30:00+01:00"
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "match_id": "urc-2026-10-24-osp-dra",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "clock": null,
+      "period": null,
+      "updated_at": "2026-10-22T15:30:00+01:00",
+      "provenance": [
+        {
+          "source_name": "knock-on fixtures (pre-match stub)",
+          "url": "https://www.unitedrugby.com/fixtures-results",
+          "fetched_at": "2026-10-22T15:30:00+01:00"
+        }
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "match_id": "urc-2026-10-24-sto-sca",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "clock": null,
+      "period": null,
+      "updated_at": "2026-10-22T15:30:00+01:00",
+      "provenance": [
+        {
+          "source_name": "knock-on fixtures (pre-match stub)",
+          "url": "https://www.unitedrugby.com/fixtures-results",
+          "fetched_at": "2026-10-22T15:30:00+01:00"
+        }
+      ]
     }
   ]
 }
