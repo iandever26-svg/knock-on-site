@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T19:34:16.896Z",
+ "updated_at": "2026-10-23T19:39:22.344Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T19:34:16.896Z",
+   "fetched_at": "2026-10-23T19:39:22.344Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
@@ -98,15 +98,57 @@
     "home": 6,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1900673",
+   "minute": 39,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "George Barton",
+   "detail": "Penalty (9-0)",
+   "playerName": "George Barton",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 9,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1900674",
+   "minute": 39,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ollie Thorley",
+   "detail": "replaces Afolabi Fasogbon",
+   "playerOn": "Ollie Thorley",
+   "playerOff": "Afolabi Fasogbon",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900677",
+   "minute": 41,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Kepu Tuipulotu",
+   "detail": "Try (9-5)",
+   "playerName": "Kepu Tuipulotu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 9,
+    "away": 5
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 6,
-  "away": 0
+  "home": 9,
+  "away": 5
  },
  "plays_summed": {
-  "home": 6,
-  "away": 0
+  "home": 9,
+  "away": 5
  }
 }
