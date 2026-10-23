@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-car-sha",
   "matchId": "urc-2026-10-23-car-sha",
-  "updated_at": "2026-10-23T20:39:25+01:00",
+  "updated_at": "2026-10-23T20:44:32+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604056/competitions/604056/plays",
-      "fetched_at": "2026-10-23T20:39:25+01:00",
+      "fetched_at": "2026-10-23T20:44:32+01:00",
       "espn_event_id": "604056",
       "espn_league_id": 270557
     }
@@ -129,8 +129,8 @@
       }
     },
     {
-      "id": "espn-1900679",
-      "minute": 46,
+      "id": "espn-1900685",
+      "minute": 44,
       "period": "1H",
       "type": "substitution",
       "team": "home",
@@ -139,6 +139,21 @@
       "playerOn": "Tom Bowen",
       "playerOff": "Cameron Winnett",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1900687",
+      "minute": 46,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Jason Jenkins",
+      "detail": "Try (7-17)",
+      "playerName": "Jason Jenkins",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 7,
+        "away": 17
+      }
     }
   ]
 }
