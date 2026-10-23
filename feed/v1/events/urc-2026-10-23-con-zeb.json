@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T21:25:33+01:00",
-  "final": false,
+  "updated_at": "2026-10-23T21:30:39+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T21:25:33+01:00",
+      "fetched_at": "2026-10-23T21:30:39+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
@@ -572,6 +573,51 @@
       "label": "Try",
       "scoreAfter": {
         "home": 43,
+        "away": 27
+      }
+    },
+    {
+      "id": "espn-1900923-cm",
+      "minute": 77,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (43-27)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 43,
+        "away": 27
+      }
+    },
+    {
+      "id": "espn-1900959",
+      "minute": 80,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Dave Heffernan",
+      "detail": "Try (48-27)",
+      "playerName": "Dave Heffernan",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 48,
+        "away": 27
+      }
+    },
+    {
+      "id": "espn-1900959-cm",
+      "minute": 80,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (48-27)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 48,
         "away": 27
       }
     }

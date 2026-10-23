@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-edi-lio",
   "matchId": "urc-2026-10-23-edi-lio",
-  "updated_at": "2026-10-23T21:25:33+01:00",
-  "final": false,
+  "updated_at": "2026-10-23T21:30:39+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604058/competitions/604058/plays",
-      "fetched_at": "2026-10-23T21:25:33+01:00",
+      "fetched_at": "2026-10-23T21:30:39+01:00",
       "espn_event_id": "604058",
       "espn_league_id": 270557
     }
@@ -342,30 +343,6 @@
       }
     },
     {
-      "id": "espn-1900930",
-      "minute": 75,
-      "period": "2H",
-      "type": "substitution",
-      "team": "home",
-      "player": "Conor McAlpine",
-      "detail": "replaces Hector Patterson",
-      "playerOn": "Conor McAlpine",
-      "playerOff": "Hector Patterson",
-      "label": "Substitution"
-    },
-    {
-      "id": "espn-1900932",
-      "minute": 76,
-      "period": "2H",
-      "type": "substitution",
-      "team": "home",
-      "player": "Jamie Stewart",
-      "detail": "replaces Pierre Schoeman",
-      "playerOn": "Jamie Stewart",
-      "playerOff": "Pierre Schoeman",
-      "label": "Substitution"
-    },
-    {
       "id": "espn-1900934",
       "minute": 76,
       "period": "2H",
@@ -387,6 +364,42 @@
       "detail": "replaces Ewan Ashman",
       "playerOn": "Harri Morris",
       "playerOff": "Ewan Ashman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900953",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Conor McAlpine",
+      "detail": "replaces Hector Patterson",
+      "playerOn": "Conor McAlpine",
+      "playerOff": "Hector Patterson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900955",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jamie Stewart",
+      "detail": "replaces Pierre Schoeman",
+      "playerOn": "Jamie Stewart",
+      "playerOff": "Pierre Schoeman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900941",
+      "minute": 78,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Zian Cilliers",
+      "detail": "replaces Nico Steyn",
+      "playerOn": "Zian Cilliers",
+      "playerOff": "Nico Steyn",
       "label": "Substitution"
     }
   ]

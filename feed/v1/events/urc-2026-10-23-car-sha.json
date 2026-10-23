@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-car-sha",
   "matchId": "urc-2026-10-23-car-sha",
-  "updated_at": "2026-10-23T21:25:33+01:00",
+  "updated_at": "2026-10-23T21:30:39+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604056/competitions/604056/plays",
-      "fetched_at": "2026-10-23T21:25:33+01:00",
+      "fetched_at": "2026-10-23T21:30:39+01:00",
       "espn_event_id": "604056",
       "espn_league_id": 270557
     }
@@ -288,7 +288,7 @@
       }
     },
     {
-      "id": "espn-1900903",
+      "id": "espn-1900962",
       "minute": 59,
       "period": "2H",
       "type": "conversion_made",
@@ -343,6 +343,42 @@
         "home": 21,
         "away": 24
       }
+    },
+    {
+      "id": "espn-1900943",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Evan Lloyd",
+      "detail": "replaces Liam Belcher",
+      "playerOn": "Evan Lloyd",
+      "playerOff": "Liam Belcher",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900945",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Keiron Assiratti",
+      "detail": "replaces Javan Sebastian",
+      "playerOn": "Keiron Assiratti",
+      "playerOff": "Javan Sebastian",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900947",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Semisi Paea",
+      "detail": "replaces Alex Mann",
+      "playerOn": "Semisi Paea",
+      "playerOff": "Alex Mann",
+      "label": "Substitution"
     }
   ]
 }
