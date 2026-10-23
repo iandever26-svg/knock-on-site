@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-car-sha",
   "matchId": "urc-2026-10-23-car-sha",
-  "updated_at": "2026-10-23T20:49:38+01:00",
+  "updated_at": "2026-10-23T20:54:46+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604056/competitions/604056/plays",
-      "fetched_at": "2026-10-23T20:49:38+01:00",
+      "fetched_at": "2026-10-23T20:54:46+01:00",
       "espn_event_id": "604056",
       "espn_league_id": 270557
     }
@@ -102,8 +102,20 @@
       }
     },
     {
-      "id": "espn-1900709",
-      "minute": 25,
+      "id": "espn-1900701",
+      "minute": 26,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ox Nche",
+      "detail": "replaces Phatu Ganyane",
+      "playerOn": "Ox Nche",
+      "playerOff": "Phatu Ganyane",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900713",
+      "minute": 27,
       "period": "1H",
       "type": "conversion_made",
       "team": "away",
@@ -117,20 +129,8 @@
       }
     },
     {
-      "id": "espn-1900701",
-      "minute": 26,
-      "period": "1H",
-      "type": "substitution",
-      "team": "away",
-      "player": "Ox Nche",
-      "detail": "replaces Phatu Ganyane",
-      "playerOn": "Ox Nche",
-      "playerOff": "Phatu Ganyane",
-      "label": "Substitution"
-    },
-    {
-      "id": "espn-1900710",
-      "minute": 45,
+      "id": "espn-1900730",
+      "minute": 41,
       "period": "1H",
       "type": "substitution",
       "team": "home",
@@ -141,8 +141,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1900712",
-      "minute": 47,
+      "id": "espn-1900732",
+      "minute": 43,
       "period": "1H",
       "type": "try",
       "team": "away",

@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-edi-lio",
   "matchId": "urc-2026-10-23-edi-lio",
-  "updated_at": "2026-10-23T20:49:38+01:00",
+  "updated_at": "2026-10-23T20:54:46+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604058/competitions/604058/plays",
-      "fetched_at": "2026-10-23T20:49:38+01:00",
+      "fetched_at": "2026-10-23T20:54:46+01:00",
       "espn_event_id": "604058",
       "espn_league_id": 270557
     }
@@ -42,6 +42,21 @@
       }
     },
     {
+      "id": "espn-1900632-cm",
+      "minute": 20,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (5-0)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
       "id": "espn-1900654",
       "minute": 34,
       "period": "1H",
@@ -67,6 +82,36 @@
       "playerOn": "Dylan Sjoblom",
       "playerOff": "Etienne Oosthuizen",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1900733",
+      "minute": 47,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Mosese Tuipulotu",
+      "detail": "Try (10-3)",
+      "playerName": "Mosese Tuipulotu",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-1900734",
+      "minute": 48,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "James Grayson",
+      "detail": "Conversion (12-3)",
+      "playerName": "James Grayson",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 3
+      }
     }
   ]
 }
