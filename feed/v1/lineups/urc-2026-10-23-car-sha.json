@@ -443,7 +443,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292608%5D%7D",
-      "fetched_at": "2026-10-22T15:20:33+01:00",
+      "fetched_at": "2026-10-23T20:12:09+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "cardiff_official",
       "url": "https://www.cardiffrugby.wales/news/cardiff-team-to-face-hollywoodbets-sharks/",
-      "fetched_at": "2026-10-22T15:20:33+01:00",
+      "fetched_at": "2026-10-23T20:12:09+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -467,20 +467,9 @@
       "source_tier": "official"
     },
     {
-      "source_name": "all_rugby",
-      "url": "https://all.rugby/match/26747/urc-2026-2027/cardiff-sharks",
-      "fetched_at": "2026-10-22T15:20:33+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "home",
-      "source_tier": "secondary"
-    },
-    {
       "source_name": "sharks_official",
       "url": "https://sharksrugby.co.za/blogs/news/team-release-cardiff-rugby-vs-hollywoodbets-sharks-1",
-      "fetched_at": "2026-10-22T15:20:33+01:00",
+      "fetched_at": "2026-10-23T20:12:09+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -493,7 +482,7 @@
     {
       "source_name": "sharks_official",
       "url": "https://www.sharksrugby.co.za/",
-      "fetched_at": "2026-10-22T15:20:33+01:00",
+      "fetched_at": "2026-10-23T20:12:09+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -504,7 +493,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292608%5D%7D",
-      "fetched_at": "2026-10-22T15:20:33+01:00",
+      "fetched_at": "2026-10-23T20:12:09+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": false,
@@ -513,17 +502,6 @@
       "published_at": null,
       "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-23T18:45:00.000Z",
       "source_tier": "official"
-    },
-    {
-      "source_name": "all_rugby",
-      "url": "https://all.rugby/match/26747/urc-2026-2027/cardiff-sharks",
-      "fetched_at": "2026-10-22T15:20:33+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away",
-      "source_tier": "secondary"
     }
   ],
   "confidence": {
@@ -533,9 +511,9 @@
     "away_lineup": 0.98,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from urc_official (official); all_rugby 21/23 jerseys agree (differs at #1,#3)",
-      "away: complete_1_to_23 from sharks_official (official); urc_official 23/23 jerseys agree; all_rugby 21/23 jerseys agree (differs at #4,#5)"
+      "home: complete_1_to_23 from urc_official (official)",
+      "away: complete_1_to_23 from sharks_official (official); urc_official 23/23 jerseys agree"
     ]
   },
-  "notes": "Ingest poll 2026-10-22T15:20:33+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-23T20:12:09+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
