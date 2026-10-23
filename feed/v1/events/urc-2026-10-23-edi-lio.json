@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-10-23-edi-lio",
+  "matchId": "urc-2026-10-23-edi-lio",
+  "updated_at": "2026-10-23T19:51:03+01:00",
+  "final": false,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604058/competitions/604058/plays",
+      "fetched_at": "2026-10-23T19:51:03+01:00",
+      "espn_event_id": "604058",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": []
+}
