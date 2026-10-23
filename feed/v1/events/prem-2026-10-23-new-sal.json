@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-new-sal",
  "matchId": "prem-2026-10-23-new-sal",
- "updated_at": "2026-10-23T20:04:49.771Z",
+ "updated_at": "2026-10-23T20:09:55.403Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604632/competitions/604632/plays?limit=400",
-   "fetched_at": "2026-10-23T20:04:49.771Z",
+   "fetched_at": "2026-10-23T20:09:55.403Z",
    "espn_event_id": "604632",
    "espn_league_id": 267979
   }
@@ -97,8 +97,20 @@
    }
   },
   {
-   "id": "espn-1900802",
-   "minute": 52,
+   "id": "espn-1900822",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Asher Opoku-Fordjour",
+   "detail": "replaces Tomas Francis",
+   "playerOn": "Asher Opoku-Fordjour",
+   "playerOff": "Tomas Francis",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900833",
+   "minute": 55,
    "period": "2H",
    "type": "substitution",
    "team": "home",

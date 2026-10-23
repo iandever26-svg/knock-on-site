@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T20:04:49.771Z",
+ "updated_at": "2026-10-23T20:09:55.403Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T20:04:49.771Z",
+   "fetched_at": "2026-10-23T20:09:55.403Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
@@ -170,6 +170,42 @@
     "home": 9,
     "away": 5
    }
+  },
+  {
+   "id": "espn-1900812",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dian Bleuler",
+   "detail": "replaces Val Rapava-Ruskin",
+   "playerOn": "Dian Bleuler",
+   "playerOff": "Val Rapava-Ruskin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900814",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jack Innard",
+   "detail": "replaces Seb Blake",
+   "playerOn": "Jack Innard",
+   "playerOff": "Seb Blake",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900816",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Afolabi Fasogbon",
+   "detail": "replaces Ciaran Knight",
+   "playerOn": "Afolabi Fasogbon",
+   "playerOff": "Ciaran Knight",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
