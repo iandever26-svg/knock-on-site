@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T20:20:10.348Z",
+ "updated_at": "2026-10-23T20:25:15.815Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T20:20:10.348Z",
+   "fetched_at": "2026-10-23T20:25:15.815Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
@@ -295,6 +295,30 @@
    "detail": "replaces Caolan Englefield",
    "playerOn": "Dan Robson",
    "playerOff": "Caolan Englefield",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900916",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ross Molony",
+   "detail": "replaces Charlie Ewels",
+   "playerOn": "Ross Molony",
+   "playerOff": "Charlie Ewels",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900912",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Trenholm",
+   "detail": "replaces Jean Kleyn",
+   "playerOn": "Will Trenholm",
+   "playerOff": "Jean Kleyn",
    "label": "Substitution"
   }
  ],

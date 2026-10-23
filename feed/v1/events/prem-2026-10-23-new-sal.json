@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-new-sal",
  "matchId": "prem-2026-10-23-new-sal",
- "updated_at": "2026-10-23T20:20:10.348Z",
+ "updated_at": "2026-10-23T20:25:15.815Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604632/competitions/604632/plays?limit=400",
-   "fetched_at": "2026-10-23T20:20:10.348Z",
+   "fetched_at": "2026-10-23T20:25:15.815Z",
    "espn_event_id": "604632",
    "espn_league_id": 267979
   }
@@ -133,6 +133,18 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1900907",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sam Dugdale",
+   "detail": "replaces Ben Curry",
+   "playerOn": "Sam Dugdale",
+   "playerOff": "Ben Curry",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1900835",
    "minute": 60,
    "period": "2H",
@@ -190,6 +202,18 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1900898",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Arron Reed",
+   "detail": "replaces Tom O'Flaherty",
+   "playerOn": "Arron Reed",
+   "playerOff": "Tom O'Flaherty",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1900892",
    "minute": 67,
    "period": "2H",
@@ -211,6 +235,18 @@
    "detail": "replaces Simon Benitez Cruz",
    "playerOn": "James Elliott",
    "playerOff": "Simon Benitez Cruz",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900900",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Elia Canakaivata",
+   "detail": "replaces Tom Curry",
+   "playerOn": "Elia Canakaivata",
+   "playerOff": "Tom Curry",
    "label": "Substitution"
   }
  ],
