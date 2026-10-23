@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T20:25:15.815Z",
+ "updated_at": "2026-10-23T20:30:20.266Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T20:25:15.815Z",
+   "fetched_at": "2026-10-23T20:30:20.266Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
@@ -319,6 +319,30 @@
    "detail": "replaces Jean Kleyn",
    "playerOn": "Will Trenholm",
    "playerOff": "Jean Kleyn",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900949",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kieran Verden",
+   "detail": "replaces Archie Griffin",
+   "playerOn": "Kieran Verden",
+   "playerOff": "Archie Griffin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900951",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tom Carr-Smith",
+   "detail": "replaces Guy Pepper",
+   "playerOn": "Tom Carr-Smith",
+   "playerOff": "Guy Pepper",
    "label": "Substitution"
   }
  ],
