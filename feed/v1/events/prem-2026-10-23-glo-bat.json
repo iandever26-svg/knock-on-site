@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T19:59:43.774Z",
+ "updated_at": "2026-10-23T20:04:49.771Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T19:59:43.774Z",
+   "fetched_at": "2026-10-23T20:04:49.771Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
@@ -136,6 +136,36 @@
    "detail": "Try (9-5)",
    "playerName": "Kepu Tuipulotu",
    "label": "Try",
+   "scoreAfter": {
+    "home": 9,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1900677-cm",
+   "minute": 41,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (9-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 9,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1900785",
+   "minute": 47,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Will Joseph",
+   "detail": "Yellow card (9-5)",
+   "playerName": "Will Joseph",
+   "label": "Yellow card",
    "scoreAfter": {
     "home": 9,
     "away": 5
