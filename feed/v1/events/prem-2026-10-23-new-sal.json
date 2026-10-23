@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-new-sal",
  "matchId": "prem-2026-10-23-new-sal",
- "updated_at": "2026-10-23T19:19:14.567Z",
+ "updated_at": "2026-10-23T19:27:20.395Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604632/competitions/604632/plays?limit=400",
-   "fetched_at": "2026-10-23T19:19:14.567Z",
+   "fetched_at": "2026-10-23T19:27:20.395Z",
    "espn_event_id": "604632",
    "espn_league_id": 267979
   }

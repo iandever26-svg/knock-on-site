@@ -6,6 +6,26 @@
   "standingsUpdatedAt": "2026-10-23T19:15:29+01:00",
   "matches": [
     {
+      "match_id": "prem-2026-10-23-glo-bat",
+      "kickoff": "2026-10-23T19:45:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-23T19:27:20.395Z"
+    },
+    {
+      "match_id": "prem-2026-10-23-new-sal",
+      "kickoff": "2026-10-23T19:45:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-23T19:27:20.395Z"
+    },
+    {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
       "score": true,
@@ -324,26 +344,6 @@
       "lineupUpdatedAt": "2026-10-22T15:20:50+01:00",
       "events": false,
       "eventsUpdatedAt": null
-    },
-    {
-      "match_id": "prem-2026-10-23-glo-bat",
-      "kickoff": "2026-10-23T19:45:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-23T19:19:14.567Z"
-    },
-    {
-      "match_id": "prem-2026-10-23-new-sal",
-      "kickoff": "2026-10-23T19:45:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-23T19:19:14.567Z"
     }
   ]
 }
