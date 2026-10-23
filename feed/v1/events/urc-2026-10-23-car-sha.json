@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-car-sha",
   "matchId": "urc-2026-10-23-car-sha",
-  "updated_at": "2026-10-23T21:15:16+01:00",
+  "updated_at": "2026-10-23T21:20:26+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604056/competitions/604056/plays",
-      "fetched_at": "2026-10-23T21:15:16+01:00",
+      "fetched_at": "2026-10-23T21:20:26+01:00",
       "espn_event_id": "604056",
       "espn_league_id": 270557
     }
@@ -271,6 +271,21 @@
       "playerOn": "Ivan van Zyl",
       "playerOff": "Jaden Hendrikse",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1900875",
+      "minute": 58,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "James Botham",
+      "detail": "Try (19-17)",
+      "playerName": "James Botham",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 17
+      }
     }
   ]
 }

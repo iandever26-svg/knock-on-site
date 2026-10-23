@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T21:15:16+01:00",
+  "updated_at": "2026-10-23T21:20:26+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T21:15:16+01:00",
+      "fetched_at": "2026-10-23T21:20:26+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
@@ -489,6 +489,60 @@
       "scoreAfter": {
         "home": 43,
         "away": 17
+      }
+    },
+    {
+      "id": "espn-1900858-cm",
+      "minute": 68,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (43-17)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 43,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1900881",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Caolin Blade",
+      "detail": "replaces Colm Reilly",
+      "playerOn": "Caolin Blade",
+      "playerOff": "Colm Reilly",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900871",
+      "minute": 70,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Giacomo Ferrari",
+      "detail": "replaces Davide Ruggeri",
+      "playerOn": "Giacomo Ferrari",
+      "playerOff": "Davide Ruggeri",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900876",
+      "minute": 71,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Giampietro Ribaldi",
+      "detail": "Try (43-22)",
+      "playerName": "Giampietro Ribaldi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 43,
+        "away": 22
       }
     }
   ]

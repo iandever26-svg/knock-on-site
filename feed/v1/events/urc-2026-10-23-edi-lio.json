@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-edi-lio",
   "matchId": "urc-2026-10-23-edi-lio",
-  "updated_at": "2026-10-23T21:15:16+01:00",
+  "updated_at": "2026-10-23T21:20:26+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604058/competitions/604058/plays",
-      "fetched_at": "2026-10-23T21:15:16+01:00",
+      "fetched_at": "2026-10-23T21:20:26+01:00",
       "espn_event_id": "604058",
       "espn_league_id": 270557
     }
@@ -259,6 +259,33 @@
         "home": 24,
         "away": 10
       }
+    },
+    {
+      "id": "espn-1900859-cm",
+      "minute": 65,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (24-10)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 24,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1900879",
+      "minute": 70,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cammy Scott",
+      "detail": "replaces James Grayson",
+      "playerOn": "Cammy Scott",
+      "playerOff": "James Grayson",
+      "label": "Substitution"
     }
   ]
 }
