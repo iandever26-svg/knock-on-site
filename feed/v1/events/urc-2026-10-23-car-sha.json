@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-car-sha",
   "matchId": "urc-2026-10-23-car-sha",
-  "updated_at": "2026-10-23T21:20:26+01:00",
+  "updated_at": "2026-10-23T21:25:33+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604056/competitions/604056/plays",
-      "fetched_at": "2026-10-23T21:20:26+01:00",
+      "fetched_at": "2026-10-23T21:25:33+01:00",
       "espn_event_id": "604056",
       "espn_league_id": 270557
     }
@@ -285,6 +285,63 @@
       "scoreAfter": {
         "home": 19,
         "away": 17
+      }
+    },
+    {
+      "id": "espn-1900903",
+      "minute": 59,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jarrod Evans",
+      "detail": "Conversion (21-17)",
+      "playerName": "Jarrod Evans",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1900914",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Vincent Tshituka",
+      "detail": "replaces Manu Tshituka",
+      "playerOn": "Vincent Tshituka",
+      "playerOff": "Manu Tshituka",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900922",
+      "minute": 62,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Thomas du Toit",
+      "detail": "Try (21-22)",
+      "playerName": "Thomas du Toit",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 21,
+        "away": 22
+      }
+    },
+    {
+      "id": "espn-1900938",
+      "minute": 63,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Gianni Lombard",
+      "detail": "Conversion (21-24)",
+      "playerName": "Gianni Lombard",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 24
       }
     }
   ]

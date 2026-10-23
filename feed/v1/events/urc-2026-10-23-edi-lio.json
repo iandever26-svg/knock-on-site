@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-edi-lio",
   "matchId": "urc-2026-10-23-edi-lio",
-  "updated_at": "2026-10-23T21:20:26+01:00",
+  "updated_at": "2026-10-23T21:25:33+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604058/competitions/604058/plays",
-      "fetched_at": "2026-10-23T21:20:26+01:00",
+      "fetched_at": "2026-10-23T21:25:33+01:00",
       "espn_event_id": "604058",
       "espn_league_id": 270557
     }
@@ -276,6 +276,30 @@
       }
     },
     {
+      "id": "espn-1900926",
+      "minute": 68,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Boeta Chamberlain",
+      "detail": "replaces Quan Horn",
+      "playerOn": "Boeta Chamberlain",
+      "playerOff": "Quan Horn",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900928",
+      "minute": 68,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sibabalwe Mahashe",
+      "detail": "replaces Sikhumbuzo Notshe",
+      "playerOn": "Sibabalwe Mahashe",
+      "playerOff": "Sikhumbuzo Notshe",
+      "label": "Substitution"
+    },
+    {
       "id": "espn-1900879",
       "minute": 70,
       "period": "2H",
@@ -285,6 +309,84 @@
       "detail": "replaces James Grayson",
       "playerOn": "Cammy Scott",
       "playerOff": "James Grayson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900904",
+      "minute": 74,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Geordie Gwynn",
+      "detail": "Try (29-10)",
+      "playerName": "Geordie Gwynn",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 29,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1900911",
+      "minute": 75,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Cammy Scott",
+      "detail": "Conversion (31-10)",
+      "playerName": "Cammy Scott",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 31,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1900930",
+      "minute": 75,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Conor McAlpine",
+      "detail": "replaces Hector Patterson",
+      "playerOn": "Conor McAlpine",
+      "playerOff": "Hector Patterson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900932",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jamie Stewart",
+      "detail": "replaces Pierre Schoeman",
+      "playerOn": "Jamie Stewart",
+      "playerOff": "Pierre Schoeman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900934",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Tom Dodd",
+      "detail": "replaces Tom Currie",
+      "playerOn": "Tom Dodd",
+      "playerOff": "Tom Currie",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900936",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Harri Morris",
+      "detail": "replaces Ewan Ashman",
+      "playerOn": "Harri Morris",
+      "playerOff": "Ewan Ashman",
       "label": "Substitution"
     }
   ]

@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T21:20:26+01:00",
+  "updated_at": "2026-10-23T21:25:33+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T21:20:26+01:00",
+      "fetched_at": "2026-10-23T21:25:33+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
@@ -543,6 +543,36 @@
       "scoreAfter": {
         "home": 43,
         "away": 22
+      }
+    },
+    {
+      "id": "espn-1900876-cm",
+      "minute": 71,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (43-22)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 43,
+        "away": 22
+      }
+    },
+    {
+      "id": "espn-1900923",
+      "minute": 77,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Bautista Stavile",
+      "detail": "Try (43-27)",
+      "playerName": "Bautista Stavile",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 43,
+        "away": 27
       }
     }
   ]
