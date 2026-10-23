@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T20:14:09+01:00",
+  "updated_at": "2026-10-23T20:19:16+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T20:14:09+01:00",
+      "fetched_at": "2026-10-23T20:19:16+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
@@ -163,6 +163,78 @@
         "home": 26,
         "away": 5
       }
+    },
+    {
+      "id": "espn-1900638",
+      "minute": 28,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Jacopo Botturi",
+      "detail": "Try (26-10)",
+      "playerName": "Jacopo Botturi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1900639",
+      "minute": 29,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Giovanni Montemauri",
+      "detail": "Conversion (26-12)",
+      "playerName": "Giovanni Montemauri",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 26,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1900644",
+      "minute": 31,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Cian Prendergast",
+      "detail": "Try (31-12)",
+      "playerName": "Cian Prendergast",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 31,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1900648",
+      "minute": 31,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Ciarán Frawley",
+      "detail": "Conversion (33-12)",
+      "playerName": "Ciarán Frawley",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 33,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1900649",
+      "minute": 31,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Juan-Ignacio Castellano",
+      "detail": "replaces Muhamed Hasa",
+      "playerOn": "Juan-Ignacio Castellano",
+      "playerOff": "Muhamed Hasa",
+      "label": "Substitution"
     }
   ]
 }
