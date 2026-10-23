@@ -1,0 +1,40 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "prem-2026-10-23-glo-bat",
+ "matchId": "prem-2026-10-23-glo-bat",
+ "updated_at": "2026-10-23T19:03:59.136Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
+   "fetched_at": "2026-10-23T19:03:59.136Z",
+   "espn_event_id": "604629",
+   "espn_league_id": 267979
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1900627",
+   "minute": 13,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ciaran Donoghue",
+   "detail": "replaces Santiago Carreras",
+   "playerOn": "Ciaran Donoghue",
+   "playerOff": "Santiago Carreras",
+   "label": "Substitution"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 0,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 0,
+  "away": 0
+ }
+}
