@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-new-sal",
  "matchId": "prem-2026-10-23-new-sal",
- "updated_at": "2026-10-23T19:54:38.747Z",
+ "updated_at": "2026-10-23T19:59:43.774Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604632/competitions/604632/plays?limit=400",
-   "fetched_at": "2026-10-23T19:54:38.747Z",
+   "fetched_at": "2026-10-23T19:59:43.774Z",
    "espn_event_id": "604632",
    "espn_league_id": 267979
   }
@@ -41,15 +41,69 @@
     "home": 0,
     "away": 3
    }
+  },
+  {
+   "id": "espn-1900741",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom West",
+   "detail": "replaces Pouri Rakete-Stones",
+   "playerOn": "Tom West",
+   "playerOff": "Pouri Rakete-Stones",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900743",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Francisco Moreno",
+   "detail": "replaces Elliot Millar-Mills",
+   "playerOn": "Francisco Moreno",
+   "playerOff": "Elliot Millar-Mills",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900757",
+   "minute": 49,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Christian Wade",
+   "detail": "Try (5-3)",
+   "playerName": "Christian Wade",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1900759",
+   "minute": 50,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Josh Hodge",
+   "detail": "Conversion (7-3)",
+   "playerName": "Josh Hodge",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 3
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
+  "home": 7,
   "away": 3
  },
  "plays_summed": {
-  "home": 0,
+  "home": 7,
   "away": 3
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T19:54:38.747Z",
+ "updated_at": "2026-10-23T19:59:43.774Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T19:54:38.747Z",
+   "fetched_at": "2026-10-23T19:59:43.774Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
