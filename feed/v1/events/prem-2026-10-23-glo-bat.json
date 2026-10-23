@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T20:40:32.041Z",
- "final": false,
+ "updated_at": "2026-10-23T20:45:36.680Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T20:40:32.041Z",
+   "fetched_at": "2026-10-23T20:45:36.680Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
@@ -356,15 +356,45 @@
    "playerOn": "Lewis Ludlow",
    "playerOff": "Jack Clement",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900983",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Max Llewellyn",
+   "detail": "Try (21-5)",
+   "playerName": "Max Llewellyn",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1900990",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "George Barton",
+   "detail": "Conversion (23-5)",
+   "playerName": "George Barton",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 23,
+    "away": 5
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 16,
+  "home": 23,
   "away": 5
  },
  "plays_summed": {
-  "home": 16,
+  "home": 23,
   "away": 5
  }
 }
