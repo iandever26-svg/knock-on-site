@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T19:58:58+01:00",
+  "updated_at": "2026-10-23T20:04:06+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T19:58:58+01:00",
+      "fetched_at": "2026-10-23T20:04:06+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
@@ -71,6 +71,21 @@
       "label": "Conversion",
       "scoreAfter": {
         "home": 7,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1900626",
+      "minute": 14,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Sean Jansen",
+      "detail": "Try (12-5)",
+      "playerName": "Sean Jansen",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
         "away": 5
       }
     }
