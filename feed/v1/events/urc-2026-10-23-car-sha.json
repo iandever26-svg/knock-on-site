@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-car-sha",
   "matchId": "urc-2026-10-23-car-sha",
-  "updated_at": "2026-10-23T21:40:52+01:00",
-  "final": false,
+  "updated_at": "2026-10-23T21:45:58+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604056/competitions/604056/plays",
-      "fetched_at": "2026-10-23T21:40:52+01:00",
+      "fetched_at": "2026-10-23T21:45:58+01:00",
       "espn_event_id": "604056",
       "espn_league_id": 270557
     }
@@ -420,7 +421,7 @@
       }
     },
     {
-      "id": "espn-1900980",
+      "id": "espn-1900987",
       "minute": 75,
       "period": "2H",
       "type": "conversion_made",
@@ -435,8 +436,8 @@
       }
     },
     {
-      "id": "espn-1900981",
-      "minute": 76,
+      "id": "espn-1900988",
+      "minute": 75,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -445,6 +446,36 @@
       "playerOn": "Callum Sheedy",
       "playerOff": "Harri Millard",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1900991",
+      "minute": 80,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Matt Romao",
+      "detail": "Try (21-36)",
+      "playerName": "Matt Romao",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 21,
+        "away": 36
+      }
+    },
+    {
+      "id": "espn-1900991-cm",
+      "minute": 80,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (21-36)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 21,
+        "away": 36
+      }
     }
   ]
 }
