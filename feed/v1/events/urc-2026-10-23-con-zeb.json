@@ -2,16 +2,77 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T19:51:03+01:00",
+  "updated_at": "2026-10-23T19:58:58+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T19:51:03+01:00",
+      "fetched_at": "2026-10-23T19:58:58+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "espn-1900619",
+      "minute": 5,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Giacomo Ferrari",
+      "detail": "Try (0-5)",
+      "playerName": "Giacomo Ferrari",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1900619-cm",
+      "minute": 5,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (0-5)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1900620",
+      "minute": 9,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Finlay Bealham",
+      "detail": "Try (5-5)",
+      "playerName": "Finlay Bealham",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1900621",
+      "minute": 9,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Ciarán Frawley",
+      "detail": "Conversion (7-5)",
+      "playerName": "Ciarán Frawley",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 5
+      }
+    }
+  ]
 }

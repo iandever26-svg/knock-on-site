@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-car-sha",
   "matchId": "urc-2026-10-23-car-sha",
-  "updated_at": "2026-10-23T19:51:03+01:00",
+  "updated_at": "2026-10-23T19:58:58+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604056/competitions/604056/plays",
-      "fetched_at": "2026-10-23T19:51:03+01:00",
+      "fetched_at": "2026-10-23T19:58:58+01:00",
       "espn_event_id": "604056",
       "espn_league_id": 270557
     }
@@ -25,6 +25,51 @@
       "playerOn": "Jaco Williams",
       "playerOff": "Andre Esterhuizen",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1900618",
+      "minute": 2,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Ethan Hooker",
+      "detail": "Try (0-5)",
+      "playerName": "Ethan Hooker",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1900618-cm",
+      "minute": 2,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (0-5)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1900624",
+      "minute": 10,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Josh Adams",
+      "detail": "Try (5-5)",
+      "playerName": "Josh Adams",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 5
+      }
     }
   ]
 }
