@@ -1,27 +1,31 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-10-23T19:49:33.425Z",
- "updatedAt": "2026-10-23T19:49:33.425Z",
+ "generatedAt": "2026-10-23T19:54:38.747Z",
+ "updatedAt": "2026-10-23T19:54:38.747Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
    "schema_version": "1.0.0",
    "match_id": "prem-2026-10-23-glo-bat",
-   "status": "ht",
+   "status": "live",
    "home_score": 9,
    "away_score": 5,
-   "clock": "HT",
-   "period": "HT",
-   "updated_at": "2026-10-23T19:49:33.425Z",
+   "clock": null,
+   "period": "2H",
+   "updated_at": "2026-10-23T19:54:38.747Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-23T19:49:33.425Z",
+     "fetched_at": "2026-10-23T19:54:38.747Z",
      "espn_event_id": "604629",
-     "may_lag": true
+     "may_lag": true,
+     "espn_display_clock": "1'",
+     "espn_clock_seconds": 0,
+     "espn_period": 2
     }
    ],
+   "second_half_seen_at": "2026-10-23T19:54:38.747Z",
    "latest_event_minute": 41,
    "latest_event_period": "1H",
    "latest_event_seen_at": "2026-10-23T19:39:22.344Z"
@@ -34,12 +38,12 @@
    "away_score": 3,
    "clock": null,
    "period": "2H",
-   "updated_at": "2026-10-23T19:49:33.425Z",
+   "updated_at": "2026-10-23T19:54:38.747Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-23T19:49:33.425Z",
+     "fetched_at": "2026-10-23T19:54:38.747Z",
      "espn_event_id": "604632",
      "may_lag": true,
      "espn_display_clock": "1'",
