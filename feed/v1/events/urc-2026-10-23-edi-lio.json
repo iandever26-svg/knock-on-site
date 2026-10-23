@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-edi-lio",
   "matchId": "urc-2026-10-23-edi-lio",
-  "updated_at": "2026-10-23T20:09:12+01:00",
+  "updated_at": "2026-10-23T20:27:23+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604058/competitions/604058/plays",
-      "fetched_at": "2026-10-23T20:09:12+01:00",
+      "fetched_at": "2026-10-23T20:27:23+01:00",
       "espn_event_id": "604058",
       "espn_league_id": 270557
     }
@@ -40,6 +40,48 @@
         "home": 5,
         "away": 0
       }
+    },
+    {
+      "id": "espn-1900632-cm",
+      "minute": 20,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (5-0)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1900654",
+      "minute": 34,
+      "period": "1H",
+      "type": "penalty_goal_made",
+      "team": "away",
+      "player": "Chris Smith",
+      "detail": "Penalty (5-3)",
+      "playerName": "Chris Smith",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 5,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-1900659",
+      "minute": 36,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Dylan Sjoblom",
+      "detail": "replaces Etienne Oosthuizen",
+      "playerOn": "Dylan Sjoblom",
+      "playerOff": "Etienne Oosthuizen",
+      "label": "Substitution"
     }
   ]
 }
