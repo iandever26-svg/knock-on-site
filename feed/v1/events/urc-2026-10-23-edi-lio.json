@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-edi-lio",
   "matchId": "urc-2026-10-23-edi-lio",
-  "updated_at": "2026-10-23T21:05:01+01:00",
+  "updated_at": "2026-10-23T21:15:16+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604058/competitions/604058/plays",
-      "fetched_at": "2026-10-23T21:05:01+01:00",
+      "fetched_at": "2026-10-23T21:15:16+01:00",
       "espn_event_id": "604058",
       "espn_league_id": 270557
     }
@@ -192,7 +192,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1900794",
+      "id": "espn-1900850",
       "minute": 57,
       "period": "2H",
       "type": "try",
@@ -218,6 +218,45 @@
       "label": "Conversion",
       "scoreAfter": {
         "home": 19,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1900838",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "RF Schoeman",
+      "detail": "replaces Conraad van Vuuren",
+      "playerOn": "RF Schoeman",
+      "playerOff": "Conraad van Vuuren",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900855",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Richard Kriel",
+      "detail": "replaces Bronson Mills",
+      "playerOn": "Richard Kriel",
+      "playerOff": "Bronson Mills",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900859",
+      "minute": 65,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Hector Patterson",
+      "detail": "Try (24-10)",
+      "playerName": "Hector Patterson",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
         "away": 10
       }
     }

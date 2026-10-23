@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T21:10:10+01:00",
+  "updated_at": "2026-10-23T21:15:16+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T21:10:10+01:00",
+      "fetched_at": "2026-10-23T21:15:16+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
@@ -441,8 +441,20 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1900829",
-      "minute": 64,
+      "id": "espn-1900844",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "David O’Connor",
+      "detail": "replaces Darragh Murray",
+      "playerOn": "David O’Connor",
+      "playerOff": "Darragh Murray",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900846",
+      "minute": 63,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -453,8 +465,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1900831",
-      "minute": 64,
+      "id": "espn-1900848",
+      "minute": 63,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -463,6 +475,21 @@
       "playerOn": "Giacomo da Re",
       "playerOff": "Giovanni Montemauri",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1900858",
+      "minute": 68,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Harry West",
+      "detail": "Try (43-17)",
+      "playerName": "Harry West",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 43,
+        "away": 17
+      }
     }
   ]
 }
