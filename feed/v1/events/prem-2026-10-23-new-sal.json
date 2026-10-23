@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-new-sal",
  "matchId": "prem-2026-10-23-new-sal",
- "updated_at": "2026-10-23T20:15:02.129Z",
+ "updated_at": "2026-10-23T20:20:10.348Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604632/competitions/604632/plays?limit=400",
-   "fetched_at": "2026-10-23T20:15:02.129Z",
+   "fetched_at": "2026-10-23T20:20:10.348Z",
    "espn_event_id": "604632",
    "espn_league_id": 267979
   }
@@ -148,8 +148,8 @@
    }
   },
   {
-   "id": "espn-1900857",
-   "minute": 63,
+   "id": "espn-1900883",
+   "minute": 62,
    "period": "2H",
    "type": "try",
    "team": "home",
@@ -163,8 +163,8 @@
    }
   },
   {
-   "id": "espn-1900862",
-   "minute": 64,
+   "id": "espn-1900889",
+   "minute": 63,
    "period": "2H",
    "type": "conversion_made",
    "team": "home",
@@ -178,8 +178,8 @@
    }
   },
   {
-   "id": "espn-1900869",
-   "minute": 65,
+   "id": "espn-1900896",
+   "minute": 64,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -187,6 +187,30 @@
    "detail": "replaces Nicky Smith",
    "playerOn": "Si McIntyre",
    "playerOff": "Nicky Smith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900892",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ollie Leatherbarrow",
+   "detail": "replaces Max Hicks",
+   "playerOn": "Ollie Leatherbarrow",
+   "playerOff": "Max Hicks",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900894",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "James Elliott",
+   "detail": "replaces Simon Benitez Cruz",
+   "playerOn": "James Elliott",
+   "playerOff": "Simon Benitez Cruz",
    "label": "Substitution"
   }
  ],
