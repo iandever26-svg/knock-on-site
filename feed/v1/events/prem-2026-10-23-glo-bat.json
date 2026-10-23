@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T19:27:20.395Z",
+ "updated_at": "2026-10-23T19:34:16.896Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T19:27:20.395Z",
+   "fetched_at": "2026-10-23T19:34:16.896Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
@@ -71,15 +71,42 @@
     "home": 3,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1900665",
+   "minute": 33,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Afolabi Fasogbon",
+   "detail": "replaces Ollie Thorley",
+   "playerOn": "Afolabi Fasogbon",
+   "playerOff": "Ollie Thorley",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900672",
+   "minute": 37,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "George Barton",
+   "detail": "Penalty (6-0)",
+   "playerName": "George Barton",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 6,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 3,
+  "home": 6,
   "away": 0
  },
  "plays_summed": {
-  "home": 3,
+  "home": 6,
   "away": 0
  }
 }
