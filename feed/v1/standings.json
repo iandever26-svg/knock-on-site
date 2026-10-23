@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-23T21:40:52+01:00",
+  "updatedAt": "2026-10-23T22:01:14+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
@@ -30,6 +30,22 @@
     },
     {
       "position": 2,
+      "teamId": "sharks",
+      "team": "Sharks",
+      "P": 4,
+      "W": 3,
+      "D": 0,
+      "L": 1,
+      "PF": 125,
+      "PA": 104,
+      "TF": 18,
+      "TA": 16,
+      "BP": 3,
+      "points": 15,
+      "form": "WLWWW"
+    },
+    {
+      "position": 3,
       "teamId": "glasgow",
       "team": "Glasgow Warriors",
       "P": 3,
@@ -45,7 +61,7 @@
       "form": "WDWWD"
     },
     {
-      "position": 3,
+      "position": 4,
       "teamId": "bulls",
       "team": "Bulls",
       "P": 3,
@@ -61,7 +77,7 @@
       "form": "WLWWL"
     },
     {
-      "position": 4,
+      "position": 5,
       "teamId": "stormers",
       "team": "Stormers",
       "P": 3,
@@ -75,22 +91,6 @@
       "BP": 3,
       "points": 11,
       "form": "WLWWL"
-    },
-    {
-      "position": 5,
-      "teamId": "sharks",
-      "team": "Sharks",
-      "P": 3,
-      "W": 2,
-      "D": 0,
-      "L": 1,
-      "PF": 89,
-      "PA": 83,
-      "TF": 12,
-      "TA": 13,
-      "BP": 2,
-      "points": 10,
-      "form": "LWWLW"
     },
     {
       "position": 6,
@@ -112,17 +112,17 @@
       "position": 7,
       "teamId": "cardiff",
       "team": "Cardiff Blues",
-      "P": 3,
+      "P": 4,
       "W": 2,
       "D": 0,
-      "L": 1,
-      "PF": 66,
-      "PA": 71,
-      "TF": 10,
-      "TA": 11,
+      "L": 2,
+      "PF": 87,
+      "PA": 107,
+      "TF": 13,
+      "TA": 17,
       "BP": 1,
       "points": 9,
-      "form": "LWWWL"
+      "form": "LLWWL"
     },
     {
       "position": 8,
