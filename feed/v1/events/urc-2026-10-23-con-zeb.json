@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T20:59:53+01:00",
+  "updated_at": "2026-10-23T21:05:01+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T20:59:53+01:00",
+      "fetched_at": "2026-10-23T21:05:01+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
@@ -291,18 +291,6 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1900739",
-      "minute": 52,
-      "period": "2H",
-      "type": "substitution",
-      "team": "away",
-      "player": "Giampietro Ribaldi",
-      "detail": "replaces Tommaso di Bartolomeo",
-      "playerOn": "Giampietro Ribaldi",
-      "playerOff": "Tommaso di Bartolomeo",
-      "label": "Substitution"
-    },
-    {
       "id": "espn-1900747",
       "minute": 52,
       "period": "2H",
@@ -339,6 +327,42 @@
       "label": "Substitution"
     },
     {
+      "id": "espn-1900783",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Giampietro Ribaldi",
+      "detail": "replaces Tommaso di Bartolomeo",
+      "playerOn": "Giampietro Ribaldi",
+      "playerOff": "Tommaso di Bartolomeo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900771",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Will Connors",
+      "detail": "replaces Sean Jansen",
+      "playerOn": "Will Connors",
+      "playerOff": "Sean Jansen",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900775",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Daniel Ryan",
+      "detail": "replaces Mack Hansen",
+      "playerOn": "Daniel Ryan",
+      "playerOff": "Mack Hansen",
+      "label": "Substitution"
+    },
+    {
       "id": "espn-1900769",
       "minute": 55,
       "period": "2H",
@@ -352,6 +376,69 @@
         "home": 38,
         "away": 17
       }
+    },
+    {
+      "id": "espn-1900769-cm",
+      "minute": 55,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (38-17)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 38,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1900786",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sean Naughton",
+      "detail": "replaces Ciarán Frawley",
+      "playerOn": "Sean Naughton",
+      "playerOff": "Ciarán Frawley",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900773",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Matteo Canali",
+      "detail": "replaces Jacopo Botturi",
+      "playerOn": "Matteo Canali",
+      "playerOff": "Jacopo Botturi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900778",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Juan-Ignacio Castellano",
+      "detail": "replaces Muhamed Hasa",
+      "playerOn": "Juan-Ignacio Castellano",
+      "playerOff": "Muhamed Hasa",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900792",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Thomas Dominguez",
+      "detail": "replaces Alessandro Fusco",
+      "playerOn": "Thomas Dominguez",
+      "playerOff": "Alessandro Fusco",
+      "label": "Substitution"
     }
   ]
 }

@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-car-sha",
   "matchId": "urc-2026-10-23-car-sha",
-  "updated_at": "2026-10-23T20:59:53+01:00",
+  "updated_at": "2026-10-23T21:05:01+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604056/competitions/604056/plays",
-      "fetched_at": "2026-10-23T20:59:53+01:00",
+      "fetched_at": "2026-10-23T21:05:01+01:00",
       "espn_event_id": "604056",
       "espn_league_id": 270557
     }
@@ -178,6 +178,75 @@
         "home": 7,
         "away": 17
       }
+    },
+    {
+      "id": "espn-1900732-cm",
+      "minute": 43,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (7-17)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 7,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1900781",
+      "minute": 45,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "James Botham",
+      "detail": "Try (12-17)",
+      "playerName": "James Botham",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1900782",
+      "minute": 46,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jarrod Evans",
+      "detail": "Conversion (14-17)",
+      "playerName": "Jarrod Evans",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1900796",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ethan Bester",
+      "detail": "replaces Eduan Swart",
+      "playerOn": "Ethan Bester",
+      "playerOff": "Eduan Swart",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900798",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Thomas du Toit",
+      "detail": "replaces Hanro Jacobs",
+      "playerOn": "Thomas du Toit",
+      "playerOff": "Hanro Jacobs",
+      "label": "Substitution"
     }
   ]
 }

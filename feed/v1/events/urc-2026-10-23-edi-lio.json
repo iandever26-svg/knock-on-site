@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-edi-lio",
   "matchId": "urc-2026-10-23-edi-lio",
-  "updated_at": "2026-10-23T20:59:53+01:00",
+  "updated_at": "2026-10-23T21:05:01+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604058/competitions/604058/plays",
-      "fetched_at": "2026-10-23T20:59:53+01:00",
+      "fetched_at": "2026-10-23T21:05:01+01:00",
       "espn_event_id": "604058",
       "espn_league_id": 270557
     }
@@ -190,6 +190,36 @@
       "playerOn": "SJ Kotze",
       "playerOff": "Boan Venter",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1900794",
+      "minute": 57,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Bathobele Hlekani",
+      "detail": "Try (19-8)",
+      "playerName": "Bathobele Hlekani",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1900795",
+      "minute": 58,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Chris Smith",
+      "detail": "Conversion (19-10)",
+      "playerName": "Chris Smith",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 10
+      }
     }
   ]
 }
