@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-edi-lio",
   "matchId": "urc-2026-10-23-edi-lio",
-  "updated_at": "2026-10-23T20:54:46+01:00",
+  "updated_at": "2026-10-23T20:59:53+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604058/competitions/604058/plays",
-      "fetched_at": "2026-10-23T20:54:46+01:00",
+      "fetched_at": "2026-10-23T20:59:53+01:00",
       "espn_event_id": "604058",
       "espn_league_id": 270557
     }
@@ -112,6 +112,84 @@
         "home": 12,
         "away": 3
       }
+    },
+    {
+      "id": "espn-1900758",
+      "minute": 51,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Hector Patterson",
+      "detail": "Try (17-3)",
+      "playerName": "Hector Patterson",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-1900760",
+      "minute": 52,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "James Grayson",
+      "detail": "Conversion (19-3)",
+      "playerName": "James Grayson",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-1900761",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Paul Hill",
+      "detail": "replaces Ollie Blyth-Lafferty",
+      "playerOn": "Paul Hill",
+      "playerOff": "Ollie Blyth-Lafferty",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900763",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Marshall Sykes",
+      "detail": "replaces Grant Gilchrist",
+      "playerOn": "Marshall Sykes",
+      "playerOff": "Grant Gilchrist",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900765",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "PJ Botha",
+      "detail": "replaces Morné Brandon",
+      "playerOn": "PJ Botha",
+      "playerOff": "Morné Brandon",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900767",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "SJ Kotze",
+      "detail": "replaces Boan Venter",
+      "playerOn": "SJ Kotze",
+      "playerOff": "Boan Venter",
+      "label": "Substitution"
     }
   ]
 }

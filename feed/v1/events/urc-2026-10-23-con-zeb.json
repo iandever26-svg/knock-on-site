@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T20:49:38+01:00",
+  "updated_at": "2026-10-23T20:59:53+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T20:49:38+01:00",
+      "fetched_at": "2026-10-23T20:59:53+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
@@ -289,6 +289,69 @@
       "playerOn": "Bautista Stavile",
       "playerOff": "Giacomo Ferrari",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1900739",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Giampietro Ribaldi",
+      "detail": "replaces Tommaso di Bartolomeo",
+      "playerOn": "Giampietro Ribaldi",
+      "playerOff": "Tommaso di Bartolomeo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900747",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Dave Heffernan",
+      "detail": "replaces Eoin de Buitléar",
+      "playerOn": "Dave Heffernan",
+      "playerOff": "Eoin de Buitléar",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900749",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jordan Duggan",
+      "detail": "replaces Jerry Cahir",
+      "playerOn": "Jordan Duggan",
+      "playerOff": "Jerry Cahir",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900755",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sam Illo",
+      "detail": "replaces Finlay Bealham",
+      "playerOn": "Sam Illo",
+      "playerOff": "Finlay Bealham",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900769",
+      "minute": 55,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Dave Heffernan",
+      "detail": "Try (38-17)",
+      "playerName": "Dave Heffernan",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 38,
+        "away": 17
+      }
     }
   ]
 }
