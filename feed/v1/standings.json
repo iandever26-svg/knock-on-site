@@ -3,9 +3,9 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-10T21:45:31+01:00",
+  "updatedAt": "2026-10-23T19:15:29+01:00",
   "playoffCutoff": 8,
-  "formNote": "Most recent first; may include last season. W/D/L.",
+  "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
     "source": "espn",
     "url": "https://site.api.espn.com/apis/v2/sports/rugby/270557/standings",
@@ -26,7 +26,7 @@
       "TA": 7,
       "BP": 2,
       "points": 14,
-      "form": "WWLWW"
+      "form": "WWWWL"
     },
     {
       "position": 2,
@@ -42,7 +42,7 @@
       "TA": 10,
       "BP": 3,
       "points": 13,
-      "form": "WDWLW"
+      "form": "WDWWD"
     },
     {
       "position": 3,
@@ -58,7 +58,7 @@
       "TA": 7,
       "BP": 3,
       "points": 11,
-      "form": "LWLWW"
+      "form": "WLWWL"
     },
     {
       "position": 4,
@@ -74,7 +74,7 @@
       "TA": 7,
       "BP": 3,
       "points": 11,
-      "form": "LWLWL"
+      "form": "WLWWL"
     },
     {
       "position": 5,
@@ -90,7 +90,7 @@
       "TA": 13,
       "BP": 2,
       "points": 10,
-      "form": "WWWWL"
+      "form": "LWWLW"
     },
     {
       "position": 6,
@@ -106,7 +106,7 @@
       "TA": 11,
       "BP": 1,
       "points": 9,
-      "form": "WWLWL"
+      "form": "LWWWL"
     },
     {
       "position": 7,
@@ -122,7 +122,7 @@
       "TA": 16,
       "BP": 1,
       "points": 9,
-      "form": "WWLLL"
+      "form": "LWWWL"
     },
     {
       "position": 8,
@@ -138,7 +138,7 @@
       "TA": 13,
       "BP": 3,
       "points": 9,
-      "form": "LWDDL"
+      "form": "LWDDD"
     },
     {
       "position": 9,
@@ -154,7 +154,7 @@
       "TA": 11,
       "BP": 3,
       "points": 9,
-      "form": "WLLWL"
+      "form": "DWLLL"
     },
     {
       "position": 10,
@@ -170,7 +170,7 @@
       "TA": 8,
       "BP": 4,
       "points": 8,
-      "form": "LLWWW"
+      "form": "WLLLW"
     },
     {
       "position": 11,
@@ -186,7 +186,7 @@
       "TA": 13,
       "BP": 4,
       "points": 8,
-      "form": "DLLLD"
+      "form": "DDLLL"
     },
     {
       "position": 12,
@@ -202,7 +202,7 @@
       "TA": 13,
       "BP": 3,
       "points": 7,
-      "form": "LLDLL"
+      "form": "WLLLD"
     },
     {
       "position": 13,
@@ -218,7 +218,7 @@
       "TA": 15,
       "BP": 2,
       "points": 6,
-      "form": "WLLLW"
+      "form": "WLLLL"
     },
     {
       "position": 14,
@@ -234,7 +234,7 @@
       "TA": 12,
       "BP": 1,
       "points": 5,
-      "form": "LWLLW"
+      "form": "LWLWL"
     },
     {
       "position": 15,
@@ -250,7 +250,7 @@
       "TA": 11,
       "BP": 3,
       "points": 5,
-      "form": "LDLLW"
+      "form": "LLDDL"
     },
     {
       "position": 16,

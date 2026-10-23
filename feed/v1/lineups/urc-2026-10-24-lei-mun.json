@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-10-22T15:51:37+01:00",
+  "updated_at": "2026-10-22T15:20:57+01:00",
   "match": {
     "match_id": "urc-2026-10-24-lei-mun",
     "external_ids": {
@@ -18,8 +18,8 @@
       "datetime_utc": "2026-10-24T17:00:00Z"
     },
     "venue": {
-      "name": "Aviva Stadium",
-      "city": null,
+      "name": "RDS Arena",
+      "city": "Dublin",
       "country": null
     },
     "home": {
@@ -443,7 +443,7 @@
     {
       "source_name": "leinster_official",
       "url": "https://www.leinsterrugby.ie/2026/10/22/leinster-v-munster-team-news-urc-october-2026/",
-      "fetched_at": "2026-10-22T15:51:37+01:00",
+      "fetched_at": "2026-10-22T15:20:57+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "leinster_official",
       "url": "https://leinster2023-wpapi.leinster.soticclient.net/wp-json/wp/v2/posts?search=team%20named&per_page=8",
-      "fetched_at": "2026-10-22T15:51:37+01:00",
+      "fetched_at": "2026-10-22T15:20:57+01:00",
       "content_type": "wp_rest",
       "http_status": 200,
       "is_primary": false,
@@ -467,7 +467,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292614%5D%7D",
-      "fetched_at": "2026-10-22T15:51:37+01:00",
+      "fetched_at": "2026-10-22T15:20:57+01:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": false,
@@ -480,12 +480,49 @@
     {
       "source_name": "all_rugby",
       "url": "https://all.rugby/match/26753/urc-2026-2027/leinster-munster",
-      "fetched_at": "2026-10-22T15:51:37+01:00",
+      "fetched_at": "2026-10-22T15:20:57+01:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
       "role": "corroboration",
       "side": "home",
+      "source_tier": "secondary"
+    },
+    {
+      "source_name": "urc_official",
+      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292614%5D%7D",
+      "fetched_at": "2026-10-22T15:20:57+01:00",
+      "content_type": "other",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-24T17:00:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "munster_official",
+      "url": "https://www.munsterrugby.ie/news/team-news-munster-side-face-leinster-dublin",
+      "fetched_at": "2026-10-22T15:20:57+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "unverified_title_names_opponent",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26753/urc-2026-2027/leinster-munster",
+      "fetched_at": "2026-10-22T15:20:57+01:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
       "source_tier": "secondary"
     },
     {
@@ -500,43 +537,6 @@
       "published_at": "2026-10-22T14:00:28+01:00",
       "published_at_source": "x_api_created_at",
       "source_tier": "official"
-    },
-    {
-      "source_name": "urc_official",
-      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292614%5D%7D",
-      "fetched_at": "2026-10-22T15:51:37+01:00",
-      "content_type": "other",
-      "http_status": 200,
-      "is_primary": true,
-      "role": "primary_sheet",
-      "side": "away",
-      "published_at": null,
-      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-24T17:00:00.000Z",
-      "source_tier": "official"
-    },
-    {
-      "source_name": "munster_official",
-      "url": "https://www.munsterrugby.ie/news/team-news-munster-side-face-leinster-dublin",
-      "fetched_at": "2026-10-22T15:51:37+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away",
-      "published_at": null,
-      "published_at_source": "unverified_title_names_opponent",
-      "source_tier": "official"
-    },
-    {
-      "source_name": "all_rugby",
-      "url": "https://all.rugby/match/26753/urc-2026-2027/leinster-munster",
-      "fetched_at": "2026-10-22T15:51:37+01:00",
-      "content_type": "html_article",
-      "http_status": 200,
-      "is_primary": false,
-      "role": "corroboration",
-      "side": "away",
-      "source_tier": "secondary"
     },
     {
       "source_name": "munster_x_official",
@@ -565,5 +565,5 @@
       "away: X cross-check https://x.com/Munsterrugby/status/2113253880922296386 (posted 2026-10-22T13:59:22+01:00) — graphic viewed with Read 2026-10-22T15:22:29+01:00 (yes): Munster starting XV + replacements 16-23, all match file; 5 Tadhg Beirne (C); machine-certain: 0/23 agree, 0 disagree, 23 not certain (post-text jerseys 0; OCR-certain jerseys on the viewed graphic 0); captain on X #5 (agree)"
     ]
   },
-  "notes": "Ingest poll 2026-10-22T15:51:37+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-22T15:20:57+01:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
