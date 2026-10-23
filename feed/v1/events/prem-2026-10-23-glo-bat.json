@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T19:14:10.072Z",
+ "updated_at": "2026-10-23T19:19:14.567Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T19:14:10.072Z",
+   "fetched_at": "2026-10-23T19:19:14.567Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
@@ -26,6 +26,21 @@
    "playerOn": "Ciaran Donoghue",
    "playerOff": "Santiago Carreras",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900645",
+   "minute": 22,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Ollie Thorley",
+   "detail": "Yellow card (0-0)",
+   "playerName": "Ollie Thorley",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 0,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
