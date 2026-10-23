@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T20:09:55.403Z",
+ "updated_at": "2026-10-23T20:15:02.129Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T20:09:55.403Z",
+   "fetched_at": "2026-10-23T20:15:02.129Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
@@ -206,15 +206,93 @@
    "playerOn": "Afolabi Fasogbon",
    "playerOff": "Ciaran Knight",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900840",
+   "minute": 54,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Freddie Thomas",
+   "detail": "Try (14-5)",
+   "playerName": "Freddie Thomas",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1900841",
+   "minute": 55,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "George Barton",
+   "detail": "Conversion (16-5)",
+   "playerName": "George Barton",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 16,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1900860",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Scott Kirk",
+   "detail": "replaces Beno Obano",
+   "playerOn": "Scott Kirk",
+   "playerOff": "Beno Obano",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900863",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Dan Frost",
+   "detail": "replaces Kepu Tuipulotu",
+   "playerOn": "Dan Frost",
+   "playerOff": "Kepu Tuipulotu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900865",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ted Hill",
+   "detail": "replaces Enoch Opoku-Gyamfi",
+   "playerOn": "Ted Hill",
+   "playerOff": "Enoch Opoku-Gyamfi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900867",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Arthur Green",
+   "detail": "replaces Miles Reid",
+   "playerOn": "Arthur Green",
+   "playerOff": "Miles Reid",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 9,
+  "home": 16,
   "away": 5
  },
  "plays_summed": {
-  "home": 9,
+  "home": 16,
   "away": 5
  }
 }

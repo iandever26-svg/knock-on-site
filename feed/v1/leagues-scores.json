@@ -1,23 +1,23 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-10-23T20:09:55.403Z",
- "updatedAt": "2026-10-23T20:09:55.403Z",
+ "generatedAt": "2026-10-23T20:15:02.129Z",
+ "updatedAt": "2026-10-23T20:15:02.129Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
    "schema_version": "1.0.0",
    "match_id": "prem-2026-10-23-glo-bat",
    "status": "live",
-   "home_score": 9,
+   "home_score": 16,
    "away_score": 5,
    "clock": null,
    "period": "2H",
-   "updated_at": "2026-10-23T20:09:55.403Z",
+   "updated_at": "2026-10-23T20:15:02.129Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-23T20:09:55.403Z",
+     "fetched_at": "2026-10-23T20:15:02.129Z",
      "espn_event_id": "604629",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -26,24 +26,24 @@
     }
    ],
    "second_half_seen_at": "2026-10-23T19:54:38.747Z",
-   "latest_event_minute": 49,
+   "latest_event_minute": 56,
    "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-10-23T20:09:55.403Z"
+   "latest_event_seen_at": "2026-10-23T20:15:02.129Z"
   },
   {
    "schema_version": "1.0.0",
    "match_id": "prem-2026-10-23-new-sal",
    "status": "live",
-   "home_score": 7,
+   "home_score": 17,
    "away_score": 3,
    "clock": null,
    "period": "2H",
-   "updated_at": "2026-10-23T20:09:55.403Z",
+   "updated_at": "2026-10-23T20:15:02.129Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-23T20:09:55.403Z",
+     "fetched_at": "2026-10-23T20:15:02.129Z",
      "espn_event_id": "604632",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -52,9 +52,9 @@
     }
    ],
    "second_half_seen_at": "2026-10-23T19:49:33.425Z",
-   "latest_event_minute": 55,
+   "latest_event_minute": 65,
    "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-10-23T20:09:55.403Z"
+   "latest_event_seen_at": "2026-10-23T20:15:02.129Z"
   }
  ]
 }
