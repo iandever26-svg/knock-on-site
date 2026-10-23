@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T20:34:19+01:00",
+  "updated_at": "2026-10-23T20:49:38+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T20:34:19+01:00",
+      "fetched_at": "2026-10-23T20:49:38+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
@@ -250,6 +250,45 @@
         "home": 33,
         "away": 17
       }
+    },
+    {
+      "id": "espn-1900671-cm",
+      "minute": 33,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (33-17)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 33,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1900689",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Muhamed Hasa",
+      "detail": "replaces Juan-Ignacio Castellano",
+      "playerOn": "Muhamed Hasa",
+      "playerOff": "Juan-Ignacio Castellano",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900691",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Bautista Stavile",
+      "detail": "replaces Giacomo Ferrari",
+      "playerOn": "Bautista Stavile",
+      "playerOff": "Giacomo Ferrari",
+      "label": "Substitution"
     }
   ]
 }
