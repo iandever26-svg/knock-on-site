@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-23T19:15:29+01:00",
+  "updatedAt": "2026-10-23T21:40:52+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
@@ -16,16 +16,16 @@
       "position": 1,
       "teamId": "edinburgh",
       "team": "Edinburgh",
-      "P": 3,
-      "W": 3,
+      "P": 4,
+      "W": 4,
       "D": 0,
       "L": 0,
-      "PF": 80,
-      "PA": 54,
-      "TF": 10,
-      "TA": 7,
-      "BP": 2,
-      "points": 14,
+      "PF": 111,
+      "PA": 64,
+      "TF": 15,
+      "TA": 8,
+      "BP": 3,
+      "points": 19,
       "form": "WWWWL"
     },
     {
@@ -94,6 +94,22 @@
     },
     {
       "position": 6,
+      "teamId": "connacht",
+      "team": "Connacht",
+      "P": 4,
+      "W": 2,
+      "D": 0,
+      "L": 2,
+      "PF": 104,
+      "PA": 111,
+      "TF": 17,
+      "TA": 17,
+      "BP": 2,
+      "points": 10,
+      "form": "WLWLL"
+    },
+    {
+      "position": 7,
       "teamId": "cardiff",
       "team": "Cardiff Blues",
       "P": 3,
@@ -109,23 +125,23 @@
       "form": "LWWWL"
     },
     {
-      "position": 7,
+      "position": 8,
       "teamId": "lions",
       "team": "Lions",
-      "P": 3,
+      "P": 4,
       "W": 2,
       "D": 0,
-      "L": 1,
-      "PF": 77,
-      "PA": 102,
-      "TF": 11,
-      "TA": 16,
+      "L": 2,
+      "PF": 87,
+      "PA": 133,
+      "TF": 12,
+      "TA": 21,
       "BP": 1,
       "points": 9,
-      "form": "LWWWL"
+      "form": "LLWWL"
     },
     {
-      "position": 8,
+      "position": 9,
       "teamId": "dragons",
       "team": "Dragons",
       "P": 3,
@@ -141,7 +157,7 @@
       "form": "LWDDD"
     },
     {
-      "position": 9,
+      "position": 10,
       "teamId": "munster",
       "team": "Munster",
       "P": 3,
@@ -157,7 +173,7 @@
       "form": "DWLLL"
     },
     {
-      "position": 10,
+      "position": 11,
       "teamId": "leinster",
       "team": "Leinster",
       "P": 3,
@@ -173,7 +189,7 @@
       "form": "WLLLW"
     },
     {
-      "position": 11,
+      "position": 12,
       "teamId": "ulster",
       "team": "Ulster",
       "P": 3,
@@ -189,7 +205,7 @@
       "form": "DDLLL"
     },
     {
-      "position": 12,
+      "position": 13,
       "teamId": "scarlets",
       "team": "Scarlets",
       "P": 3,
@@ -205,7 +221,7 @@
       "form": "WLLLD"
     },
     {
-      "position": 13,
+      "position": 14,
       "teamId": "ospreys",
       "team": "Ospreys",
       "P": 3,
@@ -219,22 +235,6 @@
       "BP": 2,
       "points": 6,
       "form": "WLLLL"
-    },
-    {
-      "position": 14,
-      "teamId": "connacht",
-      "team": "Connacht",
-      "P": 3,
-      "W": 1,
-      "D": 0,
-      "L": 2,
-      "PF": 56,
-      "PA": 84,
-      "TF": 9,
-      "TA": 12,
-      "BP": 1,
-      "points": 5,
-      "form": "LWLWL"
     },
     {
       "position": 15,
@@ -256,16 +256,16 @@
       "position": 16,
       "teamId": "zebre",
       "team": "Zebre",
-      "P": 3,
+      "P": 4,
       "W": 0,
       "D": 0,
-      "L": 3,
-      "PF": 52,
-      "PA": 116,
-      "TF": 7,
-      "TA": 17,
-      "BP": 1,
-      "points": 1,
+      "L": 4,
+      "PF": 79,
+      "PA": 164,
+      "TF": 12,
+      "TA": 25,
+      "BP": 2,
+      "points": 2,
       "form": "LLLLL"
     }
   ]

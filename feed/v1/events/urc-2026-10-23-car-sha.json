@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-car-sha",
   "matchId": "urc-2026-10-23-car-sha",
-  "updated_at": "2026-10-23T21:30:39+01:00",
+  "updated_at": "2026-10-23T21:40:52+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604056/competitions/604056/plays",
-      "fetched_at": "2026-10-23T21:30:39+01:00",
+      "fetched_at": "2026-10-23T21:40:52+01:00",
       "espn_event_id": "604056",
       "espn_league_id": 270557
     }
@@ -378,6 +378,72 @@
       "detail": "replaces Alex Mann",
       "playerOn": "Semisi Paea",
       "playerOff": "Alex Mann",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900971",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Hanro Jacobs",
+      "detail": "replaces Thomas du Toit",
+      "playerOn": "Hanro Jacobs",
+      "playerOff": "Thomas du Toit",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900977",
+      "minute": 74,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Aled Davies",
+      "detail": "replaces Johan Mulder",
+      "playerOn": "Aled Davies",
+      "playerOff": "Johan Mulder",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1900979",
+      "minute": 74,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Ethan Bester",
+      "detail": "Try (21-29)",
+      "playerName": "Ethan Bester",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 21,
+        "away": 29
+      }
+    },
+    {
+      "id": "espn-1900980",
+      "minute": 75,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Siya Masuku",
+      "detail": "Conversion (21-31)",
+      "playerName": "Siya Masuku",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 31
+      }
+    },
+    {
+      "id": "espn-1900981",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Callum Sheedy",
+      "detail": "replaces Harri Millard",
+      "playerOn": "Callum Sheedy",
+      "playerOff": "Harri Millard",
       "label": "Substitution"
     }
   ]
