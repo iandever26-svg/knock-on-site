@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-new-sal",
  "matchId": "prem-2026-10-23-new-sal",
- "updated_at": "2026-10-23T20:30:20.266Z",
- "final": false,
+ "updated_at": "2026-10-23T20:35:26.096Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604632/competitions/604632/plays?limit=400",
-   "fetched_at": "2026-10-23T20:30:20.266Z",
+   "fetched_at": "2026-10-23T20:35:26.096Z",
    "espn_event_id": "604632",
    "espn_league_id": 267979
   }
@@ -247,6 +247,30 @@
    "detail": "replaces Tom Curry",
    "playerOn": "Elia Canakaivata",
    "playerOff": "Tom Curry",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900960",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Zuriel Togiatama",
+   "detail": "replaces George McGuigan",
+   "playerOn": "Zuriel Togiatama",
+   "playerOff": "George McGuigan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1900965",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Alex Lozowski",
+   "detail": "replaces Rekeiti Ma'asi-White",
+   "playerOn": "Alex Lozowski",
+   "playerOff": "Rekeiti Ma'asi-White",
    "label": "Substitution"
   }
  ],
