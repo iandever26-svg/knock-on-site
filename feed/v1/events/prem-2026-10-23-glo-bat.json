@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-23-glo-bat",
  "matchId": "prem-2026-10-23-glo-bat",
- "updated_at": "2026-10-23T19:03:59.136Z",
+ "updated_at": "2026-10-23T19:09:04.699Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 0-5, final 0-0; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604629/competitions/604629/plays?limit=400",
-   "fetched_at": "2026-10-23T19:03:59.136Z",
+   "fetched_at": "2026-10-23T19:09:04.699Z",
    "espn_event_id": "604629",
    "espn_league_id": 267979
   }
@@ -26,6 +27,17 @@
    "playerOn": "Ciaran Donoghue",
    "playerOff": "Santiago Carreras",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1900633",
+   "minute": 18,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Kepu Tuipulotu",
+   "detail": "Try",
+   "playerName": "Kepu Tuipulotu",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
@@ -35,6 +47,10 @@
  },
  "plays_summed": {
   "home": 0,
-  "away": 0
+  "away": 5
+ },
+ "unexplained_gap": {
+  "home": 0,
+  "away": -5
  }
 }
