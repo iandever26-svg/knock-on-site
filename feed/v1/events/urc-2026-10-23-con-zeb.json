@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-23-con-zeb",
   "matchId": "urc-2026-10-23-con-zeb",
-  "updated_at": "2026-10-23T20:04:06+01:00",
+  "updated_at": "2026-10-23T20:09:12+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604057/competitions/604057/plays",
-      "fetched_at": "2026-10-23T20:04:06+01:00",
+      "fetched_at": "2026-10-23T20:09:12+01:00",
       "espn_event_id": "604057",
       "espn_league_id": 270557
     }
@@ -86,6 +86,51 @@
       "label": "Try",
       "scoreAfter": {
         "home": 12,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1900626-cm",
+      "minute": 14,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (12-5)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 12,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1900629",
+      "minute": 18,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Cathal Forde",
+      "detail": "Try (17-5)",
+      "playerName": "Cathal Forde",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1900630",
+      "minute": 19,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Ciarán Frawley",
+      "detail": "Conversion (19-5)",
+      "playerName": "Ciarán Frawley",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
         "away": 5
       }
     }
