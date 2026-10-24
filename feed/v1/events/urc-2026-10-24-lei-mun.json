@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-lei-mun",
   "matchId": "urc-2026-10-24-lei-mun",
-  "updated_at": "2026-10-24T19:51:01+01:00",
-  "final": false,
+  "updated_at": "2026-10-24T20:02:39+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604062/competitions/604062/plays",
-      "fetched_at": "2026-10-24T19:51:01+01:00",
+      "fetched_at": "2026-10-24T20:02:39+01:00",
       "espn_event_id": "604062",
       "espn_league_id": 270557
     }
@@ -348,7 +349,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1901978",
+      "id": "espn-1901987",
       "minute": 73,
       "period": "2H",
       "type": "try",
@@ -412,6 +413,36 @@
       "playerOn": "Caspar Gabriel",
       "playerOff": "Joey Carbery",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1901994",
+      "minute": 82,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Ben O'Connor",
+      "detail": "Try (24-18)",
+      "playerName": "Ben O'Connor",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 18
+      }
+    },
+    {
+      "id": "espn-1901994-cm",
+      "minute": 82,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (24-18)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 24,
+        "away": 18
+      }
     }
   ]
 }
