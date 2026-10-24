@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-sto-sca",
   "matchId": "urc-2026-10-24-sto-sca",
-  "updated_at": "2026-10-24T16:46:33+01:00",
+  "updated_at": "2026-10-24T16:52:55+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604060/competitions/604060/plays",
-      "fetched_at": "2026-10-24T16:46:33+01:00",
+      "fetched_at": "2026-10-24T16:52:55+01:00",
       "espn_event_id": "604060",
       "espn_league_id": 270557
     }
@@ -614,6 +614,48 @@
       "detail": "replaces Josh Macleod",
       "playerOn": "Dan Davis",
       "playerOff": "Josh Macleod",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901668",
+      "minute": 74,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Yaqeen Ahmed",
+      "detail": "Try (45-40)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 45,
+        "away": 40
+      }
+    },
+    {
+      "id": "espn-1901669",
+      "minute": 75,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sacha Feinberg-Mngomezulu",
+      "detail": "Conversion (47-40)",
+      "playerName": "Sacha Feinberg-Mngomezulu",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 47,
+        "away": 40
+      }
+    },
+    {
+      "id": "espn-1901681",
+      "minute": 77,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Gareth Anscombe",
+      "detail": "replaces Carwyn Leggatt-Jones",
+      "playerOn": "Gareth Anscombe",
+      "playerOff": "Carwyn Leggatt-Jones",
       "label": "Substitution"
     }
   ]

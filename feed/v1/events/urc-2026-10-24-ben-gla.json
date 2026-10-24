@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-ben-gla",
   "matchId": "urc-2026-10-24-ben-gla",
-  "updated_at": "2026-10-24T16:36:02+01:00",
-  "final": false,
+  "updated_at": "2026-10-24T16:52:55+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604061/competitions/604061/plays",
-      "fetched_at": "2026-10-24T16:36:02+01:00",
+      "fetched_at": "2026-10-24T16:52:55+01:00",
       "espn_event_id": "604061",
       "espn_league_id": 270557
     }
@@ -376,6 +377,48 @@
         "home": 20,
         "away": 17
       }
+    },
+    {
+      "id": "espn-1901613",
+      "minute": 78,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Olujare Oguntibeju",
+      "detail": "Try (20-22)",
+      "playerName": "Olujare Oguntibeju",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 20,
+        "away": 22
+      }
+    },
+    {
+      "id": "espn-1901617",
+      "minute": 79,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Bayley Kuenzle",
+      "detail": "Conversion (20-24)",
+      "playerName": "Bayley Kuenzle",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 20,
+        "away": 24
+      }
+    },
+    {
+      "id": "espn-1901618",
+      "minute": 80,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Murphy Walker",
+      "detail": "replaces Zander Fagerson",
+      "playerOn": "Murphy Walker",
+      "playerOff": "Zander Fagerson",
+      "label": "Substitution"
     }
   ]
 }
