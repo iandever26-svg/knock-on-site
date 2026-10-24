@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T12:54:20.423Z",
+ "updated_at": "2026-10-24T13:01:24.506Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T12:54:20.423Z",
+   "fetched_at": "2026-10-24T13:01:24.506Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -68,15 +68,45 @@
    "playerOn": "Dave Cherry",
    "playerOff": "Mills Sanerivi",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901172",
+   "minute": 25,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Baptiste Jauneau",
+   "detail": "Try (0-11)",
+   "playerName": "Baptiste Jauneau",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 11
+   }
+  },
+  {
+   "id": "espn-1901173",
+   "minute": 26,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Harry Plummer",
+   "detail": "Conversion (0-13)",
+   "playerName": "Harry Plummer",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 13
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 0,
-  "away": 6
+  "away": 13
  },
  "plays_summed": {
   "home": 0,
-  "away": 6
+  "away": 13
  }
 }
