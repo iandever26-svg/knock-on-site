@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-bul-uls",
   "matchId": "urc-2026-10-24-bul-uls",
-  "updated_at": "2026-10-24T14:27:42+01:00",
+  "updated_at": "2026-10-24T14:32:55+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604059/competitions/604059/plays",
-      "fetched_at": "2026-10-24T14:27:42+01:00",
+      "fetched_at": "2026-10-24T14:32:55+01:00",
       "espn_event_id": "604059",
       "espn_league_id": 270557
     }
@@ -256,6 +256,147 @@
         "home": 24,
         "away": 19
       }
+    },
+    {
+      "id": "espn-1901221-cm",
+      "minute": 63,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (24-19)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 24,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1901228",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cameron Hanekom",
+      "detail": "replaces Elrigh Louw",
+      "playerOn": "Cameron Hanekom",
+      "playerOff": "Elrigh Louw",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901230",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cobus Wiese",
+      "detail": "replaces Ruan Vermaak",
+      "playerOn": "Cobus Wiese",
+      "playerOff": "Ruan Vermaak",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901232",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Alulutho Tshakweni",
+      "detail": "replaces Gerhard Steenekamp",
+      "playerOn": "Alulutho Tshakweni",
+      "playerOff": "Gerhard Steenekamp",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901238",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Scott Wilson",
+      "detail": "replaces Keynan Knox",
+      "playerOn": "Scott Wilson",
+      "playerOff": "Keynan Knox",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901244",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Khutha Mchunu",
+      "detail": "replaces François Klopper",
+      "playerOn": "Khutha Mchunu",
+      "playerOff": "François Klopper",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901240",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Eric O’Sullivan",
+      "detail": "replaces Tom O’Toole",
+      "playerOn": "Eric O’Sullivan",
+      "playerOff": "Tom O’Toole",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901242",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jake Flannery",
+      "detail": "replaces Nick Timoney",
+      "playerOn": "Jake Flannery",
+      "playerOff": "Nick Timoney",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901234",
+      "minute": 66,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Johan Grobbelaar",
+      "detail": "Try (29-19)",
+      "playerName": "Johan Grobbelaar",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 29,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1901235",
+      "minute": 67,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Handré Pollard",
+      "detail": "Conversion (31-19)",
+      "playerName": "Handré Pollard",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 31,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1901246",
+      "minute": 68,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Nathan Doak",
+      "detail": "replaces Matthew Devine",
+      "playerOn": "Nathan Doak",
+      "playerOff": "Matthew Devine",
+      "label": "Substitution"
     }
   ]
 }
