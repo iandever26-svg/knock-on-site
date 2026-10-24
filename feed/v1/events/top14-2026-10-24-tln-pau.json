@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tln-pau",
  "matchId": "top14-2026-10-24-tln-pau",
- "updated_at": "2026-10-24T20:41:03.816Z",
+ "updated_at": "2026-10-24T20:46:22.968Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
-   "fetched_at": "2026-10-24T20:41:03.816Z",
+   "fetched_at": "2026-10-24T20:46:22.968Z",
    "espn_event_id": "604408",
    "espn_league_id": 270559
   }
@@ -488,15 +488,57 @@
     "home": 38,
     "away": 18
    }
+  },
+  {
+   "id": "espn-1902164",
+   "minute": 70,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Axel Desperes",
+   "detail": "Conversion (38-20)",
+   "playerName": "Axel Desperes",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 38,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1902162",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Setariki Tuicuvu",
+   "detail": "replaces Jean-Baptiste Gros",
+   "playerOn": "Setariki Tuicuvu",
+   "playerOff": "Jean-Baptiste Gros",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902165",
+   "minute": 73,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Setariki Tuicuvu",
+   "detail": "Yellow card (38-20)",
+   "playerName": "Setariki Tuicuvu",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 38,
+    "away": 20
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 38,
-  "away": 18
+  "away": 20
  },
  "plays_summed": {
   "home": 38,
-  "away": 18
+  "away": 20
  }
 }
