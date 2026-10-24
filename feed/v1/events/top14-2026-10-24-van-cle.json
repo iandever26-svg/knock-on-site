@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T12:47:55.393Z",
+ "updated_at": "2026-10-24T12:54:20.423Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T12:47:55.393Z",
+   "fetched_at": "2026-10-24T12:54:20.423Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -55,6 +55,18 @@
    "detail": "replaces Dave Cherry",
    "playerOn": "Mills Sanerivi",
    "playerOff": "Dave Cherry",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901170",
+   "minute": 21,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dave Cherry",
+   "detail": "replaces Mills Sanerivi",
+   "playerOn": "Dave Cherry",
+   "playerOff": "Mills Sanerivi",
    "label": "Substitution"
   }
  ],
