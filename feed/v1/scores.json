@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-24T15:51:55+01:00",
-  "updatedAt": "2026-10-24T15:51:55+01:00",
+  "generatedAt": "2026-10-24T16:00:41+01:00",
+  "updatedAt": "2026-10-24T16:00:41+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -681,9 +681,9 @@
       "home_tries": 1,
       "away_tries": 0,
       "tries_source": "espn_events",
-      "latest_event_minute": 41,
+      "latest_event_minute": 31,
       "latest_event_period": "1H",
-      "latest_event_seen_at": "2026-10-24T15:51:55+01:00"
+      "latest_event_seen_at": "2026-10-24T15:41:26+01:00"
     },
     {
       "schema_version": "1.0.0",
@@ -769,12 +769,12 @@
           "espn_event_id": "604060"
         }
       ],
-      "home_tries": 5,
+      "home_tries": 4,
       "away_tries": 2,
       "tries_source": "espn_events",
-      "latest_event_minute": 42,
+      "latest_event_minute": 37,
       "latest_event_period": "1H",
-      "latest_event_seen_at": "2026-10-24T15:51:54+01:00"
+      "latest_event_seen_at": "2026-10-24T15:46:19+01:00"
     }
   ]
 }
