@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-24T15:04:13+01:00",
+  "updatedAt": "2026-10-24T16:49:16+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
@@ -30,6 +30,22 @@
     },
     {
       "position": 2,
+      "teamId": "glasgow",
+      "team": "Glasgow Warriors",
+      "P": 4,
+      "W": 3,
+      "D": 1,
+      "L": 0,
+      "PF": 119,
+      "PA": 92,
+      "TF": 18,
+      "TA": 12,
+      "BP": 4,
+      "points": 18,
+      "form": "WDWWD"
+    },
+    {
+      "position": 3,
       "teamId": "bulls",
       "team": "Bulls",
       "P": 4,
@@ -45,7 +61,7 @@
       "form": "WWLWL"
     },
     {
-      "position": 3,
+      "position": 4,
       "teamId": "sharks",
       "team": "Sharks",
       "P": 4,
@@ -59,22 +75,6 @@
       "BP": 3,
       "points": 15,
       "form": "WLWWL"
-    },
-    {
-      "position": 4,
-      "teamId": "glasgow",
-      "team": "Glasgow Warriors",
-      "P": 3,
-      "W": 2,
-      "D": 1,
-      "L": 0,
-      "PF": 95,
-      "PA": 72,
-      "TF": 14,
-      "TA": 10,
-      "BP": 3,
-      "points": 13,
-      "form": "WDWWD"
     },
     {
       "position": 5,
@@ -240,16 +240,16 @@
       "position": 15,
       "teamId": "benetton",
       "team": "Benetton Treviso",
-      "P": 3,
+      "P": 4,
       "W": 0,
       "D": 1,
-      "L": 2,
-      "PF": 64,
-      "PA": 68,
-      "TF": 10,
-      "TA": 11,
-      "BP": 3,
-      "points": 5,
+      "L": 3,
+      "PF": 84,
+      "PA": 92,
+      "TF": 12,
+      "TA": 15,
+      "BP": 4,
+      "points": 6,
       "form": "LLDDL"
     },
     {
