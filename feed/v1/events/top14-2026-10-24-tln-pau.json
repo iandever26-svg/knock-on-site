@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tln-pau",
  "matchId": "top14-2026-10-24-tln-pau",
- "updated_at": "2026-10-24T20:25:05.596Z",
+ "updated_at": "2026-10-24T20:30:28.331Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
-   "fetched_at": "2026-10-24T20:25:05.596Z",
+   "fetched_at": "2026-10-24T20:30:28.331Z",
    "espn_event_id": "604408",
    "espn_league_id": 270559
   }
@@ -380,15 +380,72 @@
    "playerOn": "Hugo Parrou",
    "playerOff": "Lekso Kaulashvili",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1902126",
+   "minute": 59,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Leo Ametlla",
+   "detail": "Yellow card (38-6)",
+   "playerName": "Leo Ametlla",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 38,
+    "away": 6
+   }
+  },
+  {
+   "id": "espn-1902127",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Clement Mondinat",
+   "detail": "replaces Fabien Brau-Boirie",
+   "playerOn": "Clement Mondinat",
+   "playerOff": "Fabien Brau-Boirie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902153",
+   "minute": 61,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Siate Tokolahi",
+   "detail": "Try (38-11)",
+   "playerName": "Siate Tokolahi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 38,
+    "away": 11
+   }
+  },
+  {
+   "id": "espn-1902154",
+   "minute": 61,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Axel Desperes",
+   "detail": "Conversion (38-13)",
+   "playerName": "Axel Desperes",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 38,
+    "away": 13
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 38,
-  "away": 6
+  "away": 13
  },
  "plays_summed": {
   "home": 38,
-  "away": 6
+  "away": 13
  }
 }
