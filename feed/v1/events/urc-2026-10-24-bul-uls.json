@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-bul-uls",
   "matchId": "urc-2026-10-24-bul-uls",
-  "updated_at": "2026-10-24T12:53:51+01:00",
+  "updated_at": "2026-10-24T13:09:30+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604059/competitions/604059/plays",
-      "fetched_at": "2026-10-24T12:53:51+01:00",
+      "fetched_at": "2026-10-24T13:09:30+01:00",
       "espn_event_id": "604059",
       "espn_league_id": 270557
     }
@@ -41,6 +41,36 @@
       "label": "Conversion",
       "scoreAfter": {
         "home": 7,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1901159",
+      "minute": 18,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Elrigh Louw",
+      "detail": "Try (12-0)",
+      "playerName": "Elrigh Louw",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1901158",
+      "minute": 19,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Handré Pollard",
+      "detail": "Conversion (14-0)",
+      "playerName": "Handré Pollard",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
         "away": 0
       }
     }
