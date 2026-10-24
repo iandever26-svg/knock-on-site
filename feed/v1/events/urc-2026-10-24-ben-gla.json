@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-ben-gla",
   "matchId": "urc-2026-10-24-ben-gla",
-  "updated_at": "2026-10-24T16:25:32+01:00",
+  "updated_at": "2026-10-24T16:36:02+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604061/competitions/604061/plays",
-      "fetched_at": "2026-10-24T16:25:32+01:00",
+      "fetched_at": "2026-10-24T16:36:02+01:00",
       "espn_event_id": "604061",
       "espn_league_id": 270557
     }
@@ -337,6 +337,45 @@
       "playerOn": "Bayley Kuenzle",
       "playerOff": "Matthew Urwin",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1901582",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Callum Reidy",
+      "detail": "replaces Jamie Dobie",
+      "playerOn": "Callum Reidy",
+      "playerOff": "Jamie Dobie",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901584",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Olujare Oguntibeju",
+      "detail": "replaces Scott Cummings",
+      "playerOn": "Olujare Oguntibeju",
+      "playerOff": "Scott Cummings",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901586",
+      "minute": 69,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Jacob Umaga",
+      "detail": "Penalty (20-17)",
+      "playerName": "Jacob Umaga",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 20,
+        "away": 17
+      }
     }
   ]
 }

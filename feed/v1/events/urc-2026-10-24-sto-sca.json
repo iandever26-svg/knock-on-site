@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-sto-sca",
   "matchId": "urc-2026-10-24-sto-sca",
-  "updated_at": "2026-10-24T16:25:31+01:00",
+  "updated_at": "2026-10-24T16:36:01+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604060/competitions/604060/plays",
-      "fetched_at": "2026-10-24T16:25:31+01:00",
+      "fetched_at": "2026-10-24T16:36:01+01:00",
       "espn_event_id": "604060",
       "espn_league_id": 270557
     }
@@ -455,8 +455,23 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1901553",
-      "minute": 56,
+      "id": "espn-1901563",
+      "minute": 55,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Olly Reid",
+      "detail": "Try (38-28)",
+      "playerName": "Olly Reid",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 38,
+        "away": 28
+      }
+    },
+    {
+      "id": "espn-1901564",
+      "minute": 55,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -467,8 +482,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1901555",
-      "minute": 56,
+      "id": "espn-1901566",
+      "minute": 55,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -479,8 +494,20 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1901557",
-      "minute": 56,
+      "id": "espn-1901568",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Adré Smith",
+      "detail": "replaces Lukhanyo Vokozela",
+      "playerOn": "Adré Smith",
+      "playerOff": "Lukhanyo Vokozela",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901580",
+      "minute": 55,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -489,6 +516,36 @@
       "playerOn": "Cobus Reinach",
       "playerOff": "Haashim Pead",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1901575",
+      "minute": 56,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sacha Feinberg-Mngomezulu",
+      "detail": "Conversion (40-28)",
+      "playerName": "Sacha Feinberg-Mngomezulu",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 40,
+        "away": 28
+      }
+    },
+    {
+      "id": "espn-1901587",
+      "minute": 60,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Josh Macleod",
+      "detail": "Try (40-33)",
+      "playerName": "Josh Macleod",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 40,
+        "away": 33
+      }
     }
   ]
 }

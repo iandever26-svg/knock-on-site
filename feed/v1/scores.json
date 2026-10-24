@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-24T16:30:47+01:00",
-  "updatedAt": "2026-10-24T16:30:47+01:00",
+  "generatedAt": "2026-10-24T16:36:02+01:00",
+  "updatedAt": "2026-10-24T16:36:02+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -665,28 +665,26 @@
       "schema_version": "1.0.0",
       "match_id": "urc-2026-10-24-ben-gla",
       "status": "live",
-      "home_score": 17,
+      "home_score": 20,
       "away_score": 17,
       "clock": null,
       "period": "2H",
-      "updated_at": "2026-10-24T16:30:45+01:00",
+      "updated_at": "2026-10-24T16:35:57+01:00",
       "provenance": [
         {
-          "source_name": "highlightly",
-          "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-24&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-24T16:30:45+01:00",
-          "highlightly_match_id": 45669699,
-          "highlightly_league_id": 65460,
-          "highlightly_league_name": "United Rugby Championship"
+          "source_name": "espn",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20261024",
+          "fetched_at": "2026-10-24T16:35:57+01:00",
+          "espn_event_id": "604061"
         }
       ],
       "home_tries": 2,
       "away_tries": 3,
       "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-24T16:07:12+01:00",
-      "latest_event_minute": 59,
+      "latest_event_minute": 69,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-24T16:25:32+01:00"
+      "latest_event_seen_at": "2026-10-24T16:36:02+01:00"
     },
     {
       "schema_version": "1.0.0",
@@ -707,13 +705,13 @@
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
-      "home_tries": 4,
-      "away_tries": 4,
-      "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-24T13:56:17+01:00",
       "latest_event_minute": 82,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-24T14:48:36+01:00"
+      "latest_event_seen_at": "2026-10-24T14:48:36+01:00",
+      "home_tries": 4,
+      "away_tries": 4,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
@@ -760,27 +758,25 @@
       "match_id": "urc-2026-10-24-sto-sca",
       "status": "live",
       "home_score": 40,
-      "away_score": 28,
+      "away_score": 33,
       "clock": null,
       "period": "2H",
-      "updated_at": "2026-10-24T16:30:45+01:00",
+      "updated_at": "2026-10-24T16:35:57+01:00",
       "provenance": [
         {
-          "source_name": "highlightly",
-          "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-24&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-24T16:30:45+01:00",
-          "highlightly_match_id": 45670550,
-          "highlightly_league_id": 65460,
-          "highlightly_league_name": "United Rugby Championship"
+          "source_name": "espn",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20261024",
+          "fetched_at": "2026-10-24T16:35:57+01:00",
+          "espn_event_id": "604060"
         }
       ],
-      "home_tries": 5,
-      "away_tries": 4,
+      "home_tries": 6,
+      "away_tries": 5,
       "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-24T16:07:12+01:00",
-      "latest_event_minute": 56,
+      "latest_event_minute": 60,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-24T16:25:31+01:00"
+      "latest_event_seen_at": "2026-10-24T16:36:01+01:00"
     }
   ]
 }
