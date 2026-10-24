@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-24-lec-nor",
  "matchId": "prem-2026-10-24-lec-nor",
- "updated_at": "2026-10-24T15:36:16.890Z",
+ "updated_at": "2026-10-24T15:41:41.776Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604630/competitions/604630/plays?limit=400",
-   "fetched_at": "2026-10-24T15:36:16.890Z",
+   "fetched_at": "2026-10-24T15:41:41.776Z",
    "espn_event_id": "604630",
    "espn_league_id": 267979
   }
@@ -257,15 +257,45 @@
    "playerOn": "Robbie Smith",
    "playerOff": "Curtis Langdon",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901608",
+   "minute": 67,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Billy Searle",
+   "detail": "Penalty (21-7)",
+   "playerName": "Billy Searle",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 21,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901609",
+   "minute": 70,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Adam Radwan",
+   "detail": "Yellow card (21-7)",
+   "playerName": "Adam Radwan",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 18,
+  "home": 21,
   "away": 7
  },
  "plays_summed": {
-  "home": 18,
+  "home": 21,
   "away": 7
  }
 }

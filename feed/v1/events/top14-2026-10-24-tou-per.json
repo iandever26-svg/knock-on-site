@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tou-per",
  "matchId": "top14-2026-10-24-tou-per",
- "updated_at": "2026-10-24T15:36:16.890Z",
+ "updated_at": "2026-10-24T15:41:41.776Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604409/competitions/604409/plays?limit=400",
-   "fetched_at": "2026-10-24T15:36:16.890Z",
+   "fetched_at": "2026-10-24T15:41:41.776Z",
    "espn_event_id": "604409",
    "espn_league_id": 270559
   }
@@ -125,6 +125,30 @@
     "home": 10,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1901600",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Giorgi Tetrashvili",
+   "detail": "replaces Lorencio Boyer Gallardo",
+   "playerOn": "Giorgi Tetrashvili",
+   "playerOff": "Lorencio Boyer Gallardo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901602",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Pietro Ceccarelli",
+   "detail": "replaces Marco Riccioni",
+   "playerOn": "Pietro Ceccarelli",
+   "playerOff": "Marco Riccioni",
+   "label": "Substitution"
   },
   {
    "id": "inferred-pt-home-1",
