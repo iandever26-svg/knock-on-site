@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T14:19:56.259Z",
- "final": false,
+ "updated_at": "2026-10-24T14:35:21.085Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T14:19:56.259Z",
+   "fetched_at": "2026-10-24T14:35:21.085Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -51,9 +51,8 @@
    "period": "1H",
    "type": "substitution",
    "team": "home",
-   "player": "Mills Sanerivi",
+   "player": null,
    "detail": "replaces Dave Cherry",
-   "playerOn": "Mills Sanerivi",
    "playerOff": "Dave Cherry",
    "label": "Substitution"
   },
@@ -64,9 +63,8 @@
    "type": "substitution",
    "team": "home",
    "player": "Dave Cherry",
-   "detail": "replaces Mills Sanerivi",
+   "detail": null,
    "playerOn": "Dave Cherry",
-   "playerOff": "Mills Sanerivi",
    "label": "Substitution"
   },
   {
@@ -150,10 +148,8 @@
    "period": "1H",
    "type": "substitution",
    "team": "home",
-   "player": "Ioane Iashagashvili",
-   "detail": "replaces Sione Kalamafoni",
-   "playerOn": "Ioane Iashagashvili",
-   "playerOff": "Sione Kalamafoni",
+   "player": null,
+   "detail": null,
    "label": "Substitution"
   },
   {
@@ -204,9 +200,8 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": "Hugo Djehi",
+   "player": null,
    "detail": "replaces Wayan De Benedittis",
-   "playerOn": "Hugo Djehi",
    "playerOff": "Wayan De Benedittis",
    "label": "Substitution"
   },
@@ -217,9 +212,8 @@
    "type": "substitution",
    "team": "home",
    "player": "Wayan De Benedittis",
-   "detail": "replaces Hugo Djehi",
+   "detail": null,
    "playerOn": "Wayan De Benedittis",
-   "playerOff": "Hugo Djehi",
    "label": "Substitution"
   },
   {
@@ -228,9 +222,8 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": "Mills Sanerivi",
+   "player": null,
    "detail": "replaces Dave Cherry",
-   "playerOn": "Mills Sanerivi",
    "playerOff": "Dave Cherry",
    "label": "Substitution"
   },
@@ -240,9 +233,8 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": "Santiago Medrano",
+   "player": null,
    "detail": "replaces Nick Schonert",
-   "playerOn": "Santiago Medrano",
    "playerOff": "Nick Schonert",
    "label": "Substitution"
   },
@@ -252,9 +244,8 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": "Michael Ruru",
+   "player": null,
    "detail": "replaces Simione Kuruvoli",
-   "playerOn": "Michael Ruru",
    "playerOff": "Simione Kuruvoli",
    "label": "Substitution"
   },
@@ -264,9 +255,8 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": "Paul Surano",
+   "player": null,
    "detail": "replaces Jean Cotarmanac'h",
-   "playerOn": "Paul Surano",
    "playerOff": "Jean Cotarmanac'h",
    "label": "Substitution"
   },
@@ -300,9 +290,8 @@
    "period": "2H",
    "type": "try",
    "team": "home",
-   "player": "Mills Sanerivi",
+   "player": null,
    "detail": "Try (11-23)",
-   "playerName": "Mills Sanerivi",
    "label": "Try",
    "scoreAfter": {
     "home": 11,
@@ -357,9 +346,8 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": "Timothe Mezou",
+   "player": null,
    "detail": "replaces Eric Marks",
-   "playerOn": "Timothe Mezou",
    "playerOff": "Eric Marks",
    "label": "Substitution"
   },
@@ -369,9 +357,8 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": "Pierre Boudehent",
+   "player": null,
    "detail": "replaces Robin Taccola",
-   "playerOn": "Pierre Boudehent",
    "playerOff": "Robin Taccola",
    "label": "Substitution"
   },
@@ -416,9 +403,21 @@
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": null,
+   "player": "Giorgi Dzmanashvili",
    "detail": "replaces AJ Lam",
+   "playerOn": "Giorgi Dzmanashvili",
    "playerOff": "AJ Lam",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901377",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Nohem Ez Zahouany",
+   "playerOff": "Nohem Ez Zahouany",
    "label": "Substitution"
   },
   {
@@ -427,9 +426,8 @@
    "period": "2H",
    "type": "try",
    "team": "home",
-   "player": "Ioane Iashagashvili",
+   "player": null,
    "detail": "Try (18-26)",
-   "playerName": "Ioane Iashagashvili",
    "label": "Try",
    "scoreAfter": {
     "home": 18,
@@ -452,20 +450,31 @@
    }
   },
   {
-   "id": "espn-1901366",
+   "id": "espn-1901373",
    "minute": 70,
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": "Jean Cotarmanac'h",
+   "player": "Robin Taccola",
    "detail": "replaces Inia Tabuavou",
-   "playerOn": "Jean Cotarmanac'h",
+   "playerOn": "Robin Taccola",
    "playerOff": "Inia Tabuavou",
    "label": "Substitution"
   },
   {
-   "id": "espn-1901370",
-   "minute": 72,
+   "id": "espn-1901376",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": null,
+   "detail": "replaces Inia Tabuavou",
+   "playerOff": "Inia Tabuavou",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901399",
+   "minute": 71,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -474,15 +483,57 @@
    "playerOn": "Rob Leota",
    "playerOff": "Killian Tixeront",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901405",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Inia Tabuavou",
+   "detail": "replaces Robin Taccola",
+   "playerOn": "Inia Tabuavou",
+   "playerOff": "Robin Taccola",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901415",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Francisco Gorrissen",
+   "detail": "Try (25-26)",
+   "playerName": "Francisco Gorrissen",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 25,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1901416",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Anthony Bouthier",
+   "detail": "Conversion (27-26)",
+   "playerName": "Anthony Bouthier",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 27,
+    "away": 26
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 20,
+  "home": 27,
   "away": 26
  },
  "plays_summed": {
-  "home": 20,
+  "home": 27,
   "away": 26
  }
 }
