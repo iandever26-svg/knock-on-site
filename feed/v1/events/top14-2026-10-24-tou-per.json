@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tou-per",
  "matchId": "top14-2026-10-24-tou-per",
- "updated_at": "2026-10-24T16:12:31.890Z",
+ "updated_at": "2026-10-24T16:17:56.431Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604409/competitions/604409/plays?limit=400",
-   "fetched_at": "2026-10-24T16:12:31.890Z",
+   "fetched_at": "2026-10-24T16:17:56.431Z",
    "espn_event_id": "604409",
    "espn_league_id": 270559
   }
@@ -328,7 +328,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1901796",
+   "id": "espn-1901841",
    "minute": 62,
    "period": "2H",
    "type": "substitution",
@@ -337,6 +337,30 @@
    "detail": "replaces Paul Graou",
    "playerOn": "Antoine Dupont",
    "playerOff": "Paul Graou",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901843",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Romain Ntamack",
+   "detail": "replaces Blair Kinghorn",
+   "playerOn": "Romain Ntamack",
+   "playerOff": "Blair Kinghorn",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901845",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mathis Castro-Ferreira",
+   "detail": "replaces Theo Ntamack",
+   "playerOn": "Mathis Castro-Ferreira",
+   "playerOff": "Theo Ntamack",
    "label": "Substitution"
   },
   {
@@ -361,30 +385,6 @@
    "detail": "replaces Matteo Le Corvec",
    "playerOn": "Peceli Yato",
    "playerOff": "Matteo Le Corvec",
-   "label": "Substitution"
-  },
-  {
-   "id": "espn-1901798",
-   "minute": 62,
-   "period": "2H",
-   "type": "substitution",
-   "team": "home",
-   "player": "Romain Ntamack",
-   "detail": "replaces Blair Kinghorn",
-   "playerOn": "Romain Ntamack",
-   "playerOff": "Blair Kinghorn",
-   "label": "Substitution"
-  },
-  {
-   "id": "espn-1901800",
-   "minute": 62,
-   "period": "2H",
-   "type": "substitution",
-   "team": "home",
-   "player": "Mathis Castro-Ferreira",
-   "detail": "replaces Theo Ntamack",
-   "playerOn": "Mathis Castro-Ferreira",
-   "playerOff": "Theo Ntamack",
    "label": "Substitution"
   },
   {
@@ -442,6 +442,48 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1901837",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Marc-Elie Kouassi",
+   "detail": "replaces Francois Cros",
+   "playerOn": "Marc-Elie Kouassi",
+   "playerOff": "Francois Cros",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901839",
+   "minute": 70,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Mathys Lotrian",
+   "detail": "Try (31-17)",
+   "playerName": "Mathys Lotrian",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 31,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1901840",
+   "minute": 71,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Aucagne",
+   "detail": "Conversion (31-19)",
+   "playerName": "Antoine Aucagne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 31,
+    "away": 19
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -451,21 +493,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (38-12)",
+   "detail": "Penalty try (inferred, minute unknown) (38-19)",
    "scoreAfter": {
     "home": 38,
-    "away": 12
+    "away": 19
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 38,
-  "away": 12
+  "away": 19
  },
  "plays_summed": {
   "home": 31,
-  "away": 12
+  "away": 19
  },
  "inferred_penalty_tries": [
   {

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-cas-sfp",
  "matchId": "top14-2026-10-24-cas-sfp",
- "updated_at": "2026-10-24T16:12:31.890Z",
+ "updated_at": "2026-10-24T16:17:56.431Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604405/competitions/604405/plays?limit=400",
-   "fetched_at": "2026-10-24T16:12:31.890Z",
+   "fetched_at": "2026-10-24T16:17:56.431Z",
    "espn_event_id": "604405",
    "espn_league_id": 270559
   }
@@ -316,6 +316,30 @@
    "detail": "replaces Louis Carbonel",
    "playerOn": "Leo Monin",
    "playerOff": "Louis Carbonel",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901851",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Chris Gabriel",
+   "detail": "replaces Florent Vanverberghe",
+   "playerOn": "Chris Gabriel",
+   "playerOff": "Florent Vanverberghe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901853",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Quentin Walcker",
+   "detail": "replaces Lois Guerois-Galisson",
+   "playerOn": "Quentin Walcker",
+   "playerOff": "Lois Guerois-Galisson",
    "label": "Substitution"
   }
  ],
