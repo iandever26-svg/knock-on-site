@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tln-pau",
  "matchId": "top14-2026-10-24-tln-pau",
- "updated_at": "2026-10-24T19:47:43.523Z",
+ "updated_at": "2026-10-24T20:03:39.131Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
-   "fetched_at": "2026-10-24T19:47:43.523Z",
+   "fetched_at": "2026-10-24T20:03:39.131Z",
    "espn_event_id": "604408",
    "espn_league_id": 270559
   }
@@ -164,6 +164,18 @@
     "home": 24,
     "away": 6
    }
+  },
+  {
+   "id": "espn-1902080",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jimi Maximin",
+   "detail": "replaces Baptiste Pesenti",
+   "playerOn": "Jimi Maximin",
+   "playerOff": "Baptiste Pesenti",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
