@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tln-pau",
  "matchId": "top14-2026-10-24-tln-pau",
- "updated_at": "2026-10-24T20:30:28.331Z",
+ "updated_at": "2026-10-24T20:41:03.816Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
-   "fetched_at": "2026-10-24T20:30:28.331Z",
+   "fetched_at": "2026-10-24T20:41:03.816Z",
    "espn_event_id": "604408",
    "espn_league_id": 270559
   }
@@ -437,15 +437,66 @@
     "home": 38,
     "away": 13
    }
+  },
+  {
+   "id": "espn-1902160",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Thomas Laclayat",
+   "detail": "replaces Siate Tokolahi",
+   "playerOn": "Thomas Laclayat",
+   "playerOff": "Siate Tokolahi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902155",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jean-Baptiste Gros",
+   "detail": "replaces Setariki Tuicuvu",
+   "playerOn": "Jean-Baptiste Gros",
+   "playerOff": "Setariki Tuicuvu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902157",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Junior Kpoku",
+   "detail": "replaces David Ribbans",
+   "playerOn": "Junior Kpoku",
+   "playerOff": "David Ribbans",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902159",
+   "minute": 70,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Santiago Grondona",
+   "detail": "Try (38-18)",
+   "playerName": "Santiago Grondona",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 38,
+    "away": 18
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 38,
-  "away": 13
+  "away": 18
  },
  "plays_summed": {
   "home": 38,
-  "away": 13
+  "away": 18
  }
 }
