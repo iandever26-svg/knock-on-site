@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T14:00:25.806Z",
+ "updated_at": "2026-10-24T14:05:48.893Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T14:00:25.806Z",
+   "fetched_at": "2026-10-24T14:05:48.893Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -323,15 +323,54 @@
     "home": 13,
     "away": 23
    }
+  },
+  {
+   "id": "espn-1901323",
+   "minute": 62,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Harry Plummer",
+   "detail": "Penalty (13-26)",
+   "playerName": "Harry Plummer",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 13,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1901324",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kevin Noah",
+   "detail": "replaces Pita-Gus Sowakula",
+   "playerOn": "Kevin Noah",
+   "playerOff": "Pita-Gus Sowakula",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901326",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Timothe Mezou",
+   "detail": "replaces Eric Marks",
+   "playerOn": "Timothe Mezou",
+   "playerOff": "Eric Marks",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 13,
-  "away": 23
+  "away": 26
  },
  "plays_summed": {
   "home": 13,
-  "away": 23
+  "away": 26
  }
 }
