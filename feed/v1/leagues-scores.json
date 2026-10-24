@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-10-24T06:04:51.541Z",
- "updatedAt": "2026-10-24T06:04:51.541Z",
+ "generatedAt": "2026-10-24T06:11:19.085Z",
+ "updatedAt": "2026-10-24T06:11:19.085Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 5,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-10-24T06:04:51.541Z",
+   "updated_at": "2026-10-24T06:11:19.085Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-24T06:04:51.541Z",
+     "fetched_at": "2026-10-24T06:11:19.085Z",
      "espn_event_id": "604629",
      "may_lag": true
     }
@@ -35,12 +35,12 @@
    "away_score": 3,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-10-24T06:04:51.541Z",
+   "updated_at": "2026-10-24T06:11:19.085Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-24T06:04:51.541Z",
+     "fetched_at": "2026-10-24T06:11:19.085Z",
      "espn_event_id": "604632",
      "may_lag": true
     }
@@ -55,25 +55,25 @@
    "match_id": "intl-2026-10-24-jpn-fij",
    "status": "live",
    "home_score": 7,
-   "away_score": 7,
+   "away_score": 14,
    "clock": null,
    "period": "1H",
-   "updated_at": "2026-10-24T06:04:51.541Z",
+   "updated_at": "2026-10-24T06:11:19.085Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/289234/scoreboard",
-     "fetched_at": "2026-10-24T06:04:51.541Z",
+     "fetched_at": "2026-10-24T06:11:19.085Z",
      "espn_event_id": "604593",
      "may_lag": true,
-     "espn_display_clock": "14'",
-     "espn_clock_seconds": 823,
+     "espn_display_clock": "20'",
+     "espn_clock_seconds": 1158,
      "espn_period": 1
     }
    ],
-   "latest_event_minute": 14,
+   "latest_event_minute": 20,
    "latest_event_period": "1H",
-   "latest_event_seen_at": "2026-10-24T06:04:51.541Z"
+   "latest_event_seen_at": "2026-10-24T06:11:19.085Z"
   }
  ]
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-24-jpn-fij",
  "matchId": "intl-2026-10-24-jpn-fij",
- "updated_at": "2026-10-24T06:04:51.541Z",
+ "updated_at": "2026-10-24T06:11:19.085Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/604593/competitions/604593/plays?limit=400",
-   "fetched_at": "2026-10-24T06:04:51.541Z",
+   "fetched_at": "2026-10-24T06:11:19.085Z",
    "espn_event_id": "604593",
    "espn_league_id": 289234
   }
@@ -74,15 +74,45 @@
     "home": 7,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1901099",
+   "minute": 15,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Tevita Ikanivere",
+   "detail": "Try (7-12)",
+   "playerName": "Tevita Ikanivere",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1901100",
+   "minute": 16,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Isaiah Armstrong-Ravula",
+   "detail": "Conversion (7-14)",
+   "playerName": "Isaiah Armstrong-Ravula",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 7
+  "away": 14
  },
  "plays_summed": {
   "home": 7,
-  "away": 7
+  "away": 14
  }
 }
