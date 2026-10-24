@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tou-per",
  "matchId": "top14-2026-10-24-tou-per",
- "updated_at": "2026-10-24T15:20:02.682Z",
+ "updated_at": "2026-10-24T15:25:31.530Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604409/competitions/604409/plays?limit=400",
-   "fetched_at": "2026-10-24T15:20:02.682Z",
+   "fetched_at": "2026-10-24T15:25:31.530Z",
    "espn_event_id": "604409",
    "espn_league_id": 270559
   }
@@ -112,6 +112,21 @@
    }
   },
   {
+   "id": "espn-1901535",
+   "minute": 40,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Joshua Brennan",
+   "detail": "Try (10-7)",
+   "playerName": "Joshua Brennan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 7
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -121,20 +136,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (12-7)",
+   "detail": "Penalty try (inferred, minute unknown) (17-7)",
    "scoreAfter": {
-    "home": 12,
+    "home": 17,
     "away": 7
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
+  "home": 17,
   "away": 7
  },
  "plays_summed": {
-  "home": 5,
+  "home": 10,
   "away": 7
  },
  "inferred_penalty_tries": [
