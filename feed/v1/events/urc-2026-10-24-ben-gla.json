@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-ben-gla",
   "matchId": "urc-2026-10-24-ben-gla",
-  "updated_at": "2026-10-24T15:14:38+01:00",
+  "updated_at": "2026-10-24T15:17:51+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604061/competitions/604061/plays",
-      "fetched_at": "2026-10-24T15:14:38+01:00",
+      "fetched_at": "2026-10-24T15:17:51+01:00",
       "espn_event_id": "604061",
       "espn_league_id": 270557
     }
@@ -24,6 +24,18 @@
       "detail": "replaces Michele Lamaro",
       "playerOn": "Manuel Zuliani",
       "playerOff": "Michele Lamaro",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901359",
+      "minute": 12,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Siua Maile",
+      "detail": "replaces Bautista Bernasconi",
+      "playerOn": "Siua Maile",
+      "playerOff": "Bautista Bernasconi",
       "label": "Substitution"
     }
   ]
