@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-bul-uls",
   "matchId": "urc-2026-10-24-bul-uls",
-  "updated_at": "2026-10-24T14:38:08+01:00",
+  "updated_at": "2026-10-24T14:43:20+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604059/competitions/604059/plays",
-      "fetched_at": "2026-10-24T14:38:08+01:00",
+      "fetched_at": "2026-10-24T14:43:20+01:00",
       "espn_event_id": "604059",
       "espn_league_id": 270557
     }
@@ -450,6 +450,42 @@
       "detail": "replaces Handré Pollard",
       "playerOn": "Curwin Bosch",
       "playerOff": "Handré Pollard",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901255",
+      "minute": 74,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Henry Walker",
+      "detail": "replaces Tom Stewart",
+      "playerOn": "Henry Walker",
+      "playerOff": "Tom Stewart",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901259",
+      "minute": 74,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jake Flannery",
+      "detail": "replaces Jacob Stockdale",
+      "playerOn": "Jake Flannery",
+      "playerOff": "Jacob Stockdale",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901261",
+      "minute": 75,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Marco van Staden",
+      "detail": "replaces Johan Grobbelaar",
+      "playerOn": "Marco van Staden",
+      "playerOff": "Johan Grobbelaar",
       "label": "Substitution"
     }
   ]
