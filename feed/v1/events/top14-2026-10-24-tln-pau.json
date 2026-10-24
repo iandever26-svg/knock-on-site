@@ -1,0 +1,43 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "top14-2026-10-24-tln-pau",
+ "matchId": "top14-2026-10-24-tln-pau",
+ "updated_at": "2026-10-24T19:12:01.310Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
+   "fetched_at": "2026-10-24T19:12:01.310Z",
+   "espn_event_id": "604408",
+   "espn_league_id": 270559
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1901998",
+   "minute": 9,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Melvyn Jaminet",
+   "detail": "Try (5-0)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 5,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 5,
+  "away": 0
+ }
+}
