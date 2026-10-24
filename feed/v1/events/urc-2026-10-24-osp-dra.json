@@ -2,13 +2,15 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-osp-dra",
   "matchId": "urc-2026-10-24-osp-dra",
-  "updated_at": "2026-10-24T20:58:15+01:00",
-  "final": false,
+  "updated_at": "2026-10-24T21:03:29+01:00",
+  "final": true,
+  "scores_verified": false,
+  "note": "ESPN timeline incomplete: events sum to 24-14, final 31-14; running scores omitted.",
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604063/competitions/604063/plays",
-      "fetched_at": "2026-10-24T20:58:15+01:00",
+      "fetched_at": "2026-10-24T21:03:29+01:00",
       "espn_event_id": "604063",
       "espn_league_id": 270557
     }
@@ -21,13 +23,9 @@
       "type": "try",
       "team": "home",
       "player": "Reuben Morgan-Williams",
-      "detail": "Try (5-0)",
+      "detail": "Try",
       "playerName": "Reuben Morgan-Williams",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 5,
-        "away": 0
-      }
+      "label": "Try"
     },
     {
       "id": "espn-1901935",
@@ -36,13 +34,9 @@
       "type": "conversion_made",
       "team": "home",
       "player": "Dan Edwards",
-      "detail": "Conversion (7-0)",
+      "detail": "Conversion",
       "playerName": "Dan Edwards",
-      "label": "Conversion",
-      "scoreAfter": {
-        "home": 7,
-        "away": 0
-      }
+      "label": "Conversion"
     },
     {
       "id": "espn-1901972",
@@ -63,13 +57,9 @@
       "type": "try",
       "team": "home",
       "player": "Reuben Morgan-Williams",
-      "detail": "Try (12-0)",
+      "detail": "Try",
       "playerName": "Reuben Morgan-Williams",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 12,
-        "away": 0
-      }
+      "label": "Try"
     },
     {
       "id": "espn-1901977",
@@ -78,13 +68,9 @@
       "type": "conversion_made",
       "team": "home",
       "player": "Dan Edwards",
-      "detail": "Conversion (14-0)",
+      "detail": "Conversion",
       "playerName": "Dan Edwards",
-      "label": "Conversion",
-      "scoreAfter": {
-        "home": 14,
-        "away": 0
-      }
+      "label": "Conversion"
     },
     {
       "id": "espn-1901979",
@@ -93,13 +79,9 @@
       "type": "try",
       "team": "home",
       "player": "Sam Parry",
-      "detail": "Try (19-0)",
+      "detail": "Try",
       "playerName": "Sam Parry",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 19,
-        "away": 0
-      }
+      "label": "Try"
     },
     {
       "id": "espn-1902001",
@@ -120,13 +102,9 @@
       "type": "yellow_card",
       "team": "away",
       "player": "Rhodri Williams",
-      "detail": "Yellow card (19-0)",
+      "detail": "Yellow card",
       "playerName": "Rhodri Williams",
-      "label": "Yellow card",
-      "scoreAfter": {
-        "home": 19,
-        "away": 0
-      }
+      "label": "Yellow card"
     },
     {
       "id": "espn-1901992",
@@ -135,13 +113,9 @@
       "type": "try",
       "team": "away",
       "player": "Rio Dyer",
-      "detail": "Try (19-5)",
+      "detail": "Try",
       "playerName": "Rio Dyer",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 19,
-        "away": 5
-      }
+      "label": "Try"
     },
     {
       "id": "espn-1901993",
@@ -150,13 +124,9 @@
       "type": "conversion_made",
       "team": "away",
       "player": "Tinus de Beer",
-      "detail": "Conversion (19-7)",
+      "detail": "Conversion",
       "playerName": "Tinus de Beer",
-      "label": "Conversion",
-      "scoreAfter": {
-        "home": 19,
-        "away": 7
-      }
+      "label": "Conversion"
     },
     {
       "id": "espn-1902007",
@@ -189,13 +159,9 @@
       "type": "yellow_card",
       "team": "away",
       "player": "Tinus de Beer",
-      "detail": "Yellow card (19-7)",
+      "detail": "Yellow card",
       "playerName": "Tinus de Beer",
-      "label": "Yellow card",
-      "scoreAfter": {
-        "home": 19,
-        "away": 7
-      }
+      "label": "Yellow card"
     },
     {
       "id": "espn-1902026",
@@ -204,13 +170,9 @@
       "type": "try",
       "team": "home",
       "player": "Ross Moriarty",
-      "detail": "Try (24-7)",
+      "detail": "Try",
       "playerName": "Ross Moriarty",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 24,
-        "away": 7
-      }
+      "label": "Try"
     },
     {
       "id": "espn-1902017",
@@ -338,13 +300,9 @@
       "type": "try",
       "team": "away",
       "player": "Anzelo Tuitavuki",
-      "detail": "Try (24-12)",
+      "detail": "Try",
       "playerName": "Anzelo Tuitavuki",
-      "label": "Try",
-      "scoreAfter": {
-        "home": 24,
-        "away": 12
-      }
+      "label": "Try"
     },
     {
       "id": "espn-1902062",
@@ -353,13 +311,9 @@
       "type": "conversion_made",
       "team": "away",
       "player": "Tinus de Beer",
-      "detail": "Conversion (24-14)",
+      "detail": "Conversion",
       "playerName": "Tinus de Beer",
-      "label": "Conversion",
-      "scoreAfter": {
-        "home": 24,
-        "away": 14
-      }
+      "label": "Conversion"
     },
     {
       "id": "espn-1902072",
@@ -380,13 +334,9 @@
       "type": "yellow_card",
       "team": "away",
       "player": "Aneurin Owen",
-      "detail": "Yellow card (24-14)",
+      "detail": "Yellow card",
       "playerName": "Aneurin Owen",
-      "label": "Yellow card",
-      "scoreAfter": {
-        "home": 24,
-        "away": 14
-      }
+      "label": "Yellow card"
     },
     {
       "id": "espn-1902078",
