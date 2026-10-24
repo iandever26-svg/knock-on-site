@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-osp-dra",
   "matchId": "urc-2026-10-24-osp-dra",
-  "updated_at": "2026-10-24T20:01:20+01:00",
+  "updated_at": "2026-10-24T20:07:52+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604063/competitions/604063/plays",
-      "fetched_at": "2026-10-24T20:01:20+01:00",
+      "fetched_at": "2026-10-24T20:07:52+01:00",
       "espn_event_id": "604063",
       "espn_league_id": 270557
     }
@@ -102,15 +102,15 @@
       }
     },
     {
-      "id": "espn-1901979-cm",
-      "minute": 36,
-      "period": "1H",
-      "type": "conversion_missed",
-      "team": "home",
-      "player": null,
-      "detail": "Conversion missed (inferred) (19-0)",
-      "label": "Conversion missed",
-      "inferred": true,
+      "id": "espn-1901995",
+      "minute": 42,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Rhodri Williams",
+      "detail": "Yellow card (19-0)",
+      "playerName": "Rhodri Williams",
+      "label": "Yellow card",
       "scoreAfter": {
         "home": 19,
         "away": 0
