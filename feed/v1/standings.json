@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-24T12:16:04+01:00",
+  "updatedAt": "2026-10-24T15:04:13+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
@@ -30,6 +30,22 @@
     },
     {
       "position": 2,
+      "teamId": "bulls",
+      "team": "Bulls",
+      "P": 4,
+      "W": 3,
+      "D": 0,
+      "L": 1,
+      "PF": 160,
+      "PA": 80,
+      "TF": 23,
+      "TA": 11,
+      "BP": 4,
+      "points": 16,
+      "form": "WWLWL"
+    },
+    {
+      "position": 3,
       "teamId": "sharks",
       "team": "Sharks",
       "P": 4,
@@ -45,7 +61,7 @@
       "form": "WLWWL"
     },
     {
-      "position": 3,
+      "position": 4,
       "teamId": "glasgow",
       "team": "Glasgow Warriors",
       "P": 3,
@@ -59,22 +75,6 @@
       "BP": 3,
       "points": 13,
       "form": "WDWWD"
-    },
-    {
-      "position": 4,
-      "teamId": "bulls",
-      "team": "Bulls",
-      "P": 3,
-      "W": 2,
-      "D": 0,
-      "L": 1,
-      "PF": 126,
-      "PA": 54,
-      "TF": 19,
-      "TA": 7,
-      "BP": 3,
-      "points": 11,
-      "form": "WLWWL"
     },
     {
       "position": 5,
@@ -174,6 +174,22 @@
     },
     {
       "position": 11,
+      "teamId": "ulster",
+      "team": "Ulster",
+      "P": 4,
+      "W": 0,
+      "D": 2,
+      "L": 2,
+      "PF": 114,
+      "PA": 127,
+      "TF": 17,
+      "TA": 17,
+      "BP": 5,
+      "points": 9,
+      "form": "LDDLL"
+    },
+    {
+      "position": 12,
       "teamId": "leinster",
       "team": "Leinster",
       "P": 3,
@@ -187,22 +203,6 @@
       "BP": 4,
       "points": 8,
       "form": "WLLLW"
-    },
-    {
-      "position": 12,
-      "teamId": "ulster",
-      "team": "Ulster",
-      "P": 3,
-      "W": 0,
-      "D": 2,
-      "L": 1,
-      "PF": 88,
-      "PA": 93,
-      "TF": 13,
-      "TA": 13,
-      "BP": 4,
-      "points": 8,
-      "form": "DDLLL"
     },
     {
       "position": 13,
