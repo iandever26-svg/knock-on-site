@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-lei-mun",
   "matchId": "urc-2026-10-24-lei-mun",
-  "updated_at": "2026-10-24T19:05:32+01:00",
+  "updated_at": "2026-10-24T19:22:53+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604062/competitions/604062/plays",
-      "fetched_at": "2026-10-24T19:05:32+01:00",
+      "fetched_at": "2026-10-24T19:22:53+01:00",
       "espn_event_id": "604062",
       "espn_league_id": 270557
     }
@@ -126,6 +126,87 @@
       "detail": "replaces Jimmy O’Brien",
       "playerOn": "Charlie Tector",
       "playerOff": "Jimmy O’Brien",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901941",
+      "minute": 55,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Alex Nankivell",
+      "detail": "Yellow card (5-13)",
+      "playerName": "Alex Nankivell",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 5,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1901939",
+      "minute": 55,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Ryan Baird",
+      "detail": "Try (10-13)",
+      "playerName": "Ryan Baird",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 10,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1901942",
+      "minute": 56,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Joey Carbery",
+      "detail": "Conversion (12-13)",
+      "playerName": "Joey Carbery",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 12,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1901943",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Mark Donnelly",
+      "detail": "replaces Josh Wycherley",
+      "playerOn": "Mark Donnelly",
+      "playerOff": "Josh Wycherley",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901945",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Seán Edogbo",
+      "detail": "replaces Alex Kendellen",
+      "playerOn": "Seán Edogbo",
+      "playerOff": "Alex Kendellen",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901947",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Brian Gleeson",
+      "detail": "replaces Gavin Coombes",
+      "playerOn": "Brian Gleeson",
+      "playerOff": "Gavin Coombes",
       "label": "Substitution"
     }
   ]
