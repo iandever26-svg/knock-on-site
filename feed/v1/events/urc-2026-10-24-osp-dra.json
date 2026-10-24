@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-osp-dra",
   "matchId": "urc-2026-10-24-osp-dra",
-  "updated_at": "2026-10-24T20:18:18+01:00",
+  "updated_at": "2026-10-24T20:32:04+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604063/competitions/604063/plays",
-      "fetched_at": "2026-10-24T20:18:18+01:00",
+      "fetched_at": "2026-10-24T20:32:04+01:00",
       "espn_event_id": "604063",
       "espn_league_id": 270557
     }
@@ -159,8 +159,8 @@
       }
     },
     {
-      "id": "espn-1902004",
-      "minute": 51,
+      "id": "espn-1902007",
+      "minute": 49,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -168,6 +168,84 @@
       "detail": "replaces Ben Carter",
       "playerOn": "Matthew Screech",
       "playerOff": "Ben Carter",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902015",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ross Moriarty",
+      "detail": "replaces Harri Deaves",
+      "playerOn": "Ross Moriarty",
+      "playerOff": "Harri Deaves",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902025",
+      "minute": 54,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Tinus de Beer",
+      "detail": "Yellow card (19-7)",
+      "playerName": "Tinus de Beer",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 19,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1902026",
+      "minute": 54,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Ross Moriarty",
+      "detail": "Try (24-7)",
+      "playerName": "Ross Moriarty",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1902017",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Evan Minto",
+      "detail": "replaces Barny Langton-Cryer",
+      "playerOn": "Evan Minto",
+      "playerOff": "Barny Langton-Cryer",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902019",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Che Hope",
+      "detail": "replaces Rhodri Williams",
+      "playerOn": "Che Hope",
+      "playerOff": "Rhodri Williams",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902027",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Rhys Henry",
+      "detail": "replaces Tom Botha",
+      "playerOn": "Rhys Henry",
+      "playerOff": "Tom Botha",
       "label": "Substitution"
     }
   ]
