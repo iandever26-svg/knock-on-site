@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-cas-sfp",
  "matchId": "top14-2026-10-24-cas-sfp",
- "updated_at": "2026-10-24T15:49:14.127Z",
+ "updated_at": "2026-10-24T16:00:28.344Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604405/competitions/604405/plays?limit=400",
-   "fetched_at": "2026-10-24T15:49:14.127Z",
+   "fetched_at": "2026-10-24T16:00:28.344Z",
    "espn_event_id": "604405",
    "espn_league_id": 270559
   }
@@ -115,8 +115,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1901657",
-   "minute": 52,
+   "id": "espn-1901677",
+   "minute": 51,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -127,8 +127,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1901659",
-   "minute": 52,
+   "id": "espn-1901679",
+   "minute": 51,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -137,15 +137,93 @@
    "playerOn": "Paul Alo-Emile",
    "playerOff": "Giorgi Melikidze",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901683",
+   "minute": 53,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Louis Le Brun",
+   "detail": "Penalty (13-5)",
+   "playerName": "Louis Le Brun",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 13,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1901684",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Pierre Colonna",
+   "detail": "replaces Teddy Durand",
+   "playerOn": "Pierre Colonna",
+   "playerOff": "Teddy Durand",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901721",
+   "minute": 56,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Louis Carbonel",
+   "detail": "Penalty (13-8)",
+   "playerName": "Louis Carbonel",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 13,
+    "away": 8
+   }
+  },
+  {
+   "id": "espn-1901726",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Alivereti Duguivalu",
+   "detail": "replaces Tani Vili",
+   "playerOn": "Alivereti Duguivalu",
+   "playerOff": "Tani Vili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901743",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Baptiste Delaporte",
+   "detail": "replaces Mathieu Babillot",
+   "playerOn": "Baptiste Delaporte",
+   "playerOff": "Mathieu Babillot",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901745",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Guillaume Ducat",
+   "detail": "replaces Gauthier Maravat",
+   "playerOn": "Guillaume Ducat",
+   "playerOff": "Gauthier Maravat",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 10,
-  "away": 5
+  "home": 13,
+  "away": 8
  },
  "plays_summed": {
-  "home": 10,
-  "away": 5
+  "home": 13,
+  "away": 8
  }
 }

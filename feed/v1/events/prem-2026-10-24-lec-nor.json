@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-24-lec-nor",
  "matchId": "prem-2026-10-24-lec-nor",
- "updated_at": "2026-10-24T15:49:14.127Z",
- "final": false,
+ "updated_at": "2026-10-24T16:00:28.344Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604630/competitions/604630/plays?limit=400",
-   "fetched_at": "2026-10-24T15:49:14.127Z",
+   "fetched_at": "2026-10-24T16:00:28.344Z",
    "espn_event_id": "604630",
    "espn_league_id": 267979
   }
@@ -319,7 +319,30 @@
    }
   },
   {
-   "id": "espn-1901647",
+   "id": "espn-1901663",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ollie Sleightholme",
+   "detail": "replaces Fin Smith",
+   "playerOn": "Ollie Sleightholme",
+   "playerOff": "Fin Smith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901752",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Fin Smith",
+   "playerOff": "Fin Smith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901688",
    "minute": 73,
    "period": "2H",
    "type": "substitution",
@@ -328,6 +351,66 @@
    "detail": "replaces Joe Heyes",
    "playerOn": "Will Hurd",
    "playerOff": "Joe Heyes",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901701",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Joaquin Moro",
+   "detail": "replaces Olly Cracknell",
+   "playerOn": "Joaquin Moro",
+   "playerOff": "Olly Cracknell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901710",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Richie Asiata",
+   "detail": "replaces Jamie Blamire",
+   "playerOn": "Richie Asiata",
+   "playerOff": "Jamie Blamire",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901722",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Orlando Bailey",
+   "detail": "replaces Will Wand",
+   "playerOn": "Orlando Bailey",
+   "playerOff": "Will Wand",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901724",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom Whiteley",
+   "detail": "replaces Jack van Poortvliet",
+   "playerOn": "Tom Whiteley",
+   "playerOff": "Jack van Poortvliet",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901729",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tarek Haffar",
+   "detail": "replaces Archie van der Flier",
+   "playerOn": "Tarek Haffar",
+   "playerOff": "Archie van der Flier",
    "label": "Substitution"
   }
  ],

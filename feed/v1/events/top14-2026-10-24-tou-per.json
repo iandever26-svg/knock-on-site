@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tou-per",
  "matchId": "top14-2026-10-24-tou-per",
- "updated_at": "2026-10-24T15:49:14.127Z",
+ "updated_at": "2026-10-24T16:00:28.344Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604409/competitions/604409/plays?limit=400",
-   "fetched_at": "2026-10-24T15:49:14.127Z",
+   "fetched_at": "2026-10-24T16:00:28.344Z",
    "espn_event_id": "604409",
    "espn_league_id": 270559
   }
@@ -250,7 +250,7 @@
    }
   },
   {
-   "id": "espn-1901655",
+   "id": "espn-1901714",
    "minute": 51,
    "period": "2H",
    "type": "substitution",
@@ -259,6 +259,72 @@
    "detail": "replaces Cyril Baille",
    "playerOn": "Benjamin Bertrand",
    "playerOff": "Cyril Baille",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901695",
+   "minute": 52,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Teddy Thomas",
+   "detail": "Try (29-7)",
+   "playerName": "Teddy Thomas",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901708",
+   "minute": 52,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Blair Kinghorn",
+   "detail": "Conversion (31-7)",
+   "playerName": "Blair Kinghorn",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 31,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901750",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tom Ecochard",
+   "detail": "replaces James Hall",
+   "playerOn": "Tom Ecochard",
+   "playerOff": "James Hall",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901738",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lorencio Boyer Gallardo",
+   "detail": "replaces Jose Madeira",
+   "playerOn": "Lorencio Boyer Gallardo",
+   "playerOff": "Jose Madeira",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901753",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Romeo Bonnard Martin",
+   "detail": "replaces Anthony Jelonch",
+   "playerOn": "Romeo Bonnard Martin",
+   "playerOff": "Anthony Jelonch",
    "label": "Substitution"
   },
   {
@@ -271,20 +337,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (31-7)",
+   "detail": "Penalty try (inferred, minute unknown) (38-7)",
    "scoreAfter": {
-    "home": 31,
+    "home": 38,
     "away": 7
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 31,
+  "home": 38,
   "away": 7
  },
  "plays_summed": {
-  "home": 24,
+  "home": 31,
   "away": 7
  },
  "inferred_penalty_tries": [

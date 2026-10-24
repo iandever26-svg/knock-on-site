@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-bay-lyo",
  "matchId": "top14-2026-10-24-bay-lyo",
- "updated_at": "2026-10-24T15:49:14.127Z",
+ "updated_at": "2026-10-24T16:00:28.344Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604403/competitions/604403/plays?limit=400",
-   "fetched_at": "2026-10-24T15:49:14.127Z",
+   "fetched_at": "2026-10-24T16:00:28.344Z",
    "espn_event_id": "604403",
    "espn_league_id": 270559
   }
@@ -311,15 +311,69 @@
    "playerOn": "Giovanni Habel-Kueffner",
    "playerOff": "Arthur Iturria",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901733",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ignacio Calles",
+   "detail": "replaces Andy Bordelai",
+   "playerOn": "Ignacio Calles",
+   "playerOff": "Andy Bordelai",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901735",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lucas Martin",
+   "detail": "replaces Guillaume Cramont",
+   "playerOn": "Lucas Martin",
+   "playerOff": "Guillaume Cramont",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901728",
+   "minute": 56,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Baptiste Couilloud",
+   "detail": "Try (24-24)",
+   "playerName": "Baptiste Couilloud",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1901737",
+   "minute": 56,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Leo Berdeu",
+   "detail": "Conversion (24-26)",
+   "playerName": "Leo Berdeu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 24,
+    "away": 26
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 24,
-  "away": 19
+  "away": 26
  },
  "plays_summed": {
   "home": 24,
-  "away": 19
+  "away": 26
  }
 }
