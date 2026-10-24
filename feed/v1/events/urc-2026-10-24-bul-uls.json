@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-bul-uls",
   "matchId": "urc-2026-10-24-bul-uls",
-  "updated_at": "2026-10-24T13:35:39+01:00",
+  "updated_at": "2026-10-24T14:01:30+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604059/competitions/604059/plays",
-      "fetched_at": "2026-10-24T13:35:39+01:00",
+      "fetched_at": "2026-10-24T14:01:30+01:00",
       "espn_event_id": "604059",
       "espn_league_id": 270557
     }
@@ -132,6 +132,36 @@
       "scoreAfter": {
         "home": 21,
         "away": 7
+      }
+    },
+    {
+      "id": "espn-1901174",
+      "minute": 45,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "David McCann",
+      "detail": "Try (21-12)",
+      "playerName": "David McCann",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 21,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1901175",
+      "minute": 46,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jack Murphy",
+      "detail": "Conversion (21-14)",
+      "playerName": "Jack Murphy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 14
       }
     }
   ]
