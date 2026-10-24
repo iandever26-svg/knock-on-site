@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-24-jpn-fij",
  "matchId": "intl-2026-10-24-jpn-fij",
- "updated_at": "2026-10-24T07:11:53.355Z",
+ "updated_at": "2026-10-24T07:17:17.895Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/604593/competitions/604593/plays?limit=400",
-   "fetched_at": "2026-10-24T07:11:53.355Z",
+   "fetched_at": "2026-10-24T07:17:17.895Z",
    "espn_event_id": "604593",
    "espn_league_id": 289234
   }
@@ -356,6 +356,66 @@
     "home": 28,
     "away": 31
    }
+  },
+  {
+   "id": "espn-1901132",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Meli Tuni",
+   "detail": "replaces Peni Ravai",
+   "playerOn": "Meli Tuni",
+   "playerOff": "Peni Ravai",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901134",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mesake Doge",
+   "detail": "replaces Inoke Ravuiwasa",
+   "playerOn": "Mesake Doge",
+   "playerOff": "Inoke Ravuiwasa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901136",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Peni Naruma",
+   "detail": "replaces Mesake Vocevoce",
+   "playerOn": "Peni Naruma",
+   "playerOff": "Mesake Vocevoce",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901138",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kavekini Boselawa",
+   "detail": "replaces Tuidraki Samusamuvodre",
+   "playerOn": "Kavekini Boselawa",
+   "playerOff": "Tuidraki Samusamuvodre",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901140",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Frank Lomani",
+   "detail": "replaces Terio Tamani",
+   "playerOn": "Frank Lomani",
+   "playerOff": "Terio Tamani",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
