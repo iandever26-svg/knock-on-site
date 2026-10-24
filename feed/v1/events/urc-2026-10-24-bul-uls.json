@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-bul-uls",
   "matchId": "urc-2026-10-24-bul-uls",
-  "updated_at": "2026-10-24T13:30:24+01:00",
+  "updated_at": "2026-10-24T13:35:39+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604059/competitions/604059/plays",
-      "fetched_at": "2026-10-24T13:30:24+01:00",
+      "fetched_at": "2026-10-24T13:35:39+01:00",
       "espn_event_id": "604059",
       "espn_league_id": 270557
     }
@@ -102,6 +102,36 @@
       "scoreAfter": {
         "home": 21,
         "away": 0
+      }
+    },
+    {
+      "id": "espn-1901162",
+      "minute": 41,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Chay Mullins",
+      "detail": "Try (21-5)",
+      "playerName": "Chay Mullins",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 21,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1901163",
+      "minute": 42,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jack Murphy",
+      "detail": "Conversion (21-7)",
+      "playerName": "Jack Murphy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 7
       }
     }
   ]
