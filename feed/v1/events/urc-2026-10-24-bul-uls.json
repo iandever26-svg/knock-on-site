@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-bul-uls",
   "matchId": "urc-2026-10-24-bul-uls",
-  "updated_at": "2026-10-24T14:43:20+01:00",
-  "final": false,
+  "updated_at": "2026-10-24T14:48:36+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604059/competitions/604059/plays",
-      "fetched_at": "2026-10-24T14:43:20+01:00",
+      "fetched_at": "2026-10-24T14:48:36+01:00",
       "espn_event_id": "604059",
       "espn_league_id": 270557
     }
@@ -487,6 +488,21 @@
       "playerOn": "Marco van Staden",
       "playerOff": "Johan Grobbelaar",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1901272",
+      "minute": 82,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "Penalty (34-26)",
+      "playerName": "Curwin Bosch",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 34,
+        "away": 26
+      }
     }
   ]
 }
