@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-24T20:01:22+01:00",
+  "updatedAt": "2026-10-24T21:13:47+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
@@ -110,6 +110,22 @@
     },
     {
       "position": 7,
+      "teamId": "ospreys",
+      "team": "Ospreys",
+      "P": 4,
+      "W": 2,
+      "D": 0,
+      "L": 2,
+      "PF": 112,
+      "PA": 121,
+      "TF": 18,
+      "TA": 17,
+      "BP": 3,
+      "points": 11,
+      "form": "WWLLL"
+    },
+    {
+      "position": 8,
       "teamId": "connacht",
       "team": "Connacht",
       "P": 4,
@@ -125,7 +141,7 @@
       "form": "WLWLL"
     },
     {
-      "position": 8,
+      "position": 9,
       "teamId": "munster",
       "team": "Munster",
       "P": 4,
@@ -141,7 +157,7 @@
       "form": "LDWLL"
     },
     {
-      "position": 9,
+      "position": 10,
       "teamId": "cardiff",
       "team": "Cardiff Blues",
       "P": 4,
@@ -157,7 +173,7 @@
       "form": "LLWWW"
     },
     {
-      "position": 10,
+      "position": 11,
       "teamId": "lions",
       "team": "Lions",
       "P": 4,
@@ -173,23 +189,23 @@
       "form": "LLWWW"
     },
     {
-      "position": 11,
+      "position": 12,
       "teamId": "dragons",
       "team": "Dragons",
-      "P": 3,
+      "P": 4,
       "W": 1,
       "D": 1,
-      "L": 1,
-      "PF": 88,
-      "PA": 83,
-      "TF": 13,
-      "TA": 13,
+      "L": 2,
+      "PF": 102,
+      "PA": 114,
+      "TF": 15,
+      "TA": 18,
       "BP": 3,
       "points": 9,
-      "form": "LWDDD"
+      "form": "LLWDD"
     },
     {
-      "position": 12,
+      "position": 13,
       "teamId": "ulster",
       "team": "Ulster",
       "P": 4,
@@ -205,7 +221,7 @@
       "form": "LDDLL"
     },
     {
-      "position": 13,
+      "position": 14,
       "teamId": "scarlets",
       "team": "Scarlets",
       "P": 4,
@@ -219,22 +235,6 @@
       "BP": 4,
       "points": 8,
       "form": "LWLLD"
-    },
-    {
-      "position": 14,
-      "teamId": "ospreys",
-      "team": "Ospreys",
-      "P": 3,
-      "W": 1,
-      "D": 0,
-      "L": 2,
-      "PF": 81,
-      "PA": 107,
-      "TF": 13,
-      "TA": 15,
-      "BP": 2,
-      "points": 6,
-      "form": "WLLLL"
     },
     {
       "position": 15,
