@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tou-per",
  "matchId": "top14-2026-10-24-tou-per",
- "updated_at": "2026-10-24T15:41:41.776Z",
+ "updated_at": "2026-10-24T15:49:14.127Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604409/competitions/604409/plays?limit=400",
-   "fetched_at": "2026-10-24T15:41:41.776Z",
+   "fetched_at": "2026-10-24T15:49:14.127Z",
    "espn_event_id": "604409",
    "espn_league_id": 270559
   }
@@ -151,6 +151,117 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1901612",
+   "minute": 44,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Anthony Jelonch",
+   "detail": "Try (15-7)",
+   "playerName": "Anthony Jelonch",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901614",
+   "minute": 45,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Blair Kinghorn",
+   "detail": "Conversion (17-7)",
+   "playerName": "Blair Kinghorn",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901625",
+   "minute": 47,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Matthis Lebel",
+   "detail": "Try (22-7)",
+   "playerName": "Matthis Lebel",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901626",
+   "minute": 48,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Blair Kinghorn",
+   "detail": "Conversion (24-7)",
+   "playerName": "Blair Kinghorn",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 24,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901670",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Posolo Tuilagi",
+   "detail": "replaces Mathieu Tanguy",
+   "playerOn": "Posolo Tuilagi",
+   "playerOff": "Mathieu Tanguy",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901672",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jules Coulon",
+   "detail": "replaces Noe Della Schiava",
+   "playerOn": "Jules Coulon",
+   "playerOff": "Noe Della Schiava",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901652",
+   "minute": 50,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Giorgi Tetrashvili",
+   "detail": "Yellow card (24-7)",
+   "playerName": "Giorgi Tetrashvili",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 24,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901655",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Benjamin Bertrand",
+   "detail": "replaces Cyril Baille",
+   "playerOn": "Benjamin Bertrand",
+   "playerOff": "Cyril Baille",
+   "label": "Substitution"
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -160,20 +271,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (17-7)",
+   "detail": "Penalty try (inferred, minute unknown) (31-7)",
    "scoreAfter": {
-    "home": 17,
+    "home": 31,
     "away": 7
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 17,
+  "home": 31,
   "away": 7
  },
  "plays_summed": {
-  "home": 10,
+  "home": 24,
   "away": 7
  },
  "inferred_penalty_tries": [

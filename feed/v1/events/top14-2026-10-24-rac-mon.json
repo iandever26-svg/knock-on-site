@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-rac-mon",
  "matchId": "top14-2026-10-24-rac-mon",
- "updated_at": "2026-10-24T15:41:41.776Z",
+ "updated_at": "2026-10-24T15:49:14.127Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604407/competitions/604407/plays?limit=400",
-   "fetched_at": "2026-10-24T15:41:41.776Z",
+   "fetched_at": "2026-10-24T15:49:14.127Z",
    "espn_event_id": "604407",
    "espn_league_id": 270559
   }
@@ -170,15 +170,81 @@
    "playerOn": "Reda Wardi",
    "playerOff": "Valentin Welsch",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901624",
+   "minute": 47,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Donovan Taofifenua",
+   "detail": "Try (10-17)",
+   "playerName": "Donovan Taofifenua",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1901624-cm",
+   "minute": 47,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (10-17)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 10,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1901628",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gia Kharaishvili",
+   "detail": "replaces Taniela Tupou",
+   "playerOn": "Gia Kharaishvili",
+   "playerOff": "Taniela Tupou",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901636",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Maxime Machenaud",
+   "detail": "replaces Geronimo Prisciantelli",
+   "playerOn": "Maxime Machenaud",
+   "playerOff": "Geronimo Prisciantelli",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901674",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Seru Uru",
+   "detail": "replaces Lekima Tagitagivalu",
+   "playerOn": "Seru Uru",
+   "playerOff": "Lekima Tagitagivalu",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 10,
-  "away": 12
+  "away": 17
  },
  "plays_summed": {
   "home": 10,
-  "away": 12
+  "away": 17
  }
 }

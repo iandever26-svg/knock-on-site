@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-cas-sfp",
  "matchId": "top14-2026-10-24-cas-sfp",
- "updated_at": "2026-10-24T15:41:41.776Z",
+ "updated_at": "2026-10-24T15:49:14.127Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604405/competitions/604405/plays?limit=400",
-   "fetched_at": "2026-10-24T15:41:41.776Z",
+   "fetched_at": "2026-10-24T15:49:14.127Z",
    "espn_event_id": "604405",
    "espn_league_id": 270559
   }
@@ -100,6 +100,42 @@
    "detail": "replaces Quentin Walcker",
    "playerOn": "Lois Guerois-Galisson",
    "playerOff": "Quentin Walcker",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901631",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mate Gurtskaia",
+   "detail": "replaces Levan Chilachava",
+   "playerOn": "Mate Gurtskaia",
+   "playerOff": "Levan Chilachava",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901657",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sergo Abramishvili",
+   "detail": "replaces Moses Alo-Emile",
+   "playerOn": "Sergo Abramishvili",
+   "playerOff": "Moses Alo-Emile",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901659",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Paul Alo-Emile",
+   "detail": "replaces Giorgi Melikidze",
+   "playerOn": "Paul Alo-Emile",
+   "playerOff": "Giorgi Melikidze",
    "label": "Substitution"
   }
  ],

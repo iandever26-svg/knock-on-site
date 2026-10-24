@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-24-lec-nor",
  "matchId": "prem-2026-10-24-lec-nor",
- "updated_at": "2026-10-24T15:41:41.776Z",
+ "updated_at": "2026-10-24T15:49:14.127Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604630/competitions/604630/plays?limit=400",
-   "fetched_at": "2026-10-24T15:41:41.776Z",
+   "fetched_at": "2026-10-24T15:49:14.127Z",
    "espn_event_id": "604630",
    "espn_league_id": 267979
   }
@@ -274,28 +274,70 @@
    }
   },
   {
-   "id": "espn-1901609",
+   "id": "espn-1901623",
    "minute": 70,
    "period": "2H",
    "type": "yellow_card",
-   "team": "home",
-   "player": "Adam Radwan",
+   "team": "away",
+   "player": "Tom Lockett",
    "detail": "Yellow card (21-7)",
-   "playerName": "Adam Radwan",
+   "playerName": "Tom Lockett",
    "label": "Yellow card",
    "scoreAfter": {
     "home": 21,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1901645",
+   "minute": 72,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Freddie Steward",
+   "detail": "Try (26-7)",
+   "playerName": "Freddie Steward",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901646",
+   "minute": 72,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Billy Searle",
+   "detail": "Conversion (28-7)",
+   "playerName": "Billy Searle",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901647",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Hurd",
+   "detail": "replaces Joe Heyes",
+   "playerOn": "Will Hurd",
+   "playerOff": "Joe Heyes",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
+  "home": 28,
   "away": 7
  },
  "plays_summed": {
-  "home": 21,
+  "home": 28,
   "away": 7
  }
 }
