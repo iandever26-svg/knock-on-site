@@ -2,16 +2,32 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-lei-mun",
   "matchId": "urc-2026-10-24-lei-mun",
-  "updated_at": "2026-10-24T18:06:55+01:00",
+  "updated_at": "2026-10-24T18:19:10+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604062/competitions/604062/plays",
-      "fetched_at": "2026-10-24T18:06:55+01:00",
+      "fetched_at": "2026-10-24T18:19:10+01:00",
       "espn_event_id": "604062",
       "espn_league_id": 270557
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "espn-1901891",
+      "minute": 7,
+      "period": "1H",
+      "type": "penalty_goal_made",
+      "team": "away",
+      "player": "Charlie O'Shea",
+      "detail": "Penalty (0-3)",
+      "playerName": "Charlie O'Shea",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 0,
+        "away": 3
+      }
+    }
+  ]
 }
