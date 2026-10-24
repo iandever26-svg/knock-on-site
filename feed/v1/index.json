@@ -1,120 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-24T20:47:46+01:00",
-  "updatedAt": "2026-10-24T20:47:46+01:00",
+  "generatedAt": "2026-10-24T20:53:01+01:00",
+  "updatedAt": "2026-10-24T20:53:01+01:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-24T20:01:22+01:00",
   "matches": [
-    {
-      "match_id": "intl-2026-10-24-jpn-fij",
-      "kickoff": "2026-10-24T06:50:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-24T07:42:37.599Z"
-    },
-    {
-      "match_id": "prem-2026-10-23-glo-bat",
-      "kickoff": "2026-10-23T19:45:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-23T20:45:36.680Z"
-    },
-    {
-      "match_id": "prem-2026-10-23-new-sal",
-      "kickoff": "2026-10-23T19:45:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-23T20:35:26.096Z"
-    },
-    {
-      "match_id": "prem-2026-10-24-bri-exe",
-      "kickoff": "2026-10-24T17:30:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-24T18:18:21.450Z"
-    },
-    {
-      "match_id": "prem-2026-10-24-lec-nor",
-      "kickoff": "2026-10-24T15:05:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-24T16:00:28.344Z"
-    },
-    {
-      "match_id": "top14-2026-10-24-bay-lyo",
-      "kickoff": "2026-10-24T16:35:00+02:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-24T16:28:49.892Z"
-    },
-    {
-      "match_id": "top14-2026-10-24-cas-sfp",
-      "kickoff": "2026-10-24T16:35:00+02:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-24T16:28:49.892Z"
-    },
-    {
-      "match_id": "top14-2026-10-24-rac-mon",
-      "kickoff": "2026-10-24T16:35:00+02:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-24T16:34:17.104Z"
-    },
-    {
-      "match_id": "top14-2026-10-24-tln-pau",
-      "kickoff": "2026-10-24T21:00:00+02:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-24T19:47:43.523Z"
-    },
-    {
-      "match_id": "top14-2026-10-24-tou-per",
-      "kickoff": "2026-10-24T16:35:00+02:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-24T16:34:17.104Z"
-    },
-    {
-      "match_id": "top14-2026-10-24-van-cle",
-      "kickoff": "2026-10-24T14:30:00+02:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-24T14:35:21.085Z"
-    },
     {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
@@ -389,7 +279,7 @@
       "match_id": "urc-2026-10-24-ben-gla",
       "kickoff": "2026-10-24T15:00:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-24T20:47:43+01:00",
+      "scoreUpdatedAt": "2026-10-24T20:52:57+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-22T15:20:54+01:00",
       "events": true,
@@ -399,7 +289,7 @@
       "match_id": "urc-2026-10-24-bul-uls",
       "kickoff": "2026-10-24T12:45:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-24T20:47:43+01:00",
+      "scoreUpdatedAt": "2026-10-24T20:52:57+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-22T15:20:47+01:00",
       "events": true,
@@ -409,7 +299,7 @@
       "match_id": "urc-2026-10-24-lei-mun",
       "kickoff": "2026-10-24T18:00:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-24T20:47:43+01:00",
+      "scoreUpdatedAt": "2026-10-24T20:52:57+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-22T15:20:57+01:00",
       "events": true,
@@ -419,7 +309,7 @@
       "match_id": "urc-2026-10-24-osp-dra",
       "kickoff": "2026-10-24T19:00:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-24T20:47:43+01:00",
+      "scoreUpdatedAt": "2026-10-24T20:52:57+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-24T18:13:49+01:00",
       "events": true,
@@ -429,11 +319,121 @@
       "match_id": "urc-2026-10-24-sto-sca",
       "kickoff": "2026-10-24T15:00:00+01:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-24T20:47:43+01:00",
+      "scoreUpdatedAt": "2026-10-24T20:52:57+01:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-22T15:20:50+01:00",
       "events": true,
       "eventsUpdatedAt": "2026-10-24T17:02:36+01:00"
+    },
+    {
+      "match_id": "intl-2026-10-24-jpn-fij",
+      "kickoff": "2026-10-24T06:50:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-24T07:42:37.599Z"
+    },
+    {
+      "match_id": "prem-2026-10-23-glo-bat",
+      "kickoff": "2026-10-23T19:45:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-23T20:45:36.680Z"
+    },
+    {
+      "match_id": "prem-2026-10-23-new-sal",
+      "kickoff": "2026-10-23T19:45:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-23T20:35:26.096Z"
+    },
+    {
+      "match_id": "prem-2026-10-24-bri-exe",
+      "kickoff": "2026-10-24T17:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-24T18:18:21.450Z"
+    },
+    {
+      "match_id": "prem-2026-10-24-lec-nor",
+      "kickoff": "2026-10-24T15:05:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-24T16:00:28.344Z"
+    },
+    {
+      "match_id": "top14-2026-10-24-bay-lyo",
+      "kickoff": "2026-10-24T16:35:00+02:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-24T16:28:49.892Z"
+    },
+    {
+      "match_id": "top14-2026-10-24-cas-sfp",
+      "kickoff": "2026-10-24T16:35:00+02:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-24T16:28:49.892Z"
+    },
+    {
+      "match_id": "top14-2026-10-24-rac-mon",
+      "kickoff": "2026-10-24T16:35:00+02:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-24T16:34:17.104Z"
+    },
+    {
+      "match_id": "top14-2026-10-24-tln-pau",
+      "kickoff": "2026-10-24T21:00:00+02:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-24T19:47:43.523Z"
+    },
+    {
+      "match_id": "top14-2026-10-24-tou-per",
+      "kickoff": "2026-10-24T16:35:00+02:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-24T16:34:17.104Z"
+    },
+    {
+      "match_id": "top14-2026-10-24-van-cle",
+      "kickoff": "2026-10-24T14:30:00+02:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-24T14:35:21.085Z"
     }
   ]
 }
