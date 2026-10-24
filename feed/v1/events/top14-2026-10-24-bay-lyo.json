@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-bay-lyo",
  "matchId": "top14-2026-10-24-bay-lyo",
- "updated_at": "2026-10-24T16:17:56.431Z",
+ "updated_at": "2026-10-24T16:23:21.640Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604403/competitions/604403/plays?limit=400",
-   "fetched_at": "2026-10-24T16:17:56.431Z",
+   "fetched_at": "2026-10-24T16:23:21.640Z",
    "espn_event_id": "604403",
    "espn_league_id": 270559
   }
@@ -473,15 +473,72 @@
    "playerOn": "Baptiste Heguy",
    "playerOff": "Alexandre Fischer",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901857",
+   "minute": 75,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Joris Segonds",
+   "detail": "Penalty (27-26)",
+   "playerName": "Joris Segonds",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 27,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1901862",
+   "minute": 76,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Iosefo Masi",
+   "detail": "Try (27-31)",
+   "playerName": "Iosefo Masi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1901862-cm",
+   "minute": 76,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (27-31)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 27,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1901872",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Bartholome Sanson",
+   "detail": "replaces Marvin Okuya",
+   "playerOn": "Bartholome Sanson",
+   "playerOff": "Marvin Okuya",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 24,
-  "away": 26
+  "home": 27,
+  "away": 31
  },
  "plays_summed": {
-  "home": 24,
-  "away": 26
+  "home": 27,
+  "away": 31
  }
 }

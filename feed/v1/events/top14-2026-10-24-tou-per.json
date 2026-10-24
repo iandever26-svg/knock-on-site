@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tou-per",
  "matchId": "top14-2026-10-24-tou-per",
- "updated_at": "2026-10-24T16:17:56.431Z",
+ "updated_at": "2026-10-24T16:23:21.640Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604409/competitions/604409/plays?limit=400",
-   "fetched_at": "2026-10-24T16:17:56.431Z",
+   "fetched_at": "2026-10-24T16:23:21.640Z",
    "espn_event_id": "604409",
    "espn_league_id": 270559
   }
@@ -328,6 +328,18 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1901865",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jose Madeira",
+   "detail": "replaces Giorgi Tetrashvili",
+   "playerOn": "Jose Madeira",
+   "playerOff": "Giorgi Tetrashvili",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1901841",
    "minute": 62,
    "period": "2H",
@@ -484,6 +496,51 @@
    }
   },
   {
+   "id": "espn-1901860",
+   "minute": 75,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Maelan Rabut",
+   "detail": "Try (31-24)",
+   "playerName": "Maelan Rabut",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 31,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1901861",
+   "minute": 75,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Aucagne",
+   "detail": "Conversion (31-26)",
+   "playerName": "Antoine Aucagne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 31,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1901867",
+   "minute": 76,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Tom Ecochard",
+   "detail": "Try (31-31)",
+   "playerName": "Tom Ecochard",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 31,
+    "away": 31
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -493,21 +550,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (38-19)",
+   "detail": "Penalty try (inferred, minute unknown) (38-31)",
    "scoreAfter": {
     "home": 38,
-    "away": 19
+    "away": 31
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 38,
-  "away": 19
+  "away": 31
  },
  "plays_summed": {
   "home": 31,
-  "away": 19
+  "away": 31
  },
  "inferred_penalty_tries": [
   {

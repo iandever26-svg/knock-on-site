@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-rac-mon",
  "matchId": "top14-2026-10-24-rac-mon",
- "updated_at": "2026-10-24T16:17:56.431Z",
+ "updated_at": "2026-10-24T16:23:21.640Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604407/competitions/604407/plays?limit=400",
-   "fetched_at": "2026-10-24T16:17:56.431Z",
+   "fetched_at": "2026-10-24T16:23:21.640Z",
    "espn_event_id": "604407",
    "espn_league_id": 270559
   }
@@ -403,6 +403,18 @@
    "detail": "replaces Reda Wardi",
    "playerOn": "Luca Tabarot",
    "playerOff": "Reda Wardi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901858",
+   "minute": 75,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Taniela Tupou",
+   "detail": "replaces Gia Kharaishvili",
+   "playerOn": "Taniela Tupou",
+   "playerOff": "Gia Kharaishvili",
    "label": "Substitution"
   }
  ],
