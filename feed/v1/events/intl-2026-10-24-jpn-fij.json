@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-24-jpn-fij",
  "matchId": "intl-2026-10-24-jpn-fij",
- "updated_at": "2026-10-24T05:59:29.187Z",
+ "updated_at": "2026-10-24T06:04:51.541Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/604593/competitions/604593/plays?limit=400",
-   "fetched_at": "2026-10-24T05:59:29.187Z",
+   "fetched_at": "2026-10-24T06:04:51.541Z",
    "espn_event_id": "604593",
    "espn_league_id": 289234
   }
@@ -44,15 +44,45 @@
     "home": 7,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1901097",
+   "minute": 10,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Kitione Salawa",
+   "detail": "Try (7-5)",
+   "playerName": "Kitione Salawa",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1901098",
+   "minute": 10,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Isaiah Armstrong-Ravula",
+   "detail": "Conversion (7-7)",
+   "playerName": "Isaiah Armstrong-Ravula",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 0
+  "away": 7
  },
  "plays_summed": {
   "home": 7,
-  "away": 0
+  "away": 7
  }
 }
