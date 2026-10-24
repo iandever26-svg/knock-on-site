@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-lei-mun",
   "matchId": "urc-2026-10-24-lei-mun",
-  "updated_at": "2026-10-24T18:36:17+01:00",
+  "updated_at": "2026-10-24T18:46:45+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604062/competitions/604062/plays",
-      "fetched_at": "2026-10-24T18:36:17+01:00",
+      "fetched_at": "2026-10-24T18:46:45+01:00",
       "espn_event_id": "604062",
       "espn_league_id": 270557
     }
@@ -73,6 +73,48 @@
         "home": 0,
         "away": 13
       }
+    },
+    {
+      "id": "espn-1901900",
+      "minute": 34,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Tommy O’Brien",
+      "detail": "Try (5-13)",
+      "playerName": "Tommy O’Brien",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1901900-cm",
+      "minute": 34,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (5-13)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 5,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1901901",
+      "minute": 39,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Gordon Wood",
+      "detail": "replaces Seán O'Brien",
+      "playerOn": "Gordon Wood",
+      "playerOff": "Seán O'Brien",
+      "label": "Substitution"
     }
   ]
 }
