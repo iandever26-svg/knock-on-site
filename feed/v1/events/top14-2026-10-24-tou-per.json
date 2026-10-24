@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tou-per",
  "matchId": "top14-2026-10-24-tou-per",
- "updated_at": "2026-10-24T14:51:40.906Z",
+ "updated_at": "2026-10-24T15:06:11.070Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604409/competitions/604409/plays?limit=400",
-   "fetched_at": "2026-10-24T14:51:40.906Z",
+   "fetched_at": "2026-10-24T15:06:11.070Z",
    "espn_event_id": "604409",
    "espn_league_id": 270559
   }
@@ -65,15 +65,52 @@
     "home": 5,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1901472",
+   "minute": 24,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Diego Mascarenc",
+   "detail": "Yellow card (5-0)",
+   "playerName": "Diego Mascarenc",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "inferred-pt-home-1",
+   "minute": 0,
+   "minuteKnown": false,
+   "period": "1H",
+   "type": "penalty_try",
+   "team": "home",
+   "player": null,
+   "inferred": true,
+   "label": "Penalty try",
+   "detail": "Penalty try (inferred, minute unknown) (12-0)",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 5,
+  "home": 12,
   "away": 0
  },
  "plays_summed": {
   "home": 5,
   "away": 0
- }
+ },
+ "inferred_penalty_tries": [
+  {
+   "team": "home",
+   "minute": null
+  }
+ ]
 }

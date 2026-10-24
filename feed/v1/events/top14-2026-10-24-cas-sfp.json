@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-cas-sfp",
  "matchId": "top14-2026-10-24-cas-sfp",
- "updated_at": "2026-10-24T14:51:40.906Z",
+ "updated_at": "2026-10-24T15:06:11.070Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 10-5, final 7-5; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604405/competitions/604405/plays?limit=400",
-   "fetched_at": "2026-10-24T14:51:40.906Z",
+   "fetched_at": "2026-10-24T15:06:11.070Z",
    "espn_event_id": "604405",
    "espn_league_id": 270559
   }
@@ -22,13 +23,9 @@
    "type": "try",
    "team": "away",
    "player": "Samuel Ezeala",
-   "detail": "Try (0-5)",
+   "detail": "Try",
    "playerName": "Samuel Ezeala",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 0,
-    "away": 5
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1901436-cm",
@@ -37,13 +34,9 @@
    "type": "conversion_missed",
    "team": "away",
    "player": null,
-   "detail": "Conversion missed (inferred) (0-5)",
+   "detail": "Conversion missed (inferred)",
    "label": "Conversion missed",
-   "inferred": true,
-   "scoreAfter": {
-    "home": 0,
-    "away": 5
-   }
+   "inferred": true
   },
   {
    "id": "espn-1901452",
@@ -52,13 +45,9 @@
    "type": "try",
    "team": "home",
    "player": "Adrea Cocagi",
-   "detail": "Try (5-5)",
+   "detail": "Try",
    "playerName": "Adrea Cocagi",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 5
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1901453",
@@ -67,13 +56,20 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Louis Le Brun",
-   "detail": "Conversion (7-5)",
+   "detail": "Conversion",
    "playerName": "Louis Le Brun",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 5
-   }
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1901475",
+   "minute": 33,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Louis Le Brun",
+   "detail": "Penalty",
+   "playerName": "Louis Le Brun",
+   "label": "Penalty"
   }
  ],
  "score_source": "espn_scoreboard",
@@ -82,7 +78,11 @@
   "away": 5
  },
  "plays_summed": {
-  "home": 7,
+  "home": 10,
   "away": 5
+ },
+ "unexplained_gap": {
+  "home": -3,
+  "away": 0
  }
 }
