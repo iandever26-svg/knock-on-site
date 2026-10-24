@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tln-pau",
  "matchId": "top14-2026-10-24-tln-pau",
- "updated_at": "2026-10-24T20:19:43.383Z",
+ "updated_at": "2026-10-24T20:25:05.596Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
-   "fetched_at": "2026-10-24T20:19:43.383Z",
+   "fetched_at": "2026-10-24T20:25:05.596Z",
    "espn_event_id": "604408",
    "espn_league_id": 270559
   }
@@ -320,6 +320,66 @@
     "home": 38,
     "away": 6
    }
+  },
+  {
+   "id": "espn-1902113",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Antoine Frisch",
+   "detail": "replaces Juan Ignacio Brex",
+   "playerOn": "Antoine Frisch",
+   "playerOff": "Juan Ignacio Brex",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902115",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ben White",
+   "detail": "replaces Baptiste Serin",
+   "playerOn": "Ben White",
+   "playerOff": "Baptiste Serin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902119",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Siate Tokolahi",
+   "detail": "replaces Thomas Laclayat",
+   "playerOn": "Siate Tokolahi",
+   "playerOff": "Thomas Laclayat",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902121",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Youri Delhommel",
+   "detail": "replaces Julian Montoya",
+   "playerOn": "Youri Delhommel",
+   "playerOff": "Julian Montoya",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902123",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Hugo Parrou",
+   "detail": "replaces Lekso Kaulashvili",
+   "playerOn": "Hugo Parrou",
+   "playerOff": "Lekso Kaulashvili",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
