@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-lei-mun",
   "matchId": "urc-2026-10-24-lei-mun",
-  "updated_at": "2026-10-24T19:34:58+01:00",
+  "updated_at": "2026-10-24T19:40:18+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604062/competitions/604062/plays",
-      "fetched_at": "2026-10-24T19:34:58+01:00",
+      "fetched_at": "2026-10-24T19:40:18+01:00",
       "espn_event_id": "604062",
       "espn_league_id": 270557
     }
@@ -309,6 +309,42 @@
       "detail": "replaces Josh van der Flier",
       "playerOn": "Scott Penny",
       "playerOff": "Josh van der Flier",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901966",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Conor O’Tighearnaigh",
+      "detail": "replaces James Ryan",
+      "playerOn": "Conor O’Tighearnaigh",
+      "playerOff": "James Ryan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901968",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Fintan Gunne",
+      "detail": "replaces Tommy O’Brien",
+      "playerOn": "Fintan Gunne",
+      "playerOff": "Tommy O’Brien",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901974",
+      "minute": 70,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Charlie O'Shea",
+      "detail": "replaces Shane Daly",
+      "playerOn": "Charlie O'Shea",
+      "playerOff": "Shane Daly",
       "label": "Substitution"
     }
   ]

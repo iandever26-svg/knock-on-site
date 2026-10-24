@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-24T19:35:05+01:00",
-  "updatedAt": "2026-10-24T19:35:05+01:00",
+  "generatedAt": "2026-10-24T19:40:18+01:00",
+  "updatedAt": "2026-10-24T19:40:18+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -669,24 +669,24 @@
       "away_score": 24,
       "clock": "FT",
       "period": "FT",
-      "updated_at": "2026-10-24T19:34:55+01:00",
+      "updated_at": "2026-10-24T19:40:14+01:00",
       "provenance": [
         {
           "source_name": "highlightly",
           "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-24&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-24T19:34:55+01:00",
+          "fetched_at": "2026-10-24T19:40:14+01:00",
           "highlightly_match_id": 45669699,
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
+      "home_tries": 2,
+      "away_tries": 4,
+      "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-24T16:07:12+01:00",
       "latest_event_minute": 69,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-24T16:36:02+01:00",
-      "home_tries": 2,
-      "away_tries": 4,
-      "tries_source": "espn_events"
+      "latest_event_seen_at": "2026-10-24T16:36:02+01:00"
     },
     {
       "schema_version": "1.0.0",
@@ -696,24 +696,24 @@
       "away_score": 26,
       "clock": "FT",
       "period": "FT",
-      "updated_at": "2026-10-24T19:34:55+01:00",
+      "updated_at": "2026-10-24T19:40:14+01:00",
       "provenance": [
         {
           "source_name": "highlightly",
           "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-24&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-24T19:34:55+01:00",
+          "fetched_at": "2026-10-24T19:40:14+01:00",
           "highlightly_match_id": 45668848,
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
+      "home_tries": 4,
+      "away_tries": 4,
+      "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-24T13:56:17+01:00",
       "latest_event_minute": 82,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-24T14:48:36+01:00",
-      "home_tries": 4,
-      "away_tries": 4,
-      "tries_source": "espn_events"
+      "latest_event_seen_at": "2026-10-24T14:48:36+01:00"
     },
     {
       "schema_version": "1.0.0",
@@ -723,48 +723,50 @@
       "away_score": 13,
       "clock": null,
       "period": "2H",
-      "updated_at": "2026-10-24T19:34:55+01:00",
+      "updated_at": "2026-10-24T19:40:14+01:00",
       "provenance": [
         {
           "source_name": "highlightly",
           "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-24&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-24T19:34:55+01:00",
+          "fetched_at": "2026-10-24T19:40:14+01:00",
           "highlightly_match_id": 45671401,
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
-      "second_half_seen_at": "2026-10-24T19:05:33+01:00",
-      "latest_event_minute": 68,
-      "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-24T19:34:58+01:00",
       "home_tries": 3,
       "away_tries": 1,
-      "tries_source": "espn_events"
+      "tries_source": "espn_events",
+      "second_half_seen_at": "2026-10-24T19:05:33+01:00",
+      "latest_event_minute": 70,
+      "latest_event_period": "2H",
+      "latest_event_seen_at": "2026-10-24T19:40:18+01:00"
     },
     {
       "schema_version": "1.0.0",
       "match_id": "urc-2026-10-24-osp-dra",
       "status": "live",
-      "home_score": 7,
+      "home_score": 0,
       "away_score": 0,
       "clock": null,
       "period": "1H",
-      "updated_at": "2026-10-24T19:35:04+01:00",
+      "updated_at": "2026-10-24T19:40:14+01:00",
       "provenance": [
         {
-          "source_name": "espn",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20261024",
-          "fetched_at": "2026-10-24T19:35:04+01:00",
-          "espn_event_id": "604063"
+          "source_name": "highlightly",
+          "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-24&timezone=Europe%2FDublin&limit=40",
+          "fetched_at": "2026-10-24T19:40:14+01:00",
+          "highlightly_match_id": 45672252,
+          "highlightly_league_id": 65460,
+          "highlightly_league_name": "United Rugby Championship"
         }
       ],
-      "home_tries": 1,
+      "home_tries": 2,
       "away_tries": 0,
       "tries_source": "espn_events",
-      "latest_event_minute": 7,
+      "latest_event_minute": 30,
       "latest_event_period": "1H",
-      "latest_event_seen_at": "2026-10-24T19:10:50+01:00"
+      "latest_event_seen_at": "2026-10-24T19:40:18+01:00"
     },
     {
       "schema_version": "1.0.0",
@@ -774,24 +776,24 @@
       "away_score": 40,
       "clock": "FT",
       "period": "FT",
-      "updated_at": "2026-10-24T19:34:55+01:00",
+      "updated_at": "2026-10-24T19:40:14+01:00",
       "provenance": [
         {
           "source_name": "highlightly",
           "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-24&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-24T19:34:55+01:00",
+          "fetched_at": "2026-10-24T19:40:14+01:00",
           "highlightly_match_id": 45670550,
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
+      "home_tries": 8,
+      "away_tries": 6,
+      "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-24T16:07:12+01:00",
       "latest_event_minute": 80,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-24T17:02:36+01:00",
-      "home_tries": 8,
-      "away_tries": 6,
-      "tries_source": "espn_events"
+      "latest_event_seen_at": "2026-10-24T17:02:36+01:00"
     }
   ]
 }
