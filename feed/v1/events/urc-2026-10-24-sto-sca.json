@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-sto-sca",
   "matchId": "urc-2026-10-24-sto-sca",
-  "updated_at": "2026-10-24T15:41:25+01:00",
+  "updated_at": "2026-10-24T15:46:19+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604060/competitions/604060/plays",
-      "fetched_at": "2026-10-24T15:41:25+01:00",
+      "fetched_at": "2026-10-24T15:46:19+01:00",
       "espn_event_id": "604060",
       "espn_league_id": 270557
     }
@@ -216,7 +216,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1901428",
+      "id": "espn-1901430",
       "minute": 34,
       "period": "1H",
       "type": "try",
@@ -244,6 +244,18 @@
         "home": 26,
         "away": 14
       }
+    },
+    {
+      "id": "espn-1901431",
+      "minute": 37,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Lukhanyo Vokozela",
+      "detail": "replaces André-Hugo Venter",
+      "playerOn": "Lukhanyo Vokozela",
+      "playerOff": "André-Hugo Venter",
+      "label": "Substitution"
     }
   ]
 }
