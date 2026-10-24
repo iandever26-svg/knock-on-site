@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-24-bri-exe",
  "matchId": "prem-2026-10-24-bri-exe",
- "updated_at": "2026-10-24T18:00:14.468Z",
+ "updated_at": "2026-10-24T18:07:39.490Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604631/competitions/604631/plays?limit=400",
-   "fetched_at": "2026-10-24T18:00:14.468Z",
+   "fetched_at": "2026-10-24T18:07:39.490Z",
    "espn_event_id": "604631",
    "espn_league_id": 267979
   }
@@ -231,6 +231,42 @@
    "detail": "replaces Tomas Gwilliam",
    "playerOn": "Sol Moody",
    "playerOff": "Tomas Gwilliam",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901926",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jimmy Roots",
+   "detail": "replaces Josh Iosefa-Scott",
+   "playerOn": "Jimmy Roots",
+   "playerOff": "Josh Iosefa-Scott",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901928",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ethan Burger",
+   "detail": "replaces Nika Abuladze",
+   "playerOn": "Ethan Burger",
+   "playerOff": "Nika Abuladze",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901932",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Josh Caulfield",
+   "detail": "replaces Joe Batley",
+   "playerOn": "Josh Caulfield",
+   "playerOff": "Joe Batley",
    "label": "Substitution"
   }
  ],
