@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-24-jpn-fij",
  "matchId": "intl-2026-10-24-jpn-fij",
- "updated_at": "2026-10-24T06:17:04.455Z",
+ "updated_at": "2026-10-24T06:33:34.415Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/604593/competitions/604593/plays?limit=400",
-   "fetched_at": "2026-10-24T06:17:04.455Z",
+   "fetched_at": "2026-10-24T06:33:34.415Z",
    "espn_event_id": "604593",
    "espn_league_id": 289234
   }
@@ -164,15 +164,60 @@
     "home": 14,
     "away": 21
    }
+  },
+  {
+   "id": "espn-1901106",
+   "minute": 34,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Motikiai Murray",
+   "detail": "Yellow card (14-21)",
+   "playerName": "Motikiai Murray",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 14,
+    "away": 21
+   }
+  },
+  {
+   "id": "espn-1901111",
+   "minute": 35,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Faulua Makisi",
+   "detail": "Try (19-21)",
+   "playerName": "Faulua Makisi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 21
+   }
+  },
+  {
+   "id": "espn-1901112",
+   "minute": 36,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Takuro Matsunaga",
+   "detail": "Conversion (21-21)",
+   "playerName": "Takuro Matsunaga",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 21
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
+  "home": 21,
   "away": 21
  },
  "plays_summed": {
-  "home": 14,
+  "home": 21,
   "away": 21
  }
 }
