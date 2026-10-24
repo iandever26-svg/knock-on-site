@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-osp-dra",
   "matchId": "urc-2026-10-24-osp-dra",
-  "updated_at": "2026-10-24T20:42:33+01:00",
+  "updated_at": "2026-10-24T20:47:46+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604063/competitions/604063/plays",
-      "fetched_at": "2026-10-24T20:42:33+01:00",
+      "fetched_at": "2026-10-24T20:47:46+01:00",
       "espn_event_id": "604063",
       "espn_league_id": 270557
     }
@@ -362,8 +362,8 @@
       }
     },
     {
-      "id": "espn-1902070",
-      "minute": 67,
+      "id": "espn-1902072",
+      "minute": 68,
       "period": "2H",
       "type": "substitution",
       "team": "home",
@@ -372,6 +372,21 @@
       "playerOn": "Luke Davies",
       "playerOff": "Reuben Morgan-Williams",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1902076",
+      "minute": 68,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Aneurin Owen",
+      "detail": "Yellow card (24-14)",
+      "playerName": "Aneurin Owen",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 24,
+        "away": 14
+      }
     }
   ]
 }
