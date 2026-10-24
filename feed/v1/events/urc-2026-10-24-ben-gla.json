@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-ben-gla",
   "matchId": "urc-2026-10-24-ben-gla",
-  "updated_at": "2026-10-24T16:07:12+01:00",
+  "updated_at": "2026-10-24T16:13:37+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604061/competitions/604061/plays",
-      "fetched_at": "2026-10-24T16:07:12+01:00",
+      "fetched_at": "2026-10-24T16:13:37+01:00",
       "espn_event_id": "604061",
       "espn_league_id": 270557
     }
@@ -136,6 +136,63 @@
       "playerOn": "Alex Craig",
       "playerOff": "Max Williamson",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1901493",
+      "minute": 46,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Mattia Midena",
+      "detail": "Yellow card (17-0)",
+      "playerName": "Mattia Midena",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 17,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1901496",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Paolo Odogwu",
+      "detail": "replaces Federico Zanandrea",
+      "playerOn": "Paolo Odogwu",
+      "playerOff": "Federico Zanandrea",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901499",
+      "minute": 50,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Euan Ferrie",
+      "detail": "Try (17-5)",
+      "playerName": "Euan Ferrie",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1901502",
+      "minute": 51,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Matthew Urwin",
+      "detail": "Conversion (17-7)",
+      "playerName": "Matthew Urwin",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 17,
+        "away": 7
+      }
     }
   ]
 }

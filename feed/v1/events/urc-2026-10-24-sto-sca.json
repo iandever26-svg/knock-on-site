@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-sto-sca",
   "matchId": "urc-2026-10-24-sto-sca",
-  "updated_at": "2026-10-24T16:07:12+01:00",
+  "updated_at": "2026-10-24T16:13:37+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604060/competitions/604060/plays",
-      "fetched_at": "2026-10-24T16:07:12+01:00",
+      "fetched_at": "2026-10-24T16:13:37+01:00",
       "espn_event_id": "604060",
       "espn_league_id": 270557
     }
@@ -328,6 +328,84 @@
       "playerOn": "JD Schickerling",
       "playerOff": "Deon Fourie",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1901483",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sam O'Connor",
+      "detail": "replaces Kemsley Mathias",
+      "playerOn": "Sam O'Connor",
+      "playerOff": "Kemsley Mathias",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901485",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Gabe Hawley",
+      "detail": "replaces Harri O'Connor",
+      "playerOn": "Gabe Hawley",
+      "playerOff": "Harri O'Connor",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901487",
+      "minute": 46,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Joe Roberts",
+      "detail": "Try (33-26)",
+      "playerName": "Joe Roberts",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 33,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1901488",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Neethling Fouché",
+      "detail": "replaces Zachary Porthen",
+      "playerOn": "Neethling Fouché",
+      "playerOff": "Zachary Porthen",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901490",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Olly Reid",
+      "detail": "replaces Ntuthuko Mchunu",
+      "playerOn": "Olly Reid",
+      "playerOff": "Ntuthuko Mchunu",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901492",
+      "minute": 47,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Joe Roberts",
+      "detail": "Conversion (33-28)",
+      "playerName": "Joe Roberts",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 33,
+        "away": 28
+      }
     }
   ]
 }
