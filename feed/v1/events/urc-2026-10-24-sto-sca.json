@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-sto-sca",
   "matchId": "urc-2026-10-24-sto-sca",
-  "updated_at": "2026-10-24T15:36:11+01:00",
+  "updated_at": "2026-10-24T15:41:25+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604060/competitions/604060/plays",
-      "fetched_at": "2026-10-24T15:36:11+01:00",
+      "fetched_at": "2026-10-24T15:41:25+01:00",
       "espn_event_id": "604060",
       "espn_league_id": 270557
     }
@@ -171,6 +171,78 @@
       "scoreAfter": {
         "home": 19,
         "away": 7
+      }
+    },
+    {
+      "id": "espn-1901417",
+      "minute": 31,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Ioan Jones",
+      "detail": "Try (19-12)",
+      "playerName": "Ioan Jones",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1901418",
+      "minute": 32,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Carwyn Leggatt-Jones",
+      "detail": "Conversion (19-14)",
+      "playerName": "Carwyn Leggatt-Jones",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1901426",
+      "minute": 33,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Deon Fourie",
+      "detail": "replaces Hacjivah Dayimani",
+      "playerOn": "Deon Fourie",
+      "playerOff": "Hacjivah Dayimani",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901428",
+      "minute": 34,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Seabelo Senatla",
+      "detail": "Try (24-14)",
+      "playerName": "Seabelo Senatla",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1901429",
+      "minute": 35,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sacha Feinberg-Mngomezulu",
+      "detail": "Conversion (26-14)",
+      "playerName": "Sacha Feinberg-Mngomezulu",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 26,
+        "away": 14
       }
     }
   ]
