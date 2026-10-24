@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-rac-mon",
  "matchId": "top14-2026-10-24-rac-mon",
- "updated_at": "2026-10-24T16:07:06.738Z",
+ "updated_at": "2026-10-24T16:12:31.890Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604407/competitions/604407/plays?limit=400",
-   "fetched_at": "2026-10-24T16:07:06.738Z",
+   "fetched_at": "2026-10-24T16:12:31.890Z",
    "espn_event_id": "604407",
    "espn_league_id": 270559
   }
@@ -338,15 +338,57 @@
    "playerOn": "Sebastien Bezy",
    "playerOff": "Ruben van Heerden",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901829",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jordan Joseph",
+   "detail": "replaces Thomas Lainault",
+   "playerOn": "Jordan Joseph",
+   "playerOff": "Thomas Lainault",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901825",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Josua Tuisova",
+   "detail": "Try (15-20)",
+   "playerName": "Josua Tuisova",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1901828",
+   "minute": 68,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Gibert",
+   "detail": "Conversion (17-20)",
+   "playerName": "Antoine Gibert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 20
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 10,
+  "home": 17,
   "away": 20
  },
  "plays_summed": {
-  "home": 10,
+  "home": 17,
   "away": 20
  }
 }

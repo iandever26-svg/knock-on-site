@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-bay-lyo",
  "matchId": "top14-2026-10-24-bay-lyo",
- "updated_at": "2026-10-24T16:07:06.738Z",
+ "updated_at": "2026-10-24T16:12:31.890Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604403/competitions/604403/plays?limit=400",
-   "fetched_at": "2026-10-24T16:07:06.738Z",
+   "fetched_at": "2026-10-24T16:12:31.890Z",
    "espn_event_id": "604403",
    "espn_league_id": 270559
   }
@@ -436,6 +436,30 @@
    "detail": "replaces Guillaume Marchand",
    "playerOn": "Camille Chat",
    "playerOff": "Guillaume Marchand",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901821",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Baptiste Tilloles",
+   "detail": "replaces Leo Coly",
+   "playerOn": "Baptiste Tilloles",
+   "playerOff": "Leo Coly",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901826",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Janse Roux",
+   "detail": "replaces Mickael Guillard",
+   "playerOn": "Janse Roux",
+   "playerOff": "Mickael Guillard",
    "label": "Substitution"
   }
  ],

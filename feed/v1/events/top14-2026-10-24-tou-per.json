@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tou-per",
  "matchId": "top14-2026-10-24-tou-per",
- "updated_at": "2026-10-24T16:07:06.738Z",
+ "updated_at": "2026-10-24T16:12:31.890Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 38-12, final 38-7; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604409/competitions/604409/plays?limit=400",
-   "fetched_at": "2026-10-24T16:07:06.738Z",
+   "fetched_at": "2026-10-24T16:12:31.890Z",
    "espn_event_id": "604409",
    "espn_league_id": 270559
   }
@@ -22,8 +21,10 @@
    "period": "1H",
    "type": "substitution",
    "team": "home",
-   "player": null,
-   "detail": null,
+   "player": "Romeo Bonnard Martin",
+   "detail": "replaces Joshua Brennan",
+   "playerOn": "Romeo Bonnard Martin",
+   "playerOff": "Joshua Brennan",
    "label": "Substitution"
   },
   {
@@ -32,8 +33,10 @@
    "period": "1H",
    "type": "substitution",
    "team": "home",
-   "player": null,
-   "detail": null,
+   "player": "Tomas Rapetti",
+   "detail": "replaces Dorian Aldegheri",
+   "playerOn": "Tomas Rapetti",
+   "playerOff": "Dorian Aldegheri",
    "label": "Substitution"
   },
   {
@@ -42,8 +45,10 @@
    "period": "1H",
    "type": "substitution",
    "team": "home",
-   "player": null,
-   "detail": null,
+   "player": "Joshua Brennan",
+   "detail": "replaces Romeo Bonnard Martin",
+   "playerOn": "Joshua Brennan",
+   "playerOff": "Romeo Bonnard Martin",
    "label": "Substitution"
   },
   {
@@ -52,9 +57,14 @@
    "period": "1H",
    "type": "try",
    "team": "home",
-   "player": null,
-   "detail": "Try",
-   "label": "Try"
+   "player": "Matthis Lebel",
+   "detail": "Try (5-0)",
+   "playerName": "Matthis Lebel",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1901472",
@@ -62,9 +72,14 @@
    "period": "1H",
    "type": "yellow_card",
    "team": "away",
-   "player": null,
-   "detail": "Yellow card",
-   "label": "Yellow card"
+   "player": "Diego Mascarenc",
+   "detail": "Yellow card (5-0)",
+   "playerName": "Diego Mascarenc",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1901521",
@@ -72,9 +87,14 @@
    "period": "1H",
    "type": "try",
    "team": "away",
-   "player": null,
-   "detail": "Try",
-   "label": "Try"
+   "player": "Lorencio Boyer Gallardo",
+   "detail": "Try (5-5)",
+   "playerName": "Lorencio Boyer Gallardo",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 5
+   }
   },
   {
    "id": "espn-1901523",
@@ -82,9 +102,14 @@
    "period": "1H",
    "type": "conversion_made",
    "team": "away",
-   "player": null,
-   "detail": "Conversion",
-   "label": "Conversion"
+   "player": "Paolo Garbisi",
+   "detail": "Conversion (5-7)",
+   "playerName": "Paolo Garbisi",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 5,
+    "away": 7
+   }
   },
   {
    "id": "espn-1901535",
@@ -92,9 +117,14 @@
    "period": "1H",
    "type": "try",
    "team": "home",
-   "player": null,
-   "detail": "Try",
-   "label": "Try"
+   "player": "Joshua Brennan",
+   "detail": "Try (10-7)",
+   "playerName": "Joshua Brennan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 7
+   }
   },
   {
    "id": "espn-1901600",
@@ -102,8 +132,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": null,
-   "detail": null,
+   "player": "Giorgi Tetrashvili",
+   "detail": "replaces Lorencio Boyer Gallardo",
+   "playerOn": "Giorgi Tetrashvili",
+   "playerOff": "Lorencio Boyer Gallardo",
    "label": "Substitution"
   },
   {
@@ -112,8 +144,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": null,
-   "detail": null,
+   "player": "Pietro Ceccarelli",
+   "detail": "replaces Marco Riccioni",
+   "playerOn": "Pietro Ceccarelli",
+   "playerOff": "Marco Riccioni",
    "label": "Substitution"
   },
   {
@@ -122,9 +156,14 @@
    "period": "2H",
    "type": "try",
    "team": "home",
-   "player": null,
-   "detail": "Try",
-   "label": "Try"
+   "player": "Anthony Jelonch",
+   "detail": "Try (15-7)",
+   "playerName": "Anthony Jelonch",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 7
+   }
   },
   {
    "id": "espn-1901614",
@@ -132,9 +171,14 @@
    "period": "2H",
    "type": "conversion_made",
    "team": "home",
-   "player": null,
-   "detail": "Conversion",
-   "label": "Conversion"
+   "player": "Blair Kinghorn",
+   "detail": "Conversion (17-7)",
+   "playerName": "Blair Kinghorn",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 7
+   }
   },
   {
    "id": "espn-1901625",
@@ -142,9 +186,14 @@
    "period": "2H",
    "type": "try",
    "team": "home",
-   "player": null,
-   "detail": "Try",
-   "label": "Try"
+   "player": "Matthis Lebel",
+   "detail": "Try (22-7)",
+   "playerName": "Matthis Lebel",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 7
+   }
   },
   {
    "id": "espn-1901626",
@@ -152,9 +201,14 @@
    "period": "2H",
    "type": "conversion_made",
    "team": "home",
-   "player": null,
-   "detail": "Conversion",
-   "label": "Conversion"
+   "player": "Blair Kinghorn",
+   "detail": "Conversion (24-7)",
+   "playerName": "Blair Kinghorn",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 24,
+    "away": 7
+   }
   },
   {
    "id": "espn-1901670",
@@ -162,8 +216,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": null,
-   "detail": null,
+   "player": "Posolo Tuilagi",
+   "detail": "replaces Mathieu Tanguy",
+   "playerOn": "Posolo Tuilagi",
+   "playerOff": "Mathieu Tanguy",
    "label": "Substitution"
   },
   {
@@ -172,8 +228,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": null,
-   "detail": null,
+   "player": "Jules Coulon",
+   "detail": "replaces Noe Della Schiava",
+   "playerOn": "Jules Coulon",
+   "playerOff": "Noe Della Schiava",
    "label": "Substitution"
   },
   {
@@ -182,9 +240,14 @@
    "period": "2H",
    "type": "yellow_card",
    "team": "away",
-   "player": null,
-   "detail": "Yellow card",
-   "label": "Yellow card"
+   "player": "Giorgi Tetrashvili",
+   "detail": "Yellow card (24-7)",
+   "playerName": "Giorgi Tetrashvili",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 24,
+    "away": 7
+   }
   },
   {
    "id": "espn-1901714",
@@ -192,8 +255,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": null,
-   "detail": null,
+   "player": "Benjamin Bertrand",
+   "detail": "replaces Cyril Baille",
+   "playerOn": "Benjamin Bertrand",
+   "playerOff": "Cyril Baille",
    "label": "Substitution"
   },
   {
@@ -202,9 +267,14 @@
    "period": "2H",
    "type": "try",
    "team": "home",
-   "player": null,
-   "detail": "Try",
-   "label": "Try"
+   "player": "Teddy Thomas",
+   "detail": "Try (29-7)",
+   "playerName": "Teddy Thomas",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 7
+   }
   },
   {
    "id": "espn-1901708",
@@ -212,9 +282,14 @@
    "period": "2H",
    "type": "conversion_made",
    "team": "home",
-   "player": null,
-   "detail": "Conversion",
-   "label": "Conversion"
+   "player": "Blair Kinghorn",
+   "detail": "Conversion (31-7)",
+   "playerName": "Blair Kinghorn",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 31,
+    "away": 7
+   }
   },
   {
    "id": "espn-1901750",
@@ -222,8 +297,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": null,
-   "detail": null,
+   "player": "Tom Ecochard",
+   "detail": "replaces James Hall",
+   "playerOn": "Tom Ecochard",
+   "playerOff": "James Hall",
    "label": "Substitution"
   },
   {
@@ -232,8 +309,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": null,
-   "detail": null,
+   "player": "Lorencio Boyer Gallardo",
+   "detail": "replaces Jose Madeira",
+   "playerOn": "Lorencio Boyer Gallardo",
+   "playerOff": "Jose Madeira",
    "label": "Substitution"
   },
   {
@@ -242,8 +321,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": null,
-   "detail": null,
+   "player": "Romeo Bonnard Martin",
+   "detail": "replaces Anthony Jelonch",
+   "playerOn": "Romeo Bonnard Martin",
+   "playerOff": "Anthony Jelonch",
    "label": "Substitution"
   },
   {
@@ -252,8 +333,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": null,
-   "detail": null,
+   "player": "Antoine Dupont",
+   "detail": "replaces Paul Graou",
+   "playerOn": "Antoine Dupont",
+   "playerOff": "Paul Graou",
    "label": "Substitution"
   },
   {
@@ -262,8 +345,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": null,
-   "detail": null,
+   "player": "Mathys Lotrian",
+   "detail": "replaces Victor Montgaillard",
+   "playerOn": "Mathys Lotrian",
+   "playerOff": "Victor Montgaillard",
    "label": "Substitution"
   },
   {
@@ -272,8 +357,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": null,
-   "detail": null,
+   "player": "Peceli Yato",
+   "detail": "replaces Matteo Le Corvec",
+   "playerOn": "Peceli Yato",
+   "playerOff": "Matteo Le Corvec",
    "label": "Substitution"
   },
   {
@@ -282,8 +369,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": null,
-   "detail": null,
+   "player": "Romain Ntamack",
+   "detail": "replaces Blair Kinghorn",
+   "playerOn": "Romain Ntamack",
+   "playerOff": "Blair Kinghorn",
    "label": "Substitution"
   },
   {
@@ -292,8 +381,10 @@
    "period": "2H",
    "type": "substitution",
    "team": "home",
-   "player": null,
-   "detail": null,
+   "player": "Mathis Castro-Ferreira",
+   "detail": "replaces Theo Ntamack",
+   "playerOn": "Mathis Castro-Ferreira",
+   "playerOff": "Theo Ntamack",
    "label": "Substitution"
   },
   {
@@ -302,9 +393,53 @@
    "period": "2H",
    "type": "try",
    "team": "away",
+   "player": "Maxim Granell",
+   "detail": "Try (31-12)",
+   "playerName": "Maxim Granell",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 31,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1901807-cm",
+   "minute": 63,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
    "player": null,
-   "detail": "Try",
-   "label": "Try"
+   "detail": "Conversion missed (inferred) (31-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 31,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1901813",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sevu Reece",
+   "detail": "replaces Theo Forner",
+   "playerOn": "Sevu Reece",
+   "playerOff": "Theo Forner",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901817",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thomas Lacombre",
+   "detail": "replaces Peato Mauvaka",
+   "playerOn": "Thomas Lacombre",
+   "playerOff": "Peato Mauvaka",
+   "label": "Substitution"
   },
   {
    "id": "inferred-pt-home-1",
@@ -316,13 +451,17 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown)"
+   "detail": "Penalty try (inferred, minute unknown) (38-12)",
+   "scoreAfter": {
+    "home": 38,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 38,
-  "away": 7
+  "away": 12
  },
  "plays_summed": {
   "home": 31,
@@ -333,9 +472,5 @@
    "team": "home",
    "minute": null
   }
- ],
- "unexplained_gap": {
-  "home": 0,
-  "away": -5
- }
+ ]
 }
