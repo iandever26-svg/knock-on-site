@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-sto-sca",
   "matchId": "urc-2026-10-24-sto-sca",
-  "updated_at": "2026-10-24T16:52:55+01:00",
-  "final": false,
+  "updated_at": "2026-10-24T17:02:36+01:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604060/competitions/604060/plays",
-      "fetched_at": "2026-10-24T16:52:55+01:00",
+      "fetched_at": "2026-10-24T17:02:36+01:00",
       "espn_event_id": "604060",
       "espn_league_id": 270557
     }
@@ -393,14 +394,14 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1901492",
+      "id": "espn-1901755",
       "minute": 47,
       "period": "2H",
       "type": "conversion_made",
       "team": "away",
-      "player": "Joe Roberts",
+      "player": "Carwyn Leggatt-Jones",
       "detail": "Conversion (33-28)",
-      "playerName": "Joe Roberts",
+      "playerName": "Carwyn Leggatt-Jones",
       "label": "Conversion",
       "scoreAfter": {
         "home": 33,
@@ -647,8 +648,20 @@
       }
     },
     {
-      "id": "espn-1901681",
-      "minute": 77,
+      "id": "espn-1901718",
+      "minute": 76,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cobus Reinach",
+      "detail": "replaces Haashim Pead",
+      "playerOn": "Cobus Reinach",
+      "playerOff": "Haashim Pead",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901716",
+      "minute": 76,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -657,6 +670,36 @@
       "playerOn": "Gareth Anscombe",
       "playerOff": "Carwyn Leggatt-Jones",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1901740",
+      "minute": 80,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Yaqeen Ahmed",
+      "detail": "Try (52-40)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 52,
+        "away": 40
+      }
+    },
+    {
+      "id": "espn-1901740-cm",
+      "minute": 80,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (52-40)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 52,
+        "away": 40
+      }
     }
   ]
 }
