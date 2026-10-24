@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-24-lec-nor",
  "matchId": "prem-2026-10-24-lec-nor",
- "updated_at": "2026-10-24T15:06:11.070Z",
+ "updated_at": "2026-10-24T15:13:31.359Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604630/competitions/604630/plays?limit=400",
-   "fetched_at": "2026-10-24T15:06:11.070Z",
+   "fetched_at": "2026-10-24T15:13:31.359Z",
    "espn_event_id": "604630",
    "espn_league_id": 267979
   }
@@ -83,15 +83,30 @@
    "playerOn": "Ollie Chessum",
    "playerOff": "Joaquin Moro",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901500",
+   "minute": 44,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Jamie Blamire",
+   "detail": "Try (8-7)",
+   "playerName": "Jamie Blamire",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 8,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 3,
+  "home": 8,
   "away": 7
  },
  "plays_summed": {
-  "home": 3,
+  "home": 8,
   "away": 7
  }
 }
