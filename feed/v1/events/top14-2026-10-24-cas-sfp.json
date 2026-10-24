@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-cas-sfp",
  "matchId": "top14-2026-10-24-cas-sfp",
- "updated_at": "2026-10-24T15:25:31.530Z",
+ "updated_at": "2026-10-24T15:30:53.750Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604405/competitions/604405/plays?limit=400",
-   "fetched_at": "2026-10-24T15:25:31.530Z",
+   "fetched_at": "2026-10-24T15:30:53.750Z",
    "espn_event_id": "604405",
    "espn_league_id": 270559
   }
@@ -76,8 +76,8 @@
    }
   },
   {
-   "id": "espn-1901475",
-   "minute": 33,
+   "id": "espn-1901572",
+   "minute": 27,
    "period": "1H",
    "type": "penalty_goal_made",
    "team": "home",
@@ -91,8 +91,8 @@
    }
   },
   {
-   "id": "espn-1901507",
-   "minute": 40,
+   "id": "espn-1901573",
+   "minute": 34,
    "period": "1H",
    "type": "substitution",
    "team": "home",

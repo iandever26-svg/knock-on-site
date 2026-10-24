@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-24-lec-nor",
  "matchId": "prem-2026-10-24-lec-nor",
- "updated_at": "2026-10-24T15:25:31.530Z",
+ "updated_at": "2026-10-24T15:30:53.750Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604630/competitions/604630/plays?limit=400",
-   "fetched_at": "2026-10-24T15:25:31.530Z",
+   "fetched_at": "2026-10-24T15:30:53.750Z",
    "espn_event_id": "604630",
    "espn_league_id": 267979
   }
@@ -167,15 +167,69 @@
    "playerOn": "Ion Neculai",
    "playerOff": "Cleopas Kundiona",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901571",
+   "minute": 57,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Finn Carnduff",
+   "detail": "Try (18-7)",
+   "playerName": "Finn Carnduff",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 18,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901571-cm",
+   "minute": 57,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (18-7)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 18,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901576",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tom Lockett",
+   "detail": "replaces Tom Pearson",
+   "playerOn": "Tom Lockett",
+   "playerOff": "Tom Pearson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901578",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Archie McParland",
+   "detail": "replaces Alex Mitchell",
+   "playerOn": "Archie McParland",
+   "playerOff": "Alex Mitchell",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 13,
+  "home": 18,
   "away": 7
  },
  "plays_summed": {
-  "home": 13,
+  "home": 18,
   "away": 7
  }
 }
