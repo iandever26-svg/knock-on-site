@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-24-jpn-fij",
  "matchId": "intl-2026-10-24-jpn-fij",
- "updated_at": "2026-10-24T06:59:02.256Z",
+ "updated_at": "2026-10-24T07:04:34.375Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/604593/competitions/604593/plays?limit=400",
-   "fetched_at": "2026-10-24T06:59:02.256Z",
+   "fetched_at": "2026-10-24T07:04:34.375Z",
    "espn_event_id": "604593",
    "espn_league_id": 289234
   }
@@ -251,15 +251,81 @@
    "playerOn": "Sojiro Otsuka",
    "playerOff": "Yota Kamimori",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901120",
+   "minute": 53,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Warner Dearns",
+   "detail": "Try (26-28)",
+   "playerName": "Warner Dearns",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 28
+   }
+  },
+  {
+   "id": "espn-1901121",
+   "minute": 54,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Takuro Matsunaga",
+   "detail": "Conversion (28-28)",
+   "playerName": "Takuro Matsunaga",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 28
+   }
+  },
+  {
+   "id": "espn-1901122",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kavaia Tagivetaua",
+   "detail": "replaces Tevita Ikanivere",
+   "playerOn": "Kavaia Tagivetaua",
+   "playerOff": "Tevita Ikanivere",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901124",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Vilive Miramira",
+   "detail": "replaces Isaiah Armstrong-Ravula",
+   "playerOn": "Vilive Miramira",
+   "playerOff": "Isaiah Armstrong-Ravula",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901125",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben Volavola",
+   "detail": "replaces Isaiah Armstrong-Ravula",
+   "playerOn": "Ben Volavola",
+   "playerOff": "Isaiah Armstrong-Ravula",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
+  "home": 28,
   "away": 28
  },
  "plays_summed": {
-  "home": 21,
+  "home": 28,
   "away": 28
  }
 }
