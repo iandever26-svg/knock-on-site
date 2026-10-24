@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-bul-uls",
   "matchId": "urc-2026-10-24-bul-uls",
-  "updated_at": "2026-10-24T14:01:30+01:00",
+  "updated_at": "2026-10-24T14:06:49+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604059/competitions/604059/plays",
-      "fetched_at": "2026-10-24T14:01:30+01:00",
+      "fetched_at": "2026-10-24T14:06:49+01:00",
       "espn_event_id": "604059",
       "espn_league_id": 270557
     }
@@ -135,6 +135,21 @@
       }
     },
     {
+      "id": "espn-1901185",
+      "minute": 44,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Marcell Coetzee",
+      "detail": "Yellow card (21-7)",
+      "playerName": "Marcell Coetzee",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 21,
+        "away": 7
+      }
+    },
+    {
       "id": "espn-1901174",
       "minute": 45,
       "period": "2H",
@@ -161,6 +176,33 @@
       "label": "Conversion",
       "scoreAfter": {
         "home": 21,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1901182",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Dylan Maart",
+      "detail": "replaces Cheswill Jooste",
+      "playerOn": "Dylan Maart",
+      "playerOff": "Cheswill Jooste",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901188",
+      "minute": 50,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Handré Pollard",
+      "detail": "Penalty (24-14)",
+      "playerName": "Handré Pollard",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 24,
         "away": 14
       }
     }
