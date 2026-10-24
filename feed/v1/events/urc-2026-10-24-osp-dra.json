@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-osp-dra",
   "matchId": "urc-2026-10-24-osp-dra",
-  "updated_at": "2026-10-24T20:32:04+01:00",
+  "updated_at": "2026-10-24T20:37:19+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604063/competitions/604063/plays",
-      "fetched_at": "2026-10-24T20:32:04+01:00",
+      "fetched_at": "2026-10-24T20:37:19+01:00",
       "espn_event_id": "604063",
       "espn_league_id": 270557
     }
@@ -246,6 +246,78 @@
       "detail": "replaces Tom Botha",
       "playerOn": "Rhys Henry",
       "playerOff": "Tom Botha",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902029",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jordan Morris",
+      "detail": "replaces Rodrigo Martinez",
+      "playerOn": "Jordan Morris",
+      "playerOff": "Rodrigo Martinez",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902031",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Oli Burrows",
+      "detail": "replaces Elliot Dee",
+      "playerOn": "Oli Burrows",
+      "playerOff": "Elliot Dee",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902035",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Chris Coleman",
+      "detail": "replaces Dillon Lewis",
+      "playerOn": "Chris Coleman",
+      "playerOff": "Dillon Lewis",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902055",
+      "minute": 62,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Efan Daniel",
+      "detail": "replaces Sam Parry",
+      "playerOn": "Efan Daniel",
+      "playerOff": "Sam Parry",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902057",
+      "minute": 62,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Steffan Thomas",
+      "detail": "replaces Gareth Thomas",
+      "playerOn": "Steffan Thomas",
+      "playerOff": "Gareth Thomas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902059",
+      "minute": 62,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "James Ratti",
+      "detail": "replaces Rhys Davies",
+      "playerOn": "James Ratti",
+      "playerOff": "Rhys Davies",
       "label": "Substitution"
     }
   ]
