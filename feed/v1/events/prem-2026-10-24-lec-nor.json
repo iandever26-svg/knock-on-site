@@ -1,0 +1,58 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "prem-2026-10-24-lec-nor",
+ "matchId": "prem-2026-10-24-lec-nor",
+ "updated_at": "2026-10-24T14:19:56.259Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604630/competitions/604630/plays?limit=400",
+   "fetched_at": "2026-10-24T14:19:56.259Z",
+   "espn_event_id": "604630",
+   "espn_league_id": 267979
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1901344",
+   "minute": 7,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "James Pater",
+   "detail": "Try (0-5)",
+   "playerName": "James Pater",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1901362",
+   "minute": 7,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Fin Smith",
+   "detail": "Conversion (0-7)",
+   "playerName": "Fin Smith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 7
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 0,
+  "away": 7
+ },
+ "plays_summed": {
+  "home": 0,
+  "away": 7
+ }
+}

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T14:12:15.297Z",
+ "updated_at": "2026-10-24T14:19:56.259Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T14:12:15.297Z",
+   "fetched_at": "2026-10-24T14:19:56.259Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -387,19 +387,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1901346",
-   "minute": 65,
-   "period": "2H",
-   "type": "substitution",
-   "team": "away",
-   "player": "Mathys Belaubre",
-   "detail": "replaces Baptiste Jauneau",
-   "playerOn": "Mathys Belaubre",
-   "playerOff": "Baptiste Jauneau",
-   "label": "Substitution"
-  },
-  {
-   "id": "espn-1901348",
+   "id": "espn-1901336",
    "minute": 65,
    "period": "2H",
    "type": "substitution",
@@ -409,15 +397,92 @@
    "playerOn": "Matheo Frisach",
    "playerOff": "Sacha Lotrian",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901340",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mathys Belaubre",
+   "detail": "replaces AJ Lam",
+   "playerOn": "Mathys Belaubre",
+   "playerOff": "AJ Lam",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901365",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces AJ Lam",
+   "playerOff": "AJ Lam",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901358",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ioane Iashagashvili",
+   "detail": "Try (18-26)",
+   "playerName": "Ioane Iashagashvili",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 18,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1901368",
+   "minute": 67,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Anthony Bouthier",
+   "detail": "Conversion (20-26)",
+   "playerName": "Anthony Bouthier",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 20,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1901366",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jean Cotarmanac'h",
+   "detail": "replaces Inia Tabuavou",
+   "playerOn": "Jean Cotarmanac'h",
+   "playerOff": "Inia Tabuavou",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901370",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Rob Leota",
+   "detail": "replaces Killian Tixeront",
+   "playerOn": "Rob Leota",
+   "playerOff": "Killian Tixeront",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 13,
+  "home": 20,
   "away": 26
  },
  "plays_summed": {
-  "home": 13,
+  "home": 20,
   "away": 26
  }
 }
