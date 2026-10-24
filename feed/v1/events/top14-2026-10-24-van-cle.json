@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T12:41:41.090Z",
+ "updated_at": "2026-10-24T12:47:55.393Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 0-3, final 0-0; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T12:41:41.090Z",
+   "fetched_at": "2026-10-24T12:47:55.393Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -23,22 +22,49 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Harry Plummer",
-   "detail": "Penalty",
+   "detail": "Penalty (0-3)",
    "playerName": "Harry Plummer",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1901165",
+   "minute": 15,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Harry Plummer",
+   "detail": "Penalty (0-6)",
+   "playerName": "Harry Plummer",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 6
+   }
+  },
+  {
+   "id": "espn-1901166",
+   "minute": 15,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mills Sanerivi",
+   "detail": "replaces Dave Cherry",
+   "playerOn": "Mills Sanerivi",
+   "playerOff": "Dave Cherry",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 0,
-  "away": 0
+  "away": 6
  },
  "plays_summed": {
   "home": 0,
-  "away": 3
- },
- "unexplained_gap": {
-  "home": 0,
-  "away": -3
+  "away": 6
  }
 }
