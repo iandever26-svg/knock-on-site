@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-24-jpn-fij",
  "matchId": "intl-2026-10-24-jpn-fij",
- "updated_at": "2026-10-24T06:33:34.415Z",
+ "updated_at": "2026-10-24T06:39:58.683Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/604593/competitions/604593/plays?limit=400",
-   "fetched_at": "2026-10-24T06:33:34.415Z",
+   "fetched_at": "2026-10-24T06:39:58.683Z",
    "espn_event_id": "604593",
    "espn_league_id": 289234
   }
