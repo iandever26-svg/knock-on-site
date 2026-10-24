@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T14:05:48.893Z",
+ "updated_at": "2026-10-24T14:12:15.297Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T14:05:48.893Z",
+   "fetched_at": "2026-10-24T14:12:15.297Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -340,7 +340,7 @@
    }
   },
   {
-   "id": "espn-1901324",
+   "id": "espn-1901328",
    "minute": 64,
    "period": "2H",
    "type": "substitution",
@@ -352,7 +352,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1901326",
+   "id": "espn-1901330",
    "minute": 64,
    "period": "2H",
    "type": "substitution",
@@ -361,6 +361,53 @@
    "detail": "replaces Eric Marks",
    "playerOn": "Timothe Mezou",
    "playerOff": "Eric Marks",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901335",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Pierre Boudehent",
+   "detail": "replaces Robin Taccola",
+   "playerOn": "Pierre Boudehent",
+   "playerOff": "Robin Taccola",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901338",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": null,
+   "detail": "replaces Robin Taccola",
+   "playerOff": "Robin Taccola",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901346",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mathys Belaubre",
+   "detail": "replaces Baptiste Jauneau",
+   "playerOn": "Mathys Belaubre",
+   "playerOff": "Baptiste Jauneau",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901348",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Matheo Frisach",
+   "detail": "replaces Sacha Lotrian",
+   "playerOn": "Matheo Frisach",
+   "playerOff": "Sacha Lotrian",
    "label": "Substitution"
   }
  ],
