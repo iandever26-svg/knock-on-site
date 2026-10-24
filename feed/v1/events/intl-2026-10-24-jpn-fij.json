@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "intl-2026-10-24-jpn-fij",
  "matchId": "intl-2026-10-24-jpn-fij",
- "updated_at": "2026-10-24T06:39:58.683Z",
+ "updated_at": "2026-10-24T06:59:02.256Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/289234/events/604593/competitions/604593/plays?limit=400",
-   "fetched_at": "2026-10-24T06:39:58.683Z",
+   "fetched_at": "2026-10-24T06:59:02.256Z",
    "espn_event_id": "604593",
    "espn_league_id": 289234
   }
@@ -166,15 +166,15 @@
    }
   },
   {
-   "id": "espn-1901106",
+   "id": "espn-1901113",
    "minute": 34,
    "period": "1H",
-   "type": "yellow_card",
+   "type": "red_card",
    "team": "away",
    "player": "Motikiai Murray",
-   "detail": "Yellow card (14-21)",
+   "detail": "Red card (14-21)",
    "playerName": "Motikiai Murray",
-   "label": "Yellow card",
+   "label": "Red card",
    "scoreAfter": {
     "home": 14,
     "away": 21
@@ -209,15 +209,57 @@
     "home": 21,
     "away": 21
    }
+  },
+  {
+   "id": "espn-1901114",
+   "minute": 44,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Terio Tamani",
+   "detail": "Try (21-26)",
+   "playerName": "Terio Tamani",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1901115",
+   "minute": 45,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Isaiah Armstrong-Ravula",
+   "detail": "Conversion (21-28)",
+   "playerName": "Isaiah Armstrong-Ravula",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 28
+   }
+  },
+  {
+   "id": "espn-1901118",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sojiro Otsuka",
+   "detail": "replaces Yota Kamimori",
+   "playerOn": "Sojiro Otsuka",
+   "playerOff": "Yota Kamimori",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 21
+  "away": 28
  },
  "plays_summed": {
   "home": 21,
-  "away": 21
+  "away": 28
  }
 }
