@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tln-pau",
  "matchId": "top14-2026-10-24-tln-pau",
- "updated_at": "2026-10-24T20:03:39.131Z",
+ "updated_at": "2026-10-24T20:09:02.108Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
-   "fetched_at": "2026-10-24T20:03:39.131Z",
+   "fetched_at": "2026-10-24T20:09:02.108Z",
    "espn_event_id": "604408",
    "espn_league_id": 270559
   }
@@ -176,15 +176,45 @@
    "playerOn": "Jimi Maximin",
    "playerOff": "Baptiste Pesenti",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1902082",
+   "minute": 45,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Oliver Cowie",
+   "detail": "Try (29-6)",
+   "playerName": "Oliver Cowie",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 6
+   }
+  },
+  {
+   "id": "espn-1902083",
+   "minute": 46,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Melvyn Jaminet",
+   "detail": "Conversion (31-6)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 31,
+    "away": 6
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 24,
+  "home": 31,
   "away": 6
  },
  "plays_summed": {
-  "home": 24,
+  "home": 31,
   "away": 6
  }
 }
