@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T13:49:40.777Z",
+ "updated_at": "2026-10-24T13:55:04.310Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T13:49:40.777Z",
+   "fetched_at": "2026-10-24T13:55:04.310Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -220,6 +220,54 @@
    "detail": "replaces Hugo Djehi",
    "playerOn": "Wayan De Benedittis",
    "playerOff": "Hugo Djehi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901295",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mills Sanerivi",
+   "detail": "replaces Dave Cherry",
+   "playerOn": "Mills Sanerivi",
+   "playerOff": "Dave Cherry",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901301",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Santiago Medrano",
+   "detail": "replaces Nick Schonert",
+   "playerOn": "Santiago Medrano",
+   "playerOff": "Nick Schonert",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901303",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Michael Ruru",
+   "detail": "replaces Simione Kuruvoli",
+   "playerOn": "Michael Ruru",
+   "playerOff": "Simione Kuruvoli",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901307",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Paul Surano",
+   "detail": "replaces Jean Cotarmanac'h",
+   "playerOn": "Paul Surano",
+   "playerOff": "Jean Cotarmanac'h",
    "label": "Substitution"
   }
  ],
