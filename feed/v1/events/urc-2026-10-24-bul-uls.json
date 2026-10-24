@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-bul-uls",
   "matchId": "urc-2026-10-24-bul-uls",
-  "updated_at": "2026-10-24T14:32:55+01:00",
+  "updated_at": "2026-10-24T14:38:08+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604059/competitions/604059/plays",
-      "fetched_at": "2026-10-24T14:32:55+01:00",
+      "fetched_at": "2026-10-24T14:38:08+01:00",
       "espn_event_id": "604059",
       "espn_league_id": 270557
     }
@@ -350,10 +350,22 @@
       "period": "2H",
       "type": "substitution",
       "team": "away",
-      "player": "Jake Flannery",
+      "player": "James McKillop",
       "detail": "replaces Nick Timoney",
-      "playerOn": "Jake Flannery",
+      "playerOn": "James McKillop",
       "playerOff": "Nick Timoney",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901249",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "James McNabney",
+      "detail": "replaces Juarno Augustus",
+      "playerOn": "James McNabney",
+      "playerOff": "Juarno Augustus",
       "label": "Substitution"
     },
     {
@@ -396,6 +408,48 @@
       "detail": "replaces Matthew Devine",
       "playerOn": "Nathan Doak",
       "playerOff": "Matthew Devine",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901251",
+      "minute": 70,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Stuart McCloskey",
+      "detail": "Try (31-24)",
+      "playerName": "Stuart McCloskey",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 31,
+        "away": 24
+      }
+    },
+    {
+      "id": "espn-1901252",
+      "minute": 71,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jack Murphy",
+      "detail": "Conversion (31-26)",
+      "playerName": "Jack Murphy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 31,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1901253",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "replaces Handré Pollard",
+      "playerOn": "Curwin Bosch",
+      "playerOff": "Handré Pollard",
       "label": "Substitution"
     }
   ]
