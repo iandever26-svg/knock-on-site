@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-ben-gla",
   "matchId": "urc-2026-10-24-ben-gla",
-  "updated_at": "2026-10-24T16:01:56+01:00",
+  "updated_at": "2026-10-24T16:07:12+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604061/competitions/604061/plays",
-      "fetched_at": "2026-10-24T16:01:56+01:00",
+      "fetched_at": "2026-10-24T16:07:12+01:00",
       "espn_event_id": "604061",
       "espn_league_id": 270557
     }
@@ -97,6 +97,45 @@
         "home": 15,
         "away": 0
       }
+    },
+    {
+      "id": "espn-1901466",
+      "minute": 43,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jacob Umaga",
+      "detail": "Conversion (17-0)",
+      "playerName": "Jacob Umaga",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 17,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1901467",
+      "minute": 43,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Gregor Hiddleston",
+      "detail": "replaces Seb Stephen",
+      "playerOn": "Gregor Hiddleston",
+      "playerOff": "Seb Stephen",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901469",
+      "minute": 43,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Alex Craig",
+      "detail": "replaces Max Williamson",
+      "playerOn": "Alex Craig",
+      "playerOff": "Max Williamson",
+      "label": "Substitution"
     }
   ]
 }

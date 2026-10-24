@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-sto-sca",
   "matchId": "urc-2026-10-24-sto-sca",
-  "updated_at": "2026-10-24T16:01:56+01:00",
+  "updated_at": "2026-10-24T16:07:12+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604060/competitions/604060/plays",
-      "fetched_at": "2026-10-24T16:01:56+01:00",
+      "fetched_at": "2026-10-24T16:07:12+01:00",
       "espn_event_id": "604060",
       "espn_league_id": 270557
     }
@@ -286,6 +286,48 @@
         "home": 33,
         "away": 14
       }
+    },
+    {
+      "id": "espn-1901479",
+      "minute": 42,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Macs Page",
+      "detail": "Try (33-19)",
+      "playerName": "Macs Page",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 33,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1901474",
+      "minute": 43,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Carwyn Leggatt-Jones",
+      "detail": "Conversion (33-21)",
+      "playerName": "Carwyn Leggatt-Jones",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 33,
+        "away": 21
+      }
+    },
+    {
+      "id": "espn-1901480",
+      "minute": 43,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "JD Schickerling",
+      "detail": "replaces Deon Fourie",
+      "playerOn": "JD Schickerling",
+      "playerOff": "Deon Fourie",
+      "label": "Substitution"
     }
   ]
 }
