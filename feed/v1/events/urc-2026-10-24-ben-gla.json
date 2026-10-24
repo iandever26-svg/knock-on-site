@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-ben-gla",
   "matchId": "urc-2026-10-24-ben-gla",
-  "updated_at": "2026-10-24T16:20:09+01:00",
+  "updated_at": "2026-10-24T16:25:32+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604061/competitions/604061/plays",
-      "fetched_at": "2026-10-24T16:20:09+01:00",
+      "fetched_at": "2026-10-24T16:25:32+01:00",
       "espn_event_id": "604061",
       "espn_league_id": 270557
     }
@@ -262,6 +262,81 @@
         "home": 17,
         "away": 17
       }
+    },
+    {
+      "id": "espn-1901522-cm",
+      "minute": 56,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (17-17)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 17,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1901525",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Piero Gritti",
+      "detail": "replaces Mattia Midena",
+      "playerOn": "Piero Gritti",
+      "playerOff": "Mattia Midena",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901528",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ivan Nemer",
+      "detail": "replaces Matías Medrano",
+      "playerOn": "Ivan Nemer",
+      "playerOff": "Matías Medrano",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901533",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Louis Werchon",
+      "detail": "replaces Rhyno Smith",
+      "playerOn": "Louis Werchon",
+      "playerOff": "Rhyno Smith",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901537",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Gregor Brown",
+      "detail": "replaces Euan Ferrie",
+      "playerOn": "Gregor Brown",
+      "playerOff": "Euan Ferrie",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901551",
+      "minute": 59,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Bayley Kuenzle",
+      "detail": "replaces Matthew Urwin",
+      "playerOn": "Bayley Kuenzle",
+      "playerOff": "Matthew Urwin",
+      "label": "Substitution"
     }
   ]
 }

@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-sto-sca",
   "matchId": "urc-2026-10-24-sto-sca",
-  "updated_at": "2026-10-24T16:20:09+01:00",
+  "updated_at": "2026-10-24T16:25:31+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604060/competitions/604060/plays",
-      "fetched_at": "2026-10-24T16:20:09+01:00",
+      "fetched_at": "2026-10-24T16:25:31+01:00",
       "espn_event_id": "604060",
       "espn_league_id": 270557
     }
@@ -420,7 +420,30 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1901515",
+      "id": "espn-1901547",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Yaqeen Ahmed",
+      "detail": "replaces Seabelo Senatla",
+      "playerOn": "Yaqeen Ahmed",
+      "playerOff": "Seabelo Senatla",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901550",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": null,
+      "detail": "replaces Seabelo Senatla",
+      "playerOff": "Seabelo Senatla",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901548",
       "minute": 49,
       "period": "2H",
       "type": "substitution",
@@ -429,6 +452,42 @@
       "detail": "replaces Dane Blacker",
       "playerOn": "Archie Hughes",
       "playerOff": "Dane Blacker",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901553",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "George Roberts",
+      "detail": "replaces John McKee",
+      "playerOn": "George Roberts",
+      "playerOff": "John McKee",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901555",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Harvey Cuckson",
+      "detail": "replaces Alex Groves",
+      "playerOn": "Harvey Cuckson",
+      "playerOff": "Alex Groves",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901557",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cobus Reinach",
+      "detail": "replaces Haashim Pead",
+      "playerOn": "Cobus Reinach",
+      "playerOff": "Haashim Pead",
       "label": "Substitution"
     }
   ]
