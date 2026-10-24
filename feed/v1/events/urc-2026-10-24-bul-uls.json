@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-bul-uls",
   "matchId": "urc-2026-10-24-bul-uls",
-  "updated_at": "2026-10-24T14:12:00+01:00",
+  "updated_at": "2026-10-24T14:17:15+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604059/competitions/604059/plays",
-      "fetched_at": "2026-10-24T14:12:00+01:00",
+      "fetched_at": "2026-10-24T14:17:15+01:00",
       "espn_event_id": "604059",
       "espn_league_id": 270557
     }
@@ -216,6 +216,18 @@
       "detail": "replaces Nathan Doak",
       "playerOn": "Matthew Devine",
       "playerOff": "Nathan Doak",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901196",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Eli Snyman",
+      "detail": "replaces Cormac Izuchukwu",
+      "playerOn": "Eli Snyman",
+      "playerOff": "Cormac Izuchukwu",
       "label": "Substitution"
     }
   ]
