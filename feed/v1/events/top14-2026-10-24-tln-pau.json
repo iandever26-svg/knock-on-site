@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tln-pau",
  "matchId": "top14-2026-10-24-tln-pau",
- "updated_at": "2026-10-24T19:12:01.310Z",
+ "updated_at": "2026-10-24T19:17:23.441Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
-   "fetched_at": "2026-10-24T19:12:01.310Z",
+   "fetched_at": "2026-10-24T19:17:23.441Z",
    "espn_event_id": "604408",
    "espn_league_id": 270559
   }
@@ -29,15 +29,60 @@
     "home": 5,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1901998-cm",
+   "minute": 9,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (5-0)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1902003",
+   "minute": 12,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Axel Desperes",
+   "detail": "Penalty (5-3)",
+   "playerName": "Axel Desperes",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 5,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1902006",
+   "minute": 17,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Axel Desperes",
+   "detail": "Penalty (5-6)",
+   "playerName": "Axel Desperes",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 5,
+    "away": 6
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 5,
-  "away": 0
+  "away": 6
  },
  "plays_summed": {
   "home": 5,
-  "away": 0
+  "away": 6
  }
 }
