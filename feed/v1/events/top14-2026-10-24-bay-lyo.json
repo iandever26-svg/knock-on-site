@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-bay-lyo",
  "matchId": "top14-2026-10-24-bay-lyo",
- "updated_at": "2026-10-24T16:23:21.640Z",
- "final": false,
+ "updated_at": "2026-10-24T16:28:49.892Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604403/competitions/604403/plays?limit=400",
-   "fetched_at": "2026-10-24T16:23:21.640Z",
+   "fetched_at": "2026-10-24T16:28:49.892Z",
    "espn_event_id": "604403",
    "espn_league_id": 270559
   }

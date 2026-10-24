@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tou-per",
  "matchId": "top14-2026-10-24-tou-per",
- "updated_at": "2026-10-24T16:23:21.640Z",
+ "updated_at": "2026-10-24T16:28:49.892Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604409/competitions/604409/plays?limit=400",
-   "fetched_at": "2026-10-24T16:23:21.640Z",
+   "fetched_at": "2026-10-24T16:28:49.892Z",
    "espn_event_id": "604409",
    "espn_league_id": 270559
   }
@@ -541,6 +541,21 @@
    }
   },
   {
+   "id": "espn-1901881",
+   "minute": 77,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Aucagne",
+   "detail": "Conversion (31-33)",
+   "playerName": "Antoine Aucagne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 31,
+    "away": 33
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -550,21 +565,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (38-31)",
+   "detail": "Penalty try (inferred, minute unknown) (38-33)",
    "scoreAfter": {
     "home": 38,
-    "away": 31
+    "away": 33
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 38,
-  "away": 31
+  "away": 33
  },
  "plays_summed": {
   "home": 31,
-  "away": 31
+  "away": 33
  },
  "inferred_penalty_tries": [
   {

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-rac-mon",
  "matchId": "top14-2026-10-24-rac-mon",
- "updated_at": "2026-10-24T16:23:21.640Z",
+ "updated_at": "2026-10-24T16:28:49.892Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604407/competitions/604407/plays?limit=400",
-   "fetched_at": "2026-10-24T16:23:21.640Z",
+   "fetched_at": "2026-10-24T16:28:49.892Z",
    "espn_event_id": "604407",
    "espn_league_id": 270559
   }
@@ -328,15 +328,26 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1901783",
+   "id": "espn-1901784",
    "minute": 63,
    "period": "2H",
    "type": "substitution",
    "team": "away",
    "player": "Sebastien Bezy",
-   "detail": "replaces Ruben van Heerden",
+   "detail": "replaces Melvyn Rates",
    "playerOn": "Sebastien Bezy",
-   "playerOff": "Ruben van Heerden",
+   "playerOff": "Melvyn Rates",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901876",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Melvyn Rates",
+   "playerOff": "Melvyn Rates",
    "label": "Substitution"
   },
   {
@@ -349,6 +360,18 @@
    "detail": "replaces Thomas Lainault",
    "playerOn": "Jordan Joseph",
    "playerOff": "Thomas Lainault",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901879",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Adam Beard",
+   "detail": "replaces Ruben van Heerden",
+   "playerOn": "Adam Beard",
+   "playerOff": "Ruben van Heerden",
    "label": "Substitution"
   },
   {
@@ -415,6 +438,30 @@
    "detail": "replaces Gia Kharaishvili",
    "playerOn": "Taniela Tupou",
    "playerOff": "Gia Kharaishvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901882",
+   "minute": 79,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Stuart Hogg",
+   "detail": "replaces Adam Hastings",
+   "playerOn": "Stuart Hogg",
+   "playerOff": "Adam Hastings",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901884",
+   "minute": 79,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Wilfrid Hounkpatin",
+   "detail": "replaces Luca Tabarot",
+   "playerOn": "Wilfrid Hounkpatin",
+   "playerOff": "Luca Tabarot",
    "label": "Substitution"
   }
  ],
