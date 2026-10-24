@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-24-bri-exe",
  "matchId": "prem-2026-10-24-bri-exe",
- "updated_at": "2026-10-24T18:13:01.310Z",
- "final": false,
+ "updated_at": "2026-10-24T18:18:21.450Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604631/competitions/604631/plays?limit=400",
-   "fetched_at": "2026-10-24T18:13:01.310Z",
+   "fetched_at": "2026-10-24T18:18:21.450Z",
    "espn_event_id": "604631",
    "espn_league_id": 267979
   }
@@ -283,15 +283,45 @@
     "home": 13,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1901937",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Luka Ivanishvili",
+   "detail": "Try (18-7)",
+   "playerName": "Luka Ivanishvili",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 18,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901938",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "James Williams",
+   "detail": "Conversion (20-7)",
+   "playerName": "James Williams",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 20,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 13,
+  "home": 20,
   "away": 7
  },
  "plays_summed": {
-  "home": 13,
+  "home": 20,
   "away": 7
  }
 }
