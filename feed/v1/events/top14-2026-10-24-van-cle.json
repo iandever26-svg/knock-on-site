@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T13:44:15.522Z",
+ "updated_at": "2026-10-24T13:49:40.777Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 6-23, final 6-21; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T13:44:15.522Z",
+   "fetched_at": "2026-10-24T13:49:40.777Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -23,9 +22,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Harry Plummer",
-   "detail": "Penalty",
+   "detail": "Penalty (0-3)",
    "playerName": "Harry Plummer",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 3
+   }
   },
   {
    "id": "espn-1901165",
@@ -34,9 +37,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Harry Plummer",
-   "detail": "Penalty",
+   "detail": "Penalty (0-6)",
    "playerName": "Harry Plummer",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 6
+   }
   },
   {
    "id": "espn-1901166",
@@ -69,9 +76,13 @@
    "type": "try",
    "team": "away",
    "player": "Baptiste Jauneau",
-   "detail": "Try",
+   "detail": "Try (0-11)",
    "playerName": "Baptiste Jauneau",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 11
+   }
   },
   {
    "id": "espn-1901179",
@@ -80,9 +91,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Harry Plummer",
-   "detail": "Conversion",
+   "detail": "Conversion (0-13)",
    "playerName": "Harry Plummer",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 13
+   }
   },
   {
    "id": "espn-1901190",
@@ -91,9 +106,13 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Jean Cotarmanac'h",
-   "detail": "Penalty",
+   "detail": "Penalty (3-13)",
    "playerName": "Jean Cotarmanac'h",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 3,
+    "away": 13
+   }
   },
   {
    "id": "espn-1901195",
@@ -102,9 +121,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Harry Plummer",
-   "detail": "Penalty",
+   "detail": "Penalty (3-16)",
    "playerName": "Harry Plummer",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 3,
+    "away": 16
+   }
   },
   {
    "id": "espn-1901198",
@@ -113,9 +136,13 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Jean Cotarmanac'h",
-   "detail": "Penalty",
+   "detail": "Penalty (6-16)",
    "playerName": "Jean Cotarmanac'h",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 6,
+    "away": 16
+   }
   },
   {
    "id": "espn-1901201",
@@ -136,24 +163,32 @@
    "type": "try",
    "team": "away",
    "player": "Giorgi Dzmanashvili",
-   "detail": "Try",
+   "detail": "Try (6-21)",
    "playerName": "Giorgi Dzmanashvili",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 6,
+    "away": 21
+   }
   },
   {
-   "id": "espn-1901264",
-   "minute": 48,
+   "id": "espn-1901267",
+   "minute": 47,
    "period": "2H",
    "type": "conversion_made",
    "team": "away",
    "player": "Harry Plummer",
-   "detail": "Conversion",
+   "detail": "Conversion (6-23)",
    "playerName": "Harry Plummer",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 6,
+    "away": 23
+   }
   },
   {
-   "id": "espn-1901265",
-   "minute": 49,
+   "id": "espn-1901268",
+   "minute": 47,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -162,19 +197,39 @@
    "playerOn": "Nohem Ez Zahouany",
    "playerOff": "Giorgi Dzmanashvili",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901270",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Hugo Djehi",
+   "detail": "replaces Wayan De Benedittis",
+   "playerOn": "Hugo Djehi",
+   "playerOff": "Wayan De Benedittis",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901275",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Wayan De Benedittis",
+   "detail": "replaces Hugo Djehi",
+   "playerOn": "Wayan De Benedittis",
+   "playerOff": "Hugo Djehi",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 6,
-  "away": 21
+  "away": 23
  },
  "plays_summed": {
   "home": 6,
   "away": 23
- },
- "unexplained_gap": {
-  "home": 0,
-  "away": -2
  }
 }
