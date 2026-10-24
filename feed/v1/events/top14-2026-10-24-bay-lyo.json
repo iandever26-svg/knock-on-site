@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-bay-lyo",
  "matchId": "top14-2026-10-24-bay-lyo",
- "updated_at": "2026-10-24T16:00:28.344Z",
+ "updated_at": "2026-10-24T16:07:06.738Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604403/competitions/604403/plays?limit=400",
-   "fetched_at": "2026-10-24T16:00:28.344Z",
+   "fetched_at": "2026-10-24T16:07:06.738Z",
    "espn_event_id": "604403",
    "espn_league_id": 270559
   }
@@ -365,6 +365,78 @@
     "home": 24,
     "away": 26
    }
+  },
+  {
+   "id": "espn-1901781",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lucas Paulos",
+   "detail": "replaces Matthieu Uhila",
+   "playerOn": "Lucas Paulos",
+   "playerOff": "Matthieu Uhila",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901773",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Charlie Cassang",
+   "detail": "replaces Baptiste Couilloud",
+   "playerOn": "Charlie Cassang",
+   "playerOff": "Baptiste Couilloud",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901775",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Martin Meliande",
+   "detail": "replaces Leo Berdeu",
+   "playerOn": "Martin Meliande",
+   "playerOff": "Leo Berdeu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901779",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Beka Shvangiradze",
+   "detail": "replaces Maxime Gouzou",
+   "playerOn": "Beka Shvangiradze",
+   "playerOff": "Maxime Gouzou",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901789",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Matteo Nocera",
+   "detail": "replaces Irakli Aptsiauri",
+   "playerOn": "Matteo Nocera",
+   "playerOff": "Irakli Aptsiauri",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901791",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Camille Chat",
+   "detail": "replaces Guillaume Marchand",
+   "playerOn": "Camille Chat",
+   "playerOff": "Guillaume Marchand",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

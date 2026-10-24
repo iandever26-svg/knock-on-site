@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-rac-mon",
  "matchId": "top14-2026-10-24-rac-mon",
- "updated_at": "2026-10-24T16:00:28.344Z",
+ "updated_at": "2026-10-24T16:07:06.738Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604407/competitions/604407/plays?limit=400",
-   "fetched_at": "2026-10-24T16:00:28.344Z",
+   "fetched_at": "2026-10-24T16:07:06.738Z",
    "espn_event_id": "604407",
    "espn_league_id": 270559
   }
@@ -274,6 +274,69 @@
    "detail": "replaces Joseph Manu",
    "playerOn": "Wame Naituvi",
    "playerOff": "Joseph Manu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901766",
+   "minute": 63,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Alexis Bernadet",
+   "detail": "Yellow card (10-20)",
+   "playerName": "Alexis Bernadet",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 10,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1901767",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lehopa Leota",
+   "detail": "replaces Edouard-Junior Jabea Njocke",
+   "playerOn": "Lehopa Leota",
+   "playerOff": "Edouard-Junior Jabea Njocke",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901769",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Yanis Basse",
+   "detail": "replaces Diego Escobar",
+   "playerOn": "Yanis Basse",
+   "playerOff": "Diego Escobar",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901777",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Valentin Welsch",
+   "detail": "replaces Wilfrid Hounkpatin",
+   "playerOn": "Valentin Welsch",
+   "playerOff": "Wilfrid Hounkpatin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901783",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sebastien Bezy",
+   "detail": "replaces Ruben van Heerden",
+   "playerOn": "Sebastien Bezy",
+   "playerOff": "Ruben van Heerden",
    "label": "Substitution"
   }
  ],

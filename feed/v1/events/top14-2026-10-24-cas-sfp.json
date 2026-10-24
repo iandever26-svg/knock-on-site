@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-cas-sfp",
  "matchId": "top14-2026-10-24-cas-sfp",
- "updated_at": "2026-10-24T16:00:28.344Z",
+ "updated_at": "2026-10-24T16:07:06.738Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604405/competitions/604405/plays?limit=400",
-   "fetched_at": "2026-10-24T16:00:28.344Z",
+   "fetched_at": "2026-10-24T16:07:06.738Z",
    "espn_event_id": "604405",
    "espn_league_id": 270559
   }
@@ -215,6 +215,57 @@
    "playerOn": "Guillaume Ducat",
    "playerOff": "Gauthier Maravat",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901758",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Thibaut Motassi",
+   "detail": "replaces Paul Abadie",
+   "playerOn": "Thibaut Motassi",
+   "playerOff": "Paul Abadie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901762",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Petero Mailulu",
+   "detail": "replaces Fabrice Metz",
+   "playerOn": "Petero Mailulu",
+   "playerOff": "Fabrice Metz",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901764",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jeremy Fernandez",
+   "detail": "replaces Santiago Arata",
+   "playerOn": "Jeremy Fernandez",
+   "playerOff": "Santiago Arata",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901795",
+   "minute": 63,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Petero Mailulu",
+   "detail": "Yellow card (13-8)",
+   "playerName": "Petero Mailulu",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 13,
+    "away": 8
+   }
   }
  ],
  "score_source": "espn_scoreboard",
