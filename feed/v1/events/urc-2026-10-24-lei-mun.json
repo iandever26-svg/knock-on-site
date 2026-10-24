@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-lei-mun",
   "matchId": "urc-2026-10-24-lei-mun",
-  "updated_at": "2026-10-24T19:22:53+01:00",
+  "updated_at": "2026-10-24T19:32:26+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604062/competitions/604062/plays",
-      "fetched_at": "2026-10-24T19:22:53+01:00",
+      "fetched_at": "2026-10-24T19:32:26+01:00",
       "espn_event_id": "604062",
       "espn_league_id": 270557
     }
@@ -207,6 +207,96 @@
       "detail": "replaces Gavin Coombes",
       "playerOn": "Brian Gleeson",
       "playerOff": "Gavin Coombes",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901949",
+      "minute": 61,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Michael Ala'alatoa",
+      "detail": "replaces Kieran Brookes",
+      "playerOn": "Michael Ala'alatoa",
+      "playerOff": "Kieran Brookes",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901951",
+      "minute": 62,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Thomas Clarkson",
+      "detail": "replaces Tadhg Furlong",
+      "playerOn": "Thomas Clarkson",
+      "playerOff": "Tadhg Furlong",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901953",
+      "minute": 62,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Gus McCarthy",
+      "detail": "replaces Rónan Kelleher",
+      "playerOn": "Gus McCarthy",
+      "playerOff": "Rónan Kelleher",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901955",
+      "minute": 64,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Charlie Tector",
+      "detail": "Try (17-13)",
+      "playerName": "Charlie Tector",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1901955-cm",
+      "minute": 64,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (17-13)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 17,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1901956",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "JJ Hanrahan",
+      "detail": "replaces Charlie O'Shea",
+      "playerOn": "JJ Hanrahan",
+      "playerOff": "Charlie O'Shea",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901958",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ben O'Donovan",
+      "detail": "replaces Craig Casey",
+      "playerOn": "Ben O'Donovan",
+      "playerOff": "Craig Casey",
       "label": "Substitution"
     }
   ]
