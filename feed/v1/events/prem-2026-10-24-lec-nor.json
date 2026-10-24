@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-24-lec-nor",
  "matchId": "prem-2026-10-24-lec-nor",
- "updated_at": "2026-10-24T15:30:53.750Z",
+ "updated_at": "2026-10-24T15:36:16.890Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604630/competitions/604630/plays?limit=400",
-   "fetched_at": "2026-10-24T15:30:53.750Z",
+   "fetched_at": "2026-10-24T15:36:16.890Z",
    "espn_event_id": "604630",
    "espn_league_id": 267979
   }
@@ -220,6 +220,42 @@
    "detail": "replaces Alex Mitchell",
    "playerOn": "Archie McParland",
    "playerOff": "Alex Mitchell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901590",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "JJ van der Mescht",
+   "detail": "replaces Ed Prowse",
+   "playerOn": "JJ van der Mescht",
+   "playerOff": "Ed Prowse",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901594",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Danilo Fischetti",
+   "detail": "replaces Emmanuel Iyogun",
+   "playerOn": "Danilo Fischetti",
+   "playerOff": "Emmanuel Iyogun",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901592",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Robbie Smith",
+   "detail": "replaces Curtis Langdon",
+   "playerOn": "Robbie Smith",
+   "playerOff": "Curtis Langdon",
    "label": "Substitution"
   }
  ],
