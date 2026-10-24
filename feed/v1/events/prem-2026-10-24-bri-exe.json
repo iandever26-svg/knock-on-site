@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-24-bri-exe",
  "matchId": "prem-2026-10-24-bri-exe",
- "updated_at": "2026-10-24T17:30:30.898Z",
+ "updated_at": "2026-10-24T17:47:34.815Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604631/competitions/604631/plays?limit=400",
-   "fetched_at": "2026-10-24T17:30:30.898Z",
+   "fetched_at": "2026-10-24T17:47:34.815Z",
    "espn_event_id": "604631",
    "espn_league_id": 267979
   }
@@ -94,15 +94,81 @@
    "playerOn": "Harry Wilson",
    "playerOff": "Tom Hooper",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901903",
+   "minute": 53,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Greg Fisilau",
+   "detail": "Try (10-5)",
+   "playerName": "Greg Fisilau",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1901905",
+   "minute": 54,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Henry Slade",
+   "detail": "Conversion (10-7)",
+   "playerName": "Henry Slade",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901906",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jimmy Halliwell",
+   "detail": "replaces Lovejoy Chawatama",
+   "playerOn": "Jimmy Halliwell",
+   "playerOff": "Lovejoy Chawatama",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901908",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jake Woolmore",
+   "detail": "replaces Ellis Genge",
+   "playerOn": "Jake Woolmore",
+   "playerOff": "Ellis Genge",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901910",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Stephen Varney",
+   "detail": "replaces Sam Wolstenholme",
+   "playerOn": "Stephen Varney",
+   "playerOff": "Sam Wolstenholme",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 10,
-  "away": 0
+  "away": 7
  },
  "plays_summed": {
   "home": 10,
-  "away": 0
+  "away": 7
  }
 }
