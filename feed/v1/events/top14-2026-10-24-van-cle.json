@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T13:12:09.335Z",
+ "updated_at": "2026-10-24T13:17:31.541Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T13:12:09.335Z",
+   "fetched_at": "2026-10-24T13:17:31.541Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -113,15 +113,57 @@
     "home": 3,
     "away": 13
    }
+  },
+  {
+   "id": "espn-1901195",
+   "minute": 35,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Harry Plummer",
+   "detail": "Penalty (3-16)",
+   "playerName": "Harry Plummer",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 3,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1901198",
+   "minute": 37,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Jean Cotarmanac'h",
+   "detail": "Penalty (6-16)",
+   "playerName": "Jean Cotarmanac'h",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 6,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1901201",
+   "minute": 38,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ioane Iashagashvili",
+   "detail": "replaces Sione Kalamafoni",
+   "playerOn": "Ioane Iashagashvili",
+   "playerOff": "Sione Kalamafoni",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 3,
-  "away": 13
+  "home": 6,
+  "away": 16
  },
  "plays_summed": {
-  "home": 3,
-  "away": 13
+  "home": 6,
+  "away": 16
  }
 }
