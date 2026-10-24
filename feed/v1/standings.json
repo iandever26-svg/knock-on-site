@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-24T16:49:16+01:00",
+  "updatedAt": "2026-10-24T17:10:55+01:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
@@ -42,7 +42,7 @@
       "TA": 12,
       "BP": 4,
       "points": 18,
-      "form": "WDWWD"
+      "form": "WWDWL"
     },
     {
       "position": 3,
@@ -62,6 +62,22 @@
     },
     {
       "position": 4,
+      "teamId": "stormers",
+      "team": "Stormers",
+      "P": 4,
+      "W": 3,
+      "D": 0,
+      "L": 1,
+      "PF": 133,
+      "PA": 94,
+      "TF": 19,
+      "TA": 13,
+      "BP": 4,
+      "points": 16,
+      "form": "WWLWL"
+    },
+    {
+      "position": 5,
       "teamId": "sharks",
       "team": "Sharks",
       "P": 4,
@@ -74,22 +90,6 @@
       "TA": 16,
       "BP": 3,
       "points": 15,
-      "form": "WLWWL"
-    },
-    {
-      "position": 5,
-      "teamId": "stormers",
-      "team": "Stormers",
-      "P": 3,
-      "W": 2,
-      "D": 0,
-      "L": 1,
-      "PF": 81,
-      "PA": 54,
-      "TF": 11,
-      "TA": 7,
-      "BP": 3,
-      "points": 11,
       "form": "WLWWL"
     },
     {
@@ -208,17 +208,17 @@
       "position": 13,
       "teamId": "scarlets",
       "team": "Scarlets",
-      "P": 3,
+      "P": 4,
       "W": 1,
       "D": 0,
-      "L": 2,
-      "PF": 68,
-      "PA": 85,
-      "TF": 10,
-      "TA": 13,
-      "BP": 3,
-      "points": 7,
-      "form": "WLLLD"
+      "L": 3,
+      "PF": 108,
+      "PA": 137,
+      "TF": 16,
+      "TA": 21,
+      "BP": 4,
+      "points": 8,
+      "form": "LWLLD"
     },
     {
       "position": 14,
@@ -250,7 +250,7 @@
       "TA": 15,
       "BP": 4,
       "points": 6,
-      "form": "LLDDL"
+      "form": "LLLDL"
     },
     {
       "position": 16,
