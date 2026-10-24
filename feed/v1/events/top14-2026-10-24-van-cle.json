@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T13:38:51.271Z",
+ "updated_at": "2026-10-24T13:44:15.522Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 6-23, final 6-21; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T13:38:51.271Z",
+   "fetched_at": "2026-10-24T13:44:15.522Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -22,13 +23,9 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Harry Plummer",
-   "detail": "Penalty (0-3)",
+   "detail": "Penalty",
    "playerName": "Harry Plummer",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 0,
-    "away": 3
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1901165",
@@ -37,13 +34,9 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Harry Plummer",
-   "detail": "Penalty (0-6)",
+   "detail": "Penalty",
    "playerName": "Harry Plummer",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 0,
-    "away": 6
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1901166",
@@ -76,13 +69,9 @@
    "type": "try",
    "team": "away",
    "player": "Baptiste Jauneau",
-   "detail": "Try (0-11)",
+   "detail": "Try",
    "playerName": "Baptiste Jauneau",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 0,
-    "away": 11
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1901179",
@@ -91,13 +80,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Harry Plummer",
-   "detail": "Conversion (0-13)",
+   "detail": "Conversion",
    "playerName": "Harry Plummer",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 0,
-    "away": 13
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1901190",
@@ -106,13 +91,9 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Jean Cotarmanac'h",
-   "detail": "Penalty (3-13)",
+   "detail": "Penalty",
    "playerName": "Jean Cotarmanac'h",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 3,
-    "away": 13
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1901195",
@@ -121,13 +102,9 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Harry Plummer",
-   "detail": "Penalty (3-16)",
+   "detail": "Penalty",
    "playerName": "Harry Plummer",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 3,
-    "away": 16
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1901198",
@@ -136,13 +113,9 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Jean Cotarmanac'h",
-   "detail": "Penalty (6-16)",
+   "detail": "Penalty",
    "playerName": "Jean Cotarmanac'h",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 6,
-    "away": 16
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1901201",
@@ -155,15 +128,53 @@
    "playerOn": "Ioane Iashagashvili",
    "playerOff": "Sione Kalamafoni",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901263",
+   "minute": 46,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Giorgi Dzmanashvili",
+   "detail": "Try",
+   "playerName": "Giorgi Dzmanashvili",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1901264",
+   "minute": 48,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Harry Plummer",
+   "detail": "Conversion",
+   "playerName": "Harry Plummer",
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1901265",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Nohem Ez Zahouany",
+   "detail": "replaces Giorgi Dzmanashvili",
+   "playerOn": "Nohem Ez Zahouany",
+   "playerOff": "Giorgi Dzmanashvili",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 6,
-  "away": 16
+  "away": 21
  },
  "plays_summed": {
   "home": 6,
-  "away": 16
+  "away": 23
+ },
+ "unexplained_gap": {
+  "home": 0,
+  "away": -2
  }
 }
