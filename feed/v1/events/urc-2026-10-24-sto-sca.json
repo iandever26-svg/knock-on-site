@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-sto-sca",
   "matchId": "urc-2026-10-24-sto-sca",
-  "updated_at": "2026-10-24T16:13:37+01:00",
+  "updated_at": "2026-10-24T16:20:09+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604060/competitions/604060/plays",
-      "fetched_at": "2026-10-24T16:13:37+01:00",
+      "fetched_at": "2026-10-24T16:20:09+01:00",
       "espn_event_id": "604060",
       "espn_league_id": 270557
     }
@@ -406,6 +406,30 @@
         "home": 33,
         "away": 28
       }
+    },
+    {
+      "id": "espn-1901509",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Isaac Murray-MacGregor",
+      "detail": "replaces Macs Page",
+      "playerOn": "Isaac Murray-MacGregor",
+      "playerOff": "Macs Page",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901515",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Archie Hughes",
+      "detail": "replaces Dane Blacker",
+      "playerOn": "Archie Hughes",
+      "playerOff": "Dane Blacker",
+      "label": "Substitution"
     }
   ]
 }

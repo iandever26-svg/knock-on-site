@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-ben-gla",
   "matchId": "urc-2026-10-24-ben-gla",
-  "updated_at": "2026-10-24T16:13:37+01:00",
+  "updated_at": "2026-10-24T16:20:09+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604061/competitions/604061/plays",
-      "fetched_at": "2026-10-24T16:13:37+01:00",
+      "fetched_at": "2026-10-24T16:20:09+01:00",
       "espn_event_id": "604061",
       "espn_league_id": 270557
     }
@@ -192,6 +192,75 @@
       "scoreAfter": {
         "home": 17,
         "away": 7
+      }
+    },
+    {
+      "id": "espn-1901511",
+      "minute": 53,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Kyle Steyn",
+      "detail": "Try (17-12)",
+      "playerName": "Kyle Steyn",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1901511-cm",
+      "minute": 53,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (17-12)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 17,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1901517",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Marcos Gallorini",
+      "detail": "replaces Simone Ferrari",
+      "playerOn": "Marcos Gallorini",
+      "playerOff": "Simone Ferrari",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901519",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Nathan McBeth",
+      "detail": "replaces Rory Sutherland",
+      "playerOn": "Nathan McBeth",
+      "playerOff": "Rory Sutherland",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901522",
+      "minute": 56,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Rory Darge",
+      "detail": "Try (17-17)",
+      "playerName": "Rory Darge",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 17
       }
     }
   ]
