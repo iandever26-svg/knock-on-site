@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-lei-mun",
   "matchId": "urc-2026-10-24-lei-mun",
-  "updated_at": "2026-10-24T18:19:10+01:00",
+  "updated_at": "2026-10-24T18:31:03+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604062/competitions/604062/plays",
-      "fetched_at": "2026-10-24T18:19:10+01:00",
+      "fetched_at": "2026-10-24T18:31:03+01:00",
       "espn_event_id": "604062",
       "espn_league_id": 270557
     }
@@ -27,6 +27,36 @@
       "scoreAfter": {
         "home": 0,
         "away": 3
+      }
+    },
+    {
+      "id": "espn-1901897",
+      "minute": 27,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Shane Daly",
+      "detail": "Try (0-8)",
+      "playerName": "Shane Daly",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1901898",
+      "minute": 28,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Charlie O'Shea",
+      "detail": "Conversion (0-10)",
+      "playerName": "Charlie O'Shea",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 0,
+        "away": 10
       }
     }
   ]
