@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-van-cle",
  "matchId": "top14-2026-10-24-van-cle",
- "updated_at": "2026-10-24T13:55:04.310Z",
+ "updated_at": "2026-10-24T14:00:25.806Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604404/competitions/604404/plays?limit=400",
-   "fetched_at": "2026-10-24T13:55:04.310Z",
+   "fetched_at": "2026-10-24T14:00:25.806Z",
    "espn_event_id": "604404",
    "espn_league_id": 270559
   }
@@ -269,15 +269,69 @@
    "playerOn": "Paul Surano",
    "playerOff": "Jean Cotarmanac'h",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1901317",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Darcy Swain",
+   "detail": "replaces Thibaud Lanen",
+   "playerOn": "Darcy Swain",
+   "playerOff": "Thibaud Lanen",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901319",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Peniami Narisia",
+   "detail": "replaces Barnabe Massa",
+   "playerOn": "Peniami Narisia",
+   "playerOff": "Barnabe Massa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901321",
+   "minute": 56,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Mills Sanerivi",
+   "detail": "Try (11-23)",
+   "playerName": "Mills Sanerivi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 11,
+    "away": 23
+   }
+  },
+  {
+   "id": "espn-1901322",
+   "minute": 57,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Anthony Bouthier",
+   "detail": "Conversion (13-23)",
+   "playerName": "Anthony Bouthier",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 13,
+    "away": 23
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 6,
+  "home": 13,
   "away": 23
  },
  "plays_summed": {
-  "home": 6,
+  "home": 13,
   "away": 23
  }
 }
