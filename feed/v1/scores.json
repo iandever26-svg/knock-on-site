@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-24T19:59:32+01:00",
-  "updatedAt": "2026-10-24T19:59:32+01:00",
+  "generatedAt": "2026-10-24T20:01:22+01:00",
+  "updatedAt": "2026-10-24T20:01:22+01:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -735,7 +735,7 @@
         }
       ],
       "home_tries": 4,
-      "away_tries": 2,
+      "away_tries": 1,
       "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-24T19:05:33+01:00",
       "latest_event_minute": 75,
@@ -766,7 +766,7 @@
       "tries_source": "espn_events",
       "latest_event_minute": 44,
       "latest_event_period": "1H",
-      "latest_event_seen_at": "2026-10-24T19:59:31+01:00"
+      "latest_event_seen_at": "2026-10-24T20:01:20+01:00"
     },
     {
       "schema_version": "1.0.0",
