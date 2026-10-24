@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-24-lec-nor",
  "matchId": "prem-2026-10-24-lec-nor",
- "updated_at": "2026-10-24T14:41:21.144Z",
+ "updated_at": "2026-10-24T14:51:40.906Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604630/competitions/604630/plays?limit=400",
-   "fetched_at": "2026-10-24T14:41:21.144Z",
+   "fetched_at": "2026-10-24T14:51:40.906Z",
    "espn_event_id": "604630",
    "espn_league_id": 267979
   }
@@ -70,6 +70,18 @@
    "detail": "replaces Ollie Chessum",
    "playerOn": "Joaquin Moro",
    "playerOff": "Ollie Chessum",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1901443",
+   "minute": 39,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ollie Chessum",
+   "detail": "replaces Joaquin Moro",
+   "playerOn": "Ollie Chessum",
+   "playerOff": "Joaquin Moro",
    "label": "Substitution"
   }
  ],

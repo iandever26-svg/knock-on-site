@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-rac-mon",
  "matchId": "top14-2026-10-24-rac-mon",
- "updated_at": "2026-10-24T14:41:21.144Z",
+ "updated_at": "2026-10-24T14:51:40.906Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604407/competitions/604407/plays?limit=400",
-   "fetched_at": "2026-10-24T14:41:21.144Z",
+   "fetched_at": "2026-10-24T14:51:40.906Z",
    "espn_event_id": "604407",
    "espn_league_id": 270559
   }
@@ -29,15 +29,60 @@
     "home": 0,
     "away": 5
    }
+  },
+  {
+   "id": "espn-1901424-cm",
+   "minute": 3,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (0-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1901456",
+   "minute": 22,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Selestino Ravutaumada",
+   "detail": "Try (5-5)",
+   "playerName": "Selestino Ravutaumada",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1901457",
+   "minute": 23,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Gibert",
+   "detail": "Conversion (7-5)",
+   "playerName": "Antoine Gibert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
+  "home": 7,
   "away": 5
  },
  "plays_summed": {
-  "home": 0,
+  "home": 7,
   "away": 5
  }
 }

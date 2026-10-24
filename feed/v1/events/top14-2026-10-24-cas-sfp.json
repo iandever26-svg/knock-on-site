@@ -1,0 +1,88 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "top14-2026-10-24-cas-sfp",
+ "matchId": "top14-2026-10-24-cas-sfp",
+ "updated_at": "2026-10-24T14:51:40.906Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604405/competitions/604405/plays?limit=400",
+   "fetched_at": "2026-10-24T14:51:40.906Z",
+   "espn_event_id": "604405",
+   "espn_league_id": 270559
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1901436",
+   "minute": 9,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Samuel Ezeala",
+   "detail": "Try (0-5)",
+   "playerName": "Samuel Ezeala",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1901436-cm",
+   "minute": 9,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (0-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1901452",
+   "minute": 16,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Adrea Cocagi",
+   "detail": "Try (5-5)",
+   "playerName": "Adrea Cocagi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1901453",
+   "minute": 17,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Louis Le Brun",
+   "detail": "Conversion (7-5)",
+   "playerName": "Louis Le Brun",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 7,
+  "away": 5
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 5
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "top14-2026-10-24-bay-lyo",
+ "matchId": "top14-2026-10-24-bay-lyo",
+ "updated_at": "2026-10-24T14:51:40.906Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604403/competitions/604403/plays?limit=400",
+   "fetched_at": "2026-10-24T14:51:40.906Z",
+   "espn_event_id": "604403",
+   "espn_league_id": 270559
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1901434",
+   "minute": 8,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Theo Millet",
+   "detail": "Try (0-5)",
+   "playerName": "Theo Millet",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1901435",
+   "minute": 9,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Leo Berdeu",
+   "detail": "Conversion (0-7)",
+   "playerName": "Leo Berdeu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901439",
+   "minute": 11,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Marvin Okuya",
+   "detail": "Yellow card (0-7)",
+   "playerName": "Marvin Okuya",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 0,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901445",
+   "minute": 12,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Guillaume Cramont",
+   "detail": "Try (5-7)",
+   "playerName": "Guillaume Cramont",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901446",
+   "minute": 13,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joris Segonds",
+   "detail": "Conversion (7-7)",
+   "playerName": "Joris Segonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1901449",
+   "minute": 15,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Jiuta Wainiqolo",
+   "detail": "Try (7-12)",
+   "playerName": "Jiuta Wainiqolo",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1901449-cm",
+   "minute": 15,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (7-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1901459",
+   "minute": 22,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Leo Coly",
+   "detail": "Try (12-12)",
+   "playerName": "Leo Coly",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1901461",
+   "minute": 23,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joris Segonds",
+   "detail": "Conversion (14-12)",
+   "playerName": "Joris Segonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 12
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 14,
+  "away": 12
+ },
+ "plays_summed": {
+  "home": 14,
+  "away": 12
+ }
+}
