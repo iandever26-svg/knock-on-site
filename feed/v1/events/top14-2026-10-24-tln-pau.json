@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tln-pau",
  "matchId": "top14-2026-10-24-tln-pau",
- "updated_at": "2026-10-24T20:46:22.968Z",
- "final": false,
+ "updated_at": "2026-10-24T20:56:58.903Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
-   "fetched_at": "2026-10-24T20:46:22.968Z",
+   "fetched_at": "2026-10-24T20:56:58.903Z",
    "espn_event_id": "604408",
    "espn_league_id": 270559
   }
@@ -530,15 +530,30 @@
     "home": 38,
     "away": 20
    }
+  },
+  {
+   "id": "espn-1902175",
+   "minute": 81,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Melvyn Jaminet",
+   "detail": "Penalty (41-20)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 41,
+    "away": 20
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 38,
+  "home": 41,
   "away": 20
  },
  "plays_summed": {
-  "home": 38,
+  "home": 41,
   "away": 20
  }
 }
