@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-sto-sca",
   "matchId": "urc-2026-10-24-sto-sca",
-  "updated_at": "2026-10-24T15:30:27+01:00",
+  "updated_at": "2026-10-24T15:36:11+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604060/competitions/604060/plays",
-      "fetched_at": "2026-10-24T15:30:27+01:00",
+      "fetched_at": "2026-10-24T15:36:11+01:00",
       "espn_event_id": "604060",
       "espn_league_id": 270557
     }
@@ -142,6 +142,36 @@
       "playerOn": "Josh Macleod",
       "playerOff": "George Roberts",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1901411",
+      "minute": 28,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Ntuthuko Mchunu",
+      "detail": "Try (17-7)",
+      "playerName": "Ntuthuko Mchunu",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1901412",
+      "minute": 29,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Sacha Feinberg-Mngomezulu",
+      "detail": "Conversion (19-7)",
+      "playerName": "Sacha Feinberg-Mngomezulu",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 7
+      }
     }
   ]
 }
