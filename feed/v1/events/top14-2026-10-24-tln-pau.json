@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tln-pau",
  "matchId": "top14-2026-10-24-tln-pau",
- "updated_at": "2026-10-24T19:42:22.518Z",
+ "updated_at": "2026-10-24T19:47:43.523Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 22-6, final 17-6; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
-   "fetched_at": "2026-10-24T19:42:22.518Z",
+   "fetched_at": "2026-10-24T19:47:43.523Z",
    "espn_event_id": "604408",
    "espn_league_id": 270559
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Melvyn Jaminet",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1901998-cm",
@@ -34,9 +37,13 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (5-0)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1902003",
@@ -45,9 +52,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Axel Desperes",
-   "detail": "Penalty",
+   "detail": "Penalty (5-3)",
    "playerName": "Axel Desperes",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 5,
+    "away": 3
+   }
   },
   {
    "id": "espn-1902006",
@@ -56,9 +67,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Axel Desperes",
-   "detail": "Penalty",
+   "detail": "Penalty (5-6)",
    "playerName": "Axel Desperes",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 5,
+    "away": 6
+   }
   },
   {
    "id": "espn-1902023",
@@ -67,9 +82,13 @@
    "type": "try",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Try",
+   "detail": "Try (10-6)",
    "playerName": "Melvyn Jaminet",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 6
+   }
   },
   {
    "id": "espn-1902024",
@@ -78,9 +97,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Conversion",
+   "detail": "Conversion (12-6)",
    "playerName": "Melvyn Jaminet",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 6
+   }
   },
   {
    "id": "espn-1902063",
@@ -89,9 +112,13 @@
    "type": "try",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Try",
+   "detail": "Try (17-6)",
    "playerName": "Melvyn Jaminet",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 6
+   }
   },
   {
    "id": "espn-1902063-cm",
@@ -100,9 +127,13 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (17-6)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 17,
+    "away": 6
+   }
   },
   {
    "id": "espn-1902069",
@@ -111,22 +142,37 @@
    "type": "try",
    "team": "home",
    "player": "Huw Jones",
-   "detail": "Try",
+   "detail": "Try (22-6)",
    "playerName": "Huw Jones",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 6
+   }
+  },
+  {
+   "id": "espn-1902074",
+   "minute": 38,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Melvyn Jaminet",
+   "detail": "Conversion (24-6)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 24,
+    "away": 6
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 17,
+  "home": 24,
   "away": 6
  },
  "plays_summed": {
-  "home": 22,
+  "home": 24,
   "away": 6
- },
- "unexplained_gap": {
-  "home": -5,
-  "away": 0
  }
 }
