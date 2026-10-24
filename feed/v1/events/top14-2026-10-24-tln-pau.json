@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-24-tln-pau",
  "matchId": "top14-2026-10-24-tln-pau",
- "updated_at": "2026-10-24T20:09:02.108Z",
+ "updated_at": "2026-10-24T20:14:21.814Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 36-6, final 31-6; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604408/competitions/604408/plays?limit=400",
-   "fetched_at": "2026-10-24T20:09:02.108Z",
+   "fetched_at": "2026-10-24T20:14:21.814Z",
    "espn_event_id": "604408",
    "espn_league_id": 270559
   }
@@ -22,13 +23,9 @@
    "type": "try",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Try (5-0)",
+   "detail": "Try",
    "playerName": "Melvyn Jaminet",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 0
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1901998-cm",
@@ -37,13 +34,9 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred) (5-0)",
+   "detail": "Conversion missed (inferred)",
    "label": "Conversion missed",
-   "inferred": true,
-   "scoreAfter": {
-    "home": 5,
-    "away": 0
-   }
+   "inferred": true
   },
   {
    "id": "espn-1902003",
@@ -52,13 +45,9 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Axel Desperes",
-   "detail": "Penalty (5-3)",
+   "detail": "Penalty",
    "playerName": "Axel Desperes",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 5,
-    "away": 3
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1902006",
@@ -67,13 +56,9 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Axel Desperes",
-   "detail": "Penalty (5-6)",
+   "detail": "Penalty",
    "playerName": "Axel Desperes",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 5,
-    "away": 6
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1902023",
@@ -82,13 +67,9 @@
    "type": "try",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Try (10-6)",
+   "detail": "Try",
    "playerName": "Melvyn Jaminet",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 10,
-    "away": 6
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1902024",
@@ -97,13 +78,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Conversion (12-6)",
+   "detail": "Conversion",
    "playerName": "Melvyn Jaminet",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 12,
-    "away": 6
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1902063",
@@ -112,13 +89,9 @@
    "type": "try",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Try (17-6)",
+   "detail": "Try",
    "playerName": "Melvyn Jaminet",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 17,
-    "away": 6
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1902063-cm",
@@ -127,13 +100,9 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred) (17-6)",
+   "detail": "Conversion missed (inferred)",
    "label": "Conversion missed",
-   "inferred": true,
-   "scoreAfter": {
-    "home": 17,
-    "away": 6
-   }
+   "inferred": true
   },
   {
    "id": "espn-1902069",
@@ -142,13 +111,9 @@
    "type": "try",
    "team": "home",
    "player": "Huw Jones",
-   "detail": "Try (22-6)",
+   "detail": "Try",
    "playerName": "Huw Jones",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 22,
-    "away": 6
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1902074",
@@ -157,13 +122,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Conversion (24-6)",
+   "detail": "Conversion",
    "playerName": "Melvyn Jaminet",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 24,
-    "away": 6
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1902080",
@@ -184,13 +145,9 @@
    "type": "try",
    "team": "home",
    "player": "Oliver Cowie",
-   "detail": "Try (29-6)",
+   "detail": "Try",
    "playerName": "Oliver Cowie",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 29,
-    "away": 6
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1902083",
@@ -199,13 +156,20 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Conversion (31-6)",
+   "detail": "Conversion",
    "playerName": "Melvyn Jaminet",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 31,
-    "away": 6
-   }
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1902084",
+   "minute": 52,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Beka Gigashvili",
+   "detail": "Try",
+   "playerName": "Beka Gigashvili",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
@@ -214,7 +178,11 @@
   "away": 6
  },
  "plays_summed": {
-  "home": 31,
+  "home": 36,
   "away": 6
+ },
+ "unexplained_gap": {
+  "home": -5,
+  "away": 0
  }
 }
