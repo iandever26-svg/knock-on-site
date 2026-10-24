@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-24-lei-mun",
   "matchId": "urc-2026-10-24-lei-mun",
-  "updated_at": "2026-10-24T19:32:26+01:00",
+  "updated_at": "2026-10-24T19:34:58+01:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604062/competitions/604062/plays",
-      "fetched_at": "2026-10-24T19:32:26+01:00",
+      "fetched_at": "2026-10-24T19:34:58+01:00",
       "espn_event_id": "604062",
       "espn_league_id": 270557
     }
@@ -276,7 +276,7 @@
       }
     },
     {
-      "id": "espn-1901956",
+      "id": "espn-1901960",
       "minute": 65,
       "period": "2H",
       "type": "substitution",
@@ -288,7 +288,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1901958",
+      "id": "espn-1901962",
       "minute": 65,
       "period": "2H",
       "type": "substitution",
@@ -297,6 +297,18 @@
       "detail": "replaces Craig Casey",
       "playerOn": "Ben O'Donovan",
       "playerOff": "Craig Casey",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1901964",
+      "minute": 68,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Scott Penny",
+      "detail": "replaces Josh van der Flier",
+      "playerOn": "Scott Penny",
+      "playerOff": "Josh van der Flier",
       "label": "Substitution"
     }
   ]
