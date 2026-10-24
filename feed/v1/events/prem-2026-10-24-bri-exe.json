@@ -1,0 +1,73 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "prem-2026-10-24-bri-exe",
+ "matchId": "prem-2026-10-24-bri-exe",
+ "updated_at": "2026-10-24T17:06:48.554Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604631/competitions/604631/plays?limit=400",
+   "fetched_at": "2026-10-24T17:06:48.554Z",
+   "espn_event_id": "604631",
+   "espn_league_id": 267979
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1901888",
+   "minute": 27,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Gabriel Ibitoye",
+   "detail": "Try (5-0)",
+   "playerName": "Gabriel Ibitoye",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1901889",
+   "minute": 28,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "James Williams",
+   "detail": "Conversion (7-0)",
+   "playerName": "James Williams",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1901890",
+   "minute": 30,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "James Williams",
+   "detail": "Penalty (10-0)",
+   "playerName": "James Williams",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 10,
+    "away": 0
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 10,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 10,
+  "away": 0
+ }
+}
