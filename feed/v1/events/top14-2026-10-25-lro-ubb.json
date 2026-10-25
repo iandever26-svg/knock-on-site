@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-25-lro-ubb",
  "matchId": "top14-2026-10-25-lro-ubb",
- "updated_at": "2026-10-25T21:40:51.080Z",
+ "updated_at": "2026-10-25T21:46:08.796Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604406/competitions/604406/plays?limit=400",
-   "fetched_at": "2026-10-25T21:40:51.080Z",
+   "fetched_at": "2026-10-25T21:46:08.796Z",
    "espn_event_id": "604406",
    "espn_league_id": 270559
   }
@@ -334,15 +334,42 @@
    "playerOn": "Thomas Lavault",
    "playerOff": "Paul Boudehent",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1902437",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Louis Favrau",
+   "detail": "replaces Xan Mousques",
+   "playerOn": "Louis Favrau",
+   "playerOff": "Xan Mousques",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902440",
+   "minute": 70,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Hugo Reus",
+   "detail": "Penalty (14-25)",
+   "playerName": "Hugo Reus",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 14,
+    "away": 25
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 14,
-  "away": 22
+  "away": 25
  },
  "plays_summed": {
   "home": 14,
-  "away": 22
+  "away": 25
  }
 }
