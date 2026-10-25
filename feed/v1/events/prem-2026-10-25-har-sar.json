@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-25-har-sar",
  "matchId": "prem-2026-10-25-har-sar",
- "updated_at": "2026-10-25T15:55:43.225Z",
+ "updated_at": "2026-10-25T16:15:26.157Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604633/competitions/604633/plays?limit=400",
-   "fetched_at": "2026-10-25T15:55:43.225Z",
+   "fetched_at": "2026-10-25T16:15:26.157Z",
    "espn_event_id": "604633",
    "espn_league_id": 267979
   }
@@ -151,6 +151,18 @@
    }
   },
   {
+   "id": "espn-1902327",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Hobson",
+   "detail": "replaces Fin Baxter",
+   "playerOn": "Will Hobson",
+   "playerOff": "Fin Baxter",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1902326",
    "minute": 42,
    "period": "1H",
@@ -164,6 +176,93 @@
     "home": 19,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1902326-cm",
+   "minute": 42,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (19-10)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 19,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1902359",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Pedro Delgado",
+   "detail": "replaces Ollie Streeter",
+   "playerOn": "Pedro Delgado",
+   "playerOff": "Ollie Streeter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902361",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Alex O'Driscoll",
+   "detail": "replaces Rhys Carre",
+   "playerOn": "Alex O'Driscoll",
+   "playerOff": "Rhys Carre",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902363",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jamie George",
+   "detail": "replaces Theo Dan",
+   "playerOn": "Jamie George",
+   "playerOff": "Theo Dan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902365",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Alec Clarey",
+   "detail": "replaces Marcus Street",
+   "playerOn": "Alec Clarey",
+   "playerOff": "Marcus Street",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902367",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Juan Martin Gonzalez",
+   "detail": "replaces Andy Onyeama-Christie",
+   "playerOn": "Juan Martin Gonzalez",
+   "playerOff": "Andy Onyeama-Christie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902369",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Hugh Tizard",
+   "detail": "replaces George Martin",
+   "playerOn": "Hugh Tizard",
+   "playerOff": "George Martin",
+   "label": "Substitution"
   },
   {
    "id": "inferred-pt-home-1",
