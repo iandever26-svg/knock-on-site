@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-25-lro-ubb",
  "matchId": "top14-2026-10-25-lro-ubb",
- "updated_at": "2026-10-25T20:40:25.163Z",
+ "updated_at": "2026-10-25T20:51:11.798Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 0-16, final 0-13; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604406/competitions/604406/plays?limit=400",
-   "fetched_at": "2026-10-25T20:40:25.163Z",
+   "fetched_at": "2026-10-25T20:51:11.798Z",
    "espn_event_id": "604406",
    "espn_league_id": 270559
   }
@@ -35,9 +34,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Hugo Reus",
-   "detail": "Penalty",
+   "detail": "Penalty (0-3)",
    "playerName": "Hugo Reus",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 3
+   }
   },
   {
    "id": "espn-1902401",
@@ -58,9 +61,13 @@
    "type": "try",
    "team": "away",
    "player": "Carlu Sadie",
-   "detail": "Try",
+   "detail": "Try (0-8)",
    "playerName": "Carlu Sadie",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 8
+   }
   },
   {
    "id": "espn-1902404",
@@ -69,9 +76,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Hugo Reus",
-   "detail": "Conversion",
+   "detail": "Conversion (0-10)",
    "playerName": "Hugo Reus",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 10
+   }
   },
   {
    "id": "espn-1902405",
@@ -80,9 +91,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Hugo Reus",
-   "detail": "Penalty",
+   "detail": "Penalty (0-13)",
    "playerName": "Hugo Reus",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 13
+   }
   },
   {
    "id": "espn-1902406",
@@ -103,22 +118,52 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Hugo Reus",
-   "detail": "Penalty",
+   "detail": "Penalty (0-16)",
    "playerName": "Hugo Reus",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1902409",
+   "minute": 35,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Theo McFarland",
+   "detail": "Try (5-16)",
+   "playerName": "Theo McFarland",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1902410",
+   "minute": 36,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Hastoy",
+   "detail": "Conversion (7-16)",
+   "playerName": "Antoine Hastoy",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 16
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
-  "away": 13
- },
- "plays_summed": {
-  "home": 0,
+  "home": 7,
   "away": 16
  },
- "unexplained_gap": {
-  "home": 0,
-  "away": -3
+ "plays_summed": {
+  "home": 7,
+  "away": 16
  }
 }
