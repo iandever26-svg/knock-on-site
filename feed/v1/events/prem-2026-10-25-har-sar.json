@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-25-har-sar",
  "matchId": "prem-2026-10-25-har-sar",
- "updated_at": "2026-10-25T15:50:22.164Z",
+ "updated_at": "2026-10-25T15:55:43.225Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604633/competitions/604633/plays?limit=400",
-   "fetched_at": "2026-10-25T15:50:22.164Z",
+   "fetched_at": "2026-10-25T15:55:43.225Z",
    "espn_event_id": "604633",
    "espn_league_id": 267979
   }
