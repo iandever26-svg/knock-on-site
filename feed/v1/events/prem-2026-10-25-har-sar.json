@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-25-har-sar",
  "matchId": "prem-2026-10-25-har-sar",
- "updated_at": "2026-10-25T16:47:15.010Z",
+ "updated_at": "2026-10-25T16:52:33.232Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604633/competitions/604633/plays?limit=400",
-   "fetched_at": "2026-10-25T16:47:15.010Z",
+   "fetched_at": "2026-10-25T16:52:33.232Z",
    "espn_event_id": "604633",
    "espn_league_id": 267979
   }
@@ -430,6 +430,18 @@
    "detail": "replaces Will Porter",
    "playerOn": "Lucas Friday",
    "playerOff": "Will Porter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902394",
+   "minute": 75,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Nick David",
+   "detail": "replaces Rodrigo Isgro",
+   "playerOn": "Nick David",
+   "playerOff": "Rodrigo Isgro",
    "label": "Substitution"
   },
   {
