@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-25-lro-ubb",
  "matchId": "top14-2026-10-25-lro-ubb",
- "updated_at": "2026-10-25T21:46:08.796Z",
- "final": false,
+ "updated_at": "2026-10-25T23:02:11.953Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604406/competitions/604406/plays?limit=400",
-   "fetched_at": "2026-10-25T21:46:08.796Z",
+   "fetched_at": "2026-10-25T23:02:11.953Z",
    "espn_event_id": "604406",
    "espn_league_id": 270559
   }
@@ -361,15 +361,72 @@
     "home": 14,
     "away": 25
    }
+  },
+  {
+   "id": "espn-1902441",
+   "minute": 75,
+   "period": "2H",
+   "type": "red_card",
+   "team": "away",
+   "player": "Temo Matiu",
+   "detail": "Red card (14-25)",
+   "playerName": "Temo Matiu",
+   "label": "Red card",
+   "scoreAfter": {
+    "home": 14,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1902447",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Nathan Fraissenon",
+   "detail": "replaces Aleksandre Kuntelia",
+   "playerOn": "Nathan Fraissenon",
+   "playerOff": "Aleksandre Kuntelia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902446",
+   "minute": 78,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Andy Timo",
+   "detail": "Try (19-25)",
+   "playerName": "Andy Timo",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1902446-cm",
+   "minute": 78,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (19-25)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 19,
+    "away": 25
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
+  "home": 19,
   "away": 25
  },
  "plays_summed": {
-  "home": 14,
+  "home": 19,
   "away": 25
  }
 }
