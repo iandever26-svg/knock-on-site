@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-25-har-sar",
  "matchId": "prem-2026-10-25-har-sar",
- "updated_at": "2026-10-25T16:26:04.808Z",
+ "updated_at": "2026-10-25T16:31:23.286Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604633/competitions/604633/plays?limit=400",
-   "fetched_at": "2026-10-25T16:26:04.808Z",
+   "fetched_at": "2026-10-25T16:31:23.286Z",
    "espn_event_id": "604633",
    "espn_league_id": 267979
   }
@@ -328,6 +328,18 @@
    "detail": "replaces Seb Driscoll",
    "playerOn": "Will Evans",
    "playerOff": "Seb Driscoll",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902379",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jimmy Staples",
+   "detail": "replaces Sam Riley",
+   "playerOn": "Jimmy Staples",
+   "playerOff": "Sam Riley",
    "label": "Substitution"
   },
   {
