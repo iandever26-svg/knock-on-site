@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-25-lro-ubb",
  "matchId": "top14-2026-10-25-lro-ubb",
- "updated_at": "2026-10-25T20:51:11.798Z",
+ "updated_at": "2026-10-25T20:56:29.299Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604406/competitions/604406/plays?limit=400",
-   "fetched_at": "2026-10-25T20:51:11.798Z",
+   "fetched_at": "2026-10-25T20:56:29.299Z",
    "espn_event_id": "604406",
    "espn_league_id": 270559
   }
@@ -155,15 +155,30 @@
     "home": 7,
     "away": 16
    }
+  },
+  {
+   "id": "espn-1902411",
+   "minute": 39,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Hugo Reus",
+   "detail": "Penalty (7-19)",
+   "playerName": "Hugo Reus",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 7,
+    "away": 19
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 16
+  "away": 19
  },
  "plays_summed": {
   "home": 7,
-  "away": 16
+  "away": 19
  }
 }
