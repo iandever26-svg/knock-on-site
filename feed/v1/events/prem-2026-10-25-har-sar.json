@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-25-har-sar",
  "matchId": "prem-2026-10-25-har-sar",
- "updated_at": "2026-10-25T16:31:23.286Z",
+ "updated_at": "2026-10-25T16:36:39.995Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604633/competitions/604633/plays?limit=400",
-   "fetched_at": "2026-10-25T16:31:23.286Z",
+   "fetched_at": "2026-10-25T16:36:39.995Z",
    "espn_event_id": "604633",
    "espn_league_id": 267979
   }
@@ -343,6 +343,33 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1902384",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tom James",
+   "detail": "replaces Tomos Williams",
+   "playerOn": "Tom James",
+   "playerOff": "Tomos Williams",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902383",
+   "minute": 62,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Nick Tompkins",
+   "detail": "Try (26-15)",
+   "playerName": "Nick Tompkins",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 15
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -352,21 +379,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (33-10)",
+   "detail": "Penalty try (inferred, minute unknown) (33-15)",
    "scoreAfter": {
     "home": 33,
-    "away": 10
+    "away": 15
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 33,
-  "away": 10
+  "away": 15
  },
  "plays_summed": {
   "home": 26,
-  "away": 10
+  "away": 15
  },
  "inferred_penalty_tries": [
   {
