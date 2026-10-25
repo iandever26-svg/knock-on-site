@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-25-har-sar",
  "matchId": "prem-2026-10-25-har-sar",
- "updated_at": "2026-10-25T16:20:46.395Z",
+ "updated_at": "2026-10-25T16:26:04.808Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604633/competitions/604633/plays?limit=400",
-   "fetched_at": "2026-10-25T16:20:46.395Z",
+   "fetched_at": "2026-10-25T16:26:04.808Z",
    "espn_event_id": "604633",
    "espn_league_id": 267979
   }
@@ -277,6 +277,60 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1902373",
+   "minute": 55,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Will Porter",
+   "detail": "Try (24-10)",
+   "playerName": "Will Porter",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1902374",
+   "minute": 56,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Conversion (26-10)",
+   "playerName": "Marcus Smith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 26,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1902375",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Elliot Williams",
+   "detail": "replaces James Dun",
+   "playerOn": "Elliot Williams",
+   "playerOff": "James Dun",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902377",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Evans",
+   "detail": "replaces Seb Driscoll",
+   "playerOn": "Will Evans",
+   "playerOff": "Seb Driscoll",
+   "label": "Substitution"
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -286,20 +340,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (26-10)",
+   "detail": "Penalty try (inferred, minute unknown) (33-10)",
    "scoreAfter": {
-    "home": 26,
+    "home": 33,
     "away": 10
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 26,
+  "home": 33,
   "away": 10
  },
  "plays_summed": {
-  "home": 19,
+  "home": 26,
   "away": 10
  },
  "inferred_penalty_tries": [
