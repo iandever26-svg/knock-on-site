@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-25-lro-ubb",
  "matchId": "top14-2026-10-25-lro-ubb",
- "updated_at": "2026-10-25T21:31:39.384Z",
+ "updated_at": "2026-10-25T21:40:51.080Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604406/competitions/604406/plays?limit=400",
-   "fetched_at": "2026-10-25T21:31:39.384Z",
+   "fetched_at": "2026-10-25T21:40:51.080Z",
    "espn_event_id": "604406",
    "espn_league_id": 270559
   }
@@ -310,6 +310,30 @@
     "home": 14,
     "away": 22
    }
+  },
+  {
+   "id": "espn-1902432",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Toma Taufa",
+   "detail": "replaces Adam Coleman",
+   "playerOn": "Toma Taufa",
+   "playerOff": "Adam Coleman",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902434",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thomas Lavault",
+   "detail": "replaces Paul Boudehent",
+   "playerOn": "Thomas Lavault",
+   "playerOff": "Paul Boudehent",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
