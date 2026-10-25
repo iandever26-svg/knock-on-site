@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-25-lro-ubb",
  "matchId": "top14-2026-10-25-lro-ubb",
- "updated_at": "2026-10-25T20:35:02.256Z",
+ "updated_at": "2026-10-25T20:40:25.163Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 0-16, final 0-13; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604406/competitions/604406/plays?limit=400",
-   "fetched_at": "2026-10-25T20:35:02.256Z",
+   "fetched_at": "2026-10-25T20:40:25.163Z",
    "espn_event_id": "604406",
    "espn_league_id": 270559
   }
@@ -34,22 +35,90 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Hugo Reus",
-   "detail": "Penalty (0-3)",
+   "detail": "Penalty",
    "playerName": "Hugo Reus",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 0,
-    "away": 3
-   }
+   "label": "Penalty"
+  },
+  {
+   "id": "espn-1902401",
+   "minute": 23,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tom Willis",
+   "detail": "replaces Marko Gazzotti",
+   "playerOn": "Tom Willis",
+   "playerOff": "Marko Gazzotti",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902403",
+   "minute": 24,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Carlu Sadie",
+   "detail": "Try",
+   "playerName": "Carlu Sadie",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1902404",
+   "minute": 24,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Hugo Reus",
+   "detail": "Conversion",
+   "playerName": "Hugo Reus",
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1902405",
+   "minute": 28,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Hugo Reus",
+   "detail": "Penalty",
+   "playerName": "Hugo Reus",
+   "label": "Penalty"
+  },
+  {
+   "id": "espn-1902406",
+   "minute": 31,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Theo McFarland",
+   "detail": "replaces Matthias Haddad",
+   "playerOn": "Theo McFarland",
+   "playerOff": "Matthias Haddad",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902408",
+   "minute": 32,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Hugo Reus",
+   "detail": "Penalty",
+   "playerName": "Hugo Reus",
+   "label": "Penalty"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 0,
-  "away": 3
+  "away": 13
  },
  "plays_summed": {
   "home": 0,
-  "away": 3
+  "away": 16
+ },
+ "unexplained_gap": {
+  "home": 0,
+  "away": -3
  }
 }
