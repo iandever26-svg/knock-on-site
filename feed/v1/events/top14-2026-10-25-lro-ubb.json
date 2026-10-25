@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-25-lro-ubb",
  "matchId": "top14-2026-10-25-lro-ubb",
- "updated_at": "2026-10-25T21:26:20.859Z",
+ "updated_at": "2026-10-25T21:31:39.384Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604406/competitions/604406/plays?limit=400",
-   "fetched_at": "2026-10-25T21:26:20.859Z",
+   "fetched_at": "2026-10-25T21:31:39.384Z",
    "espn_event_id": "604406",
    "espn_league_id": 270559
   }
@@ -295,15 +295,30 @@
    "playerOn": "Ben Tameifuna",
    "playerOff": "Carlu Sadie",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1902431",
+   "minute": 56,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Hugo Reus",
+   "detail": "Penalty (14-22)",
+   "playerName": "Hugo Reus",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 14,
+    "away": 22
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 14,
-  "away": 19
+  "away": 22
  },
  "plays_summed": {
   "home": 14,
-  "away": 19
+  "away": 22
  }
 }
