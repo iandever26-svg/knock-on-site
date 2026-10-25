@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-25-lro-ubb",
  "matchId": "top14-2026-10-25-lro-ubb",
- "updated_at": "2026-10-25T20:56:29.299Z",
+ "updated_at": "2026-10-25T21:15:50.114Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604406/competitions/604406/plays?limit=400",
-   "fetched_at": "2026-10-25T20:56:29.299Z",
+   "fetched_at": "2026-10-25T21:15:50.114Z",
    "espn_event_id": "604406",
    "espn_league_id": 270559
   }
