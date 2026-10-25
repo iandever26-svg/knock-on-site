@@ -1,0 +1,58 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "prem-2026-10-25-har-sar",
+ "matchId": "prem-2026-10-25-har-sar",
+ "updated_at": "2026-10-25T15:05:43.043Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604633/competitions/604633/plays?limit=400",
+   "fetched_at": "2026-10-25T15:05:43.043Z",
+   "espn_event_id": "604633",
+   "espn_league_id": 267979
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1902318",
+   "minute": 3,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Try (5-0)",
+   "playerName": "Marcus Smith",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1902319",
+   "minute": 4,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Conversion (7-0)",
+   "playerName": "Marcus Smith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 7,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 0
+ }
+}
