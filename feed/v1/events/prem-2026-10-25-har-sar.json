@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-25-har-sar",
  "matchId": "prem-2026-10-25-har-sar",
- "updated_at": "2026-10-25T15:34:29.129Z",
+ "updated_at": "2026-10-25T15:45:03.460Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604633/competitions/604633/plays?limit=400",
-   "fetched_at": "2026-10-25T15:34:29.129Z",
+   "fetched_at": "2026-10-25T15:45:03.460Z",
    "espn_event_id": "604633",
    "espn_league_id": 267979
   }
@@ -121,6 +121,36 @@
    }
   },
   {
+   "id": "espn-1902324",
+   "minute": 36,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Fergus Burke",
+   "detail": "Yellow card (14-5)",
+   "playerName": "Fergus Burke",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 14,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1902325",
+   "minute": 37,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Cadan Murley",
+   "detail": "Try (19-5)",
+   "playerName": "Cadan Murley",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 5
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -130,20 +160,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (21-5)",
+   "detail": "Penalty try (inferred, minute unknown) (26-5)",
    "scoreAfter": {
-    "home": 21,
+    "home": 26,
     "away": 5
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
+  "home": 26,
   "away": 5
  },
  "plays_summed": {
-  "home": 14,
+  "home": 19,
   "away": 5
  },
  "inferred_penalty_tries": [
