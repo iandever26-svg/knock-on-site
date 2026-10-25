@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-25-har-sar",
  "matchId": "prem-2026-10-25-har-sar",
- "updated_at": "2026-10-25T15:45:03.460Z",
+ "updated_at": "2026-10-25T15:50:22.164Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604633/competitions/604633/plays?limit=400",
-   "fetched_at": "2026-10-25T15:45:03.460Z",
+   "fetched_at": "2026-10-25T15:50:22.164Z",
    "espn_event_id": "604633",
    "espn_league_id": 267979
   }
@@ -151,6 +151,21 @@
    }
   },
   {
+   "id": "espn-1902326",
+   "minute": 42,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Theo Dan",
+   "detail": "Try (19-10)",
+   "playerName": "Theo Dan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 10
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -160,21 +175,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (26-5)",
+   "detail": "Penalty try (inferred, minute unknown) (26-10)",
    "scoreAfter": {
     "home": 26,
-    "away": 5
+    "away": 10
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 26,
-  "away": 5
+  "away": 10
  },
  "plays_summed": {
   "home": 19,
-  "away": 5
+  "away": 10
  },
  "inferred_penalty_tries": [
   {
