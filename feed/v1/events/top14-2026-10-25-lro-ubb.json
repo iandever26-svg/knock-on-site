@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-25-lro-ubb",
  "matchId": "top14-2026-10-25-lro-ubb",
- "updated_at": "2026-10-25T21:15:50.114Z",
+ "updated_at": "2026-10-25T21:26:20.859Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604406/competitions/604406/plays?limit=400",
-   "fetched_at": "2026-10-25T21:15:50.114Z",
+   "fetched_at": "2026-10-25T21:26:20.859Z",
    "espn_event_id": "604406",
    "espn_league_id": 270559
   }
@@ -170,15 +170,140 @@
     "home": 7,
     "away": 19
    }
+  },
+  {
+   "id": "espn-1902413",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Andy Timo",
+   "detail": "replaces Antoine Hastoy",
+   "playerOn": "Andy Timo",
+   "playerOff": "Antoine Hastoy",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902414",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": null,
+   "detail": "replaces Antoine Hastoy",
+   "playerOff": "Antoine Hastoy",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902425",
+   "minute": 53,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Semi Lagivala",
+   "detail": "Try (12-19)",
+   "playerName": "Semi Lagivala",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1902416",
+   "minute": 53,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Valentin Bouju",
+   "detail": "Conversion (14-19)",
+   "playerName": "Valentin Bouju",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1902417",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alexandre Kaddouri",
+   "detail": "replaces Louis Penverne",
+   "playerOn": "Alexandre Kaddouri",
+   "playerOff": "Louis Penverne",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902419",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Pierre Bourgarit",
+   "detail": "replaces Tolu Latu",
+   "playerOn": "Pierre Bourgarit",
+   "playerOff": "Tolu Latu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902429",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Levani Botia",
+   "detail": "replaces Salmaan Moerat",
+   "playerOn": "Levani Botia",
+   "playerOff": "Salmaan Moerat",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902421",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jefferson Poirot",
+   "detail": "replaces Matis Perchaud",
+   "playerOn": "Jefferson Poirot",
+   "playerOff": "Matis Perchaud",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902423",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Maxime Lamothe",
+   "detail": "replaces Connor Sa",
+   "playerOn": "Maxime Lamothe",
+   "playerOff": "Connor Sa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902426",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben Tameifuna",
+   "detail": "replaces Carlu Sadie",
+   "playerOn": "Ben Tameifuna",
+   "playerOff": "Carlu Sadie",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 19
  },
  "plays_summed": {
-  "home": 7,
+  "home": 14,
   "away": 19
  }
 }
