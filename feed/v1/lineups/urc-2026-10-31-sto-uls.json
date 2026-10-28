@@ -1,0 +1,318 @@
+{
+  "schema_version": "1.0.0",
+  "updated_at": "2026-10-28T18:08:08+00:00",
+  "match": {
+    "match_id": "urc-2026-10-31-sto-uls",
+    "external_ids": {
+      "all_rugby_match_id": "26757"
+    },
+    "competition": {
+      "name": "BKT United Rugby Championship",
+      "code": "URC",
+      "season": "2026/27",
+      "round": null
+    },
+    "kickoff": {
+      "datetime_ireland": "2026-10-31T12:45:00+00:00",
+      "timezone_label": "GMT",
+      "datetime_utc": "2026-10-31T12:45:00Z"
+    },
+    "venue": {
+      "name": "DHL Stadium",
+      "city": null,
+      "country": null
+    },
+    "home": {
+      "name": "Stormers",
+      "short_name": "STO",
+      "slug": "stormers",
+      "union": "SARU"
+    },
+    "away": {
+      "name": "Ulster",
+      "short_name": "ULS",
+      "slug": "ulster",
+      "union": "IRFU"
+    },
+    "status": "team_news_partial",
+    "score": null
+  },
+  "lineups": {
+    "home": {
+      "club": {
+        "name": "Stormers",
+        "short_name": "STO",
+        "slug": "stormers",
+        "union": "SARU"
+      },
+      "announced_at": "2026-10-28T10:12:32+00:00",
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Ntuthuko Mchunu",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Vernon Paulo",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Wilco Louw",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Adré Smith",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "JD Schickerling",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Paul de Villiers",
+          "position_label": "Blindside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Louw Nel",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Evan Roos",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Cobus Reinach",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Yaqeen Ahmed",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Leolin Zas",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Jonathan Roche",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Ruhan Nel",
+          "position_label": "Outside Centre",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Seabelo Senatla",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Damian Willemse",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Bongi Mbonambi",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Vernon Matongo",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Neethling Fouché",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Riley Norton",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Connor Evans",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Wandile Mlaba",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Haashim Pead",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Wandisile Simelane",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 13,
+      "source_tier": "official",
+      "source_format_notes": "Parsed 23 numbered slots from official HTML"
+    },
+    "away": {
+      "club": {
+        "name": "Ulster",
+        "short_name": "ULS",
+        "slug": "ulster",
+        "union": "IRFU"
+      },
+      "announced_at": null,
+      "players": [],
+      "parse_status": "pending",
+      "missing_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "captain_jersey": null,
+      "source_format_notes": "No officially announced 1–23 found this poll (2026-10-28T18:08:08+00:00); unitedrugby.com=team sheets empty (not announced; match_status=fixture); fallbacks: rugbypass=ok, all_rugby=no game sheet table (not announced)"
+    }
+  },
+  "provenance": [
+    {
+      "source_name": "stormers_official",
+      "url": "https://stormers.co.za/dhl-stormers-shake-up-for-ulster-clash/",
+      "fetched_at": "2026-10-28T18:08:08+00:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home",
+      "published_at": "2026-10-28T10:12:32+00:00",
+      "published_at_source": "meta_published_time",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "stormers_official",
+      "url": "https://stormers.co.za/news/",
+      "fetched_at": "2026-10-28T18:08:08+00:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "discovery_feed",
+      "side": "home",
+      "source_tier": "official"
+    }
+  ],
+  "confidence": {
+    "overall": 0.48,
+    "match_identity": 0.9,
+    "home_lineup": 0.95,
+    "away_lineup": 0,
+    "score": 0,
+    "reasons": [
+      "home: complete_1_to_23 from stormers_official (official)",
+      "away: not announced / not found"
+    ]
+  },
+  "notes": "Ingest poll 2026-10-28T18:08:08+00:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+}
