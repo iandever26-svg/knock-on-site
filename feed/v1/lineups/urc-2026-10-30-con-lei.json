@@ -61,7 +61,8 @@
         "name": "Paul Boyle",
         "position": "N8",
         "positionLabel": "Number 8",
-        "caps": 142
+        "caps": 142,
+        "isCaptain": true
       },
       {
         "number": 9,
@@ -168,7 +169,8 @@
         "positionLabel": "Back (bench)",
         "caps": 24
       }
-    ]
+    ],
+    "captainJersey": 8
   },
   "away": {
     "teamId": "leinster",
