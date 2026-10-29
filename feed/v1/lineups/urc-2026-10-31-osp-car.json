@@ -279,7 +279,7 @@
           "jersey": 4,
           "name": "Josh McNally",
           "position_label": "Lock",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -438,7 +438,7 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
+      "captain_jersey": 4,
       "source_tier": "official",
       "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292623; league shirt numbers 1–23; no captain marker in feed)"
     }
@@ -492,6 +492,17 @@
       "side": "away",
       "published_at": null,
       "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-31T19:45:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "cardiff_official_x",
+      "url": "https://x.com/Cardiff_Rugby/status/2115806200042279239",
+      "fetched_at": "2026-10-29T14:20:37+00:00",
+      "content_type": "other",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
       "source_tier": "official"
     }
   ],

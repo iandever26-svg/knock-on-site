@@ -163,7 +163,7 @@
           "jersey": 15,
           "name": "Angus O'Brien",
           "position_label": "Fullback",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -234,7 +234,7 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
+      "captain_jersey": 15,
       "source_tier": "official",
       "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292622; league shirt numbers 1–23; no captain marker in feed)"
     },
@@ -477,6 +477,17 @@
       "side": "away",
       "published_at": null,
       "published_at_source": "unverified_title_names_opponent",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "dragons_official",
+      "url": "https://www.dragonsrfc.wales/news/2026/october/keddie-to-hit-150-in-zebre-encounter.html",
+      "fetched_at": "2026-10-29T14:20:37+00:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home",
       "source_tier": "official"
     }
   ],

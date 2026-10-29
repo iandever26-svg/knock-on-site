@@ -299,7 +299,7 @@
           "jersey": 7,
           "name": "Scott Penny",
           "position_label": "Openside",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -434,7 +434,7 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
+      "captain_jersey": 7,
       "source_tier": "official",
       "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292616; league shirt numbers 1–23; no captain marker in feed)"
     }
@@ -488,6 +488,17 @@
       "side": "away",
       "published_at": null,
       "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-30T19:45:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "leinster_official",
+      "url": "https://www.leinsterrugby.ie/preview/penny-to-captain-leinster-in-galway-against-connacht/",
+      "fetched_at": "2026-10-29T14:20:37+00:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
       "source_tier": "official"
     }
   ],
