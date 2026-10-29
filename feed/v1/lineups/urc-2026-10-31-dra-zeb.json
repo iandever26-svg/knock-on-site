@@ -1,0 +1,495 @@
+{
+  "schema_version": "1.0.0",
+  "updated_at": "2026-10-29T14:15:33+00:00",
+  "match": {
+    "match_id": "urc-2026-10-31-dra-zeb",
+    "external_ids": {
+      "all_rugby_match_id": "26761"
+    },
+    "competition": {
+      "name": "BKT United Rugby Championship",
+      "code": "URC",
+      "season": "2026/27",
+      "round": null
+    },
+    "kickoff": {
+      "datetime_ireland": "2026-10-31T17:30:00+00:00",
+      "timezone_label": "GMT",
+      "datetime_utc": "2026-10-31T17:30:00Z"
+    },
+    "venue": {
+      "name": "Rodney Parade",
+      "city": null,
+      "country": null
+    },
+    "home": {
+      "name": "Dragons",
+      "short_name": "DRA",
+      "slug": "dragons",
+      "union": "WRU"
+    },
+    "away": {
+      "name": "Zebre Parma",
+      "short_name": "ZEB",
+      "slug": "zebre",
+      "union": "FIR"
+    },
+    "status": "team_news_complete",
+    "score": null
+  },
+  "lineups": {
+    "home": {
+      "club": {
+        "name": "Dragons",
+        "short_name": "DRA",
+        "slug": "dragons",
+        "union": "WRU"
+      },
+      "announced_at": null,
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Jordan Morris",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Elliot Dee",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Chris Coleman",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Barny Langton-Cryer",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Matthew Screech",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Shane Lewis-Hughes",
+          "position_label": "Blindside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Evan Minto",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Harrison Keddie",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Rhodri Williams",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Tinus de Beer",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Anzelo Tuitavuki",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Fetuli Paea",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Fine Inisi",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "David Richards",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Angus O'Brien",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Brodie Coghlan",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Rodrigo Martinez Manzano",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Owain James",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Nick Thomas",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Sam Scarfe",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Morgan Lloyd",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Cai Evans",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Joe Westwood",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": null,
+      "source_tier": "official",
+      "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292622; league shirt numbers 1–23; no captain marker in feed)"
+    },
+    "away": {
+      "club": {
+        "name": "Zebre Parma",
+        "short_name": "ZEB",
+        "slug": "zebre",
+        "union": "FIR"
+      },
+      "announced_at": null,
+      "players": [
+        {
+          "jersey": 1,
+          "name": "Sergio Pelliccioli",
+          "position_label": "LH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 2,
+          "name": "Giampietro Ribaldi",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 3,
+          "name": "Juan Barbotti",
+          "position_label": "TH Prop",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 4,
+          "name": "Francesco Ruffolo",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 5,
+          "name": "Leonard Krumov",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 6,
+          "name": "Giacomo Ferrari",
+          "position_label": "Blindside",
+          "is_captain": true,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 7,
+          "name": "Bautista Stavile Bravin",
+          "position_label": "Openside",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 8,
+          "name": "Davide Ruggeri",
+          "position_label": "No. 8",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 9,
+          "name": "Thomas Dominguez",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 10,
+          "name": "Giacomo da Re",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 11,
+          "name": "Simone Gesi",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 12,
+          "name": "Riccardo Casarin",
+          "position_label": "Inside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 13,
+          "name": "Marco Zanon",
+          "position_label": "Outside Centre",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 14,
+          "name": "Leonardo Sodo Migliori",
+          "position_label": "Wing",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 15,
+          "name": "Giovanni Montemauri",
+          "position_label": "Fullback",
+          "is_captain": false,
+          "is_starter": true,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 16,
+          "name": "Francisco Minervino",
+          "position_label": "Hooker",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 17,
+          "name": "Federico Pisani",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 18,
+          "name": "Octavio Barbatti",
+          "position_label": "Prop",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 19,
+          "name": "Matteo Canali",
+          "position_label": "Lock",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 20,
+          "name": "Jacopo Botturi",
+          "position_label": "Back row",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 21,
+          "name": "Patricio Baronio",
+          "position_label": "Scrum-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 22,
+          "name": "Jacopo Trulla",
+          "position_label": "Fly-half",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        },
+        {
+          "jersey": 23,
+          "name": "Tobias Wade",
+          "position_label": "Utility",
+          "is_captain": false,
+          "is_starter": false,
+          "replacement_notes": null
+        }
+      ],
+      "parse_status": "complete_1_to_23",
+      "missing_numbers": [],
+      "captain_jersey": 6,
+      "source_tier": "official",
+      "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292622; league shirt numbers 1–23; no captain marker in feed); captain flag from official club article tag (Giacomo Ferrari)"
+    }
+  },
+  "provenance": [
+    {
+      "source_name": "urc_official",
+      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292622%5D%7D",
+      "fetched_at": "2026-10-29T14:15:33+00:00",
+      "content_type": "other",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "home",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-31T17:30:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "urc_official",
+      "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292622%5D%7D",
+      "fetched_at": "2026-10-29T14:15:33+00:00",
+      "content_type": "other",
+      "http_status": 200,
+      "is_primary": true,
+      "role": "primary_sheet",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-31T17:30:00.000Z",
+      "source_tier": "official"
+    },
+    {
+      "source_name": "zebre_official",
+      "url": "https://www.zebreparma.it/it-it/urc-r5-sabato-zebre-in-trasferta-a-newport-contro-i-dragons.aspx",
+      "fetched_at": "2026-10-29T14:15:33+00:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "published_at": null,
+      "published_at_source": "unverified_title_names_opponent",
+      "source_tier": "official"
+    }
+  ],
+  "confidence": {
+    "overall": 0.95,
+    "match_identity": 0.9,
+    "home_lineup": 0.95,
+    "away_lineup": 0.95,
+    "score": 0,
+    "reasons": [
+      "home: complete_1_to_23 from urc_official (official)",
+      "away: complete_1_to_23 from urc_official (official)"
+    ]
+  },
+  "notes": "Ingest poll 2026-10-29T14:15:33+00:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+}
