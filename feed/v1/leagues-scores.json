@@ -1,30 +1,34 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-10-30T20:44:50.263Z",
- "updatedAt": "2026-10-30T20:44:50.263Z",
+ "generatedAt": "2026-10-30T20:50:18.806Z",
+ "updatedAt": "2026-10-30T20:50:18.806Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
    "schema_version": "1.0.0",
    "match_id": "prem-2026-10-30-bri-lec",
-   "status": "ht",
+   "status": "live",
    "home_score": 7,
    "away_score": 12,
-   "clock": "HT",
-   "period": "HT",
-   "updated_at": "2026-10-30T20:44:50.263Z",
+   "clock": null,
+   "period": "2H",
+   "updated_at": "2026-10-30T20:50:18.806Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-30T20:44:50.263Z",
+     "fetched_at": "2026-10-30T20:50:18.806Z",
      "espn_event_id": "604634",
-     "may_lag": true
+     "may_lag": true,
+     "espn_display_clock": "1'",
+     "espn_clock_seconds": 0,
+     "espn_period": 2
     }
    ],
-   "latest_event_minute": 37,
-   "latest_event_period": "1H",
-   "latest_event_seen_at": "2026-10-30T20:39:33.291Z"
+   "second_half_seen_at": "2026-10-30T20:50:18.806Z",
+   "latest_event_minute": 40,
+   "latest_event_period": "2H",
+   "latest_event_seen_at": "2026-10-30T20:50:18.806Z"
   }
  ]
 }

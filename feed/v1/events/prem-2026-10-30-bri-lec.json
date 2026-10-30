@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-30-bri-lec",
  "matchId": "prem-2026-10-30-bri-lec",
- "updated_at": "2026-10-30T20:44:50.263Z",
+ "updated_at": "2026-10-30T20:50:18.806Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604634/competitions/604634/plays?limit=400",
-   "fetched_at": "2026-10-30T20:44:50.263Z",
+   "fetched_at": "2026-10-30T20:50:18.806Z",
    "espn_event_id": "604634",
    "espn_league_id": 267979
   }
@@ -21,8 +21,9 @@
    "period": "1H",
    "type": "try",
    "team": "home",
-   "player": null,
+   "player": "Louis Rees-Zammit",
    "detail": "Try (5-0)",
+   "playerName": "Louis Rees-Zammit",
    "label": "Try",
    "scoreAfter": {
     "home": 5,
@@ -35,8 +36,9 @@
    "period": "1H",
    "type": "conversion_made",
    "team": "home",
-   "player": null,
+   "player": "James Williams",
    "detail": "Conversion (7-0)",
+   "playerName": "James Williams",
    "label": "Conversion",
    "scoreAfter": {
     "home": 7,
@@ -49,8 +51,9 @@
    "period": "1H",
    "type": "try",
    "team": "away",
-   "player": null,
+   "player": "Freddie Steward",
    "detail": "Try (7-5)",
+   "playerName": "Freddie Steward",
    "label": "Try",
    "scoreAfter": {
     "home": 7,
@@ -63,8 +66,9 @@
    "period": "1H",
    "type": "conversion_made",
    "team": "away",
-   "player": null,
+   "player": "Billy Searle",
    "detail": "Conversion (7-7)",
+   "playerName": "Billy Searle",
    "label": "Conversion",
    "scoreAfter": {
     "home": 7,
@@ -77,8 +81,9 @@
    "period": "1H",
    "type": "yellow_card",
    "team": "home",
-   "player": null,
+   "player": "Matias Moroni",
    "detail": "Yellow card (7-7)",
+   "playerName": "Matias Moroni",
    "label": "Yellow card",
    "scoreAfter": {
     "home": 7,
@@ -91,8 +96,9 @@
    "period": "1H",
    "type": "yellow_card",
    "team": "home",
-   "player": null,
+   "player": "Tom Jordan",
    "detail": "Yellow card (7-7)",
+   "playerName": "Tom Jordan",
    "label": "Yellow card",
    "scoreAfter": {
     "home": 7,
@@ -105,13 +111,41 @@
    "period": "1H",
    "type": "try",
    "team": "away",
-   "player": null,
+   "player": "Adam Radwan",
    "detail": "Try (7-12)",
+   "playerName": "Adam Radwan",
    "label": "Try",
    "scoreAfter": {
     "home": 7,
     "away": 12
    }
+  },
+  {
+   "id": "espn-1902665-cm",
+   "minute": 37,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (7-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1902810",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joaquin Moro",
+   "detail": "replaces Finn Carnduff",
+   "playerOn": "Joaquin Moro",
+   "playerOff": "Finn Carnduff",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
