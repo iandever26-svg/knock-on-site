@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-30-bri-lec",
  "matchId": "prem-2026-10-30-bri-lec",
- "updated_at": "2026-10-30T21:20:46.494Z",
- "final": false,
+ "updated_at": "2026-10-30T21:37:14.962Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604634/competitions/604634/plays?limit=400",
-   "fetched_at": "2026-10-30T21:20:46.494Z",
+   "fetched_at": "2026-10-30T21:37:14.962Z",
    "espn_event_id": "604634",
    "espn_league_id": 267979
   }
@@ -368,15 +368,66 @@
    "playerOn": "Kieran Marmion",
    "playerOff": "Harry Randall",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1902975",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Samiuela Moli",
+   "detail": "replaces Jamie Blamire",
+   "playerOn": "Samiuela Moli",
+   "playerOff": "Jamie Blamire",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902948",
+   "minute": 73,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "James Williams",
+   "detail": "Penalty (16-22)",
+   "playerName": "James Williams",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 16,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1902963",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Elliott Stooke",
+   "detail": "replaces Cameron Henderson",
+   "playerOn": "Elliott Stooke",
+   "playerOff": "Cameron Henderson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902977",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jack Bates",
+   "detail": "replaces Pedro Rubiolo",
+   "playerOn": "Jack Bates",
+   "playerOff": "Pedro Rubiolo",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 13,
+  "home": 16,
   "away": 22
  },
  "plays_summed": {
-  "home": 13,
+  "home": 16,
   "away": 22
  }
 }
