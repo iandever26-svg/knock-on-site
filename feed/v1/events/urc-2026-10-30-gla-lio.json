@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-gla-lio",
   "matchId": "urc-2026-10-30-gla-lio",
-  "updated_at": "2026-10-30T21:07:28+00:00",
+  "updated_at": "2026-10-30T21:17:52+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604065/competitions/604065/plays",
-      "fetched_at": "2026-10-30T21:07:28+00:00",
+      "fetched_at": "2026-10-30T21:17:52+00:00",
       "espn_event_id": "604065",
       "espn_league_id": 270557
     }
@@ -295,6 +295,21 @@
       "playerOn": "Max Williamson",
       "playerOff": "Alex Craig",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1902896",
+      "minute": 65,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Sibabalwe Mahashe",
+      "detail": "Try (19-15)",
+      "playerName": "Sibabalwe Mahashe",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 15
+      }
     }
   ]
 }
