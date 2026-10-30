@@ -2,21 +2,21 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-gla-lio",
   "matchId": "urc-2026-10-30-gla-lio",
-  "updated_at": "2026-10-30T20:40:59+00:00",
+  "updated_at": "2026-10-30T20:46:28+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604065/competitions/604065/plays",
-      "fetched_at": "2026-10-30T20:40:59+00:00",
+      "fetched_at": "2026-10-30T20:46:28+00:00",
       "espn_event_id": "604065",
       "espn_league_id": 270557
     }
   ],
   "events": [
     {
-      "id": "espn-1902686",
-      "minute": 7,
+      "id": "espn-1902713",
+      "minute": 6,
       "period": "1H",
       "type": "substitution",
       "team": "away",
@@ -27,8 +27,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1902688",
-      "minute": 11,
+      "id": "espn-1902715",
+      "minute": 9,
       "period": "1H",
       "type": "substitution",
       "team": "home",
@@ -39,8 +39,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1902690",
-      "minute": 12,
+      "id": "espn-1902732",
+      "minute": 9,
       "period": "1H",
       "type": "try",
       "team": "home",
@@ -54,8 +54,8 @@
       }
     },
     {
-      "id": "espn-1902691",
-      "minute": 13,
+      "id": "espn-1902745",
+      "minute": 10,
       "period": "1H",
       "type": "conversion_made",
       "team": "home",
@@ -69,8 +69,8 @@
       }
     },
     {
-      "id": "espn-1902692",
-      "minute": 16,
+      "id": "espn-1902766",
+      "minute": 13,
       "period": "1H",
       "type": "penalty_goal_made",
       "team": "away",
@@ -84,8 +84,8 @@
       }
     },
     {
-      "id": "espn-1902693",
-      "minute": 18,
+      "id": "espn-1902767",
+      "minute": 15,
       "period": "1H",
       "type": "substitution",
       "team": "away",
@@ -96,8 +96,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1902695",
-      "minute": 27,
+      "id": "espn-1902769",
+      "minute": 25,
       "period": "1H",
       "type": "substitution",
       "team": "away",
@@ -108,8 +108,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1902697",
-      "minute": 31,
+      "id": "espn-1902771",
+      "minute": 28,
       "period": "1H",
       "type": "try",
       "team": "home",
@@ -123,8 +123,8 @@
       }
     },
     {
-      "id": "espn-1902698",
-      "minute": 32,
+      "id": "espn-1902772",
+      "minute": 29,
       "period": "1H",
       "type": "conversion_made",
       "team": "home",
@@ -138,8 +138,8 @@
       }
     },
     {
-      "id": "espn-1902699",
-      "minute": 36,
+      "id": "espn-1902773",
+      "minute": 33,
       "period": "1H",
       "type": "yellow_card",
       "team": "away",
@@ -153,8 +153,8 @@
       }
     },
     {
-      "id": "espn-1902700",
-      "minute": 36,
+      "id": "espn-1902774",
+      "minute": 33,
       "period": "1H",
       "type": "substitution",
       "team": "home",
@@ -165,8 +165,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1902702",
-      "minute": 37,
+      "id": "espn-1902756",
+      "minute": 35,
       "period": "1H",
       "type": "try",
       "team": "home",
