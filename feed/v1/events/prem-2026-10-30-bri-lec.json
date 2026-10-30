@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-30-bri-lec",
  "matchId": "prem-2026-10-30-bri-lec",
- "updated_at": "2026-10-30T19:57:41.500Z",
+ "updated_at": "2026-10-30T20:39:33.291Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604634/competitions/604634/plays?limit=400",
-   "fetched_at": "2026-10-30T19:57:41.500Z",
+   "fetched_at": "2026-10-30T20:39:33.291Z",
    "espn_event_id": "604634",
    "espn_league_id": 267979
   }
@@ -44,15 +44,90 @@
     "home": 7,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1902621",
+   "minute": 11,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Freddie Steward",
+   "detail": "Try (7-5)",
+   "playerName": "Freddie Steward",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1902622",
+   "minute": 12,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Billy Searle",
+   "detail": "Conversion (7-7)",
+   "playerName": "Billy Searle",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1902656",
+   "minute": 32,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Matias Moroni",
+   "detail": "Yellow card (7-7)",
+   "playerName": "Matias Moroni",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1902658",
+   "minute": 35,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Tom Jordan",
+   "detail": "Yellow card (7-7)",
+   "playerName": "Tom Jordan",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1902665",
+   "minute": 37,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Adam Radwan",
+   "detail": "Try (7-12)",
+   "playerName": "Adam Radwan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 0
+  "away": 12
  },
  "plays_summed": {
   "home": 7,
-  "away": 0
+  "away": 12
  }
 }
