@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-gla-lio",
   "matchId": "urc-2026-10-30-gla-lio",
-  "updated_at": "2026-10-30T21:17:52+00:00",
+  "updated_at": "2026-10-30T21:23:11+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604065/competitions/604065/plays",
-      "fetched_at": "2026-10-30T21:17:52+00:00",
+      "fetched_at": "2026-10-30T21:23:11+00:00",
       "espn_event_id": "604065",
       "espn_league_id": 270557
     }
@@ -297,6 +297,42 @@
       "label": "Substitution"
     },
     {
+      "id": "espn-1902917",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sikhumbuzo Notshe",
+      "detail": "replaces Sibabalo Qoma",
+      "playerOn": "Sikhumbuzo Notshe",
+      "playerOff": "Sibabalo Qoma",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902919",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Morne Brandon",
+      "detail": "replaces Tiaan Lange",
+      "playerOn": "Morne Brandon",
+      "playerOff": "Tiaan Lange",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902915",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Dylan Sjoblom",
+      "detail": "replaces Etienne Oosthuizen",
+      "playerOn": "Dylan Sjoblom",
+      "playerOff": "Etienne Oosthuizen",
+      "label": "Substitution"
+    },
+    {
       "id": "espn-1902896",
       "minute": 65,
       "period": "2H",
@@ -309,6 +345,36 @@
       "scoreAfter": {
         "home": 19,
         "away": 15
+      }
+    },
+    {
+      "id": "espn-1902896-cm",
+      "minute": 65,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (19-15)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 19,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1902926",
+      "minute": 71,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Morne Brandon",
+      "detail": "Try (19-20)",
+      "playerName": "Morne Brandon",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 20
       }
     }
   ]
