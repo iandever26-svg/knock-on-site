@@ -1,20 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-30T21:23:11+00:00",
-  "updatedAt": "2026-10-30T21:23:11+00:00",
+  "generatedAt": "2026-10-30T21:37:17+00:00",
+  "updatedAt": "2026-10-30T21:37:17+00:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-30T19:15:07+00:00",
   "matches": [
-    {
-      "match_id": "prem-2026-10-30-bri-lec",
-      "kickoff": null,
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-30T21:20:46.494Z"
-    },
     {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
@@ -339,21 +329,21 @@
       "match_id": "urc-2026-10-30-con-lei",
       "kickoff": "2026-10-30T19:45:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-30T21:23:09+00:00",
+      "scoreUpdatedAt": "2026-10-30T21:37:16+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-29T14:14:57+00:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-30T21:23:11+00:00"
+      "eventsUpdatedAt": "2026-10-30T21:37:17+00:00"
     },
     {
       "match_id": "urc-2026-10-30-gla-lio",
       "kickoff": "2026-10-30T19:45:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-30T21:23:09+00:00",
+      "scoreUpdatedAt": "2026-10-30T21:37:16+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-29T14:15:03+00:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-30T21:23:11+00:00"
+      "eventsUpdatedAt": "2026-10-30T21:37:17+00:00"
     },
     {
       "match_id": "urc-2026-10-31-ben-edi",
@@ -414,6 +404,16 @@
       "lineupUpdatedAt": "2026-10-30T14:16:32+00:00",
       "events": false,
       "eventsUpdatedAt": null
+    },
+    {
+      "match_id": "prem-2026-10-30-bri-lec",
+      "kickoff": null,
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-30T21:20:46.494Z"
     }
   ]
 }
