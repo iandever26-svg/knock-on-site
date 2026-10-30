@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-con-lei",
   "matchId": "urc-2026-10-30-con-lei",
-  "updated_at": "2026-10-30T20:08:48+00:00",
+  "updated_at": "2026-10-30T20:20:43+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604064/competitions/604064/plays",
-      "fetched_at": "2026-10-30T20:08:48+00:00",
+      "fetched_at": "2026-10-30T20:20:43+00:00",
       "espn_event_id": "604064",
       "espn_league_id": 270557
     }
@@ -42,6 +42,81 @@
       "scoreAfter": {
         "home": 0,
         "away": 7
+      }
+    },
+    {
+      "id": "espn-1902641",
+      "minute": 25,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Jordan Larmour",
+      "detail": "Try (0-12)",
+      "playerName": "Jordan Larmour",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1902642",
+      "minute": 26,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Joey Carbery",
+      "detail": "Conversion (0-14)",
+      "playerName": "Joey Carbery",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 0,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1902643",
+      "minute": 28,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Dave Heffernan",
+      "detail": "Try (5-14)",
+      "playerName": "Dave Heffernan",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1902643-cm",
+      "minute": 28,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (5-14)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 5,
+        "away": 14
+      }
+    },
+    {
+      "id": "espn-1902646",
+      "minute": 32,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Todd Lawlor",
+      "detail": "Try (5-19)",
+      "playerName": "Todd Lawlor",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 19
       }
     }
   ]
