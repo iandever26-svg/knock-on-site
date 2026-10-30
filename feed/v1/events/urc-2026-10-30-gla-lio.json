@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-gla-lio",
   "matchId": "urc-2026-10-30-gla-lio",
-  "updated_at": "2026-10-30T20:20:43+00:00",
+  "updated_at": "2026-10-30T20:35:22+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604065/competitions/604065/plays",
-      "fetched_at": "2026-10-30T20:20:43+00:00",
+      "fetched_at": "2026-10-30T20:35:22+00:00",
       "espn_event_id": "604065",
       "espn_league_id": 270557
     }
@@ -106,6 +106,78 @@
       "playerOn": "Boeta Chamberlain",
       "playerOff": "Chris Smith",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1902655",
+      "minute": 30,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Dan Lancaster",
+      "detail": "Try (12-3)",
+      "playerName": "Dan Lancaster",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-1902657",
+      "minute": 31,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "George Horne",
+      "detail": "Conversion (14-3)",
+      "playerName": "George Horne",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 14,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-1902661",
+      "minute": 35,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Etienne Oosthuizen",
+      "detail": "Yellow card (14-3)",
+      "playerName": "Etienne Oosthuizen",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 14,
+        "away": 3
+      }
+    },
+    {
+      "id": "espn-1902663",
+      "minute": 35,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sam Talakai",
+      "detail": "replaces Finlay Richardson",
+      "playerOn": "Sam Talakai",
+      "playerOff": "Finlay Richardson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902662",
+      "minute": 36,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Jack Singleton",
+      "detail": "Try (19-3)",
+      "playerName": "Jack Singleton",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 3
+      }
     }
   ]
 }

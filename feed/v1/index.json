@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-30T20:20:43+00:00",
-  "updatedAt": "2026-10-30T20:20:43+00:00",
+  "generatedAt": "2026-10-30T20:35:33+00:00",
+  "updatedAt": "2026-10-30T20:35:33+00:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-30T19:15:07+00:00",
   "matches": [
@@ -329,7 +329,7 @@
       "match_id": "urc-2026-10-30-con-lei",
       "kickoff": "2026-10-30T19:45:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-30T20:20:40+00:00",
+      "scoreUpdatedAt": "2026-10-30T20:35:12+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-29T14:14:57+00:00",
       "events": true,
@@ -339,11 +339,11 @@
       "match_id": "urc-2026-10-30-gla-lio",
       "kickoff": "2026-10-30T19:45:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-30T20:20:40+00:00",
+      "scoreUpdatedAt": "2026-10-30T20:35:11+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-29T14:15:03+00:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-30T20:20:43+00:00"
+      "eventsUpdatedAt": "2026-10-30T20:35:22+00:00"
     },
     {
       "match_id": "urc-2026-10-31-ben-edi",
