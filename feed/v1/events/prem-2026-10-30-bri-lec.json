@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-30-bri-lec",
  "matchId": "prem-2026-10-30-bri-lec",
- "updated_at": "2026-10-30T20:50:18.806Z",
+ "updated_at": "2026-10-30T21:02:24.104Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604634/competitions/604634/plays?limit=400",
-   "fetched_at": "2026-10-30T20:50:18.806Z",
+   "fetched_at": "2026-10-30T21:02:24.104Z",
    "espn_event_id": "604634",
    "espn_league_id": 267979
   }
@@ -146,15 +146,72 @@
    "playerOn": "Joaquin Moro",
    "playerOff": "Finn Carnduff",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1902814",
+   "minute": 42,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Ollie Hassell-Collins",
+   "detail": "Try (7-17)",
+   "playerName": "Ollie Hassell-Collins",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1902814-cm",
+   "minute": 42,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (7-17)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 7,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1902815",
+   "minute": 45,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "James Williams",
+   "detail": "Penalty (10-17)",
+   "playerName": "James Williams",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 10,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1902837",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jack van Poortvliet",
+   "detail": "replaces Tom Whiteley",
+   "playerOn": "Jack van Poortvliet",
+   "playerOff": "Tom Whiteley",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
-  "away": 12
+  "home": 10,
+  "away": 17
  },
  "plays_summed": {
-  "home": 7,
-  "away": 12
+  "home": 10,
+  "away": 17
  }
 }
