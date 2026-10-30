@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-30T21:45:58+00:00",
-  "updatedAt": "2026-10-30T21:45:58+00:00",
+  "generatedAt": "2026-10-30T21:58:01+00:00",
+  "updatedAt": "2026-10-30T21:58:01+00:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -815,13 +815,13 @@
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
-      "home_tries": 1,
-      "away_tries": 7,
-      "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-30T20:46:28+00:00",
       "latest_event_minute": 74,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-30T21:23:11+00:00"
+      "latest_event_seen_at": "2026-10-30T21:23:11+00:00",
+      "home_tries": 1,
+      "away_tries": 7,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
@@ -842,13 +842,13 @@
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
-      "home_tries": 4,
-      "away_tries": 3,
-      "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-30T21:02:00+00:00",
       "latest_event_minute": 84,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-30T21:37:17+00:00"
+      "latest_event_seen_at": "2026-10-30T21:37:17+00:00",
+      "home_tries": 4,
+      "away_tries": 3,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
