@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-con-lei",
   "matchId": "urc-2026-10-30-con-lei",
-  "updated_at": "2026-10-30T20:51:38+00:00",
+  "updated_at": "2026-10-30T21:01:59+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604064/competitions/604064/plays",
-      "fetched_at": "2026-10-30T20:51:38+00:00",
+      "fetched_at": "2026-10-30T21:01:59+00:00",
       "espn_event_id": "604064",
       "espn_league_id": 270557
     }
@@ -167,6 +167,135 @@
       "detail": "replaces John Devine",
       "playerOn": "Sam Gilbert",
       "playerOff": "John Devine",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902831",
+      "minute": 51,
+      "period": "2H",
+      "type": "penalty_goal_made",
+      "team": "away",
+      "player": "Joey Carbery",
+      "detail": "Penalty (5-24)",
+      "playerName": "Joey Carbery",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 5,
+        "away": 24
+      }
+    },
+    {
+      "id": "espn-1902832",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Matt Victory",
+      "detail": "replaces Dave Heffernan",
+      "playerOn": "Matt Victory",
+      "playerOff": "Dave Heffernan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902834",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jerry Cahir",
+      "detail": "replaces Francois van Wyk",
+      "playerOn": "Jerry Cahir",
+      "playerOff": "Francois van Wyk",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902839",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Niall Murray",
+      "detail": "replaces Josh Murphy",
+      "playerOn": "Niall Murray",
+      "playerOff": "Josh Murphy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902836",
+      "minute": 52,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Max Deegan",
+      "detail": "Try (5-29)",
+      "playerName": "Max Deegan",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 29
+      }
+    },
+    {
+      "id": "espn-1902836-cm",
+      "minute": 52,
+      "period": "2H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (5-29)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 5,
+        "away": 29
+      }
+    },
+    {
+      "id": "espn-1902841",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Finn Treacy",
+      "detail": "replaces Shayne Bolton",
+      "playerOn": "Finn Treacy",
+      "playerOff": "Shayne Bolton",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902852",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Conor O'Tighearnaigh",
+      "detail": "replaces Alan Spicer",
+      "playerOn": "Conor O'Tighearnaigh",
+      "playerOff": "Alan Spicer",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902850",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Fiachna Barrett",
+      "detail": "replaces Finlay Bealham",
+      "playerOn": "Fiachna Barrett",
+      "playerOff": "Finlay Bealham",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902854",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Cormac Foley",
+      "detail": "replaces Fintan Gunne",
+      "playerOn": "Cormac Foley",
+      "playerOff": "Fintan Gunne",
       "label": "Substitution"
     }
   ]

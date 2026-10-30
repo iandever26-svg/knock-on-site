@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-gla-lio",
   "matchId": "urc-2026-10-30-gla-lio",
-  "updated_at": "2026-10-30T20:51:38+00:00",
+  "updated_at": "2026-10-30T21:02:00+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604065/competitions/604065/plays",
-      "fetched_at": "2026-10-30T20:51:38+00:00",
+      "fetched_at": "2026-10-30T21:02:00+00:00",
       "espn_event_id": "604065",
       "espn_league_id": 270557
     }
@@ -205,6 +205,69 @@
       "playerOn": "Patrick Schickerling",
       "playerOff": "Jake Shearer",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1902816",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Boan Venter",
+      "detail": "replaces SJ Kotze",
+      "playerOn": "Boan Venter",
+      "playerOff": "SJ Kotze",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902818",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Conraad van Vuuren",
+      "detail": "replaces RF Schoeman",
+      "playerOn": "Conraad van Vuuren",
+      "playerOff": "RF Schoeman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902846",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Gregor Hiddleston",
+      "detail": "replaces Jack Singleton",
+      "playerOn": "Gregor Hiddleston",
+      "playerOff": "Jack Singleton",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902848",
+      "minute": 49,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Richard Kriel",
+      "detail": "replaces Bronson Mills",
+      "playerOn": "Richard Kriel",
+      "playerOff": "Bronson Mills",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902845",
+      "minute": 50,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Morne van den Berg",
+      "detail": "Try (19-8)",
+      "playerName": "Morne van den Berg",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 8
+      }
     }
   ]
 }
