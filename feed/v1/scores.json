@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-30T20:08:49+00:00",
-  "updatedAt": "2026-10-30T20:08:49+00:00",
+  "generatedAt": "2026-10-30T20:15:38+00:00",
+  "updatedAt": "2026-10-30T20:15:38+00:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -801,15 +801,15 @@
       "match_id": "urc-2026-10-30-con-lei",
       "status": "live",
       "home_score": 0,
-      "away_score": 7,
+      "away_score": 14,
       "clock": null,
       "period": "1H",
-      "updated_at": "2026-10-30T20:08:44+00:00",
+      "updated_at": "2026-10-30T20:15:19+00:00",
       "provenance": [
         {
           "source_name": "highlightly",
           "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-30&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-30T20:08:44+00:00",
+          "fetched_at": "2026-10-30T20:15:19+00:00",
           "highlightly_match_id": 45673103,
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
@@ -830,12 +830,12 @@
       "away_score": 3,
       "clock": null,
       "period": "1H",
-      "updated_at": "2026-10-30T20:08:44+00:00",
+      "updated_at": "2026-10-30T20:15:19+00:00",
       "provenance": [
         {
           "source_name": "highlightly",
           "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-30&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-30T20:08:44+00:00",
+          "fetched_at": "2026-10-30T20:15:19+00:00",
           "highlightly_match_id": 45673954,
           "highlightly_league_id": 65460,
           "highlightly_league_name": "United Rugby Championship"
