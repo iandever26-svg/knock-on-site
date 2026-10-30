@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-30-bri-lec",
  "matchId": "prem-2026-10-30-bri-lec",
- "updated_at": "2026-10-30T21:12:56.757Z",
+ "updated_at": "2026-10-30T21:20:46.494Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604634/competitions/604634/plays?limit=400",
-   "fetched_at": "2026-10-30T21:12:56.757Z",
+   "fetched_at": "2026-10-30T21:20:46.494Z",
    "espn_event_id": "604634",
    "espn_league_id": 267979
   }
@@ -278,15 +278,105 @@
    "playerOn": "Mako Vunipola",
    "playerOff": "Archie van der Flier",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1902894",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jake Woolmore",
+   "detail": "replaces Ellis Genge",
+   "playerOn": "Jake Woolmore",
+   "playerOff": "Ellis Genge",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902889",
+   "minute": 65,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Jamie Blamire",
+   "detail": "Try (13-22)",
+   "playerName": "Jamie Blamire",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 13,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1902889-cm",
+   "minute": 65,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (13-22)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 13,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1902897",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Benjamin Grondona",
+   "detail": "replaces Luka Ivanishvili",
+   "playerOn": "Benjamin Grondona",
+   "playerOff": "Luka Ivanishvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902907",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Josh Caulfield",
+   "detail": "replaces Joe Batley",
+   "playerOn": "Josh Caulfield",
+   "playerOff": "Joe Batley",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902909",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Joe Owen",
+   "detail": "replaces Steven Luatua",
+   "playerOn": "Joe Owen",
+   "playerOff": "Steven Luatua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1902911",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Kieran Marmion",
+   "detail": "replaces Harry Randall",
+   "playerOn": "Kieran Marmion",
+   "playerOff": "Harry Randall",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 13,
-  "away": 17
+  "away": 22
  },
  "plays_summed": {
   "home": 13,
-  "away": 17
+  "away": 22
  }
 }
