@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-30T19:15:07+00:00",
+  "updatedAt": "2026-10-30T21:45:58+00:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
@@ -30,6 +30,22 @@
     },
     {
       "position": 2,
+      "teamId": "leinster",
+      "team": "Leinster",
+      "P": 5,
+      "W": 3,
+      "D": 0,
+      "L": 2,
+      "PF": 149,
+      "PA": 81,
+      "TF": 23,
+      "TA": 11,
+      "BP": 6,
+      "points": 18,
+      "form": "WWWLL"
+    },
+    {
+      "position": 3,
       "teamId": "glasgow",
       "team": "Glasgow Warriors",
       "P": 4,
@@ -42,10 +58,10 @@
       "TA": 12,
       "BP": 4,
       "points": 18,
-      "form": "WWDWW"
+      "form": "WWWDW"
     },
     {
-      "position": 3,
+      "position": 4,
       "teamId": "bulls",
       "team": "Bulls",
       "P": 4,
@@ -61,7 +77,7 @@
       "form": "WWLWW"
     },
     {
-      "position": 4,
+      "position": 5,
       "teamId": "stormers",
       "team": "Stormers",
       "P": 4,
@@ -77,7 +93,7 @@
       "form": "WWLWW"
     },
     {
-      "position": 5,
+      "position": 6,
       "teamId": "sharks",
       "team": "Sharks",
       "P": 4,
@@ -91,22 +107,6 @@
       "BP": 3,
       "points": 15,
       "form": "WLWWL"
-    },
-    {
-      "position": 6,
-      "teamId": "leinster",
-      "team": "Leinster",
-      "P": 4,
-      "W": 2,
-      "D": 0,
-      "L": 2,
-      "PF": 99,
-      "PA": 76,
-      "TF": 16,
-      "TA": 10,
-      "BP": 5,
-      "points": 13,
-      "form": "WWLLL"
     },
     {
       "position": 7,
@@ -128,17 +128,17 @@
       "position": 8,
       "teamId": "connacht",
       "team": "Connacht",
-      "P": 4,
+      "P": 5,
       "W": 2,
       "D": 0,
-      "L": 2,
-      "PF": 104,
-      "PA": 111,
-      "TF": 17,
-      "TA": 17,
+      "L": 3,
+      "PF": 109,
+      "PA": 161,
+      "TF": 18,
+      "TA": 24,
       "BP": 2,
       "points": 10,
-      "form": "WLWLL"
+      "form": "LWLWL"
     },
     {
       "position": 9,
@@ -186,7 +186,7 @@
       "TA": 21,
       "BP": 1,
       "points": 9,
-      "form": "LLWWW"
+      "form": "LLLWW"
     },
     {
       "position": 12,
