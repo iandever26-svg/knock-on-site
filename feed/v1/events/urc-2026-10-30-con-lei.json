@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-con-lei",
   "matchId": "urc-2026-10-30-con-lei",
-  "updated_at": "2026-10-30T21:07:28+00:00",
+  "updated_at": "2026-10-30T21:13:19+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604064/competitions/604064/plays",
-      "fetched_at": "2026-10-30T21:07:28+00:00",
+      "fetched_at": "2026-10-30T21:13:19+00:00",
       "espn_event_id": "604064",
       "espn_league_id": 270557
     }
@@ -312,6 +312,57 @@
         "home": 5,
         "away": 34
       }
+    },
+    {
+      "id": "espn-1902865",
+      "minute": 61,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Joey Carbery",
+      "detail": "Conversion (5-36)",
+      "playerName": "Joey Carbery",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 5,
+        "away": 36
+      }
+    },
+    {
+      "id": "espn-1902866",
+      "minute": 62,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Colm Reilly",
+      "detail": "replaces Caolin Blade",
+      "playerOn": "Colm Reilly",
+      "playerOff": "Caolin Blade",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902877",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ciaran Mangan",
+      "detail": "replaces Jordan Larmour",
+      "playerOn": "Ciaran Mangan",
+      "playerOff": "Jordan Larmour",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902869",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Stephen Smyth",
+      "detail": "replaces Gus McCarthy",
+      "playerOn": "Stephen Smyth",
+      "playerOff": "Gus McCarthy",
+      "label": "Substitution"
     }
   ]
 }
