@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-10-29T14:15:07+00:00",
+  "updated_at": "2026-10-30T14:16:32+00:00",
   "match": {
     "match_id": "urc-2026-10-31-sto-uls",
     "external_ids": {
@@ -137,7 +137,7 @@
         },
         {
           "jersey": 12,
-          "name": "Jonathan Roche",
+          "name": "Markus Muller",
           "position_label": "Inside Centre",
           "is_captain": false,
           "is_starter": true,
@@ -443,7 +443,7 @@
     {
       "source_name": "stormers_official",
       "url": "https://stormers.co.za/dhl-stormers-shake-up-for-ulster-clash/",
-      "fetched_at": "2026-10-29T14:15:07+00:00",
+      "fetched_at": "2026-10-30T14:16:32+00:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "stormers_official",
       "url": "https://stormers.co.za/news/",
-      "fetched_at": "2026-10-29T14:15:07+00:00",
+      "fetched_at": "2026-10-30T14:16:32+00:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -467,7 +467,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292618%5D%7D",
-      "fetched_at": "2026-10-29T14:15:07+00:00",
+      "fetched_at": "2026-10-30T14:16:32+00:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": false,
@@ -478,9 +478,20 @@
       "source_tier": "official"
     },
     {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26757/urc-2026-2027/stormers-ulster",
+      "fetched_at": "2026-10-30T14:16:32+00:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home",
+      "source_tier": "secondary"
+    },
+    {
       "source_name": "ulster_official",
       "url": "https://ulster.rugby/news/herring-and-hume-return-ulster-take-stormers-cape-town",
-      "fetched_at": "2026-10-29T14:15:07+00:00",
+      "fetched_at": "2026-10-30T14:16:32+00:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -493,7 +504,7 @@
     {
       "source_name": "ulster_official",
       "url": "https://ulster.rugby/news",
-      "fetched_at": "2026-10-29T14:15:07+00:00",
+      "fetched_at": "2026-10-30T14:16:32+00:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -504,7 +515,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292618%5D%7D",
-      "fetched_at": "2026-10-29T14:15:07+00:00",
+      "fetched_at": "2026-10-30T14:16:32+00:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": false,
@@ -513,6 +524,17 @@
       "published_at": null,
       "published_at_source": "fixture_verified_by_urc_matchstats_dateTime 2026-10-31T12:45:00.000Z",
       "source_tier": "official"
+    },
+    {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26757/urc-2026-2027/stormers-ulster",
+      "fetched_at": "2026-10-30T14:16:32+00:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "away",
+      "source_tier": "secondary"
     }
   ],
   "confidence": {
@@ -522,9 +544,9 @@
     "away_lineup": 0.98,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from stormers_official (official); urc_official 23/23 jerseys agree",
-      "away: complete_1_to_23 from ulster_official (official); urc_official 23/23 jerseys agree"
+      "home: complete_1_to_23 from stormers_official (official); urc_official 23/23 jerseys agree; all_rugby 18/23 jerseys agree (differs at #6,#7,#11,#12,#14)",
+      "away: complete_1_to_23 from ulster_official (official); urc_official 23/23 jerseys agree; all_rugby 21/23 jerseys agree (differs at #6,#7)"
     ]
   },
-  "notes": "Ingest poll 2026-10-29T14:15:07+00:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-30T14:16:32+00:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
