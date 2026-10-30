@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-30-bri-lec",
  "matchId": "prem-2026-10-30-bri-lec",
- "updated_at": "2026-10-30T20:39:33.291Z",
+ "updated_at": "2026-10-30T20:44:50.263Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604634/competitions/604634/plays?limit=400",
-   "fetched_at": "2026-10-30T20:39:33.291Z",
+   "fetched_at": "2026-10-30T20:44:50.263Z",
    "espn_event_id": "604634",
    "espn_league_id": 267979
   }
@@ -21,9 +21,8 @@
    "period": "1H",
    "type": "try",
    "team": "home",
-   "player": "Louis Rees-Zammit",
+   "player": null,
    "detail": "Try (5-0)",
-   "playerName": "Louis Rees-Zammit",
    "label": "Try",
    "scoreAfter": {
     "home": 5,
@@ -36,9 +35,8 @@
    "period": "1H",
    "type": "conversion_made",
    "team": "home",
-   "player": "James Williams",
+   "player": null,
    "detail": "Conversion (7-0)",
-   "playerName": "James Williams",
    "label": "Conversion",
    "scoreAfter": {
     "home": 7,
@@ -51,9 +49,8 @@
    "period": "1H",
    "type": "try",
    "team": "away",
-   "player": "Freddie Steward",
+   "player": null,
    "detail": "Try (7-5)",
-   "playerName": "Freddie Steward",
    "label": "Try",
    "scoreAfter": {
     "home": 7,
@@ -66,9 +63,8 @@
    "period": "1H",
    "type": "conversion_made",
    "team": "away",
-   "player": "Billy Searle",
+   "player": null,
    "detail": "Conversion (7-7)",
-   "playerName": "Billy Searle",
    "label": "Conversion",
    "scoreAfter": {
     "home": 7,
@@ -81,9 +77,8 @@
    "period": "1H",
    "type": "yellow_card",
    "team": "home",
-   "player": "Matias Moroni",
+   "player": null,
    "detail": "Yellow card (7-7)",
-   "playerName": "Matias Moroni",
    "label": "Yellow card",
    "scoreAfter": {
     "home": 7,
@@ -96,9 +91,8 @@
    "period": "1H",
    "type": "yellow_card",
    "team": "home",
-   "player": "Tom Jordan",
+   "player": null,
    "detail": "Yellow card (7-7)",
-   "playerName": "Tom Jordan",
    "label": "Yellow card",
    "scoreAfter": {
     "home": 7,
@@ -111,9 +105,8 @@
    "period": "1H",
    "type": "try",
    "team": "away",
-   "player": "Adam Radwan",
+   "player": null,
    "detail": "Try (7-12)",
-   "playerName": "Adam Radwan",
    "label": "Try",
    "scoreAfter": {
     "home": 7,

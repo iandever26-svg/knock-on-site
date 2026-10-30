@@ -6,6 +6,16 @@
   "standingsUpdatedAt": "2026-10-30T19:15:07+00:00",
   "matches": [
     {
+      "match_id": "prem-2026-10-30-bri-lec",
+      "kickoff": "2026-10-30T19:45:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-30T20:44:50.263Z"
+    },
+    {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
       "score": true,
@@ -404,16 +414,6 @@
       "lineupUpdatedAt": "2026-10-30T14:16:32+00:00",
       "events": false,
       "eventsUpdatedAt": null
-    },
-    {
-      "match_id": "prem-2026-10-30-bri-lec",
-      "kickoff": "2026-10-30T19:45:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-30T20:39:33.291Z"
     }
   ]
 }
