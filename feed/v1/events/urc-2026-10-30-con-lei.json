@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-con-lei",
   "matchId": "urc-2026-10-30-con-lei",
-  "updated_at": "2026-10-30T20:20:43+00:00",
+  "updated_at": "2026-10-30T20:35:44+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604064/competitions/604064/plays",
-      "fetched_at": "2026-10-30T20:20:43+00:00",
+      "fetched_at": "2026-10-30T20:35:44+00:00",
       "espn_event_id": "604064",
       "espn_league_id": 270557
     }
@@ -75,7 +75,7 @@
       }
     },
     {
-      "id": "espn-1902643",
+      "id": "espn-1902651",
       "minute": 28,
       "period": "1H",
       "type": "try",
@@ -90,7 +90,7 @@
       }
     },
     {
-      "id": "espn-1902643-cm",
+      "id": "espn-1902651-cm",
       "minute": 28,
       "period": "1H",
       "type": "conversion_missed",
@@ -105,7 +105,7 @@
       }
     },
     {
-      "id": "espn-1902646",
+      "id": "espn-1902652",
       "minute": 32,
       "period": "1H",
       "type": "try",
@@ -117,6 +117,21 @@
       "scoreAfter": {
         "home": 5,
         "away": 19
+      }
+    },
+    {
+      "id": "espn-1902653",
+      "minute": 33,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Joey Carbery",
+      "detail": "Conversion (5-21)",
+      "playerName": "Joey Carbery",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 5,
+        "away": 21
       }
     }
   ]
