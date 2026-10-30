@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-gla-lio",
   "matchId": "urc-2026-10-30-gla-lio",
-  "updated_at": "2026-10-30T21:37:17+00:00",
-  "final": false,
+  "updated_at": "2026-10-30T22:08:43+00:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604065/competitions/604065/plays",
-      "fetched_at": "2026-10-30T21:37:17+00:00",
+      "fetched_at": "2026-10-30T22:08:43+00:00",
       "espn_event_id": "604065",
       "espn_league_id": 270557
     }
@@ -417,8 +418,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1902971",
-      "minute": 77,
+      "id": "espn-1902983",
+      "minute": 76,
       "period": "2H",
       "type": "try",
       "team": "home",
@@ -432,8 +433,8 @@
       }
     },
     {
-      "id": "espn-1902972",
-      "minute": 78,
+      "id": "espn-1902984",
+      "minute": 77,
       "period": "2H",
       "type": "conversion_made",
       "team": "home",
@@ -447,8 +448,8 @@
       }
     },
     {
-      "id": "espn-1902981",
-      "minute": 84,
+      "id": "espn-1902985",
+      "minute": 82,
       "period": "2H",
       "type": "penalty_goal_made",
       "team": "home",

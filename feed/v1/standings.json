@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-30T21:45:58+00:00",
+  "updatedAt": "2026-10-30T22:08:44+00:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
@@ -14,6 +14,22 @@
   "rows": [
     {
       "position": 1,
+      "teamId": "glasgow",
+      "team": "Glasgow Warriors",
+      "P": 5,
+      "W": 4,
+      "D": 1,
+      "L": 0,
+      "PF": 148,
+      "PA": 112,
+      "TF": 22,
+      "TA": 15,
+      "BP": 5,
+      "points": 23,
+      "form": "WWWDW"
+    },
+    {
+      "position": 2,
       "teamId": "edinburgh",
       "team": "Edinburgh",
       "P": 4,
@@ -29,7 +45,7 @@
       "form": "WWWWW"
     },
     {
-      "position": 2,
+      "position": 3,
       "teamId": "leinster",
       "team": "Leinster",
       "P": 5,
@@ -43,22 +59,6 @@
       "BP": 6,
       "points": 18,
       "form": "WWWLL"
-    },
-    {
-      "position": 3,
-      "teamId": "glasgow",
-      "team": "Glasgow Warriors",
-      "P": 4,
-      "W": 3,
-      "D": 1,
-      "L": 0,
-      "PF": 119,
-      "PA": 92,
-      "TF": 18,
-      "TA": 12,
-      "BP": 4,
-      "points": 18,
-      "form": "WWWDW"
     },
     {
       "position": 4,
@@ -176,14 +176,14 @@
       "position": 11,
       "teamId": "lions",
       "team": "Lions",
-      "P": 4,
+      "P": 5,
       "W": 2,
       "D": 0,
-      "L": 2,
-      "PF": 87,
-      "PA": 133,
-      "TF": 12,
-      "TA": 21,
+      "L": 3,
+      "PF": 107,
+      "PA": 162,
+      "TF": 15,
+      "TA": 25,
       "BP": 1,
       "points": 9,
       "form": "LLLWW"
