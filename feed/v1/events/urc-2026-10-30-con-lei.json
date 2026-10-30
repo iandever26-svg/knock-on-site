@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-con-lei",
   "matchId": "urc-2026-10-30-con-lei",
-  "updated_at": "2026-10-30T21:01:59+00:00",
+  "updated_at": "2026-10-30T21:07:28+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604064/competitions/604064/plays",
-      "fetched_at": "2026-10-30T21:01:59+00:00",
+      "fetched_at": "2026-10-30T21:07:28+00:00",
       "espn_event_id": "604064",
       "espn_league_id": 270557
     }
@@ -297,6 +297,21 @@
       "playerOn": "Cormac Foley",
       "playerOff": "Fintan Gunne",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1902861",
+      "minute": 61,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Joey Carbery",
+      "detail": "Try (5-34)",
+      "playerName": "Joey Carbery",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 34
+      }
     }
   ]
 }

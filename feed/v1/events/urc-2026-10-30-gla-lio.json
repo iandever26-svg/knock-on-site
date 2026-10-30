@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-gla-lio",
   "matchId": "urc-2026-10-30-gla-lio",
-  "updated_at": "2026-10-30T21:02:00+00:00",
+  "updated_at": "2026-10-30T21:07:28+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604065/competitions/604065/plays",
-      "fetched_at": "2026-10-30T21:02:00+00:00",
+      "fetched_at": "2026-10-30T21:07:28+00:00",
       "espn_event_id": "604065",
       "espn_league_id": 270557
     }
@@ -268,6 +268,33 @@
         "home": 19,
         "away": 8
       }
+    },
+    {
+      "id": "espn-1902856",
+      "minute": 51,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Boeta Chamberlain",
+      "detail": "Conversion (19-10)",
+      "playerName": "Boeta Chamberlain",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 10
+      }
+    },
+    {
+      "id": "espn-1902857",
+      "minute": 55,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Max Williamson",
+      "detail": "replaces Alex Craig",
+      "playerOn": "Max Williamson",
+      "playerOff": "Alex Craig",
+      "label": "Substitution"
     }
   ]
 }
