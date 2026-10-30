@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-30-con-lei",
   "matchId": "urc-2026-10-30-con-lei",
-  "updated_at": "2026-10-30T21:13:19+00:00",
+  "updated_at": "2026-10-30T21:15:43+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604064/competitions/604064/plays",
-      "fetched_at": "2026-10-30T21:13:19+00:00",
+      "fetched_at": "2026-10-30T21:15:43+00:00",
       "espn_event_id": "604064",
       "espn_league_id": 270557
     }
@@ -341,7 +341,19 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1902877",
+      "id": "espn-1902885",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Stephen Smyth",
+      "detail": "replaces Gus McCarthy",
+      "playerOn": "Stephen Smyth",
+      "playerOff": "Gus McCarthy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902887",
       "minute": 63,
       "period": "2H",
       "type": "substitution",
@@ -353,15 +365,27 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1902869",
-      "minute": 63,
+      "id": "espn-1902892",
+      "minute": 65,
       "period": "2H",
       "type": "substitution",
       "team": "away",
-      "player": "Stephen Smyth",
-      "detail": "replaces Gus McCarthy",
-      "playerOn": "Stephen Smyth",
-      "playerOff": "Gus McCarthy",
+      "player": "Peter Dooley",
+      "detail": "replaces Alex Usanov",
+      "playerOn": "Peter Dooley",
+      "playerOff": "Alex Usanov",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1902890",
+      "minute": 65,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Alex Mullan",
+      "detail": "replaces Niall Smyth",
+      "playerOn": "Alex Mullan",
+      "playerOff": "Niall Smyth",
       "label": "Substitution"
     }
   ]
