@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-31T14:59:27+00:00",
+  "updatedAt": "2026-10-31T17:12:18+00:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
@@ -30,6 +30,22 @@
     },
     {
       "position": 2,
+      "teamId": "bulls",
+      "team": "Bulls",
+      "P": 5,
+      "W": 4,
+      "D": 0,
+      "L": 1,
+      "PF": 214,
+      "PA": 106,
+      "TF": 31,
+      "TA": 15,
+      "BP": 5,
+      "points": 21,
+      "form": "WWWLW"
+    },
+    {
+      "position": 3,
       "teamId": "stormers",
       "team": "Stormers",
       "P": 5,
@@ -45,23 +61,23 @@
       "form": "WWWLW"
     },
     {
-      "position": 3,
+      "position": 4,
       "teamId": "edinburgh",
       "team": "Edinburgh",
-      "P": 4,
+      "P": 5,
       "W": 4,
       "D": 0,
-      "L": 0,
-      "PF": 111,
-      "PA": 64,
-      "TF": 15,
-      "TA": 8,
+      "L": 1,
+      "PF": 123,
+      "PA": 95,
+      "TF": 17,
+      "TA": 12,
       "BP": 3,
       "points": 19,
-      "form": "WWWWW"
+      "form": "LWWWW"
     },
     {
-      "position": 4,
+      "position": 5,
       "teamId": "leinster",
       "team": "Leinster",
       "P": 5,
@@ -75,22 +91,6 @@
       "BP": 6,
       "points": 18,
       "form": "WWWLL"
-    },
-    {
-      "position": 5,
-      "teamId": "bulls",
-      "team": "Bulls",
-      "P": 4,
-      "W": 3,
-      "D": 0,
-      "L": 1,
-      "PF": 160,
-      "PA": 80,
-      "TF": 23,
-      "TA": 11,
-      "BP": 4,
-      "points": 16,
-      "form": "WWLWW"
     },
     {
       "position": 6,
@@ -126,6 +126,22 @@
     },
     {
       "position": 8,
+      "teamId": "benetton",
+      "team": "Benetton Treviso",
+      "P": 5,
+      "W": 1,
+      "D": 1,
+      "L": 3,
+      "PF": 115,
+      "PA": 104,
+      "TF": 16,
+      "TA": 17,
+      "BP": 5,
+      "points": 11,
+      "form": "WLLLD"
+    },
+    {
+      "position": 9,
       "teamId": "connacht",
       "team": "Connacht",
       "P": 5,
@@ -141,7 +157,7 @@
       "form": "LWLWL"
     },
     {
-      "position": 9,
+      "position": 10,
       "teamId": "munster",
       "team": "Munster",
       "P": 4,
@@ -157,7 +173,7 @@
       "form": "LDWLL"
     },
     {
-      "position": 10,
+      "position": 11,
       "teamId": "cardiff",
       "team": "Cardiff Blues",
       "P": 4,
@@ -173,7 +189,7 @@
       "form": "LLWWW"
     },
     {
-      "position": 11,
+      "position": 12,
       "teamId": "lions",
       "team": "Lions",
       "P": 5,
@@ -189,7 +205,7 @@
       "form": "LLLWW"
     },
     {
-      "position": 12,
+      "position": 13,
       "teamId": "dragons",
       "team": "Dragons",
       "P": 4,
@@ -205,7 +221,23 @@
       "form": "LLWDD"
     },
     {
-      "position": 13,
+      "position": 14,
+      "teamId": "scarlets",
+      "team": "Scarlets",
+      "P": 5,
+      "W": 1,
+      "D": 0,
+      "L": 4,
+      "PF": 134,
+      "PA": 191,
+      "TF": 20,
+      "TA": 29,
+      "BP": 5,
+      "points": 9,
+      "form": "LLWLL"
+    },
+    {
+      "position": 15,
       "teamId": "ulster",
       "team": "Ulster",
       "P": 5,
@@ -219,38 +251,6 @@
       "BP": 5,
       "points": 9,
       "form": "LLDDL"
-    },
-    {
-      "position": 14,
-      "teamId": "scarlets",
-      "team": "Scarlets",
-      "P": 4,
-      "W": 1,
-      "D": 0,
-      "L": 3,
-      "PF": 108,
-      "PA": 137,
-      "TF": 16,
-      "TA": 21,
-      "BP": 4,
-      "points": 8,
-      "form": "LWLLL"
-    },
-    {
-      "position": 15,
-      "teamId": "benetton",
-      "team": "Benetton Treviso",
-      "P": 4,
-      "W": 0,
-      "D": 1,
-      "L": 3,
-      "PF": 84,
-      "PA": 92,
-      "TF": 12,
-      "TA": 15,
-      "BP": 4,
-      "points": 6,
-      "form": "LLLDD"
     },
     {
       "position": 16,
