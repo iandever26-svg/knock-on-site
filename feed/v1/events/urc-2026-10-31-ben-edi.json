@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "match_id": "urc-2026-10-31-ben-edi",
+  "matchId": "urc-2026-10-31-ben-edi",
+  "updated_at": "2026-10-31T15:04:50+00:00",
+  "final": false,
+  "provenance": [
+    {
+      "source_name": "espn_core_api",
+      "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604068/competitions/604068/plays",
+      "fetched_at": "2026-10-31T15:04:50+00:00",
+      "espn_event_id": "604068",
+      "espn_league_id": 270557
+    }
+  ],
+  "events": [
+    {
+      "id": "espn-1903163",
+      "minute": 2,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Piero Gritti",
+      "detail": "Try (5-0)",
+      "playerName": "Piero Gritti",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    }
+  ]
+}
