@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-sfp-lro",
  "matchId": "top14-2026-10-31-sfp-lro",
- "updated_at": "2026-10-31T16:18:44.339Z",
+ "updated_at": "2026-10-31T16:41:13.214Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604415/competitions/604415/plays?limit=400",
-   "fetched_at": "2026-10-31T16:18:44.339Z",
+   "fetched_at": "2026-10-31T16:41:13.214Z",
    "espn_event_id": "604415",
    "espn_league_id": 270559
   }
@@ -170,15 +170,105 @@
     "home": 22,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1903609",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Charles Kante-Samba",
+   "detail": "replaces Thomas Lavault",
+   "playerOn": "Charles Kante-Samba",
+   "playerOff": "Thomas Lavault",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903611",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Gregory Alldritt",
+   "detail": "replaces Sam Tuifua",
+   "playerOn": "Gregory Alldritt",
+   "playerOff": "Sam Tuifua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903613",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Alexandre Kaddouri",
+   "detail": "replaces Louis Penverne",
+   "playerOn": "Alexandre Kaddouri",
+   "playerOff": "Louis Penverne",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903627",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Moses Alo-Emile",
+   "detail": "replaces Jack Iscaro",
+   "playerOn": "Moses Alo-Emile",
+   "playerOff": "Jack Iscaro",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903629",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tolu Latu",
+   "detail": "replaces Pierre Bourgarit",
+   "playerOn": "Tolu Latu",
+   "playerOff": "Pierre Bourgarit",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903427",
+   "minute": 42,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Aleksandre Kuntelia",
+   "detail": "Try (22-5)",
+   "playerName": "Aleksandre Kuntelia",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1903435",
+   "minute": 43,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Diego Jurd",
+   "detail": "Conversion (22-7)",
+   "playerName": "Diego Jurd",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 22,
-  "away": 0
+  "away": 7
  },
  "plays_summed": {
   "home": 22,
-  "away": 0
+  "away": 7
  }
 }

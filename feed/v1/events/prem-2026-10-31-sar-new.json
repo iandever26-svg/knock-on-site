@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-sar-new",
  "matchId": "prem-2026-10-31-sar-new",
- "updated_at": "2026-10-31T16:24:51.982Z",
+ "updated_at": "2026-10-31T16:41:13.214Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604636/competitions/604636/plays?limit=400",
-   "fetched_at": "2026-10-31T16:24:51.982Z",
+   "fetched_at": "2026-10-31T16:41:13.214Z",
    "espn_event_id": "604636",
    "espn_league_id": 267979
   }
@@ -169,7 +169,22 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903334",
+   "id": "espn-1903406",
+   "minute": 45,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Sam Graham",
+   "detail": "Yellow card (7-17)",
+   "playerName": "Sam Graham",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903578",
    "minute": 45,
    "period": "2H",
    "type": "try",
@@ -184,7 +199,7 @@
    }
   },
   {
-   "id": "espn-1903334-cm",
+   "id": "espn-1903578-cm",
    "minute": 45,
    "period": "2H",
    "type": "conversion_missed",
@@ -193,21 +208,6 @@
    "detail": "Conversion missed (inferred) (12-17)",
    "label": "Conversion missed",
    "inferred": true,
-   "scoreAfter": {
-    "home": 12,
-    "away": 17
-   }
-  },
-  {
-   "id": "espn-1903406",
-   "minute": 45,
-   "period": "2H",
-   "type": "yellow_card",
-   "team": "away",
-   "player": "Sam Graham",
-   "detail": "Yellow card (12-17)",
-   "playerName": "Sam Graham",
-   "label": "Yellow card",
    "scoreAfter": {
     "home": 12,
     "away": 17
@@ -250,7 +250,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903400",
+   "id": "espn-1903477",
    "minute": 50,
    "period": "2H",
    "type": "substitution",
@@ -271,6 +271,18 @@
    "detail": "replaces Brett Connon",
    "playerOn": "Zack Henry",
    "playerOff": "Brett Connon",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903455",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "George Martin",
+   "detail": "replaces Hugh Tizard",
+   "playerOn": "George Martin",
+   "playerOff": "Hugh Tizard",
    "label": "Substitution"
   },
   {
@@ -383,15 +395,69 @@
    "playerOn": "Ben Earl",
    "playerOff": "Alfie Barbeary",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903484",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ollie Leatherbarrow",
+   "detail": "replaces Sam Graham",
+   "playerOn": "Ollie Leatherbarrow",
+   "playerOff": "Sam Graham",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903486",
+   "minute": 64,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Noah Caluori",
+   "detail": "Try (29-17)",
+   "playerName": "Noah Caluori",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903486-cm",
+   "minute": 64,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (29-17)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 29,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903583",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Finn Baker",
+   "detail": "replaces Oscar Usher",
+   "playerOn": "Finn Baker",
+   "playerOff": "Oscar Usher",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 24,
+  "home": 29,
   "away": 17
  },
  "plays_summed": {
-  "home": 24,
+  "home": 29,
   "away": 17
  }
 }

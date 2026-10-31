@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-exe-har",
  "matchId": "prem-2026-10-31-exe-har",
- "updated_at": "2026-10-31T16:24:51.982Z",
+ "updated_at": "2026-10-31T16:41:13.214Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604635/competitions/604635/plays?limit=400",
-   "fetched_at": "2026-10-31T16:24:51.982Z",
+   "fetched_at": "2026-10-31T16:41:13.214Z",
    "espn_event_id": "604635",
    "espn_league_id": 267979
   }
@@ -241,8 +241,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903431",
-   "minute": 58,
+   "id": "espn-1903457",
+   "minute": 56,
    "period": "2H",
    "type": "try",
    "team": "away",
@@ -256,8 +256,8 @@
    }
   },
   {
-   "id": "espn-1903436",
-   "minute": 59,
+   "id": "espn-1903458",
+   "minute": 57,
    "period": "2H",
    "type": "conversion_made",
    "team": "away",
@@ -269,15 +269,102 @@
     "home": 21,
     "away": 21
    }
+  },
+  {
+   "id": "espn-1903459",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Goodrick-Clarke",
+   "detail": "replaces Nika Abuladze",
+   "playerOn": "Will Goodrick-Clarke",
+   "playerOff": "Nika Abuladze",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903461",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Bachuki Tchumbadze",
+   "detail": "replaces Josh Iosefa-Scott",
+   "playerOn": "Bachuki Tchumbadze",
+   "playerOff": "Josh Iosefa-Scott",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903463",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Max Norey",
+   "detail": "replaces Jack Yeandle",
+   "playerOn": "Max Norey",
+   "playerOff": "Jack Yeandle",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903592",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ben Hammersley",
+   "detail": "replaces Immanuel Feyi-Waboso",
+   "playerOn": "Ben Hammersley",
+   "playerOff": "Immanuel Feyi-Waboso",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903594",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Kane James",
+   "detail": "replaces Ross Vintcent",
+   "playerOn": "Kane James",
+   "playerOff": "Ross Vintcent",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903605",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Elliot Williams",
+   "detail": "replaces James Dun",
+   "playerOn": "Elliot Williams",
+   "playerOff": "James Dun",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903607",
+   "minute": 69,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Lucas Schmid",
+   "detail": "Try (21-26)",
+   "playerName": "Lucas Schmid",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 26
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 21
+  "away": 26
  },
  "plays_summed": {
   "home": 21,
-  "away": 21
+  "away": 26
  }
 }
