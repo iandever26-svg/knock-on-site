@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-bat-sal",
  "matchId": "prem-2026-10-31-bat-sal",
- "updated_at": "2026-10-31T15:24:00.138Z",
+ "updated_at": "2026-10-31T15:29:24.046Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604637/competitions/604637/plays?limit=400",
-   "fetched_at": "2026-10-31T15:24:00.138Z",
+   "fetched_at": "2026-10-31T15:29:24.046Z",
    "espn_event_id": "604637",
    "espn_league_id": 267979
   }

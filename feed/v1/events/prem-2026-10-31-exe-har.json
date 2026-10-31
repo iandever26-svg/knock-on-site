@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-exe-har",
  "matchId": "prem-2026-10-31-exe-har",
- "updated_at": "2026-10-31T15:24:00.138Z",
+ "updated_at": "2026-10-31T15:29:24.046Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604635/competitions/604635/plays?limit=400",
-   "fetched_at": "2026-10-31T15:24:00.138Z",
+   "fetched_at": "2026-10-31T15:29:24.046Z",
    "espn_event_id": "604635",
    "espn_league_id": 267979
   }
@@ -100,6 +100,21 @@
    "detail": "Conversion (7-14)",
    "playerName": "Henry Slade",
    "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1903220",
+   "minute": 27,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Bryn Bradley",
+   "detail": "Yellow card (7-14)",
+   "playerName": "Bryn Bradley",
+   "label": "Yellow card",
    "scoreAfter": {
     "home": 7,
     "away": 14
