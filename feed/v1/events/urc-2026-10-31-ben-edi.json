@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-ben-edi",
   "matchId": "urc-2026-10-31-ben-edi",
-  "updated_at": "2026-10-31T16:18:39+00:00",
+  "updated_at": "2026-10-31T16:24:56+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604068/competitions/604068/plays",
-      "fetched_at": "2026-10-31T16:18:39+00:00",
+      "fetched_at": "2026-10-31T16:24:56+00:00",
       "espn_event_id": "604068",
       "espn_league_id": 270557
     }
@@ -308,6 +308,60 @@
       "scoreAfter": {
         "home": 28,
         "away": 0
+      }
+    },
+    {
+      "id": "espn-1903416",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jamie Stewart",
+      "detail": "replaces Alec Hepburn",
+      "playerOn": "Jamie Stewart",
+      "playerOff": "Alec Hepburn",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903418",
+      "minute": 51,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Paul Hill",
+      "detail": "replaces Ollie Blyth-Lafferty",
+      "playerOn": "Paul Hill",
+      "playerOff": "Ollie Blyth-Lafferty",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903428",
+      "minute": 56,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Harri Morris",
+      "detail": "Try (28-5)",
+      "playerName": "Harri Morris",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 28,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1903434",
+      "minute": 56,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "James Grayson",
+      "detail": "Conversion (28-7)",
+      "playerName": "James Grayson",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 28,
+        "away": 7
       }
     }
   ]

@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-bul-sca",
   "matchId": "urc-2026-10-31-bul-sca",
-  "updated_at": "2026-10-31T16:13:26+00:00",
+  "updated_at": "2026-10-31T16:24:56+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604067/competitions/604067/plays",
-      "fetched_at": "2026-10-31T16:13:26+00:00",
+      "fetched_at": "2026-10-31T16:24:56+00:00",
       "espn_event_id": "604067",
       "espn_league_id": 270557
     }
@@ -228,6 +228,51 @@
       "scoreAfter": {
         "home": 26,
         "away": 12
+      }
+    },
+    {
+      "id": "espn-1903399",
+      "minute": 47,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Stedman Gans",
+      "detail": "Yellow card (26-12)",
+      "playerName": "Stedman Gans",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 26,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1903420",
+      "minute": 51,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Archie Hughes",
+      "detail": "Try (26-17)",
+      "playerName": "Archie Hughes",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 17
+      }
+    },
+    {
+      "id": "espn-1903421",
+      "minute": 52,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Carwyn Leggatt-Jones",
+      "detail": "Conversion (26-19)",
+      "playerName": "Carwyn Leggatt-Jones",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 26,
+        "away": 19
       }
     }
   ]
