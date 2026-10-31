@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-sar-new",
  "matchId": "prem-2026-10-31-sar-new",
- "updated_at": "2026-10-31T15:37:57.024Z",
+ "updated_at": "2026-10-31T15:46:00.787Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604636/competitions/604636/plays?limit=400",
-   "fetched_at": "2026-10-31T15:37:57.024Z",
+   "fetched_at": "2026-10-31T15:46:00.787Z",
    "espn_event_id": "604636",
    "espn_league_id": 267979
   }
@@ -43,7 +43,7 @@
    }
   },
   {
-   "id": "espn-1903211",
+   "id": "espn-1903243",
    "minute": 13,
    "period": "1H",
    "type": "substitution",
@@ -70,7 +70,7 @@
    }
   },
   {
-   "id": "espn-1903207",
+   "id": "espn-1903245",
    "minute": 14,
    "period": "1H",
    "type": "conversion_made",
@@ -143,6 +143,18 @@
     "home": 7,
     "away": 17
    }
+  },
+  {
+   "id": "espn-1903251",
+   "minute": 38,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Chris Harris",
+   "detail": "replaces Werner Kok",
+   "playerOn": "Chris Harris",
+   "playerOff": "Werner Kok",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
