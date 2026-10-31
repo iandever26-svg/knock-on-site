@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-cle-rac",
  "matchId": "top14-2026-10-31-cle-rac",
- "updated_at": "2026-10-31T14:26:08.104Z",
+ "updated_at": "2026-10-31T14:38:05.095Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604412/competitions/604412/plays?limit=400",
-   "fetched_at": "2026-10-31T14:26:08.104Z",
+   "fetched_at": "2026-10-31T14:38:05.095Z",
    "espn_event_id": "604412",
    "espn_league_id": 270559
   }
@@ -188,6 +188,29 @@
     "home": 17,
     "away": 13
    }
+  },
+  {
+   "id": "espn-1903131",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Shingi Manyarara",
+   "detail": "replaces Fabien Sanconnie",
+   "playerOn": "Shingi Manyarara",
+   "playerOff": "Fabien Sanconnie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903132",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Fabien Sanconnie",
+   "playerOff": "Fabien Sanconnie",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
