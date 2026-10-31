@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-ben-edi",
   "matchId": "urc-2026-10-31-ben-edi",
-  "updated_at": "2026-10-31T15:39:15+00:00",
+  "updated_at": "2026-10-31T15:46:25+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604068/competitions/604068/plays",
-      "fetched_at": "2026-10-31T15:39:15+00:00",
+      "fetched_at": "2026-10-31T15:46:25+00:00",
       "espn_event_id": "604068",
       "espn_league_id": 270557
     }
@@ -107,6 +107,51 @@
       "label": "Try",
       "scoreAfter": {
         "home": 10,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903234-cm",
+      "minute": 25,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (10-0)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 10,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903247",
+      "minute": 32,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Callum Hunter-Hill",
+      "detail": "Yellow card (10-0)",
+      "playerName": "Callum Hunter-Hill",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 10,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903257",
+      "minute": 33,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Bautista Bernasconi",
+      "detail": "Try (15-0)",
+      "playerName": "Bautista Bernasconi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 15,
         "away": 0
       }
     }
