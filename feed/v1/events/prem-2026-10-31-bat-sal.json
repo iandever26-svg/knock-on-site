@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-bat-sal",
  "matchId": "prem-2026-10-31-bat-sal",
- "updated_at": "2026-10-31T16:56:52.233Z",
- "final": false,
+ "updated_at": "2026-10-31T17:02:20.439Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604637/competitions/604637/plays?limit=400",
-   "fetched_at": "2026-10-31T16:56:52.233Z",
+   "fetched_at": "2026-10-31T17:02:20.439Z",
    "espn_event_id": "604637",
    "espn_league_id": 267979
   }
@@ -460,15 +460,69 @@
    "playerOn": "Claudius Wheeler",
    "playerOff": "Beno Obano",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903806",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ewan Richards",
+   "detail": "replaces Charlie Ewels",
+   "playerOn": "Ewan Richards",
+   "playerOff": "Charlie Ewels",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903826",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ted Hill",
+   "detail": "replaces Josh Bayliss",
+   "playerOn": "Ted Hill",
+   "playerOff": "Josh Bayliss",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903837",
+   "minute": 80,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Elia Canakaivata",
+   "detail": "Try (36-26)",
+   "playerName": "Elia Canakaivata",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 36,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1903846",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "George Ford",
+   "detail": "Conversion (36-28)",
+   "playerName": "George Ford",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 36,
+    "away": 28
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 36,
-  "away": 21
+  "away": 28
  },
  "plays_summed": {
   "home": 36,
-  "away": 21
+  "away": 28
  }
 }

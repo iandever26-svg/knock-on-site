@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-lyo-van",
  "matchId": "top14-2026-10-31-lyo-van",
- "updated_at": "2026-10-31T16:56:52.233Z",
+ "updated_at": "2026-10-31T17:02:20.439Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604413/competitions/604413/plays?limit=400",
-   "fetched_at": "2026-10-31T16:56:52.233Z",
+   "fetched_at": "2026-10-31T17:02:20.439Z",
    "espn_event_id": "604413",
    "espn_league_id": 270559
   }
@@ -425,15 +425,102 @@
    "playerOn": "Irakli Aptsiauri",
    "playerOff": "Opeti Helu",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903829",
+   "minute": 59,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Gabin Lorre",
+   "detail": "Try (29-25)",
+   "playerName": "Gabin Lorre",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1903829-cm",
+   "minute": 59,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (29-25)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 29,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1903847",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Camille Chat",
+   "detail": "replaces Guillaume Marchand",
+   "playerOn": "Camille Chat",
+   "playerOff": "Guillaume Marchand",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903845",
+   "minute": 61,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Wayan De Benedittis",
+   "detail": "Yellow card (29-25)",
+   "playerName": "Wayan De Benedittis",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 29,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1903849",
+   "minute": 62,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Camille Chat",
+   "detail": "Try (34-25)",
+   "playerName": "Camille Chat",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 34,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1903850",
+   "minute": 63,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Martin Meliande",
+   "detail": "Conversion (36-25)",
+   "playerName": "Martin Meliande",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 36,
+    "away": 25
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 24,
+  "home": 36,
   "away": 25
  },
  "plays_summed": {
-  "home": 24,
+  "home": 36,
   "away": 25
  }
 }
