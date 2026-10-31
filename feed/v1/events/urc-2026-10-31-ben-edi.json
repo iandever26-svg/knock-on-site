@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-ben-edi",
   "matchId": "urc-2026-10-31-ben-edi",
-  "updated_at": "2026-10-31T15:04:50+00:00",
+  "updated_at": "2026-10-31T15:18:44+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604068/competitions/604068/plays",
-      "fetched_at": "2026-10-31T15:04:50+00:00",
+      "fetched_at": "2026-10-31T15:18:44+00:00",
       "espn_event_id": "604068",
       "espn_league_id": 270557
     }
@@ -28,6 +28,63 @@
         "home": 5,
         "away": 0
       }
+    },
+    {
+      "id": "espn-1903163-cm",
+      "minute": 2,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (5-0)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903196",
+      "minute": 9,
+      "period": "1H",
+      "type": "yellow_card",
+      "team": "home",
+      "player": "Matías Medrano",
+      "detail": "Yellow card (5-0)",
+      "playerName": "Matías Medrano",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903209",
+      "minute": 9,
+      "period": "1H",
+      "type": "red_card",
+      "team": "home",
+      "player": "Matías Medrano",
+      "detail": "Red card (5-0)",
+      "playerName": "Matías Medrano",
+      "label": "Red card",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903199",
+      "minute": 11,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ivan Nemer",
+      "detail": "replaces Isaia Walker-Leawere",
+      "playerOn": "Ivan Nemer",
+      "playerOff": "Isaia Walker-Leawere",
+      "label": "Substitution"
     }
   ]
 }

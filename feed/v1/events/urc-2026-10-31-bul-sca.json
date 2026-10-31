@@ -2,16 +2,47 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-bul-sca",
   "matchId": "urc-2026-10-31-bul-sca",
-  "updated_at": "2026-10-31T15:04:50+00:00",
+  "updated_at": "2026-10-31T15:18:44+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604067/competitions/604067/plays",
-      "fetched_at": "2026-10-31T15:04:50+00:00",
+      "fetched_at": "2026-10-31T15:18:44+00:00",
       "espn_event_id": "604067",
       "espn_league_id": 270557
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "espn-1903186",
+      "minute": 11,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Jeandre Rudolph",
+      "detail": "Try (5-0)",
+      "playerName": "Jeandre Rudolph",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903193",
+      "minute": 11,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "Conversion (7-0)",
+      "playerName": "Curwin Bosch",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 0
+      }
+    }
+  ]
 }
