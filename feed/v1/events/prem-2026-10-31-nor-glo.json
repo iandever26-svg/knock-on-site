@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-nor-glo",
  "matchId": "prem-2026-10-31-nor-glo",
- "updated_at": "2026-10-31T17:43:27.603Z",
+ "updated_at": "2026-10-31T17:54:04.904Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604638/competitions/604638/plays?limit=400",
-   "fetched_at": "2026-10-31T17:43:27.603Z",
+   "fetched_at": "2026-10-31T17:54:04.904Z",
    "espn_event_id": "604638",
    "espn_league_id": 267979
   }
@@ -44,6 +44,30 @@
     "home": 0,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1903985",
+   "minute": 21,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jonny Weimann",
+   "detail": "replaces Alex Mitchell",
+   "playerOn": "Jonny Weimann",
+   "playerOff": "Alex Mitchell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903987",
+   "minute": 22,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Dewi Lake",
+   "detail": "replaces Seb Blake",
+   "playerOn": "Dewi Lake",
+   "playerOff": "Seb Blake",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
