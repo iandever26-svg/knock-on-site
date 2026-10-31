@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-per-tln",
  "matchId": "top14-2026-10-31-per-tln",
- "updated_at": "2026-10-31T20:10:45.005Z",
+ "updated_at": "2026-10-31T20:38:28.549Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604410/competitions/604410/plays?limit=400",
-   "fetched_at": "2026-10-31T20:10:45.005Z",
+   "fetched_at": "2026-10-31T20:38:28.549Z",
    "espn_event_id": "604410",
    "espn_league_id": 270559
   }
@@ -56,15 +56,87 @@
     "home": 0,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1904256",
+   "minute": 16,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Antoine Aucagne",
+   "detail": "Penalty (3-7)",
+   "playerName": "Antoine Aucagne",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 3,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1904260",
+   "minute": 21,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Melvyn Jaminet",
+   "detail": "Penalty (3-10)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 3,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1904265",
+   "minute": 28,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sevu Reece",
+   "detail": "replaces Maxim Granell",
+   "playerOn": "Sevu Reece",
+   "playerOff": "Maxim Granell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904267",
+   "minute": 30,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Paolo Garbisi",
+   "detail": "Try (8-10)",
+   "playerName": "Paolo Garbisi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 8,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1904268",
+   "minute": 31,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Aucagne",
+   "detail": "Conversion (10-10)",
+   "playerName": "Antoine Aucagne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 10
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
-  "away": 7
+  "home": 10,
+  "away": 10
  },
  "plays_summed": {
-  "home": 0,
-  "away": 7
+  "home": 10,
+  "away": 10
  }
 }
