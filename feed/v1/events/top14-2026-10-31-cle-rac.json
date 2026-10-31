@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-cle-rac",
  "matchId": "top14-2026-10-31-cle-rac",
- "updated_at": "2026-10-31T13:41:44.466Z",
+ "updated_at": "2026-10-31T13:47:07.357Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604412/competitions/604412/plays?limit=400",
-   "fetched_at": "2026-10-31T13:41:44.466Z",
+   "fetched_at": "2026-10-31T13:47:07.357Z",
    "espn_event_id": "604412",
    "espn_league_id": 270559
   }
@@ -44,15 +44,45 @@
     "home": 0,
     "away": 6
    }
+  },
+  {
+   "id": "espn-1903066",
+   "minute": 11,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Kylan Hamdaoui",
+   "detail": "Try (5-6)",
+   "playerName": "Kylan Hamdaoui",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 6
+   }
+  },
+  {
+   "id": "espn-1903067",
+   "minute": 11,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Harry Plummer",
+   "detail": "Conversion (7-6)",
+   "playerName": "Harry Plummer",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 6
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
+  "home": 7,
   "away": 6
  },
  "plays_summed": {
-  "home": 0,
+  "home": 7,
   "away": 6
  }
 }
