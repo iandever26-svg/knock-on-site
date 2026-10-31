@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-sar-new",
  "matchId": "prem-2026-10-31-sar-new",
- "updated_at": "2026-10-31T15:18:37.173Z",
+ "updated_at": "2026-10-31T15:24:00.138Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604636/competitions/604636/plays?limit=400",
-   "fetched_at": "2026-10-31T15:18:37.173Z",
+   "fetched_at": "2026-10-31T15:24:00.138Z",
    "espn_event_id": "604636",
    "espn_league_id": 267979
   }

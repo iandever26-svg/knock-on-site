@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-10-31T15:18:37.173Z",
- "updatedAt": "2026-10-31T15:18:37.173Z",
+ "generatedAt": "2026-10-31T15:24:00.138Z",
+ "updatedAt": "2026-10-31T15:24:00.138Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 22,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-10-31T15:18:37.173Z",
+   "updated_at": "2026-10-31T15:24:00.138Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-31T15:18:37.173Z",
+     "fetched_at": "2026-10-31T15:24:00.138Z",
      "espn_event_id": "604634",
      "may_lag": true
     }
@@ -27,16 +27,16 @@
    "schema_version": "1.0.0",
    "match_id": "prem-2026-10-31-exe-har",
    "status": "live",
-   "home_score": 0,
+   "home_score": 7,
    "away_score": 14,
    "clock": null,
    "period": "1H",
-   "updated_at": "2026-10-31T15:18:37.173Z",
+   "updated_at": "2026-10-31T15:24:00.138Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-31T15:18:37.173Z",
+     "fetched_at": "2026-10-31T15:24:00.138Z",
      "espn_event_id": "604635",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -44,9 +44,9 @@
      "espn_period": 1
     }
    ],
-   "latest_event_minute": 12,
+   "latest_event_minute": 19,
    "latest_event_period": "1H",
-   "latest_event_seen_at": "2026-10-31T15:18:37.173Z"
+   "latest_event_seen_at": "2026-10-31T15:24:00.138Z"
   },
   {
    "schema_version": "1.0.0",
@@ -56,12 +56,12 @@
    "away_score": 10,
    "clock": null,
    "period": "1H",
-   "updated_at": "2026-10-31T15:18:37.173Z",
+   "updated_at": "2026-10-31T15:24:00.138Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-31T15:18:37.173Z",
+     "fetched_at": "2026-10-31T15:24:00.138Z",
      "espn_event_id": "604636",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -78,15 +78,15 @@
    "match_id": "prem-2026-10-31-bat-sal",
    "status": "live",
    "home_score": 7,
-   "away_score": 0,
+   "away_score": 7,
    "clock": null,
    "period": "1H",
-   "updated_at": "2026-10-31T15:18:37.173Z",
+   "updated_at": "2026-10-31T15:24:00.138Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-31T15:18:37.173Z",
+     "fetched_at": "2026-10-31T15:24:00.138Z",
      "espn_event_id": "604637",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -94,9 +94,9 @@
      "espn_period": 1
     }
    ],
-   "latest_event_minute": 4,
+   "latest_event_minute": 15,
    "latest_event_period": "1H",
-   "latest_event_seen_at": "2026-10-31T15:18:37.173Z"
+   "latest_event_seen_at": "2026-10-31T15:24:00.138Z"
   },
   {
    "schema_version": "1.0.0",
@@ -106,12 +106,12 @@
    "away_score": 30,
    "clock": null,
    "period": "2H",
-   "updated_at": "2026-10-31T15:18:37.173Z",
+   "updated_at": "2026-10-31T15:24:00.138Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-10-31T15:18:37.173Z",
+     "fetched_at": "2026-10-31T15:24:00.138Z",
      "espn_event_id": "604412",
      "may_lag": true,
      "espn_display_clock": "1'",
