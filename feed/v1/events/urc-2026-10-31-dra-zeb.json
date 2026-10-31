@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-dra-zeb",
   "matchId": "urc-2026-10-31-dra-zeb",
-  "updated_at": "2026-10-31T19:03:09+00:00",
+  "updated_at": "2026-10-31T19:08:24+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604070/competitions/604070/plays",
-      "fetched_at": "2026-10-31T19:03:09+00:00",
+      "fetched_at": "2026-10-31T19:08:24+00:00",
       "espn_event_id": "604070",
       "espn_league_id": 270557
     }
@@ -328,6 +328,48 @@
       "playerOn": "Brogan Leary",
       "playerOff": "Anzelo Tuitavuki",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1904171",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Tobias Wade",
+      "detail": "replaces Giovanni Montemauri",
+      "playerOn": "Tobias Wade",
+      "playerOff": "Giovanni Montemauri",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904173",
+      "minute": 72,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Cai Evans",
+      "detail": "Try (26-7)",
+      "playerName": "Cai Evans",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1904192",
+      "minute": 73,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (28-7)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 28,
+        "away": 7
+      }
     }
   ]
 }
