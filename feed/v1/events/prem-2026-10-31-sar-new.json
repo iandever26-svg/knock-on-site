@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-sar-new",
  "matchId": "prem-2026-10-31-sar-new",
- "updated_at": "2026-10-31T16:18:44.339Z",
+ "updated_at": "2026-10-31T16:24:51.982Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604636/competitions/604636/plays?limit=400",
-   "fetched_at": "2026-10-31T16:18:44.339Z",
+   "fetched_at": "2026-10-31T16:24:51.982Z",
    "espn_event_id": "604636",
    "espn_league_id": 267979
   }
@@ -199,7 +199,7 @@
    }
   },
   {
-   "id": "espn-1903312",
+   "id": "espn-1903406",
    "minute": 45,
    "period": "2H",
    "type": "yellow_card",
@@ -250,8 +250,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903363",
-   "minute": 51,
+   "id": "espn-1903400",
+   "minute": 50,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -262,8 +262,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903371",
-   "minute": 51,
+   "id": "espn-1903404",
+   "minute": 50,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -274,8 +274,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903391",
-   "minute": 55,
+   "id": "espn-1903437",
+   "minute": 52,
    "period": "2H",
    "type": "yellow_card",
    "team": "away",
@@ -287,15 +287,111 @@
     "home": 12,
     "away": 17
    }
+  },
+  {
+   "id": "espn-1903414",
+   "minute": 53,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Toby Knight",
+   "detail": "Try (17-17)",
+   "playerName": "Toby Knight",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903415",
+   "minute": 55,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Owen Farrell",
+   "detail": "Conversion (19-17)",
+   "playerName": "Owen Farrell",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903423",
+   "minute": 57,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Nick Tompkins",
+   "detail": "Try (24-17)",
+   "playerName": "Nick Tompkins",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903423-cm",
+   "minute": 57,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (24-17)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 24,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903438",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Samson Adejimi",
+   "detail": "replaces George McGuigan",
+   "playerOn": "Samson Adejimi",
+   "playerOff": "George McGuigan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903440",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "James Elliott",
+   "detail": "replaces Simon Benitez Cruz",
+   "playerOn": "James Elliott",
+   "playerOff": "Simon Benitez Cruz",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903442",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ben Earl",
+   "detail": "replaces Alfie Barbeary",
+   "playerOn": "Ben Earl",
+   "playerOff": "Alfie Barbeary",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
+  "home": 24,
   "away": 17
  },
  "plays_summed": {
-  "home": 12,
+  "home": 24,
   "away": 17
  }
 }

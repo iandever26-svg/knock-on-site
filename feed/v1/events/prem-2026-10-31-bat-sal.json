@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-bat-sal",
  "matchId": "prem-2026-10-31-bat-sal",
- "updated_at": "2026-10-31T16:18:44.339Z",
+ "updated_at": "2026-10-31T16:24:51.982Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604637/competitions/604637/plays?limit=400",
-   "fetched_at": "2026-10-31T16:18:44.339Z",
+   "fetched_at": "2026-10-31T16:24:51.982Z",
    "espn_event_id": "604637",
    "espn_league_id": 267979
   }
@@ -217,6 +217,42 @@
    "detail": "replaces Asher Opoku-Fordjour",
    "playerOn": "Tomas Francis",
    "playerOff": "Asher Opoku-Fordjour",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903425",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom Dunn",
+   "detail": "replaces Dan Frost",
+   "playerOn": "Tom Dunn",
+   "playerOff": "Dan Frost",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903429",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Stuart",
+   "detail": "replaces Archie Griffin",
+   "playerOn": "Will Stuart",
+   "playerOff": "Archie Griffin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903432",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Enoch Opoku-Gyamfi",
+   "detail": "replaces Will Jeanes",
+   "playerOn": "Enoch Opoku-Gyamfi",
+   "playerOff": "Will Jeanes",
    "label": "Substitution"
   }
  ],
