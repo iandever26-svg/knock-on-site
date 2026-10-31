@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-sfp-lro",
  "matchId": "top14-2026-10-31-sfp-lro",
- "updated_at": "2026-10-31T16:51:27.876Z",
+ "updated_at": "2026-10-31T16:56:52.233Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604415/competitions/604415/plays?limit=400",
-   "fetched_at": "2026-10-31T16:51:27.876Z",
+   "fetched_at": "2026-10-31T16:56:52.233Z",
    "espn_event_id": "604415",
    "espn_league_id": 270559
   }
@@ -292,7 +292,7 @@
    }
   },
   {
-   "id": "espn-1903759",
+   "id": "espn-1903773",
    "minute": 48,
    "period": "2H",
    "type": "try",
@@ -307,7 +307,7 @@
    }
   },
   {
-   "id": "espn-1903763",
+   "id": "espn-1903774",
    "minute": 49,
    "period": "2H",
    "type": "conversion_made",
@@ -320,15 +320,69 @@
     "home": 29,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1903799",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Theo McFarland",
+   "detail": "replaces Levani Botia",
+   "playerOn": "Theo McFarland",
+   "playerOff": "Levani Botia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903801",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Davit Niniashvili",
+   "detail": "replaces Tevita Ofa",
+   "playerOn": "Davit Niniashvili",
+   "playerOff": "Tevita Ofa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903783",
+   "minute": 53,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Salmaan Moerat",
+   "detail": "Try (29-15)",
+   "playerName": "Salmaan Moerat",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1903803",
+   "minute": 53,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Diego Jurd",
+   "detail": "Conversion (29-17)",
+   "playerName": "Diego Jurd",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 29,
+    "away": 17
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 29,
-  "away": 10
+  "away": 17
  },
  "plays_summed": {
   "home": 29,
-  "away": 10
+  "away": 17
  }
 }

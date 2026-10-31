@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-ubb-bay",
  "matchId": "top14-2026-10-31-ubb-bay",
- "updated_at": "2026-10-31T16:51:27.876Z",
+ "updated_at": "2026-10-31T16:56:52.233Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604411/competitions/604411/plays?limit=400",
-   "fetched_at": "2026-10-31T16:51:27.876Z",
+   "fetched_at": "2026-10-31T16:56:52.233Z",
    "espn_event_id": "604411",
    "espn_league_id": 270559
   }
@@ -175,6 +175,42 @@
    "detail": "replaces Arthur Iturria",
    "playerOn": "Esteban Capilla",
    "playerOff": "Arthur Iturria",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903784",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tevita Tatafu",
+   "detail": "replaces Emerick Setiano",
+   "playerOn": "Tevita Tatafu",
+   "playerOff": "Emerick Setiano",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903787",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Swan Cormenier",
+   "detail": "replaces Andy Bordelai",
+   "playerOn": "Swan Cormenier",
+   "playerOff": "Andy Bordelai",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903789",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Alexandre Fischer",
+   "detail": "replaces Rodrigo Bruni",
+   "playerOn": "Alexandre Fischer",
+   "playerOff": "Rodrigo Bruni",
    "label": "Substitution"
   }
  ],
