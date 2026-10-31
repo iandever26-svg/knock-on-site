@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-bat-sal",
  "matchId": "prem-2026-10-31-bat-sal",
- "updated_at": "2026-10-31T15:09:36.169Z",
+ "updated_at": "2026-10-31T15:18:37.173Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604637/competitions/604637/plays?limit=400",
-   "fetched_at": "2026-10-31T15:09:36.169Z",
+   "fetched_at": "2026-10-31T15:18:37.173Z",
    "espn_event_id": "604637",
    "espn_league_id": 267979
   }
@@ -29,15 +29,30 @@
     "home": 5,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1903179",
+   "minute": 4,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Finn Russell",
+   "detail": "Conversion (7-0)",
+   "playerName": "Finn Russell",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 5,
+  "home": 7,
   "away": 0
  },
  "plays_summed": {
-  "home": 5,
+  "home": 7,
   "away": 0
  }
 }

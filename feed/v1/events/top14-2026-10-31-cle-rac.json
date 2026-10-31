@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-cle-rac",
  "matchId": "top14-2026-10-31-cle-rac",
- "updated_at": "2026-10-31T15:09:36.169Z",
+ "updated_at": "2026-10-31T15:18:37.173Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604412/competitions/604412/plays?limit=400",
-   "fetched_at": "2026-10-31T15:09:36.169Z",
+   "fetched_at": "2026-10-31T15:18:37.173Z",
    "espn_event_id": "604412",
    "espn_league_id": 270559
   }
@@ -402,25 +402,109 @@
    }
   },
   {
-   "id": "espn-1903170",
-   "minute": 67,
+   "id": "espn-1903180",
+   "minute": 64,
    "period": "2H",
    "type": "substitution",
    "team": "away",
-   "player": "Liam Couturier",
+   "player": "Auguste Albuisson",
+   "detail": "replaces Noam Zebus Delage",
+   "playerOn": "Auguste Albuisson",
+   "playerOff": "Noam Zebus Delage",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903204",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ugo Seunes",
    "detail": "replaces Antoine Gibert",
-   "playerOn": "Liam Couturier",
+   "playerOn": "Ugo Seunes",
    "playerOff": "Antoine Gibert",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903213",
+   "minute": 66,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Barnabe Massa",
+   "detail": "Try (32-27)",
+   "playerName": "Barnabe Massa",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 32,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1903197",
+   "minute": 67,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Harry Plummer",
+   "detail": "Conversion (34-27)",
+   "playerName": "Harry Plummer",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 34,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1903201",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lucas Zamora",
+   "detail": "replaces Baptiste Jauneau",
+   "playerOn": "Lucas Zamora",
+   "playerOff": "Baptiste Jauneau",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903206",
+   "minute": 69,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Ugo Seunes",
+   "detail": "Penalty (34-30)",
+   "playerName": "Ugo Seunes",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 34,
+    "away": 30
+   }
+  },
+  {
+   "id": "espn-1903210",
+   "minute": 72,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Harry Plummer",
+   "detail": "Penalty (37-30)",
+   "playerName": "Harry Plummer",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 37,
+    "away": 30
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 27,
-  "away": 27
+  "home": 37,
+  "away": 30
  },
  "plays_summed": {
-  "home": 27,
-  "away": 27
+  "home": 37,
+  "away": 30
  }
 }
