@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-sfp-lro",
  "matchId": "top14-2026-10-31-sfp-lro",
- "updated_at": "2026-10-31T17:07:47.056Z",
+ "updated_at": "2026-10-31T17:13:10.218Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 36-17, final 29-17; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604415/competitions/604415/plays?limit=400",
-   "fetched_at": "2026-10-31T17:07:47.056Z",
+   "fetched_at": "2026-10-31T17:13:10.218Z",
    "espn_event_id": "604415",
    "espn_league_id": 270559
   }
@@ -35,9 +34,13 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Louis Carbonel",
-   "detail": "Penalty",
+   "detail": "Penalty (3-0)",
    "playerName": "Louis Carbonel",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 3,
+    "away": 0
+   }
   },
   {
    "id": "espn-1903281",
@@ -46,9 +49,13 @@
    "type": "try",
    "team": "home",
    "player": "Alivereti Duguivalu",
-   "detail": "Try",
+   "detail": "Try (8-0)",
    "playerName": "Alivereti Duguivalu",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 8,
+    "away": 0
+   }
   },
   {
    "id": "espn-1903282",
@@ -57,9 +64,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Louis Carbonel",
-   "detail": "Conversion",
+   "detail": "Conversion (10-0)",
    "playerName": "Louis Carbonel",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 0
+   }
   },
   {
    "id": "espn-1903289",
@@ -80,9 +91,13 @@
    "type": "try",
    "team": "home",
    "player": "Giacomo Nicotera",
-   "detail": "Try",
+   "detail": "Try (15-0)",
    "playerName": "Giacomo Nicotera",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 0
+   }
   },
   {
    "id": "espn-1903305-cm",
@@ -91,9 +106,13 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (15-0)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 15,
+    "away": 0
+   }
   },
   {
    "id": "espn-1903355",
@@ -114,9 +133,13 @@
    "type": "yellow_card",
    "team": "away",
    "player": "Levani Botia",
-   "detail": "Yellow card",
+   "detail": "Yellow card (15-0)",
    "playerName": "Levani Botia",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 15,
+    "away": 0
+   }
   },
   {
    "id": "espn-1903366",
@@ -125,9 +148,13 @@
    "type": "try",
    "team": "home",
    "player": "Giacomo Nicotera",
-   "detail": "Try",
+   "detail": "Try (20-0)",
    "playerName": "Giacomo Nicotera",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 20,
+    "away": 0
+   }
   },
   {
    "id": "espn-1903369",
@@ -136,9 +163,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Louis Carbonel",
-   "detail": "Conversion",
+   "detail": "Conversion (22-0)",
    "playerName": "Louis Carbonel",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 0
+   }
   },
   {
    "id": "espn-1903609",
@@ -207,9 +238,13 @@
    "type": "try",
    "team": "away",
    "player": "Aleksandre Kuntelia",
-   "detail": "Try",
+   "detail": "Try (22-5)",
    "playerName": "Aleksandre Kuntelia",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 5
+   }
   },
   {
    "id": "espn-1903435",
@@ -218,9 +253,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Diego Jurd",
-   "detail": "Conversion",
+   "detail": "Conversion (22-7)",
    "playerName": "Diego Jurd",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 7
+   }
   },
   {
    "id": "espn-1903698",
@@ -229,9 +268,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Diego Jurd",
-   "detail": "Penalty",
+   "detail": "Penalty (22-10)",
    "playerName": "Diego Jurd",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 22,
+    "away": 10
+   }
   },
   {
    "id": "espn-1903758",
@@ -240,9 +283,13 @@
    "type": "yellow_card",
    "team": "away",
    "player": "Tolu Latu",
-   "detail": "Yellow card",
+   "detail": "Yellow card (22-10)",
    "playerName": "Tolu Latu",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 22,
+    "away": 10
+   }
   },
   {
    "id": "espn-1903773",
@@ -251,9 +298,13 @@
    "type": "try",
    "team": "home",
    "player": "Giacomo Nicotera",
-   "detail": "Try",
+   "detail": "Try (27-10)",
    "playerName": "Giacomo Nicotera",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 10
+   }
   },
   {
    "id": "espn-1903774",
@@ -262,9 +313,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Louis Carbonel",
-   "detail": "Conversion",
+   "detail": "Conversion (29-10)",
    "playerName": "Louis Carbonel",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 29,
+    "away": 10
+   }
   },
   {
    "id": "espn-1903858",
@@ -273,9 +328,13 @@
    "type": "try",
    "team": "away",
    "player": "Salmaan Moerat",
-   "detail": "Try",
+   "detail": "Try (29-15)",
    "playerName": "Salmaan Moerat",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 15
+   }
   },
   {
    "id": "espn-1903799",
@@ -308,9 +367,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Diego Jurd",
-   "detail": "Conversion",
+   "detail": "Conversion (29-17)",
    "playerName": "Diego Jurd",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 29,
+    "away": 17
+   }
   },
   {
    "id": "espn-1903861",
@@ -331,9 +394,13 @@
    "type": "yellow_card",
    "team": "home",
    "player": "Louis Carbonel",
-   "detail": "Yellow card",
+   "detail": "Yellow card (29-17)",
    "playerName": "Louis Carbonel",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 29,
+    "away": 17
+   }
   },
   {
    "id": "espn-1903887",
@@ -372,39 +439,43 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903900",
-   "minute": 64,
+   "id": "espn-1903910",
+   "minute": 63,
    "period": "2H",
    "type": "try",
    "team": "home",
    "player": "Juan Scelzo",
-   "detail": "Try",
+   "detail": "Try (34-17)",
    "playerName": "Juan Scelzo",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 34,
+    "away": 17
+   }
   },
   {
-   "id": "espn-1903901",
-   "minute": 65,
+   "id": "espn-1903911",
+   "minute": 64,
    "period": "2H",
    "type": "conversion_made",
    "team": "home",
    "player": "Leo Barre",
-   "detail": "Conversion",
+   "detail": "Conversion (36-17)",
    "playerName": "Leo Barre",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 36,
+    "away": 17
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 29,
+  "home": 36,
   "away": 17
  },
  "plays_summed": {
   "home": 36,
   "away": 17
- },
- "unexplained_gap": {
-  "home": -7,
-  "away": 0
  }
 }

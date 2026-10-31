@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-lyo-van",
  "matchId": "top14-2026-10-31-lyo-van",
- "updated_at": "2026-10-31T17:07:47.056Z",
+ "updated_at": "2026-10-31T17:13:10.218Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604413/competitions/604413/plays?limit=400",
-   "fetched_at": "2026-10-31T17:07:47.056Z",
+   "fetched_at": "2026-10-31T17:13:10.218Z",
    "espn_event_id": "604413",
    "espn_league_id": 270559
   }
@@ -469,7 +469,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903872",
+   "id": "espn-1903912",
    "minute": 61,
    "period": "2H",
    "type": "yellow_card",
@@ -526,8 +526,32 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903889",
-   "minute": 68,
+   "id": "espn-1903919",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Charlie Cassang",
+   "detail": "replaces Baptiste Couilloud",
+   "playerOn": "Charlie Cassang",
+   "playerOff": "Baptiste Couilloud",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903921",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Leo Berdeu",
+   "detail": "replaces Martin Meliande",
+   "playerOn": "Leo Berdeu",
+   "playerOff": "Martin Meliande",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903913",
+   "minute": 67,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -535,6 +559,18 @@
    "detail": "replaces Nathanael Hulleu",
    "playerOn": "Giorgi Beria",
    "playerOff": "Nathanael Hulleu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903915",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thomas Moukoro",
+   "detail": "replaces Jerome Rey",
+   "playerOn": "Thomas Moukoro",
+   "playerOff": "Jerome Rey",
    "label": "Substitution"
   }
  ],
