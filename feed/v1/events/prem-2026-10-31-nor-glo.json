@@ -2,15 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-nor-glo",
  "matchId": "prem-2026-10-31-nor-glo",
- "updated_at": "2026-10-31T18:04:40.715Z",
+ "updated_at": "2026-10-31T18:10:02.014Z",
  "final": false,
  "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 0-14, final 0-12; running scores omitted.",
+ "note": "ESPN timeline incomplete: events sum to 7-14, final 5-14; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604638/competitions/604638/plays?limit=400",
-   "fetched_at": "2026-10-31T18:04:40.715Z",
+   "fetched_at": "2026-10-31T18:10:02.014Z",
    "espn_event_id": "604638",
    "espn_league_id": 267979
   }
@@ -39,7 +39,7 @@
    "label": "Conversion"
   },
   {
-   "id": "espn-1903985",
+   "id": "espn-1903993",
    "minute": 21,
    "period": "1H",
    "type": "substitution",
@@ -51,7 +51,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903987",
+   "id": "espn-1903996",
    "minute": 22,
    "period": "1H",
    "type": "substitution",
@@ -83,19 +83,41 @@
    "detail": "Conversion",
    "playerName": "George Barton",
    "label": "Conversion"
+  },
+  {
+   "id": "espn-1903995",
+   "minute": 36,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Tom Pearson",
+   "detail": "Try",
+   "playerName": "Tom Pearson",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1903998",
+   "minute": 37,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Anthony Belleau",
+   "detail": "Conversion",
+   "playerName": "Anthony Belleau",
+   "label": "Conversion"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
-  "away": 12
+  "home": 5,
+  "away": 14
  },
  "plays_summed": {
-  "home": 0,
+  "home": 7,
   "away": 14
  },
  "unexplained_gap": {
-  "home": 0,
-  "away": -2
+  "home": -2,
+  "away": 0
  }
 }
