@@ -1,30 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-31T13:43:51+00:00",
-  "updatedAt": "2026-10-31T13:43:51+00:00",
+  "generatedAt": "2026-10-31T13:49:22+00:00",
+  "updatedAt": "2026-10-31T13:49:22+00:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-30T22:08:44+00:00",
   "matches": [
-    {
-      "match_id": "prem-2026-10-30-bri-lec",
-      "kickoff": "2026-10-30T19:45:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-30T21:37:14.962Z"
-    },
-    {
-      "match_id": "top14-2026-10-31-cle-rac",
-      "kickoff": "2026-10-31T14:30:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-31T13:47:07.357Z"
-    },
     {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
@@ -369,7 +349,7 @@
       "match_id": "urc-2026-10-31-ben-edi",
       "kickoff": "2026-10-31T15:00:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-31T13:38:33+00:00",
+      "scoreUpdatedAt": "2026-10-31T13:49:17+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-29T14:15:19+00:00",
       "events": false,
@@ -379,7 +359,7 @@
       "match_id": "urc-2026-10-31-bul-sca",
       "kickoff": "2026-10-31T15:00:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-31T13:38:33+00:00",
+      "scoreUpdatedAt": "2026-10-31T13:49:17+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-29T14:15:14+00:00",
       "events": false,
@@ -389,7 +369,7 @@
       "match_id": "urc-2026-10-31-dra-zeb",
       "kickoff": "2026-10-31T17:30:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-31T13:38:33+00:00",
+      "scoreUpdatedAt": "2026-10-31T13:49:17+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-29T14:15:33+00:00",
       "events": false,
@@ -399,7 +379,7 @@
       "match_id": "urc-2026-10-31-mun-sha",
       "kickoff": "2026-10-31T17:30:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-31T13:38:33+00:00",
+      "scoreUpdatedAt": "2026-10-31T13:49:17+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-29T14:15:22+00:00",
       "events": false,
@@ -409,7 +389,7 @@
       "match_id": "urc-2026-10-31-osp-car",
       "kickoff": "2026-10-31T19:45:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-31T13:38:33+00:00",
+      "scoreUpdatedAt": "2026-10-31T13:49:17+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-29T14:15:41+00:00",
       "events": false,
@@ -419,11 +399,31 @@
       "match_id": "urc-2026-10-31-sto-uls",
       "kickoff": "2026-10-31T12:45:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-31T13:43:46+00:00",
+      "scoreUpdatedAt": "2026-10-31T13:49:17+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-30T14:16:32+00:00",
       "events": true,
       "eventsUpdatedAt": "2026-10-31T13:38:36+00:00"
+    },
+    {
+      "match_id": "prem-2026-10-30-bri-lec",
+      "kickoff": "2026-10-30T19:45:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-30T21:37:14.962Z"
+    },
+    {
+      "match_id": "top14-2026-10-31-cle-rac",
+      "kickoff": "2026-10-31T14:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-31T13:47:07.357Z"
     }
   ]
 }
