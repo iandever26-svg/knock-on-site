@@ -3,7 +3,7 @@
   "competitionId": "urc",
   "competitionName": "United Rugby Championship",
   "season": "2026/27",
-  "updatedAt": "2026-10-31T19:28:06+00:00",
+  "updatedAt": "2026-10-31T21:50:56+00:00",
   "playoffCutoff": 8,
   "formNote": "Most recent first; may include last season. W/D/L. Current-season results are reconciled with finished matches (ESPN form lags).",
   "provenance": {
@@ -110,6 +110,22 @@
     },
     {
       "position": 7,
+      "teamId": "cardiff",
+      "team": "Cardiff Blues",
+      "P": 5,
+      "W": 3,
+      "D": 0,
+      "L": 2,
+      "PF": 113,
+      "PA": 107,
+      "TF": 17,
+      "TA": 17,
+      "BP": 2,
+      "points": 14,
+      "form": "WLLWW"
+    },
+    {
+      "position": 8,
       "teamId": "dragons",
       "team": "Dragons",
       "P": 5,
@@ -125,23 +141,23 @@
       "form": "WLLWD"
     },
     {
-      "position": 8,
+      "position": 9,
       "teamId": "ospreys",
       "team": "Ospreys",
-      "P": 4,
+      "P": 5,
       "W": 2,
       "D": 0,
-      "L": 2,
+      "L": 3,
       "PF": 112,
-      "PA": 121,
+      "PA": 147,
       "TF": 18,
-      "TA": 17,
+      "TA": 21,
       "BP": 3,
       "points": 11,
-      "form": "WWLLL"
+      "form": "LWWLL"
     },
     {
-      "position": 9,
+      "position": 10,
       "teamId": "benetton",
       "team": "Benetton Treviso",
       "P": 5,
@@ -157,7 +173,7 @@
       "form": "WLLLD"
     },
     {
-      "position": 10,
+      "position": 11,
       "teamId": "connacht",
       "team": "Connacht",
       "P": 5,
@@ -173,7 +189,7 @@
       "form": "LWLWL"
     },
     {
-      "position": 11,
+      "position": 12,
       "teamId": "munster",
       "team": "Munster",
       "P": 5,
@@ -187,22 +203,6 @@
       "BP": 4,
       "points": 10,
       "form": "LLDWL"
-    },
-    {
-      "position": 12,
-      "teamId": "cardiff",
-      "team": "Cardiff Blues",
-      "P": 4,
-      "W": 2,
-      "D": 0,
-      "L": 2,
-      "PF": 87,
-      "PA": 107,
-      "TF": 13,
-      "TA": 17,
-      "BP": 1,
-      "points": 9,
-      "form": "LLWWW"
     },
     {
       "position": 13,
