@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-bat-sal",
  "matchId": "prem-2026-10-31-bat-sal",
- "updated_at": "2026-10-31T15:37:57.024Z",
+ "updated_at": "2026-10-31T15:55:07.981Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604637/competitions/604637/plays?limit=400",
-   "fetched_at": "2026-10-31T15:37:57.024Z",
+   "fetched_at": "2026-10-31T15:55:07.981Z",
    "espn_event_id": "604637",
    "espn_league_id": 267979
   }
@@ -104,15 +104,30 @@
     "home": 14,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1903242",
+   "minute": 30,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Joe Cokanasiga",
+   "detail": "Try (19-7)",
+   "playerName": "Joe Cokanasiga",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
+  "home": 19,
   "away": 7
  },
  "plays_summed": {
-  "home": 14,
+  "home": 19,
   "away": 7
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-lyo-van",
  "matchId": "top14-2026-10-31-lyo-van",
- "updated_at": "2026-10-31T15:46:00.787Z",
+ "updated_at": "2026-10-31T15:55:07.981Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604413/competitions/604413/plays?limit=400",
-   "fetched_at": "2026-10-31T15:46:00.787Z",
+   "fetched_at": "2026-10-31T15:55:07.981Z",
    "espn_event_id": "604413",
    "espn_league_id": 270559
   }
@@ -44,15 +44,45 @@
     "home": 0,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1903278",
+   "minute": 15,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Baptiste Couilloud",
+   "detail": "Try (5-7)",
+   "playerName": "Baptiste Couilloud",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1903279",
+   "minute": 16,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Martin Meliande",
+   "detail": "Conversion (7-7)",
+   "playerName": "Martin Meliande",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
+  "home": 7,
   "away": 7
  },
  "plays_summed": {
-  "home": 0,
+  "home": 7,
   "away": 7
  }
 }

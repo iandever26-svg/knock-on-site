@@ -2,22 +2,22 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-sfp-lro",
  "matchId": "top14-2026-10-31-sfp-lro",
- "updated_at": "2026-10-31T15:46:00.787Z",
+ "updated_at": "2026-10-31T15:55:07.981Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604415/competitions/604415/plays?limit=400",
-   "fetched_at": "2026-10-31T15:46:00.787Z",
+   "fetched_at": "2026-10-31T15:55:07.981Z",
    "espn_event_id": "604415",
    "espn_league_id": 270559
   }
  ],
  "events": [
   {
-   "id": "espn-1903260",
-   "minute": 11,
+   "id": "espn-1903271",
+   "minute": 10,
    "period": "1H",
    "type": "substitution",
    "team": "home",
@@ -28,8 +28,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903264",
-   "minute": 12,
+   "id": "espn-1903275",
+   "minute": 11,
    "period": "1H",
    "type": "penalty_goal_made",
    "team": "home",
@@ -41,15 +41,30 @@
     "home": 3,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1903281",
+   "minute": 19,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Alivereti Duguivalu",
+   "detail": "Try (8-0)",
+   "playerName": "Alivereti Duguivalu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 8,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 3,
+  "home": 8,
   "away": 0
  },
  "plays_summed": {
-  "home": 3,
+  "home": 8,
   "away": 0
  }
 }

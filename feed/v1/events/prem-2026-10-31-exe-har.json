@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-exe-har",
  "matchId": "prem-2026-10-31-exe-har",
- "updated_at": "2026-10-31T15:46:00.787Z",
+ "updated_at": "2026-10-31T15:55:07.981Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604635/competitions/604635/plays?limit=400",
-   "fetched_at": "2026-10-31T15:46:00.787Z",
+   "fetched_at": "2026-10-31T15:55:07.981Z",
    "espn_event_id": "604635",
    "espn_league_id": 267979
   }
@@ -131,15 +131,45 @@
    "playerOn": "Ollie Streeter",
    "playerOff": "Simon Kerrod",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903276",
+   "minute": 39,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Nika Abuladze",
+   "detail": "Try (12-14)",
+   "playerName": "Nika Abuladze",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1903277",
+   "minute": 40,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Henry Slade",
+   "detail": "Conversion (14-14)",
+   "playerName": "Henry Slade",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 14
  },
  "plays_summed": {
-  "home": 7,
+  "home": 14,
   "away": 14
  }
 }
