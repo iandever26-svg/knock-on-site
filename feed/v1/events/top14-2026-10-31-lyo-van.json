@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-lyo-van",
  "matchId": "top14-2026-10-31-lyo-van",
- "updated_at": "2026-10-31T15:55:07.981Z",
+ "updated_at": "2026-10-31T16:07:16.489Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604413/competitions/604413/plays?limit=400",
-   "fetched_at": "2026-10-31T15:55:07.981Z",
+   "fetched_at": "2026-10-31T16:07:16.489Z",
    "espn_event_id": "604413",
    "espn_league_id": 270559
   }
@@ -74,15 +74,87 @@
     "home": 7,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1903284",
+   "minute": 17,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Opeti Helu",
+   "detail": "Yellow card (7-7)",
+   "playerName": "Opeti Helu",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1903285",
+   "minute": 20,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Raymond Nu'u",
+   "detail": "Try (7-12)",
+   "playerName": "Raymond Nu'u",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1903288",
+   "minute": 20,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Nicolas Roger",
+   "detail": "Conversion (7-14)",
+   "playerName": "Nicolas Roger",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1903291",
+   "minute": 22,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Irakli Aptsiauri",
+   "detail": "replaces Ethan Dumortier",
+   "playerOn": "Irakli Aptsiauri",
+   "playerOff": "Ethan Dumortier",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903301",
+   "minute": 27,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Theo Millet",
+   "detail": "Try (12-14)",
+   "playerName": "Theo Millet",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
-  "away": 7
+  "home": 12,
+  "away": 14
  },
  "plays_summed": {
-  "home": 7,
-  "away": 7
+  "home": 12,
+  "away": 14
  }
 }

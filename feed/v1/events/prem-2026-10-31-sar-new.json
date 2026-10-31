@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-sar-new",
  "matchId": "prem-2026-10-31-sar-new",
- "updated_at": "2026-10-31T15:55:07.981Z",
+ "updated_at": "2026-10-31T16:07:16.489Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604636/competitions/604636/plays?limit=400",
-   "fetched_at": "2026-10-31T15:55:07.981Z",
+   "fetched_at": "2026-10-31T16:07:16.489Z",
    "espn_event_id": "604636",
    "espn_league_id": 267979
   }
@@ -154,6 +154,18 @@
    "detail": "replaces Werner Kok",
    "playerOn": "Chris Harris",
    "playerOff": "Werner Kok",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903295",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Charlie Bracken",
+   "detail": "replaces Tom James",
+   "playerOn": "Charlie Bracken",
+   "playerOff": "Tom James",
    "label": "Substitution"
   }
  ],
