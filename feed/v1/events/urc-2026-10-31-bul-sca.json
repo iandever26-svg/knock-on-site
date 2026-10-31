@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-bul-sca",
   "matchId": "urc-2026-10-31-bul-sca",
-  "updated_at": "2026-10-31T16:24:56+00:00",
+  "updated_at": "2026-10-31T16:51:31+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604067/competitions/604067/plays",
-      "fetched_at": "2026-10-31T16:24:56+00:00",
+      "fetched_at": "2026-10-31T16:51:31+00:00",
       "espn_event_id": "604067",
       "espn_league_id": 270557
     }
@@ -246,7 +246,19 @@
       }
     },
     {
-      "id": "espn-1903420",
+      "id": "espn-1903474",
+      "minute": 48,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Dane Blacker",
+      "detail": "replaces Gareth Davies",
+      "playerOn": "Dane Blacker",
+      "playerOff": "Gareth Davies",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903489",
       "minute": 51,
       "period": "2H",
       "type": "try",
@@ -261,7 +273,7 @@
       }
     },
     {
-      "id": "espn-1903421",
+      "id": "espn-1903490",
       "minute": 52,
       "period": "2H",
       "type": "conversion_made",
@@ -273,6 +285,276 @@
       "scoreAfter": {
         "home": 26,
         "away": 19
+      }
+    },
+    {
+      "id": "espn-1903487",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Sam O'Connor",
+      "detail": "replaces Corey Domachowski",
+      "playerOn": "Sam O'Connor",
+      "playerOff": "Corey Domachowski",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903526",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Harvey Cuckson",
+      "detail": "replaces Alex Groves",
+      "playerOn": "Harvey Cuckson",
+      "playerOff": "Alex Groves",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903546",
+      "minute": 55,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Joe Roberts",
+      "detail": "Try (26-24)",
+      "playerName": "Joe Roberts",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 24
+      }
+    },
+    {
+      "id": "espn-1903549",
+      "minute": 56,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Carwyn Leggatt-Jones",
+      "detail": "Conversion (26-26)",
+      "playerName": "Carwyn Leggatt-Jones",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 26,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1903550",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Johan Grobbelaar",
+      "detail": "replaces Jan-Hendrik Wessels",
+      "playerOn": "Johan Grobbelaar",
+      "playerOff": "Jan-Hendrik Wessels",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903552",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Gerhard Steenekamp",
+      "detail": "replaces Alulutho Tshakweni",
+      "playerOn": "Gerhard Steenekamp",
+      "playerOff": "Alulutho Tshakweni",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903554",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Francois Klopper",
+      "detail": "replaces Khutha Mchunu",
+      "playerOn": "Francois Klopper",
+      "playerOff": "Khutha Mchunu",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903568",
+      "minute": 58,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Marcell Coetzee",
+      "detail": "Try (31-26)",
+      "playerName": "Marcell Coetzee",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 31,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1903569",
+      "minute": 59,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "Conversion (33-26)",
+      "playerName": "Curwin Bosch",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 33,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1903677",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sebastian de Klerk",
+      "detail": "replaces Harold Vorster",
+      "playerOn": "Sebastian de Klerk",
+      "playerOff": "Harold Vorster",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903679",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Hakeem Kunene",
+      "detail": "replaces Willie le Roux",
+      "playerOn": "Hakeem Kunene",
+      "playerOff": "Willie le Roux",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903670",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Gareth Anscombe",
+      "detail": "replaces Carwyn Leggatt-Jones",
+      "playerOn": "Gareth Anscombe",
+      "playerOff": "Carwyn Leggatt-Jones",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903689",
+      "minute": 63,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Sebastian de Klerk",
+      "detail": "Try (38-26)",
+      "playerName": "Sebastian de Klerk",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 38,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1903690",
+      "minute": 64,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "Conversion (40-26)",
+      "playerName": "Curwin Bosch",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 40,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1903691",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cobus Wiese",
+      "detail": "replaces Ruan Vermaak",
+      "playerOn": "Cobus Wiese",
+      "playerOff": "Ruan Vermaak",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903693",
+      "minute": 68,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Johan Grobbelaar",
+      "detail": "Try (45-26)",
+      "playerName": "Johan Grobbelaar",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 45,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1903694",
+      "minute": 69,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "Conversion (47-26)",
+      "playerName": "Curwin Bosch",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 47,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1903729",
+      "minute": 74,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Zak Burger",
+      "detail": "replaces Paul de Wet",
+      "playerOn": "Zak Burger",
+      "playerOff": "Paul de Wet",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903737",
+      "minute": 75,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Dylan Maart",
+      "detail": "Try (52-26)",
+      "playerName": "Dylan Maart",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 52,
+        "away": 26
+      }
+    },
+    {
+      "id": "espn-1903756",
+      "minute": 76,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "Conversion (54-26)",
+      "playerName": "Curwin Bosch",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 54,
+        "away": 26
       }
     }
   ]
