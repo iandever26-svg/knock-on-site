@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-mun-sha",
   "matchId": "urc-2026-10-31-mun-sha",
-  "updated_at": "2026-10-31T18:46:18+00:00",
+  "updated_at": "2026-10-31T19:03:08+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604069/competitions/604069/plays",
-      "fetched_at": "2026-10-31T18:46:18+00:00",
+      "fetched_at": "2026-10-31T19:03:08+00:00",
       "espn_event_id": "604069",
       "espn_league_id": 270557
     }
@@ -168,6 +168,159 @@
       "detail": "replaces Ben O'Donovan",
       "playerOn": "Jake O'Riordan",
       "playerOff": "Ben O'Donovan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904037",
+      "minute": 56,
+      "period": "2H",
+      "type": "yellow_card",
+      "team": "away",
+      "player": "Ox Nche",
+      "detail": "Yellow card (3-8)",
+      "playerName": "Ox Nche",
+      "label": "Yellow card",
+      "scoreAfter": {
+        "home": 3,
+        "away": 8
+      }
+    },
+    {
+      "id": "espn-1904052",
+      "minute": 57,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Michael Ala'alatoa",
+      "detail": "replaces Kieran Brookes",
+      "playerOn": "Michael Ala'alatoa",
+      "playerOff": "Kieran Brookes",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904103",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ben O'Donovan",
+      "detail": "replaces Jake O'Riordan",
+      "playerOn": "Ben O'Donovan",
+      "playerOff": "Jake O'Riordan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904105",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Ivan van Zyl",
+      "detail": "replaces Jaden Hendrikse",
+      "playerOn": "Ivan van Zyl",
+      "playerOff": "Jaden Hendrikse",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904113",
+      "minute": 59,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Ivan van Zyl",
+      "detail": "Try (3-13)",
+      "playerName": "Ivan van Zyl",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 3,
+        "away": 13
+      }
+    },
+    {
+      "id": "espn-1904114",
+      "minute": 60,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Gianni Lombard",
+      "detail": "Conversion (3-15)",
+      "playerName": "Gianni Lombard",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 3,
+        "away": 15
+      }
+    },
+    {
+      "id": "espn-1904115",
+      "minute": 60,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Lee Barron",
+      "detail": "replaces Marnus van der Merwe",
+      "playerOn": "Lee Barron",
+      "playerOff": "Marnus van der Merwe",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904127",
+      "minute": 61,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Esethu Mnebelele",
+      "detail": "replaces Ethan Bester",
+      "playerOn": "Esethu Mnebelele",
+      "playerOff": "Ethan Bester",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904131",
+      "minute": 62,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Cameron Dawson",
+      "detail": "replaces Stephan Lewies",
+      "playerOn": "Cameron Dawson",
+      "playerOff": "Stephan Lewies",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904137",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Darrien Landsberg",
+      "detail": "replaces Emile van Heerden",
+      "playerOn": "Darrien Landsberg",
+      "playerOff": "Emile van Heerden",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904125",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Charlie O'Shea",
+      "detail": "replaces JJ Hanrahan",
+      "playerOn": "Charlie O'Shea",
+      "playerOff": "JJ Hanrahan",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904147",
+      "minute": 63,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Litelihle Bester",
+      "detail": "replaces Jaco Williams",
+      "playerOn": "Litelihle Bester",
+      "playerOff": "Jaco Williams",
       "label": "Substitution"
     }
   ]

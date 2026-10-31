@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-dra-zeb",
   "matchId": "urc-2026-10-31-dra-zeb",
-  "updated_at": "2026-10-31T18:46:18+00:00",
+  "updated_at": "2026-10-31T19:03:09+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604070/competitions/604070/plays",
-      "fetched_at": "2026-10-31T18:46:18+00:00",
+      "fetched_at": "2026-10-31T19:03:09+00:00",
       "espn_event_id": "604070",
       "espn_league_id": 270557
     }
@@ -123,8 +123,32 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1904035",
-      "minute": 56,
+      "id": "espn-1904045",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Patricio Baronio",
+      "detail": "replaces Thomas Dominguez",
+      "playerOn": "Patricio Baronio",
+      "playerOff": "Thomas Dominguez",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904047",
+      "minute": 54,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Francisco Minervino",
+      "detail": "replaces Giampietro Ribaldi",
+      "playerOn": "Francisco Minervino",
+      "playerOff": "Giampietro Ribaldi",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904087",
+      "minute": 55,
       "period": "2H",
       "type": "yellow_card",
       "team": "away",
@@ -136,6 +160,174 @@
         "home": 14,
         "away": 0
       }
+    },
+    {
+      "id": "espn-1904078",
+      "minute": 55,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Fine Inisi",
+      "detail": "Try (19-0)",
+      "playerName": "Fine Inisi",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1904079",
+      "minute": 56,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Tinus de Beer",
+      "detail": "Conversion (21-0)",
+      "playerName": "Tinus de Beer",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1904080",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Brodie Coghlan",
+      "detail": "replaces Elliot Dee",
+      "playerOn": "Brodie Coghlan",
+      "playerOff": "Elliot Dee",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904082",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Rodrigo Martinez",
+      "detail": "replaces Jordan Morris",
+      "playerOn": "Rodrigo Martinez",
+      "playerOff": "Jordan Morris",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904084",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Sam Scarfe",
+      "detail": "replaces Evan Minto",
+      "playerOn": "Sam Scarfe",
+      "playerOff": "Evan Minto",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904129",
+      "minute": 61,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Federico Pisani",
+      "detail": "replaces Sergio Pelliccioli",
+      "playerOn": "Federico Pisani",
+      "playerOff": "Sergio Pelliccioli",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904107",
+      "minute": 61,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Owain James",
+      "detail": "replaces Chris Coleman",
+      "playerOn": "Owain James",
+      "playerOff": "Chris Coleman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904111",
+      "minute": 61,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Morgan Lloyd",
+      "detail": "replaces Rhodri Williams",
+      "playerOn": "Morgan Lloyd",
+      "playerOff": "Rhodri Williams",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904133",
+      "minute": 64,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Matteo Canali",
+      "detail": "Try (21-5)",
+      "playerName": "Matteo Canali",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 21,
+        "away": 5
+      }
+    },
+    {
+      "id": "espn-1904134",
+      "minute": 65,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Giacomo da Re",
+      "detail": "Conversion (21-7)",
+      "playerName": "Giacomo da Re",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 21,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1904162",
+      "minute": 66,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jacopo Botturi",
+      "detail": "replaces Giacomo Ferrari",
+      "playerOn": "Jacopo Botturi",
+      "playerOff": "Giacomo Ferrari",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904158",
+      "minute": 68,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cai Evans",
+      "detail": "replaces Angus O'Brien",
+      "playerOn": "Cai Evans",
+      "playerOff": "Angus O'Brien",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904160",
+      "minute": 68,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Brogan Leary",
+      "detail": "replaces Anzelo Tuitavuki",
+      "playerOn": "Brogan Leary",
+      "playerOff": "Anzelo Tuitavuki",
+      "label": "Substitution"
     }
   ]
 }
