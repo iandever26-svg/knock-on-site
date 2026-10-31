@@ -2,15 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-nor-glo",
  "matchId": "prem-2026-10-31-nor-glo",
- "updated_at": "2026-10-31T18:10:02.014Z",
+ "updated_at": "2026-10-31T18:15:22.758Z",
  "final": false,
  "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 7-14, final 5-14; running scores omitted.",
+ "note": "ESPN timeline incomplete: events sum to 12-14, final 7-14; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604638/competitions/604638/plays?limit=400",
-   "fetched_at": "2026-10-31T18:10:02.014Z",
+   "fetched_at": "2026-10-31T18:15:22.758Z",
    "espn_event_id": "604638",
    "espn_league_id": 267979
   }
@@ -105,19 +105,30 @@
    "detail": "Conversion",
    "playerName": "Anthony Belleau",
    "label": "Conversion"
+  },
+  {
+   "id": "espn-1904000",
+   "minute": 42,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Curtis Langdon",
+   "detail": "Try",
+   "playerName": "Curtis Langdon",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 5,
-  "away": 14
- },
- "plays_summed": {
   "home": 7,
   "away": 14
  },
+ "plays_summed": {
+  "home": 12,
+  "away": 14
+ },
  "unexplained_gap": {
-  "home": -2,
+  "home": -5,
   "away": 0
  }
 }
