@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-nor-glo",
  "matchId": "prem-2026-10-31-nor-glo",
- "updated_at": "2026-10-31T17:54:04.904Z",
+ "updated_at": "2026-10-31T18:04:40.715Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 0-14, final 0-12; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604638/competitions/604638/plays?limit=400",
-   "fetched_at": "2026-10-31T17:54:04.904Z",
+   "fetched_at": "2026-10-31T18:04:40.715Z",
    "espn_event_id": "604638",
    "espn_league_id": 267979
   }
@@ -22,13 +23,9 @@
    "type": "try",
    "team": "away",
    "player": "Max Llewellyn",
-   "detail": "Try (0-5)",
+   "detail": "Try",
    "playerName": "Max Llewellyn",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 0,
-    "away": 5
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903981",
@@ -37,13 +34,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "George Barton",
-   "detail": "Conversion (0-7)",
+   "detail": "Conversion",
    "playerName": "George Barton",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 0,
-    "away": 7
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903985",
@@ -68,15 +61,41 @@
    "playerOn": "Dewi Lake",
    "playerOff": "Seb Blake",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903990",
+   "minute": 31,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Will Joseph",
+   "detail": "Try",
+   "playerName": "Will Joseph",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1903992",
+   "minute": 32,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "George Barton",
+   "detail": "Conversion",
+   "playerName": "George Barton",
+   "label": "Conversion"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 0,
-  "away": 7
+  "away": 12
  },
  "plays_summed": {
   "home": 0,
-  "away": 7
+  "away": 14
+ },
+ "unexplained_gap": {
+  "home": 0,
+  "away": -2
  }
 }
