@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-cle-rac",
  "matchId": "top14-2026-10-31-cle-rac",
- "updated_at": "2026-10-31T14:43:55.757Z",
+ "updated_at": "2026-10-31T14:51:06.291Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 20-20, final 20-13; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604412/competitions/604412/plays?limit=400",
-   "fetched_at": "2026-10-31T14:43:55.757Z",
+   "fetched_at": "2026-10-31T14:51:06.291Z",
    "espn_event_id": "604412",
    "espn_league_id": 270559
   }
@@ -23,9 +22,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Antoine Gibert",
-   "detail": "Penalty",
+   "detail": "Penalty (0-3)",
    "playerName": "Antoine Gibert",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 3
+   }
   },
   {
    "id": "espn-1903113",
@@ -34,9 +37,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Antoine Gibert",
-   "detail": "Penalty",
+   "detail": "Penalty (0-6)",
    "playerName": "Antoine Gibert",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 6
+   }
   },
   {
    "id": "espn-1903066",
@@ -45,9 +52,13 @@
    "type": "try",
    "team": "home",
    "player": "Kylan Hamdaoui",
-   "detail": "Try",
+   "detail": "Try (5-6)",
    "playerName": "Kylan Hamdaoui",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 6
+   }
   },
   {
    "id": "espn-1903067",
@@ -56,9 +67,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Harry Plummer",
-   "detail": "Conversion",
+   "detail": "Conversion (7-6)",
    "playerName": "Harry Plummer",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 6
+   }
   },
   {
    "id": "espn-1903068",
@@ -67,9 +82,13 @@
    "type": "try",
    "team": "home",
    "player": "Pita-Gus Sowakula",
-   "detail": "Try",
+   "detail": "Try (12-6)",
    "playerName": "Pita-Gus Sowakula",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 6
+   }
   },
   {
    "id": "espn-1903070",
@@ -78,9 +97,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Harry Plummer",
-   "detail": "Conversion",
+   "detail": "Conversion (14-6)",
    "playerName": "Harry Plummer",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 6
+   }
   },
   {
    "id": "espn-1903088",
@@ -89,9 +112,13 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Harry Plummer",
-   "detail": "Penalty",
+   "detail": "Penalty (17-6)",
    "playerName": "Harry Plummer",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 17,
+    "away": 6
+   }
   },
   {
    "id": "espn-1903091",
@@ -100,9 +127,13 @@
    "type": "try",
    "team": "away",
    "player": "Selestino Ravutaumada",
-   "detail": "Try",
+   "detail": "Try (17-11)",
    "playerName": "Selestino Ravutaumada",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 11
+   }
   },
   {
    "id": "espn-1903092",
@@ -111,9 +142,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Antoine Gibert",
-   "detail": "Conversion",
+   "detail": "Conversion (17-13)",
    "playerName": "Antoine Gibert",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 13
+   }
   },
   {
    "id": "espn-1903103",
@@ -146,9 +181,13 @@
    "type": "yellow_card",
    "team": "home",
    "player": "Kevin Noah",
-   "detail": "Yellow card",
+   "detail": "Yellow card (17-13)",
    "playerName": "Kevin Noah",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 17,
+    "away": 13
+   }
   },
   {
    "id": "espn-1903131",
@@ -180,9 +219,13 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Harry Plummer",
-   "detail": "Penalty",
+   "detail": "Penalty (20-13)",
    "playerName": "Harry Plummer",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 20,
+    "away": 13
+   }
   },
   {
    "id": "espn-1903138",
@@ -215,9 +258,13 @@
    "type": "try",
    "team": "away",
    "player": "Romain Taofifenua",
-   "detail": "Try",
+   "detail": "Try (20-18)",
    "playerName": "Romain Taofifenua",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 20,
+    "away": 18
+   }
   },
   {
    "id": "espn-1903141",
@@ -226,22 +273,34 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Antoine Gibert",
-   "detail": "Conversion",
+   "detail": "Conversion (20-20)",
    "playerName": "Antoine Gibert",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 20,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1903144",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Diego Escobar",
+   "detail": "replaces Janick Tarrit",
+   "playerOn": "Diego Escobar",
+   "playerOff": "Janick Tarrit",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 20,
-  "away": 13
+  "away": 20
  },
  "plays_summed": {
   "home": 20,
   "away": 20
- },
- "unexplained_gap": {
-  "home": 0,
-  "away": -7
  }
 }
