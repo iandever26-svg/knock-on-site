@@ -1,60 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-31T15:18:44+00:00",
-  "updatedAt": "2026-10-31T15:18:44+00:00",
+  "generatedAt": "2026-10-31T15:23:59+00:00",
+  "updatedAt": "2026-10-31T15:23:59+00:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-31T14:59:27+00:00",
   "matches": [
-    {
-      "match_id": "prem-2026-10-30-bri-lec",
-      "kickoff": "2026-10-30T19:45:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-30T21:37:14.962Z"
-    },
-    {
-      "match_id": "prem-2026-10-31-bat-sal",
-      "kickoff": "2026-10-31T15:05:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-31T15:18:37.173Z"
-    },
-    {
-      "match_id": "prem-2026-10-31-exe-har",
-      "kickoff": "2026-10-31T15:00:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-31T15:18:37.173Z"
-    },
-    {
-      "match_id": "prem-2026-10-31-sar-new",
-      "kickoff": "2026-10-31T15:00:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-31T15:18:37.173Z"
-    },
-    {
-      "match_id": "top14-2026-10-31-cle-rac",
-      "kickoff": "2026-10-31T14:30:00+01:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-31T15:18:37.173Z"
-    },
     {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
@@ -403,17 +353,17 @@
       "lineup": true,
       "lineupUpdatedAt": "2026-10-31T14:48:37+00:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-31T15:18:44+00:00"
+      "eventsUpdatedAt": "2026-10-31T15:23:58+00:00"
     },
     {
       "match_id": "urc-2026-10-31-bul-sca",
       "kickoff": "2026-10-31T15:00:00+00:00",
       "score": true,
-      "scoreUpdatedAt": "2026-10-31T15:18:40+00:00",
+      "scoreUpdatedAt": "2026-10-31T15:23:54+00:00",
       "lineup": true,
       "lineupUpdatedAt": "2026-10-31T14:20:45+00:00",
       "events": true,
-      "eventsUpdatedAt": "2026-10-31T15:18:44+00:00"
+      "eventsUpdatedAt": "2026-10-31T15:23:58+00:00"
     },
     {
       "match_id": "urc-2026-10-31-dra-zeb",
@@ -454,6 +404,56 @@
       "lineupUpdatedAt": "2026-10-30T14:16:32+00:00",
       "events": true,
       "eventsUpdatedAt": "2026-10-31T14:49:00+00:00"
+    },
+    {
+      "match_id": "prem-2026-10-30-bri-lec",
+      "kickoff": "2026-10-30T19:45:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-30T21:37:14.962Z"
+    },
+    {
+      "match_id": "prem-2026-10-31-bat-sal",
+      "kickoff": "2026-10-31T15:05:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-31T15:18:37.173Z"
+    },
+    {
+      "match_id": "prem-2026-10-31-exe-har",
+      "kickoff": "2026-10-31T15:00:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-31T15:18:37.173Z"
+    },
+    {
+      "match_id": "prem-2026-10-31-sar-new",
+      "kickoff": "2026-10-31T15:00:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-31T15:18:37.173Z"
+    },
+    {
+      "match_id": "top14-2026-10-31-cle-rac",
+      "kickoff": "2026-10-31T14:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-10-31T15:18:37.173Z"
     }
   ]
 }
