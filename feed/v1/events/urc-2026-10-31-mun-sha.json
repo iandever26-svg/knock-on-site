@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-mun-sha",
   "matchId": "urc-2026-10-31-mun-sha",
-  "updated_at": "2026-10-31T18:35:51+00:00",
+  "updated_at": "2026-10-31T18:41:03+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604069/competitions/604069/plays",
-      "fetched_at": "2026-10-31T18:35:51+00:00",
+      "fetched_at": "2026-10-31T18:41:03+00:00",
       "espn_event_id": "604069",
       "espn_league_id": 270557
     }
@@ -105,6 +105,42 @@
       "detail": "replaces Seán Edogbo",
       "playerOn": "Alex Kendellen",
       "playerOff": "Seán Edogbo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904012",
+      "minute": 50,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Thomas du Toit",
+      "detail": "replaces Hanro Jacobs",
+      "playerOn": "Thomas du Toit",
+      "playerOff": "Hanro Jacobs",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904020",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Stephan Lewies",
+      "detail": "replaces Jason Jenkins",
+      "playerOn": "Stephan Lewies",
+      "playerOff": "Jason Jenkins",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904018",
+      "minute": 53,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Vincent Tshituka",
+      "detail": "replaces Tinotenda Mavesere",
+      "playerOn": "Vincent Tshituka",
+      "playerOff": "Tinotenda Mavesere",
       "label": "Substitution"
     }
   ]
