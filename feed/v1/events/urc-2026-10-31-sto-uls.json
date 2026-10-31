@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-sto-uls",
   "matchId": "urc-2026-10-31-sto-uls",
-  "updated_at": "2026-10-31T13:38:36+00:00",
+  "updated_at": "2026-10-31T14:08:46+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604066/competitions/604066/plays",
-      "fetched_at": "2026-10-31T13:38:36+00:00",
+      "fetched_at": "2026-10-31T14:08:46+00:00",
       "espn_event_id": "604066",
       "espn_league_id": 270557
     }
@@ -153,6 +153,96 @@
       "detail": "replaces Scott Wilson",
       "playerOn": "Zac Ward",
       "playerOff": "Scott Wilson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903071",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Chay Mullins",
+      "detail": "replaces Ethan McIlroy",
+      "playerOn": "Chay Mullins",
+      "playerOff": "Ethan McIlroy",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903073",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Harry Sheridan",
+      "detail": "replaces Ben Donnell",
+      "playerOn": "Harry Sheridan",
+      "playerOff": "Ben Donnell",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903075",
+      "minute": 46,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Evan Roos",
+      "detail": "Try (17-7)",
+      "playerName": "Evan Roos",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1903076",
+      "minute": 47,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Yaqeen Ahmed",
+      "detail": "Conversion (19-7)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1903084",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Neethling Fouché",
+      "detail": "replaces Wilco Louw",
+      "playerOn": "Neethling Fouché",
+      "playerOff": "Wilco Louw",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903086",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Vernon Matongo",
+      "detail": "replaces Ntuthuko Mchunu",
+      "playerOn": "Vernon Matongo",
+      "playerOff": "Ntuthuko Mchunu",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903089",
+      "minute": 52,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Wandile Mlaba",
+      "detail": "replaces Evan Roos",
+      "playerOn": "Wandile Mlaba",
+      "playerOff": "Evan Roos",
       "label": "Substitution"
     }
   ]
