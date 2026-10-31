@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-sfp-lro",
  "matchId": "top14-2026-10-31-sfp-lro",
- "updated_at": "2026-10-31T17:18:51.743Z",
- "final": false,
+ "updated_at": "2026-10-31T17:27:13.878Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604415/competitions/604415/plays?limit=400",
-   "fetched_at": "2026-10-31T17:18:51.743Z",
+   "fetched_at": "2026-10-31T17:27:13.878Z",
    "espn_event_id": "604415",
    "espn_league_id": 270559
   }
@@ -508,6 +508,18 @@
    }
   },
   {
+   "id": "espn-1903941",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Christophe Loustalot",
+   "detail": "replaces Diego Jurd",
+   "playerOn": "Christophe Loustalot",
+   "playerOff": "Diego Jurd",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1903937",
    "minute": 73,
    "period": "2H",
@@ -520,6 +532,36 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1903945",
+   "minute": 82,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Tomasi Maka",
+   "detail": "Try (41-17)",
+   "playerName": "Tomasi Maka",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 41,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903948",
+   "minute": 83,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Louis Carbonel",
+   "detail": "Conversion (43-17)",
+   "playerName": "Louis Carbonel",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 43,
+    "away": 17
+   }
+  },
+  {
    "id": "inferred-pt-away-1",
    "minute": 0,
    "minuteKnown": false,
@@ -529,20 +571,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (36-24)",
+   "detail": "Penalty try (inferred, minute unknown) (43-24)",
    "scoreAfter": {
-    "home": 36,
+    "home": 43,
     "away": 24
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 36,
+  "home": 43,
   "away": 24
  },
  "plays_summed": {
-  "home": 36,
+  "home": 43,
   "away": 17
  },
  "inferred_penalty_tries": [

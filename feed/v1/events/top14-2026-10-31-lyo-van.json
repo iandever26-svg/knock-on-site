@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-lyo-van",
  "matchId": "top14-2026-10-31-lyo-van",
- "updated_at": "2026-10-31T17:18:51.743Z",
- "final": false,
+ "updated_at": "2026-10-31T17:27:13.878Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604413/competitions/604413/plays?limit=400",
-   "fetched_at": "2026-10-31T17:18:51.743Z",
+   "fetched_at": "2026-10-31T17:27:13.878Z",
    "espn_event_id": "604413",
    "espn_league_id": 270559
   }
@@ -637,6 +637,18 @@
     "home": 41,
     "away": 25
    }
+  },
+  {
+   "id": "espn-1903943",
+   "minute": 78,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Thomas Ployet",
+   "detail": "replaces Matias Alemanno",
+   "playerOn": "Thomas Ployet",
+   "playerOff": "Matias Alemanno",
+   "label": "Substitution"
   },
   {
    "id": "espn-1903935",
