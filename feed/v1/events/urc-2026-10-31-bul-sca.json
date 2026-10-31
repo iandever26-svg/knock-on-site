@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-bul-sca",
   "matchId": "urc-2026-10-31-bul-sca",
-  "updated_at": "2026-10-31T15:23:58+00:00",
+  "updated_at": "2026-10-31T15:34:02+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604067/competitions/604067/plays",
-      "fetched_at": "2026-10-31T15:23:58+00:00",
+      "fetched_at": "2026-10-31T15:34:02+00:00",
       "espn_event_id": "604067",
       "espn_league_id": 270557
     }
@@ -56,6 +56,63 @@
       "label": "Try",
       "scoreAfter": {
         "home": 12,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903214-cm",
+      "minute": 17,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (12-0)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 12,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903232",
+      "minute": 25,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Gabe Hawley",
+      "detail": "replaces Harri O'Connor",
+      "playerOn": "Gabe Hawley",
+      "playerOff": "Harri O'Connor",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903231",
+      "minute": 27,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Dylan Maart",
+      "detail": "Try (17-0)",
+      "playerName": "Dylan Maart",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 17,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903235",
+      "minute": 28,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "Conversion (19-0)",
+      "playerName": "Curwin Bosch",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 19,
         "away": 0
       }
     }
