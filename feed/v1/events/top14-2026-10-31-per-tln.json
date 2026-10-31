@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-per-tln",
  "matchId": "top14-2026-10-31-per-tln",
- "updated_at": "2026-10-31T21:13:37.722Z",
- "final": false,
+ "updated_at": "2026-10-31T21:50:43.535Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604410/competitions/604410/plays?limit=400",
-   "fetched_at": "2026-10-31T21:13:37.722Z",
+   "fetched_at": "2026-10-31T21:50:43.535Z",
    "espn_event_id": "604410",
    "espn_league_id": 270559
   }
@@ -227,15 +227,245 @@
    "playerOn": "Pierre Damond",
    "playerOff": "Teddy Baubigny",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1904319",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Junior Kpoku",
+   "detail": "replaces Swan Rebbadj",
+   "playerOn": "Junior Kpoku",
+   "playerOff": "Swan Rebbadj",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904323",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Cedate Gomes Sa",
+   "detail": "replaces Pietro Ceccarelli",
+   "playerOn": "Cedate Gomes Sa",
+   "playerOff": "Pietro Ceccarelli",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904336",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "James Hall",
+   "detail": "replaces Tom Ecochard",
+   "playerOn": "James Hall",
+   "playerOff": "Tom Ecochard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904340",
+   "minute": 65,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Pierre Damond",
+   "detail": "Try (10-18)",
+   "playerName": "Pierre Damond",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1904341",
+   "minute": 65,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Melvyn Jaminet",
+   "detail": "Conversion (10-20)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1904342",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Samuel Jean-Christophe",
+   "detail": "replaces Leo Ametlla",
+   "playerOn": "Samuel Jean-Christophe",
+   "playerOff": "Leo Ametlla",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904344",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mikheili Shioshvili",
+   "detail": "replaces Zach Mercer",
+   "playerOn": "Mikheili Shioshvili",
+   "playerOff": "Zach Mercer",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904349",
+   "minute": 66,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Junior Kpoku",
+   "detail": "Yellow card (10-20)",
+   "playerName": "Junior Kpoku",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 10,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1904356",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Bastien Chinarro",
+   "detail": "replaces Mathieu Tanguy",
+   "playerOn": "Bastien Chinarro",
+   "playerOff": "Mathieu Tanguy",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904357",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": null,
+   "detail": "replaces Mathieu Tanguy",
+   "playerOff": "Mathieu Tanguy",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904353",
+   "minute": 69,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "James Hall",
+   "detail": "Try (15-20)",
+   "playerName": "James Hall",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1904354",
+   "minute": 69,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Aucagne",
+   "detail": "Conversion (17-20)",
+   "playerName": "Antoine Aucagne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1904360",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mateo Garcia",
+   "detail": "replaces Tomas Albornoz",
+   "playerOn": "Mateo Garcia",
+   "playerOff": "Tomas Albornoz",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904362",
+   "minute": 76,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Theo Forner",
+   "detail": "Try (22-20)",
+   "playerName": "Theo Forner",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1904363",
+   "minute": 77,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Aucagne",
+   "detail": "Conversion (24-20)",
+   "playerName": "Antoine Aucagne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 24,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1904364",
+   "minute": 80,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Junior Kpoku",
+   "detail": "Try (24-25)",
+   "playerName": "Junior Kpoku",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1904364-cm",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (24-25)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 24,
+    "away": 25
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 10,
-  "away": 13
+  "home": 24,
+  "away": 25
  },
  "plays_summed": {
-  "home": 10,
-  "away": 13
+  "home": 24,
+  "away": 25
  }
 }
