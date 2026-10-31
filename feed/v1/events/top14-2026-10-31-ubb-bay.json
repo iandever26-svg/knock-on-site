@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-ubb-bay",
  "matchId": "top14-2026-10-31-ubb-bay",
- "updated_at": "2026-10-31T17:27:13.878Z",
- "final": false,
+ "updated_at": "2026-10-31T17:32:39.862Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604411/competitions/604411/plays?limit=400",
-   "fetched_at": "2026-10-31T17:27:13.878Z",
+   "fetched_at": "2026-10-31T17:32:39.862Z",
    "espn_event_id": "604411",
    "espn_league_id": 270559
   }
@@ -307,6 +307,18 @@
    "detail": "replaces Xan Mousques",
    "playerOn": "Joseph Laharrague",
    "playerOff": "Xan Mousques",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903951",
+   "minute": 75,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jacques Nguimbous",
+   "detail": "replaces Romain Gardrat",
+   "playerOn": "Jacques Nguimbous",
+   "playerOff": "Romain Gardrat",
    "label": "Substitution"
   },
   {
