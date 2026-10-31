@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-bat-sal",
  "matchId": "prem-2026-10-31-bat-sal",
- "updated_at": "2026-10-31T15:29:24.046Z",
+ "updated_at": "2026-10-31T15:37:57.024Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604637/competitions/604637/plays?limit=400",
-   "fetched_at": "2026-10-31T15:29:24.046Z",
+   "fetched_at": "2026-10-31T15:37:57.024Z",
    "espn_event_id": "604637",
    "espn_league_id": 267979
   }
@@ -74,15 +74,45 @@
     "home": 7,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1903226",
+   "minute": 22,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Tom de Glanville",
+   "detail": "Try (12-7)",
+   "playerName": "Tom de Glanville",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1903227",
+   "minute": 23,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Finn Russell",
+   "detail": "Conversion (14-7)",
+   "playerName": "Finn Russell",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 7
  },
  "plays_summed": {
-  "home": 7,
+  "home": 14,
   "away": 7
  }
 }
