@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-sfp-lro",
  "matchId": "top14-2026-10-31-sfp-lro",
- "updated_at": "2026-10-31T16:41:13.214Z",
+ "updated_at": "2026-10-31T16:51:27.876Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604415/competitions/604415/plays?limit=400",
-   "fetched_at": "2026-10-31T16:41:13.214Z",
+   "fetched_at": "2026-10-31T16:51:27.876Z",
    "espn_event_id": "604415",
    "espn_league_id": 270559
   }
@@ -260,15 +260,75 @@
     "home": 22,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1903698",
+   "minute": 47,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Diego Jurd",
+   "detail": "Penalty (22-10)",
+   "playerName": "Diego Jurd",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 22,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1903758",
+   "minute": 48,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Tolu Latu",
+   "detail": "Yellow card (22-10)",
+   "playerName": "Tolu Latu",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 22,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1903759",
+   "minute": 48,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Giacomo Nicotera",
+   "detail": "Try (27-10)",
+   "playerName": "Giacomo Nicotera",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1903763",
+   "minute": 49,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Louis Carbonel",
+   "detail": "Conversion (29-10)",
+   "playerName": "Louis Carbonel",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 29,
+    "away": 10
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 22,
-  "away": 7
+  "home": 29,
+  "away": 10
  },
  "plays_summed": {
-  "home": 22,
-  "away": 7
+  "home": 29,
+  "away": 10
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-exe-har",
  "matchId": "prem-2026-10-31-exe-har",
- "updated_at": "2026-10-31T16:41:13.214Z",
+ "updated_at": "2026-10-31T16:51:27.876Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604635/competitions/604635/plays?limit=400",
-   "fetched_at": "2026-10-31T16:41:13.214Z",
+   "fetched_at": "2026-10-31T16:51:27.876Z",
    "espn_event_id": "604635",
    "espn_league_id": 267979
   }
@@ -331,8 +331,20 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903605",
-   "minute": 67,
+   "id": "espn-1903668",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Will Hobson",
+   "detail": "replaces Fin Baxter",
+   "playerOn": "Will Hobson",
+   "playerOff": "Fin Baxter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903715",
+   "minute": 66,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -343,8 +355,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903607",
-   "minute": 69,
+   "id": "espn-1903717",
+   "minute": 68,
    "period": "2H",
    "type": "try",
    "team": "away",
@@ -356,15 +368,138 @@
     "home": 21,
     "away": 26
    }
+  },
+  {
+   "id": "espn-1903717-cm",
+   "minute": 68,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (21-26)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 21,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1903718",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Rodrigo Isgro",
+   "detail": "replaces Luke Northmore",
+   "playerOn": "Rodrigo Isgro",
+   "playerOff": "Luke Northmore",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903720",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sam Wolstenholme",
+   "detail": "replaces Stephen Varney",
+   "playerOn": "Sam Wolstenholme",
+   "playerOff": "Stephen Varney",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903722",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Zack Wimbush",
+   "detail": "replaces Will Butt",
+   "playerOn": "Zack Wimbush",
+   "playerOff": "Will Butt",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903724",
+   "minute": 75,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Jack Kenningham",
+   "detail": "Try (21-31)",
+   "playerName": "Jack Kenningham",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1903724-cm",
+   "minute": 75,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (21-31)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 21,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1903725",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Joe Bailey",
+   "detail": "replaces Lewis Pearson",
+   "playerOn": "Joe Bailey",
+   "playerOff": "Lewis Pearson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903727",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Olly Woodburn",
+   "detail": "Try (26-31)",
+   "playerName": "Olly Woodburn",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1903728",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Henry Slade",
+   "detail": "Conversion (28-31)",
+   "playerName": "Henry Slade",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 31
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
-  "away": 26
+  "home": 28,
+  "away": 31
  },
  "plays_summed": {
-  "home": 21,
-  "away": 26
+  "home": 28,
+  "away": 31
  }
 }

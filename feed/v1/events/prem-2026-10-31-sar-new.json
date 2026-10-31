@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-sar-new",
  "matchId": "prem-2026-10-31-sar-new",
- "updated_at": "2026-10-31T16:41:13.214Z",
+ "updated_at": "2026-10-31T16:51:27.876Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 39-29, final 39-24; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604636/competitions/604636/plays?limit=400",
-   "fetched_at": "2026-10-31T16:41:13.214Z",
+   "fetched_at": "2026-10-31T16:51:27.876Z",
    "espn_event_id": "604636",
    "espn_league_id": 267979
   }
@@ -34,13 +35,9 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Josh Hodge",
-   "detail": "Penalty (0-3)",
+   "detail": "Penalty",
    "playerName": "Josh Hodge",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 0,
-    "away": 3
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1903243",
@@ -61,13 +58,9 @@
    "type": "try",
    "team": "away",
    "player": "Werner Kok",
-   "detail": "Try (0-8)",
+   "detail": "Try",
    "playerName": "Werner Kok",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 0,
-    "away": 8
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903245",
@@ -76,13 +69,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Josh Hodge",
-   "detail": "Conversion (0-10)",
+   "detail": "Conversion",
    "playerName": "Josh Hodge",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 0,
-    "away": 10
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903219",
@@ -91,13 +80,9 @@
    "type": "try",
    "team": "home",
    "player": "Jamie George",
-   "detail": "Try (5-10)",
+   "detail": "Try",
    "playerName": "Jamie George",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 10
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903223",
@@ -106,13 +91,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Owen Farrell",
-   "detail": "Conversion (7-10)",
+   "detail": "Conversion",
    "playerName": "Owen Farrell",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 10
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903236",
@@ -121,13 +102,9 @@
    "type": "try",
    "team": "away",
    "player": "Sam Graham",
-   "detail": "Try (7-15)",
+   "detail": "Try",
    "playerName": "Sam Graham",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 7,
-    "away": 15
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903237",
@@ -136,13 +113,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Josh Hodge",
-   "detail": "Conversion (7-17)",
+   "detail": "Conversion",
    "playerName": "Josh Hodge",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 17
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903251",
@@ -175,13 +148,9 @@
    "type": "yellow_card",
    "team": "away",
    "player": "Sam Graham",
-   "detail": "Yellow card (7-17)",
+   "detail": "Yellow card",
    "playerName": "Sam Graham",
-   "label": "Yellow card",
-   "scoreAfter": {
-    "home": 7,
-    "away": 17
-   }
+   "label": "Yellow card"
   },
   {
    "id": "espn-1903578",
@@ -190,13 +159,9 @@
    "type": "try",
    "team": "home",
    "player": "Sione Va'enuku",
-   "detail": "Try (12-17)",
+   "detail": "Try",
    "playerName": "Sione Va'enuku",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 12,
-    "away": 17
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903578-cm",
@@ -205,13 +170,9 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred) (12-17)",
+   "detail": "Conversion missed (inferred)",
    "label": "Conversion missed",
-   "inferred": true,
-   "scoreAfter": {
-    "home": 12,
-    "away": 17
-   }
+   "inferred": true
   },
   {
    "id": "espn-1903339",
@@ -292,13 +253,9 @@
    "type": "yellow_card",
    "team": "away",
    "player": "Alex Hearle",
-   "detail": "Yellow card (12-17)",
+   "detail": "Yellow card",
    "playerName": "Alex Hearle",
-   "label": "Yellow card",
-   "scoreAfter": {
-    "home": 12,
-    "away": 17
-   }
+   "label": "Yellow card"
   },
   {
    "id": "espn-1903414",
@@ -307,13 +264,9 @@
    "type": "try",
    "team": "home",
    "player": "Toby Knight",
-   "detail": "Try (17-17)",
+   "detail": "Try",
    "playerName": "Toby Knight",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 17,
-    "away": 17
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903415",
@@ -322,13 +275,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Owen Farrell",
-   "detail": "Conversion (19-17)",
+   "detail": "Conversion",
    "playerName": "Owen Farrell",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 19,
-    "away": 17
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903423",
@@ -337,13 +286,9 @@
    "type": "try",
    "team": "home",
    "player": "Nick Tompkins",
-   "detail": "Try (24-17)",
+   "detail": "Try",
    "playerName": "Nick Tompkins",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 24,
-    "away": 17
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903423-cm",
@@ -352,13 +297,9 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred) (24-17)",
+   "detail": "Conversion missed (inferred)",
    "label": "Conversion missed",
-   "inferred": true,
-   "scoreAfter": {
-    "home": 24,
-    "away": 17
-   }
+   "inferred": true
   },
   {
    "id": "espn-1903438",
@@ -415,13 +356,9 @@
    "type": "try",
    "team": "home",
    "player": "Noah Caluori",
-   "detail": "Try (29-17)",
+   "detail": "Try",
    "playerName": "Noah Caluori",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 29,
-    "away": 17
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903486-cm",
@@ -430,13 +367,9 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred) (29-17)",
+   "detail": "Conversion missed (inferred)",
    "label": "Conversion missed",
-   "inferred": true,
-   "scoreAfter": {
-    "home": 29,
-    "away": 17
-   }
+   "inferred": true
   },
   {
    "id": "espn-1903583",
@@ -449,15 +382,96 @@
    "playerOn": "Finn Baker",
    "playerOff": "Oscar Usher",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903660",
+   "minute": 71,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Elliot Daly",
+   "detail": "Try",
+   "playerName": "Elliot Daly",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1903660-cm",
+   "minute": 71,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred)",
+   "label": "Conversion missed",
+   "inferred": true
+  },
+  {
+   "id": "espn-1903688",
+   "minute": 75,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Rotimi Segun",
+   "detail": "Try",
+   "playerName": "Rotimi Segun",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1903688-cm",
+   "minute": 75,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred)",
+   "label": "Conversion missed",
+   "inferred": true
+  },
+  {
+   "id": "espn-1903699",
+   "minute": 77,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Ollie Leatherbarrow",
+   "detail": "Try",
+   "playerName": "Ollie Leatherbarrow",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1903700",
+   "minute": 77,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Josh Hodge",
+   "detail": "Conversion",
+   "playerName": "Josh Hodge",
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1903762",
+   "minute": 82,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Alex Hearle",
+   "detail": "Try",
+   "playerName": "Alex Hearle",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 29,
-  "away": 17
+  "home": 39,
+  "away": 24
  },
  "plays_summed": {
-  "home": 29,
-  "away": 17
+  "home": 39,
+  "away": 29
+ },
+ "unexplained_gap": {
+  "home": 0,
+  "away": -5
  }
 }

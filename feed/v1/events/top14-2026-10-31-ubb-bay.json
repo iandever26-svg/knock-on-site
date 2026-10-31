@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-ubb-bay",
  "matchId": "top14-2026-10-31-ubb-bay",
- "updated_at": "2026-10-31T16:41:13.214Z",
+ "updated_at": "2026-10-31T16:51:27.876Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604411/competitions/604411/plays?limit=400",
-   "fetched_at": "2026-10-31T16:41:13.214Z",
+   "fetched_at": "2026-10-31T16:51:27.876Z",
    "espn_event_id": "604411",
    "espn_league_id": 270559
   }
@@ -115,6 +115,66 @@
    "detail": "replaces Yohan Orabe",
    "playerOn": "Sireli Maqala",
    "playerOff": "Yohan Orabe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903739",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Guillaume Cramont",
+   "detail": "replaces Facundo Bosch",
+   "playerOn": "Guillaume Cramont",
+   "playerOff": "Facundo Bosch",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903747",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ben Tameifuna",
+   "detail": "replaces Carlu Sadie",
+   "playerOn": "Ben Tameifuna",
+   "playerOff": "Carlu Sadie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903749",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lasha Pkhakadze",
+   "detail": "replaces Matis Perchaud",
+   "playerOn": "Lasha Pkhakadze",
+   "playerOff": "Matis Perchaud",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903751",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Matthieu Uhila",
+   "detail": "replaces Lucas Paulos",
+   "playerOn": "Matthieu Uhila",
+   "playerOff": "Lucas Paulos",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903753",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Esteban Capilla",
+   "detail": "replaces Arthur Iturria",
+   "playerOn": "Esteban Capilla",
+   "playerOff": "Arthur Iturria",
    "label": "Substitution"
   }
  ],

@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-bat-sal",
  "matchId": "prem-2026-10-31-bat-sal",
- "updated_at": "2026-10-31T16:41:13.214Z",
+ "updated_at": "2026-10-31T16:51:27.876Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 34-14, final 29-14; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604637/competitions/604637/plays?limit=400",
-   "fetched_at": "2026-10-31T16:41:13.214Z",
+   "fetched_at": "2026-10-31T16:51:27.876Z",
    "espn_event_id": "604637",
    "espn_league_id": 267979
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "home",
    "player": "Henry Arundell",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Henry Arundell",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1903179",
@@ -34,9 +37,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Finn Russell",
-   "detail": "Conversion",
+   "detail": "Conversion (7-0)",
    "playerName": "Finn Russell",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
   },
   {
    "id": "espn-1903215",
@@ -45,9 +52,13 @@
    "type": "try",
    "team": "away",
    "player": "Nathan Jibulu",
-   "detail": "Try",
+   "detail": "Try (7-5)",
    "playerName": "Nathan Jibulu",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
   },
   {
    "id": "espn-1903217",
@@ -56,9 +67,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "George Ford",
-   "detail": "Conversion",
+   "detail": "Conversion (7-7)",
    "playerName": "George Ford",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
   },
   {
    "id": "espn-1903226",
@@ -67,9 +82,13 @@
    "type": "try",
    "team": "home",
    "player": "Tom de Glanville",
-   "detail": "Try",
+   "detail": "Try (12-7)",
    "playerName": "Tom de Glanville",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 7
+   }
   },
   {
    "id": "espn-1903227",
@@ -78,9 +97,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Finn Russell",
-   "detail": "Conversion",
+   "detail": "Conversion (14-7)",
    "playerName": "Finn Russell",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 7
+   }
   },
   {
    "id": "espn-1903242",
@@ -89,9 +112,13 @@
    "type": "try",
    "team": "home",
    "player": "Joe Cokanasiga",
-   "detail": "Try",
+   "detail": "Try (19-7)",
    "playerName": "Joe Cokanasiga",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 7
+   }
   },
   {
    "id": "espn-1903242-cm",
@@ -100,9 +127,13 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (19-7)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 19,
+    "away": 7
+   }
   },
   {
    "id": "espn-1903351",
@@ -111,9 +142,13 @@
    "type": "try",
    "team": "home",
    "player": "Joe Cokanasiga",
-   "detail": "Try",
+   "detail": "Try (24-7)",
    "playerName": "Joe Cokanasiga",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 7
+   }
   },
   {
    "id": "espn-1903352",
@@ -122,9 +157,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Finn Russell",
-   "detail": "Conversion",
+   "detail": "Conversion (26-7)",
    "playerName": "Finn Russell",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 26,
+    "away": 7
+   }
   },
   {
    "id": "espn-1903365",
@@ -133,9 +172,13 @@
    "type": "try",
    "team": "away",
    "player": "Tom O'Flaherty",
-   "detail": "Try",
+   "detail": "Try (26-12)",
    "playerName": "Tom O'Flaherty",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 12
+   }
   },
   {
    "id": "espn-1903373",
@@ -144,9 +187,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "George Ford",
-   "detail": "Conversion",
+   "detail": "Conversion (26-14)",
    "playerName": "George Ford",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 26,
+    "away": 14
+   }
   },
   {
    "id": "espn-1903379",
@@ -238,9 +285,13 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Finn Russell",
-   "detail": "Penalty",
+   "detail": "Penalty (29-14)",
    "playerName": "Finn Russell",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 29,
+    "away": 14
+   }
   },
   {
    "id": "espn-1903499",
@@ -303,7 +354,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903599",
+   "id": "espn-1903644",
    "minute": 64,
    "period": "2H",
    "type": "substitution",
@@ -315,7 +366,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903601",
+   "id": "espn-1903646",
    "minute": 64,
    "period": "2H",
    "type": "substitution",
@@ -327,28 +378,85 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903608",
+   "id": "espn-1903661",
    "minute": 65,
    "period": "2H",
    "type": "try",
    "team": "home",
    "player": "Louie Hennessey",
-   "detail": "Try",
+   "detail": "Try (34-14)",
    "playerName": "Louie Hennessey",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 34,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1903662",
+   "minute": 66,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Finn Russell",
+   "detail": "Conversion (36-14)",
+   "playerName": "Finn Russell",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 36,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1903738",
+   "minute": 72,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Luke Cowan-Dickie",
+   "detail": "Try (36-19)",
+   "playerName": "Luke Cowan-Dickie",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 36,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1903757",
+   "minute": 73,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "George Ford",
+   "detail": "Conversion (36-21)",
+   "playerName": "George Ford",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 36,
+    "away": 21
+   }
+  },
+  {
+   "id": "espn-1903764",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tom Burrow",
+   "detail": "replaces Ben Bamber",
+   "playerOn": "Tom Burrow",
+   "playerOff": "Ben Bamber",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 29,
-  "away": 14
+  "home": 36,
+  "away": 21
  },
  "plays_summed": {
-  "home": 34,
-  "away": 14
- },
- "unexplained_gap": {
-  "home": -5,
-  "away": 0
+  "home": 36,
+  "away": 21
  }
 }
