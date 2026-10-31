@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-ben-edi",
   "matchId": "urc-2026-10-31-ben-edi",
-  "updated_at": "2026-10-31T16:13:27+00:00",
+  "updated_at": "2026-10-31T16:18:39+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604068/competitions/604068/plays",
-      "fetched_at": "2026-10-31T16:13:27+00:00",
+      "fetched_at": "2026-10-31T16:18:39+00:00",
       "espn_event_id": "604068",
       "espn_league_id": 270557
     }
@@ -211,21 +211,31 @@
       "type": "substitution",
       "team": "home",
       "player": "Jadin Kingi",
-      "detail": "replaces Siua Maile",
+      "detail": "replaces Lorenzo Cannone",
       "playerOn": "Jadin Kingi",
-      "playerOff": "Siua Maile",
+      "playerOff": "Lorenzo Cannone",
       "label": "Substitution"
     },
     {
-      "id": "espn-1903345",
+      "id": "espn-1903346",
       "minute": 41,
       "period": "2H",
       "type": "substitution",
       "team": "home",
       "player": "Ivan Nemer",
-      "detail": "replaces Siua Maile",
+      "detail": null,
       "playerOn": "Ivan Nemer",
-      "playerOff": "Siua Maile",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903367",
+      "minute": 41,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": null,
+      "detail": "replaces Lorenzo Cannone",
+      "playerOff": "Lorenzo Cannone",
       "label": "Substitution"
     },
     {
@@ -267,6 +277,36 @@
       "label": "Penalty",
       "scoreAfter": {
         "home": 21,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903378",
+      "minute": 50,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Onisi Ratave",
+      "detail": "Try (26-0)",
+      "playerName": "Onisi Ratave",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 26,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903387",
+      "minute": 51,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Jacob Umaga",
+      "detail": "Conversion (28-0)",
+      "playerName": "Jacob Umaga",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 28,
         "away": 0
       }
     }
