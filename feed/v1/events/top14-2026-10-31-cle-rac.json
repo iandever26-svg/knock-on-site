@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-cle-rac",
  "matchId": "top14-2026-10-31-cle-rac",
- "updated_at": "2026-10-31T14:56:27.727Z",
+ "updated_at": "2026-10-31T15:03:08.701Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604412/competitions/604412/plays?limit=400",
-   "fetched_at": "2026-10-31T14:56:27.727Z",
+   "fetched_at": "2026-10-31T15:03:08.701Z",
    "espn_event_id": "604412",
    "espn_league_id": 270559
   }
@@ -328,15 +328,75 @@
    "playerOn": "Anthime Hemery",
    "playerOff": "Kevin Noah",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903160",
+   "minute": 56,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Nohem Ez Zahouany",
+   "detail": "Try (25-20)",
+   "playerName": "Nohem Ez Zahouany",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 25,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1903161",
+   "minute": 57,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Harry Plummer",
+   "detail": "Conversion (27-20)",
+   "playerName": "Harry Plummer",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 27,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1903162",
+   "minute": 61,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Wame Naituvi",
+   "detail": "Try (27-25)",
+   "playerName": "Wame Naituvi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1903164",
+   "minute": 61,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Gibert",
+   "detail": "Conversion (27-27)",
+   "playerName": "Antoine Gibert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 27,
+    "away": 27
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 20,
-  "away": 20
+  "home": 27,
+  "away": 27
  },
  "plays_summed": {
-  "home": 20,
-  "away": 20
+  "home": 27,
+  "away": 27
  }
 }
