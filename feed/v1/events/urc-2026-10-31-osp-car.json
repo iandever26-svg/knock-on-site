@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-osp-car",
   "matchId": "urc-2026-10-31-osp-car",
-  "updated_at": "2026-10-31T21:13:43+00:00",
+  "updated_at": "2026-10-31T21:21:01+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604071/competitions/604071/plays",
-      "fetched_at": "2026-10-31T21:13:43+00:00",
+      "fetched_at": "2026-10-31T21:21:01+00:00",
       "espn_event_id": "604071",
       "espn_league_id": 270557
     }
@@ -222,6 +222,72 @@
       "detail": "replaces Dan Thomas",
       "playerOff": "Dan Thomas",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1904313",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Efan Daniel",
+      "detail": "replaces Sam Parry",
+      "playerOn": "Efan Daniel",
+      "playerOff": "Sam Parry",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904317",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Cameron Jones",
+      "detail": "replaces Steffan Thomas",
+      "playerOn": "Cameron Jones",
+      "playerOff": "Steffan Thomas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904315",
+      "minute": 64,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Callum Sheedy",
+      "detail": "replaces Jarrod Evans",
+      "playerOn": "Callum Sheedy",
+      "playerOff": "Jarrod Evans",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904321",
+      "minute": 68,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Tom Howe",
+      "detail": "Try (0-24)",
+      "playerName": "Tom Howe",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 24
+      }
+    },
+    {
+      "id": "espn-1904322",
+      "minute": 69,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Callum Sheedy",
+      "detail": "Conversion (0-26)",
+      "playerName": "Callum Sheedy",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 0,
+        "away": 26
+      }
     }
   ]
 }
