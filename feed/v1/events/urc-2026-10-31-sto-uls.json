@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-sto-uls",
   "matchId": "urc-2026-10-31-sto-uls",
-  "updated_at": "2026-10-31T13:27:41+00:00",
+  "updated_at": "2026-10-31T13:38:36+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604066/competitions/604066/plays",
-      "fetched_at": "2026-10-31T13:27:41+00:00",
+      "fetched_at": "2026-10-31T13:38:36+00:00",
       "espn_event_id": "604066",
       "espn_league_id": 270557
     }
@@ -58,6 +58,102 @@
         "home": 0,
         "away": 7
       }
+    },
+    {
+      "id": "espn-1903050",
+      "minute": 33,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "JD Schickerling",
+      "detail": "Try (5-7)",
+      "playerName": "JD Schickerling",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 5,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1903051",
+      "minute": 35,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Yaqeen Ahmed",
+      "detail": "Conversion (7-7)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 7,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1903056",
+      "minute": 37,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Scott Wilson",
+      "detail": "replaces Zac Ward",
+      "playerOn": "Scott Wilson",
+      "playerOff": "Zac Ward",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903058",
+      "minute": 37,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Wandisile Simelane",
+      "detail": "replaces Leolin Zas",
+      "playerOn": "Wandisile Simelane",
+      "playerOff": "Leolin Zas",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903064",
+      "minute": 38,
+      "period": "1H",
+      "type": "try",
+      "team": "home",
+      "player": "Paul de Villiers",
+      "detail": "Try (12-7)",
+      "playerName": "Paul de Villiers",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1903064-cm",
+      "minute": 38,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (12-7)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 12,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1903062",
+      "minute": 40,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Zac Ward",
+      "detail": "replaces Scott Wilson",
+      "playerOn": "Zac Ward",
+      "playerOff": "Scott Wilson",
+      "label": "Substitution"
     }
   ]
 }
