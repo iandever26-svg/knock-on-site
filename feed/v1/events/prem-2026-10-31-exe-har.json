@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-exe-har",
  "matchId": "prem-2026-10-31-exe-har",
- "updated_at": "2026-10-31T16:13:20.355Z",
+ "updated_at": "2026-10-31T16:18:44.339Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604635/competitions/604635/plays?limit=400",
-   "fetched_at": "2026-10-31T16:13:20.355Z",
+   "fetched_at": "2026-10-31T16:18:44.339Z",
    "espn_event_id": "604635",
    "espn_league_id": 267979
   }
@@ -203,6 +203,53 @@
     "home": 21,
     "away": 14
    }
+  },
+  {
+   "id": "espn-1903383",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sam Riley",
+   "detail": "replaces Jack Walker",
+   "playerOn": "Sam Riley",
+   "playerOff": "Jack Walker",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903386",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Harry Browne",
+   "detail": "replaces Kieran Treadwell",
+   "playerOn": "Harry Browne",
+   "playerOff": "Kieran Treadwell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903388",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Will Evans",
+   "detail": "replaces Kieran Treadwell",
+   "playerOn": "Will Evans",
+   "playerOff": "Kieran Treadwell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903389",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Seb Driscoll",
+   "playerOff": "Seb Driscoll",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

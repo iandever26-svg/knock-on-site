@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-sfp-lro",
  "matchId": "top14-2026-10-31-sfp-lro",
- "updated_at": "2026-10-31T16:13:20.355Z",
+ "updated_at": "2026-10-31T16:18:44.339Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604415/competitions/604415/plays?limit=400",
-   "fetched_at": "2026-10-31T16:13:20.355Z",
+   "fetched_at": "2026-10-31T16:18:44.339Z",
    "espn_event_id": "604415",
    "espn_league_id": 270559
   }
@@ -127,7 +127,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1903358",
+   "id": "espn-1903368",
    "minute": 32,
    "period": "1H",
    "type": "yellow_card",
@@ -140,15 +140,45 @@
     "home": 15,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1903366",
+   "minute": 33,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Giacomo Nicotera",
+   "detail": "Try (20-0)",
+   "playerName": "Giacomo Nicotera",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 20,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1903369",
+   "minute": 33,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Louis Carbonel",
+   "detail": "Conversion (22-0)",
+   "playerName": "Louis Carbonel",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 15,
+  "home": 22,
   "away": 0
  },
  "plays_summed": {
-  "home": 15,
+  "home": 22,
   "away": 0
  }
 }

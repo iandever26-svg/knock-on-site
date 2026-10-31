@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-bat-sal",
  "matchId": "prem-2026-10-31-bat-sal",
- "updated_at": "2026-10-31T16:13:20.355Z",
+ "updated_at": "2026-10-31T16:18:44.339Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604637/competitions/604637/plays?limit=400",
-   "fetched_at": "2026-10-31T16:13:20.355Z",
+   "fetched_at": "2026-10-31T16:18:44.339Z",
    "espn_event_id": "604637",
    "espn_league_id": 267979
   }
@@ -164,15 +164,69 @@
     "home": 26,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1903365",
+   "minute": 45,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Tom O'Flaherty",
+   "detail": "Try (26-12)",
+   "playerName": "Tom O'Flaherty",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1903373",
+   "minute": 46,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "George Ford",
+   "detail": "Conversion (26-14)",
+   "playerName": "George Ford",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 26,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1903379",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Luke Cowan-Dickie",
+   "detail": "replaces Nathan Jibulu",
+   "playerOn": "Luke Cowan-Dickie",
+   "playerOff": "Nathan Jibulu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903381",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tomas Francis",
+   "detail": "replaces Asher Opoku-Fordjour",
+   "playerOn": "Tomas Francis",
+   "playerOff": "Asher Opoku-Fordjour",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 26,
-  "away": 7
+  "away": 14
  },
  "plays_summed": {
   "home": 26,
-  "away": 7
+  "away": 14
  }
 }
