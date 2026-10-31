@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-nor-glo",
  "matchId": "prem-2026-10-31-nor-glo",
- "updated_at": "2026-10-31T18:15:22.758Z",
+ "updated_at": "2026-10-31T18:20:44.047Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 12-14, final 7-14; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604638/competitions/604638/plays?limit=400",
-   "fetched_at": "2026-10-31T18:15:22.758Z",
+   "fetched_at": "2026-10-31T18:20:44.047Z",
    "espn_event_id": "604638",
    "espn_league_id": 267979
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "away",
    "player": "Max Llewellyn",
-   "detail": "Try",
+   "detail": "Try (0-5)",
    "playerName": "Max Llewellyn",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
   },
   {
    "id": "espn-1903981",
@@ -34,9 +37,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "George Barton",
-   "detail": "Conversion",
+   "detail": "Conversion (0-7)",
    "playerName": "George Barton",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 7
+   }
   },
   {
    "id": "espn-1903993",
@@ -69,9 +76,13 @@
    "type": "try",
    "team": "away",
    "player": "Will Joseph",
-   "detail": "Try",
+   "detail": "Try (0-12)",
    "playerName": "Will Joseph",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 12
+   }
   },
   {
    "id": "espn-1903992",
@@ -80,9 +91,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "George Barton",
-   "detail": "Conversion",
+   "detail": "Conversion (0-14)",
    "playerName": "George Barton",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 14
+   }
   },
   {
    "id": "espn-1903995",
@@ -91,9 +106,13 @@
    "type": "try",
    "team": "home",
    "player": "Tom Pearson",
-   "detail": "Try",
+   "detail": "Try (5-14)",
    "playerName": "Tom Pearson",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 14
+   }
   },
   {
    "id": "espn-1903998",
@@ -102,9 +121,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Anthony Belleau",
-   "detail": "Conversion",
+   "detail": "Conversion (7-14)",
    "playerName": "Anthony Belleau",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 14
+   }
   },
   {
    "id": "espn-1904000",
@@ -113,22 +136,37 @@
    "type": "try",
    "team": "home",
    "player": "Curtis Langdon",
-   "detail": "Try",
+   "detail": "Try (12-14)",
    "playerName": "Curtis Langdon",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1904001",
+   "minute": 43,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Anthony Belleau",
+   "detail": "Conversion (14-14)",
+   "playerName": "Anthony Belleau",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 14
  },
  "plays_summed": {
-  "home": 12,
+  "home": 14,
   "away": 14
- },
- "unexplained_gap": {
-  "home": -5,
-  "away": 0
  }
 }
