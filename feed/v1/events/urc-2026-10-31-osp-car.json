@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-osp-car",
   "matchId": "urc-2026-10-31-osp-car",
-  "updated_at": "2026-10-31T20:21:26+00:00",
+  "updated_at": "2026-10-31T20:33:48+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604071/competitions/604071/plays",
-      "fetched_at": "2026-10-31T20:21:26+00:00",
+      "fetched_at": "2026-10-31T20:33:48+00:00",
       "espn_event_id": "604071",
       "espn_league_id": 270557
     }
@@ -88,6 +88,45 @@
         "home": 0,
         "away": 19
       }
+    },
+    {
+      "id": "espn-1904259-cm",
+      "minute": 31,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "away",
+      "player": null,
+      "detail": "Conversion missed (inferred) (0-19)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 0,
+        "away": 19
+      }
+    },
+    {
+      "id": "espn-1904261",
+      "minute": 32,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Morgan Morse",
+      "detail": "replaces Ross Moriarty",
+      "playerOn": "Morgan Morse",
+      "playerOff": "Ross Moriarty",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904263",
+      "minute": 32,
+      "period": "1H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Lucas de la Rua",
+      "detail": "replaces Semisi Paea",
+      "playerOn": "Lucas de la Rua",
+      "playerOff": "Semisi Paea",
+      "label": "Substitution"
     }
   ]
 }
