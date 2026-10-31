@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-cle-rac",
  "matchId": "top14-2026-10-31-cle-rac",
- "updated_at": "2026-10-31T15:03:08.701Z",
+ "updated_at": "2026-10-31T15:09:36.169Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604412/competitions/604412/plays?limit=400",
-   "fetched_at": "2026-10-31T15:03:08.701Z",
+   "fetched_at": "2026-10-31T15:09:36.169Z",
    "espn_event_id": "604412",
    "espn_league_id": 270559
   }
@@ -360,6 +360,18 @@
    }
   },
   {
+   "id": "espn-1903168",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "AJ Lam",
+   "detail": "replaces Leon Darricarrere",
+   "playerOn": "AJ Lam",
+   "playerOff": "Leon Darricarrere",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1903162",
    "minute": 61,
    "period": "2H",
@@ -388,6 +400,18 @@
     "home": 27,
     "away": 27
    }
+  },
+  {
+   "id": "espn-1903170",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Liam Couturier",
+   "detail": "replaces Antoine Gibert",
+   "playerOn": "Liam Couturier",
+   "playerOff": "Antoine Gibert",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

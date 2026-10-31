@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-exe-har",
  "matchId": "prem-2026-10-31-exe-har",
- "updated_at": "2026-10-31T15:03:08.701Z",
+ "updated_at": "2026-10-31T15:09:36.169Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 0-5, final 0-0; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604635/competitions/604635/plays?limit=400",
-   "fetched_at": "2026-10-31T15:03:08.701Z",
+   "fetched_at": "2026-10-31T15:09:36.169Z",
    "espn_event_id": "604635",
    "espn_league_id": 267979
   }
@@ -23,22 +22,37 @@
    "type": "try",
    "team": "away",
    "player": "Cadan Murley",
-   "detail": "Try",
+   "detail": "Try (0-5)",
    "playerName": "Cadan Murley",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1903166",
+   "minute": 4,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Marcus Smith",
+   "detail": "Conversion (0-7)",
+   "playerName": "Marcus Smith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 0,
-  "away": 0
+  "away": 7
  },
  "plays_summed": {
   "home": 0,
-  "away": 5
- },
- "unexplained_gap": {
-  "home": 0,
-  "away": -5
+  "away": 7
  }
 }
