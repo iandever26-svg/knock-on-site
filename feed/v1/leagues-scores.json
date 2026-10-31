@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-10-31T13:29:39.809Z",
- "updatedAt": "2026-10-31T13:29:39.809Z",
+ "generatedAt": "2026-10-31T13:41:44.466Z",
+ "updatedAt": "2026-10-31T13:41:44.466Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 22,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-10-31T13:29:39.809Z",
+   "updated_at": "2026-10-31T13:41:44.466Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-10-31T13:29:39.809Z",
+     "fetched_at": "2026-10-31T13:41:44.466Z",
      "espn_event_id": "604634",
      "may_lag": true
     }
@@ -32,22 +32,25 @@
    "match_id": "top14-2026-10-31-cle-rac",
    "status": "live",
    "home_score": 0,
-   "away_score": 0,
+   "away_score": 6,
    "clock": null,
    "period": "1H",
-   "updated_at": "2026-10-31T13:29:39.809Z",
+   "updated_at": "2026-10-31T13:41:44.466Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-10-31T13:29:39.809Z",
+     "fetched_at": "2026-10-31T13:41:44.466Z",
      "espn_event_id": "604412",
      "may_lag": true,
      "espn_display_clock": "1'",
      "espn_clock_seconds": 0,
      "espn_period": 1
     }
-   ]
+   ],
+   "latest_event_minute": 9,
+   "latest_event_period": "1H",
+   "latest_event_seen_at": "2026-10-31T13:41:44.466Z"
   }
  ]
 }
