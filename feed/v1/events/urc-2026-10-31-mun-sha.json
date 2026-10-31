@@ -2,16 +2,32 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-mun-sha",
   "matchId": "urc-2026-10-31-mun-sha",
-  "updated_at": "2026-10-31T17:32:58+00:00",
+  "updated_at": "2026-10-31T17:48:44+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604069/competitions/604069/plays",
-      "fetched_at": "2026-10-31T17:32:58+00:00",
+      "fetched_at": "2026-10-31T17:48:44+00:00",
       "espn_event_id": "604069",
       "espn_league_id": 270557
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "espn-1903982",
+      "minute": 17,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Gianni Lombard",
+      "detail": "Try (0-5)",
+      "playerName": "Gianni Lombard",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 5
+      }
+    }
+  ]
 }
