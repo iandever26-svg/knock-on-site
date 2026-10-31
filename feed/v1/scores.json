@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-31T15:49:41+00:00",
-  "updatedAt": "2026-10-31T15:49:41+00:00",
+  "generatedAt": "2026-10-31T15:50:57+00:00",
+  "updatedAt": "2026-10-31T15:50:57+00:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -854,19 +854,17 @@
       "schema_version": "1.0.0",
       "match_id": "urc-2026-10-31-ben-edi",
       "status": "live",
-      "home_score": 10,
+      "home_score": 15,
       "away_score": 0,
       "clock": null,
       "period": "1H",
-      "updated_at": "2026-10-31T15:46:04+00:00",
+      "updated_at": "2026-10-31T15:50:52+00:00",
       "provenance": [
         {
-          "source_name": "highlightly",
-          "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-31&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-31T15:46:04+00:00",
-          "highlightly_match_id": 45676507,
-          "highlightly_league_id": 65460,
-          "highlightly_league_name": "United Rugby Championship"
+          "source_name": "espn",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20261031",
+          "fetched_at": "2026-10-31T15:50:52+00:00",
+          "espn_event_id": "604068"
         }
       ],
       "home_tries": 3,
@@ -879,28 +877,26 @@
     {
       "schema_version": "1.0.0",
       "match_id": "urc-2026-10-31-bul-sca",
-      "status": "live",
+      "status": "ht",
       "home_score": 19,
-      "away_score": 0,
-      "clock": null,
-      "period": "1H",
-      "updated_at": "2026-10-31T15:46:04+00:00",
+      "away_score": 12,
+      "clock": "HT",
+      "period": "HT",
+      "updated_at": "2026-10-31T15:50:52+00:00",
       "provenance": [
         {
-          "source_name": "highlightly",
-          "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-31&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-31T15:46:04+00:00",
-          "highlightly_match_id": 45675656,
-          "highlightly_league_id": 65460,
-          "highlightly_league_name": "United Rugby Championship"
+          "source_name": "espn",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20261031",
+          "fetched_at": "2026-10-31T15:50:52+00:00",
+          "espn_event_id": "604067"
         }
       ],
       "home_tries": 3,
-      "away_tries": 1,
+      "away_tries": 2,
       "tries_source": "espn_events",
-      "latest_event_minute": 30,
+      "latest_event_minute": 37,
       "latest_event_period": "1H",
-      "latest_event_seen_at": "2026-10-31T15:39:14+00:00"
+      "latest_event_seen_at": "2026-10-31T15:50:57+00:00"
     },
     {
       "schema_version": "1.0.0",
@@ -981,13 +977,13 @@
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
-      "home_tries": 5,
-      "away_tries": 1,
-      "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-31T14:08:46+00:00",
       "latest_event_minute": 78,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-31T14:38:40+00:00"
+      "latest_event_seen_at": "2026-10-31T14:38:40+00:00",
+      "home_tries": 5,
+      "away_tries": 1,
+      "tries_source": "espn_events"
     }
   ]
 }
