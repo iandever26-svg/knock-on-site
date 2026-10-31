@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-sto-uls",
   "matchId": "urc-2026-10-31-sto-uls",
-  "updated_at": "2026-10-31T14:25:42+00:00",
+  "updated_at": "2026-10-31T14:38:40+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604066/competitions/604066/plays",
-      "fetched_at": "2026-10-31T14:25:42+00:00",
+      "fetched_at": "2026-10-31T14:38:40+00:00",
       "espn_event_id": "604066",
       "espn_league_id": 270557
     }
@@ -328,6 +328,102 @@
       "playerOn": "Tom McAllister",
       "playerOff": "Eric O'Sullivan",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1903116",
+      "minute": 67,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Martin Moloney",
+      "detail": "replaces Eli Snyman",
+      "playerOn": "Martin Moloney",
+      "playerOff": "Eli Snyman",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903128",
+      "minute": 70,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Conor McKee",
+      "detail": "replaces James Hume",
+      "playerOn": "Conor McKee",
+      "playerOff": "James Hume",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903124",
+      "minute": 71,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Ruhan Nel",
+      "detail": "Try (24-7)",
+      "playerName": "Ruhan Nel",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 24,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1903125",
+      "minute": 72,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Yaqeen Ahmed",
+      "detail": "Conversion (26-7)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 26,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1903126",
+      "minute": 73,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Altus Rabe",
+      "detail": "replaces Vernon Paulo",
+      "playerOn": "Altus Rabe",
+      "playerOff": "Vernon Paulo",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903133",
+      "minute": 77,
+      "period": "2H",
+      "type": "try",
+      "team": "home",
+      "player": "Yaqeen Ahmed",
+      "detail": "Try (31-7)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 31,
+        "away": 7
+      }
+    },
+    {
+      "id": "espn-1903134",
+      "minute": 78,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Yaqeen Ahmed",
+      "detail": "Conversion (33-7)",
+      "playerName": "Yaqeen Ahmed",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 33,
+        "away": 7
+      }
     }
   ]
 }
