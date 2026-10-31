@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-ubb-bay",
  "matchId": "top14-2026-10-31-ubb-bay",
- "updated_at": "2026-10-31T17:02:20.439Z",
+ "updated_at": "2026-10-31T17:07:47.056Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604411/competitions/604411/plays?limit=400",
-   "fetched_at": "2026-10-31T17:02:20.439Z",
+   "fetched_at": "2026-10-31T17:07:47.056Z",
    "espn_event_id": "604411",
    "espn_league_id": 270559
   }
@@ -236,15 +236,60 @@
    "playerOn": "Pablo Uberti",
    "playerOff": "Damian Penaud",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903868",
+   "minute": 61,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Guillaume Cramont",
+   "detail": "Try (14-5)",
+   "playerName": "Guillaume Cramont",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1903871",
+   "minute": 62,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Robert du Preez",
+   "detail": "Conversion (14-7)",
+   "playerName": "Robert du Preez",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1903891",
+   "minute": 65,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Salesi Rayasi",
+   "detail": "Try (19-7)",
+   "playerName": "Salesi Rayasi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
-  "away": 0
+  "home": 19,
+  "away": 7
  },
  "plays_summed": {
-  "home": 14,
-  "away": 0
+  "home": 19,
+  "away": 7
  }
 }
