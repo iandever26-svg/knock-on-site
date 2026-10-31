@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-bul-sca",
   "matchId": "urc-2026-10-31-bul-sca",
-  "updated_at": "2026-10-31T16:51:31+00:00",
+  "updated_at": "2026-10-31T16:56:47+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604067/competitions/604067/plays",
-      "fetched_at": "2026-10-31T16:51:31+00:00",
+      "fetched_at": "2026-10-31T16:56:47+00:00",
       "espn_event_id": "604067",
       "espn_league_id": 270557
     }
@@ -486,8 +486,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1903693",
-      "minute": 68,
+      "id": "espn-1903791",
+      "minute": 67,
       "period": "2H",
       "type": "try",
       "team": "home",
@@ -501,8 +501,8 @@
       }
     },
     {
-      "id": "espn-1903694",
-      "minute": 69,
+      "id": "espn-1903792",
+      "minute": 68,
       "period": "2H",
       "type": "conversion_made",
       "team": "home",
@@ -516,7 +516,7 @@
       }
     },
     {
-      "id": "espn-1903729",
+      "id": "espn-1903793",
       "minute": 74,
       "period": "2H",
       "type": "substitution",
@@ -528,7 +528,7 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1903737",
+      "id": "espn-1903795",
       "minute": 75,
       "period": "2H",
       "type": "try",
@@ -543,7 +543,7 @@
       }
     },
     {
-      "id": "espn-1903756",
+      "id": "espn-1903796",
       "minute": 76,
       "period": "2H",
       "type": "conversion_made",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-31T16:51:33+00:00",
-  "updatedAt": "2026-10-31T16:51:33+00:00",
+  "generatedAt": "2026-10-31T16:56:47+00:00",
+  "updatedAt": "2026-10-31T16:56:47+00:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -869,31 +869,29 @@
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
-      "home_tries": 4,
-      "away_tries": 2,
-      "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-31T16:13:27+00:00",
       "latest_event_minute": 75,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-31T16:51:32+00:00"
+      "latest_event_seen_at": "2026-10-31T16:51:32+00:00",
+      "home_tries": 4,
+      "away_tries": 2,
+      "tries_source": "espn_events"
     },
     {
       "schema_version": "1.0.0",
       "match_id": "urc-2026-10-31-bul-sca",
       "status": "live",
-      "home_score": 47,
+      "home_score": 54,
       "away_score": 26,
       "clock": null,
       "period": "2H",
-      "updated_at": "2026-10-31T16:51:28+00:00",
+      "updated_at": "2026-10-31T16:56:43+00:00",
       "provenance": [
         {
-          "source_name": "highlightly",
-          "url": "https://rugby.highlightly.net/matches?leagueId=65460&date=2026-10-31&timezone=Europe%2FDublin&limit=40",
-          "fetched_at": "2026-10-31T16:51:28+00:00",
-          "highlightly_match_id": 45675656,
-          "highlightly_league_id": 65460,
-          "highlightly_league_name": "United Rugby Championship"
+          "source_name": "espn",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270557/scoreboard?dates=20261031",
+          "fetched_at": "2026-10-31T16:56:43+00:00",
+          "espn_event_id": "604067"
         }
       ],
       "home_tries": 8,
@@ -983,13 +981,13 @@
           "highlightly_league_name": "United Rugby Championship"
         }
       ],
-      "home_tries": 5,
-      "away_tries": 1,
-      "tries_source": "espn_events",
       "second_half_seen_at": "2026-10-31T14:08:46+00:00",
       "latest_event_minute": 78,
       "latest_event_period": "2H",
-      "latest_event_seen_at": "2026-10-31T14:38:40+00:00"
+      "latest_event_seen_at": "2026-10-31T14:38:40+00:00",
+      "home_tries": 5,
+      "away_tries": 1,
+      "tries_source": "espn_events"
     }
   ]
 }
