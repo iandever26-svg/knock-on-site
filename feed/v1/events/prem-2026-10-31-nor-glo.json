@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-nor-glo",
  "matchId": "prem-2026-10-31-nor-glo",
- "updated_at": "2026-10-31T19:18:49.579Z",
- "final": false,
+ "updated_at": "2026-10-31T19:28:02.349Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604638/competitions/604638/plays?limit=400",
-   "fetched_at": "2026-10-31T19:18:49.579Z",
+   "fetched_at": "2026-10-31T19:28:02.349Z",
    "espn_event_id": "604638",
    "espn_league_id": 267979
   }
@@ -364,8 +364,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1904219",
-   "minute": 77,
+   "id": "espn-1904237",
+   "minute": 76,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -373,6 +373,18 @@
    "detail": "replaces Jack Clement",
    "playerOn": "Lewis Ludlow",
    "playerOff": "Jack Clement",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904240",
+   "minute": 78,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom Lockett",
+   "detail": "replaces Alex Coles",
+   "playerOn": "Tom Lockett",
+   "playerOff": "Alex Coles",
    "label": "Substitution"
   }
  ],
