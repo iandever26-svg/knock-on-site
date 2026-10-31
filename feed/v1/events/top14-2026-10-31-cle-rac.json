@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-cle-rac",
  "matchId": "top14-2026-10-31-cle-rac",
- "updated_at": "2026-10-31T14:51:06.291Z",
+ "updated_at": "2026-10-31T14:56:27.727Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604412/competitions/604412/plays?limit=400",
-   "fetched_at": "2026-10-31T14:51:06.291Z",
+   "fetched_at": "2026-10-31T14:56:27.727Z",
    "espn_event_id": "604412",
    "espn_league_id": 270559
   }
@@ -291,6 +291,42 @@
    "detail": "replaces Janick Tarrit",
    "playerOn": "Diego Escobar",
    "playerOff": "Janick Tarrit",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903150",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Nohem Ez Zahouany",
+   "detail": "replaces Giorgi Dzmanashvili",
+   "playerOn": "Nohem Ez Zahouany",
+   "playerOff": "Giorgi Dzmanashvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903152",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Darcy Swain",
+   "detail": "replaces Leo Michaux",
+   "playerOn": "Darcy Swain",
+   "playerOff": "Leo Michaux",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903154",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Anthime Hemery",
+   "detail": "replaces Kevin Noah",
+   "playerOn": "Anthime Hemery",
+   "playerOff": "Kevin Noah",
    "label": "Substitution"
   }
  ],
