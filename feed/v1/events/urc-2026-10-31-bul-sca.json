@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-bul-sca",
   "matchId": "urc-2026-10-31-bul-sca",
-  "updated_at": "2026-10-31T16:07:12+00:00",
+  "updated_at": "2026-10-31T16:13:26+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604067/competitions/604067/plays",
-      "fetched_at": "2026-10-31T16:07:12+00:00",
+      "fetched_at": "2026-10-31T16:13:26+00:00",
       "espn_event_id": "604067",
       "espn_league_id": 270557
     }
@@ -201,18 +201,33 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1903303",
-      "minute": 43,
+      "id": "espn-1903320",
+      "minute": 45,
       "period": "2H",
       "type": "try",
-      "team": "away",
-      "player": "Gareth Davies",
-      "detail": "Try (19-17)",
-      "playerName": "Gareth Davies",
+      "team": "home",
+      "player": "Marcell Coetzee",
+      "detail": "Try (24-12)",
+      "playerName": "Marcell Coetzee",
       "label": "Try",
       "scoreAfter": {
-        "home": 19,
-        "away": 17
+        "home": 24,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1903359",
+      "minute": 45,
+      "period": "2H",
+      "type": "conversion_made",
+      "team": "home",
+      "player": "Curwin Bosch",
+      "detail": "Conversion (26-12)",
+      "playerName": "Curwin Bosch",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 26,
+        "away": 12
       }
     }
   ]
