@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-nor-glo",
  "matchId": "prem-2026-10-31-nor-glo",
- "updated_at": "2026-10-31T18:47:13.343Z",
+ "updated_at": "2026-10-31T19:06:10.576Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 28-14, final 26-14; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604638/competitions/604638/plays?limit=400",
-   "fetched_at": "2026-10-31T18:47:13.343Z",
+   "fetched_at": "2026-10-31T19:06:10.576Z",
    "espn_event_id": "604638",
    "espn_league_id": 267979
   }
@@ -22,13 +23,9 @@
    "type": "try",
    "team": "away",
    "player": "Max Llewellyn",
-   "detail": "Try (0-5)",
+   "detail": "Try",
    "playerName": "Max Llewellyn",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 0,
-    "away": 5
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903981",
@@ -37,13 +34,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "George Barton",
-   "detail": "Conversion (0-7)",
+   "detail": "Conversion",
    "playerName": "George Barton",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 0,
-    "away": 7
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903993",
@@ -76,13 +69,9 @@
    "type": "try",
    "team": "away",
    "player": "Will Joseph",
-   "detail": "Try (0-12)",
+   "detail": "Try",
    "playerName": "Will Joseph",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 0,
-    "away": 12
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903992",
@@ -91,13 +80,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "George Barton",
-   "detail": "Conversion (0-14)",
+   "detail": "Conversion",
    "playerName": "George Barton",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 0,
-    "away": 14
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903995",
@@ -106,13 +91,9 @@
    "type": "try",
    "team": "home",
    "player": "Tom Pearson",
-   "detail": "Try (5-14)",
+   "detail": "Try",
    "playerName": "Tom Pearson",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 14
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903998",
@@ -121,13 +102,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Anthony Belleau",
-   "detail": "Conversion (7-14)",
+   "detail": "Conversion",
    "playerName": "Anthony Belleau",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 14
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1904000",
@@ -136,13 +113,9 @@
    "type": "try",
    "team": "home",
    "player": "Curtis Langdon",
-   "detail": "Try (12-14)",
+   "detail": "Try",
    "playerName": "Curtis Langdon",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 12,
-    "away": 14
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1904001",
@@ -151,16 +124,12 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Anthony Belleau",
-   "detail": "Conversion (14-14)",
+   "detail": "Conversion",
    "playerName": "Anthony Belleau",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 14,
-    "away": 14
-   }
+   "label": "Conversion"
   },
   {
-   "id": "espn-1904025",
+   "id": "espn-1904117",
    "minute": 53,
    "period": "2H",
    "type": "substitution",
@@ -172,7 +141,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1904027",
+   "id": "espn-1904119",
    "minute": 53,
    "period": "2H",
    "type": "substitution",
@@ -184,7 +153,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1904031",
+   "id": "espn-1904121",
    "minute": 53,
    "period": "2H",
    "type": "substitution",
@@ -194,15 +163,147 @@
    "playerOn": "Jac Morgan",
    "playerOff": "Deian Gwynne",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1904141",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ion Neculai",
+   "detail": "replaces Cleopas Kundiona",
+   "playerOn": "Ion Neculai",
+   "playerOff": "Cleopas Kundiona",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904143",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Robbie Smith",
+   "detail": "replaces Curtis Langdon",
+   "playerOn": "Robbie Smith",
+   "playerOff": "Curtis Langdon",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904145",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Danilo Fischetti",
+   "detail": "replaces Emmanuel Iyogun",
+   "playerOn": "Danilo Fischetti",
+   "playerOff": "Emmanuel Iyogun",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904139",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Rory Hutchinson",
+   "detail": "replaces Ollie Sleightholme",
+   "playerOn": "Rory Hutchinson",
+   "playerOff": "Ollie Sleightholme",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904182",
+   "minute": 63,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "George Hendy",
+   "detail": "Try",
+   "playerName": "George Hendy",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1904183",
+   "minute": 64,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Anthony Belleau",
+   "detail": "Conversion",
+   "playerName": "Anthony Belleau",
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1904184",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "JJ van der Mescht",
+   "detail": "replaces Ed Prowse",
+   "playerOn": "JJ van der Mescht",
+   "playerOff": "Ed Prowse",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904186",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Will Trenholm",
+   "detail": "replaces Jean Kleyn",
+   "playerOn": "Will Trenholm",
+   "playerOff": "Jean Kleyn",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904188",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Dan Robson",
+   "detail": "replaces Caolan Englefield",
+   "playerOn": "Dan Robson",
+   "playerOff": "Caolan Englefield",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904193",
+   "minute": 69,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Rory Hutchinson",
+   "detail": "Try",
+   "playerName": "Rory Hutchinson",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1904194",
+   "minute": 69,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Anthony Belleau",
+   "detail": "Conversion",
+   "playerName": "Anthony Belleau",
+   "label": "Conversion"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
+  "home": 26,
   "away": 14
  },
  "plays_summed": {
-  "home": 14,
+  "home": 28,
   "away": 14
+ },
+ "unexplained_gap": {
+  "home": -2,
+  "away": 0
  }
 }
