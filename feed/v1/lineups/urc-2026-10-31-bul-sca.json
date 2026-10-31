@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-10-29T14:15:14+00:00",
+  "updated_at": "2026-10-31T14:20:45+00:00",
   "match": {
     "match_id": "urc-2026-10-31-bul-sca",
     "external_ids": {
@@ -299,7 +299,7 @@
           "jersey": 7,
           "name": "Josh Macleod",
           "position_label": "Openside",
-          "is_captain": true,
+          "is_captain": false,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -353,7 +353,7 @@
         },
         {
           "jersey": 14,
-          "name": "Ioan Jones",
+          "name": "Archie Hughes",
           "position_label": "Wing",
           "is_captain": false,
           "is_starter": true,
@@ -434,7 +434,7 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": 7,
+      "captain_jersey": null,
       "source_tier": "official",
       "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292619; league shirt numbers 1–23; no captain marker in feed)"
     }
@@ -443,7 +443,7 @@
     {
       "source_name": "bulls_official",
       "url": "https://bullsrugby.co.za/vodacom-bulls-ring-the-changes-for-scarlets-clash/",
-      "fetched_at": "2026-10-29T14:15:14+00:00",
+      "fetched_at": "2026-10-31T14:20:45+00:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": true,
@@ -456,7 +456,7 @@
     {
       "source_name": "bulls_official",
       "url": "https://bullsrugby.co.za/",
-      "fetched_at": "2026-10-29T14:15:14+00:00",
+      "fetched_at": "2026-10-31T14:20:45+00:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
@@ -467,7 +467,7 @@
     {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292619%5D%7D",
-      "fetched_at": "2026-10-29T14:15:14+00:00",
+      "fetched_at": "2026-10-31T14:20:45+00:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": false,
@@ -478,9 +478,20 @@
       "source_tier": "official"
     },
     {
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26758/urc-2026-2027/bulls-scarlets",
+      "fetched_at": "2026-10-31T14:20:45+00:00",
+      "content_type": "html_article",
+      "http_status": 200,
+      "is_primary": false,
+      "role": "corroboration",
+      "side": "home",
+      "source_tier": "secondary"
+    },
+    {
       "source_name": "urc_official",
       "url": "https://www.unitedrugby.com/graphql?query=query(%24match_id%3A%5BInt%5D)%7Bmatchstats(match_id%3A%24match_id)%7Bmatch_id%20match_status%20home_team_id%20away_team_id%20stats_data%7BdateTime%20homeTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%20awayTeam%7Bteam%7Bid%20name%7D%20players%7BfirstName%20lastName%20position%7Bname%20shirtNumber%7D%7D%7D%7D%7D%7D&variables=%7B%22match_id%22%3A%5B292619%5D%7D",
-      "fetched_at": "2026-10-29T14:15:14+00:00",
+      "fetched_at": "2026-10-31T14:20:45+00:00",
       "content_type": "other",
       "http_status": 200,
       "is_primary": true,
@@ -491,15 +502,15 @@
       "source_tier": "official"
     },
     {
-      "source_name": "scarlets_official",
-      "url": "https://www.scarlets.wales/article/scarlets-name-side-to-face-vodacom-bulls/",
-      "fetched_at": "2026-10-29T14:20:37+00:00",
+      "source_name": "all_rugby",
+      "url": "https://all.rugby/match/26758/urc-2026-2027/bulls-scarlets",
+      "fetched_at": "2026-10-31T14:20:45+00:00",
       "content_type": "html_article",
       "http_status": 200,
       "is_primary": false,
       "role": "corroboration",
       "side": "away",
-      "source_tier": "official"
+      "source_tier": "secondary"
     }
   ],
   "confidence": {
@@ -509,9 +520,9 @@
     "away_lineup": 0.95,
     "score": 0,
     "reasons": [
-      "home: complete_1_to_23 from bulls_official (official); urc_official 23/23 jerseys agree",
-      "away: complete_1_to_23 from urc_official (official)"
+      "home: complete_1_to_23 from bulls_official (official); urc_official 23/23 jerseys agree; all_rugby 19/23 jerseys agree (differs at #6,#7,#11,#14)",
+      "away: complete_1_to_23 from urc_official (official); all_rugby 20/23 jerseys agree (differs at #6,#7,#14)"
     ]
   },
-  "notes": "Ingest poll 2026-10-29T14:15:14+00:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
+  "notes": "Ingest poll 2026-10-31T14:20:45+00:00. Officially announced matchday sheets only; per-side merge (sides never downgraded)."
 }
