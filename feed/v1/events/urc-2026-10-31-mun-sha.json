@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-mun-sha",
   "matchId": "urc-2026-10-31-mun-sha",
-  "updated_at": "2026-10-31T18:20:09+00:00",
+  "updated_at": "2026-10-31T18:35:51+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604069/competitions/604069/plays",
-      "fetched_at": "2026-10-31T18:20:09+00:00",
+      "fetched_at": "2026-10-31T18:35:51+00:00",
       "espn_event_id": "604069",
       "espn_league_id": 270557
     }
@@ -58,6 +58,54 @@
         "home": 3,
         "away": 5
       }
+    },
+    {
+      "id": "espn-1904004",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Jeremy Loughman",
+      "detail": "replaces Josh Wycherley",
+      "playerOn": "Jeremy Loughman",
+      "playerOff": "Josh Wycherley",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904006",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Edwin Edogbo",
+      "detail": "replaces Evan O'Connell",
+      "playerOn": "Edwin Edogbo",
+      "playerOff": "Evan O'Connell",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904008",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Gavin Coombes",
+      "detail": "replaces Brian Gleeson",
+      "playerOn": "Gavin Coombes",
+      "playerOff": "Brian Gleeson",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904010",
+      "minute": 46,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Alex Kendellen",
+      "detail": "replaces Seán Edogbo",
+      "playerOn": "Alex Kendellen",
+      "playerOff": "Seán Edogbo",
+      "label": "Substitution"
     }
   ]
 }
