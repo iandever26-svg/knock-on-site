@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-osp-car",
   "matchId": "urc-2026-10-31-osp-car",
-  "updated_at": "2026-10-31T20:33:48+00:00",
+  "updated_at": "2026-10-31T20:58:47+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604071/competitions/604071/plays",
-      "fetched_at": "2026-10-31T20:33:48+00:00",
+      "fetched_at": "2026-10-31T20:58:47+00:00",
       "espn_event_id": "604071",
       "espn_league_id": 270557
     }
@@ -126,6 +126,42 @@
       "detail": "replaces Semisi Paea",
       "playerOn": "Lucas de la Rua",
       "playerOff": "Semisi Paea",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904274",
+      "minute": 40,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Semisi Paea",
+      "detail": "replaces Lucas de la Rua",
+      "playerOn": "Semisi Paea",
+      "playerOff": "Lucas de la Rua",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904276",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Javan Sebastian",
+      "detail": "replaces Keiron Assiratti",
+      "playerOn": "Javan Sebastian",
+      "playerOff": "Keiron Assiratti",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904278",
+      "minute": 45,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Scott Sio",
+      "detail": "replaces Danny Southworth",
+      "playerOn": "Scott Sio",
+      "playerOff": "Danny Southworth",
       "label": "Substitution"
     }
   ]
