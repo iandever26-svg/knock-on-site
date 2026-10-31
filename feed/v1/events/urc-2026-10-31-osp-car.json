@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-osp-car",
   "matchId": "urc-2026-10-31-osp-car",
-  "updated_at": "2026-10-31T21:21:01+00:00",
+  "updated_at": "2026-10-31T21:32:53+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604071/competitions/604071/plays",
-      "fetched_at": "2026-10-31T21:21:01+00:00",
+      "fetched_at": "2026-10-31T21:32:53+00:00",
       "espn_event_id": "604071",
       "espn_league_id": 270557
     }
@@ -288,6 +288,78 @@
         "home": 0,
         "away": 26
       }
+    },
+    {
+      "id": "espn-1904325",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Aled Davies",
+      "detail": "replaces Johan Mulder",
+      "playerOn": "Aled Davies",
+      "playerOff": "Johan Mulder",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904327",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Osian Darwin-Lewis",
+      "detail": "replaces Tom Bowen",
+      "playerOn": "Osian Darwin-Lewis",
+      "playerOff": "Tom Bowen",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904334",
+      "minute": 70,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Evardi Boshoff",
+      "detail": "replaces Owen Watkin",
+      "playerOn": "Evardi Boshoff",
+      "playerOff": "Owen Watkin",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904332",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Harri Williams",
+      "detail": "replaces Luke Davies",
+      "playerOn": "Harri Williams",
+      "playerOff": "Luke Davies",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904338",
+      "minute": 71,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Rhys Davies",
+      "detail": "replaces Ryan Smith",
+      "playerOn": "Rhys Davies",
+      "playerOff": "Ryan Smith",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904346",
+      "minute": 78,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Steff Jac Jones",
+      "detail": "replaces Luke Morgan",
+      "playerOn": "Steff Jac Jones",
+      "playerOff": "Luke Morgan",
+      "label": "Substitution"
     }
   ]
 }
