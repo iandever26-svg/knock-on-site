@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-per-tln",
  "matchId": "top14-2026-10-31-per-tln",
- "updated_at": "2026-10-31T21:06:21.553Z",
+ "updated_at": "2026-10-31T21:13:37.722Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604410/competitions/604410/plays?limit=400",
-   "fetched_at": "2026-10-31T21:06:21.553Z",
+   "fetched_at": "2026-10-31T21:13:37.722Z",
    "espn_event_id": "604410",
    "espn_league_id": 270559
   }
@@ -164,15 +164,78 @@
    "playerOn": "Gael Fickou",
    "playerOff": "Jeremy Sinzelle",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1904288",
+   "minute": 48,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Melvyn Jaminet",
+   "detail": "Penalty (10-13)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 10,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1904295",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Peceli Yato",
+   "detail": "replaces Posolo Tuilagi",
+   "playerOn": "Peceli Yato",
+   "playerOff": "Posolo Tuilagi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904306",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben White",
+   "detail": "replaces Baptiste Serin",
+   "playerOn": "Ben White",
+   "playerOff": "Baptiste Serin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904308",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kyle Sinckler",
+   "detail": "replaces Beka Gigashvili",
+   "playerOn": "Kyle Sinckler",
+   "playerOff": "Beka Gigashvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904310",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Pierre Damond",
+   "detail": "replaces Teddy Baubigny",
+   "playerOn": "Pierre Damond",
+   "playerOff": "Teddy Baubigny",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 10,
-  "away": 10
+  "away": 13
  },
  "plays_summed": {
   "home": 10,
-  "away": 10
+  "away": 13
  }
 }
