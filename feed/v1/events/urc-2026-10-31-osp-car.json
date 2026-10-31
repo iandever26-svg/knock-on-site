@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-osp-car",
   "matchId": "urc-2026-10-31-osp-car",
-  "updated_at": "2026-10-31T20:58:47+00:00",
+  "updated_at": "2026-10-31T21:13:43+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604071/competitions/604071/plays",
-      "fetched_at": "2026-10-31T20:58:47+00:00",
+      "fetched_at": "2026-10-31T21:13:43+00:00",
       "espn_event_id": "604071",
       "espn_league_id": 270557
     }
@@ -129,8 +129,8 @@
       "label": "Substitution"
     },
     {
-      "id": "espn-1904274",
-      "minute": 40,
+      "id": "espn-1904286",
+      "minute": 41,
       "period": "2H",
       "type": "substitution",
       "team": "away",
@@ -162,6 +162,65 @@
       "detail": "replaces Danny Southworth",
       "playerOn": "Scott Sio",
       "playerOff": "Danny Southworth",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904291",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Tom Howe",
+      "detail": "replaces Dafydd Hughes",
+      "playerOn": "Tom Howe",
+      "playerOff": "Dafydd Hughes",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904298",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Ben Warren",
+      "detail": "replaces Tom Botha",
+      "playerOn": "Ben Warren",
+      "playerOff": "Tom Botha",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904294",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Tom Manz",
+      "detail": "replaces Rory Thornton",
+      "playerOn": "Tom Manz",
+      "playerOff": "Rory Thornton",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904297",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Lucas de la Rua",
+      "detail": "replaces Rory Thornton",
+      "playerOn": "Lucas de la Rua",
+      "playerOff": "Rory Thornton",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1904300",
+      "minute": 58,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": null,
+      "detail": "replaces Dan Thomas",
+      "playerOff": "Dan Thomas",
       "label": "Substitution"
     }
   ]
