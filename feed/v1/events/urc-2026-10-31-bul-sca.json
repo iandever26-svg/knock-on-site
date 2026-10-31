@@ -2,13 +2,14 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-bul-sca",
   "matchId": "urc-2026-10-31-bul-sca",
-  "updated_at": "2026-10-31T16:56:47+00:00",
-  "final": false,
+  "updated_at": "2026-10-31T17:01:59+00:00",
+  "final": true,
+  "scores_verified": true,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604067/competitions/604067/plays",
-      "fetched_at": "2026-10-31T16:56:47+00:00",
+      "fetched_at": "2026-10-31T17:01:59+00:00",
       "espn_event_id": "604067",
       "espn_league_id": 270557
     }
@@ -514,6 +515,30 @@
         "home": 47,
         "away": 26
       }
+    },
+    {
+      "id": "espn-1903824",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jac Davies",
+      "detail": "replaces Isaac Murray-MacGregor",
+      "playerOn": "Jac Davies",
+      "playerOff": "Isaac Murray-MacGregor",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903807",
+      "minute": 69,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Isaac Young",
+      "detail": "replaces John McKee",
+      "playerOn": "Isaac Young",
+      "playerOff": "John McKee",
+      "label": "Substitution"
     },
     {
       "id": "espn-1903793",
