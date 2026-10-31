@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-ben-edi",
   "matchId": "urc-2026-10-31-ben-edi",
-  "updated_at": "2026-10-31T15:49:39+00:00",
+  "updated_at": "2026-10-31T15:56:10+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604068/competitions/604068/plays",
-      "fetched_at": "2026-10-31T15:49:39+00:00",
+      "fetched_at": "2026-10-31T15:56:10+00:00",
       "espn_event_id": "604068",
       "espn_league_id": 270557
     }
@@ -192,6 +192,21 @@
       "detail": "replaces Ivan Nemer",
       "playerOff": "Ivan Nemer",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1903280",
+      "minute": 42,
+      "period": "1H",
+      "type": "penalty_goal_made",
+      "team": "home",
+      "player": "Jacob Umaga",
+      "detail": "Penalty (18-0)",
+      "playerName": "Jacob Umaga",
+      "label": "Penalty",
+      "scoreAfter": {
+        "home": 18,
+        "away": 0
+      }
     }
   ]
 }
