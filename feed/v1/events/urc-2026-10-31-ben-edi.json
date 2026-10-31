@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-ben-edi",
   "matchId": "urc-2026-10-31-ben-edi",
-  "updated_at": "2026-10-31T15:46:25+00:00",
+  "updated_at": "2026-10-31T15:49:39+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604068/competitions/604068/plays",
-      "fetched_at": "2026-10-31T15:46:25+00:00",
+      "fetched_at": "2026-10-31T15:49:39+00:00",
       "espn_event_id": "604068",
       "espn_league_id": 270557
     }
@@ -154,6 +154,44 @@
         "home": 15,
         "away": 0
       }
+    },
+    {
+      "id": "espn-1903257-cm",
+      "minute": 33,
+      "period": "1H",
+      "type": "conversion_missed",
+      "team": "home",
+      "player": null,
+      "detail": "Conversion missed (inferred) (15-0)",
+      "label": "Conversion missed",
+      "inferred": true,
+      "scoreAfter": {
+        "home": 15,
+        "away": 0
+      }
+    },
+    {
+      "id": "espn-1903263",
+      "minute": 35,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Siua Maile",
+      "detail": "replaces Ivan Nemer",
+      "playerOn": "Siua Maile",
+      "playerOff": "Ivan Nemer",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903269",
+      "minute": 35,
+      "period": "1H",
+      "type": "substitution",
+      "team": "home",
+      "player": null,
+      "detail": "replaces Ivan Nemer",
+      "playerOff": "Ivan Nemer",
+      "label": "Substitution"
     }
   ]
 }

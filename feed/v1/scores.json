@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-10-31T15:46:25+00:00",
-  "updatedAt": "2026-10-31T15:46:25+00:00",
+  "generatedAt": "2026-10-31T15:49:41+00:00",
+  "updatedAt": "2026-10-31T15:49:41+00:00",
   "scores": [
     {
       "schema_version": "1.0.0",
@@ -872,9 +872,9 @@
       "home_tries": 3,
       "away_tries": 0,
       "tries_source": "espn_events",
-      "latest_event_minute": 33,
+      "latest_event_minute": 35,
       "latest_event_period": "1H",
-      "latest_event_seen_at": "2026-10-31T15:46:25+00:00"
+      "latest_event_seen_at": "2026-10-31T15:49:39+00:00"
     },
     {
       "schema_version": "1.0.0",
