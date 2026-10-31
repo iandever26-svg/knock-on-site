@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-ubb-bay",
  "matchId": "top14-2026-10-31-ubb-bay",
- "updated_at": "2026-10-31T17:13:10.218Z",
+ "updated_at": "2026-10-31T17:18:51.743Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 19-14, final 14-14; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604411/competitions/604411/plays?limit=400",
-   "fetched_at": "2026-10-31T17:13:10.218Z",
+   "fetched_at": "2026-10-31T17:18:51.743Z",
    "espn_event_id": "604411",
    "espn_league_id": 270559
   }
@@ -22,13 +23,9 @@
    "type": "yellow_card",
    "team": "away",
    "player": "Rodrigo Bruni",
-   "detail": "Yellow card (0-0)",
+   "detail": "Yellow card",
    "playerName": "Rodrigo Bruni",
-   "label": "Yellow card",
-   "scoreAfter": {
-    "home": 0,
-    "away": 0
-   }
+   "label": "Yellow card"
   },
   {
    "id": "espn-1903311",
@@ -37,13 +34,9 @@
    "type": "try",
    "team": "home",
    "player": "Matis Perchaud",
-   "detail": "Try (5-0)",
+   "detail": "Try",
    "playerName": "Matis Perchaud",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 0
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903343",
@@ -52,13 +45,9 @@
    "type": "yellow_card",
    "team": "away",
    "player": "Leo Coly",
-   "detail": "Yellow card (5-0)",
+   "detail": "Yellow card",
    "playerName": "Leo Coly",
-   "label": "Yellow card",
-   "scoreAfter": {
-    "home": 5,
-    "away": 0
-   }
+   "label": "Yellow card"
   },
   {
    "id": "espn-1903347",
@@ -67,13 +56,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Hugo Reus",
-   "detail": "Conversion (7-0)",
+   "detail": "Conversion",
    "playerName": "Hugo Reus",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 0
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903357",
@@ -82,13 +67,9 @@
    "type": "try",
    "team": "home",
    "player": "Hugo Reus",
-   "detail": "Try (12-0)",
+   "detail": "Try",
    "playerName": "Hugo Reus",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 12,
-    "away": 0
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903360",
@@ -97,13 +78,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Hugo Reus",
-   "detail": "Conversion (14-0)",
+   "detail": "Conversion",
    "playerName": "Hugo Reus",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 14,
-    "away": 0
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903581",
@@ -244,13 +221,9 @@
    "type": "try",
    "team": "away",
    "player": "Guillaume Cramont",
-   "detail": "Try (14-5)",
+   "detail": "Try",
    "playerName": "Guillaume Cramont",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 14,
-    "away": 5
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903871",
@@ -259,13 +232,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Robert du Preez",
-   "detail": "Conversion (14-7)",
+   "detail": "Conversion",
    "playerName": "Robert du Preez",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 14,
-    "away": 7
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903917",
@@ -274,13 +243,9 @@
    "type": "try",
    "team": "away",
    "player": "Alexandre Fischer",
-   "detail": "Try (14-12)",
+   "detail": "Try",
    "playerName": "Alexandre Fischer",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 14,
-    "away": 12
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1903918",
@@ -289,13 +254,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Robert du Preez",
-   "detail": "Conversion (14-14)",
+   "detail": "Conversion",
    "playerName": "Robert du Preez",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 14,
-    "away": 14
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1903923",
@@ -308,6 +269,17 @@
    "playerOn": "Joseph Laharrague",
    "playerOff": "Xan Mousques",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903940",
+   "minute": 78,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Hugo Avogadro",
+   "detail": "Try",
+   "playerName": "Hugo Avogadro",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
@@ -316,7 +288,11 @@
   "away": 14
  },
  "plays_summed": {
-  "home": 14,
+  "home": 19,
   "away": 14
+ },
+ "unexplained_gap": {
+  "home": -5,
+  "away": 0
  }
 }

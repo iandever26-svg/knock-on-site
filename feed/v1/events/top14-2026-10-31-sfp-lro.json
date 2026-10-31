@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-sfp-lro",
  "matchId": "top14-2026-10-31-sfp-lro",
- "updated_at": "2026-10-31T17:13:10.218Z",
+ "updated_at": "2026-10-31T17:18:51.743Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604415/competitions/604415/plays?limit=400",
-   "fetched_at": "2026-10-31T17:13:10.218Z",
+   "fetched_at": "2026-10-31T17:18:51.743Z",
    "espn_event_id": "604415",
    "espn_league_id": 270559
   }
@@ -467,15 +467,88 @@
     "home": 36,
     "away": 17
    }
+  },
+  {
+   "id": "espn-1903925",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tomasi Maka",
+   "detail": "replaces Giacomo Nicotera",
+   "playerOn": "Tomasi Maka",
+   "playerOff": "Giacomo Nicotera",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903933",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Upaleto Feao",
+   "detail": "replaces Aleksandre Kuntelia",
+   "playerOn": "Upaleto Feao",
+   "playerOff": "Aleksandre Kuntelia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903927",
+   "minute": 71,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Peniasi Dakuwaqa",
+   "detail": "Yellow card (36-17)",
+   "playerName": "Peniasi Dakuwaqa",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 36,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903937",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jack Iscaro",
+   "detail": "replaces Moses Alo-Emile",
+   "playerOn": "Jack Iscaro",
+   "playerOff": "Moses Alo-Emile",
+   "label": "Substitution"
+  },
+  {
+   "id": "inferred-pt-away-1",
+   "minute": 0,
+   "minuteKnown": false,
+   "period": "1H",
+   "type": "penalty_try",
+   "team": "away",
+   "player": null,
+   "inferred": true,
+   "label": "Penalty try",
+   "detail": "Penalty try (inferred, minute unknown) (36-24)",
+   "scoreAfter": {
+    "home": 36,
+    "away": 24
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 36,
-  "away": 17
+  "away": 24
  },
  "plays_summed": {
   "home": 36,
   "away": 17
- }
+ },
+ "inferred_penalty_tries": [
+  {
+   "team": "away",
+   "minute": null
+  }
+ ]
 }
