@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-nor-glo",
  "matchId": "prem-2026-10-31-nor-glo",
- "updated_at": "2026-10-31T18:31:20.536Z",
+ "updated_at": "2026-10-31T18:47:13.343Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604638/competitions/604638/plays?limit=400",
-   "fetched_at": "2026-10-31T18:31:20.536Z",
+   "fetched_at": "2026-10-31T18:47:13.343Z",
    "espn_event_id": "604638",
    "espn_league_id": 267979
   }
@@ -158,6 +158,42 @@
     "home": 14,
     "away": 14
    }
+  },
+  {
+   "id": "espn-1904025",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Dian Bleuler",
+   "detail": "replaces Val Rapava-Ruskin",
+   "playerOn": "Dian Bleuler",
+   "playerOff": "Val Rapava-Ruskin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904027",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ciaran Knight",
+   "detail": "replaces Afolabi Fasogbon",
+   "playerOn": "Ciaran Knight",
+   "playerOff": "Afolabi Fasogbon",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904031",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jac Morgan",
+   "detail": "replaces Deian Gwynne",
+   "playerOn": "Jac Morgan",
+   "playerOff": "Deian Gwynne",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
