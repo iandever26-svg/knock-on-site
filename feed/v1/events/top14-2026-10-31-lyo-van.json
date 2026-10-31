@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-lyo-van",
  "matchId": "top14-2026-10-31-lyo-van",
- "updated_at": "2026-10-31T16:07:16.489Z",
+ "updated_at": "2026-10-31T16:13:20.355Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604413/competitions/604413/plays?limit=400",
-   "fetched_at": "2026-10-31T16:07:16.489Z",
+   "fetched_at": "2026-10-31T16:13:20.355Z",
    "espn_event_id": "604413",
    "espn_league_id": 270559
   }
@@ -146,6 +146,33 @@
     "home": 12,
     "away": 14
    }
+  },
+  {
+   "id": "espn-1903301-cm",
+   "minute": 27,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (12-14)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 12,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1903313",
+   "minute": 28,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ethan Dumortier",
+   "detail": "replaces Irakli Aptsiauri",
+   "playerOn": "Ethan Dumortier",
+   "playerOff": "Irakli Aptsiauri",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

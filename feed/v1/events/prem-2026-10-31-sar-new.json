@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-sar-new",
  "matchId": "prem-2026-10-31-sar-new",
- "updated_at": "2026-10-31T16:07:16.489Z",
+ "updated_at": "2026-10-31T16:13:20.355Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604636/competitions/604636/plays?limit=400",
-   "fetched_at": "2026-10-31T16:07:16.489Z",
+   "fetched_at": "2026-10-31T16:13:20.355Z",
    "espn_event_id": "604636",
    "espn_league_id": 267979
   }
@@ -167,15 +167,96 @@
    "playerOn": "Charlie Bracken",
    "playerOff": "Tom James",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1903334",
+   "minute": 45,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Sione Va'enuku",
+   "detail": "Try (12-17)",
+   "playerName": "Sione Va'enuku",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903334-cm",
+   "minute": 45,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (12-17)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 12,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903312",
+   "minute": 45,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Sam Graham",
+   "detail": "Yellow card (12-17)",
+   "playerName": "Sam Graham",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 12,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1903339",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alec Clarey",
+   "detail": "replaces Marcus Street",
+   "playerOn": "Alec Clarey",
+   "playerOff": "Marcus Street",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903341",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Phil Brantingham",
+   "detail": "replaces Alex O'Driscoll",
+   "playerOn": "Phil Brantingham",
+   "playerOff": "Alex O'Driscoll",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903353",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tom West",
+   "detail": "replaces Pouri Rakete-Stones",
+   "playerOn": "Tom West",
+   "playerOff": "Pouri Rakete-Stones",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 12,
   "away": 17
  },
  "plays_summed": {
-  "home": 7,
+  "home": 12,
   "away": 17
  }
 }

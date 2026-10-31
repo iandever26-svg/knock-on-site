@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-exe-har",
  "matchId": "prem-2026-10-31-exe-har",
- "updated_at": "2026-10-31T16:07:16.489Z",
+ "updated_at": "2026-10-31T16:13:20.355Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604635/competitions/604635/plays?limit=400",
-   "fetched_at": "2026-10-31T16:07:16.489Z",
+   "fetched_at": "2026-10-31T16:13:20.355Z",
    "espn_event_id": "604635",
    "espn_league_id": 267979
   }
@@ -161,15 +161,57 @@
     "home": 14,
     "away": 14
    }
+  },
+  {
+   "id": "espn-1903315",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lucas Friday",
+   "detail": "replaces Will Porter",
+   "playerOn": "Lucas Friday",
+   "playerOff": "Will Porter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903319",
+   "minute": 44,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Will Butt",
+   "detail": "Try (19-14)",
+   "playerName": "Will Butt",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1903323",
+   "minute": 45,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Henry Slade",
+   "detail": "Conversion (21-14)",
+   "playerName": "Henry Slade",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
+  "home": 21,
   "away": 14
  },
  "plays_summed": {
-  "home": 14,
+  "home": 21,
   "away": 14
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-sfp-lro",
  "matchId": "top14-2026-10-31-sfp-lro",
- "updated_at": "2026-10-31T16:07:16.489Z",
+ "updated_at": "2026-10-31T16:13:20.355Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604415/competitions/604415/plays?limit=400",
-   "fetched_at": "2026-10-31T16:07:16.489Z",
+   "fetched_at": "2026-10-31T16:13:20.355Z",
    "espn_event_id": "604415",
    "espn_league_id": 270559
   }
@@ -94,6 +94,48 @@
    "detail": "Try (15-0)",
    "playerName": "Giacomo Nicotera",
    "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1903305-cm",
+   "minute": 26,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (15-0)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 15,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1903355",
+   "minute": 30,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Andy Timo",
+   "detail": "replaces Theo McFarland",
+   "playerOn": "Andy Timo",
+   "playerOff": "Theo McFarland",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1903358",
+   "minute": 32,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Levani Botia",
+   "detail": "Yellow card (15-0)",
+   "playerName": "Levani Botia",
+   "label": "Yellow card",
    "scoreAfter": {
     "home": 15,
     "away": 0

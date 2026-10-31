@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-bat-sal",
  "matchId": "prem-2026-10-31-bat-sal",
- "updated_at": "2026-10-31T16:07:16.489Z",
+ "updated_at": "2026-10-31T16:13:20.355Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604637/competitions/604637/plays?limit=400",
-   "fetched_at": "2026-10-31T16:07:16.489Z",
+   "fetched_at": "2026-10-31T16:13:20.355Z",
    "espn_event_id": "604637",
    "espn_league_id": 267979
   }
@@ -119,15 +119,60 @@
     "home": 19,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1903242-cm",
+   "minute": 30,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (19-7)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 19,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1903351",
+   "minute": 43,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Joe Cokanasiga",
+   "detail": "Try (24-7)",
+   "playerName": "Joe Cokanasiga",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1903352",
+   "minute": 43,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Finn Russell",
+   "detail": "Conversion (26-7)",
+   "playerName": "Finn Russell",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 26,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 19,
+  "home": 26,
   "away": 7
  },
  "plays_summed": {
-  "home": 19,
+  "home": 26,
   "away": 7
  }
 }
