@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-bul-sca",
   "matchId": "urc-2026-10-31-bul-sca",
-  "updated_at": "2026-10-31T15:50:57+00:00",
+  "updated_at": "2026-10-31T16:07:12+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604067/competitions/604067/plays",
-      "fetched_at": "2026-10-31T15:50:57+00:00",
+      "fetched_at": "2026-10-31T16:07:12+00:00",
       "espn_event_id": "604067",
       "espn_league_id": 270557
     }
@@ -187,6 +187,33 @@
       "playerOn": "Dan Davis",
       "playerOff": "Sam Lousi",
       "label": "Substitution"
+    },
+    {
+      "id": "espn-1903293",
+      "minute": 40,
+      "period": "2H",
+      "type": "substitution",
+      "team": "home",
+      "player": "Marcell Coetzee",
+      "detail": "replaces Cameron Hanekom",
+      "playerOn": "Marcell Coetzee",
+      "playerOff": "Cameron Hanekom",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903303",
+      "minute": 43,
+      "period": "2H",
+      "type": "try",
+      "team": "away",
+      "player": "Gareth Davies",
+      "detail": "Try (19-17)",
+      "playerName": "Gareth Davies",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 19,
+        "away": 17
+      }
     }
   ]
 }
