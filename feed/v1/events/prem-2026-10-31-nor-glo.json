@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "prem-2026-10-31-nor-glo",
  "matchId": "prem-2026-10-31-nor-glo",
- "updated_at": "2026-10-31T19:11:32.012Z",
+ "updated_at": "2026-10-31T19:18:49.579Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/267979/events/604638/competitions/604638/plays?limit=400",
-   "fetched_at": "2026-10-31T19:11:32.012Z",
+   "fetched_at": "2026-10-31T19:18:49.579Z",
    "espn_event_id": "604638",
    "espn_league_id": 267979
   }
@@ -310,8 +310,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1904201",
-   "minute": 65,
+   "id": "espn-1904207",
+   "minute": 66,
    "period": "2H",
    "type": "try",
    "team": "home",
@@ -325,8 +325,8 @@
    }
   },
   {
-   "id": "espn-1904202",
-   "minute": 65,
+   "id": "espn-1904208",
+   "minute": 67,
    "period": "2H",
    "type": "conversion_made",
    "team": "home",
@@ -340,8 +340,8 @@
    }
   },
   {
-   "id": "espn-1904203",
-   "minute": 65,
+   "id": "espn-1904209",
+   "minute": 67,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -352,8 +352,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1904205",
-   "minute": 65,
+   "id": "espn-1904215",
+   "minute": 69,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -361,6 +361,18 @@
    "detail": "replaces Will Knight",
    "playerOn": "Ben Redshaw",
    "playerOff": "Will Knight",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904219",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lewis Ludlow",
+   "detail": "replaces Jack Clement",
+   "playerOn": "Lewis Ludlow",
+   "playerOff": "Jack Clement",
    "label": "Substitution"
   }
  ],
