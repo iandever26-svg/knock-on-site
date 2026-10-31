@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-sto-uls",
   "matchId": "urc-2026-10-31-sto-uls",
-  "updated_at": "2026-10-31T14:08:46+00:00",
+  "updated_at": "2026-10-31T14:09:56+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604066/competitions/604066/plays",
-      "fetched_at": "2026-10-31T14:08:46+00:00",
+      "fetched_at": "2026-10-31T14:09:56+00:00",
       "espn_event_id": "604066",
       "espn_league_id": 270557
     }
@@ -243,6 +243,30 @@
       "detail": "replaces Evan Roos",
       "playerOn": "Wandile Mlaba",
       "playerOff": "Evan Roos",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903093",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Henry Walker",
+      "detail": "replaces Rob Herring",
+      "playerOn": "Henry Walker",
+      "playerOff": "Rob Herring",
+      "label": "Substitution"
+    },
+    {
+      "id": "espn-1903095",
+      "minute": 56,
+      "period": "2H",
+      "type": "substitution",
+      "team": "away",
+      "player": "Jake Flannery",
+      "detail": "replaces Chay Mullins",
+      "playerOn": "Jake Flannery",
+      "playerOff": "Chay Mullins",
       "label": "Substitution"
     }
   ]
