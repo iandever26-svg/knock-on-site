@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "match_id": "urc-2026-10-31-osp-car",
   "matchId": "urc-2026-10-31-osp-car",
-  "updated_at": "2026-10-31T20:05:17+00:00",
+  "updated_at": "2026-10-31T20:10:57+00:00",
   "final": false,
   "provenance": [
     {
       "source_name": "espn_core_api",
       "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270557/events/604071/competitions/604071/plays",
-      "fetched_at": "2026-10-31T20:05:17+00:00",
+      "fetched_at": "2026-10-31T20:10:57+00:00",
       "espn_event_id": "604071",
       "espn_league_id": 270557
     }
@@ -42,6 +42,36 @@
       "scoreAfter": {
         "home": 0,
         "away": 7
+      }
+    },
+    {
+      "id": "espn-1904252",
+      "minute": 20,
+      "period": "1H",
+      "type": "try",
+      "team": "away",
+      "player": "Tom Bowen",
+      "detail": "Try (0-12)",
+      "playerName": "Tom Bowen",
+      "label": "Try",
+      "scoreAfter": {
+        "home": 0,
+        "away": 12
+      }
+    },
+    {
+      "id": "espn-1904254",
+      "minute": 21,
+      "period": "1H",
+      "type": "conversion_made",
+      "team": "away",
+      "player": "Jarrod Evans",
+      "detail": "Conversion (0-14)",
+      "playerName": "Jarrod Evans",
+      "label": "Conversion",
+      "scoreAfter": {
+        "home": 0,
+        "away": 14
       }
     }
   ]
