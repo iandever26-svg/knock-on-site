@@ -99,7 +99,7 @@
           "jersey": 7,
           "name": "Manuel Zuliani",
           "position_label": "Openside",
-          "is_captain": false,
+          "is_captain": true,
           "is_starter": true,
           "replacement_notes": null
         },
@@ -234,7 +234,7 @@
       ],
       "parse_status": "complete_1_to_23",
       "missing_numbers": [],
-      "captain_jersey": null,
+      "captain_jersey": 7,
       "source_tier": "official",
       "source_format_notes": "Parsed from unitedrugby.com official match-centre team sheet (URC match 292620; league shirt numbers 1–23; no captain marker in feed); diacritics restored on 3 name(s) from another source's spelling of the same name"
     },
