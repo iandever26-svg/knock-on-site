@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-01-pau-tou",
  "matchId": "top14-2026-11-01-pau-tou",
- "updated_at": "2026-11-01T21:55:28.440Z",
- "final": false,
+ "updated_at": "2026-11-01T22:08:21.861Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604416/competitions/604416/plays?limit=400",
-   "fetched_at": "2026-11-01T21:55:28.440Z",
+   "fetched_at": "2026-11-01T22:08:21.861Z",
    "espn_event_id": "604416",
    "espn_league_id": 270559
   }
@@ -431,15 +431,81 @@
     "home": 27,
     "away": 14
    }
+  },
+  {
+   "id": "espn-1904812",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Clement Paul",
+   "detail": "replaces Facundo Isa",
+   "playerOn": "Clement Paul",
+   "playerOff": "Facundo Isa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904814",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Beka Gorgadze",
+   "detail": "Try (32-14)",
+   "playerName": "Beka Gorgadze",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 32,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1904815",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joe Simmonds",
+   "detail": "Conversion (34-14)",
+   "playerName": "Joe Simmonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 34,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1904816",
+   "minute": 80,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Joachim Senga Kouo",
+   "detail": "replaces Gregoire Arfeuil",
+   "playerOn": "Joachim Senga Kouo",
+   "playerOff": "Gregoire Arfeuil",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904820",
+   "minute": 80,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Hugo Parrou",
+   "detail": "replaces Daniel Bibi Biziwu",
+   "playerOn": "Hugo Parrou",
+   "playerOff": "Daniel Bibi Biziwu",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 27,
+  "home": 34,
   "away": 14
  },
  "plays_summed": {
-  "home": 27,
+  "home": 34,
   "away": 14
  }
 }
