@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-01-pau-tou",
  "matchId": "top14-2026-11-01-pau-tou",
- "updated_at": "2026-11-01T20:52:53.056Z",
+ "updated_at": "2026-11-01T21:02:07.644Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604416/competitions/604416/plays?limit=400",
-   "fetched_at": "2026-11-01T20:52:53.056Z",
+   "fetched_at": "2026-11-01T21:02:07.644Z",
    "espn_event_id": "604416",
    "espn_league_id": 270559
   }
@@ -131,15 +131,60 @@
    "playerOn": "Youri Delhommel",
    "playerOff": "Facundo Isa",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1904746",
+   "minute": 41,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Beka Gorgadze",
+   "detail": "Yellow card (17-0)",
+   "playerName": "Beka Gorgadze",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 17,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1904744",
+   "minute": 41,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Thomas Lacombre",
+   "detail": "Try (17-5)",
+   "playerName": "Thomas Lacombre",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1904747",
+   "minute": 42,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Blair Kinghorn",
+   "detail": "Conversion (17-7)",
+   "playerName": "Blair Kinghorn",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 17,
-  "away": 0
+  "away": 7
  },
  "plays_summed": {
   "home": 17,
-  "away": 0
+  "away": 7
  }
 }
