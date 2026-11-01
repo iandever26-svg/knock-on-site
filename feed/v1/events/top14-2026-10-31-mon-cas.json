@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-mon-cas",
  "matchId": "top14-2026-10-31-mon-cas",
- "updated_at": "2026-11-01T15:35:46.069Z",
+ "updated_at": "2026-11-01T15:41:06.720Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604414/competitions/604414/plays?limit=400",
-   "fetched_at": "2026-11-01T15:35:46.069Z",
+   "fetched_at": "2026-11-01T15:41:06.720Z",
    "espn_event_id": "604414",
    "espn_league_id": 270559
   }
@@ -499,15 +499,45 @@
    "playerOn": "Nicolas Corato",
    "playerOff": "Lois Guerois-Galisson",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1904602",
+   "minute": 69,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Santiago Arata",
+   "detail": "Try (50-8)",
+   "playerName": "Santiago Arata",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 50,
+    "away": 8
+   }
+  },
+  {
+   "id": "espn-1904603",
+   "minute": 70,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Theo Vidal",
+   "detail": "Conversion (50-10)",
+   "playerName": "Theo Vidal",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 50,
+    "away": 10
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 50,
-  "away": 3
+  "away": 10
  },
  "plays_summed": {
   "home": 50,
-  "away": 3
+  "away": 10
  }
 }
