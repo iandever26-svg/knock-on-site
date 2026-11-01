@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-mon-cas",
  "matchId": "top14-2026-10-31-mon-cas",
- "updated_at": "2026-11-01T15:10:54.902Z",
+ "updated_at": "2026-11-01T15:27:33.794Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 36-3, final 29-3; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604414/competitions/604414/plays?limit=400",
-   "fetched_at": "2026-11-01T15:10:54.902Z",
+   "fetched_at": "2026-11-01T15:27:33.794Z",
    "espn_event_id": "604414",
    "espn_league_id": 270559
   }
@@ -23,9 +22,13 @@
    "type": "yellow_card",
    "team": "away",
    "player": "Guillaume Ducat",
-   "detail": "Yellow card",
+   "detail": "Yellow card (0-0)",
    "playerName": "Guillaume Ducat",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 0,
+    "away": 0
+   }
   },
   {
    "id": "espn-1904548",
@@ -34,9 +37,13 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Adam Hastings",
-   "detail": "Penalty",
+   "detail": "Penalty (3-0)",
    "playerName": "Adam Hastings",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 3,
+    "away": 0
+   }
   },
   {
    "id": "espn-1904549",
@@ -45,9 +52,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Jeremy Fernandez",
-   "detail": "Penalty",
+   "detail": "Penalty (3-3)",
    "playerName": "Jeremy Fernandez",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 3,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904550",
@@ -56,9 +67,13 @@
    "type": "try",
    "team": "home",
    "player": "Melvyn Rates",
-   "detail": "Try",
+   "detail": "Try (8-3)",
    "playerName": "Melvyn Rates",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 8,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904550-cm",
@@ -67,9 +82,13 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (8-3)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 8,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904552",
@@ -78,9 +97,13 @@
    "type": "try",
    "team": "home",
    "player": "Justo Piccardo",
-   "detail": "Try",
+   "detail": "Try (13-3)",
    "playerName": "Justo Piccardo",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 13,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904553",
@@ -89,9 +112,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Adam Hastings",
-   "detail": "Conversion",
+   "detail": "Conversion (15-3)",
    "playerName": "Adam Hastings",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 15,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904554",
@@ -100,9 +127,13 @@
    "type": "try",
    "team": "home",
    "player": "Alexis Bernadet",
-   "detail": "Try",
+   "detail": "Try (20-3)",
    "playerName": "Alexis Bernadet",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 20,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904555",
@@ -111,9 +142,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Adam Hastings",
-   "detail": "Conversion",
+   "detail": "Conversion (22-3)",
    "playerName": "Adam Hastings",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904558",
@@ -146,9 +181,13 @@
    "type": "try",
    "team": "home",
    "player": "Lyam Akrab",
-   "detail": "Try",
+   "detail": "Try (27-3)",
    "playerName": "Lyam Akrab",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904563",
@@ -157,9 +196,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Adam Hastings",
-   "detail": "Conversion",
+   "detail": "Conversion (29-3)",
    "playerName": "Adam Hastings",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 29,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904564",
@@ -234,15 +277,26 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1904586",
+   "id": "espn-1904587",
    "minute": 48,
    "period": "2H",
    "type": "substitution",
    "team": "away",
    "player": "Vuate Karawalevu",
-   "detail": "replaces Jack Goodhue",
+   "detail": "replaces Adrea Cocagi",
    "playerOn": "Vuate Karawalevu",
-   "playerOff": "Jack Goodhue",
+   "playerOff": "Adrea Cocagi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904594",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Adrea Cocagi",
+   "playerOff": "Adrea Cocagi",
    "label": "Substitution"
   },
   {
@@ -288,9 +342,13 @@
    "type": "try",
    "team": "home",
    "player": "Christopher Tolofua",
-   "detail": "Try",
+   "detail": "Try (34-3)",
    "playerName": "Christopher Tolofua",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 34,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904581",
@@ -299,9 +357,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Adam Hastings",
-   "detail": "Conversion",
+   "detail": "Conversion (36-3)",
    "playerName": "Adam Hastings",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 36,
+    "away": 3
+   }
   },
   {
    "id": "espn-1904584",
@@ -314,19 +376,69 @@
    "playerOn": "Mael Perrin",
    "playerOff": "Tyler Duguid",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1904589",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lennox Anyanwu",
+   "detail": "replaces Justo Piccardo",
+   "playerOn": "Lennox Anyanwu",
+   "playerOff": "Justo Piccardo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904588",
+   "minute": 58,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Christopher Tolofua",
+   "detail": "Try (41-3)",
+   "playerName": "Christopher Tolofua",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 41,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1904591",
+   "minute": 59,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Adam Hastings",
+   "detail": "Conversion (43-3)",
+   "playerName": "Adam Hastings",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 43,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1904592",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sebastien Bezy",
+   "detail": "replaces Alexis Bernadet",
+   "playerOn": "Sebastien Bezy",
+   "playerOff": "Alexis Bernadet",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 29,
+  "home": 43,
   "away": 3
  },
  "plays_summed": {
-  "home": 36,
+  "home": 43,
   "away": 3
- },
- "unexplained_gap": {
-  "home": -7,
-  "away": 0
  }
 }
