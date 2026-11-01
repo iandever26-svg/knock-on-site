@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-01-pau-tou",
  "matchId": "top14-2026-11-01-pau-tou",
- "updated_at": "2026-11-01T20:38:31.429Z",
+ "updated_at": "2026-11-01T20:52:53.056Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604416/competitions/604416/plays?limit=400",
-   "fetched_at": "2026-11-01T20:38:31.429Z",
+   "fetched_at": "2026-11-01T20:52:53.056Z",
    "espn_event_id": "604416",
    "espn_league_id": 270559
   }
@@ -104,6 +104,33 @@
     "home": 17,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1904725",
+   "minute": 32,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Julian Montoya",
+   "detail": "Yellow card (17-0)",
+   "playerName": "Julian Montoya",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 17,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1904742",
+   "minute": 36,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Youri Delhommel",
+   "detail": "replaces Facundo Isa",
+   "playerOn": "Youri Delhommel",
+   "playerOff": "Facundo Isa",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
