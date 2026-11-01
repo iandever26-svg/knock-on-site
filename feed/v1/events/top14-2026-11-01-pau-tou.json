@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-01-pau-tou",
  "matchId": "top14-2026-11-01-pau-tou",
- "updated_at": "2026-11-01T21:02:07.644Z",
+ "updated_at": "2026-11-01T21:50:10.655Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604416/competitions/604416/plays?limit=400",
-   "fetched_at": "2026-11-01T21:02:07.644Z",
+   "fetched_at": "2026-11-01T21:50:10.655Z",
    "espn_event_id": "604416",
    "espn_league_id": 270559
   }
@@ -163,6 +163,18 @@
    }
   },
   {
+   "id": "espn-1904750",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Facundo Isa",
+   "detail": "replaces Youri Delhommel",
+   "playerOn": "Facundo Isa",
+   "playerOff": "Youri Delhommel",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1904747",
    "minute": 42,
    "period": "1H",
@@ -176,15 +188,231 @@
     "home": 17,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1904752",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Daniel Bibi Biziwu",
+   "detail": "replaces Hugo Parrou",
+   "playerOn": "Daniel Bibi Biziwu",
+   "playerOff": "Hugo Parrou",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904754",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Guram Papidze",
+   "detail": "replaces Jon Zabala",
+   "playerOn": "Guram Papidze",
+   "playerOff": "Jon Zabala",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904760",
+   "minute": 48,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Lukas Amati",
+   "detail": "Try (17-12)",
+   "playerName": "Lukas Amati",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1904761",
+   "minute": 49,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Blair Kinghorn",
+   "detail": "Conversion (17-14)",
+   "playerName": "Blair Kinghorn",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1904762",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tomas Rapetti",
+   "detail": "replaces Georges-Henri Colombe",
+   "playerOn": "Tomas Rapetti",
+   "playerOff": "Georges-Henri Colombe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904764",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sacha Zegueur",
+   "detail": "replaces Thomas Jolmes",
+   "playerOn": "Sacha Zegueur",
+   "playerOff": "Thomas Jolmes",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904766",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Remi Picquette",
+   "detail": "replaces Mickael Capelli",
+   "playerOn": "Remi Picquette",
+   "playerOff": "Mickael Capelli",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904769",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joshua Brennan",
+   "detail": "replaces Marc-Elie Kouassi",
+   "playerOn": "Joshua Brennan",
+   "playerOff": "Marc-Elie Kouassi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904771",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mathis Castro-Ferreira",
+   "detail": "replaces Anthony Jelonch",
+   "playerOn": "Mathis Castro-Ferreira",
+   "playerOff": "Anthony Jelonch",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904800",
+   "minute": 58,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Facundo Isa",
+   "detail": "Try (22-14)",
+   "playerName": "Facundo Isa",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1904774",
+   "minute": 59,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joe Simmonds",
+   "detail": "Conversion (24-14)",
+   "playerName": "Joe Simmonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 24,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1904796",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cyril Baille",
+   "detail": "replaces Benjamin Bertrand",
+   "playerOn": "Cyril Baille",
+   "playerOff": "Benjamin Bertrand",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904798",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Paul Mallez",
+   "detail": "replaces Thomas Lacombre",
+   "playerOn": "Paul Mallez",
+   "playerOff": "Thomas Lacombre",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904801",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Simon Daroque",
+   "detail": "replaces Teddy Thomas",
+   "playerOn": "Simon Daroque",
+   "playerOff": "Teddy Thomas",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904803",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thomas Souverbie",
+   "detail": "replaces Thibault Daubagna",
+   "playerOn": "Thomas Souverbie",
+   "playerOff": "Thibault Daubagna",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904805",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Youri Delhommel",
+   "detail": "replaces Julian Montoya",
+   "playerOn": "Youri Delhommel",
+   "playerOff": "Julian Montoya",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904807",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Theo Ntamack",
+   "detail": "replaces Romeo Bonnard Martin",
+   "playerOn": "Theo Ntamack",
+   "playerOff": "Romeo Bonnard Martin",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 17,
-  "away": 7
+  "home": 24,
+  "away": 14
  },
  "plays_summed": {
-  "home": 17,
-  "away": 7
+  "home": 24,
+  "away": 14
  }
 }
