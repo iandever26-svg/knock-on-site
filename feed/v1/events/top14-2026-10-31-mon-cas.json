@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-mon-cas",
  "matchId": "top14-2026-10-31-mon-cas",
- "updated_at": "2026-11-01T14:11:34.697Z",
+ "updated_at": "2026-11-01T15:10:54.902Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 36-3, final 29-3; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604414/competitions/604414/plays?limit=400",
-   "fetched_at": "2026-11-01T14:11:34.697Z",
+   "fetched_at": "2026-11-01T15:10:54.902Z",
    "espn_event_id": "604414",
    "espn_league_id": 270559
   }
@@ -22,13 +23,9 @@
    "type": "yellow_card",
    "team": "away",
    "player": "Guillaume Ducat",
-   "detail": "Yellow card (0-0)",
+   "detail": "Yellow card",
    "playerName": "Guillaume Ducat",
-   "label": "Yellow card",
-   "scoreAfter": {
-    "home": 0,
-    "away": 0
-   }
+   "label": "Yellow card"
   },
   {
    "id": "espn-1904548",
@@ -37,22 +34,299 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Adam Hastings",
-   "detail": "Penalty (3-0)",
+   "detail": "Penalty",
    "playerName": "Adam Hastings",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 3,
-    "away": 0
-   }
+   "label": "Penalty"
+  },
+  {
+   "id": "espn-1904549",
+   "minute": 14,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Jeremy Fernandez",
+   "detail": "Penalty",
+   "playerName": "Jeremy Fernandez",
+   "label": "Penalty"
+  },
+  {
+   "id": "espn-1904550",
+   "minute": 21,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Melvyn Rates",
+   "detail": "Try",
+   "playerName": "Melvyn Rates",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1904550-cm",
+   "minute": 21,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred)",
+   "label": "Conversion missed",
+   "inferred": true
+  },
+  {
+   "id": "espn-1904552",
+   "minute": 30,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Justo Piccardo",
+   "detail": "Try",
+   "playerName": "Justo Piccardo",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1904553",
+   "minute": 30,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Adam Hastings",
+   "detail": "Conversion",
+   "playerName": "Adam Hastings",
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1904554",
+   "minute": 34,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Alexis Bernadet",
+   "detail": "Try",
+   "playerName": "Alexis Bernadet",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1904555",
+   "minute": 35,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Adam Hastings",
+   "detail": "Conversion",
+   "playerName": "Adam Hastings",
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1904558",
+   "minute": 35,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Santiago Arata",
+   "detail": "replaces Jeremy Fernandez",
+   "playerOn": "Santiago Arata",
+   "playerOff": "Jeremy Fernandez",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904560",
+   "minute": 36,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Theo Vidal",
+   "detail": "replaces Theo Chabouni",
+   "playerOn": "Theo Vidal",
+   "playerOff": "Theo Chabouni",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904562",
+   "minute": 38,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Lyam Akrab",
+   "detail": "Try",
+   "playerName": "Lyam Akrab",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1904563",
+   "minute": 39,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Adam Hastings",
+   "detail": "Conversion",
+   "playerName": "Adam Hastings",
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1904564",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Hamish Watson",
+   "detail": "replaces Abraham Papali'i",
+   "playerOn": "Hamish Watson",
+   "playerOff": "Abraham Papali'i",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904566",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Reda Wardi",
+   "detail": "replaces Valentin Welsch",
+   "playerOn": "Reda Wardi",
+   "playerOff": "Valentin Welsch",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904568",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Christopher Tolofua",
+   "detail": "replaces Lyam Akrab",
+   "playerOn": "Christopher Tolofua",
+   "playerOff": "Lyam Akrab",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904570",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Luka Japaridze",
+   "detail": "replaces Wilfrid Hounkpatin",
+   "playerOn": "Luka Japaridze",
+   "playerOff": "Wilfrid Hounkpatin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904572",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alexander Masibaka",
+   "detail": "replaces Billy Vunipola",
+   "playerOn": "Alexander Masibaka",
+   "playerOff": "Billy Vunipola",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904582",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Chris Gabriel",
+   "detail": "replaces Florent Vanverberghe",
+   "playerOn": "Chris Gabriel",
+   "playerOff": "Florent Vanverberghe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904586",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Vuate Karawalevu",
+   "detail": "replaces Jack Goodhue",
+   "playerOn": "Vuate Karawalevu",
+   "playerOff": "Jack Goodhue",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904574",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Stuart Hogg",
+   "detail": "replaces Donovan Taofifenua",
+   "playerOn": "Stuart Hogg",
+   "playerOff": "Donovan Taofifenua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904576",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Levan Chilachava",
+   "detail": "replaces Mate Gurtskaia",
+   "playerOn": "Levan Chilachava",
+   "playerOff": "Mate Gurtskaia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904578",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Pierre Colonna",
+   "detail": "replaces Teddy Durand",
+   "playerOn": "Pierre Colonna",
+   "playerOff": "Teddy Durand",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904580",
+   "minute": 53,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Christopher Tolofua",
+   "detail": "Try",
+   "playerName": "Christopher Tolofua",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1904581",
+   "minute": 53,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Adam Hastings",
+   "detail": "Conversion",
+   "playerName": "Adam Hastings",
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1904584",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mael Perrin",
+   "detail": "replaces Tyler Duguid",
+   "playerOn": "Mael Perrin",
+   "playerOff": "Tyler Duguid",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 3,
-  "away": 0
+  "home": 29,
+  "away": 3
  },
  "plays_summed": {
-  "home": 3,
+  "home": 36,
+  "away": 3
+ },
+ "unexplained_gap": {
+  "home": -7,
   "away": 0
  }
 }
