@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-mon-cas",
  "matchId": "top14-2026-10-31-mon-cas",
- "updated_at": "2026-11-01T15:41:06.720Z",
- "final": false,
+ "updated_at": "2026-11-01T15:56:02.536Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604414/competitions/604414/plays?limit=400",
-   "fetched_at": "2026-11-01T15:41:06.720Z",
+   "fetched_at": "2026-11-01T15:56:02.536Z",
    "espn_event_id": "604414",
    "espn_league_id": 270559
   }
@@ -529,15 +529,117 @@
     "home": 50,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1904604",
+   "minute": 74,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Mael Perrin",
+   "detail": "Try (55-10)",
+   "playerName": "Mael Perrin",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 55,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1904605",
+   "minute": 75,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Adam Hastings",
+   "detail": "Conversion (57-10)",
+   "playerName": "Adam Hastings",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 57,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1904606",
+   "minute": 76,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Alexander Masibaka",
+   "detail": "Try (62-10)",
+   "playerName": "Alexander Masibaka",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 62,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1904607",
+   "minute": 76,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Adam Hastings",
+   "detail": "Conversion (64-10)",
+   "playerName": "Adam Hastings",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 64,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1904608",
+   "minute": 77,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Mael Perrin",
+   "detail": "Try (69-10)",
+   "playerName": "Mael Perrin",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 69,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1904608-cm",
+   "minute": 77,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (69-10)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 69,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1904609",
+   "minute": 80,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Christian Ambadiang",
+   "detail": "replaces Adrea Cocagi",
+   "playerOn": "Christian Ambadiang",
+   "playerOff": "Adrea Cocagi",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 50,
+  "home": 69,
   "away": 10
  },
  "plays_summed": {
-  "home": 50,
+  "home": 69,
   "away": 10
  }
 }
