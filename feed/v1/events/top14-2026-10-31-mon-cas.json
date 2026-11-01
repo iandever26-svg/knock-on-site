@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-10-31-mon-cas",
  "matchId": "top14-2026-10-31-mon-cas",
- "updated_at": "2026-11-01T15:27:33.794Z",
+ "updated_at": "2026-11-01T15:35:46.069Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604414/competitions/604414/plays?limit=400",
-   "fetched_at": "2026-11-01T15:27:33.794Z",
+   "fetched_at": "2026-11-01T15:35:46.069Z",
    "espn_event_id": "604414",
    "espn_league_id": 270559
   }
@@ -430,15 +430,84 @@
    "playerOn": "Sebastien Bezy",
    "playerOff": "Alexis Bernadet",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1904595",
+   "minute": 65,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Tom Banks",
+   "detail": "Try (48-3)",
+   "playerName": "Tom Banks",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 48,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1904596",
+   "minute": 66,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Adam Hastings",
+   "detail": "Conversion (50-3)",
+   "playerName": "Adam Hastings",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 50,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1904597",
+   "minute": 68,
+   "period": "2H",
+   "type": "red_card",
+   "team": "home",
+   "player": "Reda Wardi",
+   "detail": "Red card (50-3)",
+   "playerName": "Reda Wardi",
+   "label": "Red card",
+   "scoreAfter": {
+    "home": 50,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1904598",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Adrea Cocagi",
+   "detail": "replaces Christian Ambadiang",
+   "playerOn": "Adrea Cocagi",
+   "playerOff": "Christian Ambadiang",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904600",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Nicolas Corato",
+   "detail": "replaces Lois Guerois-Galisson",
+   "playerOn": "Nicolas Corato",
+   "playerOff": "Lois Guerois-Galisson",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 43,
+  "home": 50,
   "away": 3
  },
  "plays_summed": {
-  "home": 43,
+  "home": 50,
   "away": 3
  }
 }
