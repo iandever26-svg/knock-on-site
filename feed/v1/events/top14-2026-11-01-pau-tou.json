@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "top14-2026-11-01-pau-tou",
+ "matchId": "top14-2026-11-01-pau-tou",
+ "updated_at": "2026-11-01T20:24:52.582Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604416/competitions/604416/plays?limit=400",
+   "fetched_at": "2026-11-01T20:24:52.582Z",
+   "espn_event_id": "604416",
+   "espn_league_id": 270559
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1904707",
+   "minute": 7,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Facundo Isa",
+   "detail": "Try (5-0)",
+   "playerName": "Facundo Isa",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1904708",
+   "minute": 8,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joe Simmonds",
+   "detail": "Conversion (7-0)",
+   "playerName": "Joe Simmonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1904711",
+   "minute": 12,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Alexandre Roumat",
+   "detail": "Yellow card (7-0)",
+   "playerName": "Alexandre Roumat",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1904709",
+   "minute": 12,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Tumua Manu",
+   "detail": "Try (12-0)",
+   "playerName": "Tumua Manu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1904710",
+   "minute": 13,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joe Simmonds",
+   "detail": "Conversion (14-0)",
+   "playerName": "Joe Simmonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 0
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 14,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 14,
+  "away": 0
+ }
+}
