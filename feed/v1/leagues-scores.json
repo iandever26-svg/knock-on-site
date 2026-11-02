@@ -1,166 +1,9 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-01T23:13:45.543Z",
- "updatedAt": "2026-11-01T23:13:45.543Z",
+ "generatedAt": "2026-11-02T00:11:10.575Z",
+ "updatedAt": "2026-11-02T00:11:10.575Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
-  {
-   "schema_version": "1.0.0",
-   "match_id": "prem-2026-10-31-exe-har",
-   "status": "ft",
-   "home_score": 28,
-   "away_score": 31,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
-     "espn_event_id": "604635",
-     "may_lag": true
-    }
-   ],
-   "second_half_seen_at": "2026-10-31T16:07:16.489Z",
-   "latest_event_minute": 80,
-   "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-10-31T16:51:27.876Z"
-  },
-  {
-   "schema_version": "1.0.0",
-   "match_id": "prem-2026-10-31-sar-new",
-   "status": "ft",
-   "home_score": 39,
-   "away_score": 31,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
-     "espn_event_id": "604636",
-     "may_lag": true
-    }
-   ],
-   "second_half_seen_at": "2026-10-31T16:07:16.489Z",
-   "latest_event_minute": 82,
-   "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-10-31T16:51:27.876Z"
-  },
-  {
-   "schema_version": "1.0.0",
-   "match_id": "prem-2026-10-31-bat-sal",
-   "status": "ft",
-   "home_score": 36,
-   "away_score": 28,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
-     "espn_event_id": "604637",
-     "may_lag": true
-    }
-   ],
-   "second_half_seen_at": "2026-10-31T16:07:16.489Z",
-   "latest_event_minute": 74,
-   "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-10-31T16:56:52.233Z"
-  },
-  {
-   "schema_version": "1.0.0",
-   "match_id": "prem-2026-10-31-nor-glo",
-   "status": "ft",
-   "home_score": 28,
-   "away_score": 14,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/267979/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
-     "espn_event_id": "604638",
-     "may_lag": true
-    }
-   ],
-   "second_half_seen_at": "2026-10-31T18:31:20.536Z",
-   "latest_event_minute": 77,
-   "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-10-31T19:18:49.579Z"
-  },
-  {
-   "schema_version": "1.0.0",
-   "match_id": "top14-2026-10-31-cle-rac",
-   "status": "ft",
-   "home_score": 37,
-   "away_score": 30,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
-     "espn_event_id": "604412",
-     "may_lag": true
-    }
-   ]
-  },
-  {
-   "schema_version": "1.0.0",
-   "match_id": "top14-2026-10-31-ubb-bay",
-   "status": "ft",
-   "home_score": 19,
-   "away_score": 14,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
-     "espn_event_id": "604411",
-     "may_lag": true
-    }
-   ],
-   "second_half_seen_at": "2026-10-31T16:41:13.214Z",
-   "latest_event_minute": 79,
-   "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-10-31T17:27:13.878Z"
-  },
-  {
-   "schema_version": "1.0.0",
-   "match_id": "top14-2026-10-31-lyo-van",
-   "status": "ft",
-   "home_score": 48,
-   "away_score": 25,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
-     "espn_event_id": "604413",
-     "may_lag": true
-    }
-   ],
-   "second_half_seen_at": "2026-10-31T16:41:13.214Z",
-   "latest_event_minute": 80,
-   "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-10-31T17:18:51.743Z"
-  },
   {
    "schema_version": "1.0.0",
    "match_id": "top14-2026-10-31-mon-cas",
@@ -169,62 +12,16 @@
    "away_score": 10,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
+   "updated_at": "2026-11-02T00:11:10.575Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
+     "fetched_at": "2026-11-02T00:11:10.575Z",
      "espn_event_id": "604414",
      "may_lag": true
     }
    ]
-  },
-  {
-   "schema_version": "1.0.0",
-   "match_id": "top14-2026-10-31-sfp-lro",
-   "status": "ft",
-   "home_score": 43,
-   "away_score": 24,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
-     "espn_event_id": "604415",
-     "may_lag": true
-    }
-   ],
-   "second_half_seen_at": "2026-10-31T16:41:13.214Z",
-   "latest_event_minute": 73,
-   "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-10-31T17:18:51.743Z"
-  },
-  {
-   "schema_version": "1.0.0",
-   "match_id": "top14-2026-10-31-per-tln",
-   "status": "ft",
-   "home_score": 24,
-   "away_score": 25,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
-     "espn_event_id": "604410",
-     "may_lag": true
-    }
-   ],
-   "second_half_seen_at": "2026-10-31T21:06:21.553Z",
-   "latest_event_minute": 52,
-   "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-10-31T21:13:37.722Z"
   },
   {
    "schema_version": "1.0.0",
@@ -234,12 +31,12 @@
    "away_score": 14,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
+   "updated_at": "2026-11-02T00:11:10.575Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
+     "fetched_at": "2026-11-02T00:11:10.575Z",
      "espn_event_id": "604416",
      "may_lag": true
     }
@@ -248,25 +45,6 @@
    "latest_event_minute": 73,
    "latest_event_period": "2H",
    "latest_event_seen_at": "2026-11-01T21:55:28.440Z"
-  },
-  {
-   "schema_version": "1.0.0",
-   "match_id": "intl-2026-10-31-bel-hkg",
-   "status": "ft",
-   "home_score": 27,
-   "away_score": 17,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-01T23:13:45.543Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/289234/scoreboard",
-     "fetched_at": "2026-11-01T23:13:45.543Z",
-     "espn_event_id": "604715",
-     "may_lag": true
-    }
-   ]
   }
  ]
 }
