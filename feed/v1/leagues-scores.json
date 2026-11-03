@@ -1,50 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-02T00:11:10.575Z",
- "updatedAt": "2026-11-02T00:11:10.575Z",
+ "generatedAt": "2026-11-03T00:46:11.961Z",
+ "updatedAt": "2026-11-03T00:46:11.961Z",
  "note": "ESPN-sourced; may lag",
- "scores": [
-  {
-   "schema_version": "1.0.0",
-   "match_id": "top14-2026-10-31-mon-cas",
-   "status": "ft",
-   "home_score": 69,
-   "away_score": 10,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-02T00:11:10.575Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-02T00:11:10.575Z",
-     "espn_event_id": "604414",
-     "may_lag": true
-    }
-   ]
-  },
-  {
-   "schema_version": "1.0.0",
-   "match_id": "top14-2026-11-01-pau-tou",
-   "status": "ft",
-   "home_score": 34,
-   "away_score": 14,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-02T00:11:10.575Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-02T00:11:10.575Z",
-     "espn_event_id": "604416",
-     "may_lag": true
-    }
-   ],
-   "second_half_seen_at": "2026-11-01T21:50:10.655Z",
-   "latest_event_minute": 73,
-   "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-11-01T21:55:28.440Z"
-  }
- ]
+ "scores": []
 }
