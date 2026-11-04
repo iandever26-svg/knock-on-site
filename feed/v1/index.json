@@ -6,16 +6,6 @@
   "standingsUpdatedAt": "2026-10-31T21:50:56+00:00",
   "matches": [
     {
-      "match_id": "prem-2026-10-31-nor-glo",
-      "kickoff": "2026-10-31T17:30:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-10-31T19:28:02.349Z"
-    },
-    {
       "match_id": "top14-2026-10-31-mon-cas",
       "kickoff": "2026-11-01T15:00:00+01:00",
       "score": false,
