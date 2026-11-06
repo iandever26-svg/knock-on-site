@@ -1,20 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "generatedAt": "2026-11-06T20:38:02+00:00",
-  "updatedAt": "2026-11-06T20:38:02+00:00",
+  "generatedAt": "2026-11-06T21:37:41+00:00",
+  "updatedAt": "2026-11-06T21:37:41+00:00",
   "standings": true,
   "standingsUpdatedAt": "2026-10-31T21:50:56+00:00",
   "matches": [
-    {
-      "match_id": "ncup-2026-11-06-ire-arg",
-      "kickoff": "2026-11-06T20:10:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-11-06T21:36:23.532Z"
-    },
     {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
@@ -414,6 +404,16 @@
       "lineupUpdatedAt": "2026-10-30T14:16:32+00:00",
       "events": true,
       "eventsUpdatedAt": "2026-10-31T14:49:00+00:00"
+    },
+    {
+      "match_id": "ncup-2026-11-06-ire-arg",
+      "kickoff": "2026-11-06T20:10:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-11-06T21:36:23.532Z"
     }
   ]
 }
