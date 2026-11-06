@@ -1,30 +1,33 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-06T20:16:30.323Z",
- "updatedAt": "2026-11-06T20:16:30.323Z",
+ "generatedAt": "2026-11-06T20:26:33.199Z",
+ "updatedAt": "2026-11-06T20:26:33.199Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
    "schema_version": "1.0.0",
    "match_id": "ncup-2026-11-06-ire-arg",
    "status": "live",
-   "home_score": 0,
-   "away_score": 0,
+   "home_score": 7,
+   "away_score": 5,
    "clock": null,
    "period": "1H",
-   "updated_at": "2026-11-06T20:16:30.323Z",
+   "updated_at": "2026-11-06T20:26:33.199Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-06T20:16:30.323Z",
+     "fetched_at": "2026-11-06T20:26:33.199Z",
      "espn_event_id": "603993",
      "may_lag": true,
      "espn_display_clock": "1'",
      "espn_clock_seconds": 0,
      "espn_period": 1
     }
-   ]
+   ],
+   "latest_event_minute": 15,
+   "latest_event_period": "1H",
+   "latest_event_seen_at": "2026-11-06T20:26:33.199Z"
   }
  ]
 }

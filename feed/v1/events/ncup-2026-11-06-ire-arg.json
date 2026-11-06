@@ -1,0 +1,88 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-06-ire-arg",
+ "matchId": "ncup-2026-11-06-ire-arg",
+ "updated_at": "2026-11-06T20:26:33.199Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603993/competitions/603993/plays?limit=400",
+   "fetched_at": "2026-11-06T20:26:33.199Z",
+   "espn_event_id": "603993",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1904944",
+   "minute": 10,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Mateo Carreras",
+   "detail": "Try (0-5)",
+   "playerName": "Mateo Carreras",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1904944-cm",
+   "minute": 10,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (0-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1904947",
+   "minute": 15,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Hugo Keenan",
+   "detail": "Try (5-5)",
+   "playerName": "Hugo Keenan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1904948",
+   "minute": 15,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Prendergast",
+   "detail": "Conversion (7-5)",
+   "playerName": "Sam Prendergast",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 7,
+  "away": 5
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 5
+ }
+}
