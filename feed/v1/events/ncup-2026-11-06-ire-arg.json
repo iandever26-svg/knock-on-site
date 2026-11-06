@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-06-ire-arg",
  "matchId": "ncup-2026-11-06-ire-arg",
- "updated_at": "2026-11-06T21:05:31.509Z",
+ "updated_at": "2026-11-06T21:16:13.557Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603993/competitions/603993/plays?limit=400",
-   "fetched_at": "2026-11-06T21:05:31.509Z",
+   "fetched_at": "2026-11-06T21:16:13.557Z",
    "espn_event_id": "603993",
    "espn_league_id": 17567
   }
@@ -185,15 +185,57 @@
    "playerOn": "Mayco Vivas",
    "playerOff": "Leonel Oviedo",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905007",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Leonel Oviedo",
+   "detail": "replaces Mayco Vivas",
+   "playerOn": "Leonel Oviedo",
+   "playerOff": "Mayco Vivas",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905011",
+   "minute": 42,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Sam Prendergast",
+   "detail": "Try (26-5)",
+   "playerName": "Sam Prendergast",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1905012",
+   "minute": 42,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Prendergast",
+   "detail": "Conversion (28-5)",
+   "playerName": "Sam Prendergast",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 5
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
+  "home": 28,
   "away": 5
  },
  "plays_summed": {
-  "home": 21,
+  "home": 28,
   "away": 5
  }
 }
