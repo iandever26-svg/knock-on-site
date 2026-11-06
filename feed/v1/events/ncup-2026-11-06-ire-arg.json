@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-06-ire-arg",
  "matchId": "ncup-2026-11-06-ire-arg",
- "updated_at": "2026-11-06T21:36:23.532Z",
+ "updated_at": "2026-11-06T21:50:37.702Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603993/competitions/603993/plays?limit=400",
-   "fetched_at": "2026-11-06T21:36:23.532Z",
+   "fetched_at": "2026-11-06T21:50:37.702Z",
    "espn_event_id": "603993",
    "espn_league_id": 17567
   }
@@ -442,6 +442,30 @@
    }
   },
   {
+   "id": "espn-1905079",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom O'Toole",
+   "detail": "replaces Andrew Porter",
+   "playerOn": "Tom O'Toole",
+   "playerOff": "Andrew Porter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905081",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "James Ryan",
+   "detail": "replaces Joe McCarthy",
+   "playerOn": "James Ryan",
+   "playerOff": "Joe McCarthy",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1905066",
    "minute": 57,
    "period": "2H",
@@ -451,6 +475,105 @@
    "detail": "replaces Mayco Vivas",
    "playerOn": "Leonel Oviedo",
    "playerOff": "Mayco Vivas",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905083",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jamie Osborne",
+   "detail": "replaces Robert Baloucoune",
+   "playerOn": "Jamie Osborne",
+   "playerOff": "Robert Baloucoune",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905101",
+   "minute": 61,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Sam Illo",
+   "detail": "Yellow card (42-12)",
+   "playerName": "Sam Illo",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 42,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905094",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mayco Vivas",
+   "detail": "replaces Boris Wenger",
+   "playerOn": "Mayco Vivas",
+   "playerOff": "Boris Wenger",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905097",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Geronimo Prisciantelli",
+   "detail": "replaces Juan Cruz Mallia",
+   "playerOn": "Geronimo Prisciantelli",
+   "playerOff": "Juan Cruz Mallia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905099",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lucio Cinti",
+   "detail": "replaces Santiago Chocobares",
+   "playerOn": "Lucio Cinti",
+   "playerOff": "Santiago Chocobares",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905120",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Marcos Kremer",
+   "detail": "replaces Juan Martin Gonzalez",
+   "playerOn": "Marcos Kremer",
+   "playerOff": "Juan Martin Gonzalez",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905122",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Francisco Moreno",
+   "detail": "replaces Joel Sclavi",
+   "playerOn": "Francisco Moreno",
+   "playerOff": "Joel Sclavi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905118",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Andrew Porter",
+   "detail": "replaces Nick Timoney",
+   "playerOn": "Andrew Porter",
+   "playerOff": "Nick Timoney",
    "label": "Substitution"
   }
  ],
