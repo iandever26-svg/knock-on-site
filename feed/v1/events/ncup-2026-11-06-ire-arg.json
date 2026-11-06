@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-06-ire-arg",
  "matchId": "ncup-2026-11-06-ire-arg",
- "updated_at": "2026-11-06T21:00:07.740Z",
+ "updated_at": "2026-11-06T21:05:31.509Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603993/competitions/603993/plays?limit=400",
-   "fetched_at": "2026-11-06T21:00:07.740Z",
+   "fetched_at": "2026-11-06T21:05:31.509Z",
    "espn_event_id": "603993",
    "espn_league_id": 17567
   }
@@ -163,7 +163,7 @@
    }
   },
   {
-   "id": "espn-1904978",
+   "id": "espn-1904986",
    "minute": 36,
    "period": "1H",
    "type": "substitution",
