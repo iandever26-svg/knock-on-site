@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-06-ire-arg",
  "matchId": "ncup-2026-11-06-ire-arg",
- "updated_at": "2026-11-06T20:26:33.199Z",
+ "updated_at": "2026-11-06T20:52:12.332Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603993/competitions/603993/plays?limit=400",
-   "fetched_at": "2026-11-06T20:26:33.199Z",
+   "fetched_at": "2026-11-06T20:52:12.332Z",
    "espn_event_id": "603993",
    "espn_league_id": 17567
   }
@@ -74,15 +74,102 @@
     "home": 7,
     "away": 5
    }
+  },
+  {
+   "id": "espn-1904964",
+   "minute": 25,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Dan Sheehan",
+   "detail": "Try (12-5)",
+   "playerName": "Dan Sheehan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1904967",
+   "minute": 26,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Prendergast",
+   "detail": "Conversion (14-5)",
+   "playerName": "Sam Prendergast",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1904973",
+   "minute": 29,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Leonel Oviedo",
+   "detail": "replaces Julian Montoya",
+   "playerOn": "Leonel Oviedo",
+   "playerOff": "Julian Montoya",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904971",
+   "minute": 30,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Hugo Keenan",
+   "detail": "Try (19-5)",
+   "playerName": "Hugo Keenan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1904972",
+   "minute": 30,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Prendergast",
+   "detail": "Conversion (21-5)",
+   "playerName": "Sam Prendergast",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1904977",
+   "minute": 35,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Justo Piccardo",
+   "detail": "Yellow card (21-5)",
+   "playerName": "Justo Piccardo",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 5
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 21,
   "away": 5
  },
  "plays_summed": {
-  "home": 7,
+  "home": 21,
   "away": 5
  }
 }
