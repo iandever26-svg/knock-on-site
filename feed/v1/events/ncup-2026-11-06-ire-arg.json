@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-06-ire-arg",
  "matchId": "ncup-2026-11-06-ire-arg",
- "updated_at": "2026-11-06T21:16:13.557Z",
+ "updated_at": "2026-11-06T21:22:01.761Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603993/competitions/603993/plays?limit=400",
-   "fetched_at": "2026-11-06T21:16:13.557Z",
+   "fetched_at": "2026-11-06T21:22:01.761Z",
    "espn_event_id": "603993",
    "espn_league_id": 17567
   }
@@ -214,7 +214,7 @@
    }
   },
   {
-   "id": "espn-1905012",
+   "id": "espn-1905014",
    "minute": 42,
    "period": "2H",
    "type": "conversion_made",
@@ -227,15 +227,171 @@
     "home": 28,
     "away": 5
    }
+  },
+  {
+   "id": "espn-1905016",
+   "minute": 46,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Mateo Carreras",
+   "detail": "Try (28-10)",
+   "playerName": "Mateo Carreras",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 28,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905017",
+   "minute": 46,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Tomas Albornoz",
+   "detail": "Conversion (28-12)",
+   "playerName": "Tomas Albornoz",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905034",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Josh van der Flier",
+   "detail": "replaces Sean Jansen",
+   "playerOn": "Josh van der Flier",
+   "playerOff": "Sean Jansen",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905028",
+   "minute": 50,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Hugo Keenan",
+   "detail": "Try (33-12)",
+   "playerName": "Hugo Keenan",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 33,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905033",
+   "minute": 51,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Prendergast",
+   "detail": "Conversion (35-12)",
+   "playerName": "Sam Prendergast",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 35,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905036",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joel Sclavi",
+   "detail": "replaces Francisco Moreno",
+   "playerOn": "Joel Sclavi",
+   "playerOff": "Francisco Moreno",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905038",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Efrain Elias",
+   "detail": "replaces Guido Petti",
+   "playerOn": "Efrain Elias",
+   "playerOff": "Guido Petti",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905042",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Simon Benitez Cruz",
+   "detail": "replaces Gonzalo Garcia",
+   "playerOn": "Simon Benitez Cruz",
+   "playerOff": "Gonzalo Garcia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905044",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mayco Vivas",
+   "detail": "replaces Leonel Oviedo",
+   "playerOn": "Mayco Vivas",
+   "playerOff": "Leonel Oviedo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905054",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sam Illo",
+   "detail": "replaces Tadhg Furlong",
+   "playerOn": "Sam Illo",
+   "playerOff": "Tadhg Furlong",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905056",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jamison Gibson-Park",
+   "detail": "replaces Craig Casey",
+   "playerOn": "Jamison Gibson-Park",
+   "playerOff": "Craig Casey",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905058",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ciaran Frawley",
+   "detail": "replaces Sam Prendergast",
+   "playerOn": "Ciaran Frawley",
+   "playerOff": "Sam Prendergast",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 28,
-  "away": 5
+  "home": 35,
+  "away": 12
  },
  "plays_summed": {
-  "home": 28,
-  "away": 5
+  "home": 35,
+  "away": 12
  }
 }
