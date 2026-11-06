@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-06-ire-arg",
  "matchId": "ncup-2026-11-06-ire-arg",
- "updated_at": "2026-11-06T21:22:01.761Z",
+ "updated_at": "2026-11-06T21:36:23.532Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603993/competitions/603993/plays?limit=400",
-   "fetched_at": "2026-11-06T21:22:01.761Z",
+   "fetched_at": "2026-11-06T21:36:23.532Z",
    "espn_event_id": "603993",
    "espn_league_id": 17567
   }
@@ -349,6 +349,21 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1905061",
+   "minute": 54,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Efrain Elias",
+   "detail": "Yellow card (35-12)",
+   "playerName": "Efrain Elias",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 35,
+    "away": 12
+   }
+  },
+  {
    "id": "espn-1905054",
    "minute": 55,
    "period": "2H",
@@ -383,15 +398,69 @@
    "playerOn": "Ciaran Frawley",
    "playerOff": "Sam Prendergast",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905062",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Juan Scelzo",
+   "detail": "replaces Marcos Kremer",
+   "playerOn": "Juan Scelzo",
+   "playerOff": "Marcos Kremer",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905064",
+   "minute": 55,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ronan Kelleher",
+   "detail": "Try (40-12)",
+   "playerName": "Ronan Kelleher",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 40,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905065",
+   "minute": 56,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Ciaran Frawley",
+   "detail": "Conversion (42-12)",
+   "playerName": "Ciaran Frawley",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 42,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905066",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Leonel Oviedo",
+   "detail": "replaces Mayco Vivas",
+   "playerOn": "Leonel Oviedo",
+   "playerOff": "Mayco Vivas",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 35,
+  "home": 42,
   "away": 12
  },
  "plays_summed": {
-  "home": 35,
+  "home": 42,
   "away": 12
  }
 }
