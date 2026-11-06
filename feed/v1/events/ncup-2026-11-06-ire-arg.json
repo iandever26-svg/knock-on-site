@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-06-ire-arg",
  "matchId": "ncup-2026-11-06-ire-arg",
- "updated_at": "2026-11-06T21:50:37.702Z",
- "final": false,
+ "updated_at": "2026-11-06T22:04:05.807Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603993/competitions/603993/plays?limit=400",
-   "fetched_at": "2026-11-06T21:50:37.702Z",
+   "fetched_at": "2026-11-06T22:04:05.807Z",
    "espn_event_id": "603993",
    "espn_league_id": 17567
   }
@@ -574,6 +574,30 @@
    "detail": "replaces Nick Timoney",
    "playerOn": "Andrew Porter",
    "playerOff": "Nick Timoney",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905124",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Nick Timoney",
+   "detail": "replaces Andrew Porter",
+   "playerOn": "Nick Timoney",
+   "playerOff": "Andrew Porter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905128",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joel Sclavi",
+   "detail": "replaces Francisco Moreno",
+   "playerOn": "Joel Sclavi",
+   "playerOff": "Francisco Moreno",
    "label": "Substitution"
   }
  ],
