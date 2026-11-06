@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-06-ire-arg",
  "matchId": "ncup-2026-11-06-ire-arg",
- "updated_at": "2026-11-06T20:52:12.332Z",
+ "updated_at": "2026-11-06T21:00:07.740Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603993/competitions/603993/plays?limit=400",
-   "fetched_at": "2026-11-06T20:52:12.332Z",
+   "fetched_at": "2026-11-06T21:00:07.740Z",
    "espn_event_id": "603993",
    "espn_league_id": 17567
   }
@@ -161,6 +161,30 @@
     "home": 21,
     "away": 5
    }
+  },
+  {
+   "id": "espn-1904978",
+   "minute": 36,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ronan Kelleher",
+   "detail": "replaces Dan Sheehan",
+   "playerOn": "Ronan Kelleher",
+   "playerOff": "Dan Sheehan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1904980",
+   "minute": 37,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mayco Vivas",
+   "detail": "replaces Leonel Oviedo",
+   "playerOn": "Mayco Vivas",
+   "playerOff": "Leonel Oviedo",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
