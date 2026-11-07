@@ -33,7 +33,17 @@
       "lineup": false,
       "lineupUpdatedAt": null,
       "events": true,
-      "eventsUpdatedAt": "2026-11-07T15:42:38.866Z"
+      "eventsUpdatedAt": "2026-11-07T16:00:58.823Z"
+    },
+    {
+      "match_id": "top14-2026-11-07-cas-rac",
+      "kickoff": "2026-11-07T16:35:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-11-07T16:00:58.823Z"
     },
     {
       "match_id": "top14-2026-11-07-mon-lyo",
@@ -43,7 +53,17 @@
       "lineup": false,
       "lineupUpdatedAt": null,
       "events": true,
-      "eventsUpdatedAt": "2026-11-07T15:42:38.866Z"
+      "eventsUpdatedAt": "2026-11-07T16:00:58.823Z"
+    },
+    {
+      "match_id": "top14-2026-11-07-pau-per",
+      "kickoff": "2026-11-07T16:35:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-11-07T16:00:58.823Z"
     },
     {
       "match_id": "top14-2026-11-07-tln-sfp",
@@ -53,7 +73,7 @@
       "lineup": false,
       "lineupUpdatedAt": null,
       "events": true,
-      "eventsUpdatedAt": "2026-11-07T15:42:38.866Z"
+      "eventsUpdatedAt": "2026-11-07T16:00:58.823Z"
     },
     {
       "match_id": "top14-2026-11-07-tou-cle",

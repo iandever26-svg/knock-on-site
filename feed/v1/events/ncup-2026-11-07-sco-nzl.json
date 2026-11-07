@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-sco-nzl",
  "matchId": "ncup-2026-11-07-sco-nzl",
- "updated_at": "2026-11-07T15:42:38.866Z",
- "final": false,
+ "updated_at": "2026-11-07T16:00:58.823Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603995/competitions/603995/plays?limit=400",
-   "fetched_at": "2026-11-07T15:42:38.866Z",
+   "fetched_at": "2026-11-07T16:00:58.823Z",
    "espn_event_id": "603995",
    "espn_league_id": 17567
   }
@@ -473,15 +473,93 @@
    "playerOn": "Pasilio Tosi",
    "playerOff": "Fletcher Newell",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905476",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Timoci Tavatavanawai",
+   "detail": "replaces Jordie Barrett",
+   "playerOn": "Timoci Tavatavanawai",
+   "playerOff": "Jordie Barrett",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905478",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gregor Hiddleston",
+   "detail": "replaces Ewan Ashman",
+   "playerOn": "Gregor Hiddleston",
+   "playerOff": "Ewan Ashman",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905480",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Hurd",
+   "detail": "replaces Zander Fagerson",
+   "playerOn": "Will Hurd",
+   "playerOff": "Zander Fagerson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905483",
+   "minute": 68,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Asafo Aumua",
+   "detail": "Try (21-41)",
+   "playerName": "Asafo Aumua",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 41
+   }
+  },
+  {
+   "id": "espn-1905484",
+   "minute": 69,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Damian McKenzie",
+   "detail": "Conversion (21-43)",
+   "playerName": "Damian McKenzie",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 43
+   }
+  },
+  {
+   "id": "espn-1905489",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Christian Lio-Willie",
+   "detail": "replaces Tupou Vaa'i",
+   "playerOn": "Christian Lio-Willie",
+   "playerOff": "Tupou Vaa'i",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 36
+  "away": 43
  },
  "plays_summed": {
   "home": 21,
-  "away": 36
+  "away": 43
  }
 }
