@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-pau-per",
  "matchId": "top14-2026-11-07-pau-per",
- "updated_at": "2026-11-07T16:44:04.916Z",
+ "updated_at": "2026-11-07T17:05:16.586Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604421/competitions/604421/plays?limit=400",
-   "fetched_at": "2026-11-07T16:44:04.916Z",
+   "fetched_at": "2026-11-07T17:05:16.586Z",
    "espn_event_id": "604421",
    "espn_league_id": 270559
   }
@@ -293,15 +293,177 @@
    "playerOn": "Hugo Auradou",
    "playerOff": "Thomas Jolmes",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905579",
+   "minute": 48,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Clement Laporte",
+   "detail": "Try (47-12)",
+   "playerName": "Clement Laporte",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 47,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905601",
+   "minute": 49,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joe Simmonds",
+   "detail": "Conversion (49-12)",
+   "playerName": "Joe Simmonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 49,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905602",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lorencio Boyer Gallardo",
+   "detail": "replaces Enzo Forletta",
+   "playerOn": "Lorencio Boyer Gallardo",
+   "playerOff": "Enzo Forletta",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905594",
+   "minute": 49,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Jonny Gray",
+   "detail": "Yellow card (49-12)",
+   "playerName": "Jonny Gray",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 49,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905606",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cedate Gomes Sa",
+   "detail": "replaces Marco Riccioni",
+   "playerOn": "Cedate Gomes Sa",
+   "playerOff": "Marco Riccioni",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905625",
+   "minute": 51,
+   "period": "2H",
+   "type": "red_card",
+   "team": "away",
+   "player": "Matteo Le Corvec",
+   "detail": "Red card (49-12)",
+   "playerName": "Matteo Le Corvec",
+   "label": "Red card",
+   "scoreAfter": {
+    "home": 49,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905628",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jules Coulon",
+   "detail": "replaces Noe Della Schiava",
+   "playerOn": "Jules Coulon",
+   "playerOff": "Noe Della Schiava",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905637",
+   "minute": 53,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Youri Delhommel",
+   "detail": "Try (54-12)",
+   "playerName": "Youri Delhommel",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 54,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905642",
+   "minute": 54,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joe Simmonds",
+   "detail": "Conversion (56-12)",
+   "playerName": "Joe Simmonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 56,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905651",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tom Ecochard",
+   "detail": "replaces James Hall",
+   "playerOn": "Tom Ecochard",
+   "playerOff": "James Hall",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905687",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mathys Lotrian",
+   "detail": "replaces Victor Montgaillard",
+   "playerOn": "Mathys Lotrian",
+   "playerOff": "Victor Montgaillard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905679",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Posolo Tuilagi",
+   "detail": "replaces Jonny Gray",
+   "playerOn": "Posolo Tuilagi",
+   "playerOff": "Jonny Gray",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 42,
+  "home": 56,
   "away": 12
  },
  "plays_summed": {
-  "home": 42,
+  "home": 56,
   "away": 12
  }
 }

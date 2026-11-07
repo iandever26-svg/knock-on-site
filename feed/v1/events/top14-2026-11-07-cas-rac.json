@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-cas-rac",
  "matchId": "top14-2026-11-07-cas-rac",
- "updated_at": "2026-11-07T16:44:04.916Z",
+ "updated_at": "2026-11-07T17:05:16.586Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604418/competitions/604418/plays?limit=400",
-   "fetched_at": "2026-11-07T16:44:04.916Z",
+   "fetched_at": "2026-11-07T17:05:16.586Z",
    "espn_event_id": "604418",
    "espn_league_id": 270559
   }
@@ -160,7 +160,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905561",
+   "id": "espn-1905581",
    "minute": 45,
    "period": "2H",
    "type": "yellow_card",
@@ -173,15 +173,219 @@
     "home": 14,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1905573",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Janick Tarrit",
+   "detail": "replaces Diego Escobar",
+   "playerOn": "Janick Tarrit",
+   "playerOff": "Diego Escobar",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905585",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Baptiste Cope",
+   "detail": "replaces Veresa Ramototabua",
+   "playerOn": "Baptiste Cope",
+   "playerOff": "Veresa Ramototabua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905576",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Gia Kharaishvili",
+   "detail": "replaces Lehopa Leota",
+   "playerOn": "Gia Kharaishvili",
+   "playerOff": "Lehopa Leota",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905645",
+   "minute": 52,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Jonny Hill",
+   "detail": "Try (14-15)",
+   "playerName": "Jonny Hill",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1905592",
+   "minute": 53,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Gibert",
+   "detail": "Conversion (14-17)",
+   "playerName": "Antoine Gibert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905640",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Liam Couturier",
+   "detail": "replaces Edouard-Junior Jabea Njocke",
+   "playerOn": "Liam Couturier",
+   "playerOff": "Edouard-Junior Jabea Njocke",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905616",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Baptiste Delaporte",
+   "detail": "replaces Mathieu Babillot",
+   "playerOn": "Baptiste Delaporte",
+   "playerOff": "Mathieu Babillot",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905664",
+   "minute": 60,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Noham Valeu",
+   "detail": "Yellow card (14-17)",
+   "playerName": "Noham Valeu",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 14,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905648",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Adrea Cocagi",
+   "detail": "replaces Vuate Karawalevu",
+   "playerOn": "Adrea Cocagi",
+   "playerOff": "Vuate Karawalevu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905689",
+   "minute": 61,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Adam Vargas",
+   "detail": "Try (19-17)",
+   "playerName": "Adam Vargas",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905690",
+   "minute": 62,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Theo Vidal",
+   "detail": "Conversion (21-17)",
+   "playerName": "Theo Vidal",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905700",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Loris Zarantonello",
+   "detail": "replaces Teddy Durand",
+   "playerOn": "Loris Zarantonello",
+   "playerOff": "Teddy Durand",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905691",
+   "minute": 64,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Wame Naituvi",
+   "detail": "Try (21-22)",
+   "playerName": "Wame Naituvi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1905692",
+   "minute": 65,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Gibert",
+   "detail": "Conversion (21-24)",
+   "playerName": "Antoine Gibert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1905702",
+   "minute": 67,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Hamish Watson",
+   "detail": "Yellow card (21-24)",
+   "playerName": "Hamish Watson",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 24
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
-  "away": 10
+  "home": 21,
+  "away": 24
  },
  "plays_summed": {
-  "home": 14,
-  "away": 10
+  "home": 21,
+  "away": 24
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-mon-lyo",
  "matchId": "top14-2026-11-07-mon-lyo",
- "updated_at": "2026-11-07T16:44:04.916Z",
+ "updated_at": "2026-11-07T17:05:16.586Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604420/competitions/604420/plays?limit=400",
-   "fetched_at": "2026-11-07T16:44:04.916Z",
+   "fetched_at": "2026-11-07T17:05:16.586Z",
    "espn_event_id": "604420",
    "espn_league_id": 270559
   }
@@ -86,15 +86,201 @@
     "home": 7,
     "away": 6
    }
+  },
+  {
+   "id": "espn-1905587",
+   "minute": 51,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Lennox Anyanwu",
+   "detail": "Yellow card (7-6)",
+   "playerName": "Lennox Anyanwu",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 6
+   }
+  },
+  {
+   "id": "espn-1905596",
+   "minute": 52,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Paddy Jackson",
+   "detail": "Penalty (7-9)",
+   "playerName": "Paddy Jackson",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 7,
+    "away": 9
+   }
+  },
+  {
+   "id": "espn-1905608",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Baptiste Couilloud",
+   "detail": "replaces Esteban Gonzalez",
+   "playerOn": "Baptiste Couilloud",
+   "playerOff": "Esteban Gonzalez",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905615",
+   "minute": 55,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Josiah Maraku",
+   "detail": "Try (7-14)",
+   "playerName": "Josiah Maraku",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1905626",
+   "minute": 55,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Paddy Jackson",
+   "detail": "Conversion (7-16)",
+   "playerName": "Paddy Jackson",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1905630",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Luka Japaridze",
+   "detail": "replaces Wilfrid Hounkpatin",
+   "playerOn": "Luka Japaridze",
+   "playerOff": "Wilfrid Hounkpatin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905632",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Matteo Nocera",
+   "detail": "replaces Irakli Aptsiauri",
+   "playerOn": "Matteo Nocera",
+   "playerOff": "Irakli Aptsiauri",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905634",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Antoine Deliance",
+   "detail": "replaces Lilian Baret",
+   "playerOn": "Antoine Deliance",
+   "playerOff": "Lilian Baret",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905638",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alexander Masibaka",
+   "detail": "replaces Ruben van Heerden",
+   "playerOn": "Alexander Masibaka",
+   "playerOff": "Ruben van Heerden",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905643",
+   "minute": 56,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Tom Banks",
+   "detail": "Try (12-16)",
+   "playerName": "Tom Banks",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1905644",
+   "minute": 57,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Adam Hastings",
+   "detail": "Conversion (14-16)",
+   "playerName": "Adam Hastings",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1905693",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mathis Sarragallet",
+   "detail": "replaces Camille Chat",
+   "playerOn": "Mathis Sarragallet",
+   "playerOff": "Camille Chat",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905695",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Hamza Kaabeche",
+   "detail": "replaces Thomas Moukoro",
+   "playerOn": "Hamza Kaabeche",
+   "playerOff": "Thomas Moukoro",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905697",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Fousseynou Cissokho",
+   "detail": "replaces Marvin Okuya",
+   "playerOn": "Fousseynou Cissokho",
+   "playerOff": "Marvin Okuya",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
-  "away": 6
+  "home": 14,
+  "away": 16
  },
  "plays_summed": {
-  "home": 7,
-  "away": 6
+  "home": 14,
+  "away": 16
  }
 }

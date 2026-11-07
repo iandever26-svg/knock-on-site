@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tln-sfp",
  "matchId": "top14-2026-11-07-tln-sfp",
- "updated_at": "2026-11-07T16:44:04.916Z",
+ "updated_at": "2026-11-07T17:05:16.586Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604422/competitions/604422/plays?limit=400",
-   "fetched_at": "2026-11-07T16:44:04.916Z",
+   "fetched_at": "2026-11-07T17:05:16.586Z",
    "espn_event_id": "604422",
    "espn_league_id": 270559
   }
@@ -292,20 +292,20 @@
    "type": "substitution",
    "team": "home",
    "player": "Junior Kpoku",
-   "detail": "replaces Zach Mercer",
+   "detail": "replaces Esteban Abadie",
    "playerOn": "Junior Kpoku",
-   "playerOff": "Zach Mercer",
+   "playerOff": "Esteban Abadie",
    "label": "Substitution"
   },
   {
-   "id": "espn-1905564",
+   "id": "espn-1905572",
    "minute": 47,
    "period": "2H",
    "type": "substitution",
    "team": "home",
    "player": null,
-   "detail": "replaces Zach Mercer",
-   "playerOff": "Zach Mercer",
+   "detail": "replaces Esteban Abadie",
+   "playerOff": "Esteban Abadie",
    "label": "Substitution"
   },
   {
@@ -333,7 +333,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905565",
+   "id": "espn-1905597",
    "minute": 51,
    "period": "2H",
    "type": "substitution",
@@ -343,15 +343,171 @@
    "playerOn": "Tani Vili",
    "playerOff": "Julien Delbouis",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905589",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jeremy Sinzelle",
+   "detail": "replaces Mateo Garcia",
+   "playerOn": "Jeremy Sinzelle",
+   "playerOff": "Mateo Garcia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905591",
+   "minute": 52,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Melvyn Jaminet",
+   "detail": "Penalty (31-16)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 31,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1905610",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tomasi Maka",
+   "detail": "replaces Alvaro Garcia",
+   "playerOn": "Tomasi Maka",
+   "playerOff": "Alvaro Garcia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905621",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Esteban Abadie",
+   "detail": "replaces Junior Kpoku",
+   "playerOn": "Esteban Abadie",
+   "playerOff": "Junior Kpoku",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905646",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Thibaut Motassi",
+   "detail": "replaces Paul Abadie",
+   "playerOn": "Thibaut Motassi",
+   "playerOff": "Paul Abadie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905654",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Pierre Damond",
+   "detail": "replaces Teddy Baubigny",
+   "playerOn": "Pierre Damond",
+   "playerOff": "Teddy Baubigny",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905658",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Moses Alo-Emile",
+   "detail": "replaces Paul Alo-Emile",
+   "playerOn": "Moses Alo-Emile",
+   "playerOff": "Paul Alo-Emile",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905671",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Samuel Jean-Christophe",
+   "detail": "replaces Leo Ametlla",
+   "playerOn": "Samuel Jean-Christophe",
+   "playerOff": "Leo Ametlla",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905673",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Rabah Slimani",
+   "detail": "replaces Kyle Sinckler",
+   "playerOn": "Rabah Slimani",
+   "playerOff": "Kyle Sinckler",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905650",
+   "minute": 62,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Gael Drean",
+   "detail": "Try (36-16)",
+   "playerName": "Gael Drean",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 36,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1905675",
+   "minute": 63,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Melvyn Jaminet",
+   "detail": "Conversion (38-16)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 38,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1905699",
+   "minute": 70,
+   "period": "2H",
+   "type": "red_card",
+   "team": "away",
+   "player": "Mathieu Hirigoyen",
+   "detail": "Red card (38-16)",
+   "playerName": "Mathieu Hirigoyen",
+   "label": "Red card",
+   "scoreAfter": {
+    "home": 38,
+    "away": 16
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 28,
+  "home": 38,
   "away": 16
  },
  "plays_summed": {
-  "home": 28,
+  "home": 38,
   "away": 16
  }
 }

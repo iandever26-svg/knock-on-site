@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-wal-jpn",
  "matchId": "ncup-2026-11-07-wal-jpn",
- "updated_at": "2026-11-07T16:44:04.916Z",
+ "updated_at": "2026-11-07T17:05:16.586Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 5-0, final 0-0; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603996/competitions/603996/plays?limit=400",
-   "fetched_at": "2026-11-07T16:44:04.916Z",
+   "fetched_at": "2026-11-07T17:05:16.586Z",
    "espn_event_id": "603996",
    "espn_league_id": 17567
   }
@@ -23,22 +22,79 @@
    "type": "try",
    "team": "home",
    "player": "Archie Griffin",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Archie Griffin",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1905575",
+   "minute": 5,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Costelow",
+   "detail": "Conversion (7-0)",
+   "playerName": "Sam Costelow",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1905613",
+   "minute": 9,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Chisu Lee",
+   "detail": "replaces Inoke Burua",
+   "playerOn": "Chisu Lee",
+   "playerOff": "Inoke Burua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905624",
+   "minute": 11,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Ben Gunter",
+   "detail": "Try (7-5)",
+   "playerName": "Ben Gunter",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1905627",
+   "minute": 12,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Naoto Saito",
+   "detail": "Conversion (7-7)",
+   "playerName": "Naoto Saito",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
-  "away": 0
+  "home": 7,
+  "away": 7
  },
  "plays_summed": {
-  "home": 5,
-  "away": 0
- },
- "unexplained_gap": {
-  "home": -5,
-  "away": 0
+  "home": 7,
+  "away": 7
  }
 }
