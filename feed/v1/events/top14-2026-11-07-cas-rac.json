@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-cas-rac",
  "matchId": "top14-2026-11-07-cas-rac",
- "updated_at": "2026-11-07T17:05:16.586Z",
+ "updated_at": "2026-11-07T17:15:03.255Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604418/competitions/604418/plays?limit=400",
-   "fetched_at": "2026-11-07T17:05:16.586Z",
+   "fetched_at": "2026-11-07T17:15:03.255Z",
    "espn_event_id": "604418",
    "espn_league_id": 270559
   }
@@ -175,18 +175,6 @@
    }
   },
   {
-   "id": "espn-1905573",
-   "minute": 48,
-   "period": "2H",
-   "type": "substitution",
-   "team": "away",
-   "player": "Janick Tarrit",
-   "detail": "replaces Diego Escobar",
-   "playerOn": "Janick Tarrit",
-   "playerOff": "Diego Escobar",
-   "label": "Substitution"
-  },
-  {
    "id": "espn-1905585",
    "minute": 48,
    "period": "2H",
@@ -199,7 +187,19 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905576",
+   "id": "espn-1905722",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Janick Tarrit",
+   "detail": "replaces Diego Escobar",
+   "playerOn": "Janick Tarrit",
+   "playerOff": "Diego Escobar",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905724",
    "minute": 48,
    "period": "2H",
    "type": "substitution",
@@ -280,7 +280,7 @@
    }
   },
   {
-   "id": "espn-1905648",
+   "id": "espn-1905770",
    "minute": 60,
    "period": "2H",
    "type": "substitution",
@@ -289,6 +289,18 @@
    "detail": "replaces Vuate Karawalevu",
    "playerOn": "Adrea Cocagi",
    "playerOff": "Vuate Karawalevu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905703",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ugo Seunes",
+   "detail": "replaces Maxime Machenaud",
+   "playerOn": "Ugo Seunes",
+   "playerOff": "Maxime Machenaud",
    "label": "Substitution"
   },
   {
@@ -322,6 +334,18 @@
    }
   },
   {
+   "id": "espn-1905748",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Quentin Walcker",
+   "detail": "replaces Lois Guerois-Galisson",
+   "playerOn": "Quentin Walcker",
+   "playerOff": "Lois Guerois-Galisson",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1905700",
    "minute": 62,
    "period": "2H",
@@ -334,7 +358,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905691",
+   "id": "espn-1905737",
    "minute": 64,
    "period": "2H",
    "type": "try",
@@ -349,7 +373,7 @@
    }
   },
   {
-   "id": "espn-1905692",
+   "id": "espn-1905738",
    "minute": 65,
    "period": "2H",
    "type": "conversion_made",
@@ -364,8 +388,8 @@
    }
   },
   {
-   "id": "espn-1905702",
-   "minute": 67,
+   "id": "espn-1905741",
+   "minute": 65,
    "period": "2H",
    "type": "yellow_card",
    "team": "home",
@@ -377,15 +401,30 @@
     "home": 21,
     "away": 24
    }
+  },
+  {
+   "id": "espn-1905762",
+   "minute": 68,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Antoine Gibert",
+   "detail": "Penalty (21-27)",
+   "playerName": "Antoine Gibert",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 21,
+    "away": 27
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 24
+  "away": 27
  },
  "plays_summed": {
   "home": 21,
-  "away": 24
+  "away": 27
  }
 }

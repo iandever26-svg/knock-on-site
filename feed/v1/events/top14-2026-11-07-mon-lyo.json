@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-mon-lyo",
  "matchId": "top14-2026-11-07-mon-lyo",
- "updated_at": "2026-11-07T17:05:16.586Z",
+ "updated_at": "2026-11-07T17:15:03.255Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 19-19, final 14-19; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604420/competitions/604420/plays?limit=400",
-   "fetched_at": "2026-11-07T17:05:16.586Z",
+   "fetched_at": "2026-11-07T17:15:03.255Z",
    "espn_event_id": "604420",
    "espn_league_id": 270559
   }
@@ -34,13 +35,9 @@
    "type": "try",
    "team": "home",
    "player": "Christopher Tolofua",
-   "detail": "Try (5-0)",
+   "detail": "Try",
    "playerName": "Christopher Tolofua",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 0
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1905519",
@@ -49,13 +46,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Adam Hastings",
-   "detail": "Conversion (7-0)",
+   "detail": "Conversion",
    "playerName": "Adam Hastings",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 0
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1905542",
@@ -64,13 +57,9 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Paddy Jackson",
-   "detail": "Penalty (7-3)",
+   "detail": "Penalty",
    "playerName": "Paddy Jackson",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 7,
-    "away": 3
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1905553",
@@ -79,13 +68,9 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Paddy Jackson",
-   "detail": "Penalty (7-6)",
+   "detail": "Penalty",
    "playerName": "Paddy Jackson",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 7,
-    "away": 6
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1905587",
@@ -94,13 +79,9 @@
    "type": "yellow_card",
    "team": "home",
    "player": "Lennox Anyanwu",
-   "detail": "Yellow card (7-6)",
+   "detail": "Yellow card",
    "playerName": "Lennox Anyanwu",
-   "label": "Yellow card",
-   "scoreAfter": {
-    "home": 7,
-    "away": 6
-   }
+   "label": "Yellow card"
   },
   {
    "id": "espn-1905596",
@@ -109,13 +90,9 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Paddy Jackson",
-   "detail": "Penalty (7-9)",
+   "detail": "Penalty",
    "playerName": "Paddy Jackson",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 7,
-    "away": 9
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1905608",
@@ -136,13 +113,9 @@
    "type": "try",
    "team": "away",
    "player": "Josiah Maraku",
-   "detail": "Try (7-14)",
+   "detail": "Try",
    "playerName": "Josiah Maraku",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 7,
-    "away": 14
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1905626",
@@ -151,13 +124,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Paddy Jackson",
-   "detail": "Conversion (7-16)",
+   "detail": "Conversion",
    "playerName": "Paddy Jackson",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 16
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1905630",
@@ -214,13 +183,9 @@
    "type": "try",
    "team": "home",
    "player": "Tom Banks",
-   "detail": "Try (12-16)",
+   "detail": "Try",
    "playerName": "Tom Banks",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 12,
-    "away": 16
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1905644",
@@ -229,13 +194,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Adam Hastings",
-   "detail": "Conversion (14-16)",
+   "detail": "Conversion",
    "playerName": "Adam Hastings",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 14,
-    "away": 16
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1905693",
@@ -272,15 +233,64 @@
    "playerOn": "Fousseynou Cissokho",
    "playerOff": "Marvin Okuya",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905705",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sebastien Bezy",
+   "detail": "replaces Alexis Bernadet",
+   "playerOn": "Sebastien Bezy",
+   "playerOff": "Alexis Bernadet",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905720",
+   "minute": 65,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Tyler Duguid",
+   "detail": "Yellow card",
+   "playerName": "Tyler Duguid",
+   "label": "Yellow card"
+  },
+  {
+   "id": "espn-1905721",
+   "minute": 65,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Paddy Jackson",
+   "detail": "Penalty",
+   "playerName": "Paddy Jackson",
+   "label": "Penalty"
+  },
+  {
+   "id": "espn-1905775",
+   "minute": 72,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Christopher Tolofua",
+   "detail": "Try",
+   "playerName": "Christopher Tolofua",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 14,
-  "away": 16
+  "away": 19
  },
  "plays_summed": {
-  "home": 14,
-  "away": 16
+  "home": 19,
+  "away": 19
+ },
+ "unexplained_gap": {
+  "home": -5,
+  "away": 0
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-wal-jpn",
  "matchId": "ncup-2026-11-07-wal-jpn",
- "updated_at": "2026-11-07T17:05:16.586Z",
+ "updated_at": "2026-11-07T17:15:03.255Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603996/competitions/603996/plays?limit=400",
-   "fetched_at": "2026-11-07T17:05:16.586Z",
+   "fetched_at": "2026-11-07T17:15:03.255Z",
    "espn_event_id": "603996",
    "espn_league_id": 17567
   }
@@ -86,15 +86,45 @@
     "home": 7,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1905755",
+   "minute": 28,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Josh Adams",
+   "detail": "Try (12-7)",
+   "playerName": "Josh Adams",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1905761",
+   "minute": 29,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Costelow",
+   "detail": "Conversion (14-7)",
+   "playerName": "Sam Costelow",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 7
  },
  "plays_summed": {
-  "home": 7,
+  "home": 14,
   "away": 7
  }
 }

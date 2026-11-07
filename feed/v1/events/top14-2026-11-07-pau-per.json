@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-pau-per",
  "matchId": "top14-2026-11-07-pau-per",
- "updated_at": "2026-11-07T17:05:16.586Z",
+ "updated_at": "2026-11-07T17:15:03.255Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604421/competitions/604421/plays?limit=400",
-   "fetched_at": "2026-11-07T17:05:16.586Z",
+   "fetched_at": "2026-11-07T17:15:03.255Z",
    "espn_event_id": "604421",
    "espn_league_id": 270559
   }
@@ -454,6 +454,54 @@
    "detail": "replaces Jonny Gray",
    "playerOn": "Posolo Tuilagi",
    "playerOff": "Jonny Gray",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905708",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Joseph Adam",
+   "detail": "replaces Guram Papidze",
+   "playerOn": "Joseph Adam",
+   "playerOff": "Guram Papidze",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905710",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Clement Mondinat",
+   "detail": "replaces Gregoire Arfeuil",
+   "playerOn": "Clement Mondinat",
+   "playerOff": "Gregoire Arfeuil",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905713",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Clement Paul",
+   "detail": "replaces Facundo Isa",
+   "playerOn": "Clement Paul",
+   "playerOff": "Facundo Isa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905715",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mickael Capelli",
+   "detail": "replaces Baptiste Pesenti",
+   "playerOn": "Mickael Capelli",
+   "playerOff": "Baptiste Pesenti",
    "label": "Substitution"
   }
  ],

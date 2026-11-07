@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tln-sfp",
  "matchId": "top14-2026-11-07-tln-sfp",
- "updated_at": "2026-11-07T17:05:16.586Z",
+ "updated_at": "2026-11-07T17:15:03.255Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604422/competitions/604422/plays?limit=400",
-   "fetched_at": "2026-11-07T17:05:16.586Z",
+   "fetched_at": "2026-11-07T17:15:03.255Z",
    "espn_event_id": "604422",
    "espn_league_id": 270559
   }
@@ -456,7 +456,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905650",
+   "id": "espn-1905707",
    "minute": 62,
    "period": "2H",
    "type": "try",
@@ -486,8 +486,32 @@
    }
   },
   {
-   "id": "espn-1905699",
-   "minute": 70,
+   "id": "espn-1905729",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mateo Garcia",
+   "detail": "replaces Jeremy Sinzelle",
+   "playerOn": "Mateo Garcia",
+   "playerOff": "Jeremy Sinzelle",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905731",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Junior Kpoku",
+   "detail": "replaces Zach Mercer",
+   "playerOn": "Junior Kpoku",
+   "playerOff": "Zach Mercer",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905750",
+   "minute": 66,
    "period": "2H",
    "type": "red_card",
    "team": "away",
@@ -499,15 +523,84 @@
     "home": 38,
     "away": 16
    }
+  },
+  {
+   "id": "espn-1905765",
+   "minute": 67,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Louis Carbonel",
+   "detail": "Conversion (38-18)",
+   "playerName": "Louis Carbonel",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 38,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1905768",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Corentin Mezou",
+   "detail": "replaces Swan Rebbadj",
+   "playerOn": "Corentin Mezou",
+   "playerOff": "Swan Rebbadj",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905776",
+   "minute": 67,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Jack Iscaro",
+   "detail": "Yellow card (38-18)",
+   "playerName": "Jack Iscaro",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 38,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1905777",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ryan Chapuis",
+   "detail": "replaces Fabrice Metz",
+   "playerOn": "Ryan Chapuis",
+   "playerOff": "Fabrice Metz",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905756",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Tomasi Maka",
+   "detail": "Try (38-23)",
+   "playerName": "Tomasi Maka",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 38,
+    "away": 23
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 38,
-  "away": 16
+  "away": 23
  },
  "plays_summed": {
   "home": 38,
-  "away": 16
+  "away": 23
  }
 }
