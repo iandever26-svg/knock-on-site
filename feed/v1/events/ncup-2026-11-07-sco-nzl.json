@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-sco-nzl",
  "matchId": "ncup-2026-11-07-sco-nzl",
- "updated_at": "2026-11-07T14:30:19.189Z",
+ "updated_at": "2026-11-07T14:48:36.587Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603995/competitions/603995/plays?limit=400",
-   "fetched_at": "2026-11-07T14:30:19.189Z",
+   "fetched_at": "2026-11-07T14:48:36.587Z",
    "espn_event_id": "603995",
    "espn_league_id": 17567
   }
@@ -104,15 +104,147 @@
     "home": 7,
     "away": 12
    }
+  },
+  {
+   "id": "espn-1905293",
+   "minute": 20,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Peter Lakai",
+   "detail": "Try (7-17)",
+   "playerName": "Peter Lakai",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905293-cm",
+   "minute": 20,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (7-17)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 7,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905297",
+   "minute": 24,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Peter Lakai",
+   "detail": "Yellow card (7-17)",
+   "playerName": "Peter Lakai",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905298",
+   "minute": 26,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Ewan Ashman",
+   "detail": "Try (12-17)",
+   "playerName": "Ewan Ashman",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905299",
+   "minute": 27,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Finn Russell",
+   "detail": "Conversion (14-17)",
+   "playerName": "Finn Russell",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905303",
+   "minute": 31,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Beauden Barrett",
+   "detail": "Try (14-22)",
+   "playerName": "Beauden Barrett",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1905304",
+   "minute": 32,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Damian McKenzie",
+   "detail": "Conversion (14-24)",
+   "playerName": "Damian McKenzie",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1905306",
+   "minute": 32,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Pierre Schoeman",
+   "detail": "replaces Rory Sutherland",
+   "playerOn": "Pierre Schoeman",
+   "playerOff": "Rory Sutherland",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905310",
+   "minute": 33,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Wallace Sititi",
+   "detail": "Yellow card (14-24)",
+   "playerName": "Wallace Sititi",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 14,
+    "away": 24
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
-  "away": 12
+  "home": 14,
+  "away": 24
  },
  "plays_summed": {
-  "home": 7,
-  "away": 12
+  "home": 14,
+  "away": 24
  }
 }

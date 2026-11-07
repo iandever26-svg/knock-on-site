@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tou-cle",
  "matchId": "top14-2026-11-07-tou-cle",
- "updated_at": "2026-11-07T14:30:19.189Z",
+ "updated_at": "2026-11-07T14:48:36.587Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604423/competitions/604423/plays?limit=400",
-   "fetched_at": "2026-11-07T14:30:19.189Z",
+   "fetched_at": "2026-11-07T14:48:36.587Z",
    "espn_event_id": "604423",
    "espn_league_id": 270559
   }
@@ -160,6 +160,29 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1905295",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Leo Banos",
+   "detail": "replaces Theo Ntamack",
+   "playerOn": "Leo Banos",
+   "playerOff": "Theo Ntamack",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905296",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": null,
+   "detail": "replaces Theo Ntamack",
+   "playerOff": "Theo Ntamack",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1905286",
    "minute": 42,
    "period": "1H",
@@ -173,15 +196,69 @@
     "home": 19,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1905308",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Benjamin Bertrand",
+   "detail": "replaces Cyril Baille",
+   "playerOn": "Benjamin Bertrand",
+   "playerOff": "Cyril Baille",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905302",
+   "minute": 51,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Valentin Delpy",
+   "detail": "Penalty (22-10)",
+   "playerName": "Valentin Delpy",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 22,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905313",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ofa Tu'ungafasi",
+   "detail": "replaces Matheo Frisach",
+   "playerOn": "Ofa Tu'ungafasi",
+   "playerOff": "Matheo Frisach",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905312",
+   "minute": 53,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Harry Plummer",
+   "detail": "Penalty (22-13)",
+   "playerName": "Harry Plummer",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 22,
+    "away": 13
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 19,
-  "away": 10
+  "home": 22,
+  "away": 13
  },
  "plays_summed": {
-  "home": 19,
-  "away": 10
+  "home": 22,
+  "away": 13
  }
 }
