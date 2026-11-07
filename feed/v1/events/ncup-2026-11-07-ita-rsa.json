@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-ita-rsa",
  "matchId": "ncup-2026-11-07-ita-rsa",
- "updated_at": "2026-11-07T12:18:19.272Z",
+ "updated_at": "2026-11-07T12:39:00.955Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603994/competitions/603994/plays?limit=400",
-   "fetched_at": "2026-11-07T12:18:19.272Z",
+   "fetched_at": "2026-11-07T12:39:00.955Z",
    "espn_event_id": "603994",
    "espn_league_id": 17567
   }
@@ -271,6 +271,42 @@
    "detail": "replaces Tommaso Allan",
    "playerOn": "Monty Ioane",
    "playerOff": "Tommaso Allan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905164",
+   "minute": 36,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Danilo Fischetti",
+   "detail": "replaces Mirko Belloni",
+   "playerOn": "Danilo Fischetti",
+   "playerOff": "Mirko Belloni",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905166",
+   "minute": 38,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Wilco Louw",
+   "detail": "replaces Thomas du Toit",
+   "playerOn": "Wilco Louw",
+   "playerOff": "Thomas du Toit",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905168",
+   "minute": 41,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mirko Belloni",
+   "detail": "replaces Danilo Fischetti",
+   "playerOn": "Mirko Belloni",
+   "playerOff": "Danilo Fischetti",
    "label": "Substitution"
   }
  ],
