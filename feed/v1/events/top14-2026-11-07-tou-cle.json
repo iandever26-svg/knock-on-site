@@ -2,34 +2,78 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tou-cle",
  "matchId": "top14-2026-11-07-tou-cle",
- "updated_at": "2026-11-07T13:37:58.914Z",
+ "updated_at": "2026-11-07T13:50:32.543Z",
  "final": false,
  "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 7-0, final 0-0; running scores omitted.",
+ "note": "ESPN timeline incomplete: events sum to 19-0, final 12-0; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604423/competitions/604423/plays?limit=400",
-   "fetched_at": "2026-11-07T13:37:58.914Z",
+   "fetched_at": "2026-11-07T13:50:32.543Z",
    "espn_event_id": "604423",
    "espn_league_id": 270559
   }
  ],
  "events": [
   {
-   "id": "espn-1905263",
-   "minute": 2,
+   "id": "espn-1905265",
+   "minute": 8,
    "period": "1H",
    "type": "try",
    "team": "home",
-   "player": "Lukas Amati",
+   "player": "Julien Marchand",
    "detail": "Try",
-   "playerName": "Lukas Amati",
+   "playerName": "Julien Marchand",
    "label": "Try"
   },
   {
-   "id": "espn-1905264",
-   "minute": 3,
+   "id": "espn-1905265-cm",
+   "minute": 8,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred)",
+   "label": "Conversion missed",
+   "inferred": true
+  },
+  {
+   "id": "espn-1905266",
+   "minute": 12,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Teddy Thomas",
+   "detail": "Try",
+   "playerName": "Teddy Thomas",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1905268",
+   "minute": 13,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Valentin Delpy",
+   "detail": "Conversion",
+   "playerName": "Valentin Delpy",
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1905269",
+   "minute": 26,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Simon Daroque",
+   "detail": "Try",
+   "playerName": "Simon Daroque",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1905270",
+   "minute": 27,
    "period": "1H",
    "type": "conversion_made",
    "team": "home",
@@ -41,11 +85,11 @@
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
+  "home": 12,
   "away": 0
  },
  "plays_summed": {
-  "home": 7,
+  "home": 19,
   "away": 0
  },
  "unexplained_gap": {
