@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-sco-nzl",
  "matchId": "ncup-2026-11-07-sco-nzl",
- "updated_at": "2026-11-07T15:04:52.407Z",
+ "updated_at": "2026-11-07T15:10:18.071Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603995/competitions/603995/plays?limit=400",
-   "fetched_at": "2026-11-07T15:04:52.407Z",
+   "fetched_at": "2026-11-07T15:10:18.071Z",
    "espn_event_id": "603995",
    "espn_league_id": 17567
   }
@@ -136,8 +136,8 @@
    }
   },
   {
-   "id": "espn-1905297",
-   "minute": 24,
+   "id": "espn-1905370",
+   "minute": 23,
    "period": "1H",
    "type": "yellow_card",
    "team": "away",
@@ -223,7 +223,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905310",
+   "id": "espn-1905371",
    "minute": 33,
    "period": "1H",
    "type": "yellow_card",

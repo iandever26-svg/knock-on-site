@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tou-cle",
  "matchId": "top14-2026-11-07-tou-cle",
- "updated_at": "2026-11-07T15:04:52.407Z",
+ "updated_at": "2026-11-07T15:10:18.071Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604423/competitions/604423/plays?limit=400",
-   "fetched_at": "2026-11-07T15:04:52.407Z",
+   "fetched_at": "2026-11-07T15:10:18.071Z",
    "espn_event_id": "604423",
    "espn_league_id": 270559
   }
@@ -326,21 +326,6 @@
    }
   },
   {
-   "id": "espn-1905355",
-   "minute": 62,
-   "period": "2H",
-   "type": "penalty_goal_made",
-   "team": "home",
-   "player": "Valentin Delpy",
-   "detail": "Penalty (25-13)",
-   "playerName": "Valentin Delpy",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 25,
-    "away": 13
-   }
-  },
-  {
    "id": "espn-1905358",
    "minute": 62,
    "period": "2H",
@@ -365,20 +350,43 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905363",
+   "id": "espn-1905364",
    "minute": 62,
    "period": "2H",
    "type": "substitution",
    "team": "away",
    "player": "Yanis Brosset",
-   "detail": "replaces Mathys Belaubre",
+   "detail": "replaces Yerim Fall",
    "playerOn": "Yanis Brosset",
-   "playerOff": "Mathys Belaubre",
+   "playerOff": "Yerim Fall",
    "label": "Substitution"
   },
   {
-   "id": "espn-1905365",
+   "id": "espn-1905372",
    "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Yerim Fall",
+   "playerOff": "Yerim Fall",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905376",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Matheo Frisach",
+   "detail": "replaces Anthime Hemery",
+   "playerOn": "Matheo Frisach",
+   "playerOff": "Anthime Hemery",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905367",
+   "minute": 64,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -387,15 +395,45 @@
    "playerOn": "Mathis Castro-Ferreira",
    "playerOff": "Romeo Bonnard Martin",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905374",
+   "minute": 67,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Valentin Delpy",
+   "detail": "Penalty (25-13)",
+   "playerName": "Valentin Delpy",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 25,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1905375",
+   "minute": 74,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Valentin Delpy",
+   "detail": "Penalty (28-13)",
+   "playerName": "Valentin Delpy",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 28,
+    "away": 13
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 25,
+  "home": 28,
   "away": 13
  },
  "plays_summed": {
-  "home": 25,
+  "home": 28,
   "away": 13
  }
 }
