@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-sco-nzl",
  "matchId": "ncup-2026-11-07-sco-nzl",
- "updated_at": "2026-11-07T15:15:43.581Z",
+ "updated_at": "2026-11-07T15:21:05.229Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603995/competitions/603995/plays?limit=400",
-   "fetched_at": "2026-11-07T15:15:43.581Z",
+   "fetched_at": "2026-11-07T15:21:05.229Z",
    "espn_event_id": "603995",
    "espn_league_id": 17567
   }
@@ -266,15 +266,57 @@
     "home": 21,
     "away": 24
    }
+  },
+  {
+   "id": "espn-1905397",
+   "minute": 49,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Josh Moorby",
+   "detail": "Try (21-29)",
+   "playerName": "Josh Moorby",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 29
+   }
+  },
+  {
+   "id": "espn-1905397-cm",
+   "minute": 49,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (21-29)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 21,
+    "away": 29
+   }
+  },
+  {
+   "id": "espn-1905410",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "George Bower",
+   "detail": "replaces Ethan de Groot",
+   "playerOn": "George Bower",
+   "playerOff": "Ethan de Groot",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 24
+  "away": 29
  },
  "plays_summed": {
   "home": 21,
-  "away": 24
+  "away": 29
  }
 }

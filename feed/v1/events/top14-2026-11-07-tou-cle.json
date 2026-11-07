@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tou-cle",
  "matchId": "top14-2026-11-07-tou-cle",
- "updated_at": "2026-11-07T15:15:43.581Z",
- "final": false,
+ "updated_at": "2026-11-07T15:21:05.229Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604423/competitions/604423/plays?limit=400",
-   "fetched_at": "2026-11-07T15:15:43.581Z",
+   "fetched_at": "2026-11-07T15:21:05.229Z",
    "espn_event_id": "604423",
    "espn_league_id": 270559
   }
@@ -412,8 +412,8 @@
    }
   },
   {
-   "id": "espn-1905391",
-   "minute": 72,
+   "id": "espn-1905404",
+   "minute": 71,
    "period": "2H",
    "type": "penalty_goal_made",
    "team": "home",
@@ -427,8 +427,8 @@
    }
   },
   {
-   "id": "espn-1905392",
-   "minute": 74,
+   "id": "espn-1905405",
+   "minute": 73,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -439,8 +439,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905394",
-   "minute": 78,
+   "id": "espn-1905407",
+   "minute": 77,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -449,15 +449,45 @@
    "playerOn": "Bixintxo Daguerre",
    "playerOff": "Nathan Llaveria",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905409",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Timeo Frier",
+   "detail": "Try (28-18)",
+   "playerName": "Timeo Frier",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 28,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1905409-cm",
+   "minute": 79,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (28-18)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 28,
+    "away": 18
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 28,
-  "away": 13
+  "away": 18
  },
  "plays_summed": {
   "home": 28,
-  "away": 13
+  "away": 18
  }
 }
