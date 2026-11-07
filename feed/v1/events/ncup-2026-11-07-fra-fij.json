@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-fra-fij",
  "matchId": "ncup-2026-11-07-fra-fij",
- "updated_at": "2026-11-07T20:40:26.134Z",
+ "updated_at": "2026-11-07T21:02:39.569Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603997/competitions/603997/plays?limit=400",
-   "fetched_at": "2026-11-07T20:40:26.134Z",
+   "fetched_at": "2026-11-07T21:02:39.569Z",
    "espn_event_id": "603997",
    "espn_league_id": 17567
   }
@@ -61,6 +61,78 @@
    }
   },
   {
+   "id": "espn-1906003",
+   "minute": 33,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Sipili Falatea",
+   "detail": "Try (10-3)",
+   "playerName": "Sipili Falatea",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906010",
+   "minute": 34,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Kalvin Gourgues",
+   "detail": "Conversion (12-3)",
+   "playerName": "Kalvin Gourgues",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906011",
+   "minute": 34,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Maxime Lucu",
+   "detail": "replaces Romain Ntamack",
+   "playerOn": "Maxime Lucu",
+   "playerOff": "Romain Ntamack",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906015",
+   "minute": 36,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Aaron Grandidier-Nkanang",
+   "detail": "Try (17-3)",
+   "playerName": "Aaron Grandidier-Nkanang",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906016",
+   "minute": 37,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Maxime Lucu",
+   "detail": "Conversion (19-3)",
+   "playerName": "Maxime Lucu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 3
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -70,20 +142,20 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (12-3)",
+   "detail": "Penalty try (inferred, minute unknown) (26-3)",
    "scoreAfter": {
-    "home": 12,
+    "home": 26,
     "away": 3
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
+  "home": 26,
   "away": 3
  },
  "plays_summed": {
-  "home": 5,
+  "home": 19,
   "away": 3
  },
  "inferred_penalty_tries": [
