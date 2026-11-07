@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-wal-jpn",
  "matchId": "ncup-2026-11-07-wal-jpn",
- "updated_at": "2026-11-07T18:02:33.673Z",
- "final": false,
+ "updated_at": "2026-11-07T18:32:50.932Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603996/competitions/603996/plays?limit=400",
-   "fetched_at": "2026-11-07T18:02:33.673Z",
+   "fetched_at": "2026-11-07T18:32:50.932Z",
    "espn_event_id": "603996",
    "espn_league_id": 17567
   }
@@ -284,15 +284,123 @@
    "playerOn": "Teddy Williams",
    "playerOff": "Ben Carter",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905921",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dan Edwards",
+   "detail": "replaces Sam Costelow",
+   "playerOn": "Dan Edwards",
+   "playerOff": "Sam Costelow",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905923",
+   "minute": 69,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Josh Adams",
+   "detail": "Try (26-14)",
+   "playerName": "Josh Adams",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1905924",
+   "minute": 70,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Dan Edwards",
+   "detail": "Conversion (28-14)",
+   "playerName": "Dan Edwards",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1905930",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "James Botham",
+   "detail": "replaces Alex Mann",
+   "playerOn": "James Botham",
+   "playerOff": "Alex Mann",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905925",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Michael Stolberg",
+   "detail": "replaces Warner Dearns",
+   "playerOn": "Michael Stolberg",
+   "playerOff": "Warner Dearns",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905932",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Shinya Komura",
+   "detail": "replaces Samisoni Tua",
+   "playerOn": "Shinya Komura",
+   "playerOff": "Samisoni Tua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905934",
+   "minute": 75,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Kenta Fukuda",
+   "detail": "Try (28-19)",
+   "playerName": "Kenta Fukuda",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 28,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1905935",
+   "minute": 76,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Shinya Komura",
+   "detail": "Conversion (28-21)",
+   "playerName": "Shinya Komura",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 21
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
-  "away": 14
+  "home": 28,
+  "away": 21
  },
  "plays_summed": {
-  "home": 21,
-  "away": 14
+  "home": 28,
+  "away": 21
  }
 }
