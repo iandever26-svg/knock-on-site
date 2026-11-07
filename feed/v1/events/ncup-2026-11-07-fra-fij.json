@@ -1,0 +1,43 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-07-fra-fij",
+ "matchId": "ncup-2026-11-07-fra-fij",
+ "updated_at": "2026-11-07T20:35:03.629Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603997/competitions/603997/plays?limit=400",
+   "fetched_at": "2026-11-07T20:35:03.629Z",
+   "espn_event_id": "603997",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1905993",
+   "minute": 15,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Jean-Baptiste Gros",
+   "detail": "Try (5-0)",
+   "playerName": "Jean-Baptiste Gros",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 5,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 5,
+  "away": 0
+ }
+}
