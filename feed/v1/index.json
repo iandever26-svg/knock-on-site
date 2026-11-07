@@ -26,6 +26,16 @@
       "eventsUpdatedAt": "2026-11-07T13:23:54.462Z"
     },
     {
+      "match_id": "top14-2026-11-07-tou-cle",
+      "kickoff": "2026-11-07T14:30:00+01:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-11-07T13:37:58.914Z"
+    },
+    {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
       "score": true,
