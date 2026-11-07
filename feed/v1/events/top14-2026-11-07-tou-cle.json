@@ -2,15 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tou-cle",
  "matchId": "top14-2026-11-07-tou-cle",
- "updated_at": "2026-11-07T13:50:32.543Z",
+ "updated_at": "2026-11-07T14:07:11.225Z",
  "final": false,
  "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 19-0, final 12-0; running scores omitted.",
+ "note": "ESPN timeline incomplete: events sum to 19-5, final 19-0; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604423/competitions/604423/plays?limit=400",
-   "fetched_at": "2026-11-07T13:50:32.543Z",
+   "fetched_at": "2026-11-07T14:07:11.225Z",
    "espn_event_id": "604423",
    "espn_league_id": 270559
   }
@@ -81,19 +81,42 @@
    "detail": "Conversion",
    "playerName": "Valentin Delpy",
    "label": "Conversion"
+  },
+  {
+   "id": "espn-1905271",
+   "minute": 31,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Nathan Llaveria",
+   "detail": "replaces Simon Daroque",
+   "playerOn": "Nathan Llaveria",
+   "playerOff": "Simon Daroque",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905273",
+   "minute": 35,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Baptiste Jauneau",
+   "detail": "Try",
+   "playerName": "Baptiste Jauneau",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
+  "home": 19,
   "away": 0
  },
  "plays_summed": {
   "home": 19,
-  "away": 0
+  "away": 5
  },
  "unexplained_gap": {
-  "home": -7,
-  "away": 0
+  "home": 0,
+  "away": -5
  }
 }
