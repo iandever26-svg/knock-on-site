@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tln-sfp",
  "matchId": "top14-2026-11-07-tln-sfp",
- "updated_at": "2026-11-07T16:06:24.858Z",
+ "updated_at": "2026-11-07T16:38:38.025Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604422/competitions/604422/plays?limit=400",
-   "fetched_at": "2026-11-07T16:06:24.858Z",
+   "fetched_at": "2026-11-07T16:38:38.025Z",
    "espn_event_id": "604422",
    "espn_league_id": 270559
   }
@@ -182,15 +182,102 @@
    "playerOn": "Kyle Sinckler",
    "playerOff": "Rabah Slimani",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905524",
+   "minute": 32,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Melvyn Jaminet",
+   "detail": "Penalty (20-10)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 20,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905532",
+   "minute": 34,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Baptiste Serin",
+   "detail": "replaces Mathis Ferte",
+   "playerOn": "Baptiste Serin",
+   "playerOff": "Mathis Ferte",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905534",
+   "minute": 36,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Melvyn Jaminet",
+   "detail": "Penalty (23-10)",
+   "playerName": "Melvyn Jaminet",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 23,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905545",
+   "minute": 41,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Louis Carbonel",
+   "detail": "Penalty (23-13)",
+   "playerName": "Louis Carbonel",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 23,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1905549",
+   "minute": 44,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Louis Carbonel",
+   "detail": "Penalty (23-16)",
+   "playerName": "Louis Carbonel",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 23,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1905550",
+   "minute": 46,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Rayan Rebbadj",
+   "detail": "Try (28-16)",
+   "playerName": "Rayan Rebbadj",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 28,
+    "away": 16
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 17,
-  "away": 10
+  "home": 28,
+  "away": 16
  },
  "plays_summed": {
-  "home": 17,
-  "away": 10
+  "home": 28,
+  "away": 16
  }
 }

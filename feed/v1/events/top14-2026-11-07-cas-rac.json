@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-cas-rac",
  "matchId": "top14-2026-11-07-cas-rac",
- "updated_at": "2026-11-07T16:06:24.858Z",
+ "updated_at": "2026-11-07T16:38:38.025Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604418/competitions/604418/plays?limit=400",
-   "fetched_at": "2026-11-07T16:06:24.858Z",
+   "fetched_at": "2026-11-07T16:38:38.025Z",
    "espn_event_id": "604418",
    "espn_league_id": 270559
   }
@@ -61,7 +61,7 @@
    }
   },
   {
-   "id": "espn-1905515",
+   "id": "espn-1905538",
    "minute": 27,
    "period": "1H",
    "type": "try",
@@ -89,15 +89,84 @@
     "home": 7,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1905543",
+   "minute": 30,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Romain Taofifenua",
+   "detail": "Yellow card (7-10)",
+   "playerName": "Romain Taofifenua",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905546",
+   "minute": 34,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Teddy Durand",
+   "detail": "Try (12-10)",
+   "playerName": "Teddy Durand",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905539",
+   "minute": 35,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Theo Vidal",
+   "detail": "Conversion (14-10)",
+   "playerName": "Theo Vidal",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905547",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jordan Joseph",
+   "detail": "replaces Noam Zebus Delage",
+   "playerOn": "Jordan Joseph",
+   "playerOff": "Noam Zebus Delage",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905551",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jonny Hill",
+   "detail": "replaces Thomas Lainault",
+   "playerOn": "Jonny Hill",
+   "playerOff": "Thomas Lainault",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 10
  },
  "plays_summed": {
-  "home": 7,
+  "home": 14,
   "away": 10
  }
 }
