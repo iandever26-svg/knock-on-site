@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-fra-fij",
  "matchId": "ncup-2026-11-07-fra-fij",
- "updated_at": "2026-11-07T20:35:03.629Z",
+ "updated_at": "2026-11-07T20:40:26.134Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603997/competitions/603997/plays?limit=400",
-   "fetched_at": "2026-11-07T20:35:03.629Z",
+   "fetched_at": "2026-11-07T20:40:26.134Z",
    "espn_event_id": "603997",
    "espn_league_id": 17567
   }
@@ -29,15 +29,67 @@
     "home": 5,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1905998",
+   "minute": 22,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Mesake Vocevoce",
+   "detail": "Yellow card (5-0)",
+   "playerName": "Mesake Vocevoce",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1905996",
+   "minute": 25,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Simione Kuruvoli",
+   "detail": "Penalty (5-3)",
+   "playerName": "Simione Kuruvoli",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 5,
+    "away": 3
+   }
+  },
+  {
+   "id": "inferred-pt-home-1",
+   "minute": 0,
+   "minuteKnown": false,
+   "period": "1H",
+   "type": "penalty_try",
+   "team": "home",
+   "player": null,
+   "inferred": true,
+   "label": "Penalty try",
+   "detail": "Penalty try (inferred, minute unknown) (12-3)",
+   "scoreAfter": {
+    "home": 12,
+    "away": 3
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 5,
-  "away": 0
+  "home": 12,
+  "away": 3
  },
  "plays_summed": {
   "home": 5,
-  "away": 0
- }
+  "away": 3
+ },
+ "inferred_penalty_tries": [
+  {
+   "team": "home",
+   "minute": null
+  }
+ ]
 }
