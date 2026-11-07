@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-ita-rsa",
  "matchId": "ncup-2026-11-07-ita-rsa",
- "updated_at": "2026-11-07T12:45:27.699Z",
+ "updated_at": "2026-11-07T13:15:47.098Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603994/competitions/603994/plays?limit=400",
-   "fetched_at": "2026-11-07T12:45:27.699Z",
+   "fetched_at": "2026-11-07T13:15:47.098Z",
    "espn_event_id": "603994",
    "espn_league_id": 17567
   }
@@ -320,15 +320,314 @@
    "playerOn": "Thomas du Toit",
    "playerOff": "Wilco Louw",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905172",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Gerhard Steenekamp",
+   "detail": "replaces Ox Nche",
+   "playerOn": "Gerhard Steenekamp",
+   "playerOff": "Ox Nche",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905174",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jan-Hendrik Wessels",
+   "detail": "replaces Malcolm Marx",
+   "playerOn": "Jan-Hendrik Wessels",
+   "playerOff": "Malcolm Marx",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905176",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Wilco Louw",
+   "detail": "replaces Thomas du Toit",
+   "playerOn": "Wilco Louw",
+   "playerOff": "Thomas du Toit",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905178",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Franco Mostert",
+   "detail": "replaces Lood de Jager",
+   "playerOn": "Franco Mostert",
+   "playerOff": "Lood de Jager",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905180",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cameron Hanekom",
+   "detail": "replaces Jasper Wiese",
+   "playerOn": "Cameron Hanekom",
+   "playerOff": "Jasper Wiese",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905182",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Paul de Villiers",
+   "detail": "replaces Siya Kolisi",
+   "playerOn": "Paul de Villiers",
+   "playerOff": "Siya Kolisi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905184",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ion Neculai",
+   "detail": "replaces Simone Ferrari",
+   "playerOn": "Ion Neculai",
+   "playerOff": "Simone Ferrari",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905186",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tommaso Di Bartolomeo",
+   "detail": "replaces Giacomo Nicotera",
+   "playerOn": "Tommaso Di Bartolomeo",
+   "playerOff": "Giacomo Nicotera",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905188",
+   "minute": 50,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Wilco Louw",
+   "detail": "Try (0-50)",
+   "playerName": "Wilco Louw",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 50
+   }
+  },
+  {
+   "id": "espn-1905189",
+   "minute": 51,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (0-52)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 52
+   }
+  },
+  {
+   "id": "espn-1905190",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Enoch Opoku-Gyamfi",
+   "detail": "replaces Niccolo Cannone",
+   "playerOn": "Enoch Opoku-Gyamfi",
+   "playerOff": "Niccolo Cannone",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905194",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Grant Williams",
+   "detail": "replaces Morne van den Berg",
+   "playerOn": "Grant Williams",
+   "playerOff": "Morne van den Berg",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905192",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Danilo Fischetti",
+   "detail": "replaces Muhamed Hasa",
+   "playerOn": "Danilo Fischetti",
+   "playerOff": "Muhamed Hasa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905244",
+   "minute": 52,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Federico Ruzza",
+   "detail": "Try (5-52)",
+   "playerName": "Federico Ruzza",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 52
+   }
+  },
+  {
+   "id": "espn-1905242",
+   "minute": 53,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Tommaso Allan",
+   "detail": "Conversion (7-52)",
+   "playerName": "Tommaso Allan",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 52
+   }
+  },
+  {
+   "id": "espn-1905196",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ross Vintcent",
+   "detail": "replaces Lorenzo Cannone",
+   "playerOn": "Ross Vintcent",
+   "playerOff": "Lorenzo Cannone",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905199",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Morne van den Berg",
+   "detail": "replaces Damian de Allende",
+   "playerOn": "Morne van den Berg",
+   "playerOff": "Damian de Allende",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905243",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Damian de Allende",
+   "playerOff": "Damian de Allende",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905210",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Manie Libbok",
+   "detail": "replaces Damian Willemse",
+   "playerOn": "Manie Libbok",
+   "playerOff": "Damian Willemse",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905228",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Siya Kolisi",
+   "detail": "replaces Paul de Villiers",
+   "playerOn": "Siya Kolisi",
+   "playerOff": "Paul de Villiers",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905230",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Manuel Zuliani",
+   "detail": "replaces Samuele Locatelli",
+   "playerOn": "Manuel Zuliani",
+   "playerOff": "Samuele Locatelli",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905232",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Stephen Varney",
+   "detail": "replaces Alessandro Fusco",
+   "playerOn": "Stephen Varney",
+   "playerOff": "Alessandro Fusco",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905234",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tommaso Allan",
+   "detail": "replaces Paolo Garbisi",
+   "playerOn": "Tommaso Allan",
+   "playerOff": "Paolo Garbisi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905236",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Damian Willemse",
+   "detail": "replaces Sacha Feinberg-Mngomezulu",
+   "playerOn": "Damian Willemse",
+   "playerOff": "Sacha Feinberg-Mngomezulu",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
-  "away": 45
+  "home": 7,
+  "away": 52
  },
  "plays_summed": {
-  "home": 0,
-  "away": 45
+  "home": 7,
+  "away": 52
  }
 }
