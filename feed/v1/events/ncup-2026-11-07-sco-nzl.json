@@ -1,0 +1,118 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-07-sco-nzl",
+ "matchId": "ncup-2026-11-07-sco-nzl",
+ "updated_at": "2026-11-07T14:30:19.189Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603995/competitions/603995/plays?limit=400",
+   "fetched_at": "2026-11-07T14:30:19.189Z",
+   "espn_event_id": "603995",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1905281",
+   "minute": 4,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Wallace Sititi",
+   "detail": "Try (0-5)",
+   "playerName": "Wallace Sititi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1905281-cm",
+   "minute": 4,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (0-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1905287",
+   "minute": 8,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Ewan Ashman",
+   "detail": "Try (5-5)",
+   "playerName": "Ewan Ashman",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1905288",
+   "minute": 9,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Finn Russell",
+   "detail": "Conversion (7-5)",
+   "playerName": "Finn Russell",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1905291",
+   "minute": 16,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Ethan de Groot",
+   "detail": "Try (7-10)",
+   "playerName": "Ethan de Groot",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905292",
+   "minute": 17,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Damian McKenzie",
+   "detail": "Conversion (7-12)",
+   "playerName": "Damian McKenzie",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 7,
+  "away": 12
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 12
+ }
+}

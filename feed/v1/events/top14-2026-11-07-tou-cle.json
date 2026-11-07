@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tou-cle",
  "matchId": "top14-2026-11-07-tou-cle",
- "updated_at": "2026-11-07T14:07:11.225Z",
+ "updated_at": "2026-11-07T14:30:19.189Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 19-5, final 19-0; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604423/competitions/604423/plays?limit=400",
-   "fetched_at": "2026-11-07T14:07:11.225Z",
+   "fetched_at": "2026-11-07T14:30:19.189Z",
    "espn_event_id": "604423",
    "espn_league_id": 270559
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "home",
    "player": "Julien Marchand",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Julien Marchand",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905265-cm",
@@ -34,9 +37,13 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (5-0)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905266",
@@ -45,9 +52,13 @@
    "type": "try",
    "team": "home",
    "player": "Teddy Thomas",
-   "detail": "Try",
+   "detail": "Try (10-0)",
    "playerName": "Teddy Thomas",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905268",
@@ -56,9 +67,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Valentin Delpy",
-   "detail": "Conversion",
+   "detail": "Conversion (12-0)",
    "playerName": "Valentin Delpy",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905269",
@@ -67,9 +82,13 @@
    "type": "try",
    "team": "home",
    "player": "Simon Daroque",
-   "detail": "Try",
+   "detail": "Try (17-0)",
    "playerName": "Simon Daroque",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905270",
@@ -78,12 +97,16 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Valentin Delpy",
-   "detail": "Conversion",
+   "detail": "Conversion (19-0)",
    "playerName": "Valentin Delpy",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 0
+   }
   },
   {
-   "id": "espn-1905271",
+   "id": "espn-1905282",
    "minute": 31,
    "period": "1H",
    "type": "substitution",
@@ -95,28 +118,70 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905273",
+   "id": "espn-1905277",
    "minute": 35,
    "period": "1H",
    "type": "try",
    "team": "away",
    "player": "Baptiste Jauneau",
-   "detail": "Try",
+   "detail": "Try (19-5)",
    "playerName": "Baptiste Jauneau",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1905278",
+   "minute": 35,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Harry Plummer",
+   "detail": "Conversion (19-7)",
+   "playerName": "Harry Plummer",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1905289",
+   "minute": 38,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Nohem Ez Zahouany",
+   "detail": "replaces Giorgi Dzmanashvili",
+   "playerOn": "Nohem Ez Zahouany",
+   "playerOff": "Giorgi Dzmanashvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905286",
+   "minute": 42,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Harry Plummer",
+   "detail": "Penalty (19-10)",
+   "playerName": "Harry Plummer",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 19,
+    "away": 10
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 19,
-  "away": 0
+  "away": 10
  },
  "plays_summed": {
   "home": 19,
-  "away": 5
- },
- "unexplained_gap": {
-  "home": 0,
-  "away": -5
+  "away": 10
  }
 }

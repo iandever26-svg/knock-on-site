@@ -26,6 +26,16 @@
       "eventsUpdatedAt": "2026-11-07T13:23:54.462Z"
     },
     {
+      "match_id": "ncup-2026-11-07-sco-nzl",
+      "kickoff": "2026-11-07T14:10:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-11-07T14:30:19.189Z"
+    },
+    {
       "match_id": "top14-2026-11-07-tou-cle",
       "kickoff": "2026-11-07T14:30:00+01:00",
       "score": false,
@@ -33,7 +43,7 @@
       "lineup": false,
       "lineupUpdatedAt": null,
       "events": true,
-      "eventsUpdatedAt": "2026-11-07T14:07:11.225Z"
+      "eventsUpdatedAt": "2026-11-07T14:30:19.189Z"
     },
     {
       "match_id": "urc-2026-09-25-ben-dra",
