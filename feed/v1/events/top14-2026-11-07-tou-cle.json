@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tou-cle",
  "matchId": "top14-2026-11-07-tou-cle",
- "updated_at": "2026-11-07T15:10:18.071Z",
+ "updated_at": "2026-11-07T15:15:43.581Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604423/competitions/604423/plays?limit=400",
-   "fetched_at": "2026-11-07T15:10:18.071Z",
+   "fetched_at": "2026-11-07T15:15:43.581Z",
    "espn_event_id": "604423",
    "espn_league_id": 270559
   }
@@ -397,8 +397,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905374",
-   "minute": 67,
+   "id": "espn-1905390",
+   "minute": 66,
    "period": "2H",
    "type": "penalty_goal_made",
    "team": "home",
@@ -412,8 +412,8 @@
    }
   },
   {
-   "id": "espn-1905375",
-   "minute": 74,
+   "id": "espn-1905391",
+   "minute": 72,
    "period": "2H",
    "type": "penalty_goal_made",
    "team": "home",
@@ -425,6 +425,30 @@
     "home": 28,
     "away": 13
    }
+  },
+  {
+   "id": "espn-1905392",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jeremy Nemor",
+   "detail": "replaces Lucas Vigneres",
+   "playerOn": "Jeremy Nemor",
+   "playerOff": "Lucas Vigneres",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905394",
+   "minute": 78,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Bixintxo Daguerre",
+   "detail": "replaces Nathan Llaveria",
+   "playerOn": "Bixintxo Daguerre",
+   "playerOff": "Nathan Llaveria",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
