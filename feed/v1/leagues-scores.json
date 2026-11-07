@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-07T14:54:03.692Z",
- "updatedAt": "2026-11-07T14:54:03.692Z",
+ "generatedAt": "2026-11-07T14:59:28.891Z",
+ "updatedAt": "2026-11-07T14:59:28.891Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 13,
    "clock": null,
    "period": "2H",
-   "updated_at": "2026-11-07T14:54:03.692Z",
+   "updated_at": "2026-11-07T14:59:28.891Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-07T14:54:03.692Z",
+     "fetched_at": "2026-11-07T14:59:28.891Z",
      "espn_event_id": "604423",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -26,9 +26,9 @@
     }
    ],
    "second_half_seen_at": "2026-11-07T14:48:36.587Z",
-   "latest_event_minute": 61,
+   "latest_event_minute": 66,
    "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-11-07T14:54:03.692Z"
+   "latest_event_seen_at": "2026-11-07T14:59:28.891Z"
   },
   {
    "schema_version": "1.0.0",
@@ -38,12 +38,12 @@
    "away_score": 12,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-07T14:54:03.692Z",
+   "updated_at": "2026-11-07T14:59:28.891Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-07T14:54:03.692Z",
+     "fetched_at": "2026-11-07T14:59:28.891Z",
      "espn_event_id": "603993",
      "may_lag": true
     }
@@ -61,12 +61,12 @@
    "away_score": 66,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-07T14:54:03.692Z",
+   "updated_at": "2026-11-07T14:59:28.891Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-07T14:54:03.692Z",
+     "fetched_at": "2026-11-07T14:59:28.891Z",
      "espn_event_id": "603994",
      "may_lag": true
     }
@@ -79,22 +79,19 @@
   {
    "schema_version": "1.0.0",
    "match_id": "ncup-2026-11-07-sco-nzl",
-   "status": "live",
+   "status": "ht",
    "home_score": 21,
    "away_score": 24,
-   "clock": null,
-   "period": "1H",
-   "updated_at": "2026-11-07T14:54:03.692Z",
+   "clock": "HT",
+   "period": "HT",
+   "updated_at": "2026-11-07T14:59:28.891Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-07T14:54:03.692Z",
+     "fetched_at": "2026-11-07T14:59:28.891Z",
      "espn_event_id": "603995",
-     "may_lag": true,
-     "espn_display_clock": "1'",
-     "espn_clock_seconds": 0,
-     "espn_period": 1
+     "may_lag": true
     }
    ],
    "latest_event_minute": 39,

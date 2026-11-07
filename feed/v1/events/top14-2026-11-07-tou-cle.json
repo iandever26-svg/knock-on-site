@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tou-cle",
  "matchId": "top14-2026-11-07-tou-cle",
- "updated_at": "2026-11-07T14:54:03.692Z",
+ "updated_at": "2026-11-07T14:59:28.891Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604423/competitions/604423/plays?limit=400",
-   "fetched_at": "2026-11-07T14:54:03.692Z",
+   "fetched_at": "2026-11-07T14:59:28.891Z",
    "espn_event_id": "604423",
    "espn_league_id": 270559
   }
@@ -287,7 +287,7 @@
    }
   },
   {
-   "id": "espn-1905318",
+   "id": "espn-1905332",
    "minute": 60,
    "period": "2H",
    "type": "substitution",
@@ -299,7 +299,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905324",
+   "id": "espn-1905338",
    "minute": 61,
    "period": "2H",
    "type": "substitution",
@@ -308,6 +308,33 @@
    "detail": "replaces Paul Mallez",
    "playerOn": "Georges-Henri Colombe",
    "playerOff": "Paul Mallez",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905340",
+   "minute": 62,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Nohem Ez Zahouany",
+   "detail": "Yellow card (22-13)",
+   "playerName": "Nohem Ez Zahouany",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 22,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1905341",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mathis Castro-Ferreira",
+   "detail": "replaces Romeo Bonnard Martin",
+   "playerOn": "Mathis Castro-Ferreira",
+   "playerOff": "Romeo Bonnard Martin",
    "label": "Substitution"
   }
  ],
