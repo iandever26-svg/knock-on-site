@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-wal-jpn",
  "matchId": "ncup-2026-11-07-wal-jpn",
- "updated_at": "2026-11-07T17:48:59.043Z",
+ "updated_at": "2026-11-07T18:02:33.673Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603996/competitions/603996/plays?limit=400",
-   "fetched_at": "2026-11-07T17:48:59.043Z",
+   "fetched_at": "2026-11-07T18:02:33.673Z",
    "espn_event_id": "603996",
    "espn_league_id": 17567
   }
@@ -176,6 +176,114 @@
     "home": 21,
     "away": 14
    }
+  },
+  {
+   "id": "espn-1905892",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Rhys Carre",
+   "detail": "replaces Nicky Smith",
+   "playerOn": "Rhys Carre",
+   "playerOff": "Nicky Smith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905894",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ryan Elias",
+   "detail": "replaces Dewi Lake",
+   "playerOn": "Ryan Elias",
+   "playerOff": "Dewi Lake",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905901",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tomas Francis",
+   "detail": "replaces Archie Griffin",
+   "playerOn": "Tomas Francis",
+   "playerOff": "Archie Griffin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905903",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kenta Fukuda",
+   "detail": "replaces Naoto Saito",
+   "playerOn": "Kenta Fukuda",
+   "playerOff": "Naoto Saito",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905913",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sojiro Otsuka",
+   "detail": "replaces Yota Kamimori",
+   "playerOn": "Sojiro Otsuka",
+   "playerOff": "Yota Kamimori",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905915",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kenji Sato",
+   "detail": "replaces Mamoru Harada",
+   "playerOn": "Kenji Sato",
+   "playerOff": "Mamoru Harada",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905917",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Opeti Helu",
+   "detail": "replaces Shuhei Takeuchi",
+   "playerOn": "Opeti Helu",
+   "playerOff": "Shuhei Takeuchi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905911",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tiennan Costley",
+   "detail": "replaces Ben Gunter",
+   "playerOn": "Tiennan Costley",
+   "playerOff": "Ben Gunter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905919",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Teddy Williams",
+   "detail": "replaces Ben Carter",
+   "playerOn": "Teddy Williams",
+   "playerOff": "Ben Carter",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
