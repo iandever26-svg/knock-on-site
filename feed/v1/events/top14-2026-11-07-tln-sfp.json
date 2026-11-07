@@ -1,0 +1,55 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "top14-2026-11-07-tln-sfp",
+ "matchId": "top14-2026-11-07-tln-sfp",
+ "updated_at": "2026-11-07T15:42:38.866Z",
+ "final": false,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 7-0, final 5-0; running scores omitted.",
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604422/competitions/604422/plays?limit=400",
+   "fetched_at": "2026-11-07T15:42:38.866Z",
+   "espn_event_id": "604422",
+   "espn_league_id": 270559
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1905474",
+   "minute": 7,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Leo Ametlla",
+   "detail": "Try",
+   "playerName": "Leo Ametlla",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1905475",
+   "minute": 7,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Melvyn Jaminet",
+   "detail": "Conversion",
+   "playerName": "Melvyn Jaminet",
+   "label": "Conversion"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 5,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 0
+ },
+ "unexplained_gap": {
+  "home": -2,
+  "away": 0
+ }
+}

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-sco-nzl",
  "matchId": "ncup-2026-11-07-sco-nzl",
- "updated_at": "2026-11-07T15:37:14.923Z",
+ "updated_at": "2026-11-07T15:42:38.866Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603995/competitions/603995/plays?limit=400",
-   "fetched_at": "2026-11-07T15:37:14.923Z",
+   "fetched_at": "2026-11-07T15:42:38.866Z",
    "espn_event_id": "603995",
    "espn_league_id": 17567
   }
@@ -424,6 +424,54 @@
    "detail": "replaces Cam Roigard",
    "playerOn": "Cortez Ratima",
    "playerOff": "Cam Roigard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905466",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom Jordan",
+   "detail": "replaces Finn Russell",
+   "playerOn": "Tom Jordan",
+   "playerOff": "Finn Russell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905468",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "George Horne",
+   "detail": "replaces Ben White",
+   "playerOn": "George Horne",
+   "playerOff": "Ben White",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905470",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Josh Bayliss",
+   "detail": "replaces Matt Fagerson",
+   "playerOn": "Josh Bayliss",
+   "playerOff": "Matt Fagerson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905464",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Pasilio Tosi",
+   "detail": "replaces Fletcher Newell",
+   "playerOn": "Pasilio Tosi",
+   "playerOff": "Fletcher Newell",
    "label": "Substitution"
   }
  ],
