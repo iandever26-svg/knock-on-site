@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tln-sfp",
  "matchId": "top14-2026-11-07-tln-sfp",
- "updated_at": "2026-11-07T17:15:03.255Z",
- "final": false,
+ "updated_at": "2026-11-07T17:38:18.361Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604422/competitions/604422/plays?limit=400",
-   "fetched_at": "2026-11-07T17:15:03.255Z",
+   "fetched_at": "2026-11-07T17:38:18.361Z",
    "espn_event_id": "604422",
    "espn_league_id": 270559
   }
@@ -552,30 +552,15 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905776",
-   "minute": 67,
-   "period": "2H",
-   "type": "yellow_card",
-   "team": "away",
-   "player": "Jack Iscaro",
-   "detail": "Yellow card (38-18)",
-   "playerName": "Jack Iscaro",
-   "label": "Yellow card",
-   "scoreAfter": {
-    "home": 38,
-    "away": 18
-   }
-  },
-  {
-   "id": "espn-1905777",
+   "id": "espn-1905786",
    "minute": 67,
    "period": "2H",
    "type": "substitution",
-   "team": "away",
-   "player": "Ryan Chapuis",
-   "detail": "replaces Fabrice Metz",
-   "playerOn": "Ryan Chapuis",
-   "playerOff": "Fabrice Metz",
+   "team": "home",
+   "player": "Mathis Ferte",
+   "detail": "replaces Gael Drean",
+   "playerOn": "Mathis Ferte",
+   "playerOff": "Gael Drean",
    "label": "Substitution"
   },
   {
@@ -592,15 +577,108 @@
     "home": 38,
     "away": 23
    }
+  },
+  {
+   "id": "espn-1905836",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ryan Chapuis",
+   "detail": "replaces Fabrice Metz",
+   "playerOn": "Ryan Chapuis",
+   "playerOff": "Fabrice Metz",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905822",
+   "minute": 73,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Jack Iscaro",
+   "detail": "Yellow card (38-23)",
+   "playerName": "Jack Iscaro",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 38,
+    "away": 23
+   }
+  },
+  {
+   "id": "espn-1905852",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Paul Alo-Emile",
+   "detail": "replaces Louis Carbonel",
+   "playerOn": "Paul Alo-Emile",
+   "playerOff": "Louis Carbonel",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905882",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jeremy Sinzelle",
+   "detail": "replaces Oliver Cowie",
+   "playerOn": "Jeremy Sinzelle",
+   "playerOff": "Oliver Cowie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905854",
+   "minute": 76,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Rayan Rebbadj",
+   "detail": "Try (43-23)",
+   "playerName": "Rayan Rebbadj",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 43,
+    "away": 23
+   }
+  },
+  {
+   "id": "espn-1905854-cm",
+   "minute": 76,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (43-23)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 43,
+    "away": 23
+   }
+  },
+  {
+   "id": "espn-1905866",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Setariki Tuicuvu",
+   "detail": "replaces Rayan Rebbadj",
+   "playerOn": "Setariki Tuicuvu",
+   "playerOff": "Rayan Rebbadj",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 38,
+  "home": 43,
   "away": 23
  },
  "plays_summed": {
-  "home": 38,
+  "home": 43,
   "away": 23
  }
 }

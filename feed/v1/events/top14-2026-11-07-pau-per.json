@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-pau-per",
  "matchId": "top14-2026-11-07-pau-per",
- "updated_at": "2026-11-07T17:15:03.255Z",
- "final": false,
+ "updated_at": "2026-11-07T17:38:18.361Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604421/competitions/604421/plays?limit=400",
-   "fetched_at": "2026-11-07T17:15:03.255Z",
+   "fetched_at": "2026-11-07T17:38:18.361Z",
    "espn_event_id": "604421",
    "espn_league_id": 270559
   }
@@ -503,15 +503,165 @@
    "playerOn": "Mickael Capelli",
    "playerOff": "Baptiste Pesenti",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905779",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mathieu Tanguy",
+   "detail": "replaces Lucas Velarte",
+   "playerOn": "Mathieu Tanguy",
+   "playerOff": "Lucas Velarte",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905792",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Martin Durand",
+   "detail": "replaces Diego Mascarenc",
+   "playerOn": "Martin Durand",
+   "playerOff": "Diego Mascarenc",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905827",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lucas Velarte",
+   "detail": "replaces Matteo Le Corvec",
+   "playerOn": "Lucas Velarte",
+   "playerOff": "Matteo Le Corvec",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905835",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thomas Souverbie",
+   "detail": "replaces Tumua Manu",
+   "playerOn": "Thomas Souverbie",
+   "playerOff": "Tumua Manu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905847",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Yon Caperaa",
+   "detail": "replaces Thibault Daubagna",
+   "playerOn": "Yon Caperaa",
+   "playerOff": "Thibault Daubagna",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905868",
+   "minute": 75,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Joseph Adam",
+   "detail": "Try (61-12)",
+   "playerName": "Joseph Adam",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 61,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905869",
+   "minute": 76,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Joe Simmonds",
+   "detail": "Conversion (63-12)",
+   "playerName": "Joe Simmonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 63,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905871",
+   "minute": 78,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Posolo Tuilagi",
+   "detail": "Try (63-17)",
+   "playerName": "Posolo Tuilagi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 63,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905872",
+   "minute": 79,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Aucagne",
+   "detail": "Conversion (63-19)",
+   "playerName": "Antoine Aucagne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 63,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1905886",
+   "minute": 82,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Martin Durand",
+   "detail": "Try (63-24)",
+   "playerName": "Martin Durand",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 63,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1905887",
+   "minute": 82,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Aucagne",
+   "detail": "Conversion (63-26)",
+   "playerName": "Antoine Aucagne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 63,
+    "away": 26
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 56,
-  "away": 12
+  "home": 63,
+  "away": 26
  },
  "plays_summed": {
-  "home": 56,
-  "away": 12
+  "home": 63,
+  "away": 26
  }
 }

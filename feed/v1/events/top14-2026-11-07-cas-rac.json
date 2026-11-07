@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-cas-rac",
  "matchId": "top14-2026-11-07-cas-rac",
- "updated_at": "2026-11-07T17:15:03.255Z",
- "final": false,
+ "updated_at": "2026-11-07T17:38:18.361Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604418/competitions/604418/plays?limit=400",
-   "fetched_at": "2026-11-07T17:15:03.255Z",
+   "fetched_at": "2026-11-07T17:38:18.361Z",
    "espn_event_id": "604418",
    "espn_league_id": 270559
   }
@@ -304,7 +304,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905689",
+   "id": "espn-1905788",
    "minute": 61,
    "period": "2H",
    "type": "try",
@@ -373,7 +373,7 @@
    }
   },
   {
-   "id": "espn-1905738",
+   "id": "espn-1905816",
    "minute": 65,
    "period": "2H",
    "type": "conversion_made",
@@ -403,6 +403,18 @@
    }
   },
   {
+   "id": "espn-1905873",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Guillaume Ducat",
+   "detail": "replaces Gauthier Maravat",
+   "playerOn": "Guillaume Ducat",
+   "playerOff": "Gauthier Maravat",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1905762",
    "minute": 68,
    "period": "2H",
@@ -416,15 +428,111 @@
     "home": 21,
     "away": 27
    }
+  },
+  {
+   "id": "espn-1905849",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Collier",
+   "detail": "replaces Mate Gurtskaia",
+   "playerOn": "Will Collier",
+   "playerOff": "Mate Gurtskaia",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905878",
+   "minute": 71,
+   "period": "2H",
+   "type": "red_card",
+   "team": "away",
+   "player": "Shingi Manyarara",
+   "detail": "Red card (21-27)",
+   "playerName": "Shingi Manyarara",
+   "label": "Red card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1905890",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mathieu Babillot",
+   "detail": "replaces Baptiste Delaporte",
+   "playerOn": "Mathieu Babillot",
+   "playerOff": "Baptiste Delaporte",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905845",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Gaston Lagneau",
+   "detail": "replaces Maxime Baudonne",
+   "playerOn": "Gaston Lagneau",
+   "playerOff": "Maxime Baudonne",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905814",
+   "minute": 73,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Loris Zarantonello",
+   "detail": "Try (26-27)",
+   "playerName": "Loris Zarantonello",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1905815",
+   "minute": 74,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Theo Vidal",
+   "detail": "Conversion (28-27)",
+   "playerName": "Theo Vidal",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1905881",
+   "minute": 82,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Ugo Seunes",
+   "detail": "Penalty (28-30)",
+   "playerName": "Ugo Seunes",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 28,
+    "away": 30
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
-  "away": 27
+  "home": 28,
+  "away": 30
  },
  "plays_summed": {
-  "home": 21,
-  "away": 27
+  "home": 28,
+  "away": 30
  }
 }

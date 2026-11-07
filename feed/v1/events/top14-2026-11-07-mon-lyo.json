@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-mon-lyo",
  "matchId": "top14-2026-11-07-mon-lyo",
- "updated_at": "2026-11-07T17:15:03.255Z",
- "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 19-19, final 14-19; running scores omitted.",
+ "updated_at": "2026-11-07T17:38:18.361Z",
+ "final": true,
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604420/competitions/604420/plays?limit=400",
-   "fetched_at": "2026-11-07T17:15:03.255Z",
+   "fetched_at": "2026-11-07T17:38:18.361Z",
    "espn_event_id": "604420",
    "espn_league_id": 270559
   }
@@ -35,9 +34,13 @@
    "type": "try",
    "team": "home",
    "player": "Christopher Tolofua",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Christopher Tolofua",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905519",
@@ -46,9 +49,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Adam Hastings",
-   "detail": "Conversion",
+   "detail": "Conversion (7-0)",
    "playerName": "Adam Hastings",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905542",
@@ -57,9 +64,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Paddy Jackson",
-   "detail": "Penalty",
+   "detail": "Penalty (7-3)",
    "playerName": "Paddy Jackson",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 7,
+    "away": 3
+   }
   },
   {
    "id": "espn-1905553",
@@ -68,9 +79,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Paddy Jackson",
-   "detail": "Penalty",
+   "detail": "Penalty (7-6)",
    "playerName": "Paddy Jackson",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 7,
+    "away": 6
+   }
   },
   {
    "id": "espn-1905587",
@@ -79,9 +94,13 @@
    "type": "yellow_card",
    "team": "home",
    "player": "Lennox Anyanwu",
-   "detail": "Yellow card",
+   "detail": "Yellow card (7-6)",
    "playerName": "Lennox Anyanwu",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 6
+   }
   },
   {
    "id": "espn-1905596",
@@ -90,9 +109,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Paddy Jackson",
-   "detail": "Penalty",
+   "detail": "Penalty (7-9)",
    "playerName": "Paddy Jackson",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 7,
+    "away": 9
+   }
   },
   {
    "id": "espn-1905608",
@@ -113,9 +136,13 @@
    "type": "try",
    "team": "away",
    "player": "Josiah Maraku",
-   "detail": "Try",
+   "detail": "Try (7-14)",
    "playerName": "Josiah Maraku",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 14
+   }
   },
   {
    "id": "espn-1905626",
@@ -124,9 +151,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Paddy Jackson",
-   "detail": "Conversion",
+   "detail": "Conversion (7-16)",
    "playerName": "Paddy Jackson",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 16
+   }
   },
   {
    "id": "espn-1905630",
@@ -183,9 +214,13 @@
    "type": "try",
    "team": "home",
    "player": "Tom Banks",
-   "detail": "Try",
+   "detail": "Try (12-16)",
    "playerName": "Tom Banks",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 16
+   }
   },
   {
    "id": "espn-1905644",
@@ -194,9 +229,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Adam Hastings",
-   "detail": "Conversion",
+   "detail": "Conversion (14-16)",
    "playerName": "Adam Hastings",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 16
+   }
   },
   {
    "id": "espn-1905693",
@@ -253,9 +292,13 @@
    "type": "yellow_card",
    "team": "home",
    "player": "Tyler Duguid",
-   "detail": "Yellow card",
+   "detail": "Yellow card (14-16)",
    "playerName": "Tyler Duguid",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 14,
+    "away": 16
+   }
   },
   {
    "id": "espn-1905721",
@@ -264,9 +307,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Paddy Jackson",
-   "detail": "Penalty",
+   "detail": "Penalty (14-19)",
    "playerName": "Paddy Jackson",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 14,
+    "away": 19
+   }
   },
   {
    "id": "espn-1905775",
@@ -275,22 +322,85 @@
    "type": "try",
    "team": "home",
    "player": "Christopher Tolofua",
-   "detail": "Try",
+   "detail": "Try (19-19)",
    "playerName": "Christopher Tolofua",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1905781",
+   "minute": 73,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Adam Hastings",
+   "detail": "Conversion (21-19)",
+   "playerName": "Adam Hastings",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1905790",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Leo Berdeu",
+   "detail": "replaces Paddy Jackson",
+   "playerOn": "Leo Berdeu",
+   "playerOff": "Paddy Jackson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905801",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lyam Akrab",
+   "detail": "replaces Christopher Tolofua",
+   "playerOn": "Lyam Akrab",
+   "playerOff": "Christopher Tolofua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905832",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Adrien Seguret",
+   "detail": "replaces Theo Millet",
+   "playerOn": "Adrien Seguret",
+   "playerOff": "Theo Millet",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905795",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Marvin Okuya",
+   "detail": "replaces Janse Roux",
+   "playerOn": "Marvin Okuya",
+   "playerOff": "Janse Roux",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
+  "home": 21,
   "away": 19
  },
  "plays_summed": {
-  "home": 19,
+  "home": 21,
   "away": 19
- },
- "unexplained_gap": {
-  "home": -5,
-  "away": 0
  }
 }
