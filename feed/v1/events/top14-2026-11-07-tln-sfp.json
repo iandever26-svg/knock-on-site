@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tln-sfp",
  "matchId": "top14-2026-11-07-tln-sfp",
- "updated_at": "2026-11-07T16:00:58.823Z",
+ "updated_at": "2026-11-07T16:06:24.858Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 17-10, final 17-7; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604422/competitions/604422/plays?limit=400",
-   "fetched_at": "2026-11-07T16:00:58.823Z",
+   "fetched_at": "2026-11-07T16:06:24.858Z",
    "espn_event_id": "604422",
    "espn_league_id": 270559
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "home",
    "player": "Leo Ametlla",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Leo Ametlla",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905475",
@@ -34,9 +37,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Conversion",
+   "detail": "Conversion (7-0)",
    "playerName": "Melvyn Jaminet",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905482",
@@ -45,9 +52,13 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Penalty",
+   "detail": "Penalty (10-0)",
    "playerName": "Melvyn Jaminet",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 10,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905494",
@@ -68,9 +79,13 @@
    "type": "try",
    "team": "away",
    "player": "Tanginoa Halaifonua",
-   "detail": "Try",
+   "detail": "Try (10-5)",
    "playerName": "Tanginoa Halaifonua",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 5
+   }
   },
   {
    "id": "espn-1905497",
@@ -79,9 +94,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Louis Carbonel",
-   "detail": "Conversion",
+   "detail": "Conversion (10-7)",
    "playerName": "Louis Carbonel",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 7
+   }
   },
   {
    "id": "espn-1905492",
@@ -90,9 +109,13 @@
    "type": "try",
    "team": "home",
    "player": "Rayan Rebbadj",
-   "detail": "Try",
+   "detail": "Try (15-7)",
    "playerName": "Rayan Rebbadj",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 7
+   }
   },
   {
    "id": "espn-1905493",
@@ -101,9 +124,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Melvyn Jaminet",
-   "detail": "Conversion",
+   "detail": "Conversion (17-7)",
    "playerName": "Melvyn Jaminet",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 7
+   }
   },
   {
    "id": "espn-1905502",
@@ -136,22 +163,34 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Louis Carbonel",
-   "detail": "Penalty",
+   "detail": "Penalty (17-10)",
    "playerName": "Louis Carbonel",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 17,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905511",
+   "minute": 27,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Kyle Sinckler",
+   "detail": "replaces Rabah Slimani",
+   "playerOn": "Kyle Sinckler",
+   "playerOff": "Rabah Slimani",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 17,
-  "away": 7
+  "away": 10
  },
  "plays_summed": {
   "home": 17,
   "away": 10
- },
- "unexplained_gap": {
-  "home": 0,
-  "away": -3
  }
 }
