@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-sco-nzl",
  "matchId": "ncup-2026-11-07-sco-nzl",
- "updated_at": "2026-11-07T15:31:53.179Z",
+ "updated_at": "2026-11-07T15:37:14.923Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603995/competitions/603995/plays?limit=400",
-   "fetched_at": "2026-11-07T15:31:53.179Z",
+   "fetched_at": "2026-11-07T15:37:14.923Z",
    "espn_event_id": "603995",
    "espn_league_id": 17567
   }
@@ -412,6 +412,18 @@
    "detail": "replaces Wallace Sititi",
    "playerOn": "Anton Segner",
    "playerOff": "Wallace Sititi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905456",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cortez Ratima",
+   "detail": "replaces Cam Roigard",
+   "playerOn": "Cortez Ratima",
+   "playerOff": "Cam Roigard",
    "label": "Substitution"
   }
  ],
