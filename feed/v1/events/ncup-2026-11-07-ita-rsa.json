@@ -1,0 +1,286 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-07-ita-rsa",
+ "matchId": "ncup-2026-11-07-ita-rsa",
+ "updated_at": "2026-11-07T12:18:19.272Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603994/competitions/603994/plays?limit=400",
+   "fetched_at": "2026-11-07T12:18:19.272Z",
+   "espn_event_id": "603994",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1905137",
+   "minute": 6,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Penalty (0-3)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1905139",
+   "minute": 7,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ross Vintcent",
+   "detail": "replaces Alessandro Ortombina",
+   "playerOn": "Ross Vintcent",
+   "playerOff": "Alessandro Ortombina",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905138",
+   "minute": 8,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Try (0-8)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 8
+   }
+  },
+  {
+   "id": "espn-1905141",
+   "minute": 9,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (0-10)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905142",
+   "minute": 16,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Morne van den Berg",
+   "detail": "Try (0-15)",
+   "playerName": "Morne van den Berg",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1905143",
+   "minute": 16,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (0-17)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1905144",
+   "minute": 20,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Malcolm Marx",
+   "detail": "Try (0-22)",
+   "playerName": "Malcolm Marx",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1905145",
+   "minute": 20,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (0-24)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1905146",
+   "minute": 21,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alessandro Ortombina",
+   "detail": "replaces Ross Vintcent",
+   "playerOn": "Alessandro Ortombina",
+   "playerOff": "Ross Vintcent",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905148",
+   "minute": 22,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tommaso Allan",
+   "detail": "replaces Monty Ioane",
+   "playerOn": "Tommaso Allan",
+   "playerOff": "Monty Ioane",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905150",
+   "minute": 23,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Siya Kolisi",
+   "detail": "Try (0-29)",
+   "playerName": "Siya Kolisi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 29
+   }
+  },
+  {
+   "id": "espn-1905151",
+   "minute": 23,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (0-31)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 31
+   }
+  },
+  {
+   "id": "espn-1905152",
+   "minute": 25,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Damian Willemse",
+   "detail": "Try (0-36)",
+   "playerName": "Damian Willemse",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 36
+   }
+  },
+  {
+   "id": "espn-1905153",
+   "minute": 26,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (0-38)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 38
+   }
+  },
+  {
+   "id": "espn-1905156",
+   "minute": 30,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Muhamed Hasa",
+   "detail": "Yellow card (0-38)",
+   "playerName": "Muhamed Hasa",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 0,
+    "away": 38
+   }
+  },
+  {
+   "id": "espn-1905155",
+   "minute": 32,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Malcolm Marx",
+   "detail": "Try (0-43)",
+   "playerName": "Malcolm Marx",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 43
+   }
+  },
+  {
+   "id": "espn-1905157",
+   "minute": 33,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (0-45)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 45
+   }
+  },
+  {
+   "id": "espn-1905158",
+   "minute": 34,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Monty Ioane",
+   "detail": "replaces Tommaso Allan",
+   "playerOn": "Monty Ioane",
+   "playerOff": "Tommaso Allan",
+   "label": "Substitution"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 0,
+  "away": 45
+ },
+ "plays_summed": {
+  "home": 0,
+  "away": 45
+ }
+}
