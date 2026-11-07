@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tou-cle",
  "matchId": "top14-2026-11-07-tou-cle",
- "updated_at": "2026-11-07T14:59:28.891Z",
+ "updated_at": "2026-11-07T15:04:52.407Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604423/competitions/604423/plays?limit=400",
-   "fetched_at": "2026-11-07T14:59:28.891Z",
+   "fetched_at": "2026-11-07T15:04:52.407Z",
    "espn_event_id": "604423",
    "espn_league_id": 270559
   }
@@ -299,7 +299,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905338",
+   "id": "espn-1905346",
    "minute": 61,
    "period": "2H",
    "type": "substitution",
@@ -311,8 +311,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1905340",
-   "minute": 62,
+   "id": "espn-1905348",
+   "minute": 61,
    "period": "2H",
    "type": "yellow_card",
    "team": "away",
@@ -326,8 +326,59 @@
    }
   },
   {
-   "id": "espn-1905341",
-   "minute": 66,
+   "id": "espn-1905355",
+   "minute": 62,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Valentin Delpy",
+   "detail": "Penalty (25-13)",
+   "playerName": "Valentin Delpy",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 25,
+    "away": 13
+   }
+  },
+  {
+   "id": "espn-1905358",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lucas Zamora",
+   "detail": "replaces Baptiste Jauneau",
+   "playerOn": "Lucas Zamora",
+   "playerOff": "Baptiste Jauneau",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905361",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Thomas Ceyte",
+   "detail": "replaces Leo Michaux",
+   "playerOn": "Thomas Ceyte",
+   "playerOff": "Leo Michaux",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905363",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Yanis Brosset",
+   "detail": "replaces Mathys Belaubre",
+   "playerOn": "Yanis Brosset",
+   "playerOff": "Mathys Belaubre",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905365",
+   "minute": 62,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -340,11 +391,11 @@
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 22,
+  "home": 25,
   "away": 13
  },
  "plays_summed": {
-  "home": 22,
+  "home": 25,
   "away": 13
  }
 }
