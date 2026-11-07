@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-wal-jpn",
  "matchId": "ncup-2026-11-07-wal-jpn",
- "updated_at": "2026-11-07T17:38:18.361Z",
+ "updated_at": "2026-11-07T17:48:59.043Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603996/competitions/603996/plays?limit=400",
-   "fetched_at": "2026-11-07T17:38:18.361Z",
+   "fetched_at": "2026-11-07T17:48:59.043Z",
    "espn_event_id": "603996",
    "espn_league_id": 17567
   }
