@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-pau-per",
  "matchId": "top14-2026-11-07-pau-per",
- "updated_at": "2026-11-07T16:38:38.025Z",
+ "updated_at": "2026-11-07T16:44:04.916Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604421/competitions/604421/plays?limit=400",
-   "fetched_at": "2026-11-07T16:38:38.025Z",
+   "fetched_at": "2026-11-07T16:44:04.916Z",
    "espn_event_id": "604421",
    "espn_league_id": 270559
   }
@@ -224,15 +224,84 @@
     "home": 42,
     "away": 5
    }
+  },
+  {
+   "id": "espn-1905544-cm",
+   "minute": 37,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (42-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 42,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1905554",
+   "minute": 41,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Theo Forner",
+   "detail": "Try (42-10)",
+   "playerName": "Theo Forner",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 42,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1905555",
+   "minute": 42,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Aucagne",
+   "detail": "Conversion (42-12)",
+   "playerName": "Antoine Aucagne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 42,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1905567",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Hugo Parrou",
+   "detail": "replaces Lekso Kaulashvili",
+   "playerOn": "Hugo Parrou",
+   "playerOff": "Lekso Kaulashvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905569",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Hugo Auradou",
+   "detail": "replaces Thomas Jolmes",
+   "playerOn": "Hugo Auradou",
+   "playerOff": "Thomas Jolmes",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 42,
-  "away": 5
+  "away": 12
  },
  "plays_summed": {
   "home": 42,
-  "away": 5
+  "away": 12
  }
 }

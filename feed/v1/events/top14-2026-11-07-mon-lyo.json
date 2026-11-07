@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-mon-lyo",
  "matchId": "top14-2026-11-07-mon-lyo",
- "updated_at": "2026-11-07T16:38:38.025Z",
+ "updated_at": "2026-11-07T16:44:04.916Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604420/competitions/604420/plays?limit=400",
-   "fetched_at": "2026-11-07T16:38:38.025Z",
+   "fetched_at": "2026-11-07T16:44:04.916Z",
    "espn_event_id": "604420",
    "espn_league_id": 270559
   }
@@ -71,15 +71,30 @@
     "home": 7,
     "away": 3
    }
+  },
+  {
+   "id": "espn-1905553",
+   "minute": 45,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Paddy Jackson",
+   "detail": "Penalty (7-6)",
+   "playerName": "Paddy Jackson",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 7,
+    "away": 6
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 3
+  "away": 6
  },
  "plays_summed": {
   "home": 7,
-  "away": 3
+  "away": 6
  }
 }

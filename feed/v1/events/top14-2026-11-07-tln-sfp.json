@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tln-sfp",
  "matchId": "top14-2026-11-07-tln-sfp",
- "updated_at": "2026-11-07T16:38:38.025Z",
+ "updated_at": "2026-11-07T16:44:04.916Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604422/competitions/604422/plays?limit=400",
-   "fetched_at": "2026-11-07T16:38:38.025Z",
+   "fetched_at": "2026-11-07T16:44:04.916Z",
    "espn_event_id": "604422",
    "espn_league_id": 270559
   }
@@ -269,6 +269,80 @@
     "home": 28,
     "away": 16
    }
+  },
+  {
+   "id": "espn-1905550-cm",
+   "minute": 46,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (28-16)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 28,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1905563",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Junior Kpoku",
+   "detail": "replaces Zach Mercer",
+   "playerOn": "Junior Kpoku",
+   "playerOff": "Zach Mercer",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905564",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": null,
+   "detail": "replaces Zach Mercer",
+   "playerOff": "Zach Mercer",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905558",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Leo Barre",
+   "detail": "replaces Leo Monin",
+   "playerOn": "Leo Barre",
+   "playerOff": "Leo Monin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905556",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jack Iscaro",
+   "detail": "replaces Thomas Bue",
+   "playerOn": "Jack Iscaro",
+   "playerOff": "Thomas Bue",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905565",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tani Vili",
+   "detail": "replaces Julien Delbouis",
+   "playerOn": "Tani Vili",
+   "playerOff": "Julien Delbouis",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

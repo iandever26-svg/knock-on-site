@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-cas-rac",
  "matchId": "top14-2026-11-07-cas-rac",
- "updated_at": "2026-11-07T16:38:38.025Z",
+ "updated_at": "2026-11-07T16:44:04.916Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604418/competitions/604418/plays?limit=400",
-   "fetched_at": "2026-11-07T16:38:38.025Z",
+   "fetched_at": "2026-11-07T16:44:04.916Z",
    "espn_event_id": "604418",
    "espn_league_id": 270559
   }
@@ -158,6 +158,21 @@
    "playerOn": "Jonny Hill",
    "playerOff": "Thomas Lainault",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905561",
+   "minute": 45,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Remy Baget",
+   "detail": "Yellow card (14-10)",
+   "playerName": "Remy Baget",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 14,
+    "away": 10
+   }
   }
  ],
  "score_source": "espn_scoreboard",

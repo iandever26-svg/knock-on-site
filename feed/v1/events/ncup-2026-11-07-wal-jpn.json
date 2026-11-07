@@ -1,0 +1,44 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-07-wal-jpn",
+ "matchId": "ncup-2026-11-07-wal-jpn",
+ "updated_at": "2026-11-07T16:44:04.916Z",
+ "final": false,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 5-0, final 0-0; running scores omitted.",
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603996/competitions/603996/plays?limit=400",
+   "fetched_at": "2026-11-07T16:44:04.916Z",
+   "espn_event_id": "603996",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1905571",
+   "minute": 4,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Archie Griffin",
+   "detail": "Try",
+   "playerName": "Archie Griffin",
+   "label": "Try"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 0,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 5,
+  "away": 0
+ },
+ "unexplained_gap": {
+  "home": -5,
+  "away": 0
+ }
+}
