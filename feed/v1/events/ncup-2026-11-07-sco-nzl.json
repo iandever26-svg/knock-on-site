@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-sco-nzl",
  "matchId": "ncup-2026-11-07-sco-nzl",
- "updated_at": "2026-11-07T15:21:05.229Z",
+ "updated_at": "2026-11-07T15:26:29.750Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603995/competitions/603995/plays?limit=400",
-   "fetched_at": "2026-11-07T15:21:05.229Z",
+   "fetched_at": "2026-11-07T15:26:29.750Z",
    "espn_event_id": "603995",
    "espn_league_id": 17567
   }
@@ -308,15 +308,96 @@
    "playerOn": "George Bower",
    "playerOff": "Ethan de Groot",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1905426",
+   "minute": 51,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Sione Tuipulotu",
+   "detail": "Yellow card (21-29)",
+   "playerName": "Sione Tuipulotu",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 29
+   }
+  },
+  {
+   "id": "espn-1905427",
+   "minute": 51,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Beauden Barrett",
+   "detail": "Try (21-34)",
+   "playerName": "Beauden Barrett",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 34
+   }
+  },
+  {
+   "id": "espn-1905428",
+   "minute": 52,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Damian McKenzie",
+   "detail": "Conversion (21-36)",
+   "playerName": "Damian McKenzie",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 36
+   }
+  },
+  {
+   "id": "espn-1905429",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Max Williamson",
+   "detail": "replaces Jack Dempsey",
+   "playerOn": "Max Williamson",
+   "playerOff": "Jack Dempsey",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905434",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Blair Kinghorn",
+   "detail": "replaces Kyle Rowe",
+   "playerOn": "Blair Kinghorn",
+   "playerOff": "Kyle Rowe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905436",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Rieko Ioane",
+   "detail": "replaces Will Jordan",
+   "playerOn": "Rieko Ioane",
+   "playerOff": "Will Jordan",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 29
+  "away": 36
  },
  "plays_summed": {
   "home": 21,
-  "away": 29
+  "away": 36
  }
 }
