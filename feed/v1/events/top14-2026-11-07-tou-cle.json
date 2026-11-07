@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-tou-cle",
  "matchId": "top14-2026-11-07-tou-cle",
- "updated_at": "2026-11-07T14:48:36.587Z",
+ "updated_at": "2026-11-07T14:54:03.692Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604423/competitions/604423/plays?limit=400",
-   "fetched_at": "2026-11-07T14:48:36.587Z",
+   "fetched_at": "2026-11-07T14:54:03.692Z",
    "espn_event_id": "604423",
    "espn_league_id": 270559
   }
@@ -237,6 +237,41 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1905316",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Antoine Chalus-Cercy",
+   "detail": "replaces Rob Leota",
+   "playerOn": "Antoine Chalus-Cercy",
+   "playerOff": "Rob Leota",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905323",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Justin Bouraux",
+   "detail": "replaces Rob Leota",
+   "playerOn": "Justin Bouraux",
+   "playerOff": "Rob Leota",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905320",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Kylan Hamdaoui",
+   "playerOff": "Kylan Hamdaoui",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1905312",
    "minute": 53,
    "period": "2H",
@@ -250,6 +285,30 @@
     "home": 22,
     "away": 13
    }
+  },
+  {
+   "id": "espn-1905318",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thomas Lacombre",
+   "detail": "replaces Julien Marchand",
+   "playerOn": "Thomas Lacombre",
+   "playerOff": "Julien Marchand",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1905324",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Georges-Henri Colombe",
+   "detail": "replaces Paul Mallez",
+   "playerOn": "Georges-Henri Colombe",
+   "playerOff": "Paul Mallez",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

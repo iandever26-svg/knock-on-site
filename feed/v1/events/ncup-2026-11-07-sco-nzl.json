@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-sco-nzl",
  "matchId": "ncup-2026-11-07-sco-nzl",
- "updated_at": "2026-11-07T14:48:36.587Z",
+ "updated_at": "2026-11-07T14:54:03.692Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603995/competitions/603995/plays?limit=400",
-   "fetched_at": "2026-11-07T14:48:36.587Z",
+   "fetched_at": "2026-11-07T14:54:03.692Z",
    "espn_event_id": "603995",
    "espn_league_id": 17567
   }
@@ -236,15 +236,45 @@
     "home": 14,
     "away": 24
    }
+  },
+  {
+   "id": "espn-1905317",
+   "minute": 38,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Ewan Ashman",
+   "detail": "Try (19-24)",
+   "playerName": "Ewan Ashman",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1905322",
+   "minute": 39,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Finn Russell",
+   "detail": "Conversion (21-24)",
+   "playerName": "Finn Russell",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 24
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
+  "home": 21,
   "away": 24
  },
  "plays_summed": {
-  "home": 14,
+  "home": 21,
   "away": 24
  }
 }
