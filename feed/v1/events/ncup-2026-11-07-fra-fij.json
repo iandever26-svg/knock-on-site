@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-07-fra-fij",
  "matchId": "ncup-2026-11-07-fra-fij",
- "updated_at": "2026-11-07T21:14:51.987Z",
+ "updated_at": "2026-11-07T21:37:43.160Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 10-3, final 26-3; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603997/competitions/603997/plays?limit=400",
-   "fetched_at": "2026-11-07T21:14:51.987Z",
+   "fetched_at": "2026-11-07T21:37:43.160Z",
    "espn_event_id": "603997",
    "espn_league_id": 17567
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "home",
    "player": "Jean-Baptiste Gros",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Jean-Baptiste Gros",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905998",
@@ -34,9 +37,13 @@
    "type": "yellow_card",
    "team": "away",
    "player": "Mesake Vocevoce",
-   "detail": "Yellow card",
+   "detail": "Yellow card (5-0)",
    "playerName": "Mesake Vocevoce",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1905996",
@@ -45,9 +52,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Simione Kuruvoli",
-   "detail": "Penalty",
+   "detail": "Penalty (5-3)",
    "playerName": "Simione Kuruvoli",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 5,
+    "away": 3
+   }
   },
   {
    "id": "espn-1906003",
@@ -56,22 +67,272 @@
    "type": "try",
    "team": "home",
    "player": "Sipili Falatea",
-   "detail": "Try",
+   "detail": "Try (10-3)",
    "playerName": "Sipili Falatea",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906010",
+   "minute": 34,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Kalvin Gourgues",
+   "detail": "Conversion (12-3)",
+   "playerName": "Kalvin Gourgues",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906011",
+   "minute": 34,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Maxime Lucu",
+   "detail": "replaces Romain Ntamack",
+   "playerOn": "Maxime Lucu",
+   "playerOff": "Romain Ntamack",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906015",
+   "minute": 36,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Aaron Grandidier-Nkanang",
+   "detail": "Try (17-3)",
+   "playerName": "Aaron Grandidier-Nkanang",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906016",
+   "minute": 37,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Maxime Lucu",
+   "detail": "Conversion (19-3)",
+   "playerName": "Maxime Lucu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906030",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Frank Lomani",
+   "detail": "replaces Simione Kuruvoli",
+   "playerOn": "Frank Lomani",
+   "playerOff": "Simione Kuruvoli",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906032",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben Volavola",
+   "detail": "replaces Vilimoni Botitu",
+   "playerOn": "Ben Volavola",
+   "playerOff": "Vilimoni Botitu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906028",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sireli Maqala",
+   "detail": "replaces Salesi Rayasi",
+   "playerOn": "Sireli Maqala",
+   "playerOff": "Salesi Rayasi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906034",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Peato Mauvaka",
+   "detail": "replaces Maxime Lamothe",
+   "playerOn": "Peato Mauvaka",
+   "playerOff": "Maxime Lamothe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906036",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jefferson Poirot",
+   "detail": "replaces Jean-Baptiste Gros",
+   "playerOn": "Jefferson Poirot",
+   "playerOff": "Jean-Baptiste Gros",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906038",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Regis Montagne",
+   "detail": "replaces Sipili Falatea",
+   "playerOn": "Regis Montagne",
+   "playerOff": "Sipili Falatea",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906040",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom Staniforth",
+   "detail": "replaces Paul Boudehent",
+   "playerOn": "Tom Staniforth",
+   "playerOff": "Paul Boudehent",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906043",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Peceli Yato",
+   "detail": "replaces Pita-Gus Sowakula",
+   "playerOn": "Peceli Yato",
+   "playerOff": "Pita-Gus Sowakula",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906052",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Elia Canakaivata",
+   "detail": "replaces Kitione Salawa",
+   "playerOn": "Elia Canakaivata",
+   "playerOff": "Kitione Salawa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906060",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Esteban Capilla",
+   "detail": "replaces Mickael Guillard",
+   "playerOn": "Esteban Capilla",
+   "playerOff": "Mickael Guillard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906055",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Peni Ravai",
+   "detail": "replaces Eroni Mawi",
+   "playerOn": "Peni Ravai",
+   "playerOff": "Eroni Mawi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906057",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Inoke Ravuiwasa",
+   "detail": "replaces Luke Tagi",
+   "playerOn": "Inoke Ravuiwasa",
+   "playerOff": "Luke Tagi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906103",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Charles Ollivon",
+   "detail": "replaces Florian Verhaeghe",
+   "playerOn": "Charles Ollivon",
+   "playerOff": "Florian Verhaeghe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906105",
+   "minute": 59,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Kalvin Gourgues",
+   "detail": "Try (24-3)",
+   "playerName": "Kalvin Gourgues",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 3
+   }
+  },
+  {
+   "id": "inferred-pt-home-1",
+   "minute": 0,
+   "minuteKnown": false,
+   "period": "1H",
+   "type": "penalty_try",
+   "team": "home",
+   "player": null,
+   "inferred": true,
+   "label": "Penalty try",
+   "detail": "Penalty try (inferred, minute unknown) (31-3)",
+   "scoreAfter": {
+    "home": 31,
+    "away": 3
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 26,
+  "home": 31,
   "away": 3
  },
  "plays_summed": {
-  "home": 10,
+  "home": 24,
   "away": 3
  },
- "unexplained_gap": {
-  "home": 16,
-  "away": 0
- }
+ "inferred_penalty_tries": [
+  {
+   "team": "home",
+   "minute": null
+  }
+ ]
 }
