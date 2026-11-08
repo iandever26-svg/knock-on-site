@@ -1,0 +1,70 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "top14-2026-11-07-van-ubb",
+ "matchId": "top14-2026-11-07-van-ubb",
+ "updated_at": "2026-11-08T14:17:00.970Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604417/competitions/604417/plays?limit=400",
+   "fetched_at": "2026-11-08T14:17:00.970Z",
+   "espn_event_id": "604417",
+   "espn_league_id": 270559
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1906355",
+   "minute": 10,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Matias Alemanno",
+   "detail": "Try (5-0)",
+   "playerName": "Matias Alemanno",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906356",
+   "minute": 10,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Jean Cotarmanac'h",
+   "detail": "Conversion (7-0)",
+   "playerName": "Jean Cotarmanac'h",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906357",
+   "minute": 16,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Elyjah Ibsaiene",
+   "detail": "replaces Romain Gardrat",
+   "playerOn": "Elyjah Ibsaiene",
+   "playerOff": "Romain Gardrat",
+   "label": "Substitution"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 7,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 0
+ }
+}
