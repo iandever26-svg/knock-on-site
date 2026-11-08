@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-08-lro-bay",
  "matchId": "top14-2026-11-08-lro-bay",
- "updated_at": "2026-11-08T21:38:54.118Z",
- "final": false,
+ "updated_at": "2026-11-08T21:57:24.969Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604419/competitions/604419/plays?limit=400",
-   "fetched_at": "2026-11-08T21:38:54.118Z",
+   "fetched_at": "2026-11-08T21:57:24.969Z",
    "espn_event_id": "604419",
    "espn_league_id": 270559
   }
@@ -305,15 +305,111 @@
    "playerOn": "Baptiste Heguy",
    "playerOff": "Arthur Iturria",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1906575",
+   "minute": 72,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Jules Favre",
+   "detail": "Try (20-11)",
+   "playerName": "Jules Favre",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 20,
+    "away": 11
+   }
+  },
+  {
+   "id": "espn-1906576",
+   "minute": 72,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Ben Healy",
+   "detail": "Conversion (22-11)",
+   "playerName": "Ben Healy",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 11
+   }
+  },
+  {
+   "id": "espn-1906577",
+   "minute": 74,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Madosh Tambwe",
+   "detail": "Try (22-16)",
+   "playerName": "Madosh Tambwe",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1906579",
+   "minute": 74,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Joris Segonds",
+   "detail": "Conversion (22-18)",
+   "playerName": "Joris Segonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 22,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1906582",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Avakuki Niusalelekitoga",
+   "detail": "replaces Semi Lagivala",
+   "playerOn": "Avakuki Niusalelekitoga",
+   "playerOff": "Semi Lagivala",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906584",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Killian Geraci",
+   "detail": "replaces Ewan Johnson",
+   "playerOn": "Killian Geraci",
+   "playerOff": "Ewan Johnson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906586",
+   "minute": 80,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Christophe Loustalot",
+   "detail": "replaces Ben Healy",
+   "playerOn": "Christophe Loustalot",
+   "playerOff": "Ben Healy",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 15,
-  "away": 11
+  "home": 22,
+  "away": 18
  },
  "plays_summed": {
-  "home": 15,
-  "away": 11
+  "home": 22,
+  "away": 18
  }
 }
