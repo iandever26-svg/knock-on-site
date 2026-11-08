@@ -2,34 +2,19 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-08-eng-aus",
  "matchId": "ncup-2026-11-08-eng-aus",
- "updated_at": "2026-11-08T16:06:43.469Z",
+ "updated_at": "2026-11-08T16:12:07.254Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603998/competitions/603998/plays?limit=400",
-   "fetched_at": "2026-11-08T16:06:43.469Z",
+   "fetched_at": "2026-11-08T16:12:07.254Z",
    "espn_event_id": "603998",
    "espn_league_id": 17567
   }
  ],
  "events": [
-  {
-   "id": "espn-1906408",
-   "minute": 1,
-   "period": "1H",
-   "type": "yellow_card",
-   "team": "away",
-   "player": "Angus Bell",
-   "detail": "Yellow card (0-0)",
-   "playerName": "Angus Bell",
-   "label": "Yellow card",
-   "scoreAfter": {
-    "home": 0,
-    "away": 0
-   }
-  },
   {
    "id": "espn-1906384",
    "minute": 8,
@@ -100,6 +85,21 @@
    "detail": "Conversion (12-3)",
    "playerName": "Fin Smith",
    "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906420",
+   "minute": 32,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Angus Bell",
+   "detail": "Yellow card (12-3)",
+   "playerName": "Angus Bell",
+   "label": "Yellow card",
    "scoreAfter": {
     "home": 12,
     "away": 3
