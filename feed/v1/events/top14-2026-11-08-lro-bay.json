@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-08-lro-bay",
  "matchId": "top14-2026-11-08-lro-bay",
- "updated_at": "2026-11-08T21:07:28.820Z",
+ "updated_at": "2026-11-08T21:19:01.243Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604419/competitions/604419/plays?limit=400",
-   "fetched_at": "2026-11-08T21:07:28.820Z",
+   "fetched_at": "2026-11-08T21:19:01.243Z",
    "espn_event_id": "604419",
    "espn_league_id": 270559
   }
@@ -155,15 +155,78 @@
    "playerOn": "Robert du Preez",
    "playerOff": "Guillaume Martocq",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1906545",
+   "minute": 47,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Joris Segonds",
+   "detail": "Penalty (12-11)",
+   "playerName": "Joris Segonds",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 12,
+    "away": 11
+   }
+  },
+  {
+   "id": "espn-1906546",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Louis Penverne",
+   "detail": "replaces Alexandre Kaddouri",
+   "playerOn": "Louis Penverne",
+   "playerOff": "Alexandre Kaddouri",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906548",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Pierre Bourgarit",
+   "detail": "replaces Tolu Latu",
+   "playerOn": "Pierre Bourgarit",
+   "playerOff": "Tolu Latu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906550",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tevita Tatafu",
+   "detail": "replaces Emerick Setiano",
+   "playerOn": "Tevita Tatafu",
+   "playerOff": "Emerick Setiano",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906552",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Leo Coly",
+   "detail": "replaces Baptiste Tilloles",
+   "playerOn": "Leo Coly",
+   "playerOff": "Baptiste Tilloles",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 12,
-  "away": 8
+  "away": 11
  },
  "plays_summed": {
   "home": 12,
-  "away": 8
+  "away": 11
  }
 }
