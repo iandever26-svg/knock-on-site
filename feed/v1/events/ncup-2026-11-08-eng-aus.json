@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-08-eng-aus",
  "matchId": "ncup-2026-11-08-eng-aus",
- "updated_at": "2026-11-08T16:28:07.070Z",
+ "updated_at": "2026-11-08T16:33:24.704Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 36-10, final 31-10; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603998/competitions/603998/plays?limit=400",
-   "fetched_at": "2026-11-08T16:28:07.070Z",
+   "fetched_at": "2026-11-08T16:33:24.704Z",
    "espn_event_id": "603998",
    "espn_league_id": 17567
   }
@@ -22,13 +23,9 @@
    "type": "try",
    "team": "home",
    "player": "Jamie George",
-   "detail": "Try (5-0)",
+   "detail": "Try",
    "playerName": "Jamie George",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 0
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1906384-cm",
@@ -37,13 +34,9 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred) (5-0)",
+   "detail": "Conversion missed (inferred)",
    "label": "Conversion missed",
-   "inferred": true,
-   "scoreAfter": {
-    "home": 5,
-    "away": 0
-   }
+   "inferred": true
   },
   {
    "id": "espn-1906398",
@@ -52,13 +45,9 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Ryan Lonergan",
-   "detail": "Penalty (5-3)",
+   "detail": "Penalty",
    "playerName": "Ryan Lonergan",
-   "label": "Penalty",
-   "scoreAfter": {
-    "home": 5,
-    "away": 3
-   }
+   "label": "Penalty"
   },
   {
    "id": "espn-1906402",
@@ -67,13 +56,9 @@
    "type": "try",
    "team": "home",
    "player": "Ollie Chessum",
-   "detail": "Try (10-3)",
+   "detail": "Try",
    "playerName": "Ollie Chessum",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 10,
-    "away": 3
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1906403",
@@ -82,13 +67,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Fin Smith",
-   "detail": "Conversion (12-3)",
+   "detail": "Conversion",
    "playerName": "Fin Smith",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 12,
-    "away": 3
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1906420",
@@ -97,13 +78,9 @@
    "type": "yellow_card",
    "team": "away",
    "player": "Angus Bell",
-   "detail": "Yellow card (12-3)",
+   "detail": "Yellow card",
    "playerName": "Angus Bell",
-   "label": "Yellow card",
-   "scoreAfter": {
-    "home": 12,
-    "away": 3
-   }
+   "label": "Yellow card"
   },
   {
    "id": "espn-1906409",
@@ -112,13 +89,9 @@
    "type": "try",
    "team": "home",
    "player": "Joe Heyes",
-   "detail": "Try (17-3)",
+   "detail": "Try",
    "playerName": "Joe Heyes",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 17,
-    "away": 3
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1906410",
@@ -127,13 +100,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Fin Smith",
-   "detail": "Conversion (19-3)",
+   "detail": "Conversion",
    "playerName": "Fin Smith",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 19,
-    "away": 3
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1906417",
@@ -142,13 +111,9 @@
    "type": "try",
    "team": "away",
    "player": "Max Jorgensen",
-   "detail": "Try (19-8)",
+   "detail": "Try",
    "playerName": "Max Jorgensen",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 19,
-    "away": 8
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1906418",
@@ -157,13 +122,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Ryan Lonergan",
-   "detail": "Conversion (19-10)",
+   "detail": "Conversion",
    "playerName": "Ryan Lonergan",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 19,
-    "away": 10
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1906425",
@@ -184,13 +145,9 @@
    "type": "try",
    "team": "home",
    "player": "Jack van Poortvliet",
-   "detail": "Try (24-10)",
+   "detail": "Try",
    "playerName": "Jack van Poortvliet",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 24,
-    "away": 10
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1906428",
@@ -199,13 +156,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Fin Smith",
-   "detail": "Conversion (26-10)",
+   "detail": "Conversion",
    "playerName": "Fin Smith",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 26,
-    "away": 10
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1906433",
@@ -230,15 +183,76 @@
    "playerOn": "Taniela Tupou",
    "playerOff": "Allan Alaalatoa",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1906435",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben Donaldson",
+   "detail": "replaces Declan Meredith",
+   "playerOn": "Ben Donaldson",
+   "playerOff": "Declan Meredith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906439",
+   "minute": 55,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Henry Pollock",
+   "detail": "Try",
+   "playerName": "Henry Pollock",
+   "label": "Try"
+  },
+  {
+   "id": "espn-1906439-cm",
+   "minute": 55,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred)",
+   "label": "Conversion missed",
+   "inferred": true
+  },
+  {
+   "id": "espn-1906440",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Josh Nasser",
+   "detail": "replaces Billy Pollard",
+   "playerOn": "Josh Nasser",
+   "playerOff": "Billy Pollard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906442",
+   "minute": 58,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Henry Pollock",
+   "detail": "Try",
+   "playerName": "Henry Pollock",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 26,
+  "home": 31,
   "away": 10
  },
  "plays_summed": {
-  "home": 26,
+  "home": 36,
   "away": 10
+ },
+ "unexplained_gap": {
+  "home": -5,
+  "away": 0
  }
 }
