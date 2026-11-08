@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-08-eng-aus",
  "matchId": "ncup-2026-11-08-eng-aus",
- "updated_at": "2026-11-08T16:22:46.959Z",
+ "updated_at": "2026-11-08T16:28:07.070Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603998/competitions/603998/plays?limit=400",
-   "fetched_at": "2026-11-08T16:22:46.959Z",
+   "fetched_at": "2026-11-08T16:28:07.070Z",
    "espn_event_id": "603998",
    "espn_league_id": 17567
   }
@@ -208,7 +208,7 @@
    }
   },
   {
-   "id": "espn-1906429",
+   "id": "espn-1906433",
    "minute": 47,
    "period": "2H",
    "type": "substitution",
