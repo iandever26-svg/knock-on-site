@@ -2,15 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-08-eng-aus",
  "matchId": "ncup-2026-11-08-eng-aus",
- "updated_at": "2026-11-08T16:33:24.704Z",
+ "updated_at": "2026-11-08T16:38:45.165Z",
  "final": false,
  "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 36-10, final 31-10; running scores omitted.",
+ "note": "ESPN timeline incomplete: events sum to 38-15, final 38-10; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603998/competitions/603998/plays?limit=400",
-   "fetched_at": "2026-11-08T16:33:24.704Z",
+   "fetched_at": "2026-11-08T16:38:45.165Z",
    "espn_event_id": "603998",
    "espn_league_id": 17567
   }
@@ -185,7 +185,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1906435",
+   "id": "espn-1906457",
    "minute": 54,
    "period": "2H",
    "type": "substitution",
@@ -219,6 +219,42 @@
    "inferred": true
   },
   {
+   "id": "espn-1906444",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ellis Genge",
+   "detail": "replaces Fin Baxter",
+   "playerOn": "Ellis Genge",
+   "playerOff": "Fin Baxter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906451",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Luke Cowan-Dickie",
+   "detail": "replaces Jamie George",
+   "playerOn": "Luke Cowan-Dickie",
+   "playerOff": "Jamie George",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906453",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Greg Fisilau",
+   "detail": "replaces Ben Curry",
+   "playerOn": "Greg Fisilau",
+   "playerOff": "Ben Curry",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1906440",
    "minute": 56,
    "period": "2H",
@@ -231,8 +267,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1906442",
-   "minute": 58,
+   "id": "espn-1906447",
+   "minute": 57,
    "period": "2H",
    "type": "try",
    "team": "home",
@@ -240,19 +276,53 @@
    "detail": "Try",
    "playerName": "Henry Pollock",
    "label": "Try"
+  },
+  {
+   "id": "espn-1906448",
+   "minute": 58,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Fin Smith",
+   "detail": "Conversion",
+   "playerName": "Fin Smith",
+   "label": "Conversion"
+  },
+  {
+   "id": "espn-1906455",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Filipo Daugunu",
+   "detail": "replaces Isaac Henry",
+   "playerOn": "Filipo Daugunu",
+   "playerOff": "Isaac Henry",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906459",
+   "minute": 62,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Filipo Daugunu",
+   "detail": "Try",
+   "playerName": "Filipo Daugunu",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 31,
+  "home": 38,
   "away": 10
  },
  "plays_summed": {
-  "home": 36,
-  "away": 10
+  "home": 38,
+  "away": 15
  },
  "unexplained_gap": {
-  "home": -5,
-  "away": 0
+  "home": 0,
+  "away": -5
  }
 }
