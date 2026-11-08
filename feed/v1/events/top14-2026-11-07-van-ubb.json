@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-van-ubb",
  "matchId": "top14-2026-11-07-van-ubb",
- "updated_at": "2026-11-08T15:32:09.446Z",
+ "updated_at": "2026-11-08T15:47:33.496Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604417/competitions/604417/plays?limit=400",
-   "fetched_at": "2026-11-08T15:32:09.446Z",
+   "fetched_at": "2026-11-08T15:47:33.496Z",
    "espn_event_id": "604417",
    "espn_league_id": 270559
   }
@@ -259,15 +259,87 @@
    "detail": "replaces Daniel du Plessis",
    "playerOff": "Daniel du Plessis",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1906399",
+   "minute": 61,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Louis Favrau",
+   "detail": "Yellow card (10-9)",
+   "playerName": "Louis Favrau",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 10,
+    "away": 9
+   }
+  },
+  {
+   "id": "espn-1906401",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Santiago Medrano",
+   "detail": "Try (15-9)",
+   "playerName": "Santiago Medrano",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 9
+   }
+  },
+  {
+   "id": "espn-1906401-cm",
+   "minute": 67,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (15-9)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 15,
+    "away": 9
+   }
+  },
+  {
+   "id": "espn-1906404",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Clement Malinowski",
+   "detail": "replaces Connor Sa",
+   "playerOn": "Clement Malinowski",
+   "playerOff": "Connor Sa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906406",
+   "minute": 72,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Jean Cotarmanac'h",
+   "detail": "Penalty (18-9)",
+   "playerName": "Jean Cotarmanac'h",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 18,
+    "away": 9
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 10,
+  "home": 18,
   "away": 9
  },
  "plays_summed": {
-  "home": 10,
+  "home": 18,
   "away": 9
  }
 }
