@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-08-eng-aus",
  "matchId": "ncup-2026-11-08-eng-aus",
- "updated_at": "2026-11-08T16:44:04.806Z",
+ "updated_at": "2026-11-08T16:49:22.578Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603998/competitions/603998/plays?limit=400",
-   "fetched_at": "2026-11-08T16:44:04.806Z",
+   "fetched_at": "2026-11-08T16:49:22.578Z",
    "espn_event_id": "603998",
    "espn_league_id": 17567
   }
@@ -430,8 +430,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1906470",
-   "minute": 65,
+   "id": "espn-1906472",
+   "minute": 64,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -439,6 +439,18 @@
    "detail": "replaces Fraser McReight",
    "playerOn": "Carlo Tizzano",
    "playerOff": "Fraser McReight",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906474",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "replaces Seb Atkinson",
+   "playerOn": "Marcus Smith",
+   "playerOff": "Seb Atkinson",
    "label": "Substitution"
   }
  ],
