@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-08-eng-aus",
  "matchId": "ncup-2026-11-08-eng-aus",
- "updated_at": "2026-11-08T16:12:07.254Z",
+ "updated_at": "2026-11-08T16:17:27.032Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603998/competitions/603998/plays?limit=400",
-   "fetched_at": "2026-11-08T16:12:07.254Z",
+   "fetched_at": "2026-11-08T16:17:27.032Z",
    "espn_event_id": "603998",
    "espn_league_id": 17567
   }
@@ -164,15 +164,57 @@
     "home": 19,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1906425",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Henry Pollock",
+   "detail": "replaces Immanuel Feyi-Waboso",
+   "playerOn": "Henry Pollock",
+   "playerOff": "Immanuel Feyi-Waboso",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906427",
+   "minute": 43,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Jack van Poortvliet",
+   "detail": "Try (24-10)",
+   "playerName": "Jack van Poortvliet",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1906428",
+   "minute": 43,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Fin Smith",
+   "detail": "Conversion (26-10)",
+   "playerName": "Fin Smith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 26,
+    "away": 10
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 19,
+  "home": 26,
   "away": 10
  },
  "plays_summed": {
-  "home": 19,
+  "home": 26,
   "away": 10
  }
 }
