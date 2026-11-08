@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-08-lro-bay",
  "matchId": "top14-2026-11-08-lro-bay",
- "updated_at": "2026-11-08T20:19:10.569Z",
+ "updated_at": "2026-11-08T20:24:29.297Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604419/competitions/604419/plays?limit=400",
-   "fetched_at": "2026-11-08T20:19:10.569Z",
+   "fetched_at": "2026-11-08T20:24:29.297Z",
    "espn_event_id": "604419",
    "espn_league_id": 270559
   }
@@ -44,15 +44,57 @@
     "home": 7,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1906492",
+   "minute": 14,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Guillaume Martocq",
+   "detail": "Try (7-5)",
+   "playerName": "Guillaume Martocq",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1906492-cm",
+   "minute": 14,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (7-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1906493",
+   "minute": 15,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Aleksandre Kuntelia",
+   "detail": "replaces Upaleto Feao",
+   "playerOn": "Aleksandre Kuntelia",
+   "playerOff": "Upaleto Feao",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 0
+  "away": 5
  },
  "plays_summed": {
   "home": 7,
-  "away": 0
+  "away": 5
  }
 }
