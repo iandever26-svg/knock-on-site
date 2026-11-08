@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-08-eng-aus",
  "matchId": "ncup-2026-11-08-eng-aus",
- "updated_at": "2026-11-08T16:49:22.578Z",
+ "updated_at": "2026-11-08T16:54:40.661Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603998/competitions/603998/plays?limit=400",
-   "fetched_at": "2026-11-08T16:49:22.578Z",
+   "fetched_at": "2026-11-08T16:54:40.661Z",
    "espn_event_id": "603998",
    "espn_league_id": 17567
   }
@@ -406,7 +406,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1906464",
+   "id": "espn-1906480",
    "minute": 64,
    "period": "2H",
    "type": "substitution",
@@ -418,7 +418,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1906466",
+   "id": "espn-1906482",
    "minute": 64,
    "period": "2H",
    "type": "substitution",
@@ -452,15 +452,69 @@
    "playerOn": "Marcus Smith",
    "playerOff": "Seb Atkinson",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1906478",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tate McDermott",
+   "detail": "replaces Ryan Lonergan",
+   "playerOn": "Tate McDermott",
+   "playerOff": "Ryan Lonergan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906484",
+   "minute": 74,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Jeremy Williams",
+   "detail": "Try (38-20)",
+   "playerName": "Jeremy Williams",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 38,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1906485",
+   "minute": 75,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Ben Donaldson",
+   "detail": "Conversion (38-22)",
+   "playerName": "Ben Donaldson",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 38,
+    "away": 22
+   }
+  },
+  {
+   "id": "espn-1906486",
+   "minute": 75,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ben Spencer",
+   "detail": "replaces Jack van Poortvliet",
+   "playerOn": "Ben Spencer",
+   "playerOff": "Jack van Poortvliet",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 38,
-  "away": 15
+  "away": 22
  },
  "plays_summed": {
   "home": 38,
-  "away": 15
+  "away": 22
  }
 }
