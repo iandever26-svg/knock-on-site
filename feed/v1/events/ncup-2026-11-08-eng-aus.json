@@ -2,19 +2,34 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-08-eng-aus",
  "matchId": "ncup-2026-11-08-eng-aus",
- "updated_at": "2026-11-08T15:47:33.496Z",
+ "updated_at": "2026-11-08T16:06:43.469Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603998/competitions/603998/plays?limit=400",
-   "fetched_at": "2026-11-08T15:47:33.496Z",
+   "fetched_at": "2026-11-08T16:06:43.469Z",
    "espn_event_id": "603998",
    "espn_league_id": 17567
   }
  ],
  "events": [
+  {
+   "id": "espn-1906408",
+   "minute": 1,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Angus Bell",
+   "detail": "Yellow card (0-0)",
+   "playerName": "Angus Bell",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 0,
+    "away": 0
+   }
+  },
   {
    "id": "espn-1906384",
    "minute": 8,
@@ -89,15 +104,75 @@
     "home": 12,
     "away": 3
    }
+  },
+  {
+   "id": "espn-1906409",
+   "minute": 33,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Joe Heyes",
+   "detail": "Try (17-3)",
+   "playerName": "Joe Heyes",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906410",
+   "minute": 34,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Fin Smith",
+   "detail": "Conversion (19-3)",
+   "playerName": "Fin Smith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906417",
+   "minute": 40,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Max Jorgensen",
+   "detail": "Try (19-8)",
+   "playerName": "Max Jorgensen",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 8
+   }
+  },
+  {
+   "id": "espn-1906418",
+   "minute": 41,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Ryan Lonergan",
+   "detail": "Conversion (19-10)",
+   "playerName": "Ryan Lonergan",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 10
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
-  "away": 3
+  "home": 19,
+  "away": 10
  },
  "plays_summed": {
-  "home": 12,
-  "away": 3
+  "home": 19,
+  "away": 10
  }
 }

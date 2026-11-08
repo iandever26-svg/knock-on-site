@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-van-ubb",
  "matchId": "top14-2026-11-07-van-ubb",
- "updated_at": "2026-11-08T15:47:33.496Z",
- "final": false,
+ "updated_at": "2026-11-08T16:06:43.469Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604417/competitions/604417/plays?limit=400",
-   "fetched_at": "2026-11-08T15:47:33.496Z",
+   "fetched_at": "2026-11-08T16:06:43.469Z",
    "espn_event_id": "604417",
    "espn_league_id": 270559
   }
@@ -331,15 +331,87 @@
     "home": 18,
     "away": 9
    }
+  },
+  {
+   "id": "espn-1906411",
+   "minute": 80,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Elyjah Ibsaiene",
+   "detail": "Try (18-14)",
+   "playerName": "Elyjah Ibsaiene",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 18,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1906411-cm",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (18-14)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 18,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1906413",
+   "minute": 81,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Nathanael Hulleu",
+   "detail": "replaces Jean Cotarmanac'h",
+   "playerOn": "Nathanael Hulleu",
+   "playerOff": "Jean Cotarmanac'h",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906412",
+   "minute": 82,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Inia Tabuavou",
+   "detail": "Try (23-14)",
+   "playerName": "Inia Tabuavou",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 23,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1906412-cm",
+   "minute": 82,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (23-14)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 23,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 18,
-  "away": 9
+  "home": 23,
+  "away": 14
  },
  "plays_summed": {
-  "home": 18,
-  "away": 9
+  "home": 23,
+  "away": 14
  }
 }
