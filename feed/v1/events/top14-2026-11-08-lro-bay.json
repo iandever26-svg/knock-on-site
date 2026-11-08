@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-08-lro-bay",
  "matchId": "top14-2026-11-08-lro-bay",
- "updated_at": "2026-11-08T20:24:29.297Z",
+ "updated_at": "2026-11-08T20:29:49.151Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604419/competitions/604419/plays?limit=400",
-   "fetched_at": "2026-11-08T20:24:29.297Z",
+   "fetched_at": "2026-11-08T20:29:49.151Z",
    "espn_event_id": "604419",
    "espn_league_id": 270559
   }
@@ -85,6 +85,18 @@
    "detail": "replaces Upaleto Feao",
    "playerOn": "Aleksandre Kuntelia",
    "playerOff": "Upaleto Feao",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906495",
+   "minute": 19,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Charles Kante-Samba",
+   "detail": "replaces Thomas Lavault",
+   "playerOn": "Charles Kante-Samba",
+   "playerOff": "Thomas Lavault",
    "label": "Substitution"
   }
  ],
