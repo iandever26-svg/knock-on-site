@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-van-ubb",
  "matchId": "top14-2026-11-07-van-ubb",
- "updated_at": "2026-11-08T15:09:50.757Z",
+ "updated_at": "2026-11-08T15:32:09.446Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604417/competitions/604417/plays?limit=400",
-   "fetched_at": "2026-11-08T15:09:50.757Z",
+   "fetched_at": "2026-11-08T15:32:09.446Z",
    "espn_event_id": "604417",
    "espn_league_id": 270559
   }
@@ -110,15 +110,164 @@
    "playerOn": "Inia Tabuavou",
    "playerOff": "Raymond Nu'u",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1906367",
+   "minute": 48,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Jean Cotarmanac'h",
+   "detail": "Penalty (10-6)",
+   "playerName": "Jean Cotarmanac'h",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 10,
+    "away": 6
+   }
+  },
+  {
+   "id": "espn-1906368",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Giorgi Beria",
+   "detail": "replaces Wayan De Benedittis",
+   "playerOn": "Giorgi Beria",
+   "playerOff": "Wayan De Benedittis",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906370",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Mills Sanerivi",
+   "detail": "replaces Dave Cherry",
+   "playerOn": "Mills Sanerivi",
+   "playerOff": "Dave Cherry",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906374",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Santiago Medrano",
+   "detail": "replaces Nick Schonert",
+   "playerOn": "Santiago Medrano",
+   "playerOff": "Nick Schonert",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906372",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben Tameifuna",
+   "detail": "replaces Carlu Sadie",
+   "playerOn": "Ben Tameifuna",
+   "playerOff": "Carlu Sadie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906376",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tiaan Jacobs",
+   "detail": "replaces Alex Moon",
+   "playerOn": "Tiaan Jacobs",
+   "playerOff": "Alex Moon",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906378",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Matis Perchaud",
+   "detail": "replaces Lasha Pkhakadze",
+   "playerOn": "Matis Perchaud",
+   "playerOff": "Lasha Pkhakadze",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906381",
+   "minute": 52,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Arthur Retiere",
+   "detail": "Penalty (10-9)",
+   "playerName": "Arthur Retiere",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 10,
+    "away": 9
+   }
+  },
+  {
+   "id": "espn-1906385",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Timothe Mezou",
+   "detail": "replaces Matias Alemanno",
+   "playerOn": "Timothe Mezou",
+   "playerOff": "Matias Alemanno",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906388",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Valentin Hutteau",
+   "detail": "replaces Romain Buros",
+   "playerOn": "Valentin Hutteau",
+   "playerOff": "Romain Buros",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906393",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jacques Nguimbous",
+   "detail": "replaces Romain Buros",
+   "playerOn": "Jacques Nguimbous",
+   "playerOff": "Romain Buros",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906394",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Daniel du Plessis",
+   "playerOff": "Daniel du Plessis",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
-  "away": 6
+  "home": 10,
+  "away": 9
  },
  "plays_summed": {
-  "home": 7,
-  "away": 6
+  "home": 10,
+  "away": 9
  }
 }
