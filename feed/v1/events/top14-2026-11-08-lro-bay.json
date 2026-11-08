@@ -1,0 +1,58 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "top14-2026-11-08-lro-bay",
+ "matchId": "top14-2026-11-08-lro-bay",
+ "updated_at": "2026-11-08T20:19:10.569Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604419/competitions/604419/plays?limit=400",
+   "fetched_at": "2026-11-08T20:19:10.569Z",
+   "espn_event_id": "604419",
+   "espn_league_id": 270559
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1906490",
+   "minute": 5,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Watisoni Waqanisaravi",
+   "detail": "Try (5-0)",
+   "playerName": "Watisoni Waqanisaravi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906491",
+   "minute": 5,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Ben Healy",
+   "detail": "Conversion (7-0)",
+   "playerName": "Ben Healy",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 7,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 0
+ }
+}
