@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-07-van-ubb",
  "matchId": "top14-2026-11-07-van-ubb",
- "updated_at": "2026-11-08T14:38:03.096Z",
+ "updated_at": "2026-11-08T15:04:32.918Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604417/competitions/604417/plays?limit=400",
-   "fetched_at": "2026-11-08T14:38:03.096Z",
+   "fetched_at": "2026-11-08T15:04:32.918Z",
    "espn_event_id": "604417",
    "espn_league_id": 270559
   }
@@ -71,15 +71,30 @@
     "home": 7,
     "away": 3
    }
+  },
+  {
+   "id": "espn-1906362",
+   "minute": 43,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Joseph Laharrague",
+   "detail": "Penalty (7-6)",
+   "playerName": "Joseph Laharrague",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 7,
+    "away": 6
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 3
+  "away": 6
  },
  "plays_summed": {
   "home": 7,
-  "away": 3
+  "away": 6
  }
 }
