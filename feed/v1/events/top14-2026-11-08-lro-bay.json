@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-08-lro-bay",
  "matchId": "top14-2026-11-08-lro-bay",
- "updated_at": "2026-11-08T21:19:01.243Z",
+ "updated_at": "2026-11-08T21:38:54.118Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604419/competitions/604419/plays?limit=400",
-   "fetched_at": "2026-11-08T21:19:01.243Z",
+   "fetched_at": "2026-11-08T21:38:54.118Z",
    "espn_event_id": "604419",
    "espn_league_id": 270559
   }
@@ -172,7 +172,7 @@
    }
   },
   {
-   "id": "espn-1906546",
+   "id": "espn-1906556",
    "minute": 49,
    "period": "2H",
    "type": "substitution",
@@ -184,7 +184,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1906548",
+   "id": "espn-1906558",
    "minute": 49,
    "period": "2H",
    "type": "substitution",
@@ -196,7 +196,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1906550",
+   "id": "espn-1906554",
    "minute": 49,
    "period": "2H",
    "type": "substitution",
@@ -208,7 +208,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1906552",
+   "id": "espn-1906560",
    "minute": 49,
    "period": "2H",
    "type": "substitution",
@@ -218,15 +218,102 @@
    "playerOn": "Leo Coly",
    "playerOff": "Baptiste Tilloles",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1906562",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Facundo Bosch",
+   "detail": "replaces Lucas Martin",
+   "playerOn": "Facundo Bosch",
+   "playerOff": "Lucas Martin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906564",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lucas Paulos",
+   "detail": "replaces Brian Alainu'uese",
+   "playerOn": "Lucas Paulos",
+   "playerOff": "Brian Alainu'uese",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906566",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Swan Cormenier",
+   "detail": "replaces Andy Bordelai",
+   "playerOn": "Swan Cormenier",
+   "playerOff": "Andy Bordelai",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906568",
+   "minute": 65,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Ben Healy",
+   "detail": "Penalty (15-11)",
+   "playerName": "Ben Healy",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 15,
+    "away": 11
+   }
+  },
+  {
+   "id": "espn-1906569",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Visesio Kite",
+   "detail": "replaces Watisoni Waqanisaravi",
+   "playerOn": "Visesio Kite",
+   "playerOff": "Watisoni Waqanisaravi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906571",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Levani Botia",
+   "detail": "replaces Sam Tuifua",
+   "playerOn": "Levani Botia",
+   "playerOff": "Sam Tuifua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906573",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Baptiste Heguy",
+   "detail": "replaces Arthur Iturria",
+   "playerOn": "Baptiste Heguy",
+   "playerOff": "Arthur Iturria",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
+  "home": 15,
   "away": 11
  },
  "plays_summed": {
-  "home": 12,
+  "home": 15,
   "away": 11
  }
 }
