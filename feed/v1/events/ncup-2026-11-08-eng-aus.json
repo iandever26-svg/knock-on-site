@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-08-eng-aus",
  "matchId": "ncup-2026-11-08-eng-aus",
- "updated_at": "2026-11-08T16:17:27.032Z",
+ "updated_at": "2026-11-08T16:22:46.959Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603998/competitions/603998/plays?limit=400",
-   "fetched_at": "2026-11-08T16:17:27.032Z",
+   "fetched_at": "2026-11-08T16:22:46.959Z",
    "espn_event_id": "603998",
    "espn_league_id": 17567
   }
@@ -206,6 +206,30 @@
     "home": 26,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1906429",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Rob Valetini",
+   "detail": "replaces Lukhan Salakaia-Loto",
+   "playerOn": "Rob Valetini",
+   "playerOff": "Lukhan Salakaia-Loto",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906431",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Taniela Tupou",
+   "detail": "replaces Allan Alaalatoa",
+   "playerOn": "Taniela Tupou",
+   "playerOff": "Allan Alaalatoa",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
