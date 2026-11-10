@@ -6,16 +6,6 @@
   "standingsUpdatedAt": "2026-10-31T21:50:56+00:00",
   "matches": [
     {
-      "match_id": "ncup-2026-11-06-ire-arg",
-      "kickoff": "2026-11-06T20:10:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-11-06T22:04:05.807Z"
-    },
-    {
       "match_id": "ncup-2026-11-07-fra-fij",
       "kickoff": "2026-11-07T20:10:00+00:00",
       "score": false,
