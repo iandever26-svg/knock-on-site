@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-13-fra-rsa",
  "matchId": "ncup-2026-11-13-fra-rsa",
- "updated_at": "2026-11-13T22:10:49.390Z",
- "final": false,
+ "updated_at": "2026-11-13T22:29:24.315Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603999/competitions/603999/plays?limit=400",
-   "fetched_at": "2026-11-13T22:10:49.390Z",
+   "fetched_at": "2026-11-13T22:29:24.315Z",
    "espn_event_id": "603999",
    "espn_league_id": 17567
   }
@@ -460,6 +460,18 @@
    "detail": "replaces Ethan Hooker",
    "playerOn": "Sacha Feinberg-Mngomezulu",
    "playerOff": "Ethan Hooker",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906841",
+   "minute": 79,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Cameron Woki",
+   "detail": "replaces Sipili Falatea",
+   "playerOn": "Cameron Woki",
+   "playerOff": "Sipili Falatea",
    "label": "Substitution"
   }
  ],
