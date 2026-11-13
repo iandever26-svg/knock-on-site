@@ -1,0 +1,73 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-13-fra-rsa",
+ "matchId": "ncup-2026-11-13-fra-rsa",
+ "updated_at": "2026-11-13T20:33:30.233Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603999/competitions/603999/plays?limit=400",
+   "fetched_at": "2026-11-13T20:33:30.233Z",
+   "espn_event_id": "603999",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1906775",
+   "minute": 12,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Lood de Jager",
+   "detail": "Yellow card (0-0)",
+   "playerName": "Lood de Jager",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 0,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906776",
+   "minute": 15,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Aaron Grandidier-Nkanang",
+   "detail": "Try (5-0)",
+   "playerName": "Aaron Grandidier-Nkanang",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906777",
+   "minute": 16,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Maxime Lucu",
+   "detail": "Conversion (7-0)",
+   "playerName": "Maxime Lucu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 7,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 0
+ }
+}
