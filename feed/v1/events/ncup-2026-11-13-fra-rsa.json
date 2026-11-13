@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-13-fra-rsa",
  "matchId": "ncup-2026-11-13-fra-rsa",
- "updated_at": "2026-11-13T21:09:10.738Z",
+ "updated_at": "2026-11-13T21:34:28.297Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603999/competitions/603999/plays?limit=400",
-   "fetched_at": "2026-11-13T21:09:10.738Z",
+   "fetched_at": "2026-11-13T21:34:28.297Z",
    "espn_event_id": "603999",
    "espn_league_id": 17567
   }
@@ -200,15 +200,195 @@
     "home": 21,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1906803",
+   "minute": 44,
+   "period": "2H",
+   "type": "red_card",
+   "team": "away",
+   "player": "Jasper Wiese",
+   "detail": "Red card (21-7)",
+   "playerName": "Jasper Wiese",
+   "label": "Red card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1906800",
+   "minute": 50,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Aaron Grandidier-Nkanang",
+   "detail": "Yellow card (21-7)",
+   "playerName": "Aaron Grandidier-Nkanang",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1906801",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Maxime Lamothe",
+   "detail": "replaces Peato Mauvaka",
+   "playerOn": "Maxime Lamothe",
+   "playerOff": "Peato Mauvaka",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906806",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Regis Montagne",
+   "detail": "replaces Sipili Falatea",
+   "playerOn": "Regis Montagne",
+   "playerOff": "Sipili Falatea",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906812",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Rodrigue Neti",
+   "detail": "replaces Jean-Baptiste Gros",
+   "playerOn": "Rodrigue Neti",
+   "playerOff": "Jean-Baptiste Gros",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906808",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom Staniforth",
+   "detail": "replaces Mickael Guillard",
+   "playerOn": "Tom Staniforth",
+   "playerOff": "Mickael Guillard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906810",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Esteban Capilla",
+   "detail": "replaces Gregory Alldritt",
+   "playerOn": "Esteban Capilla",
+   "playerOff": "Gregory Alldritt",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906815",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cobus Reinach",
+   "detail": "replaces Morne van den Berg",
+   "playerOn": "Cobus Reinach",
+   "playerOff": "Morne van den Berg",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906814",
+   "minute": 51,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Cobus Reinach",
+   "detail": "Try (21-12)",
+   "playerName": "Cobus Reinach",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1906818",
+   "minute": 52,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (21-14)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1906827",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Charles Ollivon",
+   "detail": "replaces Florian Verhaeghe",
+   "playerOn": "Charles Ollivon",
+   "playerOff": "Florian Verhaeghe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906829",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Emilien Gailleton",
+   "detail": "replaces Kalvin Gourgues",
+   "playerOn": "Emilien Gailleton",
+   "playerOff": "Kalvin Gourgues",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906823",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Paul de Villiers",
+   "detail": "replaces Siya Kolisi",
+   "playerOn": "Paul de Villiers",
+   "playerOff": "Siya Kolisi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906825",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Franco Mostert",
+   "detail": "replaces Lood de Jager",
+   "playerOn": "Franco Mostert",
+   "playerOff": "Lood de Jager",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 7
+  "away": 14
  },
  "plays_summed": {
   "home": 21,
-  "away": 7
+  "away": 14
  }
 }

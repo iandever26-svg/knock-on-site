@@ -1,30 +1,34 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-13T21:09:10.738Z",
- "updatedAt": "2026-11-13T21:09:10.738Z",
+ "generatedAt": "2026-11-13T21:34:28.297Z",
+ "updatedAt": "2026-11-13T21:34:28.297Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
    "schema_version": "1.0.0",
    "match_id": "ncup-2026-11-13-fra-rsa",
-   "status": "ht",
+   "status": "live",
    "home_score": 21,
-   "away_score": 7,
-   "clock": "HT",
-   "period": "HT",
-   "updated_at": "2026-11-13T21:09:10.738Z",
+   "away_score": 14,
+   "clock": null,
+   "period": "2H",
+   "updated_at": "2026-11-13T21:34:28.297Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-13T21:09:10.738Z",
+     "fetched_at": "2026-11-13T21:34:28.297Z",
      "espn_event_id": "603999",
-     "may_lag": true
+     "may_lag": true,
+     "espn_display_clock": "1'",
+     "espn_clock_seconds": 0,
+     "espn_period": 2
     }
    ],
-   "latest_event_minute": 39,
-   "latest_event_period": "1H",
-   "latest_event_seen_at": "2026-11-13T21:09:10.738Z"
+   "second_half_seen_at": "2026-11-13T21:34:28.297Z",
+   "latest_event_minute": 57,
+   "latest_event_period": "2H",
+   "latest_event_seen_at": "2026-11-13T21:34:28.297Z"
   }
  ]
 }
