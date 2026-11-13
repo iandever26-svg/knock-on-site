@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-13-fra-rsa",
  "matchId": "ncup-2026-11-13-fra-rsa",
- "updated_at": "2026-11-13T20:40:48.846Z",
+ "updated_at": "2026-11-13T21:09:10.738Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603999/competitions/603999/plays?limit=400",
-   "fetched_at": "2026-11-13T20:40:48.846Z",
+   "fetched_at": "2026-11-13T21:09:10.738Z",
    "espn_event_id": "603999",
    "espn_league_id": 17567
   }
@@ -89,15 +89,126 @@
     "home": 14,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1906782",
+   "minute": 30,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Jan-Hendrik Wessels",
+   "detail": "Try (14-5)",
+   "playerName": "Jan-Hendrik Wessels",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1906783",
+   "minute": 31,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (14-7)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1906785",
+   "minute": 32,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Louis Bielle-Biarrey",
+   "detail": "Try (19-7)",
+   "playerName": "Louis Bielle-Biarrey",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1906786",
+   "minute": 33,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Maxime Lucu",
+   "detail": "Conversion (21-7)",
+   "playerName": "Maxime Lucu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1906787",
+   "minute": 35,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ox Nche",
+   "detail": "replaces Gerhard Steenekamp",
+   "playerOn": "Ox Nche",
+   "playerOff": "Gerhard Steenekamp",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906789",
+   "minute": 35,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Malcolm Marx",
+   "detail": "replaces Jan-Hendrik Wessels",
+   "playerOn": "Malcolm Marx",
+   "playerOff": "Jan-Hendrik Wessels",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906791",
+   "minute": 35,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Wilco Louw",
+   "detail": "replaces Thomas du Toit",
+   "playerOn": "Wilco Louw",
+   "playerOff": "Thomas du Toit",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906794",
+   "minute": 39,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Maxime Lucu",
+   "detail": "Yellow card (21-7)",
+   "playerName": "Maxime Lucu",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
-  "away": 0
+  "home": 21,
+  "away": 7
  },
  "plays_summed": {
-  "home": 14,
-  "away": 0
+  "home": 21,
+  "away": 7
  }
 }
