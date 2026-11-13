@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-13-fra-rsa",
  "matchId": "ncup-2026-11-13-fra-rsa",
- "updated_at": "2026-11-13T21:34:28.297Z",
+ "updated_at": "2026-11-13T22:05:17.384Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603999/competitions/603999/plays?limit=400",
-   "fetched_at": "2026-11-13T21:34:28.297Z",
+   "fetched_at": "2026-11-13T22:05:17.384Z",
    "espn_event_id": "603999",
    "espn_league_id": 17567
   }
@@ -380,15 +380,69 @@
    "playerOn": "Franco Mostert",
    "playerOff": "Lood de Jager",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1906831",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Manie Libbok",
+   "detail": "replaces Sacha Feinberg-Mngomezulu",
+   "playerOn": "Manie Libbok",
+   "playerOff": "Sacha Feinberg-Mngomezulu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906834",
+   "minute": 69,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Regis Montagne",
+   "detail": "Yellow card (21-14)",
+   "playerName": "Regis Montagne",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1906836",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sipili Falatea",
+   "detail": "replaces Cameron Woki",
+   "playerOn": "Sipili Falatea",
+   "playerOff": "Cameron Woki",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906838",
+   "minute": 72,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Malcolm Marx",
+   "detail": "Try (21-19)",
+   "playerName": "Malcolm Marx",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 19
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 14
+  "away": 19
  },
  "plays_summed": {
   "home": 21,
-  "away": 14
+  "away": 19
  }
 }
