@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-13T22:05:17.384Z",
- "updatedAt": "2026-11-13T22:05:17.384Z",
+ "generatedAt": "2026-11-13T22:10:49.390Z",
+ "updatedAt": "2026-11-13T22:10:49.390Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 19,
    "clock": null,
    "period": "2H",
-   "updated_at": "2026-11-13T22:05:17.384Z",
+   "updated_at": "2026-11-13T22:10:49.390Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-13T22:05:17.384Z",
+     "fetched_at": "2026-11-13T22:10:49.390Z",
      "espn_event_id": "603999",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -26,9 +26,9 @@
     }
    ],
    "second_half_seen_at": "2026-11-13T21:34:28.297Z",
-   "latest_event_minute": 72,
+   "latest_event_minute": 77,
    "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-11-13T22:05:17.384Z"
+   "latest_event_seen_at": "2026-11-13T22:10:49.390Z"
   }
  ]
 }

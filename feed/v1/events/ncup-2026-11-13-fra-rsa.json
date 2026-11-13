@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-13-fra-rsa",
  "matchId": "ncup-2026-11-13-fra-rsa",
- "updated_at": "2026-11-13T22:05:17.384Z",
+ "updated_at": "2026-11-13T22:10:49.390Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/603999/competitions/603999/plays?limit=400",
-   "fetched_at": "2026-11-13T22:05:17.384Z",
+   "fetched_at": "2026-11-13T22:10:49.390Z",
    "espn_event_id": "603999",
    "espn_league_id": 17567
   }
@@ -434,6 +434,33 @@
     "home": 21,
     "away": 19
    }
+  },
+  {
+   "id": "espn-1906838-cm",
+   "minute": 72,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (21-19)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 21,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1906839",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "replaces Ethan Hooker",
+   "playerOn": "Sacha Feinberg-Mngomezulu",
+   "playerOff": "Ethan Hooker",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
