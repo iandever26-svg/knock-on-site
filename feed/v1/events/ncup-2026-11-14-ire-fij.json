@@ -2,14 +2,15 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-ire-fij",
  "matchId": "ncup-2026-11-14-ire-fij",
- "updated_at": "2026-11-14T21:00:22.240Z",
+ "updated_at": "2026-11-14T21:24:13.271Z",
  "final": false,
- "scores_verified": true,
+ "scores_verified": false,
+ "note": "ESPN timeline incomplete: events sum to 22-15, final 17-15; running scores omitted.",
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604003/competitions/604003/plays?limit=400",
-   "fetched_at": "2026-11-14T21:00:22.240Z",
+   "fetched_at": "2026-11-14T21:24:13.271Z",
    "espn_event_id": "604003",
    "espn_league_id": 17567
   }
@@ -34,13 +35,9 @@
    "type": "try",
    "team": "home",
    "player": "Tommy O'Brien",
-   "detail": "Try (5-0)",
+   "detail": "Try",
    "playerName": "Tommy O'Brien",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 0
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1907081",
@@ -49,13 +46,9 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Sam Prendergast",
-   "detail": "Conversion (7-0)",
+   "detail": "Conversion",
    "playerName": "Sam Prendergast",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 0
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1907083",
@@ -64,13 +57,9 @@
    "type": "try",
    "team": "away",
    "player": "Josua Tuisova",
-   "detail": "Try (7-5)",
+   "detail": "Try",
    "playerName": "Josua Tuisova",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 7,
-    "away": 5
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1907083-cm",
@@ -79,13 +68,9 @@
    "type": "conversion_missed",
    "team": "away",
    "player": null,
-   "detail": "Conversion missed (inferred) (7-5)",
+   "detail": "Conversion missed (inferred)",
    "label": "Conversion missed",
-   "inferred": true,
-   "scoreAfter": {
-    "home": 7,
-    "away": 5
-   }
+   "inferred": true
   },
   {
    "id": "espn-1907084",
@@ -94,13 +79,9 @@
    "type": "try",
    "team": "away",
    "player": "Peceli Yato",
-   "detail": "Try (7-10)",
+   "detail": "Try",
    "playerName": "Peceli Yato",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 7,
-    "away": 10
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1907085",
@@ -109,13 +90,9 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Ben Volavola",
-   "detail": "Conversion (7-12)",
+   "detail": "Conversion",
    "playerName": "Ben Volavola",
-   "label": "Conversion",
-   "scoreAfter": {
-    "home": 7,
-    "away": 12
-   }
+   "label": "Conversion"
   },
   {
    "id": "espn-1907086",
@@ -136,13 +113,9 @@
    "type": "try",
    "team": "home",
    "player": "Robert Baloucoune",
-   "detail": "Try (12-12)",
+   "detail": "Try",
    "playerName": "Robert Baloucoune",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 12,
-    "away": 12
-   }
+   "label": "Try"
   },
   {
    "id": "espn-1907088-cm",
@@ -151,13 +124,9 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred) (12-12)",
+   "detail": "Conversion missed (inferred)",
    "label": "Conversion missed",
-   "inferred": true,
-   "scoreAfter": {
-    "home": 12,
-    "away": 12
-   }
+   "inferred": true
   },
   {
    "id": "espn-1907090",
@@ -166,22 +135,66 @@
    "type": "try",
    "team": "home",
    "player": "Robert Baloucoune",
-   "detail": "Try (17-12)",
+   "detail": "Try",
    "playerName": "Robert Baloucoune",
-   "label": "Try",
-   "scoreAfter": {
-    "home": 17,
-    "away": 12
-   }
+   "label": "Try"
+  },
+  {
+   "id": "espn-1907090-cm",
+   "minute": 39,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred)",
+   "label": "Conversion missed",
+   "inferred": true
+  },
+  {
+   "id": "espn-1907096",
+   "minute": 42,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Tadhg Beirne",
+   "detail": "Yellow card",
+   "playerName": "Tadhg Beirne",
+   "label": "Yellow card"
+  },
+  {
+   "id": "espn-1907091",
+   "minute": 43,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Ben Volavola",
+   "detail": "Penalty",
+   "playerName": "Ben Volavola",
+   "label": "Penalty"
+  },
+  {
+   "id": "espn-1907097",
+   "minute": 46,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ronan Kelleher",
+   "detail": "Try",
+   "playerName": "Ronan Kelleher",
+   "label": "Try"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 17,
-  "away": 12
+  "away": 15
  },
  "plays_summed": {
-  "home": 17,
-  "away": 12
+  "home": 22,
+  "away": 15
+ },
+ "unexplained_gap": {
+  "home": -5,
+  "away": 0
  }
 }

@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-14T21:00:22.240Z",
- "updatedAt": "2026-11-14T21:00:22.240Z",
+ "generatedAt": "2026-11-14T21:24:13.271Z",
+ "updatedAt": "2026-11-14T21:24:13.271Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 19,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-14T21:00:22.240Z",
+   "updated_at": "2026-11-14T21:24:13.271Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T21:00:22.240Z",
+     "fetched_at": "2026-11-14T21:24:13.271Z",
      "espn_event_id": "603999",
      "may_lag": true
     }
@@ -35,12 +35,12 @@
    "away_score": 19,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-14T21:00:22.240Z",
+   "updated_at": "2026-11-14T21:24:13.271Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T21:00:22.240Z",
+     "fetched_at": "2026-11-14T21:24:13.271Z",
      "espn_event_id": "604000",
      "may_lag": true
     }
@@ -58,12 +58,12 @@
    "away_score": 28,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-14T21:00:22.240Z",
+   "updated_at": "2026-11-14T21:24:13.271Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T21:00:22.240Z",
+     "fetched_at": "2026-11-14T21:24:13.271Z",
      "espn_event_id": "604001",
      "may_lag": true
     }
@@ -81,12 +81,12 @@
    "away_score": 15,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-14T21:00:22.240Z",
+   "updated_at": "2026-11-14T21:24:13.271Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T21:00:22.240Z",
+     "fetched_at": "2026-11-14T21:24:13.271Z",
      "espn_event_id": "604002",
      "may_lag": true
     }
@@ -101,25 +101,26 @@
    "match_id": "ncup-2026-11-14-ire-fij",
    "status": "live",
    "home_score": 17,
-   "away_score": 12,
+   "away_score": 15,
    "clock": null,
-   "period": "1H",
-   "updated_at": "2026-11-14T21:00:22.240Z",
+   "period": "2H",
+   "updated_at": "2026-11-14T21:24:13.271Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T21:00:22.240Z",
+     "fetched_at": "2026-11-14T21:24:13.271Z",
      "espn_event_id": "604003",
      "may_lag": true,
      "espn_display_clock": "1'",
      "espn_clock_seconds": 0,
-     "espn_period": 1
+     "espn_period": 2
     }
    ],
-   "latest_event_minute": 39,
-   "latest_event_period": "1H",
-   "latest_event_seen_at": "2026-11-14T21:00:22.240Z"
+   "second_half_seen_at": "2026-11-14T21:24:13.271Z",
+   "latest_event_minute": 46,
+   "latest_event_period": "2H",
+   "latest_event_seen_at": "2026-11-14T21:24:13.271Z"
   }
  ]
 }
