@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-ita-arg",
  "matchId": "ncup-2026-11-14-ita-arg",
- "updated_at": "2026-11-14T13:06:24.969Z",
+ "updated_at": "2026-11-14T13:11:46.502Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604000/competitions/604000/plays?limit=400",
-   "fetched_at": "2026-11-14T13:06:24.969Z",
+   "fetched_at": "2026-11-14T13:11:46.502Z",
    "espn_event_id": "604000",
    "espn_league_id": 17567
   }
@@ -266,15 +266,60 @@
     "home": 7,
     "away": 12
    }
+  },
+  {
+   "id": "espn-1906903",
+   "minute": 60,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Mateo Carreras",
+   "detail": "Try (7-17)",
+   "playerName": "Mateo Carreras",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1906904",
+   "minute": 61,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Tomas Albornoz",
+   "detail": "Conversion (7-19)",
+   "playerName": "Tomas Albornoz",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1906905",
+   "minute": 63,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Joel Sclavi",
+   "detail": "Yellow card (7-19)",
+   "playerName": "Joel Sclavi",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 19
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 12
+  "away": 19
  },
  "plays_summed": {
   "home": 7,
-  "away": 12
+  "away": 19
  }
 }
