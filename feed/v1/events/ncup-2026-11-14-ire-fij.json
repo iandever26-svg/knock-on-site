@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-ire-fij",
  "matchId": "ncup-2026-11-14-ire-fij",
- "updated_at": "2026-11-14T21:24:13.271Z",
+ "updated_at": "2026-11-14T21:46:50.188Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 22-15, final 17-15; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604003/competitions/604003/plays?limit=400",
-   "fetched_at": "2026-11-14T21:24:13.271Z",
+   "fetched_at": "2026-11-14T21:46:50.188Z",
    "espn_event_id": "604003",
    "espn_league_id": 17567
   }
@@ -35,9 +34,13 @@
    "type": "try",
    "team": "home",
    "player": "Tommy O'Brien",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Tommy O'Brien",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1907081",
@@ -46,9 +49,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Sam Prendergast",
-   "detail": "Conversion",
+   "detail": "Conversion (7-0)",
    "playerName": "Sam Prendergast",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
   },
   {
    "id": "espn-1907083",
@@ -57,9 +64,13 @@
    "type": "try",
    "team": "away",
    "player": "Josua Tuisova",
-   "detail": "Try",
+   "detail": "Try (7-5)",
    "playerName": "Josua Tuisova",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
   },
   {
    "id": "espn-1907083-cm",
@@ -68,9 +79,13 @@
    "type": "conversion_missed",
    "team": "away",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (7-5)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
   },
   {
    "id": "espn-1907084",
@@ -79,9 +94,13 @@
    "type": "try",
    "team": "away",
    "player": "Peceli Yato",
-   "detail": "Try",
+   "detail": "Try (7-10)",
    "playerName": "Peceli Yato",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 10
+   }
   },
   {
    "id": "espn-1907085",
@@ -90,9 +109,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Ben Volavola",
-   "detail": "Conversion",
+   "detail": "Conversion (7-12)",
    "playerName": "Ben Volavola",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
   },
   {
    "id": "espn-1907086",
@@ -113,9 +136,13 @@
    "type": "try",
    "team": "home",
    "player": "Robert Baloucoune",
-   "detail": "Try",
+   "detail": "Try (12-12)",
    "playerName": "Robert Baloucoune",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 12
+   }
   },
   {
    "id": "espn-1907088-cm",
@@ -124,9 +151,13 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (12-12)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 12,
+    "away": 12
+   }
   },
   {
    "id": "espn-1907090",
@@ -135,9 +166,13 @@
    "type": "try",
    "team": "home",
    "player": "Robert Baloucoune",
-   "detail": "Try",
+   "detail": "Try (17-12)",
    "playerName": "Robert Baloucoune",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 12
+   }
   },
   {
    "id": "espn-1907090-cm",
@@ -146,9 +181,13 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (17-12)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 17,
+    "away": 12
+   }
   },
   {
    "id": "espn-1907096",
@@ -157,9 +196,13 @@
    "type": "yellow_card",
    "team": "home",
    "player": "Tadhg Beirne",
-   "detail": "Yellow card",
+   "detail": "Yellow card (17-12)",
    "playerName": "Tadhg Beirne",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 17,
+    "away": 12
+   }
   },
   {
    "id": "espn-1907091",
@@ -168,9 +211,13 @@
    "type": "penalty_goal_made",
    "team": "away",
    "player": "Ben Volavola",
-   "detail": "Penalty",
+   "detail": "Penalty (17-15)",
    "playerName": "Ben Volavola",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 17,
+    "away": 15
+   }
   },
   {
    "id": "espn-1907097",
@@ -179,22 +226,280 @@
    "type": "try",
    "team": "home",
    "player": "Ronan Kelleher",
-   "detail": "Try",
+   "detail": "Try (22-15)",
    "playerName": "Ronan Kelleher",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907097-cm",
+   "minute": 46,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (22-15)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 22,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907098",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sam Illo",
+   "detail": "replaces Tadhg Furlong",
+   "playerOn": "Sam Illo",
+   "playerOff": "Tadhg Furlong",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907100",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "James McNabney",
+   "detail": "replaces Nick Timoney",
+   "playerOn": "James McNabney",
+   "playerOff": "Nick Timoney",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907110",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Elia Canakaivata",
+   "detail": "replaces Lekima Tagitagivalu",
+   "playerOn": "Elia Canakaivata",
+   "playerOff": "Lekima Tagitagivalu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907112",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Iosefo Masi",
+   "detail": "replaces Setareki Bituniyata",
+   "playerOn": "Iosefo Masi",
+   "playerOff": "Setareki Bituniyata",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907114",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Inoke Ravuiwasa",
+   "detail": "replaces Luke Tagi",
+   "playerOn": "Inoke Ravuiwasa",
+   "playerOff": "Luke Tagi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907116",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Vilikesa Nairau",
+   "detail": "replaces Peni Ravai",
+   "playerOn": "Vilikesa Nairau",
+   "playerOff": "Peni Ravai",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907120",
+   "minute": 53,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Inoke Ravuiwasa",
+   "detail": "Yellow card (22-15)",
+   "playerName": "Inoke Ravuiwasa",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 22,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907118",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Nick Timoney",
+   "detail": "replaces James McNabney",
+   "playerOn": "Nick Timoney",
+   "playerOff": "James McNabney",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907121",
+   "minute": 54,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Andrew Porter",
+   "detail": "Try (27-15)",
+   "playerName": "Andrew Porter",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907122",
+   "minute": 54,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Prendergast",
+   "detail": "Conversion (29-15)",
+   "playerName": "Sam Prendergast",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 29,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907123",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Darragh Murray",
+   "detail": "replaces James Ryan",
+   "playerOn": "Darragh Murray",
+   "playerOff": "James Ryan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907125",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Craig Casey",
+   "detail": "replaces Jamison Gibson-Park",
+   "playerOn": "Craig Casey",
+   "playerOff": "Jamison Gibson-Park",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907127",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Luke Tagi",
+   "detail": "replaces Elia Canakaivata",
+   "playerOn": "Luke Tagi",
+   "playerOff": "Elia Canakaivata",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907129",
+   "minute": 60,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Tommy O'Brien",
+   "detail": "Try (34-15)",
+   "playerName": "Tommy O'Brien",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 34,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907130",
+   "minute": 61,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Prendergast",
+   "detail": "Conversion (36-15)",
+   "playerName": "Sam Prendergast",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 36,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907131",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom Stewart",
+   "detail": "replaces Ronan Kelleher",
+   "playerOn": "Tom Stewart",
+   "playerOff": "Ronan Kelleher",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907133",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom O'Toole",
+   "detail": "replaces Andrew Porter",
+   "playerOn": "Tom O'Toole",
+   "playerOff": "Andrew Porter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907135",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ciaran Frawley",
+   "detail": "replaces Sam Prendergast",
+   "playerOn": "Ciaran Frawley",
+   "playerOff": "Sam Prendergast",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907137",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Elia Canakaivata",
+   "detail": "replaces Luke Tagi",
+   "playerOn": "Elia Canakaivata",
+   "playerOff": "Luke Tagi",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 17,
+  "home": 36,
   "away": 15
  },
  "plays_summed": {
-  "home": 22,
+  "home": 36,
   "away": 15
- },
- "unexplained_gap": {
-  "home": -5,
-  "away": 0
  }
 }
