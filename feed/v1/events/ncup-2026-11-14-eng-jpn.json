@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-eng-jpn",
  "matchId": "ncup-2026-11-14-eng-jpn",
- "updated_at": "2026-11-14T17:21:21.892Z",
+ "updated_at": "2026-11-14T17:39:59.676Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604002/competitions/604002/plays?limit=400",
-   "fetched_at": "2026-11-14T17:21:21.892Z",
+   "fetched_at": "2026-11-14T17:39:59.676Z",
    "espn_event_id": "604002",
    "espn_league_id": 17567
   }
@@ -326,6 +326,18 @@
     "home": 47,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1906995",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Opeti Helu",
+   "detail": "replaces Shuhei Takeuchi",
+   "playerOn": "Opeti Helu",
+   "playerOff": "Shuhei Takeuchi",
+   "label": "Substitution"
   },
   {
    "id": "espn-1906994",
