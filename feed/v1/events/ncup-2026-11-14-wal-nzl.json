@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-wal-nzl",
  "matchId": "ncup-2026-11-14-wal-nzl",
- "updated_at": "2026-11-14T14:31:12.020Z",
+ "updated_at": "2026-11-14T14:39:31.241Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604001/competitions/604001/plays?limit=400",
-   "fetched_at": "2026-11-14T14:31:12.020Z",
+   "fetched_at": "2026-11-14T14:39:31.241Z",
    "espn_event_id": "604001",
    "espn_league_id": 17567
   }
@@ -104,15 +104,75 @@
     "home": 14,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1906923",
+   "minute": 24,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Archie Griffin",
+   "detail": "Try (19-7)",
+   "playerName": "Archie Griffin",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1906924",
+   "minute": 25,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Costelow",
+   "detail": "Conversion (21-7)",
+   "playerName": "Sam Costelow",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1906925",
+   "minute": 31,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Wallace Sititi",
+   "detail": "Try (21-12)",
+   "playerName": "Wallace Sititi",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1906926",
+   "minute": 32,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Richie Mo'unga",
+   "detail": "Conversion (21-14)",
+   "playerName": "Richie Mo'unga",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
-  "away": 7
+  "home": 21,
+  "away": 14
  },
  "plays_summed": {
-  "home": 14,
-  "away": 7
+  "home": 21,
+  "away": 14
  }
 }
