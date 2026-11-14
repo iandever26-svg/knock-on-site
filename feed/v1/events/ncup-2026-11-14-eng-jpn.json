@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-eng-jpn",
  "matchId": "ncup-2026-11-14-eng-jpn",
- "updated_at": "2026-11-14T17:39:59.676Z",
+ "updated_at": "2026-11-14T17:48:45.003Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604002/competitions/604002/plays?limit=400",
-   "fetched_at": "2026-11-14T17:39:59.676Z",
+   "fetched_at": "2026-11-14T17:48:45.003Z",
    "espn_event_id": "604002",
    "espn_league_id": 17567
   }
@@ -328,18 +328,6 @@
    }
   },
   {
-   "id": "espn-1906995",
-   "minute": 40,
-   "period": "2H",
-   "type": "substitution",
-   "team": "away",
-   "player": "Opeti Helu",
-   "detail": "replaces Shuhei Takeuchi",
-   "playerOn": "Opeti Helu",
-   "playerOff": "Shuhei Takeuchi",
-   "label": "Substitution"
-  },
-  {
    "id": "espn-1906994",
    "minute": 41,
    "period": "1H",
@@ -353,15 +341,159 @@
     "home": 49,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1906997",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Opeti Helu",
+   "detail": "replaces Shuhei Takeuchi",
+   "playerOn": "Opeti Helu",
+   "playerOff": "Shuhei Takeuchi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906999",
+   "minute": 45,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "George Martin",
+   "detail": "Try (54-10)",
+   "playerName": "George Martin",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 54,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1906999-cm",
+   "minute": 45,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (54-10)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 54,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1907003",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kenji Sato",
+   "detail": "replaces Mamoru Harada",
+   "playerOn": "Kenji Sato",
+   "playerOff": "Mamoru Harada",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907002",
+   "minute": 48,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Opeti Helu",
+   "detail": "Try (54-15)",
+   "playerName": "Opeti Helu",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 54,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907002-cm",
+   "minute": 48,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (54-15)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 54,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907005",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Archie McParland",
+   "detail": "replaces Jack van Poortvliet",
+   "playerOn": "Archie McParland",
+   "playerOff": "Jack van Poortvliet",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907007",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Shinya Komura",
+   "detail": "replaces Riku Kitahara",
+   "playerOn": "Shinya Komura",
+   "playerOff": "Riku Kitahara",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907015",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sojiro Otsuka",
+   "detail": "replaces Yota Kamimori",
+   "playerOn": "Sojiro Otsuka",
+   "playerOff": "Yota Kamimori",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907017",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Emmanuel Iyogun",
+   "detail": "replaces Ellis Genge",
+   "playerOn": "Emmanuel Iyogun",
+   "playerOff": "Ellis Genge",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907019",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Greg Fisilau",
+   "detail": "replaces Ben Earl",
+   "playerOn": "Greg Fisilau",
+   "playerOff": "Ben Earl",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 49,
-  "away": 10
+  "home": 54,
+  "away": 15
  },
  "plays_summed": {
-  "home": 49,
-  "away": 10
+  "home": 54,
+  "away": 15
  }
 }
