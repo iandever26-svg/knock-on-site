@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-ire-fij",
  "matchId": "ncup-2026-11-14-ire-fij",
- "updated_at": "2026-11-14T21:46:50.188Z",
- "final": false,
+ "updated_at": "2026-11-14T22:25:53.851Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604003/competitions/604003/plays?limit=400",
-   "fetched_at": "2026-11-14T21:46:50.188Z",
+   "fetched_at": "2026-11-14T22:25:53.851Z",
    "espn_event_id": "604003",
    "espn_league_id": 17567
   }
@@ -491,15 +491,93 @@
    "playerOn": "Elia Canakaivata",
    "playerOff": "Luke Tagi",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1907175",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tadhg Furlong",
+   "detail": "replaces Sam Illo",
+   "playerOn": "Tadhg Furlong",
+   "playerOff": "Sam Illo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907179",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Caleb Muntz",
+   "detail": "replaces Ben Volavola",
+   "playerOn": "Caleb Muntz",
+   "playerOff": "Ben Volavola",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907181",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Zuriel Togiatama",
+   "detail": "replaces Tevita Ikanivere",
+   "playerOn": "Zuriel Togiatama",
+   "playerOff": "Tevita Ikanivere",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907183",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Terio Tamani",
+   "detail": "replaces Frank Lomani",
+   "playerOn": "Terio Tamani",
+   "playerOff": "Frank Lomani",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907177",
+   "minute": 77,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Nick Timoney",
+   "detail": "Try (41-15)",
+   "playerName": "Nick Timoney",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 41,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907178",
+   "minute": 78,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Ciaran Frawley",
+   "detail": "Conversion (43-15)",
+   "playerName": "Ciaran Frawley",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 43,
+    "away": 15
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 36,
+  "home": 43,
   "away": 15
  },
  "plays_summed": {
-  "home": 36,
+  "home": 43,
   "away": 15
  }
 }
