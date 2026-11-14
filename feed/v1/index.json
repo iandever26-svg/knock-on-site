@@ -16,6 +16,16 @@
       "eventsUpdatedAt": "2026-11-13T22:29:24.315Z"
     },
     {
+      "match_id": "ncup-2026-11-14-ita-arg",
+      "kickoff": "2026-11-14T11:40:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-11-14T12:03:50.392Z"
+    },
+    {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
       "score": true,
