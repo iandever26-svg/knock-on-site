@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-wal-nzl",
  "matchId": "ncup-2026-11-14-wal-nzl",
- "updated_at": "2026-11-14T15:43:51.934Z",
+ "updated_at": "2026-11-14T15:49:10.913Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604001/competitions/604001/plays?limit=400",
-   "fetched_at": "2026-11-14T15:43:51.934Z",
+   "fetched_at": "2026-11-14T15:49:10.913Z",
    "espn_event_id": "604001",
    "espn_league_id": 17567
   }
@@ -406,18 +406,6 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1906955",
-   "minute": 65,
-   "period": "2H",
-   "type": "substitution",
-   "team": "home",
-   "player": "Ben Carter",
-   "detail": "replaces Adam Beard",
-   "playerOn": "Ben Carter",
-   "playerOff": "Adam Beard",
-   "label": "Substitution"
-  },
-  {
    "id": "espn-1906957",
    "minute": 65,
    "period": "2H",
@@ -451,6 +439,54 @@
    "detail": "replaces Cortez Ratima",
    "playerOn": "Kyle Preston",
    "playerOff": "Cortez Ratima",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906963",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Leicester Fainga'anuku",
+   "detail": "replaces Wallace Sititi",
+   "playerOn": "Leicester Fainga'anuku",
+   "playerOff": "Wallace Sititi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906965",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ben Carter",
+   "detail": "replaces Adam Beard",
+   "playerOn": "Ben Carter",
+   "playerOff": "Adam Beard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906967",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Rieko Ioane",
+   "detail": "replaces Fehi Fineanganofo",
+   "playerOn": "Rieko Ioane",
+   "playerOff": "Fehi Fineanganofo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906969",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ryan Elias",
+   "detail": "replaces Dewi Lake",
+   "playerOn": "Ryan Elias",
+   "playerOff": "Dewi Lake",
    "label": "Substitution"
   }
  ],
