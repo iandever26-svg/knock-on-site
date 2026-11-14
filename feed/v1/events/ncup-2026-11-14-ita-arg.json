@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-ita-arg",
  "matchId": "ncup-2026-11-14-ita-arg",
- "updated_at": "2026-11-14T13:11:46.502Z",
- "final": false,
+ "updated_at": "2026-11-14T13:35:58.131Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604000/competitions/604000/plays?limit=400",
-   "fetched_at": "2026-11-14T13:11:46.502Z",
+   "fetched_at": "2026-11-14T13:35:58.131Z",
    "espn_event_id": "604000",
    "espn_league_id": 17567
   }
@@ -311,15 +311,88 @@
     "home": 7,
     "away": 19
    }
+  },
+  {
+   "id": "espn-1906906",
+   "minute": 65,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Efrain Elias",
+   "detail": "Yellow card (7-19)",
+   "playerName": "Efrain Elias",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1906907",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Federico Mori",
+   "detail": "replaces Paolo Odogwu",
+   "playerOn": "Federico Mori",
+   "playerOff": "Paolo Odogwu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906915",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alessandro Garbisi",
+   "detail": "replaces Stephen Varney",
+   "playerOn": "Alessandro Garbisi",
+   "playerOff": "Stephen Varney",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906913",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alessandro Ortombina",
+   "detail": "replaces Federico Ruzza",
+   "playerOn": "Alessandro Ortombina",
+   "playerOff": "Federico Ruzza",
+   "label": "Substitution"
+  },
+  {
+   "id": "inferred-pt-home-1",
+   "minute": 0,
+   "minuteKnown": false,
+   "period": "1H",
+   "type": "penalty_try",
+   "team": "home",
+   "player": null,
+   "inferred": true,
+   "label": "Penalty try",
+   "detail": "Penalty try (inferred, minute unknown) (14-19)",
+   "scoreAfter": {
+    "home": 14,
+    "away": 19
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
+  "home": 14,
   "away": 19
  },
  "plays_summed": {
   "home": 7,
   "away": 19
- }
+ },
+ "inferred_penalty_tries": [
+  {
+   "team": "home",
+   "minute": null
+  }
+ ]
 }

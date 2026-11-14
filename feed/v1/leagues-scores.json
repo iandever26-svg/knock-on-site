@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-14T13:11:46.502Z",
- "updatedAt": "2026-11-14T13:11:46.502Z",
+ "generatedAt": "2026-11-14T13:35:58.131Z",
+ "updatedAt": "2026-11-14T13:35:58.131Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 19,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-14T13:11:46.502Z",
+   "updated_at": "2026-11-14T13:35:58.131Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T13:11:46.502Z",
+     "fetched_at": "2026-11-14T13:35:58.131Z",
      "espn_event_id": "603999",
      "may_lag": true
     }
@@ -30,22 +30,19 @@
   {
    "schema_version": "1.0.0",
    "match_id": "ncup-2026-11-14-ita-arg",
-   "status": "live",
-   "home_score": 7,
+   "status": "ft",
+   "home_score": 14,
    "away_score": 19,
-   "clock": null,
-   "period": "2H",
-   "updated_at": "2026-11-14T13:11:46.502Z",
+   "clock": "FT",
+   "period": "FT",
+   "updated_at": "2026-11-14T13:35:58.131Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T13:11:46.502Z",
+     "fetched_at": "2026-11-14T13:35:58.131Z",
      "espn_event_id": "604000",
-     "may_lag": true,
-     "espn_display_clock": "1'",
-     "espn_clock_seconds": 0,
-     "espn_period": 2
+     "may_lag": true
     }
    ],
    "second_half_seen_at": "2026-11-14T13:06:24.969Z",
