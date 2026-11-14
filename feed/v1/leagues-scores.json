@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-14T15:05:06.870Z",
- "updatedAt": "2026-11-14T15:05:06.870Z",
+ "generatedAt": "2026-11-14T15:17:12.794Z",
+ "updatedAt": "2026-11-14T15:17:12.794Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 19,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-14T15:05:06.870Z",
+   "updated_at": "2026-11-14T15:17:12.794Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T15:05:06.870Z",
+     "fetched_at": "2026-11-14T15:17:12.794Z",
      "espn_event_id": "603999",
      "may_lag": true
     }
@@ -35,12 +35,12 @@
    "away_score": 19,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-14T15:05:06.870Z",
+   "updated_at": "2026-11-14T15:17:12.794Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T15:05:06.870Z",
+     "fetched_at": "2026-11-14T15:17:12.794Z",
      "espn_event_id": "604000",
      "may_lag": true
     }
@@ -53,24 +53,28 @@
   {
    "schema_version": "1.0.0",
    "match_id": "ncup-2026-11-14-wal-nzl",
-   "status": "ht",
-   "home_score": 21,
+   "status": "live",
+   "home_score": 26,
    "away_score": 21,
-   "clock": "HT",
-   "period": "HT",
-   "updated_at": "2026-11-14T15:05:06.870Z",
+   "clock": null,
+   "period": "2H",
+   "updated_at": "2026-11-14T15:17:12.794Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T15:05:06.870Z",
+     "fetched_at": "2026-11-14T15:17:12.794Z",
      "espn_event_id": "604001",
-     "may_lag": true
+     "may_lag": true,
+     "espn_display_clock": "1'",
+     "espn_clock_seconds": 0,
+     "espn_period": 2
     }
    ],
+   "second_half_seen_at": "2026-11-14T15:17:12.794Z",
    "latest_event_minute": 44,
-   "latest_event_period": "1H",
-   "latest_event_seen_at": "2026-11-14T15:05:06.870Z"
+   "latest_event_period": "2H",
+   "latest_event_seen_at": "2026-11-14T15:17:12.794Z"
   }
  ]
 }
