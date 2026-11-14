@@ -1,0 +1,208 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-14-eng-jpn",
+ "matchId": "ncup-2026-11-14-eng-jpn",
+ "updated_at": "2026-11-14T16:52:19.144Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604002/competitions/604002/plays?limit=400",
+   "fetched_at": "2026-11-14T16:52:19.144Z",
+   "espn_event_id": "604002",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1906977",
+   "minute": 1,
+   "period": "1H",
+   "type": "red_card",
+   "team": "away",
+   "player": "Harry Hockings",
+   "detail": "Red card (0-0)",
+   "playerName": "Harry Hockings",
+   "label": "Red card",
+   "scoreAfter": {
+    "home": 0,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906973",
+   "minute": 1,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Will Joseph",
+   "detail": "Try (5-0)",
+   "playerName": "Will Joseph",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906973-cm",
+   "minute": 1,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (5-0)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906978",
+   "minute": 8,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "George Ford",
+   "detail": "Penalty (8-0)",
+   "playerName": "George Ford",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 8,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906979",
+   "minute": 10,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Will Joseph",
+   "detail": "Try (13-0)",
+   "playerName": "Will Joseph",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 13,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906979-cm",
+   "minute": 10,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (13-0)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 13,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906980",
+   "minute": 14,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Naoto Saito",
+   "detail": "Penalty (13-3)",
+   "playerName": "Naoto Saito",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 13,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906983",
+   "minute": 15,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Freddie Steward",
+   "detail": "Try (18-3)",
+   "playerName": "Freddie Steward",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 18,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906982",
+   "minute": 15,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "George Ford",
+   "detail": "Conversion (20-3)",
+   "playerName": "George Ford",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 20,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906984",
+   "minute": 18,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Ellis Genge",
+   "detail": "Try (25-3)",
+   "playerName": "Ellis Genge",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 25,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906985",
+   "minute": 19,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "George Ford",
+   "detail": "Conversion (27-3)",
+   "playerName": "George Ford",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 27,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906986",
+   "minute": 20,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Will Joseph",
+   "detail": "Try (32-3)",
+   "playerName": "Will Joseph",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 32,
+    "away": 3
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 32,
+  "away": 3
+ },
+ "plays_summed": {
+  "home": 32,
+  "away": 3
+ }
+}
