@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-ita-arg",
  "matchId": "ncup-2026-11-14-ita-arg",
- "updated_at": "2026-11-14T12:34:00.692Z",
+ "updated_at": "2026-11-14T13:06:24.969Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604000/competitions/604000/plays?limit=400",
-   "fetched_at": "2026-11-14T12:34:00.692Z",
+   "fetched_at": "2026-11-14T13:06:24.969Z",
    "espn_event_id": "604000",
    "espn_league_id": 17567
   }
@@ -89,15 +89,192 @@
     "home": 7,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1906879",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Juan Martin Gonzalez",
+   "detail": "replaces Joaquin Moro",
+   "playerOn": "Juan Martin Gonzalez",
+   "playerOff": "Joaquin Moro",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906881",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Gonzalo Garcia",
+   "detail": "replaces Simon Benitez Cruz",
+   "playerOn": "Gonzalo Garcia",
+   "playerOff": "Simon Benitez Cruz",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906883",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joel Sclavi",
+   "detail": "replaces Francisco Moreno",
+   "playerOn": "Joel Sclavi",
+   "playerOff": "Francisco Moreno",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906885",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mayco Vivas",
+   "detail": "replaces Boris Wenger",
+   "playerOn": "Mayco Vivas",
+   "playerOff": "Boris Wenger",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906887",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Facundo Bosch",
+   "detail": "replaces Bautista Bernasconi",
+   "playerOn": "Facundo Bosch",
+   "playerOff": "Bautista Bernasconi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906889",
+   "minute": 55,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Rodrigo Isgro",
+   "detail": "Try (7-12)",
+   "playerName": "Rodrigo Isgro",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1906889-cm",
+   "minute": 55,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (7-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1906894",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Muhamed Hasa",
+   "detail": "replaces Danilo Fischetti",
+   "playerOn": "Muhamed Hasa",
+   "playerOff": "Danilo Fischetti",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906896",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gianmarco Lucchesi",
+   "detail": "replaces Giacomo Nicotera",
+   "playerOn": "Gianmarco Lucchesi",
+   "playerOff": "Giacomo Nicotera",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906898",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Marco Riccioni",
+   "detail": "replaces Simone Ferrari",
+   "playerOn": "Marco Riccioni",
+   "playerOff": "Simone Ferrari",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906890",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Efrain Elias",
+   "detail": "replaces Guido Petti",
+   "playerOn": "Efrain Elias",
+   "playerOff": "Guido Petti",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906900",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Enoch Opoku-Gyamfi",
+   "detail": "replaces Niccolo Cannone",
+   "playerOn": "Enoch Opoku-Gyamfi",
+   "playerOff": "Niccolo Cannone",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906892",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Facundo Isa",
+   "detail": "replaces Juan Scelzo",
+   "playerOn": "Facundo Isa",
+   "playerOff": "Juan Scelzo",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906902",
+   "minute": 59,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Enoch Opoku-Gyamfi",
+   "detail": "Yellow card (7-12)",
+   "playerName": "Enoch Opoku-Gyamfi",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 7
+  "away": 12
  },
  "plays_summed": {
   "home": 7,
-  "away": 7
+  "away": 12
  }
 }
