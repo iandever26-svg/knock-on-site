@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-wal-nzl",
  "matchId": "ncup-2026-11-14-wal-nzl",
- "updated_at": "2026-11-14T15:38:33.019Z",
+ "updated_at": "2026-11-14T15:43:51.934Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604001/competitions/604001/plays?limit=400",
-   "fetched_at": "2026-11-14T15:38:33.019Z",
+   "fetched_at": "2026-11-14T15:43:51.934Z",
    "espn_event_id": "604001",
    "espn_league_id": 17567
   }
@@ -379,6 +379,78 @@
    "detail": "replaces Ryan Elias",
    "playerOn": "Dewi Lake",
    "playerOff": "Ryan Elias",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906951",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Reuben Morgan-Williams",
+   "detail": "replaces Tomos Williams",
+   "playerOn": "Reuben Morgan-Williams",
+   "playerOff": "Tomos Williams",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906953",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dan Edwards",
+   "detail": "replaces Sam Costelow",
+   "playerOn": "Dan Edwards",
+   "playerOff": "Sam Costelow",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906955",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ben Carter",
+   "detail": "replaces Adam Beard",
+   "playerOn": "Ben Carter",
+   "playerOff": "Adam Beard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906957",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "George Bell",
+   "detail": "replaces Asafo Aumua",
+   "playerOn": "George Bell",
+   "playerOff": "Asafo Aumua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906959",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jamie Hannah",
+   "detail": "replaces Josh Lord",
+   "playerOn": "Jamie Hannah",
+   "playerOff": "Josh Lord",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906961",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kyle Preston",
+   "detail": "replaces Cortez Ratima",
+   "playerOn": "Kyle Preston",
+   "playerOff": "Cortez Ratima",
    "label": "Substitution"
   }
  ],
