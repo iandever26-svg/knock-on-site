@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-wal-nzl",
  "matchId": "ncup-2026-11-14-wal-nzl",
- "updated_at": "2026-11-14T15:27:54.008Z",
+ "updated_at": "2026-11-14T15:33:15.170Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 35-28, final 35-26; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604001/competitions/604001/plays?limit=400",
-   "fetched_at": "2026-11-14T15:27:54.008Z",
+   "fetched_at": "2026-11-14T15:33:15.170Z",
    "espn_event_id": "604001",
    "espn_league_id": 17567
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "home",
    "player": "Tomos Williams",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Tomos Williams",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1906918",
@@ -34,9 +37,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Sam Costelow",
-   "detail": "Conversion",
+   "detail": "Conversion (7-0)",
    "playerName": "Sam Costelow",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
   },
   {
    "id": "espn-1906919",
@@ -45,9 +52,13 @@
    "type": "try",
    "team": "home",
    "player": "Dewi Lake",
-   "detail": "Try",
+   "detail": "Try (12-0)",
    "playerName": "Dewi Lake",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
   },
   {
    "id": "espn-1906920",
@@ -56,9 +67,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Sam Costelow",
-   "detail": "Conversion",
+   "detail": "Conversion (14-0)",
    "playerName": "Sam Costelow",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 0
+   }
   },
   {
    "id": "espn-1906921",
@@ -67,9 +82,13 @@
    "type": "try",
    "team": "away",
    "player": "Cortez Ratima",
-   "detail": "Try",
+   "detail": "Try (14-5)",
    "playerName": "Cortez Ratima",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 5
+   }
   },
   {
    "id": "espn-1906922",
@@ -78,9 +97,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Richie Mo'unga",
-   "detail": "Conversion",
+   "detail": "Conversion (14-7)",
    "playerName": "Richie Mo'unga",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 7
+   }
   },
   {
    "id": "espn-1906923",
@@ -89,9 +112,13 @@
    "type": "try",
    "team": "home",
    "player": "Archie Griffin",
-   "detail": "Try",
+   "detail": "Try (19-7)",
    "playerName": "Archie Griffin",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 7
+   }
   },
   {
    "id": "espn-1906924",
@@ -100,9 +127,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Sam Costelow",
-   "detail": "Conversion",
+   "detail": "Conversion (21-7)",
    "playerName": "Sam Costelow",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 7
+   }
   },
   {
    "id": "espn-1906925",
@@ -111,9 +142,13 @@
    "type": "try",
    "team": "away",
    "player": "Wallace Sititi",
-   "detail": "Try",
+   "detail": "Try (21-12)",
    "playerName": "Wallace Sititi",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 12
+   }
   },
   {
    "id": "espn-1906926",
@@ -122,9 +157,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Richie Mo'unga",
-   "detail": "Conversion",
+   "detail": "Conversion (21-14)",
    "playerName": "Richie Mo'unga",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 14
+   }
   },
   {
    "id": "espn-1906927",
@@ -133,9 +172,13 @@
    "type": "try",
    "team": "away",
    "player": "Fehi Fineanganofo",
-   "detail": "Try",
+   "detail": "Try (21-19)",
    "playerName": "Fehi Fineanganofo",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 19
+   }
   },
   {
    "id": "espn-1906928",
@@ -144,9 +187,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Richie Mo'unga",
-   "detail": "Conversion",
+   "detail": "Conversion (21-21)",
    "playerName": "Richie Mo'unga",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 21
+   }
   },
   {
    "id": "espn-1906929",
@@ -155,9 +202,13 @@
    "type": "try",
    "team": "home",
    "player": "Eddie James",
-   "detail": "Try",
+   "detail": "Try (26-21)",
    "playerName": "Eddie James",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 21
+   }
   },
   {
    "id": "espn-1906930",
@@ -166,9 +217,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Sam Costelow",
-   "detail": "Conversion",
+   "detail": "Conversion (28-21)",
    "playerName": "Sam Costelow",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 21
+   }
   },
   {
    "id": "espn-1906931",
@@ -177,9 +232,13 @@
    "type": "try",
    "team": "home",
    "player": "Louis Rees-Zammit",
-   "detail": "Try",
+   "detail": "Try (33-21)",
    "playerName": "Louis Rees-Zammit",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 33,
+    "away": 21
+   }
   },
   {
    "id": "espn-1906932",
@@ -188,9 +247,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Sam Costelow",
-   "detail": "Conversion",
+   "detail": "Conversion (35-21)",
    "playerName": "Sam Costelow",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 35,
+    "away": 21
+   }
   },
   {
    "id": "espn-1906933",
@@ -235,9 +298,13 @@
    "type": "try",
    "team": "away",
    "player": "Peter Lakai",
-   "detail": "Try",
+   "detail": "Try (35-26)",
    "playerName": "Peter Lakai",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 35,
+    "away": 26
+   }
   },
   {
    "id": "espn-1906940",
@@ -246,22 +313,70 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Richie Mo'unga",
-   "detail": "Conversion",
+   "detail": "Conversion (35-28)",
    "playerName": "Richie Mo'unga",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 35,
+    "away": 28
+   }
+  },
+  {
+   "id": "espn-1906941",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Louie Hennessey",
+   "detail": "replaces Gabriel Hamer-Webb",
+   "playerOn": "Louie Hennessey",
+   "playerOff": "Gabriel Hamer-Webb",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906943",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gareth Thomas",
+   "detail": "replaces Nicky Smith",
+   "playerOn": "Gareth Thomas",
+   "playerOff": "Nicky Smith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906945",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dillon Lewis",
+   "detail": "replaces Archie Griffin",
+   "playerOn": "Dillon Lewis",
+   "playerOff": "Archie Griffin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1906947",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Taine Plumtree",
+   "detail": "replaces Taine Basham",
+   "playerOn": "Taine Plumtree",
+   "playerOff": "Taine Basham",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 35,
-  "away": 26
+  "away": 28
  },
  "plays_summed": {
   "home": 35,
   "away": 28
- },
- "unexplained_gap": {
-  "home": 0,
-  "away": -2
  }
 }
