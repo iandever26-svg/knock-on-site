@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-eng-jpn",
  "matchId": "ncup-2026-11-14-eng-jpn",
- "updated_at": "2026-11-14T18:05:50.666Z",
- "final": false,
+ "updated_at": "2026-11-14T18:33:56.616Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604002/competitions/604002/plays?limit=400",
-   "fetched_at": "2026-11-14T18:05:50.666Z",
+   "fetched_at": "2026-11-14T18:33:56.616Z",
    "espn_event_id": "604002",
    "espn_league_id": 17567
   }
@@ -568,7 +568,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1907034",
+   "id": "espn-1907051",
    "minute": 59,
    "period": "2H",
    "type": "substitution",
@@ -580,7 +580,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1907036",
+   "id": "espn-1907053",
    "minute": 59,
    "period": "2H",
    "type": "substitution",
@@ -592,7 +592,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1907038",
+   "id": "espn-1907058",
    "minute": 64,
    "period": "2H",
    "type": "substitution",
@@ -604,7 +604,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1907040",
+   "id": "espn-1907060",
    "minute": 64,
    "period": "2H",
    "type": "substitution",
@@ -646,8 +646,8 @@
    }
   },
   {
-   "id": "espn-1907043",
-   "minute": 66,
+   "id": "espn-1907047",
+   "minute": 65,
    "period": "2H",
    "type": "substitution",
    "team": "away",
@@ -656,15 +656,99 @@
    "playerOn": "Shinobu Fujiwara",
    "playerOff": "Naoto Saito",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1907049",
+   "minute": 68,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Try (71-15)",
+   "playerName": "Marcus Smith",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 71,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907050",
+   "minute": 69,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Henry Slade",
+   "detail": "Conversion (73-15)",
+   "playerName": "Henry Slade",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 73,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907055",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Riku Kitahara",
+   "detail": "replaces Samisoni Tua",
+   "playerOn": "Riku Kitahara",
+   "playerOff": "Samisoni Tua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907057",
+   "minute": 73,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Greg Fisilau",
+   "detail": "Try (78-15)",
+   "playerName": "Greg Fisilau",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 78,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907057-cm",
+   "minute": 73,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (78-15)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 78,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907064",
+   "minute": 80,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Shuhei Takeuchi",
+   "detail": "replaces Opeti Helu",
+   "playerOn": "Shuhei Takeuchi",
+   "playerOff": "Opeti Helu",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 66,
+  "home": 78,
   "away": 15
  },
  "plays_summed": {
-  "home": 66,
+  "home": 78,
   "away": 15
  }
 }
