@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-wal-nzl",
  "matchId": "ncup-2026-11-14-wal-nzl",
- "updated_at": "2026-11-14T15:54:33.863Z",
- "final": false,
+ "updated_at": "2026-11-14T16:05:09.606Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604001/competitions/604001/plays?limit=400",
-   "fetched_at": "2026-11-14T15:54:33.863Z",
+   "fetched_at": "2026-11-14T16:05:09.606Z",
    "espn_event_id": "604001",
    "espn_league_id": 17567
   }
