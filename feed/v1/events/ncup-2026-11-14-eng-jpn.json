@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-eng-jpn",
  "matchId": "ncup-2026-11-14-eng-jpn",
- "updated_at": "2026-11-14T16:52:19.144Z",
+ "updated_at": "2026-11-14T17:09:27.531Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604002/competitions/604002/plays?limit=400",
-   "fetched_at": "2026-11-14T16:52:19.144Z",
+   "fetched_at": "2026-11-14T17:09:27.531Z",
    "espn_event_id": "604002",
    "espn_league_id": 17567
   }
@@ -194,15 +194,45 @@
     "home": 32,
     "away": 3
    }
+  },
+  {
+   "id": "espn-1906986-cm",
+   "minute": 20,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (32-3)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 32,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1906987",
+   "minute": 25,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Will Joseph",
+   "detail": "Try (37-3)",
+   "playerName": "Will Joseph",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 37,
+    "away": 3
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 32,
+  "home": 37,
   "away": 3
  },
  "plays_summed": {
-  "home": 32,
+  "home": 37,
   "away": 3
  }
 }
