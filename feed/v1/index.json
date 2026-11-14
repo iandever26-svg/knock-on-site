@@ -26,6 +26,16 @@
       "eventsUpdatedAt": "2026-11-14T13:35:58.131Z"
     },
     {
+      "match_id": "ncup-2026-11-14-wal-nzl",
+      "kickoff": "2026-11-14T14:10:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-11-14T14:14:42.790Z"
+    },
+    {
       "match_id": "urc-2026-09-25-ben-dra",
       "kickoff": "2026-09-25T19:45:00+01:00",
       "score": true,

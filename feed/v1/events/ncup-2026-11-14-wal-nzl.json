@@ -1,0 +1,58 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-14-wal-nzl",
+ "matchId": "ncup-2026-11-14-wal-nzl",
+ "updated_at": "2026-11-14T14:14:42.790Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604001/competitions/604001/plays?limit=400",
+   "fetched_at": "2026-11-14T14:14:42.790Z",
+   "espn_event_id": "604001",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1906917",
+   "minute": 2,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Tomos Williams",
+   "detail": "Try (5-0)",
+   "playerName": "Tomos Williams",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906918",
+   "minute": 3,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Costelow",
+   "detail": "Conversion (7-0)",
+   "playerName": "Sam Costelow",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 7,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 0
+ }
+}
