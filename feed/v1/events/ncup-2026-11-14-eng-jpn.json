@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-eng-jpn",
  "matchId": "ncup-2026-11-14-eng-jpn",
- "updated_at": "2026-11-14T17:59:38.686Z",
+ "updated_at": "2026-11-14T18:05:50.666Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604002/competitions/604002/plays?limit=400",
-   "fetched_at": "2026-11-14T17:59:38.686Z",
+   "fetched_at": "2026-11-14T18:05:50.666Z",
    "espn_event_id": "604002",
    "espn_league_id": 17567
   }
@@ -544,18 +544,6 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1907026",
-   "minute": 57,
-   "period": "2H",
-   "type": "substitution",
-   "team": "home",
-   "player": "Joe Heyes",
-   "detail": "replaces Asher Opoku-Fordjour",
-   "playerOn": "Joe Heyes",
-   "playerOff": "Asher Opoku-Fordjour",
-   "label": "Substitution"
-  },
-  {
    "id": "espn-1907028",
    "minute": 57,
    "period": "2H",
@@ -568,7 +556,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1907030",
+   "id": "espn-1907032",
    "minute": 57,
    "period": "2H",
    "type": "substitution",
@@ -578,15 +566,105 @@
    "playerOn": "Chisu Lee",
    "playerOff": "Ben Gunter",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1907034",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Joe Heyes",
+   "detail": "replaces Asher Opoku-Fordjour",
+   "playerOn": "Joe Heyes",
+   "playerOff": "Asher Opoku-Fordjour",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907036",
+   "minute": 59,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Theo Dan",
+   "detail": "replaces Max Ojomoh",
+   "playerOn": "Theo Dan",
+   "playerOff": "Max Ojomoh",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907038",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Arthur Clark",
+   "detail": "replaces Maro Itoje",
+   "playerOn": "Arthur Clark",
+   "playerOff": "Maro Itoje",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907040",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Max Ojomoh",
+   "detail": "replaces Luke Cowan-Dickie",
+   "playerOn": "Max Ojomoh",
+   "playerOff": "Luke Cowan-Dickie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907042",
+   "minute": 64,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ben Curry",
+   "detail": "Try (66-15)",
+   "playerName": "Ben Curry",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 66,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907042-cm",
+   "minute": 64,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (66-15)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 66,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907043",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Shinobu Fujiwara",
+   "detail": "replaces Naoto Saito",
+   "playerOn": "Shinobu Fujiwara",
+   "playerOff": "Naoto Saito",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 61,
+  "home": 66,
   "away": 15
  },
  "plays_summed": {
-  "home": 61,
+  "home": 66,
   "away": 15
  }
 }

@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-14T17:59:38.686Z",
- "updatedAt": "2026-11-14T17:59:38.686Z",
+ "generatedAt": "2026-11-14T18:05:50.666Z",
+ "updatedAt": "2026-11-14T18:05:50.666Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 19,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-14T17:59:38.686Z",
+   "updated_at": "2026-11-14T18:05:50.666Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T17:59:38.686Z",
+     "fetched_at": "2026-11-14T18:05:50.666Z",
      "espn_event_id": "603999",
      "may_lag": true
     }
@@ -35,12 +35,12 @@
    "away_score": 19,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-14T17:59:38.686Z",
+   "updated_at": "2026-11-14T18:05:50.666Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T17:59:38.686Z",
+     "fetched_at": "2026-11-14T18:05:50.666Z",
      "espn_event_id": "604000",
      "may_lag": true
     }
@@ -58,12 +58,12 @@
    "away_score": 28,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-14T17:59:38.686Z",
+   "updated_at": "2026-11-14T18:05:50.666Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T17:59:38.686Z",
+     "fetched_at": "2026-11-14T18:05:50.666Z",
      "espn_event_id": "604001",
      "may_lag": true
     }
@@ -77,16 +77,16 @@
    "schema_version": "1.0.0",
    "match_id": "ncup-2026-11-14-eng-jpn",
    "status": "live",
-   "home_score": 61,
+   "home_score": 66,
    "away_score": 15,
    "clock": null,
    "period": "2H",
-   "updated_at": "2026-11-14T17:59:38.686Z",
+   "updated_at": "2026-11-14T18:05:50.666Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-14T17:59:38.686Z",
+     "fetched_at": "2026-11-14T18:05:50.666Z",
      "espn_event_id": "604002",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -95,9 +95,9 @@
     }
    ],
    "second_half_seen_at": "2026-11-14T17:39:59.676Z",
-   "latest_event_minute": 57,
+   "latest_event_minute": 66,
    "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-11-14T17:59:38.686Z"
+   "latest_event_seen_at": "2026-11-14T18:05:50.666Z"
   }
  ]
 }
