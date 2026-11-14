@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-ita-arg",
  "matchId": "ncup-2026-11-14-ita-arg",
- "updated_at": "2026-11-14T12:03:50.392Z",
+ "updated_at": "2026-11-14T12:10:02.158Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604000/competitions/604000/plays?limit=400",
-   "fetched_at": "2026-11-14T12:03:50.392Z",
+   "fetched_at": "2026-11-14T12:10:02.158Z",
    "espn_event_id": "604000",
    "espn_league_id": 17567
   }
@@ -40,6 +40,21 @@
    "detail": "Conversion (7-0)",
    "playerName": "Tommaso Allan",
    "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1906867",
+   "minute": 28,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Tomas Albornoz",
+   "detail": "Yellow card (7-0)",
+   "playerName": "Tomas Albornoz",
+   "label": "Yellow card",
    "scoreAfter": {
     "home": 7,
     "away": 0
