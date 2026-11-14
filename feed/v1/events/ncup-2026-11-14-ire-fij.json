@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-ire-fij",
  "matchId": "ncup-2026-11-14-ire-fij",
- "updated_at": "2026-11-14T20:33:17.013Z",
+ "updated_at": "2026-11-14T20:38:39.502Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604003/competitions/604003/plays?limit=400",
-   "fetched_at": "2026-11-14T20:33:17.013Z",
+   "fetched_at": "2026-11-14T20:38:39.502Z",
    "espn_event_id": "604003",
    "espn_league_id": 17567
   }
@@ -71,15 +71,60 @@
     "home": 7,
     "away": 5
    }
+  },
+  {
+   "id": "espn-1907083-cm",
+   "minute": 19,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (7-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907084",
+   "minute": 23,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Peceli Yato",
+   "detail": "Try (7-10)",
+   "playerName": "Peceli Yato",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1907085",
+   "minute": 24,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Ben Volavola",
+   "detail": "Conversion (7-12)",
+   "playerName": "Ben Volavola",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 7,
-  "away": 5
+  "away": 12
  },
  "plays_summed": {
   "home": 7,
-  "away": 5
+  "away": 12
  }
 }
