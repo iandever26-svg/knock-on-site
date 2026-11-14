@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-eng-jpn",
  "matchId": "ncup-2026-11-14-eng-jpn",
- "updated_at": "2026-11-14T17:48:45.003Z",
+ "updated_at": "2026-11-14T17:59:38.686Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604002/competitions/604002/plays?limit=400",
-   "fetched_at": "2026-11-14T17:48:45.003Z",
+   "fetched_at": "2026-11-14T17:59:38.686Z",
    "espn_event_id": "604002",
    "espn_league_id": 17567
   }
@@ -485,15 +485,108 @@
    "playerOn": "Greg Fisilau",
    "playerOff": "Ben Earl",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1907021",
+   "minute": 54,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Luke Cowan-Dickie",
+   "detail": "Yellow card (54-15)",
+   "playerName": "Luke Cowan-Dickie",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 54,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907022",
+   "minute": 56,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Will Joseph",
+   "detail": "Try (59-15)",
+   "playerName": "Will Joseph",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 59,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907023",
+   "minute": 57,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Henry Slade",
+   "detail": "Conversion (61-15)",
+   "playerName": "Henry Slade",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 61,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907024",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ben Curry",
+   "detail": "replaces Henry Pollock",
+   "playerOn": "Ben Curry",
+   "playerOff": "Henry Pollock",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907026",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Joe Heyes",
+   "detail": "replaces Asher Opoku-Fordjour",
+   "playerOn": "Joe Heyes",
+   "playerOff": "Asher Opoku-Fordjour",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907028",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "replaces George Ford",
+   "playerOn": "Marcus Smith",
+   "playerOff": "George Ford",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907030",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Chisu Lee",
+   "detail": "replaces Ben Gunter",
+   "playerOn": "Chisu Lee",
+   "playerOff": "Ben Gunter",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 54,
+  "home": 61,
   "away": 15
  },
  "plays_summed": {
-  "home": 54,
+  "home": 61,
   "away": 15
  }
 }
