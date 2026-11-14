@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-14-ire-fij",
  "matchId": "ncup-2026-11-14-ire-fij",
- "updated_at": "2026-11-14T20:50:59.566Z",
+ "updated_at": "2026-11-14T21:00:22.240Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604003/competitions/604003/plays?limit=400",
-   "fetched_at": "2026-11-14T20:50:59.566Z",
+   "fetched_at": "2026-11-14T21:00:22.240Z",
    "espn_event_id": "604003",
    "espn_league_id": 17567
   }
@@ -143,15 +143,45 @@
     "home": 12,
     "away": 12
    }
+  },
+  {
+   "id": "espn-1907088-cm",
+   "minute": 30,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (12-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 12,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1907090",
+   "minute": 39,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Robert Baloucoune",
+   "detail": "Try (17-12)",
+   "playerName": "Robert Baloucoune",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
+  "home": 17,
   "away": 12
  },
  "plays_summed": {
-  "home": 12,
+  "home": 17,
   "away": 12
  }
 }
