@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-15-sco-aus",
  "matchId": "ncup-2026-11-15-sco-aus",
- "updated_at": "2026-11-15T16:36:08.291Z",
- "final": false,
+ "updated_at": "2026-11-15T17:03:31.363Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604004/competitions/604004/plays?limit=400",
-   "fetched_at": "2026-11-15T16:36:08.291Z",
+   "fetched_at": "2026-11-15T17:03:31.363Z",
    "espn_event_id": "604004",
    "espn_league_id": 17567
   }
@@ -298,15 +298,108 @@
    "playerOn": "Filipo Daugunu",
    "playerOff": "Harry Potter",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1907382",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ollie Leatherbarrow",
+   "detail": "replaces Matt Fagerson",
+   "playerOn": "Ollie Leatherbarrow",
+   "playerOff": "Matt Fagerson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907384",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben Donaldson",
+   "detail": "replaces Len Ikitau",
+   "playerOn": "Ben Donaldson",
+   "playerOff": "Len Ikitau",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907386",
+   "minute": 75,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Finn Russell",
+   "detail": "Penalty (15-5)",
+   "playerName": "Finn Russell",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 15,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907387",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tate McDermott",
+   "detail": "replaces Ryan Lonergan",
+   "playerOn": "Tate McDermott",
+   "playerOff": "Ryan Lonergan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907389",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Stafford McDowall",
+   "detail": "replaces Tom Jordan",
+   "playerOn": "Stafford McDowall",
+   "playerOff": "Tom Jordan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907391",
+   "minute": 80,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Max Jorgensen",
+   "detail": "Try (15-10)",
+   "playerName": "Max Jorgensen",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1907392",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Ben Donaldson",
+   "detail": "Conversion (15-12)",
+   "playerName": "Ben Donaldson",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 15,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
-  "away": 5
+  "home": 15,
+  "away": 12
  },
  "plays_summed": {
-  "home": 12,
-  "away": 5
+  "home": 15,
+  "away": 12
  }
 }
