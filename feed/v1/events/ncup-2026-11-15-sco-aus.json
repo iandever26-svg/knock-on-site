@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-15-sco-aus",
  "matchId": "ncup-2026-11-15-sco-aus",
- "updated_at": "2026-11-15T16:08:36.912Z",
+ "updated_at": "2026-11-15T16:36:08.291Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604004/competitions/604004/plays?limit=400",
-   "fetched_at": "2026-11-15T16:08:36.912Z",
+   "fetched_at": "2026-11-15T16:36:08.291Z",
    "espn_event_id": "604004",
    "espn_league_id": 17567
   }
@@ -139,6 +139,164 @@
    "detail": "replaces Jamie Dobie",
    "playerOn": "Kyle Steyn",
    "playerOff": "Jamie Dobie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907354",
+   "minute": 44,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Billy Pollard",
+   "detail": "Yellow card (12-5)",
+   "playerName": "Billy Pollard",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 12,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907355",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Pierre Schoeman",
+   "detail": "replaces Rory Sutherland",
+   "playerOn": "Pierre Schoeman",
+   "playerOff": "Rory Sutherland",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907357",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jamie Dobie",
+   "detail": "replaces Ben White",
+   "playerOn": "Jamie Dobie",
+   "playerOff": "Ben White",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907359",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Josh Bayliss",
+   "detail": "replaces Jack Dempsey",
+   "playerOn": "Josh Bayliss",
+   "playerOff": "Jack Dempsey",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907361",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Taniela Tupou",
+   "detail": "replaces Allan Alaalatoa",
+   "playerOn": "Taniela Tupou",
+   "playerOff": "Allan Alaalatoa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907363",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Brandon Paenga-Amosa",
+   "detail": "replaces Rob Valetini",
+   "playerOn": "Brandon Paenga-Amosa",
+   "playerOff": "Rob Valetini",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907369",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tom Hooper",
+   "detail": "replaces Billy Pollard",
+   "playerOn": "Tom Hooper",
+   "playerOff": "Billy Pollard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907371",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Isaac Kailea",
+   "detail": "replaces Angus Bell",
+   "playerOn": "Isaac Kailea",
+   "playerOff": "Angus Bell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907374",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lachlan Shaw",
+   "detail": "replaces Josh Canham",
+   "playerOn": "Lachlan Shaw",
+   "playerOff": "Josh Canham",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907379",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Josh Canham",
+   "playerOff": "Josh Canham",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907375",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gregor Hiddleston",
+   "detail": "replaces Ewan Ashman",
+   "playerOn": "Gregor Hiddleston",
+   "playerOff": "Ewan Ashman",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907377",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Hurd",
+   "detail": "replaces Zander Fagerson",
+   "playerOn": "Will Hurd",
+   "playerOff": "Zander Fagerson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907380",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Filipo Daugunu",
+   "detail": "replaces Harry Potter",
+   "playerOn": "Filipo Daugunu",
+   "playerOff": "Harry Potter",
    "label": "Substitution"
   }
  ],
