@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-15-sco-aus",
  "matchId": "ncup-2026-11-15-sco-aus",
- "updated_at": "2026-11-15T15:40:42.801Z",
+ "updated_at": "2026-11-15T16:08:36.912Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 10-5, final 5-5; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604004/competitions/604004/plays?limit=400",
-   "fetched_at": "2026-11-15T15:40:42.801Z",
+   "fetched_at": "2026-11-15T16:08:36.912Z",
    "espn_event_id": "604004",
    "espn_league_id": 17567
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "home",
    "player": "Matt Fagerson",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Matt Fagerson",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1907340-cm",
@@ -34,9 +37,13 @@
    "type": "conversion_missed",
    "team": "home",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (5-0)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1907341",
@@ -45,9 +52,13 @@
    "type": "try",
    "team": "away",
    "player": "Harry Potter",
-   "detail": "Try",
+   "detail": "Try (5-5)",
    "playerName": "Harry Potter",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 5
+   }
   },
   {
    "id": "espn-1907341-cm",
@@ -56,9 +67,13 @@
    "type": "conversion_missed",
    "team": "away",
    "player": null,
-   "detail": "Conversion missed (inferred)",
+   "detail": "Conversion missed (inferred) (5-5)",
    "label": "Conversion missed",
-   "inferred": true
+   "inferred": true,
+   "scoreAfter": {
+    "home": 5,
+    "away": 5
+   }
   },
   {
    "id": "espn-1907343",
@@ -79,22 +94,61 @@
    "type": "try",
    "team": "home",
    "player": "Jack Dempsey",
-   "detail": "Try",
+   "detail": "Try (10-5)",
    "playerName": "Jack Dempsey",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907346",
+   "minute": 29,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Finn Russell",
+   "detail": "Conversion (12-5)",
+   "playerName": "Finn Russell",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907348",
+   "minute": 36,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jamie Dobie",
+   "detail": "replaces Kyle Steyn",
+   "playerOn": "Jamie Dobie",
+   "playerOff": "Kyle Steyn",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907350",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Kyle Steyn",
+   "detail": "replaces Jamie Dobie",
+   "playerOn": "Kyle Steyn",
+   "playerOff": "Jamie Dobie",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 5,
+  "home": 12,
   "away": 5
  },
  "plays_summed": {
-  "home": 10,
+  "home": 12,
   "away": 5
- },
- "unexplained_gap": {
-  "home": -5,
-  "away": 0
  }
 }
