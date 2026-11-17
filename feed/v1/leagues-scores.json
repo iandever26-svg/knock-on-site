@@ -1,31 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-16T09:21:17.413Z",
- "updatedAt": "2026-11-16T09:21:17.413Z",
+ "generatedAt": "2026-11-17T13:23:50.543Z",
+ "updatedAt": "2026-11-17T13:23:50.543Z",
  "note": "ESPN-sourced; may lag",
- "scores": [
-  {
-   "schema_version": "1.0.0",
-   "match_id": "ncup-2026-11-15-sco-aus",
-   "status": "ft",
-   "home_score": 15,
-   "away_score": 12,
-   "clock": "FT",
-   "period": "FT",
-   "updated_at": "2026-11-16T09:21:17.413Z",
-   "provenance": [
-    {
-     "source_name": "espn",
-     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-16T09:21:17.413Z",
-     "espn_event_id": "604004",
-     "may_lag": true
-    }
-   ],
-   "second_half_seen_at": "2026-11-15T16:08:36.912Z",
-   "latest_event_minute": 63,
-   "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-11-15T16:36:08.291Z"
-  }
- ]
+ "scores": []
 }
