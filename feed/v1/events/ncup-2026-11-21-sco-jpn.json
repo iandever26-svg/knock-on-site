@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-21-sco-jpn",
+ "matchId": "ncup-2026-11-21-sco-jpn",
+ "updated_at": "2026-11-21T14:32:33.881Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604006/competitions/604006/plays?limit=400",
+   "fetched_at": "2026-11-21T14:32:33.881Z",
+   "espn_event_id": "604006",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1907624",
+   "minute": 6,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Darcy Graham",
+   "detail": "Try (5-0)",
+   "playerName": "Darcy Graham",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907624-cm",
+   "minute": 6,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (5-0)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907627",
+   "minute": 13,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Liam McConnell",
+   "detail": "Try (10-0)",
+   "playerName": "Liam McConnell",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907628",
+   "minute": 14,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Tom Jordan",
+   "detail": "Conversion (12-0)",
+   "playerName": "Tom Jordan",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 12,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907629",
+   "minute": 20,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Kyle Rowe",
+   "detail": "Try (17-0)",
+   "playerName": "Kyle Rowe",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 0
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 17,
+  "away": 0
+ },
+ "plays_summed": {
+  "home": 17,
+  "away": 0
+ }
+}
