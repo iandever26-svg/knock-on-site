@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-ita-fij",
  "matchId": "ncup-2026-11-21-ita-fij",
- "updated_at": "2026-11-21T17:10:49.760Z",
+ "updated_at": "2026-11-21T17:33:15.426Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604008/competitions/604008/plays?limit=400",
-   "fetched_at": "2026-11-21T17:10:49.760Z",
+   "fetched_at": "2026-11-21T17:33:15.426Z",
    "espn_event_id": "604008",
    "espn_league_id": 17567
   }
@@ -89,15 +89,30 @@
     "home": 10,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1907834",
+   "minute": 33,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Tommaso Allan",
+   "detail": "Penalty (13-7)",
+   "playerName": "Tommaso Allan",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 13,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 10,
+  "home": 13,
   "away": 7
  },
  "plays_summed": {
-  "home": 10,
+  "home": 13,
   "away": 7
  }
 }

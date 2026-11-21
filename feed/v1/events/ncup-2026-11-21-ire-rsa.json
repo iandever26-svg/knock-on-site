@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-ire-rsa",
  "matchId": "ncup-2026-11-21-ire-rsa",
- "updated_at": "2026-11-21T17:10:49.760Z",
+ "updated_at": "2026-11-21T17:33:15.426Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604007/competitions/604007/plays?limit=400",
-   "fetched_at": "2026-11-21T17:10:49.760Z",
+   "fetched_at": "2026-11-21T17:33:15.426Z",
    "espn_event_id": "604007",
    "espn_league_id": 17567
   }
@@ -101,15 +101,99 @@
    "playerOn": "Canan Moodie",
    "playerOff": "Damian Willemse",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1907826",
+   "minute": 28,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Bundee Aki",
+   "detail": "replaces Robbie Henshaw",
+   "playerOn": "Bundee Aki",
+   "playerOff": "Robbie Henshaw",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907828",
+   "minute": 32,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Robbie Henshaw",
+   "detail": "replaces Bundee Aki",
+   "playerOn": "Robbie Henshaw",
+   "playerOff": "Bundee Aki",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907832",
+   "minute": 36,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Morne van den Berg",
+   "detail": "Try (10-8)",
+   "playerName": "Morne van den Berg",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 8
+   }
+  },
+  {
+   "id": "espn-1907833",
+   "minute": 37,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (10-10)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1907835",
+   "minute": 40,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Ronan Kelleher",
+   "detail": "Try (15-10)",
+   "playerName": "Ronan Kelleher",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1907836",
+   "minute": 41,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Prendergast",
+   "detail": "Conversion (17-10)",
+   "playerName": "Sam Prendergast",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 10
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 10,
-  "away": 3
+  "home": 17,
+  "away": 10
  },
  "plays_summed": {
-  "home": 10,
-  "away": 3
+  "home": 17,
+  "away": 10
  }
 }
