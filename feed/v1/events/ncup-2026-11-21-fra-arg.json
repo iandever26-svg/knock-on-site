@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-fra-arg",
  "matchId": "ncup-2026-11-21-fra-arg",
- "updated_at": "2026-11-21T20:58:19.486Z",
+ "updated_at": "2026-11-21T21:11:14.722Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604009/competitions/604009/plays?limit=400",
-   "fetched_at": "2026-11-21T20:58:19.486Z",
+   "fetched_at": "2026-11-21T21:11:14.722Z",
    "espn_event_id": "604009",
    "espn_league_id": 17567
   }
@@ -143,6 +143,30 @@
     "home": 14,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1907997",
+   "minute": 40,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Pedro Rubiolo",
+   "detail": "replaces Tomas Lavanini",
+   "playerOn": "Pedro Rubiolo",
+   "playerOff": "Tomas Lavanini",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907999",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Pablo Matera",
+   "detail": "replaces Facundo Isa",
+   "playerOn": "Pablo Matera",
+   "playerOff": "Facundo Isa",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

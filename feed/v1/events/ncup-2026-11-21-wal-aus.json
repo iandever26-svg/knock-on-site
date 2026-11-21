@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-wal-aus",
  "matchId": "ncup-2026-11-21-wal-aus",
- "updated_at": "2026-11-21T20:58:19.486Z",
+ "updated_at": "2026-11-21T21:11:14.722Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604010/competitions/604010/plays?limit=400",
-   "fetched_at": "2026-11-21T20:58:19.486Z",
+   "fetched_at": "2026-11-21T21:11:14.722Z",
    "espn_event_id": "604010",
    "espn_league_id": 17567
   }
@@ -89,15 +89,45 @@
     "home": 0,
     "away": 12
    }
+  },
+  {
+   "id": "espn-1907993",
+   "minute": 41,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Dewi Lake",
+   "detail": "Try (5-12)",
+   "playerName": "Dewi Lake",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1907994",
+   "minute": 42,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Costelow",
+   "detail": "Conversion (7-12)",
+   "playerName": "Sam Costelow",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
+  "home": 7,
   "away": 12
  },
  "plays_summed": {
-  "home": 0,
+  "home": 7,
   "away": 12
  }
 }
