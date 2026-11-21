@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-sco-jpn",
  "matchId": "ncup-2026-11-21-sco-jpn",
- "updated_at": "2026-11-21T15:20:09.423Z",
+ "updated_at": "2026-11-21T15:37:51.418Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604006/competitions/604006/plays?limit=400",
-   "fetched_at": "2026-11-21T15:20:09.423Z",
+   "fetched_at": "2026-11-21T15:37:51.418Z",
    "espn_event_id": "604006",
    "espn_league_id": 17567
   }
@@ -226,8 +226,20 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1907654",
-   "minute": 49,
+   "id": "espn-1907663",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tiennan Costley",
+   "detail": "replaces Ben Gunter",
+   "playerOn": "Tiennan Costley",
+   "playerOff": "Ben Gunter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907660",
+   "minute": 48,
    "period": "2H",
    "type": "try",
    "team": "home",
@@ -239,15 +251,252 @@
     "home": 34,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1907660-cm",
+   "minute": 48,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (34-0)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 34,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907665",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mamoru Harada",
+   "detail": "replaces Kenji Sato",
+   "playerOn": "Mamoru Harada",
+   "playerOff": "Kenji Sato",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907706",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Shinobu Fujiwara",
+   "detail": "replaces Naoto Saito",
+   "playerOn": "Shinobu Fujiwara",
+   "playerOff": "Naoto Saito",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907677",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Magnus Bradbury",
+   "detail": "replaces Matt Fagerson",
+   "playerOn": "Magnus Bradbury",
+   "playerOff": "Matt Fagerson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907679",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Seb Stephen",
+   "detail": "replaces Gregor Hiddleston",
+   "playerOn": "Seb Stephen",
+   "playerOff": "Gregor Hiddleston",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907708",
+   "minute": 53,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Takuro Matsunaga",
+   "detail": "Try (34-5)",
+   "playerName": "Takuro Matsunaga",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 34,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907708-cm",
+   "minute": 53,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (34-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 34,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907715",
+   "minute": 56,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Liam McConnell",
+   "detail": "Try (39-5)",
+   "playerName": "Liam McConnell",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 39,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907722",
+   "minute": 57,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Tom Jordan",
+   "detail": "Conversion (41-5)",
+   "playerName": "Tom Jordan",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 41,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907737",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Will Hurd",
+   "detail": "replaces Zander Fagerson",
+   "playerOn": "Will Hurd",
+   "playerOff": "Zander Fagerson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907739",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gregor Brown",
+   "detail": "replaces Max Williamson",
+   "playerOn": "Gregor Brown",
+   "playerOff": "Max Williamson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907741",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "George Horne",
+   "detail": "replaces Kyle Rowe",
+   "playerOn": "George Horne",
+   "playerOff": "Kyle Rowe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907743",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Blair Kinghorn",
+   "detail": "replaces Tom Jordan",
+   "playerOn": "Blair Kinghorn",
+   "playerOff": "Tom Jordan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907726",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Michael Stolberg",
+   "detail": "replaces Faulua Makisi",
+   "playerOn": "Michael Stolberg",
+   "playerOff": "Faulua Makisi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907757",
+   "minute": 62,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Jamie Dobie",
+   "detail": "Try (46-5)",
+   "playerName": "Jamie Dobie",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 46,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907758",
+   "minute": 63,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "George Horne",
+   "detail": "Conversion (48-5)",
+   "playerName": "George Horne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 48,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907759",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Riku Kitahara",
+   "detail": "replaces Shinya Komura",
+   "playerOn": "Riku Kitahara",
+   "playerOff": "Shinya Komura",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907761",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ruan Botha",
+   "detail": "replaces Warner Dearns",
+   "playerOn": "Ruan Botha",
+   "playerOff": "Warner Dearns",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 34,
-  "away": 0
+  "home": 48,
+  "away": 5
  },
  "plays_summed": {
-  "home": 34,
-  "away": 0
+  "home": 48,
+  "away": 5
  }
 }
