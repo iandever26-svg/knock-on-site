@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-ire-rsa",
  "matchId": "ncup-2026-11-21-ire-rsa",
- "updated_at": "2026-11-21T17:33:15.426Z",
+ "updated_at": "2026-11-21T17:51:19.386Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604007/competitions/604007/plays?limit=400",
-   "fetched_at": "2026-11-21T17:33:15.426Z",
+   "fetched_at": "2026-11-21T17:51:19.386Z",
    "espn_event_id": "604007",
    "espn_league_id": 17567
   }
@@ -185,6 +185,18 @@
     "home": 17,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1907840",
+   "minute": 44,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Nick Timoney",
+   "detail": "replaces Dan Sheehan",
+   "playerOn": "Nick Timoney",
+   "playerOff": "Dan Sheehan",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",

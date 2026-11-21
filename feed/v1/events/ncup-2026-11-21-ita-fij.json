@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-ita-fij",
  "matchId": "ncup-2026-11-21-ita-fij",
- "updated_at": "2026-11-21T17:33:15.426Z",
+ "updated_at": "2026-11-21T17:51:19.386Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604008/competitions/604008/plays?limit=400",
-   "fetched_at": "2026-11-21T17:33:15.426Z",
+   "fetched_at": "2026-11-21T17:51:19.386Z",
    "espn_event_id": "604008",
    "espn_league_id": 17567
   }
@@ -104,15 +104,57 @@
     "home": 13,
     "away": 7
    }
+  },
+  {
+   "id": "espn-1907838",
+   "minute": 43,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Caleb Muntz",
+   "detail": "replaces Ben Volavola",
+   "playerOn": "Caleb Muntz",
+   "playerOff": "Ben Volavola",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907842",
+   "minute": 45,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Tevita Ikanivere",
+   "detail": "Try (13-12)",
+   "playerName": "Tevita Ikanivere",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 13,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1907843",
+   "minute": 47,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Caleb Muntz",
+   "detail": "Conversion (13-14)",
+   "playerName": "Caleb Muntz",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 13,
+    "away": 14
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 13,
-  "away": 7
+  "away": 14
  },
  "plays_summed": {
   "home": 13,
-  "away": 7
+  "away": 14
  }
 }
