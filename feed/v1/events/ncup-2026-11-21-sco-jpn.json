@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-sco-jpn",
  "matchId": "ncup-2026-11-21-sco-jpn",
- "updated_at": "2026-11-21T15:04:14.789Z",
+ "updated_at": "2026-11-21T15:20:09.423Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604006/competitions/604006/plays?limit=400",
-   "fetched_at": "2026-11-21T15:04:14.789Z",
+   "fetched_at": "2026-11-21T15:20:09.423Z",
    "espn_event_id": "604006",
    "espn_league_id": 17567
   }
@@ -161,15 +161,93 @@
     "home": 29,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1907638-cm",
+   "minute": 40,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (29-0)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 29,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907642",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tiennan Costley",
+   "detail": "replaces Charlie Lawrence",
+   "playerOn": "Tiennan Costley",
+   "playerOff": "Charlie Lawrence",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907644",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Yota Kamimori",
+   "detail": "replaces Sojiro Otsuka",
+   "playerOn": "Yota Kamimori",
+   "playerOff": "Sojiro Otsuka",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907646",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Rory Sutherland",
+   "detail": "replaces Nathan McBeth",
+   "playerOn": "Rory Sutherland",
+   "playerOff": "Nathan McBeth",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907649",
+   "minute": 44,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Charlie Lawrence",
+   "detail": "replaces Tiennan Costley",
+   "playerOn": "Charlie Lawrence",
+   "playerOff": "Tiennan Costley",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907654",
+   "minute": 49,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Liam McConnell",
+   "detail": "Try (34-0)",
+   "playerName": "Liam McConnell",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 34,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 29,
+  "home": 34,
   "away": 0
  },
  "plays_summed": {
-  "home": 29,
+  "home": 34,
   "away": 0
  }
 }

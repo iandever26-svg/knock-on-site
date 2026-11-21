@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-eng-nzl",
  "matchId": "ncup-2026-11-21-eng-nzl",
- "updated_at": "2026-11-21T15:04:14.789Z",
+ "updated_at": "2026-11-21T15:20:09.423Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604005/competitions/604005/plays?limit=400",
-   "fetched_at": "2026-11-21T15:04:14.789Z",
+   "fetched_at": "2026-11-21T15:20:09.423Z",
    "espn_event_id": "604005",
    "espn_league_id": 17567
   }
@@ -106,7 +106,7 @@
    }
   },
   {
-   "id": "espn-1907640",
+   "id": "espn-1907641",
    "minute": 39,
    "period": "1H",
    "type": "try",
@@ -119,15 +119,45 @@
     "home": 19,
     "away": 5
    }
+  },
+  {
+   "id": "espn-1907641-cm",
+   "minute": 39,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (19-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 19,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907653",
+   "minute": 43,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ollie Chessum",
+   "detail": "Try (24-5)",
+   "playerName": "Ollie Chessum",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 5
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 19,
+  "home": 24,
   "away": 5
  },
  "plays_summed": {
-  "home": 19,
+  "home": 24,
   "away": 5
  }
 }
