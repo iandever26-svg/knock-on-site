@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-21-fra-arg",
+ "matchId": "ncup-2026-11-21-fra-arg",
+ "updated_at": "2026-11-21T20:29:39.644Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604009/competitions/604009/plays?limit=400",
+   "fetched_at": "2026-11-21T20:29:39.644Z",
+   "espn_event_id": "604009",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1907973",
+   "minute": 7,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Mickael Guillard",
+   "detail": "Try (5-0)",
+   "playerName": "Mickael Guillard",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907974",
+   "minute": 8,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Kalvin Gourgues",
+   "detail": "Conversion (7-0)",
+   "playerName": "Kalvin Gourgues",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907977",
+   "minute": 9,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Rodrigo Isgro",
+   "detail": "replaces Bautista Delguy",
+   "playerOn": "Rodrigo Isgro",
+   "playerOff": "Bautista Delguy",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907979",
+   "minute": 17,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Justo Piccardo",
+   "detail": "Try (7-5)",
+   "playerName": "Justo Piccardo",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907980",
+   "minute": 18,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Tomas Albornoz",
+   "detail": "Conversion (7-7)",
+   "playerName": "Tomas Albornoz",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1907981",
+   "minute": 18,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mayco Vivas",
+   "detail": "replaces Boris Wenger",
+   "playerOn": "Mayco Vivas",
+   "playerOff": "Boris Wenger",
+   "label": "Substitution"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 7,
+  "away": 7
+ },
+ "plays_summed": {
+  "home": 7,
+  "away": 7
+ }
+}

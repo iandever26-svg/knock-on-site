@@ -16,6 +16,16 @@
       "eventsUpdatedAt": "2026-11-21T16:04:43.009Z"
     },
     {
+      "match_id": "ncup-2026-11-21-fra-arg",
+      "kickoff": "2026-11-21T20:10:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-11-21T20:29:39.644Z"
+    },
+    {
       "match_id": "ncup-2026-11-21-ire-rsa",
       "kickoff": "2026-11-21T16:40:00+00:00",
       "score": false,
@@ -44,6 +54,16 @@
       "lineupUpdatedAt": null,
       "events": true,
       "eventsUpdatedAt": "2026-11-21T16:04:43.009Z"
+    },
+    {
+      "match_id": "ncup-2026-11-21-wal-aus",
+      "kickoff": "2026-11-21T20:10:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-11-21T20:29:39.644Z"
     },
     {
       "match_id": "urc-2026-09-25-ben-dra",
