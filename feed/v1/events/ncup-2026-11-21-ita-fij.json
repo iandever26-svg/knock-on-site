@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "ncup-2026-11-21-ita-fij",
+ "matchId": "ncup-2026-11-21-ita-fij",
+ "updated_at": "2026-11-21T17:05:27.550Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604008/competitions/604008/plays?limit=400",
+   "fetched_at": "2026-11-21T17:05:27.550Z",
+   "espn_event_id": "604008",
+   "espn_league_id": 17567
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1907814",
+   "minute": 9,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Lorenzo Cannone",
+   "detail": "Try (5-0)",
+   "playerName": "Lorenzo Cannone",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907815",
+   "minute": 10,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Tommaso Allan",
+   "detail": "Conversion (7-0)",
+   "playerName": "Tommaso Allan",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907816",
+   "minute": 14,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Tommaso Allan",
+   "detail": "Penalty (10-0)",
+   "playerName": "Tommaso Allan",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 10,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907822",
+   "minute": 18,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Tevita Ikanivere",
+   "detail": "Try (10-5)",
+   "playerName": "Tevita Ikanivere",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907823",
+   "minute": 19,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Ben Volavola",
+   "detail": "Conversion (10-7)",
+   "playerName": "Ben Volavola",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 7
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 10,
+  "away": 7
+ },
+ "plays_summed": {
+  "home": 10,
+  "away": 7
+ }
+}

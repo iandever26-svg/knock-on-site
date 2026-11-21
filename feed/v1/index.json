@@ -23,7 +23,17 @@
       "lineup": false,
       "lineupUpdatedAt": null,
       "events": true,
-      "eventsUpdatedAt": "2026-11-21T16:48:39.660Z"
+      "eventsUpdatedAt": "2026-11-21T17:05:27.550Z"
+    },
+    {
+      "match_id": "ncup-2026-11-21-ita-fij",
+      "kickoff": "2026-11-21T16:40:00+00:00",
+      "score": false,
+      "scoreUpdatedAt": null,
+      "lineup": false,
+      "lineupUpdatedAt": null,
+      "events": true,
+      "eventsUpdatedAt": "2026-11-21T17:05:27.550Z"
     },
     {
       "match_id": "ncup-2026-11-21-sco-jpn",
