@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-sco-jpn",
  "matchId": "ncup-2026-11-21-sco-jpn",
- "updated_at": "2026-11-21T14:32:33.881Z",
+ "updated_at": "2026-11-21T14:43:34.119Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604006/competitions/604006/plays?limit=400",
-   "fetched_at": "2026-11-21T14:32:33.881Z",
+   "fetched_at": "2026-11-21T14:43:34.119Z",
    "espn_event_id": "604006",
    "espn_league_id": 17567
   }
@@ -89,15 +89,60 @@
     "home": 17,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1907629-cm",
+   "minute": 20,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (17-0)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 17,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907630",
+   "minute": 31,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Darcy Graham",
+   "detail": "Try (22-0)",
+   "playerName": "Darcy Graham",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1907631",
+   "minute": 32,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Tom Jordan",
+   "detail": "Conversion (24-0)",
+   "playerName": "Tom Jordan",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 24,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 17,
+  "home": 24,
   "away": 0
  },
  "plays_summed": {
-  "home": 17,
+  "home": 24,
   "away": 0
  }
 }

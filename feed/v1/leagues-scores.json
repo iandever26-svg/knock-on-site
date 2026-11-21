@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-21T14:32:33.881Z",
- "updatedAt": "2026-11-21T14:32:33.881Z",
+ "generatedAt": "2026-11-21T14:43:34.119Z",
+ "updatedAt": "2026-11-21T14:43:34.119Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 0,
    "clock": null,
    "period": "1H",
-   "updated_at": "2026-11-21T14:32:33.881Z",
+   "updated_at": "2026-11-21T14:43:34.119Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-21T14:32:33.881Z",
+     "fetched_at": "2026-11-21T14:43:34.119Z",
      "espn_event_id": "604005",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -33,16 +33,16 @@
    "schema_version": "1.0.0",
    "match_id": "ncup-2026-11-21-sco-jpn",
    "status": "live",
-   "home_score": 17,
+   "home_score": 24,
    "away_score": 0,
    "clock": null,
    "period": "1H",
-   "updated_at": "2026-11-21T14:32:33.881Z",
+   "updated_at": "2026-11-21T14:43:34.119Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-21T14:32:33.881Z",
+     "fetched_at": "2026-11-21T14:43:34.119Z",
      "espn_event_id": "604006",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -50,9 +50,9 @@
      "espn_period": 1
     }
    ],
-   "latest_event_minute": 20,
+   "latest_event_minute": 32,
    "latest_event_period": "1H",
-   "latest_event_seen_at": "2026-11-21T14:32:33.881Z"
+   "latest_event_seen_at": "2026-11-21T14:43:34.119Z"
   }
  ]
 }

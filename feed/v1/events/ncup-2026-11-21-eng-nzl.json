@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-eng-nzl",
  "matchId": "ncup-2026-11-21-eng-nzl",
- "updated_at": "2026-11-21T14:32:33.881Z",
+ "updated_at": "2026-11-21T14:43:34.119Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604005/competitions/604005/plays?limit=400",
-   "fetched_at": "2026-11-21T14:32:33.881Z",
+   "fetched_at": "2026-11-21T14:43:34.119Z",
    "espn_event_id": "604005",
    "espn_league_id": 17567
   }
