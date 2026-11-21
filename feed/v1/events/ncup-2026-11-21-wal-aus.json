@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-wal-aus",
  "matchId": "ncup-2026-11-21-wal-aus",
- "updated_at": "2026-11-21T21:54:16.316Z",
- "final": false,
+ "updated_at": "2026-11-21T22:14:29.268Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604010/competitions/604010/plays?limit=400",
-   "fetched_at": "2026-11-21T21:54:16.316Z",
+   "fetched_at": "2026-11-21T22:14:29.268Z",
    "espn_event_id": "604010",
    "espn_league_id": 17567
   }
@@ -334,7 +334,7 @@
    }
   },
   {
-   "id": "espn-1908092",
+   "id": "espn-1908124",
    "minute": 65,
    "period": "2H",
    "type": "conversion_made",
@@ -349,7 +349,7 @@
    }
   },
   {
-   "id": "espn-1908094",
+   "id": "espn-1908125",
    "minute": 65,
    "period": "2H",
    "type": "substitution",
@@ -407,15 +407,111 @@
    "playerOn": "Jeremy Williams",
    "playerOff": "Josh Canham",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1908134",
+   "minute": 74,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Carter Gordon",
+   "detail": "Penalty (21-29)",
+   "playerName": "Carter Gordon",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 21,
+    "away": 29
+   }
+  },
+  {
+   "id": "espn-1908159",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jac Morgan",
+   "detail": "replaces Kane James",
+   "playerOn": "Jac Morgan",
+   "playerOff": "Kane James",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908161",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Kane James",
+   "detail": "replaces Ben Carter",
+   "playerOn": "Kane James",
+   "playerOff": "Ben Carter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908163",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ben Donaldson",
+   "detail": "replaces Len Ikitau",
+   "playerOn": "Ben Donaldson",
+   "playerOff": "Len Ikitau",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908149",
+   "minute": 78,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Harry Wilson",
+   "detail": "Yellow card (21-29)",
+   "playerName": "Harry Wilson",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 21,
+    "away": 29
+   }
+  },
+  {
+   "id": "espn-1908150",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ryan Elias",
+   "detail": "Try (26-29)",
+   "playerName": "Ryan Elias",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 29
+   }
+  },
+  {
+   "id": "espn-1908150-cm",
+   "minute": 79,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (26-29)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 26,
+    "away": 29
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
-  "away": 26
+  "home": 26,
+  "away": 29
  },
  "plays_summed": {
-  "home": 21,
-  "away": 26
+  "home": 26,
+  "away": 29
  }
 }

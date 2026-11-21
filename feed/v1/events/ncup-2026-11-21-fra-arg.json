@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-fra-arg",
  "matchId": "ncup-2026-11-21-fra-arg",
- "updated_at": "2026-11-21T21:54:16.316Z",
- "final": false,
+ "updated_at": "2026-11-21T22:14:29.268Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604009/competitions/604009/plays?limit=400",
-   "fetched_at": "2026-11-21T21:54:16.316Z",
+   "fetched_at": "2026-11-21T22:14:29.268Z",
    "espn_event_id": "604009",
    "espn_league_id": 17567
   }
@@ -307,20 +307,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1908059",
-   "minute": 61,
-   "period": "2H",
-   "type": "substitution",
-   "team": "home",
-   "player": "Maxime Lucu",
-   "detail": "replaces Matthieu Jalibert",
-   "playerOn": "Maxime Lucu",
-   "playerOff": "Matthieu Jalibert",
-   "label": "Substitution"
-  },
-  {
-   "id": "espn-1908091",
-   "minute": 61,
+   "id": "espn-1908168",
+   "minute": 59,
    "period": "2H",
    "type": "red_card",
    "team": "away",
@@ -332,6 +320,18 @@
     "home": 21,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1908059",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Maxime Lucu",
+   "detail": "replaces Matthieu Jalibert",
+   "playerOn": "Maxime Lucu",
+   "playerOff": "Matthieu Jalibert",
+   "label": "Substitution"
   },
   {
    "id": "espn-1908061",
@@ -502,8 +502,8 @@
    }
   },
   {
-   "id": "espn-1908117",
-   "minute": 74,
+   "id": "espn-1908127",
+   "minute": 73,
    "period": "2H",
    "type": "conversion_made",
    "team": "away",
@@ -515,15 +515,105 @@
     "home": 38,
     "away": 17
    }
+  },
+  {
+   "id": "espn-1908130",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Maxime Lamothe",
+   "detail": "replaces Peato Mauvaka",
+   "playerOn": "Maxime Lamothe",
+   "playerOff": "Peato Mauvaka",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908135",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Facundo Bosch",
+   "detail": "replaces Julian Montoya",
+   "playerOn": "Facundo Bosch",
+   "playerOff": "Julian Montoya",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908143",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Guido Petti",
+   "detail": "replaces Joel Sclavi",
+   "playerOn": "Guido Petti",
+   "playerOff": "Joel Sclavi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908145",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Facundo Isa",
+   "detail": "replaces Pablo Matera",
+   "playerOn": "Facundo Isa",
+   "playerOff": "Pablo Matera",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908147",
+   "minute": 78,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Louis Bielle-Biarrey",
+   "detail": "Try (43-17)",
+   "playerName": "Louis Bielle-Biarrey",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 43,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1908148",
+   "minute": 79,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Kalvin Gourgues",
+   "detail": "Conversion (45-17)",
+   "playerName": "Kalvin Gourgues",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 45,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1908165",
+   "minute": 79,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jefferson Poirot",
+   "detail": "replaces Rodrigue Neti",
+   "playerOn": "Jefferson Poirot",
+   "playerOff": "Rodrigue Neti",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 38,
+  "home": 45,
   "away": 17
  },
  "plays_summed": {
-  "home": 38,
+  "home": 45,
   "away": 17
  }
 }
