@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-eng-nzl",
  "matchId": "ncup-2026-11-21-eng-nzl",
- "updated_at": "2026-11-21T15:45:59.635Z",
- "final": false,
+ "updated_at": "2026-11-21T16:04:43.009Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604005/competitions/604005/plays?limit=400",
-   "fetched_at": "2026-11-21T15:45:59.635Z",
+   "fetched_at": "2026-11-21T16:04:43.009Z",
    "espn_event_id": "604005",
    "espn_league_id": 17567
   }
@@ -346,7 +346,7 @@
    }
   },
   {
-   "id": "espn-1907766",
+   "id": "espn-1907802",
    "minute": 64,
    "period": "2H",
    "type": "conversion_made",
@@ -421,7 +421,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1907776",
+   "id": "espn-1907788",
    "minute": 67,
    "period": "2H",
    "type": "substitution",
@@ -431,15 +431,54 @@
    "playerOn": "Henry Pollock",
    "playerOff": "Cadan Murley",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1907790",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alex Coles",
+   "detail": "replaces George Martin",
+   "playerOn": "Alex Coles",
+   "playerOff": "George Martin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907810",
+   "minute": 80,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "George Martin",
+   "detail": "replaces Alex Coles",
+   "playerOn": "George Martin",
+   "playerOff": "Alex Coles",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907809",
+   "minute": 81,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Penalty (37-12)",
+   "playerName": "Marcus Smith",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 37,
+    "away": 12
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 34,
+  "home": 37,
   "away": 12
  },
  "plays_summed": {
-  "home": 34,
+  "home": 37,
   "away": 12
  }
 }

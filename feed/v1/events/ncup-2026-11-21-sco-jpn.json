@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-sco-jpn",
  "matchId": "ncup-2026-11-21-sco-jpn",
- "updated_at": "2026-11-21T15:45:59.635Z",
- "final": false,
+ "updated_at": "2026-11-21T16:04:43.009Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604006/competitions/604006/plays?limit=400",
-   "fetched_at": "2026-11-21T15:45:59.635Z",
+   "fetched_at": "2026-11-21T16:04:43.009Z",
    "espn_event_id": "604006",
    "espn_league_id": 17567
   }
@@ -520,8 +520,8 @@
    }
   },
   {
-   "id": "espn-1907784",
-   "minute": 71,
+   "id": "espn-1907792",
+   "minute": 69,
    "period": "2H",
    "type": "yellow_card",
    "team": "away",
@@ -533,15 +533,114 @@
     "home": 55,
     "away": 5
    }
+  },
+  {
+   "id": "espn-1907793",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Freddy Douglas",
+   "detail": "replaces Ollie Leatherbarrow",
+   "playerOn": "Freddy Douglas",
+   "playerOff": "Ollie Leatherbarrow",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907799",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kenji Sato",
+   "detail": "replaces Jack Cornelsen",
+   "playerOn": "Kenji Sato",
+   "playerOff": "Jack Cornelsen",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907801",
+   "minute": 74,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Rory Hutchinson",
+   "detail": "Try (60-5)",
+   "playerName": "Rory Hutchinson",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 60,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907801-cm",
+   "minute": 74,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (60-5)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 60,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907804",
+   "minute": 78,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Michael Stolberg",
+   "detail": "Yellow card (60-5)",
+   "playerName": "Michael Stolberg",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 60,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907807",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Darcy Graham",
+   "detail": "Try (65-5)",
+   "playerName": "Darcy Graham",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 65,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907808",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "George Horne",
+   "detail": "Conversion (67-5)",
+   "playerName": "George Horne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 67,
+    "away": 5
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 55,
+  "home": 67,
   "away": 5
  },
  "plays_summed": {
-  "home": 55,
+  "home": 67,
   "away": 5
  }
 }
