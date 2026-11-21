@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-wal-aus",
  "matchId": "ncup-2026-11-21-wal-aus",
- "updated_at": "2026-11-21T21:21:55.279Z",
+ "updated_at": "2026-11-21T21:54:16.316Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604010/competitions/604010/plays?limit=400",
-   "fetched_at": "2026-11-21T21:21:55.279Z",
+   "fetched_at": "2026-11-21T21:54:16.316Z",
    "espn_event_id": "604010",
    "espn_league_id": 17567
   }
@@ -281,15 +281,141 @@
     "home": 21,
     "away": 19
    }
+  },
+  {
+   "id": "espn-1908079",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Kalani Thomas",
+   "detail": "replaces Ryan Lonergan",
+   "playerOn": "Kalani Thomas",
+   "playerOff": "Ryan Lonergan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908081",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ryan Elias",
+   "detail": "replaces Dewi Lake",
+   "playerOn": "Ryan Elias",
+   "playerOff": "Dewi Lake",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908083",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Fraser McReight",
+   "detail": "replaces Carlo Tizzano",
+   "playerOn": "Fraser McReight",
+   "playerOff": "Carlo Tizzano",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908090",
+   "minute": 64,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Len Ikitau",
+   "detail": "Try (21-24)",
+   "playerName": "Len Ikitau",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 21,
+    "away": 24
+   }
+  },
+  {
+   "id": "espn-1908092",
+   "minute": 65,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Carter Gordon",
+   "detail": "Conversion (21-26)",
+   "playerName": "Carter Gordon",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1908094",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dillon Lewis",
+   "detail": "replaces Archie Griffin",
+   "playerOn": "Dillon Lewis",
+   "playerOff": "Archie Griffin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908099",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Kane James",
+   "detail": "replaces Jac Morgan",
+   "playerOn": "Kane James",
+   "playerOff": "Jac Morgan",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908102",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Louie Hennessey",
+   "detail": "replaces Josh Adams",
+   "playerOn": "Louie Hennessey",
+   "playerOff": "Josh Adams",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908107",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Filipo Daugunu",
+   "detail": "replaces Max Jorgensen",
+   "playerOn": "Filipo Daugunu",
+   "playerOff": "Max Jorgensen",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908113",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jeremy Williams",
+   "detail": "replaces Josh Canham",
+   "playerOn": "Jeremy Williams",
+   "playerOff": "Josh Canham",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 21,
-  "away": 19
+  "away": 26
  },
  "plays_summed": {
   "home": 21,
-  "away": 19
+  "away": 26
  }
 }

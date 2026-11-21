@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-fra-arg",
  "matchId": "ncup-2026-11-21-fra-arg",
- "updated_at": "2026-11-21T21:21:55.279Z",
+ "updated_at": "2026-11-21T21:54:16.316Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604009/competitions/604009/plays?limit=400",
-   "fetched_at": "2026-11-21T21:21:55.279Z",
+   "fetched_at": "2026-11-21T21:54:16.316Z",
    "espn_event_id": "604009",
    "espn_league_id": 17567
   }
@@ -307,28 +307,223 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1908057",
-   "minute": 62,
+   "id": "espn-1908059",
+   "minute": 61,
    "period": "2H",
-   "type": "yellow_card",
+   "type": "substitution",
+   "team": "home",
+   "player": "Maxime Lucu",
+   "detail": "replaces Matthieu Jalibert",
+   "playerOn": "Maxime Lucu",
+   "playerOff": "Matthieu Jalibert",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908091",
+   "minute": 61,
+   "period": "2H",
+   "type": "red_card",
    "team": "away",
    "player": "Mayco Vivas",
-   "detail": "Yellow card (21-10)",
+   "detail": "Red card (21-10)",
    "playerName": "Mayco Vivas",
-   "label": "Yellow card",
+   "label": "Red card",
    "scoreAfter": {
     "home": 21,
     "away": 10
+   }
+  },
+  {
+   "id": "espn-1908061",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Emilien Gailleton",
+   "detail": "replaces Aaron Grandidier-Nkanang",
+   "playerOn": "Emilien Gailleton",
+   "playerOff": "Aaron Grandidier-Nkanang",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908087",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Francisco Moreno",
+   "detail": "replaces Rodrigo Isgro",
+   "playerOn": "Francisco Moreno",
+   "playerOff": "Rodrigo Isgro",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908072",
+   "minute": 64,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Emilien Gailleton",
+   "detail": "Try (26-10)",
+   "playerName": "Emilien Gailleton",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908072-cm",
+   "minute": 64,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (26-10)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 26,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908085",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Peato Mauvaka",
+   "detail": "replaces Maxime Lamothe",
+   "playerOn": "Peato Mauvaka",
+   "playerOff": "Maxime Lamothe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908089",
+   "minute": 67,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Julian Montoya",
+   "detail": "Yellow card (26-10)",
+   "playerName": "Julian Montoya",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 26,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908109",
+   "minute": 68,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Tyler Duguid",
+   "detail": "Try (31-10)",
+   "playerName": "Tyler Duguid",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 31,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908101",
+   "minute": 69,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Kalvin Gourgues",
+   "detail": "Conversion (33-10)",
+   "playerName": "Kalvin Gourgues",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 33,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908111",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Rodrigue Neti",
+   "detail": "replaces Jefferson Poirot",
+   "playerOn": "Rodrigue Neti",
+   "playerOff": "Jefferson Poirot",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908115",
+   "minute": 70,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Kalvin Gourgues",
+   "detail": "Try (38-10)",
+   "playerName": "Kalvin Gourgues",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 38,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908115-cm",
+   "minute": 70,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (38-10)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 38,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908116",
+   "minute": 72,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Pablo Matera",
+   "detail": "Try (38-15)",
+   "playerName": "Pablo Matera",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 38,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1908117",
+   "minute": 74,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Tomas Albornoz",
+   "detail": "Conversion (38-17)",
+   "playerName": "Tomas Albornoz",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 38,
+    "away": 17
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 21,
-  "away": 10
+  "home": 38,
+  "away": 17
  },
  "plays_summed": {
-  "home": 21,
-  "away": 10
+  "home": 38,
+  "away": 17
  }
 }
