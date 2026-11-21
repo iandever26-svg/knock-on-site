@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-ita-fij",
  "matchId": "ncup-2026-11-21-ita-fij",
- "updated_at": "2026-11-21T17:05:27.550Z",
+ "updated_at": "2026-11-21T17:10:49.760Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604008/competitions/604008/plays?limit=400",
-   "fetched_at": "2026-11-21T17:05:27.550Z",
+   "fetched_at": "2026-11-21T17:10:49.760Z",
    "espn_event_id": "604008",
    "espn_league_id": 17567
   }
