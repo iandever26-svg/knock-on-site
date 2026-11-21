@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-21T18:08:19.275Z",
- "updatedAt": "2026-11-21T18:08:19.275Z",
+ "generatedAt": "2026-11-21T18:32:39.031Z",
+ "updatedAt": "2026-11-21T18:32:39.031Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 12,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-21T18:08:19.275Z",
+   "updated_at": "2026-11-21T18:32:39.031Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-21T18:08:19.275Z",
+     "fetched_at": "2026-11-21T18:32:39.031Z",
      "espn_event_id": "604005",
      "may_lag": true
     }
@@ -35,12 +35,12 @@
    "away_score": 5,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-21T18:08:19.275Z",
+   "updated_at": "2026-11-21T18:32:39.031Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-21T18:08:19.275Z",
+     "fetched_at": "2026-11-21T18:32:39.031Z",
      "espn_event_id": "604006",
      "may_lag": true
     }
@@ -58,12 +58,12 @@
    "away_score": 17,
    "clock": null,
    "period": "2H",
-   "updated_at": "2026-11-21T18:08:19.275Z",
+   "updated_at": "2026-11-21T18:32:39.031Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-21T18:08:19.275Z",
+     "fetched_at": "2026-11-21T18:32:39.031Z",
      "espn_event_id": "604007",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -72,29 +72,26 @@
     }
    ],
    "second_half_seen_at": "2026-11-21T17:51:19.386Z",
-   "latest_event_minute": 59,
+   "latest_event_minute": 73,
    "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-11-21T18:08:19.275Z"
+   "latest_event_seen_at": "2026-11-21T18:32:39.031Z"
   },
   {
    "schema_version": "1.0.0",
    "match_id": "ncup-2026-11-21-ita-fij",
-   "status": "live",
-   "home_score": 13,
+   "status": "ft",
+   "home_score": 16,
    "away_score": 21,
-   "clock": null,
-   "period": "2H",
-   "updated_at": "2026-11-21T18:08:19.275Z",
+   "clock": "FT",
+   "period": "FT",
+   "updated_at": "2026-11-21T18:32:39.031Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-21T18:08:19.275Z",
+     "fetched_at": "2026-11-21T18:32:39.031Z",
      "espn_event_id": "604008",
-     "may_lag": true,
-     "espn_display_clock": "1'",
-     "espn_clock_seconds": 0,
-     "espn_period": 2
+     "may_lag": true
     }
    ],
    "second_half_seen_at": "2026-11-21T17:51:19.386Z",

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-ita-fij",
  "matchId": "ncup-2026-11-21-ita-fij",
- "updated_at": "2026-11-21T18:08:19.275Z",
- "final": false,
+ "updated_at": "2026-11-21T18:32:39.031Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604008/competitions/604008/plays?limit=400",
-   "fetched_at": "2026-11-21T18:08:19.275Z",
+   "fetched_at": "2026-11-21T18:32:39.031Z",
    "espn_event_id": "604008",
    "espn_league_id": 17567
   }
@@ -260,15 +260,126 @@
    "playerOn": "Enoch Opoku-Gyamfi",
    "playerOff": "Niccolo Cannone",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1907916",
+   "minute": 65,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Tommaso Allan",
+   "detail": "Penalty (16-21)",
+   "playerName": "Tommaso Allan",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 16,
+    "away": 21
+   }
+  },
+  {
+   "id": "espn-1907923",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Terio Tamani",
+   "detail": "replaces Frank Lomani",
+   "playerOn": "Terio Tamani",
+   "playerOff": "Frank Lomani",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907925",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joseva Tamani",
+   "detail": "replaces Setareki Turagacoke",
+   "playerOn": "Joseva Tamani",
+   "playerOff": "Setareki Turagacoke",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907927",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Federico Ruzza",
+   "detail": "replaces Alessandro Ortombina",
+   "playerOn": "Federico Ruzza",
+   "playerOff": "Alessandro Ortombina",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907929",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Muhamed Hasa",
+   "detail": "replaces Danilo Fischetti",
+   "playerOn": "Muhamed Hasa",
+   "playerOff": "Danilo Fischetti",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907937",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ion Neculai",
+   "detail": "replaces Marco Riccioni",
+   "playerOn": "Ion Neculai",
+   "playerOff": "Marco Riccioni",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907953",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Iosefo Masi",
+   "detail": "replaces Setareki Bituniyata",
+   "playerOn": "Iosefo Masi",
+   "playerOff": "Setareki Bituniyata",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907963",
+   "minute": 76,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alessandro Garbisi",
+   "detail": "replaces Lorenzo Cannone",
+   "playerOn": "Alessandro Garbisi",
+   "playerOff": "Lorenzo Cannone",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907965",
+   "minute": 77,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Samuele Locatelli",
+   "detail": "replaces Ross Vintcent",
+   "playerOn": "Samuele Locatelli",
+   "playerOff": "Ross Vintcent",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 13,
+  "home": 16,
   "away": 21
  },
  "plays_summed": {
-  "home": 13,
+  "home": 16,
   "away": 21
  }
 }

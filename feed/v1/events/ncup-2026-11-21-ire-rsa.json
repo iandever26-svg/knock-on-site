@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-ire-rsa",
  "matchId": "ncup-2026-11-21-ire-rsa",
- "updated_at": "2026-11-21T18:08:19.275Z",
+ "updated_at": "2026-11-21T18:32:39.031Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604007/competitions/604007/plays?limit=400",
-   "fetched_at": "2026-11-21T18:08:19.275Z",
+   "fetched_at": "2026-11-21T18:32:39.031Z",
    "espn_event_id": "604007",
    "espn_league_id": 17567
   }
@@ -346,6 +346,108 @@
    "detail": "Conversion (20-17)",
    "playerName": "Sacha Feinberg-Mngomezulu",
    "label": "Conversion",
+   "scoreAfter": {
+    "home": 20,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1907896",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "James Ryan",
+   "detail": "replaces Joe McCarthy",
+   "playerOn": "James Ryan",
+   "playerOff": "Joe McCarthy",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907898",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Nick Timoney",
+   "detail": "replaces Josh van der Flier",
+   "playerOn": "Nick Timoney",
+   "playerOff": "Josh van der Flier",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907900",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom Stewart",
+   "detail": "replaces Ronan Kelleher",
+   "playerOn": "Tom Stewart",
+   "playerOff": "Ronan Kelleher",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907904",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jan-Hendrik Wessels",
+   "detail": "replaces Malcolm Marx",
+   "playerOn": "Jan-Hendrik Wessels",
+   "playerOff": "Malcolm Marx",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907914",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Grant Williams",
+   "detail": "replaces Damian de Allende",
+   "playerOn": "Grant Williams",
+   "playerOff": "Damian de Allende",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907931",
+   "minute": 72,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tom O'Toole",
+   "detail": "replaces Andrew Porter",
+   "playerOn": "Tom O'Toole",
+   "playerOff": "Andrew Porter",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907945",
+   "minute": 73,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Dan Sheehan",
+   "detail": "Yellow card (20-17)",
+   "playerName": "Dan Sheehan",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 20,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1907946",
+   "minute": 73,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Marco van Staden",
+   "detail": "Yellow card (20-17)",
+   "playerName": "Marco van Staden",
+   "label": "Yellow card",
    "scoreAfter": {
     "home": 20,
     "away": 17
