@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-fra-arg",
  "matchId": "ncup-2026-11-21-fra-arg",
- "updated_at": "2026-11-21T21:16:35.147Z",
+ "updated_at": "2026-11-21T21:21:55.279Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604009/competitions/604009/plays?limit=400",
-   "fetched_at": "2026-11-21T21:16:35.147Z",
+   "fetched_at": "2026-11-21T21:21:55.279Z",
    "espn_event_id": "604009",
    "espn_league_id": 17567
   }
@@ -229,6 +229,93 @@
    "detail": "Conversion (21-10)",
    "playerName": "Kalvin Gourgues",
    "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908019",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Joel Sclavi",
+   "detail": "replaces Francisco Moreno",
+   "playerOn": "Joel Sclavi",
+   "playerOff": "Francisco Moreno",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908021",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Efrain Elias",
+   "detail": "replaces Guido Petti",
+   "playerOn": "Efrain Elias",
+   "playerOff": "Guido Petti",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908036",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tyler Duguid",
+   "detail": "replaces Mickael Guillard",
+   "playerOn": "Tyler Duguid",
+   "playerOff": "Mickael Guillard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908038",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Cameron Woki",
+   "detail": "replaces Charles Ollivon",
+   "playerOn": "Cameron Woki",
+   "playerOff": "Charles Ollivon",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908040",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gregory Alldritt",
+   "detail": "replaces Anthony Jelonch",
+   "playerOn": "Gregory Alldritt",
+   "playerOff": "Anthony Jelonch",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908043",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Maxime Lamothe",
+   "detail": "replaces Peato Mauvaka",
+   "playerOn": "Maxime Lamothe",
+   "playerOff": "Peato Mauvaka",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908057",
+   "minute": 62,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Mayco Vivas",
+   "detail": "Yellow card (21-10)",
+   "playerName": "Mayco Vivas",
+   "label": "Yellow card",
    "scoreAfter": {
     "home": 21,
     "away": 10

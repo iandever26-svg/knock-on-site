@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-wal-aus",
  "matchId": "ncup-2026-11-21-wal-aus",
- "updated_at": "2026-11-21T21:16:35.147Z",
+ "updated_at": "2026-11-21T21:21:55.279Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604010/competitions/604010/plays?limit=400",
-   "fetched_at": "2026-11-21T21:16:35.147Z",
+   "fetched_at": "2026-11-21T21:21:55.279Z",
    "espn_event_id": "604010",
    "espn_league_id": 17567
   }
@@ -106,6 +106,18 @@
    }
   },
   {
+   "id": "espn-1908017",
+   "minute": 41,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Allan Alaalatoa",
+   "detail": "replaces Taniela Tupou",
+   "playerOn": "Allan Alaalatoa",
+   "playerOff": "Taniela Tupou",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1907994",
    "minute": 42,
    "period": "1H",
@@ -119,15 +131,165 @@
     "home": 7,
     "away": 12
    }
+  },
+  {
+   "id": "espn-1908023",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Reuben Morgan-Williams",
+   "detail": "replaces Tomos Williams",
+   "playerOn": "Reuben Morgan-Williams",
+   "playerOff": "Tomos Williams",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908046",
+   "minute": 47,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Max Jorgensen",
+   "detail": "Try (7-17)",
+   "playerName": "Max Jorgensen",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 7,
+    "away": 17
+   }
+  },
+  {
+   "id": "espn-1908026",
+   "minute": 48,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Ryan Lonergan",
+   "detail": "Conversion (7-19)",
+   "playerName": "Ryan Lonergan",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1908051",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Taine Plumtree",
+   "detail": "replaces Alex Mann",
+   "playerOn": "Taine Plumtree",
+   "playerOff": "Alex Mann",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908053",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gareth Thomas",
+   "detail": "replaces Nicky Smith",
+   "playerOn": "Gareth Thomas",
+   "playerOff": "Nicky Smith",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908031",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Billy Pollard",
+   "detail": "replaces Brandon Paenga-Amosa",
+   "playerOn": "Billy Pollard",
+   "playerOff": "Brandon Paenga-Amosa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908033",
+   "minute": 49,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Angus Bell",
+   "detail": "replaces Isaac Kailea",
+   "playerOn": "Angus Bell",
+   "playerOff": "Isaac Kailea",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908042",
+   "minute": 50,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Dewi Lake",
+   "detail": "Try (12-19)",
+   "playerName": "Dewi Lake",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1908045",
+   "minute": 51,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Costelow",
+   "detail": "Conversion (14-19)",
+   "playerName": "Sam Costelow",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1908055",
+   "minute": 55,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Blair Murray",
+   "detail": "Try (19-19)",
+   "playerName": "Blair Murray",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1908056",
+   "minute": 56,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sam Costelow",
+   "detail": "Conversion (21-19)",
+   "playerName": "Sam Costelow",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 19
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 7,
-  "away": 12
+  "home": 21,
+  "away": 19
  },
  "plays_summed": {
-  "home": 7,
-  "away": 12
+  "home": 21,
+  "away": 19
  }
 }
