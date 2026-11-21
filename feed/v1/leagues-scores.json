@@ -1,23 +1,23 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-21T15:37:51.418Z",
- "updatedAt": "2026-11-21T15:37:51.418Z",
+ "generatedAt": "2026-11-21T15:45:59.635Z",
+ "updatedAt": "2026-11-21T15:45:59.635Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
    "schema_version": "1.0.0",
    "match_id": "ncup-2026-11-21-eng-nzl",
    "status": "live",
-   "home_score": 27,
+   "home_score": 34,
    "away_score": 12,
    "clock": null,
    "period": "2H",
-   "updated_at": "2026-11-21T15:37:51.418Z",
+   "updated_at": "2026-11-21T15:45:59.635Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-21T15:37:51.418Z",
+     "fetched_at": "2026-11-21T15:45:59.635Z",
      "espn_event_id": "604005",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -26,24 +26,24 @@
     }
    ],
    "second_half_seen_at": "2026-11-21T15:20:09.423Z",
-   "latest_event_minute": 57,
+   "latest_event_minute": 67,
    "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-11-21T15:37:51.418Z"
+   "latest_event_seen_at": "2026-11-21T15:45:59.635Z"
   },
   {
    "schema_version": "1.0.0",
    "match_id": "ncup-2026-11-21-sco-jpn",
    "status": "live",
-   "home_score": 48,
+   "home_score": 55,
    "away_score": 5,
    "clock": null,
    "period": "2H",
-   "updated_at": "2026-11-21T15:37:51.418Z",
+   "updated_at": "2026-11-21T15:45:59.635Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/17567/scoreboard",
-     "fetched_at": "2026-11-21T15:37:51.418Z",
+     "fetched_at": "2026-11-21T15:45:59.635Z",
      "espn_event_id": "604006",
      "may_lag": true,
      "espn_display_clock": "1'",
@@ -52,9 +52,9 @@
     }
    ],
    "second_half_seen_at": "2026-11-21T15:20:09.423Z",
-   "latest_event_minute": 63,
+   "latest_event_minute": 71,
    "latest_event_period": "2H",
-   "latest_event_seen_at": "2026-11-21T15:37:51.418Z"
+   "latest_event_seen_at": "2026-11-21T15:45:59.635Z"
   }
  ]
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-sco-jpn",
  "matchId": "ncup-2026-11-21-sco-jpn",
- "updated_at": "2026-11-21T15:37:51.418Z",
+ "updated_at": "2026-11-21T15:45:59.635Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604006/competitions/604006/plays?limit=400",
-   "fetched_at": "2026-11-21T15:37:51.418Z",
+   "fetched_at": "2026-11-21T15:45:59.635Z",
    "espn_event_id": "604006",
    "espn_league_id": 17567
   }
@@ -488,15 +488,60 @@
    "playerOn": "Ruan Botha",
    "playerOff": "Warner Dearns",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1907775",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Ollie Smith",
+   "detail": "Try (53-5)",
+   "playerName": "Ollie Smith",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 53,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907778",
+   "minute": 68,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "George Horne",
+   "detail": "Conversion (55-5)",
+   "playerName": "George Horne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 55,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1907784",
+   "minute": 71,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Mamoru Harada",
+   "detail": "Yellow card (55-5)",
+   "playerName": "Mamoru Harada",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 55,
+    "away": 5
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 48,
+  "home": 55,
   "away": 5
  },
  "plays_summed": {
-  "home": 48,
+  "home": 55,
   "away": 5
  }
 }

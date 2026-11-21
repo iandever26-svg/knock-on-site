@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-eng-nzl",
  "matchId": "ncup-2026-11-21-eng-nzl",
- "updated_at": "2026-11-21T15:37:51.418Z",
+ "updated_at": "2026-11-21T15:45:59.635Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604005/competitions/604005/plays?limit=400",
-   "fetched_at": "2026-11-21T15:37:51.418Z",
+   "fetched_at": "2026-11-21T15:45:59.635Z",
    "espn_event_id": "604005",
    "espn_league_id": 17567
   }
@@ -316,7 +316,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1907735",
+   "id": "espn-1907779",
    "minute": 57,
    "period": "2H",
    "type": "penalty_goal_made",
@@ -329,15 +329,117 @@
     "home": 27,
     "away": 12
    }
+  },
+  {
+   "id": "espn-1907765",
+   "minute": 63,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Seb Atkinson",
+   "detail": "Try (32-12)",
+   "playerName": "Seb Atkinson",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 32,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1907766",
+   "minute": 64,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Marcus Smith",
+   "detail": "Conversion (34-12)",
+   "playerName": "Marcus Smith",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 34,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1907767",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ben Spencer",
+   "detail": "replaces Jack van Poortvliet",
+   "playerOn": "Ben Spencer",
+   "playerOff": "Jack van Poortvliet",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907769",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Leicester Fainga'anuku",
+   "detail": "replaces Anton Lienert-Brown",
+   "playerOn": "Leicester Fainga'anuku",
+   "playerOff": "Anton Lienert-Brown",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907771",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Pasilio Tosi",
+   "detail": "replaces Fletcher Newell",
+   "playerOn": "Pasilio Tosi",
+   "playerOff": "Fletcher Newell",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907780",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cortez Ratima",
+   "detail": "replaces Cam Roigard",
+   "playerOn": "Cortez Ratima",
+   "playerOff": "Cam Roigard",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907782",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Richie Mo'unga",
+   "detail": "replaces Beauden Barrett",
+   "playerOn": "Richie Mo'unga",
+   "playerOff": "Beauden Barrett",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907776",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Henry Pollock",
+   "detail": "replaces Cadan Murley",
+   "playerOn": "Henry Pollock",
+   "playerOff": "Cadan Murley",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 27,
+  "home": 34,
   "away": 12
  },
  "plays_summed": {
-  "home": 27,
+  "home": 34,
   "away": 12
  }
 }
