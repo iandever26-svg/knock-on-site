@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-ita-fij",
  "matchId": "ncup-2026-11-21-ita-fij",
- "updated_at": "2026-11-21T17:51:19.386Z",
+ "updated_at": "2026-11-21T18:08:19.275Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604008/competitions/604008/plays?limit=400",
-   "fetched_at": "2026-11-21T17:51:19.386Z",
+   "fetched_at": "2026-11-21T18:08:19.275Z",
    "espn_event_id": "604008",
    "espn_league_id": 17567
   }
@@ -133,8 +133,8 @@
    }
   },
   {
-   "id": "espn-1907843",
-   "minute": 47,
+   "id": "espn-1907850",
+   "minute": 46,
    "period": "2H",
    "type": "conversion_made",
    "team": "away",
@@ -146,15 +146,129 @@
     "home": 13,
     "away": 14
    }
+  },
+  {
+   "id": "espn-1907857",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Federico Mori",
+   "detail": "replaces Domingo Miotti",
+   "playerOn": "Federico Mori",
+   "playerOff": "Domingo Miotti",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907875",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Vilikesa Nairau",
+   "detail": "replaces Peni Ravai",
+   "playerOn": "Vilikesa Nairau",
+   "playerOff": "Peni Ravai",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907877",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Zuriel Togiatama",
+   "detail": "replaces Tevita Ikanivere",
+   "playerOn": "Zuriel Togiatama",
+   "playerOff": "Tevita Ikanivere",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907879",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Marika Parker",
+   "detail": "replaces Luke Tagi",
+   "playerOn": "Marika Parker",
+   "playerOff": "Luke Tagi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907881",
+   "minute": 52,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Kitione Salawa",
+   "detail": "Try (13-19)",
+   "playerName": "Kitione Salawa",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 13,
+    "away": 19
+   }
+  },
+  {
+   "id": "espn-1907882",
+   "minute": 52,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Caleb Muntz",
+   "detail": "Conversion (13-21)",
+   "playerName": "Caleb Muntz",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 13,
+    "away": 21
+   }
+  },
+  {
+   "id": "espn-1907888",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gianmarco Lucchesi",
+   "detail": "replaces Giacomo Nicotera",
+   "playerOn": "Gianmarco Lucchesi",
+   "playerOff": "Giacomo Nicotera",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907890",
+   "minute": 57,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Etonia Waqa",
+   "detail": "replaces Nathan Hughes",
+   "playerOn": "Etonia Waqa",
+   "playerOff": "Nathan Hughes",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907893",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Enoch Opoku-Gyamfi",
+   "detail": "replaces Niccolo Cannone",
+   "playerOn": "Enoch Opoku-Gyamfi",
+   "playerOff": "Niccolo Cannone",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 13,
-  "away": 14
+  "away": 21
  },
  "plays_summed": {
   "home": 13,
-  "away": 14
+  "away": 21
  }
 }

@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-ire-rsa",
  "matchId": "ncup-2026-11-21-ire-rsa",
- "updated_at": "2026-11-21T17:51:19.386Z",
+ "updated_at": "2026-11-21T18:08:19.275Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604007/competitions/604007/plays?limit=400",
-   "fetched_at": "2026-11-21T17:51:19.386Z",
+   "fetched_at": "2026-11-21T18:08:19.275Z",
    "espn_event_id": "604007",
    "espn_league_id": 17567
   }
@@ -197,15 +197,168 @@
    "playerOn": "Nick Timoney",
    "playerOff": "Dan Sheehan",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1907844",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Gerhard Steenekamp",
+   "detail": "replaces Ox Nche",
+   "playerOn": "Gerhard Steenekamp",
+   "playerOff": "Ox Nche",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907846",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Thomas du Toit",
+   "detail": "replaces Wilco Louw",
+   "playerOn": "Thomas du Toit",
+   "playerOff": "Wilco Louw",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907848",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lood de Jager",
+   "detail": "replaces Franco Mostert",
+   "playerOn": "Lood de Jager",
+   "playerOff": "Franco Mostert",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907851",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Paul de Villiers",
+   "detail": "replaces Siya Kolisi",
+   "playerOn": "Paul de Villiers",
+   "playerOff": "Siya Kolisi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907853",
+   "minute": 48,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Marco van Staden",
+   "detail": "replaces Cameron Hanekom",
+   "playerOn": "Marco van Staden",
+   "playerOff": "Cameron Hanekom",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907869",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thomas Clarkson",
+   "detail": "replaces Tadhg Furlong",
+   "playerOn": "Thomas Clarkson",
+   "playerOff": "Tadhg Furlong",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907867",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Bundee Aki",
+   "detail": "replaces Robbie Henshaw",
+   "playerOn": "Bundee Aki",
+   "playerOff": "Robbie Henshaw",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907883",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Dan Sheehan",
+   "detail": "replaces Nick Timoney",
+   "playerOn": "Dan Sheehan",
+   "playerOff": "Nick Timoney",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907885",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Cameron Hanekom",
+   "detail": "replaces Pieter-Steph du Toit",
+   "playerOn": "Cameron Hanekom",
+   "playerOff": "Pieter-Steph du Toit",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907887",
+   "minute": 54,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Sam Prendergast",
+   "detail": "Penalty (20-10)",
+   "playerName": "Sam Prendergast",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 20,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1907892",
+   "minute": 58,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Malcolm Marx",
+   "detail": "Try (20-15)",
+   "playerName": "Malcolm Marx",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 20,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1907895",
+   "minute": 59,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Sacha Feinberg-Mngomezulu",
+   "detail": "Conversion (20-17)",
+   "playerName": "Sacha Feinberg-Mngomezulu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 20,
+    "away": 17
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 17,
-  "away": 10
+  "home": 20,
+  "away": 17
  },
  "plays_summed": {
-  "home": 17,
-  "away": 10
+  "home": 20,
+  "away": 17
  }
 }
