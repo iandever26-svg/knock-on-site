@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "ncup-2026-11-21-sco-jpn",
  "matchId": "ncup-2026-11-21-sco-jpn",
- "updated_at": "2026-11-21T14:43:34.119Z",
+ "updated_at": "2026-11-21T15:04:14.789Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/17567/events/604006/competitions/604006/plays?limit=400",
-   "fetched_at": "2026-11-21T14:43:34.119Z",
+   "fetched_at": "2026-11-21T15:04:14.789Z",
    "espn_event_id": "604006",
    "espn_league_id": 17567
   }
@@ -134,15 +134,42 @@
     "home": 24,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1907632",
+   "minute": 32,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Taufa Latu",
+   "detail": "replaces Ryosuke Iwaihara",
+   "playerOn": "Taufa Latu",
+   "playerOff": "Ryosuke Iwaihara",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1907638",
+   "minute": 40,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Ollie Smith",
+   "detail": "Try (29-0)",
+   "playerName": "Ollie Smith",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 0
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 24,
+  "home": 29,
   "away": 0
  },
  "plays_summed": {
-  "home": 24,
+  "home": 29,
   "away": 0
  }
 }
