@@ -16,26 +16,6 @@
       "eventsUpdatedAt": "2026-11-21T22:14:29.268Z"
     },
     {
-      "match_id": "ncup-2026-11-21-ire-rsa",
-      "kickoff": "2026-11-21T16:40:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-11-21T18:40:56.739Z"
-    },
-    {
-      "match_id": "ncup-2026-11-21-ita-fij",
-      "kickoff": "2026-11-21T16:40:00+00:00",
-      "score": false,
-      "scoreUpdatedAt": null,
-      "lineup": false,
-      "lineupUpdatedAt": null,
-      "events": true,
-      "eventsUpdatedAt": "2026-11-21T18:32:39.031Z"
-    },
-    {
       "match_id": "ncup-2026-11-21-wal-aus",
       "kickoff": "2026-11-21T20:10:00+00:00",
       "score": false,
