@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-ubb-mon",
  "matchId": "top14-2026-11-28-ubb-mon",
- "updated_at": "2026-11-28T15:12:04.368Z",
- "final": false,
+ "updated_at": "2026-11-28T15:30:55.841Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604425/competitions/604425/plays?limit=400",
-   "fetched_at": "2026-11-28T15:12:04.368Z",
+   "fetched_at": "2026-11-28T15:30:55.841Z",
    "espn_event_id": "604425",
    "espn_league_id": 270559
   }
@@ -451,6 +451,18 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1908653",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Ricky Riccitelli",
+   "detail": "replaces Alexander Masibaka",
+   "playerOn": "Ricky Riccitelli",
+   "playerOff": "Alexander Masibaka",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1908649",
    "minute": 67,
    "period": "2H",
@@ -461,15 +473,69 @@
    "playerOn": "Clement Malinowski",
    "playerOff": "Connor Sa",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1908655",
+   "minute": 73,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Felix Duguay",
+   "detail": "replaces Xan Mousques",
+   "playerOn": "Felix Duguay",
+   "playerOff": "Xan Mousques",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908657",
+   "minute": 74,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Valentin Hutteau",
+   "detail": "replaces Hugo Avogadro",
+   "playerOn": "Valentin Hutteau",
+   "playerOff": "Hugo Avogadro",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908659",
+   "minute": 77,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Damian Penaud",
+   "detail": "Try (38-10)",
+   "playerName": "Damian Penaud",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 38,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908660",
+   "minute": 78,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Arthur Retiere",
+   "detail": "Conversion (40-10)",
+   "playerName": "Arthur Retiere",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 40,
+    "away": 10
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 33,
+  "home": 40,
   "away": 10
  },
  "plays_summed": {
-  "home": 33,
+  "home": 40,
   "away": 10
  }
 }
