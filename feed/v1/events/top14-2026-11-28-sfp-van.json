@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-sfp-van",
  "matchId": "top14-2026-11-28-sfp-van",
- "updated_at": "2026-11-28T16:03:28.877Z",
+ "updated_at": "2026-11-28T16:45:23.859Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604429/competitions/604429/plays?limit=400",
-   "fetched_at": "2026-11-28T16:03:28.877Z",
+   "fetched_at": "2026-11-28T16:45:23.859Z",
    "espn_event_id": "604429",
    "espn_league_id": 270559
   }
@@ -41,15 +41,132 @@
    "playerOn": "Sergo Abramishvili",
    "playerOff": "Jack Iscaro",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1908700",
+   "minute": 30,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Yoan Tanga",
+   "detail": "Try (5-3)",
+   "playerName": "Yoan Tanga",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908701",
+   "minute": 31,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Ihaia West",
+   "detail": "Conversion (7-3)",
+   "playerName": "Ihaia West",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908723",
+   "minute": 35,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Tomasi Maka",
+   "detail": "Try (12-3)",
+   "playerName": "Tomasi Maka",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908715",
+   "minute": 36,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Ihaia West",
+   "detail": "Conversion (14-3)",
+   "playerName": "Ihaia West",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 14,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908718",
+   "minute": 39,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Santiago Medrano",
+   "detail": "Try (14-8)",
+   "playerName": "Santiago Medrano",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 14,
+    "away": 8
+   }
+  },
+  {
+   "id": "espn-1908718-cm",
+   "minute": 39,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (14-8)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 14,
+    "away": 8
+   }
+  },
+  {
+   "id": "espn-1908722",
+   "minute": 42,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Jean Cotarmanac'h",
+   "detail": "Penalty (14-11)",
+   "playerName": "Jean Cotarmanac'h",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 14,
+    "away": 11
+   }
+  },
+  {
+   "id": "espn-1908768",
+   "minute": 44,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Leon Boulier",
+   "detail": "replaces Steeve Blanc-Mappaz",
+   "playerOn": "Leon Boulier",
+   "playerOff": "Steeve Blanc-Mappaz",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 0,
-  "away": 3
+  "home": 14,
+  "away": 11
  },
  "plays_summed": {
-  "home": 0,
-  "away": 3
+  "home": 14,
+  "away": 11
  }
 }

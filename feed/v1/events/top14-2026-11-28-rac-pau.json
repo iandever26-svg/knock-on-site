@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-rac-pau",
  "matchId": "top14-2026-11-28-rac-pau",
- "updated_at": "2026-11-28T16:03:28.877Z",
+ "updated_at": "2026-11-28T16:45:23.859Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604430/competitions/604430/plays?limit=400",
-   "fetched_at": "2026-11-28T16:03:28.877Z",
+   "fetched_at": "2026-11-28T16:45:23.859Z",
    "espn_event_id": "604430",
    "espn_league_id": 270559
   }
@@ -46,6 +46,21 @@
    }
   },
   {
+   "id": "espn-1908695",
+   "minute": 12,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Clement Laporte",
+   "detail": "Yellow card (0-7)",
+   "playerName": "Clement Laporte",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 0,
+    "away": 7
+   }
+  },
+  {
    "id": "espn-1908682",
    "minute": 14,
    "period": "1H",
@@ -55,21 +70,6 @@
    "detail": "Try (5-7)",
    "playerName": "Edouard-Junior Jabea Njocke",
    "label": "Try",
-   "scoreAfter": {
-    "home": 5,
-    "away": 7
-   }
-  },
-  {
-   "id": "espn-1908684",
-   "minute": 14,
-   "period": "1H",
-   "type": "yellow_card",
-   "team": "away",
-   "player": "Clement Laporte",
-   "detail": "Yellow card (5-7)",
-   "playerName": "Clement Laporte",
-   "label": "Yellow card",
    "scoreAfter": {
     "home": 5,
     "away": 7
@@ -134,15 +134,87 @@
     "home": 12,
     "away": 10
    }
+  },
+  {
+   "id": "espn-1908713",
+   "minute": 28,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Hugo Auradou",
+   "detail": "replaces Loic Credoz",
+   "playerOn": "Hugo Auradou",
+   "playerOff": "Loic Credoz",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908710",
+   "minute": 29,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Lehopa Leota",
+   "detail": "Try (17-10)",
+   "playerName": "Lehopa Leota",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908711",
+   "minute": 30,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Gibert",
+   "detail": "Conversion (19-10)",
+   "playerName": "Antoine Gibert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908716",
+   "minute": 32,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Clement Laporte",
+   "detail": "Try (19-15)",
+   "playerName": "Clement Laporte",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 15
+   }
+  },
+  {
+   "id": "espn-1908717",
+   "minute": 33,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Joe Simmonds",
+   "detail": "Conversion (19-17)",
+   "playerName": "Joe Simmonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 17
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
-  "away": 10
+  "home": 19,
+  "away": 17
  },
  "plays_summed": {
-  "home": 12,
-  "away": 10
+  "home": 19,
+  "away": 17
  }
 }
