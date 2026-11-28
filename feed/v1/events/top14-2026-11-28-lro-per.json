@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-lro-per",
  "matchId": "top14-2026-11-28-lro-per",
- "updated_at": "2026-11-28T16:45:23.859Z",
+ "updated_at": "2026-11-28T17:05:44.943Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604427/competitions/604427/plays?limit=400",
-   "fetched_at": "2026-11-28T16:45:23.859Z",
+   "fetched_at": "2026-11-28T17:05:44.943Z",
    "espn_event_id": "604427",
    "espn_league_id": 270559
   }
@@ -215,15 +215,189 @@
     "home": 27,
     "away": 9
    }
+  },
+  {
+   "id": "espn-1908778",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Pietro Ceccarelli",
+   "detail": "replaces Cedate Gomes Sa",
+   "playerOn": "Pietro Ceccarelli",
+   "playerOff": "Cedate Gomes Sa",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908787",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Zak Price",
+   "detail": "replaces Sione Ahio",
+   "playerOn": "Zak Price",
+   "playerOff": "Sione Ahio",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908789",
+   "minute": 47,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Matthias Haddad",
+   "detail": "replaces Watisoni Waqanisaravi",
+   "playerOn": "Matthias Haddad",
+   "playerOff": "Watisoni Waqanisaravi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908861",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lorencio Boyer Gallardo",
+   "detail": "replaces Enzo Forletta",
+   "playerOn": "Lorencio Boyer Gallardo",
+   "playerOff": "Enzo Forletta",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908863",
+   "minute": 51,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Posolo Tuilagi",
+   "detail": "replaces Adrien Warion",
+   "playerOn": "Posolo Tuilagi",
+   "playerOff": "Adrien Warion",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908903",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "David Kriel",
+   "detail": "replaces Ben Healy",
+   "playerOn": "David Kriel",
+   "playerOff": "Ben Healy",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908905",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Theo McFarland",
+   "detail": "replaces Charles Kante-Samba",
+   "playerOn": "Theo McFarland",
+   "playerOff": "Charles Kante-Samba",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908907",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tolu Latu",
+   "detail": "replaces Pierre Bourgarit",
+   "playerOn": "Tolu Latu",
+   "playerOff": "Pierre Bourgarit",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908909",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Louis Penverne",
+   "detail": "replaces Alexandre Kaddouri",
+   "playerOn": "Louis Penverne",
+   "playerOff": "Alexandre Kaddouri",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908927",
+   "minute": 56,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Simon Sol",
+   "detail": "Try (27-14)",
+   "playerName": "Simon Sol",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 14
+   }
+  },
+  {
+   "id": "espn-1908928",
+   "minute": 56,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Benjamin Urdapilleta",
+   "detail": "Conversion (27-16)",
+   "playerName": "Benjamin Urdapilleta",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 27,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1908937",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Antoine Aucagne",
+   "detail": "replaces Benjamin Urdapilleta",
+   "playerOn": "Antoine Aucagne",
+   "playerOff": "Benjamin Urdapilleta",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908941",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Eneriko Buliruarua",
+   "detail": "replaces Jeronimo de la Fuente",
+   "playerOn": "Eneriko Buliruarua",
+   "playerOff": "Jeronimo de la Fuente",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908939",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Luke McGrath",
+   "detail": "replaces Tom Ecochard",
+   "playerOn": "Luke McGrath",
+   "playerOff": "Tom Ecochard",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 27,
-  "away": 9
+  "away": 16
  },
  "plays_summed": {
   "home": 27,
-  "away": 9
+  "away": 16
  }
 }

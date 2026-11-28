@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-rac-pau",
  "matchId": "top14-2026-11-28-rac-pau",
- "updated_at": "2026-11-28T16:45:23.859Z",
+ "updated_at": "2026-11-28T17:05:44.943Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604430/competitions/604430/plays?limit=400",
-   "fetched_at": "2026-11-28T16:45:23.859Z",
+   "fetched_at": "2026-11-28T17:05:44.943Z",
    "espn_event_id": "604430",
    "espn_league_id": 270559
   }
@@ -206,15 +206,129 @@
     "home": 19,
     "away": 17
    }
+  },
+  {
+   "id": "espn-1908791",
+   "minute": 49,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Joe Simmonds",
+   "detail": "Penalty (19-20)",
+   "playerName": "Joe Simmonds",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 19,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1908838",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gia Kharaishvili",
+   "detail": "replaces Lehopa Leota",
+   "playerOn": "Gia Kharaishvili",
+   "playerOff": "Lehopa Leota",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908842",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Vladi Ashvetia",
+   "detail": "replaces Wame Naituvi",
+   "playerOn": "Vladi Ashvetia",
+   "playerOff": "Wame Naituvi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908844",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Seru Uru",
+   "detail": "replaces Noam Zebus Delage",
+   "playerOn": "Seru Uru",
+   "playerOff": "Noam Zebus Delage",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908870",
+   "minute": 52,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Antoine Gibert",
+   "detail": "Penalty (22-20)",
+   "playerName": "Antoine Gibert",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 22,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1908865",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Benjamin Boudou",
+   "detail": "replaces Janick Tarrit",
+   "playerOn": "Benjamin Boudou",
+   "playerOff": "Janick Tarrit",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908915",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Gagi Margvelashvili",
+   "detail": "replaces Jordan Joseph",
+   "playerOn": "Gagi Margvelashvili",
+   "playerOff": "Jordan Joseph",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908922",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Jon Zabala",
+   "detail": "replaces Guram Papidze",
+   "playerOn": "Jon Zabala",
+   "playerOff": "Guram Papidze",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908929",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Facundo Isa",
+   "detail": "replaces Baptiste Pesenti",
+   "playerOn": "Facundo Isa",
+   "playerOff": "Baptiste Pesenti",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 19,
-  "away": 17
+  "home": 22,
+  "away": 20
  },
  "plays_summed": {
-  "home": 19,
-  "away": 17
+  "home": 22,
+  "away": 20
  }
 }

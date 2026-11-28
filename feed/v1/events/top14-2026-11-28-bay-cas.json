@@ -2,15 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-bay-cas",
  "matchId": "top14-2026-11-28-bay-cas",
- "updated_at": "2026-11-28T16:45:23.859Z",
+ "updated_at": "2026-11-28T17:05:44.943Z",
  "final": false,
- "scores_verified": false,
- "note": "ESPN timeline incomplete: events sum to 22-7, final 17-7; running scores omitted.",
+ "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604424/competitions/604424/plays?limit=400",
-   "fetched_at": "2026-11-28T16:45:23.859Z",
+   "fetched_at": "2026-11-28T17:05:44.943Z",
    "espn_event_id": "604424",
    "espn_league_id": 270559
   }
@@ -23,9 +22,13 @@
    "type": "try",
    "team": "home",
    "player": "Leo Coly",
-   "detail": "Try",
+   "detail": "Try (5-0)",
    "playerName": "Leo Coly",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
   },
   {
    "id": "espn-1908664",
@@ -34,9 +37,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Robert du Preez",
-   "detail": "Conversion",
+   "detail": "Conversion (7-0)",
    "playerName": "Robert du Preez",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
   },
   {
    "id": "espn-1908668",
@@ -45,9 +52,13 @@
    "type": "penalty_goal_made",
    "team": "home",
    "player": "Robert du Preez",
-   "detail": "Penalty",
+   "detail": "Penalty (10-0)",
    "playerName": "Robert du Preez",
-   "label": "Penalty"
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 10,
+    "away": 0
+   }
   },
   {
    "id": "espn-1908678",
@@ -56,9 +67,13 @@
    "type": "try",
    "team": "away",
    "player": "Colin Dupuy",
-   "detail": "Try",
+   "detail": "Try (10-5)",
    "playerName": "Colin Dupuy",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 5
+   }
   },
   {
    "id": "espn-1908679",
@@ -67,9 +82,13 @@
    "type": "conversion_made",
    "team": "away",
    "player": "Theo Vidal",
-   "detail": "Conversion",
+   "detail": "Conversion (10-7)",
    "playerName": "Theo Vidal",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 7
+   }
   },
   {
    "id": "espn-1908739",
@@ -78,9 +97,13 @@
    "type": "try",
    "team": "home",
    "player": "Matthieu Uhila",
-   "detail": "Try",
+   "detail": "Try (15-7)",
    "playerName": "Matthieu Uhila",
-   "label": "Try"
+   "label": "Try",
+   "scoreAfter": {
+    "home": 15,
+    "away": 7
+   }
   },
   {
    "id": "espn-1908740",
@@ -89,9 +112,13 @@
    "type": "conversion_made",
    "team": "home",
    "player": "Robert du Preez",
-   "detail": "Conversion",
+   "detail": "Conversion (17-7)",
    "playerName": "Robert du Preez",
-   "label": "Conversion"
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 17,
+    "away": 7
+   }
   },
   {
    "id": "espn-1908759",
@@ -100,9 +127,13 @@
    "type": "yellow_card",
    "team": "home",
    "player": "Emerick Setiano",
-   "detail": "Yellow card",
+   "detail": "Yellow card (17-7)",
    "playerName": "Emerick Setiano",
-   "label": "Yellow card"
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 17,
+    "away": 7
+   }
   },
   {
    "id": "espn-1908764",
@@ -117,28 +148,194 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1908771",
+   "id": "espn-1908820",
    "minute": 49,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Teddy Durand",
+   "detail": "Yellow card (17-7)",
+   "playerName": "Teddy Durand",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 17,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908806",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Madosh Tambwe",
+   "detail": "replaces Lasha Macharashvili",
+   "playerOn": "Madosh Tambwe",
+   "playerOff": "Lasha Macharashvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908808",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lasha Macharashvili",
+   "detail": "replaces Emerick Setiano",
+   "playerOn": "Lasha Macharashvili",
+   "playerOff": "Emerick Setiano",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908814",
+   "minute": 51,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Remy Baget",
+   "detail": "Yellow card (17-7)",
+   "playerName": "Remy Baget",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 17,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908831",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Quentin Walcker",
+   "detail": "replaces Lois Guerois-Galisson",
+   "playerOn": "Quentin Walcker",
+   "playerOff": "Lois Guerois-Galisson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908833",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Gauthier Maravat",
+   "detail": "replaces Guillaume Ducat",
+   "playerOn": "Gauthier Maravat",
+   "playerOff": "Guillaume Ducat",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908855",
+   "minute": 52,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Baptiste Cope",
+   "detail": "replaces Mathieu Babillot",
+   "playerOn": "Baptiste Cope",
+   "playerOff": "Mathieu Babillot",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908867",
+   "minute": 53,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Swan Cormenier",
+   "detail": "replaces Andy Bordelai",
+   "playerOn": "Swan Cormenier",
+   "playerOff": "Andy Bordelai",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908837",
+   "minute": 55,
    "period": "2H",
    "type": "try",
    "team": "home",
-   "player": "Robert du Preez",
-   "detail": "Try",
-   "playerName": "Robert du Preez",
-   "label": "Try"
+   "player": "Madosh Tambwe",
+   "detail": "Try (22-7)",
+   "playerName": "Madosh Tambwe",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 22,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908874",
+   "minute": 57,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Florent Vanverberghe",
+   "detail": "Yellow card (22-7)",
+   "playerName": "Florent Vanverberghe",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 22,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908932",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Loris Zarantonello",
+   "detail": "replaces Hamish Watson",
+   "playerOn": "Loris Zarantonello",
+   "playerOff": "Hamish Watson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908934",
+   "minute": 59,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Madosh Tambwe",
+   "detail": "Try (27-7)",
+   "playerName": "Madosh Tambwe",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 7
+   }
+  },
+  {
+   "id": "inferred-pt-home-1",
+   "minute": 0,
+   "minuteKnown": false,
+   "period": "1H",
+   "type": "penalty_try",
+   "team": "home",
+   "player": null,
+   "inferred": true,
+   "label": "Penalty try",
+   "detail": "Penalty try (inferred, minute unknown) (34-7)",
+   "scoreAfter": {
+    "home": 34,
+    "away": 7
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 17,
+  "home": 34,
   "away": 7
  },
  "plays_summed": {
-  "home": 22,
+  "home": 27,
   "away": 7
  },
- "unexplained_gap": {
-  "home": -5,
-  "away": 0
- }
+ "inferred_penalty_tries": [
+  {
+   "team": "home",
+   "minute": null
+  }
+ ]
 }
