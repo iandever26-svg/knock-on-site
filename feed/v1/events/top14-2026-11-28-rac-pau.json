@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-rac-pau",
  "matchId": "top14-2026-11-28-rac-pau",
- "updated_at": "2026-11-28T17:32:37.142Z",
- "final": false,
+ "updated_at": "2026-11-28T17:51:14.606Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604430/competitions/604430/plays?limit=400",
-   "fetched_at": "2026-11-28T17:32:37.142Z",
+   "fetched_at": "2026-11-28T17:51:14.606Z",
    "espn_event_id": "604430",
    "espn_league_id": 270559
   }
@@ -436,8 +436,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1909133",
-   "minute": 75,
+   "id": "espn-1909161",
+   "minute": 73,
    "period": "2H",
    "type": "try",
    "team": "away",
@@ -451,8 +451,8 @@
    }
   },
   {
-   "id": "espn-1909134",
-   "minute": 76,
+   "id": "espn-1909165",
+   "minute": 74,
    "period": "2H",
    "type": "conversion_made",
    "team": "away",
@@ -466,8 +466,8 @@
    }
   },
   {
-   "id": "espn-1909147",
-   "minute": 85,
+   "id": "espn-1909186",
+   "minute": 79,
    "period": "2H",
    "type": "yellow_card",
    "team": "away",

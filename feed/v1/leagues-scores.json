@@ -1,7 +1,7 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-28T17:32:37.142Z",
- "updatedAt": "2026-11-28T17:32:37.142Z",
+ "generatedAt": "2026-11-28T17:51:14.606Z",
+ "updatedAt": "2026-11-28T17:51:14.606Z",
  "note": "ESPN-sourced; may lag",
  "scores": [
   {
@@ -12,12 +12,12 @@
    "away_score": 12,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-28T17:32:37.142Z",
+   "updated_at": "2026-11-28T17:51:14.606Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-28T17:32:37.142Z",
+     "fetched_at": "2026-11-28T17:51:14.606Z",
      "espn_event_id": "604424",
      "may_lag": true
     }
@@ -35,12 +35,12 @@
    "away_score": 10,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-28T17:32:37.142Z",
+   "updated_at": "2026-11-28T17:51:14.606Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-28T17:32:37.142Z",
+     "fetched_at": "2026-11-28T17:51:14.606Z",
      "espn_event_id": "604425",
      "may_lag": true
     }
@@ -53,22 +53,19 @@
   {
    "schema_version": "1.0.0",
    "match_id": "top14-2026-11-28-lro-per",
-   "status": "live",
+   "status": "ft",
    "home_score": 34,
    "away_score": 23,
-   "clock": null,
-   "period": "2H",
-   "updated_at": "2026-11-28T17:32:37.142Z",
+   "clock": "FT",
+   "period": "FT",
+   "updated_at": "2026-11-28T17:51:14.606Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-28T17:32:37.142Z",
+     "fetched_at": "2026-11-28T17:51:14.606Z",
      "espn_event_id": "604427",
-     "may_lag": true,
-     "espn_display_clock": "1'",
-     "espn_clock_seconds": 0,
-     "espn_period": 2
+     "may_lag": true
     }
    ],
    "second_half_seen_at": "2026-11-28T16:45:23.859Z",
@@ -79,22 +76,19 @@
   {
    "schema_version": "1.0.0",
    "match_id": "top14-2026-11-28-rac-pau",
-   "status": "live",
+   "status": "ft",
    "home_score": 29,
    "away_score": 27,
-   "clock": null,
-   "period": "2H",
-   "updated_at": "2026-11-28T17:32:37.142Z",
+   "clock": "FT",
+   "period": "FT",
+   "updated_at": "2026-11-28T17:51:14.606Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-28T17:32:37.142Z",
+     "fetched_at": "2026-11-28T17:51:14.606Z",
      "espn_event_id": "604430",
-     "may_lag": true,
-     "espn_display_clock": "1'",
-     "espn_clock_seconds": 0,
-     "espn_period": 2
+     "may_lag": true
     }
    ],
    "second_half_seen_at": "2026-11-28T16:45:23.859Z",
@@ -110,12 +104,12 @@
    "away_score": 28,
    "clock": "FT",
    "period": "FT",
-   "updated_at": "2026-11-28T17:32:37.142Z",
+   "updated_at": "2026-11-28T17:51:14.606Z",
    "provenance": [
     {
      "source_name": "espn",
      "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
-     "fetched_at": "2026-11-28T17:32:37.142Z",
+     "fetched_at": "2026-11-28T17:51:14.606Z",
      "espn_event_id": "604429",
      "may_lag": true
     }
