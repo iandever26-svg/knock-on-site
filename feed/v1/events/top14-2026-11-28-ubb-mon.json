@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-ubb-mon",
  "matchId": "top14-2026-11-28-ubb-mon",
- "updated_at": "2026-11-28T14:37:18.771Z",
+ "updated_at": "2026-11-28T14:49:52.630Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604425/competitions/604425/plays?limit=400",
-   "fetched_at": "2026-11-28T14:37:18.771Z",
+   "fetched_at": "2026-11-28T14:49:52.630Z",
    "espn_event_id": "604425",
    "espn_league_id": 270559
   }
@@ -203,6 +203,69 @@
     "home": 26,
     "away": 3
    }
+  },
+  {
+   "id": "espn-1908597",
+   "minute": 45,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Mohamed Haouas",
+   "detail": "replaces Luka Japaridze",
+   "playerOn": "Mohamed Haouas",
+   "playerOff": "Luka Japaridze",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908599",
+   "minute": 46,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Damian Penaud",
+   "detail": "replaces Rohan Janse van Rensburg",
+   "playerOn": "Damian Penaud",
+   "playerOff": "Rohan Janse van Rensburg",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908601",
+   "minute": 47,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Jon Echegaray",
+   "detail": "Yellow card (26-3)",
+   "playerName": "Jon Echegaray",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 26,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908604",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Raphael Audebert",
+   "detail": "replaces Mael Perrin",
+   "playerOn": "Raphael Audebert",
+   "playerOff": "Mael Perrin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908606",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Auguste Cadot",
+   "detail": "replaces Lennox Anyanwu",
+   "playerOn": "Auguste Cadot",
+   "playerOff": "Lennox Anyanwu",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
