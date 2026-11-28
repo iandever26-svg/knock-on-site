@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-ubb-mon",
  "matchId": "top14-2026-11-28-ubb-mon",
- "updated_at": "2026-11-28T15:00:56.158Z",
+ "updated_at": "2026-11-28T15:12:04.368Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604425/competitions/604425/plays?limit=400",
-   "fetched_at": "2026-11-28T15:00:56.158Z",
+   "fetched_at": "2026-11-28T15:12:04.368Z",
    "espn_event_id": "604425",
    "espn_league_id": 270559
   }
@@ -395,15 +395,81 @@
     "home": 33,
     "away": 3
    }
+  },
+  {
+   "id": "espn-1908646",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Tom Banks",
+   "detail": "replaces Lennox Anyanwu",
+   "playerOn": "Tom Banks",
+   "playerOff": "Lennox Anyanwu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908640",
+   "minute": 62,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Jon Echegaray",
+   "detail": "Try (33-8)",
+   "playerName": "Jon Echegaray",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 33,
+    "away": 8
+   }
+  },
+  {
+   "id": "espn-1908641",
+   "minute": 63,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Adam Hastings",
+   "detail": "Conversion (33-10)",
+   "playerName": "Adam Hastings",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 33,
+    "away": 10
+   }
+  },
+  {
+   "id": "espn-1908651",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Auguste Cadot",
+   "detail": "replaces Jon Echegaray",
+   "playerOn": "Auguste Cadot",
+   "playerOff": "Jon Echegaray",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908649",
+   "minute": 67,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Clement Malinowski",
+   "detail": "replaces Connor Sa",
+   "playerOn": "Clement Malinowski",
+   "playerOff": "Connor Sa",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
   "home": 33,
-  "away": 3
+  "away": 10
  },
  "plays_summed": {
   "home": 33,
-  "away": 3
+  "away": 10
  }
 }
