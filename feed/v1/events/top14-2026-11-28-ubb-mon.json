@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-ubb-mon",
  "matchId": "top14-2026-11-28-ubb-mon",
- "updated_at": "2026-11-28T14:06:49.519Z",
+ "updated_at": "2026-11-28T14:21:10.894Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604425/competitions/604425/plays?limit=400",
-   "fetched_at": "2026-11-28T14:06:49.519Z",
+   "fetched_at": "2026-11-28T14:21:10.894Z",
    "espn_event_id": "604425",
    "espn_league_id": 270559
   }
@@ -89,15 +89,99 @@
     "home": 12,
     "away": 0
    }
+  },
+  {
+   "id": "espn-1908544",
+   "minute": 31,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Adam Hastings",
+   "detail": "Penalty (12-3)",
+   "playerName": "Adam Hastings",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 12,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908545",
+   "minute": 36,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Billy Vunipola",
+   "detail": "Yellow card (12-3)",
+   "playerName": "Billy Vunipola",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 12,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908548",
+   "minute": 36,
+   "period": "1H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Christopher Tolofua",
+   "detail": "replaces Luca Tabarot",
+   "playerOn": "Christopher Tolofua",
+   "playerOff": "Luca Tabarot",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908546",
+   "minute": 36,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ben Tameifuna",
+   "detail": "replaces Carlu Sadie",
+   "playerOn": "Ben Tameifuna",
+   "playerOff": "Carlu Sadie",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908552",
+   "minute": 37,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Ben Tameifuna",
+   "detail": "Try (17-3)",
+   "playerName": "Ben Tameifuna",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 17,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908551",
+   "minute": 38,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Arthur Retiere",
+   "detail": "Conversion (19-3)",
+   "playerName": "Arthur Retiere",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 19,
+    "away": 3
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 12,
-  "away": 0
+  "home": 19,
+  "away": 3
  },
  "plays_summed": {
-  "home": 12,
-  "away": 0
+  "home": 19,
+  "away": 3
  }
 }
