@@ -1,0 +1,55 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "top14-2026-11-28-sfp-van",
+ "matchId": "top14-2026-11-28-sfp-van",
+ "updated_at": "2026-11-28T16:03:28.877Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604429/competitions/604429/plays?limit=400",
+   "fetched_at": "2026-11-28T16:03:28.877Z",
+   "espn_event_id": "604429",
+   "espn_league_id": 270559
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1908673",
+   "minute": 13,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Jean Cotarmanac'h",
+   "detail": "Penalty (0-3)",
+   "playerName": "Jean Cotarmanac'h",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 0,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908690",
+   "minute": 20,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Sergo Abramishvili",
+   "detail": "replaces Jack Iscaro",
+   "playerOn": "Sergo Abramishvili",
+   "playerOff": "Jack Iscaro",
+   "label": "Substitution"
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 0,
+  "away": 3
+ },
+ "plays_summed": {
+  "home": 0,
+  "away": 3
+ }
+}

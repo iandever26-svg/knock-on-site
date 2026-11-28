@@ -1,0 +1,148 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "top14-2026-11-28-rac-pau",
+ "matchId": "top14-2026-11-28-rac-pau",
+ "updated_at": "2026-11-28T16:03:28.877Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604430/competitions/604430/plays?limit=400",
+   "fetched_at": "2026-11-28T16:03:28.877Z",
+   "espn_event_id": "604430",
+   "espn_league_id": 270559
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1908669",
+   "minute": 8,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Hugo Parrou",
+   "detail": "Try (0-5)",
+   "playerName": "Hugo Parrou",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 0,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1908670",
+   "minute": 9,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Joe Simmonds",
+   "detail": "Conversion (0-7)",
+   "playerName": "Joe Simmonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 0,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908682",
+   "minute": 14,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Edouard-Junior Jabea Njocke",
+   "detail": "Try (5-7)",
+   "playerName": "Edouard-Junior Jabea Njocke",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908684",
+   "minute": 14,
+   "period": "1H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Clement Laporte",
+   "detail": "Yellow card (5-7)",
+   "playerName": "Clement Laporte",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 5,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908683",
+   "minute": 15,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Gibert",
+   "detail": "Conversion (7-7)",
+   "playerName": "Antoine Gibert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908685",
+   "minute": 17,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Antoine Gibert",
+   "detail": "Try (12-7)",
+   "playerName": "Antoine Gibert",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 12,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908685-cm",
+   "minute": 17,
+   "period": "1H",
+   "type": "conversion_missed",
+   "team": "home",
+   "player": null,
+   "detail": "Conversion missed (inferred) (12-7)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 12,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908692",
+   "minute": 22,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Joe Simmonds",
+   "detail": "Penalty (12-10)",
+   "playerName": "Joe Simmonds",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 12,
+    "away": 10
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 12,
+  "away": 10
+ },
+ "plays_summed": {
+  "home": 12,
+  "away": 10
+ }
+}

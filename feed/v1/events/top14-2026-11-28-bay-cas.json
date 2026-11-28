@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.0.0",
+ "match_id": "top14-2026-11-28-bay-cas",
+ "matchId": "top14-2026-11-28-bay-cas",
+ "updated_at": "2026-11-28T16:03:28.877Z",
+ "final": false,
+ "scores_verified": true,
+ "provenance": [
+  {
+   "source_name": "espn_core_api",
+   "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604424/competitions/604424/plays?limit=400",
+   "fetched_at": "2026-11-28T16:03:28.877Z",
+   "espn_event_id": "604424",
+   "espn_league_id": 270559
+  }
+ ],
+ "events": [
+  {
+   "id": "espn-1908661",
+   "minute": 3,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Leo Coly",
+   "detail": "Try (5-0)",
+   "playerName": "Leo Coly",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 5,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1908664",
+   "minute": 3,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Robert du Preez",
+   "detail": "Conversion (7-0)",
+   "playerName": "Robert du Preez",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 7,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1908668",
+   "minute": 9,
+   "period": "1H",
+   "type": "penalty_goal_made",
+   "team": "home",
+   "player": "Robert du Preez",
+   "detail": "Penalty (10-0)",
+   "playerName": "Robert du Preez",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 10,
+    "away": 0
+   }
+  },
+  {
+   "id": "espn-1908678",
+   "minute": 15,
+   "period": "1H",
+   "type": "try",
+   "team": "away",
+   "player": "Colin Dupuy",
+   "detail": "Try (10-5)",
+   "playerName": "Colin Dupuy",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 10,
+    "away": 5
+   }
+  },
+  {
+   "id": "espn-1908679",
+   "minute": 15,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Theo Vidal",
+   "detail": "Conversion (10-7)",
+   "playerName": "Theo Vidal",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 10,
+    "away": 7
+   }
+  }
+ ],
+ "score_source": "espn_scoreboard",
+ "score": {
+  "home": 10,
+  "away": 7
+ },
+ "plays_summed": {
+  "home": 10,
+  "away": 7
+ }
+}
