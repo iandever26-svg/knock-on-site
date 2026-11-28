@@ -1,7 +1,30 @@
 {
  "schema_version": "1.0.0",
- "generatedAt": "2026-11-28T00:32:09.069Z",
- "updatedAt": "2026-11-28T00:32:09.069Z",
+ "generatedAt": "2026-11-28T13:33:47.660Z",
+ "updatedAt": "2026-11-28T13:33:47.660Z",
  "note": "ESPN-sourced; may lag",
- "scores": []
+ "scores": [
+  {
+   "schema_version": "1.0.0",
+   "match_id": "top14-2026-11-28-ubb-mon",
+   "status": "live",
+   "home_score": 0,
+   "away_score": 0,
+   "clock": null,
+   "period": "1H",
+   "updated_at": "2026-11-28T13:33:47.660Z",
+   "provenance": [
+    {
+     "source_name": "espn",
+     "url": "https://site.api.espn.com/apis/site/v2/sports/rugby/270559/scoreboard",
+     "fetched_at": "2026-11-28T13:33:47.660Z",
+     "espn_event_id": "604425",
+     "may_lag": true,
+     "espn_display_clock": "1'",
+     "espn_clock_seconds": 0,
+     "espn_period": 1
+    }
+   ]
+  }
+ ]
 }
