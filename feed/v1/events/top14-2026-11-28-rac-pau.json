@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-rac-pau",
  "matchId": "top14-2026-11-28-rac-pau",
- "updated_at": "2026-11-28T17:10:59.292Z",
+ "updated_at": "2026-11-28T17:32:37.142Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604430/competitions/604430/plays?limit=400",
-   "fetched_at": "2026-11-28T17:10:59.292Z",
+   "fetched_at": "2026-11-28T17:32:37.142Z",
    "espn_event_id": "604430",
    "espn_league_id": 270559
   }
@@ -223,6 +223,18 @@
    }
   },
   {
+   "id": "espn-1909006",
+   "minute": 50,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Axel Desperes",
+   "detail": "replaces Jack Maddocks",
+   "playerOn": "Axel Desperes",
+   "playerOff": "Jack Maddocks",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1908838",
    "minute": 50,
    "period": "2H",
@@ -334,7 +346,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1908992",
+   "id": "espn-1909022",
    "minute": 62,
    "period": "2H",
    "type": "substitution",
@@ -344,15 +356,138 @@
    "playerOn": "Thomas Lainault",
    "playerOff": "Romain Taofifenua",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1909076",
+   "minute": 65,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Liam Couturier",
+   "detail": "replaces Edouard-Junior Jabea Njocke",
+   "playerOn": "Liam Couturier",
+   "playerOff": "Edouard-Junior Jabea Njocke",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909070",
+   "minute": 67,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Gia Kharaishvili",
+   "detail": "Try (27-20)",
+   "playerName": "Gia Kharaishvili",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1909071",
+   "minute": 68,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Antoine Gibert",
+   "detail": "Conversion (29-20)",
+   "playerName": "Antoine Gibert",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 29,
+    "away": 20
+   }
+  },
+  {
+   "id": "espn-1909104",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Daniel Bibi Biziwu",
+   "detail": "replaces Hugo Parrou",
+   "playerOn": "Daniel Bibi Biziwu",
+   "playerOff": "Hugo Parrou",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909129",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Rodrigo Marta",
+   "detail": "replaces Tumua Manu",
+   "playerOn": "Rodrigo Marta",
+   "playerOff": "Tumua Manu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909135",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Thomas Souverbie",
+   "detail": "replaces Thibault Daubagna",
+   "playerOn": "Thomas Souverbie",
+   "playerOff": "Thibault Daubagna",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909133",
+   "minute": 75,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Hugo Auradou",
+   "detail": "Try (29-25)",
+   "playerName": "Hugo Auradou",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 29,
+    "away": 25
+   }
+  },
+  {
+   "id": "espn-1909134",
+   "minute": 76,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Joe Simmonds",
+   "detail": "Conversion (29-27)",
+   "playerName": "Joe Simmonds",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 29,
+    "away": 27
+   }
+  },
+  {
+   "id": "espn-1909147",
+   "minute": 85,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Youri Delhommel",
+   "detail": "Yellow card (29-27)",
+   "playerName": "Youri Delhommel",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 29,
+    "away": 27
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 22,
-  "away": 20
+  "home": 29,
+  "away": 27
  },
  "plays_summed": {
-  "home": 22,
-  "away": 20
+  "home": 29,
+  "away": 27
  }
 }

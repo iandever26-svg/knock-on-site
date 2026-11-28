@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-bay-cas",
  "matchId": "top14-2026-11-28-bay-cas",
- "updated_at": "2026-11-28T17:10:59.292Z",
- "final": false,
+ "updated_at": "2026-11-28T17:32:37.142Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604424/competitions/604424/plays?limit=400",
-   "fetched_at": "2026-11-28T17:10:59.292Z",
+   "fetched_at": "2026-11-28T17:32:37.142Z",
    "espn_event_id": "604424",
    "espn_league_id": 270559
   }
@@ -187,7 +187,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1908814",
+   "id": "espn-1909091",
    "minute": 51,
    "period": "2H",
    "type": "yellow_card",
@@ -331,6 +331,42 @@
    "label": "Substitution"
   },
   {
+   "id": "espn-1909009",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Louis Le Brun",
+   "detail": "replaces Theo Vidal",
+   "playerOn": "Louis Le Brun",
+   "playerOff": "Theo Vidal",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909034",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Hamish Watson",
+   "detail": "replaces Loris Zarantonello",
+   "playerOn": "Hamish Watson",
+   "playerOff": "Loris Zarantonello",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909043",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Loris Zarantonello",
+   "detail": "replaces Teddy Durand",
+   "playerOn": "Loris Zarantonello",
+   "playerOff": "Teddy Durand",
+   "label": "Substitution"
+  },
+  {
    "id": "espn-1908951",
    "minute": 63,
    "period": "2H",
@@ -343,19 +379,7 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1908953",
-   "minute": 63,
-   "period": "2H",
-   "type": "substitution",
-   "team": "away",
-   "player": "Louis Le Brun",
-   "detail": "replaces Theo Vidal",
-   "playerOn": "Louis Le Brun",
-   "playerOff": "Theo Vidal",
-   "label": "Substitution"
-  },
-  {
-   "id": "espn-1908981",
+   "id": "espn-1909062",
    "minute": 64,
    "period": "2H",
    "type": "yellow_card",
@@ -370,6 +394,161 @@
    }
   },
   {
+   "id": "espn-1909058",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Brian Alainu'uese",
+   "detail": "replaces Ewan Johnson",
+   "playerOn": "Brian Alainu'uese",
+   "playerOff": "Ewan Johnson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909074",
+   "minute": 64,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": null,
+   "detail": "replaces Ewan Johnson",
+   "playerOff": "Ewan Johnson",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909138",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ignacio Calles",
+   "detail": "replaces Lucas Martin",
+   "playerOn": "Ignacio Calles",
+   "playerOff": "Lucas Martin",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909110",
+   "minute": 66,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Emerick Setiano",
+   "detail": "replaces Madosh Tambwe",
+   "playerOn": "Emerick Setiano",
+   "playerOff": "Madosh Tambwe",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909141",
+   "minute": 68,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Christian Ambadiang",
+   "detail": "replaces Adam Vargas",
+   "playerOn": "Christian Ambadiang",
+   "playerOff": "Adam Vargas",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909143",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Baptiste Heguy",
+   "detail": "replaces Alexandre Fischer",
+   "playerOn": "Baptiste Heguy",
+   "playerOff": "Alexandre Fischer",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909145",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Cheikh Tiberghien",
+   "detail": "replaces Manu Tuilagi",
+   "playerOn": "Cheikh Tiberghien",
+   "playerOff": "Manu Tuilagi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909153",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lucas Martin",
+   "detail": "replaces Emerick Setiano",
+   "playerOn": "Lucas Martin",
+   "playerOff": "Emerick Setiano",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909155",
+   "minute": 74,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Killian Geraci",
+   "detail": "Try (32-7)",
+   "playerName": "Killian Geraci",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 32,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1909156",
+   "minute": 75,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Robert du Preez",
+   "detail": "Conversion (34-7)",
+   "playerName": "Robert du Preez",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 34,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1909157",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Mathieu Babillot",
+   "detail": "Try (34-12)",
+   "playerName": "Mathieu Babillot",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 34,
+    "away": 12
+   }
+  },
+  {
+   "id": "espn-1909157-cm",
+   "minute": 79,
+   "period": "2H",
+   "type": "conversion_missed",
+   "team": "away",
+   "player": null,
+   "detail": "Conversion missed (inferred) (34-12)",
+   "label": "Conversion missed",
+   "inferred": true,
+   "scoreAfter": {
+    "home": 34,
+    "away": 12
+   }
+  },
+  {
    "id": "inferred-pt-home-1",
    "minute": 0,
    "minuteKnown": false,
@@ -379,21 +558,21 @@
    "player": null,
    "inferred": true,
    "label": "Penalty try",
-   "detail": "Penalty try (inferred, minute unknown) (34-7)",
+   "detail": "Penalty try (inferred, minute unknown) (41-12)",
    "scoreAfter": {
-    "home": 34,
-    "away": 7
+    "home": 41,
+    "away": 12
    }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 34,
-  "away": 7
+  "home": 41,
+  "away": 12
  },
  "plays_summed": {
-  "home": 27,
-  "away": 7
+  "home": 34,
+  "away": 12
  },
  "inferred_penalty_tries": [
   {

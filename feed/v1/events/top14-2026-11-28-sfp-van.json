@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-sfp-van",
  "matchId": "top14-2026-11-28-sfp-van",
- "updated_at": "2026-11-28T17:10:59.292Z",
- "final": false,
+ "updated_at": "2026-11-28T17:32:37.142Z",
+ "final": true,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604429/competitions/604429/plays?limit=400",
-   "fetched_at": "2026-11-28T17:10:59.292Z",
+   "fetched_at": "2026-11-28T17:32:37.142Z",
    "espn_event_id": "604429",
    "espn_league_id": 270559
   }
@@ -311,8 +311,8 @@
    "label": "Substitution"
   },
   {
-   "id": "espn-1908977",
-   "minute": 67,
+   "id": "espn-1909004",
+   "minute": 64,
    "period": "2H",
    "type": "substitution",
    "team": "home",
@@ -321,15 +321,191 @@
    "playerOn": "Alvaro Garcia",
    "playerOff": "Tomasi Maka",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1909036",
+   "minute": 68,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Tani Vili",
+   "detail": "Try (19-18)",
+   "playerName": "Tani Vili",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1909037",
+   "minute": 69,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Louis Carbonel",
+   "detail": "Conversion (21-18)",
+   "playerName": "Louis Carbonel",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 18
+   }
+  },
+  {
+   "id": "espn-1909082",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Murray Taulagi",
+   "detail": "replaces Nathanael Hulleu",
+   "playerOn": "Murray Taulagi",
+   "playerOff": "Nathanael Hulleu",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909038",
+   "minute": 69,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Jack Iscaro",
+   "detail": "replaces Sergo Abramishvili",
+   "playerOn": "Jack Iscaro",
+   "playerOff": "Sergo Abramishvili",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909086",
+   "minute": 70,
+   "period": "2H",
+   "type": "penalty_goal_made",
+   "team": "away",
+   "player": "Jean Cotarmanac'h",
+   "detail": "Penalty (21-21)",
+   "playerName": "Jean Cotarmanac'h",
+   "label": "Penalty",
+   "scoreAfter": {
+    "home": 21,
+    "away": 21
+   }
+  },
+  {
+   "id": "espn-1909087",
+   "minute": 71,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Romain Valentin",
+   "detail": "replaces Michael Ruru",
+   "playerOn": "Romain Valentin",
+   "playerOff": "Michael Ruru",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909092",
+   "minute": 73,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Tani Vili",
+   "detail": "Try (26-21)",
+   "playerName": "Tani Vili",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 26,
+    "away": 21
+   }
+  },
+  {
+   "id": "espn-1909125",
+   "minute": 74,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Louis Carbonel",
+   "detail": "Conversion (28-21)",
+   "playerName": "Louis Carbonel",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 21
+   }
+  },
+  {
+   "id": "espn-1909094",
+   "minute": 75,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Marin Boulier",
+   "detail": "replaces Pierre Boudehent",
+   "playerOn": "Marin Boulier",
+   "playerOff": "Pierre Boudehent",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909114",
+   "minute": 75,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": null,
+   "detail": "replaces Pierre Boudehent",
+   "playerOff": "Pierre Boudehent",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909108",
+   "minute": 79,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Matias Alemanno",
+   "detail": "Try (28-26)",
+   "playerName": "Matias Alemanno",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 28,
+    "away": 26
+   }
+  },
+  {
+   "id": "espn-1909119",
+   "minute": 80,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Jean Cotarmanac'h",
+   "detail": "Conversion (28-28)",
+   "playerName": "Jean Cotarmanac'h",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 28,
+    "away": 28
+   }
+  },
+  {
+   "id": "espn-1909126",
+   "minute": 81,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ryan Chapuis",
+   "detail": "replaces Yoan Tanga",
+   "playerOn": "Ryan Chapuis",
+   "playerOff": "Yoan Tanga",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
-  "away": 18
+  "home": 28,
+  "away": 28
  },
  "plays_summed": {
-  "home": 14,
-  "away": 18
+  "home": 28,
+  "away": 28
  }
 }

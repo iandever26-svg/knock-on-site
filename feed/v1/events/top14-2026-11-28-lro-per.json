@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-lro-per",
  "matchId": "top14-2026-11-28-lro-per",
- "updated_at": "2026-11-28T17:10:59.292Z",
+ "updated_at": "2026-11-28T17:32:37.142Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604427/competitions/604427/plays?limit=400",
-   "fetched_at": "2026-11-28T17:10:59.292Z",
+   "fetched_at": "2026-11-28T17:32:37.142Z",
    "espn_event_id": "604427",
    "espn_league_id": 270559
   }
@@ -389,15 +389,141 @@
    "playerOn": "Luke McGrath",
    "playerOff": "Tom Ecochard",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1909012",
+   "minute": 61,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Noe Della Schiava",
+   "detail": "replaces Jules Coulon",
+   "playerOn": "Noe Della Schiava",
+   "playerOff": "Jules Coulon",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909056",
+   "minute": 64,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Davit Niniashvili",
+   "detail": "Yellow card (27-16)",
+   "playerName": "Davit Niniashvili",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 27,
+    "away": 16
+   }
+  },
+  {
+   "id": "espn-1909052",
+   "minute": 65,
+   "period": "2H",
+   "type": "try",
+   "team": "away",
+   "player": "Lorencio Boyer Gallardo",
+   "detail": "Try (27-21)",
+   "playerName": "Lorencio Boyer Gallardo",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 21
+   }
+  },
+  {
+   "id": "espn-1909053",
+   "minute": 65,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "away",
+   "player": "Antoine Aucagne",
+   "detail": "Conversion (27-23)",
+   "playerName": "Antoine Aucagne",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 27,
+    "away": 23
+   }
+  },
+  {
+   "id": "espn-1909100",
+   "minute": 68,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Luke McGrath",
+   "detail": "Yellow card (27-23)",
+   "playerName": "Luke McGrath",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 27,
+    "away": 23
+   }
+  },
+  {
+   "id": "espn-1909122",
+   "minute": 69,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Andy Timo",
+   "detail": "Try (32-23)",
+   "playerName": "Andy Timo",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 32,
+    "away": 23
+   }
+  },
+  {
+   "id": "espn-1909109",
+   "minute": 69,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Sacha Elissalde",
+   "detail": "Conversion (34-23)",
+   "playerName": "Sacha Elissalde",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 34,
+    "away": 23
+   }
+  },
+  {
+   "id": "espn-1909123",
+   "minute": 70,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Aleksandre Kuntelia",
+   "detail": "replaces Thomas Adelaide",
+   "playerOn": "Aleksandre Kuntelia",
+   "playerOff": "Thomas Adelaide",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1909158",
+   "minute": 75,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Tevita Ofa",
+   "detail": "replaces Sacha Elissalde",
+   "playerOn": "Tevita Ofa",
+   "playerOff": "Sacha Elissalde",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 27,
-  "away": 16
+  "home": 34,
+  "away": 23
  },
  "plays_summed": {
-  "home": 27,
-  "away": 16
+  "home": 34,
+  "away": 23
  }
 }
