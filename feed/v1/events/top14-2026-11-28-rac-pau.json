@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-rac-pau",
  "matchId": "top14-2026-11-28-rac-pau",
- "updated_at": "2026-11-28T17:05:44.943Z",
+ "updated_at": "2026-11-28T17:10:59.292Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604430/competitions/604430/plays?limit=400",
-   "fetched_at": "2026-11-28T17:05:44.943Z",
+   "fetched_at": "2026-11-28T17:10:59.292Z",
    "espn_event_id": "604430",
    "espn_league_id": 270559
   }
@@ -319,6 +319,30 @@
    "detail": "replaces Baptiste Pesenti",
    "playerOn": "Facundo Isa",
    "playerOff": "Baptiste Pesenti",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908988",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Ugo Seunes",
+   "detail": "replaces Maxime Machenaud",
+   "playerOn": "Ugo Seunes",
+   "playerOff": "Maxime Machenaud",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908992",
+   "minute": 62,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Thomas Lainault",
+   "detail": "replaces Romain Taofifenua",
+   "playerOn": "Thomas Lainault",
+   "playerOff": "Romain Taofifenua",
    "label": "Substitution"
   }
  ],

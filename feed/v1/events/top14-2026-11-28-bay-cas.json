@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-bay-cas",
  "matchId": "top14-2026-11-28-bay-cas",
- "updated_at": "2026-11-28T17:05:44.943Z",
+ "updated_at": "2026-11-28T17:10:59.292Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604424/competitions/604424/plays?limit=400",
-   "fetched_at": "2026-11-28T17:05:44.943Z",
+   "fetched_at": "2026-11-28T17:10:59.292Z",
    "espn_event_id": "604424",
    "espn_league_id": 270559
   }
@@ -301,6 +301,69 @@
    "detail": "Try (27-7)",
    "playerName": "Madosh Tambwe",
    "label": "Try",
+   "scoreAfter": {
+    "home": 27,
+    "away": 7
+   }
+  },
+  {
+   "id": "espn-1908996",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Baptiste Tilloles",
+   "detail": "replaces Leo Coly",
+   "playerOn": "Baptiste Tilloles",
+   "playerOff": "Leo Coly",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908994",
+   "minute": 60,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Giovanni Habel-Kueffner",
+   "detail": "replaces Rodrigo Bruni",
+   "playerOn": "Giovanni Habel-Kueffner",
+   "playerOff": "Rodrigo Bruni",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908951",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Chris Gabriel",
+   "detail": "replaces Veresa Ramototabua",
+   "playerOn": "Chris Gabriel",
+   "playerOff": "Veresa Ramototabua",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908953",
+   "minute": 63,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Louis Le Brun",
+   "detail": "replaces Theo Vidal",
+   "playerOn": "Louis Le Brun",
+   "playerOff": "Theo Vidal",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908981",
+   "minute": 64,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "home",
+   "player": "Lasha Macharashvili",
+   "detail": "Yellow card (27-7)",
+   "playerName": "Lasha Macharashvili",
+   "label": "Yellow card",
    "scoreAfter": {
     "home": 27,
     "away": 7
