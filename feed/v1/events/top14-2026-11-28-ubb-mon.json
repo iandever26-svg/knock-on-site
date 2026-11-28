@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-ubb-mon",
  "matchId": "top14-2026-11-28-ubb-mon",
- "updated_at": "2026-11-28T14:21:10.894Z",
+ "updated_at": "2026-11-28T14:37:18.771Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604425/competitions/604425/plays?limit=400",
-   "fetched_at": "2026-11-28T14:21:10.894Z",
+   "fetched_at": "2026-11-28T14:37:18.771Z",
    "espn_event_id": "604425",
    "espn_league_id": 270559
   }
@@ -173,15 +173,45 @@
     "home": 19,
     "away": 3
    }
+  },
+  {
+   "id": "espn-1908583",
+   "minute": 42,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Xan Mousques",
+   "detail": "Try (24-3)",
+   "playerName": "Xan Mousques",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 24,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908584",
+   "minute": 43,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Arthur Retiere",
+   "detail": "Conversion (26-3)",
+   "playerName": "Arthur Retiere",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 26,
+    "away": 3
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 19,
+  "home": 26,
   "away": 3
  },
  "plays_summed": {
-  "home": 19,
+  "home": 26,
   "away": 3
  }
 }
