@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-ubb-mon",
  "matchId": "top14-2026-11-28-ubb-mon",
- "updated_at": "2026-11-28T14:49:52.630Z",
+ "updated_at": "2026-11-28T15:00:56.158Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604425/competitions/604425/plays?limit=400",
-   "fetched_at": "2026-11-28T14:49:52.630Z",
+   "fetched_at": "2026-11-28T15:00:56.158Z",
    "espn_event_id": "604425",
    "espn_league_id": 270559
   }
@@ -266,15 +266,144 @@
    "playerOn": "Auguste Cadot",
    "playerOff": "Lennox Anyanwu",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1908621",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Lasha Pkhakadze",
+   "detail": "replaces Matis Perchaud",
+   "playerOn": "Lasha Pkhakadze",
+   "playerOff": "Matis Perchaud",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908623",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Alex Moon",
+   "detail": "replaces Cyril Cazeaux",
+   "playerOn": "Alex Moon",
+   "playerOff": "Cyril Cazeaux",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908625",
+   "minute": 54,
+   "period": "2H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Temo Matiu",
+   "detail": "replaces Elyjah Ibsaiene",
+   "playerOn": "Temo Matiu",
+   "playerOff": "Elyjah Ibsaiene",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908627",
+   "minute": 55,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Lennox Anyanwu",
+   "detail": "replaces Auguste Cadot",
+   "playerOn": "Lennox Anyanwu",
+   "playerOff": "Auguste Cadot",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908629",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Luca Tabarot",
+   "detail": "replaces Lyam Akrab",
+   "playerOn": "Luca Tabarot",
+   "playerOff": "Lyam Akrab",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908632",
+   "minute": 56,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Yacouba Camara",
+   "detail": "replaces Lenni Nouchi",
+   "playerOn": "Yacouba Camara",
+   "playerOff": "Lenni Nouchi",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908635",
+   "minute": 58,
+   "period": "2H",
+   "type": "yellow_card",
+   "team": "away",
+   "player": "Luca Tabarot",
+   "detail": "Yellow card (26-3)",
+   "playerName": "Luca Tabarot",
+   "label": "Yellow card",
+   "scoreAfter": {
+    "home": 26,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908637",
+   "minute": 58,
+   "period": "2H",
+   "type": "substitution",
+   "team": "away",
+   "player": "Sebastien Bezy",
+   "detail": "replaces Alexis Bernadet",
+   "playerOn": "Sebastien Bezy",
+   "playerOff": "Alexis Bernadet",
+   "label": "Substitution"
+  },
+  {
+   "id": "espn-1908636",
+   "minute": 59,
+   "period": "2H",
+   "type": "try",
+   "team": "home",
+   "player": "Arthur Retiere",
+   "detail": "Try (31-3)",
+   "playerName": "Arthur Retiere",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 31,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1908639",
+   "minute": 60,
+   "period": "2H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Arthur Retiere",
+   "detail": "Conversion (33-3)",
+   "playerName": "Arthur Retiere",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 33,
+    "away": 3
+   }
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 26,
+  "home": 33,
   "away": 3
  },
  "plays_summed": {
-  "home": 26,
+  "home": 33,
   "away": 3
  }
 }
