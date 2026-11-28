@@ -2,14 +2,14 @@
  "schema_version": "1.0.0",
  "match_id": "top14-2026-11-28-lyo-tou",
  "matchId": "top14-2026-11-28-lyo-tou",
- "updated_at": "2026-11-28T20:21:17.500Z",
+ "updated_at": "2026-11-28T20:38:39.452Z",
  "final": false,
  "scores_verified": true,
  "provenance": [
   {
    "source_name": "espn_core_api",
    "url": "https://sports.core.api.espn.com/v2/sports/rugby/leagues/270559/events/604428/competitions/604428/plays?limit=400",
-   "fetched_at": "2026-11-28T20:21:17.500Z",
+   "fetched_at": "2026-11-28T20:38:39.452Z",
    "espn_event_id": "604428",
    "espn_league_id": 270559
   }
@@ -61,7 +61,7 @@
    }
   },
   {
-   "id": "espn-1909240",
+   "id": "espn-1909251",
    "minute": 13,
    "period": "1H",
    "type": "try",
@@ -91,7 +91,7 @@
    }
   },
   {
-   "id": "espn-1909249",
+   "id": "espn-1909252",
    "minute": 15,
    "period": "1H",
    "type": "substitution",
@@ -101,15 +101,57 @@
    "playerOn": "Lucien Richardis",
    "playerOff": "Valentin Delpy",
    "label": "Substitution"
+  },
+  {
+   "id": "espn-1909256",
+   "minute": 27,
+   "period": "1H",
+   "type": "try",
+   "team": "home",
+   "player": "Arthur Mathiron",
+   "detail": "Try (19-3)",
+   "playerName": "Arthur Mathiron",
+   "label": "Try",
+   "scoreAfter": {
+    "home": 19,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1909257",
+   "minute": 28,
+   "period": "1H",
+   "type": "conversion_made",
+   "team": "home",
+   "player": "Leo Berdeu",
+   "detail": "Conversion (21-3)",
+   "playerName": "Leo Berdeu",
+   "label": "Conversion",
+   "scoreAfter": {
+    "home": 21,
+    "away": 3
+   }
+  },
+  {
+   "id": "espn-1909260",
+   "minute": 28,
+   "period": "1H",
+   "type": "substitution",
+   "team": "home",
+   "player": "Theo William",
+   "detail": "replaces Fousseynou Cissokho",
+   "playerOn": "Theo William",
+   "playerOff": "Fousseynou Cissokho",
+   "label": "Substitution"
   }
  ],
  "score_source": "espn_scoreboard",
  "score": {
-  "home": 14,
+  "home": 21,
   "away": 3
  },
  "plays_summed": {
-  "home": 14,
+  "home": 21,
   "away": 3
  }
 }
